@@ -34,7 +34,7 @@
 		<Entry Key="DES_TAG_MAX_HEALTH_PHYSICAL_DES" Val="A quantidade máxima de Saúde que o personagem pode ter. 1 ponto de saúde é recuperado a cada turno, a taxa de regeneração pode ser aumentada acampando ou visitando uma cabana de curandeiro. Saúde abaixo de 30% representa um risco de morte."></Entry>
 		<Entry Key="DES_TAG_MAX_HEALTH_MENTAL" Val="Sanidade máxima"></Entry>
 		<Entry Key="DES_TAG_MAX_HEALTH_MENTAL_DES" Val="A quantidade máxima de Sanidade que o personagem pode ter. A regeneração de cada ponto de Sanidade consome 2 de Moral, até 20% da Sanidade máxima por turno. Sanidade abaixo de 30% representa um risco do personagem deixar seu grupo."></Entry>
-		<Entry Key="DES_TAG_MAX_HEALTH_SPIRITUAL" Val="Max Faith"></Entry>
+		<Entry Key="DES_TAG_MAX_HEALTH_SPIRITUAL" Val="Fé máxima"></Entry>
 		<Entry Key="DES_TAG_MAX_HEALTH_SPIRITUAL_DES" Val="A quantidade máxima de Fé que o personagem pode ter. 1 ponto de Fé é recuperado a cada turno, mas você também pode realizar o ritual de Cura Espiritual. Fé abaixo de 30% causa perda gradual de Saúde."></Entry>
 		<Entry Key="DES_TAG_SHIELDING" Val="Blindagem"></Entry>
 		<Entry Key="DES_TAG_SHIELDING_DES" Val="A quantidade de proteção renovável que o personagem tem durante um desafio."></Entry>
@@ -221,7 +221,7 @@
 		<Entry Key="DES_TAG_DAMAGE_BUILDING_GATHERING_RANGE" Val="Gama de coleta"></Entry>
 		<Entry Key="DES_TAG_DAMAGE_BUILDING_GATHERING_RANGE_DES" Val="Os trabalhadores poderão realizar a coleta em ladrilhos mais distantes da aldeia."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_BUILDING_CRAFTING_SLOTS" Val="Espaços extras de artesanato"></Entry>
-		<Entry Key="DES_TAG_DAMAGE_BUILDING_CRAFTING_SLOTS_DES" Val="Aumenta o número de slots nas tarefas de Crafting."></Entry>
+		<Entry Key="DES_TAG_DAMAGE_BUILDING_CRAFTING_SLOTS_DES" Val="Aumenta o número de slots nas tarefas de Construção."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_BUILDING_GATHERING_SLOTS" Val="Slots Extras de Coleta"></Entry>
 		<Entry Key="DES_TAG_DAMAGE_BUILDING_GATHERING_SLOTS_DES" Val="Aumenta o número de slots em tarefas de coleta."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_BUILDING_RESEARCH_SLOTS" Val="Espaços de pesquisa extras"></Entry>
@@ -313,7 +313,7 @@
 		<Entry Key="DES_TAG_DAMAGE_ADD_RITUALS" Val="Aumentar Rituais"></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ADD_RITUALS_DES" Val="Fornece um bônus para o atributo Rituais."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ADD_CRAFTING" Val="Aumentar a Criação"></Entry>
-		<Entry Key="DES_TAG_DAMAGE_ADD_CRAFTING_DES" Val="Fornece um bônus ao atributo Crafting."></Entry>
+		<Entry Key="DES_TAG_DAMAGE_ADD_CRAFTING_DES" Val="Fornece um bônus ao atributo Construção."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ADD_TASK_EFFICIENCY" Val="Eficiência da Tarefa"></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ADD_TASK_EFFICIENCY_DES" Val="Fornece um bônus para os atributos de Coleta, Criação, Sorte, Pesquisa e Rituais."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ADD_PERSONAL_CARRY" Val="Aumentar o transporte pessoal"></Entry>
@@ -369,11 +369,11 @@
 		<Entry Key="DES_TAG_DAMAGE_SUB_DESTINY" Val="Diminuir Destino"></Entry>
 		<Entry Key="DES_TAG_DAMAGE_SUB_DESTINY_DES" Val="Abaixe o atributo Destino."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_SUB_GATHERING" Val="Diminuir Coleta"></Entry>
-		<Entry Key="DES_TAG_DAMAGE_SUB_GATHERING_DES" Val="Abaixe o atributo Gathering."></Entry>
-		<Entry Key="DES_TAG_DAMAGE_SUB_CRAFTING" Val="Diminuir Crafting"></Entry>
-		<Entry Key="DES_TAG_DAMAGE_SUB_CRAFTING_DES" Val="Diminua o atributo Crafting."></Entry>
+		<Entry Key="DES_TAG_DAMAGE_SUB_GATHERING_DES" Val="Abaixe o atributo Coleta."></Entry>
+		<Entry Key="DES_TAG_DAMAGE_SUB_CRAFTING" Val="Diminuir construção"></Entry>
+		<Entry Key="DES_TAG_DAMAGE_SUB_CRAFTING_DES" Val="Diminua o atributo construção."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_SUB_RESEARCH" Val="Diminuir Pesquisa"></Entry>
-		<Entry Key="DES_TAG_DAMAGE_SUB_RESEARCH_DES" Val="Diminua o atributo Crafting."></Entry>
+		<Entry Key="DES_TAG_DAMAGE_SUB_RESEARCH_DES" Val="Diminua o atributo Construção."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_SUB_PERSONAL_CARRY" Val="Diminuir o transporte pessoal"></Entry>
 		<Entry Key="DES_TAG_DAMAGE_SUB_PERSONAL_CARRY_DES" Val="Abaixe o atributo Carry Pessoal."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_SUB_GROUP_CARRY" Val="Diminuir Transporte de Grupo"></Entry>
@@ -2440,7 +2440,7 @@
 		<Entry Key="DES_SKILL_JEWELLERY_GATHERING" Val="Coletando Jóia"></Entry>
 		<Entry Key="DES_SKILL_JEWELLERY_GATHERING_DES" Val="Um brilho que aumenta o atributo Gathering."></Entry>
 		<Entry Key="DES_SKILL_JEWELLERY_CRAFTING" Val="Criação de joias"></Entry>
-		<Entry Key="DES_SKILL_JEWELLERY_CRAFTING_DES" Val="Um brilho que aumenta o atributo Crafting."></Entry>
+		<Entry Key="DES_SKILL_JEWELLERY_CRAFTING_DES" Val="Um brilho que aumenta o atributo Construção."></Entry>
 		<Entry Key="DES_SKILL_JEWELLERY_LULLABYE" Val="Joia Distraída"></Entry>
 		<Entry Key="DES_SKILL_JEWELLERY_LULLABYE_DES" Val="Um brilhante que atrasa os inimigos."></Entry>
 		<Entry Key="DES_SKILL_JEWELLERY_BEAR_SPIRIT" Val="Joia do Espírito Urso"></Entry>
@@ -2462,8 +2462,8 @@
 		<Entry Key="DES_SKILL_STRONG_GATHERING_TOOL_DES" Val="Fornece um bônus aos atributos de Coleta e Transporte Pessoal quando equipado."></Entry>
 		<Entry Key="DES_SKILL_WEAK_MULTI_CRAFTING_TOOL" Val=""></Entry>
 		<Entry Key="DES_SKILL_WEAK_ADD_CRAFTING_TOOL" Val=""></Entry>
-		<Entry Key="DES_SKILL_WEAK_CRAFTING_TOOL_DES" Val="Fornece um bônus ao atributo Crafting quando equipado."></Entry>
-		<Entry Key="DES_SKILL_WEAK_ADD_CRAFTING_TOOL_DES" Val="Fornece um bônus ao atributo Crafting quando equipado."></Entry>
+		<Entry Key="DES_SKILL_WEAK_CRAFTING_TOOL_DES" Val="Fornece um bônus ao atributo Construção quando equipado."></Entry>
+		<Entry Key="DES_SKILL_WEAK_ADD_CRAFTING_TOOL_DES" Val="Fornece um bônus ao atributo Construção quando equipado."></Entry>
 		<Entry Key="DES_SKILL_CRAFTING_TOOL" Val="Ajuda do inventor"></Entry>
 		<Entry Key="DES_SKILL_CRAFTING_TOOL_DES" Val="Fornece um bônus aos atributos de Criação e Pesquisa quando equipado. Também aumenta a regeneração de Sanidade."></Entry>
 		<Entry Key="DES_SKILL_STRONG_CRAFTING_TOOL" Val="Auxílio ao Trabalhador"></Entry>
@@ -2527,7 +2527,7 @@
 		<Entry Key="DES_SKILL_GATHERER" Val="Coletor"></Entry>
 		<Entry Key="DES_SKILL_GATHERER_DES" Val="Este personagem tem um talento especial para a coleta."></Entry>
 		<Entry Key="DES_SKILL_CRAFTSMAN" Val="Artesão"></Entry>
-		<Entry Key="DES_SKILL_CRAFTSMAN_DES" Val="Este personagem tem um talento especial para Crafting."></Entry>
+		<Entry Key="DES_SKILL_CRAFTSMAN_DES" Val="Este personagem tem um talento especial para Construção."></Entry>
 		<Entry Key="DES_SKILL_LUCK" Val="Boa sorte"></Entry>
 		<Entry Key="DES_SKILL_LUCK_DES" Val="Este personagem tem um talento especial para a Sorte."></Entry>
 		<Entry Key="DES_SKILL_HORN_IMPALE" Val="Empalar chifre"></Entry>
@@ -2843,7 +2843,7 @@
 		<Entry Key="DES_SKILL_SEAL_OF_STRENGTH" Val="Selo de Força"></Entry>
 		<Entry Key="DES_SKILL_SEAL_OF_STRENGTH_DES" Val="O Escolhido foi abençoado com Força aumentada."></Entry>
 		<Entry Key="DES_SKILL_CRAFTERS_FLOCK" Val="Rebanho de Artesãos"></Entry>
-		<Entry Key="DES_SKILL_CRAFTERS_FLOCK_DES" Val="Cada seguidor recebe um bônus no atributo Crafting."></Entry>
+		<Entry Key="DES_SKILL_CRAFTERS_FLOCK_DES" Val="Cada seguidor recebe um bônus no atributo Construção."></Entry>
 		<Entry Key="DES_SKILL_GATHERERS_FLOCK" Val="Rebanho de Coletores"></Entry>
 		<Entry Key="DES_SKILL_GATHERERS_FLOCK_DES" Val="Cada seguidor recebe um bônus no atributo Gathering."></Entry>
 		<Entry Key="DES_SKILL_TOUGH_GUY" Val="Cara durão"></Entry>
@@ -2958,9 +2958,9 @@
 		<Entry Key="DES_SKILL_EXTRA_STRONG_GATHERING" Val="Encontro Greatly Inc."></Entry>
 		<Entry Key="DES_SKILL_EXTRA_STRONG_GATHERING_DES" Val="Esta habilidade é aplicada por um edifício. Aumenta muito a capacidade de Coleta."></Entry>
 		<Entry Key="DES_SKILL_EXTRA_CRAFTING" Val="Aumentar a Criação"></Entry>
-		<Entry Key="DES_SKILL_EXTRA_CRAFTING_DES" Val="Esta habilidade é aplicada por um edifício. Aumenta a habilidade de Crafting."></Entry>
+		<Entry Key="DES_SKILL_EXTRA_CRAFTING_DES" Val="Esta habilidade é aplicada por um edifício. Aumenta a habilidade de Construção."></Entry>
 		<Entry Key="DES_SKILL_EXTRA_STRONG_CRAFTING" Val="Fabricação Greatly Inc."></Entry>
-		<Entry Key="DES_SKILL_EXTRA_STRONG_CRAFTING_DES" Val="Esta habilidade é aplicada por um edifício. Aumenta muito a habilidade de Crafting."></Entry>
+		<Entry Key="DES_SKILL_EXTRA_STRONG_CRAFTING_DES" Val="Esta habilidade é aplicada por um edifício. Aumenta muito a habilidade de Construção."></Entry>
 		<Entry Key="DES_SKILL_EXTRA_MOVEMENT_RANGE" Val="Aumentar MP"></Entry>
 		<Entry Key="DES_SKILL_EXTRA_MOVEMENT_RANGE_DES" Val="Esta habilidade é aplicada por um edifício. Aumenta os Pontos de Movimento."></Entry>
 		<Entry Key="DES_SKILL_EXTRA_STRONG_MOVEMENT_RANGE" Val="Grandemente Inc. MP"></Entry>
@@ -3250,7 +3250,7 @@
 		<Entry Key="DES_SUBSKILL_ADD_WITS" Val="Aumentar a inteligência"></Entry>
 		<Entry Key="DES_SUBSKILL_ADD_WITS_DES" Val="Aumente o atributo Raciocínio do personagem."></Entry>
 		<Entry Key="DES_SUBSKILL_ADD_CRAFTING" Val="Aumentar a Criação"></Entry>
-		<Entry Key="DES_SUBSKILL_ADD_CRAFTING_DES" Val="Aumente o atributo Crafting do personagem."></Entry>
+		<Entry Key="DES_SUBSKILL_ADD_CRAFTING_DES" Val="Aumente o atributo Construção do personagem."></Entry>
 		<Entry Key="DES_SUBSKILL_ADD_GATHERING" Val="Aumentar a coleta"></Entry>
 		<Entry Key="DES_SUBSKILL_ADD_GATHERING_DES" Val="Aumente o atributo Gathering do personagem."></Entry>
 		<Entry Key="DES_SUBSKILL_ADD_RESEARCH" Val="Aumentar a pesquisa"></Entry>
@@ -3268,7 +3268,7 @@
 		<Entry Key="DES_SUBSKILL_ADD_RITUALS" Val="Aumentar Rituais"></Entry>
 		<Entry Key="DES_SUBSKILL_ADD_RITUALS_DES" Val="Aumente o atributo Rituais do personagem."></Entry>
 		<Entry Key="DES_SUBSKILL_ADD_TASK_EFFICIENCY" Val="Aumente a eficiência da tarefa"></Entry>
-		<Entry Key="DES_SUBSKILL_ADD_TASK_EFFICIENCY_DES" Val="Aumente a eficiência do personagem enquanto trabalha em uma tarefa como Crafting, Gathering, Cooking, Research ou Rituals."></Entry>
+		<Entry Key="DES_SUBSKILL_ADD_TASK_EFFICIENCY_DES" Val="Aumente a eficiência do personagem enquanto trabalha em uma tarefa como Construção, Gathering, Cooking, Research ou Rituals."></Entry>
 		<Entry Key="DES_SUBSKILL_ADD_RANGE_OF_SIGHT" Val="Aumentar o alcance de visão"></Entry>
 		<Entry Key="DES_SUBSKILL_ADD_RANGE_OF_SIGHT_DES" Val="Aumente o alcance de visão do personagem."></Entry>
 		<Entry Key="DES_SUBSKILL_ADD_MOVEMENT" Val="Aumente os Pontos de Movimento"></Entry>
@@ -3293,7 +3293,7 @@
 		<Entry Key="DES_SUBSKILL_SUB_STRENGTH" Val="Diminuir Força"></Entry>
 		<Entry Key="DES_SUBSKILL_SUB_STRENGTH_DES" Val="Diminua o atributo Força do personagem."></Entry>
 		<Entry Key="DES_SUBSKILL_SUB_PERCEPTION" Val="Diminuir Percepção"></Entry>
-		<Entry Key="DES_SUBSKILL_SUB_PERCEPTION_DES" Val="Diminua o atributo Crafting do personagem."></Entry>
+		<Entry Key="DES_SUBSKILL_SUB_PERCEPTION_DES" Val="Diminua o atributo Construção do personagem."></Entry>
 		<Entry Key="DES_SUBSKILL_SUB_INTELLIGENCE" Val="Diminuir Inteligência"></Entry>
 		<Entry Key="DES_SUBSKILL_SUB_INTELLIGENCE_DES" Val="Diminua o atributo Inteligência do personagem."></Entry>
 		<Entry Key="DES_SUBSKILL_SUB_WISDOM" Val="Diminuir Sabedoria"></Entry>
@@ -3304,8 +3304,8 @@
 		<Entry Key="DES_SUBSKILL_SUB_DESTINY_DES" Val="Diminua o atributo Destiny do personagem."></Entry>
 		<Entry Key="DES_SUBSKILL_SUB_WITS" Val="Diminuir o raciocínio"></Entry>
 		<Entry Key="DES_SUBSKILL_SUB_WITS_DES" Val="Diminua o atributo Raciocínio do personagem."></Entry>
-		<Entry Key="DES_SUBSKILL_SUB_CRAFTING" Val="Diminuir Crafting"></Entry>
-		<Entry Key="DES_SUBSKILL_SUB_CRAFTING_DES" Val="Diminua o atributo Crafting do personagem."></Entry>
+		<Entry Key="DES_SUBSKILL_SUB_CRAFTING" Val="Diminuir Construção"></Entry>
+		<Entry Key="DES_SUBSKILL_SUB_CRAFTING_DES" Val="Diminua o atributo Construção do personagem."></Entry>
 		<Entry Key="DES_SUBSKILL_SUB_GATHERING" Val="Diminuir Coleta"></Entry>
 		<Entry Key="DES_SUBSKILL_SUB_GATHERING_DES" Val="Diminua o atributo Gathering do personagem."></Entry>
 		<Entry Key="DES_SUBSKILL_SUB_RESEARCH" Val="Diminuir Pesquisa"></Entry>
@@ -3576,7 +3576,7 @@
 		<Entry Key="DES_SUBSKILL_BUILDING_ADD_MOVEMENT" Val="Aumente os Pontos de Movimento"></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_ADD_MOVEMENT_DES" Val="Aumente o Ponto de Movimento de todos os personagens dentro e ao redor da vila."></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_ADD_CRAFTING" Val="Aumentar a Criação"></Entry>
-		<Entry Key="DES_SUBSKILL_BUILDING_ADD_CRAFTING_DES" Val="Aumente o atributo Crafting de todos os personagens dentro e ao redor da vila."></Entry>
+		<Entry Key="DES_SUBSKILL_BUILDING_ADD_CRAFTING_DES" Val="Aumente o atributo Construção de todos os personagens dentro e ao redor da vila."></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_ADD_CRAFTING_SLOTS" Val="Espaços extras de artesanato"></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_ADD_CRAFTING_SLOTS_DES" Val="Aumente o número de slots de criação para que mais pessoas possam ser atribuídas a cada tarefa de criação."></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_ADD_SHIELDING_P" Val="Aumente a Blindagem Física"></Entry>
@@ -3660,7 +3660,7 @@
 		<Entry Key="DES_SUBSKILL_GROUP_ADD_GATHERING" Val="Bônus de coleta"></Entry>
 		<Entry Key="DES_SUBSKILL_GROUP_ADD_GATHERING_DES" Val="Este personagem recebe um bônus no atributo Coleta de um prédio próximo."></Entry>
 		<Entry Key="DES_SUBSKILL_GROUP_ADD_CRAFTING" Val="Bônus de Criação"></Entry>
-		<Entry Key="DES_SUBSKILL_GROUP_ADD_CRAFTING_DES" Val="Este personagem recebe um bônus no atributo Crafting de uma construção próxima."></Entry>
+		<Entry Key="DES_SUBSKILL_GROUP_ADD_CRAFTING_DES" Val="Este personagem recebe um bônus no atributo Construção de uma construção próxima."></Entry>
 		<Entry Key="DES_SUBSKILL_GROUP_ADD_MOVEMENT" Val="Bônus de Pontos de Movimento"></Entry>
 		<Entry Key="DES_SUBSKILL_GROUP_ADD_MOVEMENT_DES" Val="Este personagem recebe um bônus de Pontos de Movimento de um prédio próximo."></Entry>
 		<Entry Key="DES_SUBSKILL_GROUP_ADD_SHIELDING_P" Val="Bônus de Blindagem Física"></Entry>
@@ -3722,7 +3722,7 @@
 		<Entry Key="DES_RITUAL_HIGHER_EDUCATION" Val="Ensino superior"></Entry>
 		<Entry Key="DES_RITUAL_HIGHER_EDUCATION_DES" Val="Após a conclusão, concede 3 Pontos de Experiência divididos igualmente entre os membros do grupo."></Entry>
 		<Entry Key="DES_RITUAL_FIRE_GIFT" Val="Presente de Fogo"></Entry>
-		<Entry Key="DES_RITUAL_FIRE_GIFT_DES" Val="Após a conclusão, concede +2,5 Crafting, mas -1 Gathering a todos os membros do grupo por 5 turnos."></Entry>
+		<Entry Key="DES_RITUAL_FIRE_GIFT_DES" Val="Após a conclusão, concede +2,5 Construção, mas -1 Gathering a todos os membros do grupo por 5 turnos."></Entry>
 		<Entry Key="DES_RITUAL_SHOULDERS_POWER" Val="Ombros Fortes"></Entry>
 		<Entry Key="DES_RITUAL_SHOULDERS_POWER_DES" Val="Após a conclusão, concede +1,5 Gathering a todos os membros do grupo e +10% Group Carry por 5 turnos."></Entry>
 		<Entry Key="DES_RITUAL_KNOWLEDGE_ARMOR" Val="Armadura do Conhecimento"></Entry>
@@ -3758,7 +3758,7 @@
 		<Entry Key="DES_SUBSKILL_ZORYA_WARCRY" Val="Grito de Guerra de Zorya"></Entry>
 		<Entry Key="DES_SUBSKILL_ZORYA_WARCRY_DES" Val="Toda vez que um personagem inimigo entra no campo de batalha, o atraso desse personagem é reduzido."></Entry>
 		<Entry Key="DES_TRAIT_ANIMAL_PATH" Val="Sentidos Animais"></Entry>
-		<Entry Key="DES_TRAIT_ANIMAL_PATH_DES" Val="Animais, elfos e demônios da floresta que você controla recebem +1 para cada atributo principal. O atributo Crafting é reduzido em 10%, mas o atributo Gathering é aumentado em 10%."></Entry>
+		<Entry Key="DES_TRAIT_ANIMAL_PATH_DES" Val="Animais, elfos e demônios da floresta que você controla recebem +1 para cada atributo principal. O atributo Construção é reduzido em 10%, mas o atributo Gathering é aumentado em 10%."></Entry>
 		<Entry Key="DES_TRAIT_WARCRY" Val="Grito de guerra"></Entry>
 		<Entry Key="DES_TRAIT_WARCRY_DES" Val="Toda vez que um personagem inimigo entra no campo de batalha, o atraso de seus personagens no campo de batalha é reduzido."></Entry>
 		<Entry Key="DES_TRAIT_MUTUAL_LOVE" Val="Amor mútuo"></Entry>
@@ -3770,7 +3770,7 @@
 		<Entry Key="DES_TRAIT_NIGHTMARE_GIFT" Val="Fé Inabalável"></Entry>
 		<Entry Key="DES_TRAIT_NIGHTMARE_GIFT_DES" Val="Seus personagens recebem +1 de regeneração espiritual, 10% de bônus no atributo Rituais, +4 de Escudo Espiritual e você obtém acesso imediato ao ritual da Ponte da Lua."></Entry>
 		<Entry Key="DES_TRAIT_MANY_HAMMERS_ONE_ANVIL" Val="Muitos martelos, uma bigorna"></Entry>
-		<Entry Key="DES_TRAIT_MANY_HAMMERS_ONE_ANVIL_DES" Val="Cada personagem recebe 20% de bônus no atributo Crafting, +4 Health e Sanity, mas o atributo Gathering é reduzido em 10%."></Entry>
+		<Entry Key="DES_TRAIT_MANY_HAMMERS_ONE_ANVIL_DES" Val="Cada personagem recebe 20% de bônus no atributo Construção, +4 Health e Sanity, mas o atributo Gathering é reduzido em 10%."></Entry>
 		<Entry Key="DES_TRAIT_DIVINE_COMMANDER" Val="Comandante Divino"></Entry>
 		<Entry Key="DES_TRAIT_DIVINE_COMMANDER_DES" Val="No final de cada turno, seus personagens ganham 0,4 Pontos de Experiência. O Escolhido começa com uma habilidade ofensiva especial."></Entry>
 		<Entry Key="DES_TRAIT_IDOL_OF_PAIN" Val="Ainda Não Morto"></Entry>
@@ -4008,7 +4008,7 @@
 		<Entry Key="DES_TOOLTIP_GATHERING" Val="Reunindo (1)"></Entry>
 		<Entry Key="DES_TOOLTIP_GATHERING_DES" Val="Abre o painel de coleta, que permite atribuir trabalhadores a pontos de coleta."></Entry>
 		<Entry Key="DES_TOOLTIP_CRAFTING" Val="Criação (2)"></Entry>
-		<Entry Key="DES_TOOLTIP_CRAFTING_DES" Val="Abre o painel Crafting, que permite adicionar receitas de itens e atribuir trabalhadores a tarefas."></Entry>
+		<Entry Key="DES_TOOLTIP_CRAFTING_DES" Val="Abre o painel Construção, que permite adicionar receitas de itens e atribuir trabalhadores a tarefas."></Entry>
 		<Entry Key="DES_TOOLTIP_COOKING" Val="Cozinhar e Compostos (3)"></Entry>
 		<Entry Key="DES_TOOLTIP_COOKING_DES" Val="Abre o painel Cooking and Composites, que permite adicionar receitas de alimentos e materiais e atribuir tarefas a trabalhadores."></Entry>
 		<Entry Key="DES_TOOLTIP_RESEARCH" Val="Pesquisa (4)"></Entry>
