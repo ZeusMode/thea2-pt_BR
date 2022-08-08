@@ -1,0 +1,2102 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<MODULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Sea Ruins" lastEventIndex="4" allowToUse="true" uniqueModuleID="2147478397">
+  <Adventure name="Water ruins 1" uniqueID="1" seaEvent="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="1" nodeIdMax="84" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="-2" positionY="61" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="322" fromY="-542" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="397" positionY="-53" width="350" height="885">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+          <LogicFilter name="wdemon" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-WATER_DEMON" />
+          </LogicFilter>
+          <LogicFilter name="mag" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-MAGIC_USER" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Procure as áreas do norte." ownerID="2" targetID="3" group="G1" fromX="722" fromY="-544" />
+      <outputs name="Nade para as partes ocidentais." ownerID="2" targetID="68" group="G1" fromX="722" fromY="-624" />
+      <outputs name="Sair." ownerID="2" targetID="70" fromX="722" fromY="-704" />Você encontra os restos de uma estrutura antiga, provavelmente desenterrada pelo Shattering. A maioria das partes não são acessíveis, mas algumas podem ser exploradas.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="3" positionX="852" positionY="126" width="460" height="589">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="50" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="3" targetID="20" group="G1" fromX="1282" fromY="-232" />
+      <outputs ownerID="3" targetID="4" group="G1" fromX="1282" fromY="-312" />
+      <outputs ownerID="3" targetID="14" group="G1" fromX="1282" fromY="-392" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="4" positionX="1409" positionY="439" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="50" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Mergulho." ownerID="4" targetID="5" fromX="1734" fromY="-52" />
+      <outputs name="[Water demon]Swimming in such enclosed, man-made spaces is foul, but it will be easier for you. Mergulho." ownerID="4" targetID="81" fromX="1734" fromY="-132" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1865" positionY="867" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_2P_0M_0S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="6" fromX="2306" fromY="371" />
+      <outputs name="Lose" ownerID="5" targetID="7" fromX="2306" fromY="291" />
+      <outputs name="Surrender" ownerID="5" targetID="7" fromX="2306" fromY="211" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="6" positionX="2442" positionY="1143" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1;2" tag="ITEM_CARGO-ADV_ONE_TOOL" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-ONE_GOLD" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="6" targetID="10" fromX="2767" fromY="651" />You discover the treasure and find your way back up.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="7" positionX="2875" positionY="501" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="7" targetID="8" fromX="3304" fromY="112" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="3445" positionY="717" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="ppl">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="2" tag="SKILL_PACK-ILLNESS" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />It is too dark, and you barely find your way back up.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="3507" positionY="1294" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeSpawnOnMap" ID="10" positionX="2903" positionY="1153" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="10" targetID="9" fromX="3351" fromY="720" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="3860" positionY="635" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="4308" fromY="202" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="4417" positionY="649" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="14" positionX="1864" positionY="86" width="350" height="805">
+      <outputs name="[Craft] Tente descobrir o mecanismo." ownerID="14" targetID="15" group="G1" fromX="2189" fromY="-405" />
+      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />You find a vault, locked by an old mechanism that defies decay -- and likely brawn too. </nodes>
+    <nodes xsi:type="NodeChallenge" ID="15" positionX="2826" positionY="2" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_1M_0S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="craft">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="15" tag="TAG-CRAFTING" />
+          </LogicFilter>
+          <LogicResultAction list="craft">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="15" targetID="54" fromX="3267" fromY="-493" />
+      <outputs name="Lose" ownerID="15" targetID="17" fromX="3267" fromY="-573" />
+      <outputs name="Surrender" ownerID="15" targetID="17" fromX="3267" fromY="-653" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="16" positionX="4999" positionY="72" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-FEW_ADV_METAL" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;10" tag="ITEM_CARGO-FEW_HIGH_RANDOM_STONE" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />You work out the mechanism and get into the vault. Although the structure is very durable, much of the contents have been either taken or destroyed. Still, you find some things that may be of use.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="17" positionX="3913" positionY="-224" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="17" targetID="18" fromX="4342" fromY="-612" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="18" positionX="5521" positionY="-131" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="ppl">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="2" tag="SKILL_PACK-CURSE_M" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Whatever this mechanism is, it scrambles your brains. You leave, confused and tired.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="19" positionX="3358" positionY="-71" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_2M_0S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="craft">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="15" tag="TAG-CRAFTING" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="19" targetID="54" fromX="3799" fromY="-566" />
+      <outputs name="Lose" ownerID="19" targetID="17" fromX="3799" fromY="-646" />
+      <outputs name="Surrender" ownerID="19" targetID="17" fromX="3799" fromY="-726" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="20" positionX="2239" positionY="-630" width="350" height="725">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="15" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;20" tag="---" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;30" tag="ITEM_CARGO-FISH" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />There is nothing but fish and seaweed here.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="54" positionX="4439" positionY="-95" width="460" height="429" sourceGroup="GROUP-DWARVES_6P_5M_2S" cargoPercentage="50">
+      <outputs ownerID="54" targetID="16" fromX="4869" fromY="-453" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="65" positionX="949" positionY="-3424" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="65" targetID="84" fromX="1397" fromY="-3856" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="68" positionX="-282" positionY="-1399" width="460" height="589">
+      <outputs ownerID="68" targetID="20" group="G1" fromX="148" fromY="-1757" />
+      <outputs ownerID="68" targetID="69" group="G1" fromX="148" fromY="-1837" />
+      <outputs ownerID="68" targetID="77" group="G1" fromX="148" fromY="-1917" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="69" positionX="314" positionY="-1573" width="350" height="885">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="40" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Ataque!" ownerID="69" targetID="73" fromX="639" fromY="-2064" />
+      <outputs name="Sair." ownerID="69" targetID="83" fromX="639" fromY="-2144" />
+      <outputs name="[Demônio da água] Nade ao redor das criaturas do mar e roube o que puder." ownerID="69" targetID="71" fromX="639" fromY="-2224" />As ruínas ficaram submersas por muito tempo para conter qualquer coisa de grande valor, mas você identifica alguns materiais em potencial que podem ser recuperados. Há, no entanto, muita vida marinha aqui que você precisa limpar se quiser prosseguir.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="70" positionX="1096" positionY="-1240" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeSpawnOnMap" ID="71" positionX="338" positionY="-2510" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="wdemon">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-FEW_ADV_WOOD" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-HORDE_ADV_STONE" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="71" targetID="72" fromX="786" fromY="-2942" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="72" positionX="958" positionY="-2792" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeChallenge" ID="73" positionX="-517" positionY="-2864" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-SEA_BEAST_2P_1M_1S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="73" targetID="74" fromX="-75" fromY="-3359" />
+      <outputs name="Lose" ownerID="73" targetID="76" fromX="-75" fromY="-3439" />
+      <outputs name="Surrender" ownerID="73" targetID="76" fromX="-75" fromY="-3519" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="74" positionX="91" positionY="-3018" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-FEW_ADV_WOOD" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;10" tag="ITEM_CARGO-FEW_ADV_STONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="8;20" tag="ITEM_CARGO-SEAWEED" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddTagShared" parameter="2" tag="TAG-LOYALTY_WATER_DEMONS" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="74" targetID="65" fromX="416" fromY="-3509" />You defeat the sea creatures and gather the loot.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="76" positionX="457" positionY="-3554" width="350" height="725">
+      <outputs name="Sair." ownerID="76" targetID="65" fromX="782" fromY="-4045" />You are defeated and forced to flee.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="77" positionX="-280" positionY="-2037" width="350" height="805">
+      <outputs name="Ataque!" ownerID="77" targetID="78" fromX="45" fromY="-2528" />
+      <outputs name="Sair." ownerID="77" targetID="83" fromX="45" fromY="-2608" />You discover that the ruins have become a nest of sea creatures. Some of them swim nearby, along with corpses of many warriors who were perhaps lured here by a song of sea demons.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="78" positionX="-1400" positionY="-3054" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-SEA_BEAST_2P_1M_1S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="78" targetID="80" fromX="-958" fromY="-3549" />
+      <outputs name="Lose" ownerID="78" targetID="76" fromX="-958" fromY="-3629" />
+      <outputs name="Surrender" ownerID="78" targetID="76" fromX="-958" fromY="-3709" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="79" positionX="-877" positionY="-3055" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-FEW_ADV_STONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;30" tag="ITEM_CARGO-SEAWEED" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddTagShared" parameter="2" tag="TAG-LOYALTY_WATER_DEMONS" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-P_ADV_ONE_ORC_WEAPON" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="79" targetID="65" fromX="-551" fromY="-3546" />You defeat the sea creatures and gather the loot.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="80" positionX="-486" positionY="-3781" width="460" height="429" sourceGroup="GROUP-ORCS_5P_3M_1S" cargoPercentage="50">
+      <outputs ownerID="80" targetID="79" fromX="-55" fromY="-4139" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="81" positionX="2427" positionY="292" width="350" height="725">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="wdemon">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+          <LogicResultAction list="wdemon">
+            <scriptCallWithTag scriptName="FRA_ChancePlusLuck" parameter="35" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-ONE_SILVER" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1;2" tag="ITEM_CARGO-ADV_ONE_EQUIPMENT" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="81" targetID="10" fromX="2752" fromY="-199" />You discover the treasure and find your way back up.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="82" positionX="1567" positionY="-1829" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeSpawnOnMap" ID="83" positionX="841" positionY="-1876" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="83" targetID="82" fromX="1289" fromY="-2308" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="84" positionX="1505" positionY="-3461" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Water ruins 4" uniqueID="2" seaEvent="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="4" nodeIdMax="84" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="-2" positionY="61" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="322" fromY="-542" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="405" positionY="-177" width="350" height="1046">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+          <LogicFilter name="wdemon" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-WATER_DEMON" />
+          </LogicFilter>
+          <LogicFilter name="mag" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-MAGIC_USER" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Procure as áreas do norte." ownerID="2" targetID="3" group="G1" fromX="730" fromY="-668" />
+      <outputs name="Procure na área leste." ownerID="2" targetID="21" group="G1" fromX="730" fromY="-748" />
+      <outputs name="Nade para as partes ocidentais." ownerID="2" targetID="68" group="G1" fromX="730" fromY="-828" />
+      <outputs name="Investigue a zona sul." ownerID="2" targetID="36" group="G1" fromX="730" fromY="-908" />
+      <outputs name="Sair." ownerID="2" targetID="70" fromX="730" fromY="-988" />You find the remains of an ancient structure, likely unearthed by the Shattering.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="3" positionX="852" positionY="126" width="460" height="589">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="25" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="3" targetID="20" group="G1" fromX="1282" fromY="-232" />
+      <outputs ownerID="3" targetID="4" group="G1" fromX="1282" fromY="-312" />
+      <outputs ownerID="3" targetID="14" group="G1" fromX="1282" fromY="-392" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="4" positionX="1432" positionY="414" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="50" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Mergulho." ownerID="4" targetID="5" fromX="1757" fromY="-77" />
+      <outputs name="[Water demon]Swimming in such enclosed, man-made spaces is foul, but it will be easier for you. Mergulho." ownerID="4" targetID="13" fromX="1757" fromY="-157" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1865" positionY="867" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="81" fromX="2306" fromY="371" />
+      <outputs name="Lose" ownerID="5" targetID="7" fromX="2306" fromY="291" />
+      <outputs name="Surrender" ownerID="5" targetID="7" fromX="2306" fromY="211" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="6" positionX="2943" positionY="1277" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="8;16" tag="ITEM_CARGO-ONE_GOLD" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-STRONG_ONE_ELF_WEAPON" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;2" tag="ITEM_CARGO-STRONG_ONE_JEWELLERY" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="6" targetID="10" fromX="3268" fromY="785" />You discover the treasure and find your way back up.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="7" positionX="2892" positionY="509" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="7" targetID="8" fromX="3321" fromY="120" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="3445" positionY="717" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="ppl">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="2" tag="SKILL_PACK-ILLNESS" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />It is too dark, and you barely find your way back up.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="4082" positionY="1419" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeSpawnOnMap" ID="10" positionX="3423" positionY="1315" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="10" targetID="9" fromX="3871" fromY="882" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="3860" positionY="635" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="4308" fromY="202" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="4417" positionY="649" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeChallenge" ID="13" positionX="2304" positionY="301" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_2P_0M_0S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="wdemon">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="13" targetID="81" fromX="2745" fromY="-194" />
+      <outputs name="Lose" ownerID="13" targetID="7" fromX="2745" fromY="-274" />
+      <outputs name="Surrender" ownerID="13" targetID="7" fromX="2745" fromY="-354" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="14" positionX="1864" positionY="86" width="350" height="805">
+      <outputs name="[Craft] Tente descobrir o mecanismo." ownerID="14" targetID="15" group="G1" fromX="2189" fromY="-405" />
+      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />You find a vault, locked by an old mechanism that defies decay -- and likely brawn too. </nodes>
+    <nodes xsi:type="NodeChallenge" ID="15" positionX="2826" positionY="2" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_3M_0S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="craft">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="15" tag="TAG-CRAFTING" />
+          </LogicFilter>
+          <LogicResultAction list="craft">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="15" targetID="54" fromX="3267" fromY="-493" />
+      <outputs name="Lose" ownerID="15" targetID="17" fromX="3267" fromY="-573" />
+      <outputs name="Surrender" ownerID="15" targetID="17" fromX="3267" fromY="-653" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="16" positionX="4999" positionY="72" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="8;18" tag="ITEM_CARGO-FEW_HIGH_RANDOM_METAL" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-FEW_HIGH_RANDOM_STONE" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />You work out the mechanism and get into the vault. Although the structure is very durable, much of the contents have been either taken or destroyed. Still, you find some things that may be of use.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="17" positionX="3938" positionY="-270" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="17" targetID="18" fromX="4367" fromY="-658" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="18" positionX="5521" positionY="-131" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="ppl">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="2" tag="SKILL_PACK-CURSE_M" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Whatever this mechanism is, it scrambles your brains. You leave, confused and tired.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="19" positionX="3272" positionY="-112" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_4M_0S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="craft">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="15" tag="TAG-CRAFTING" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="19" targetID="54" fromX="3713" fromY="-607" />
+      <outputs name="Lose" ownerID="19" targetID="17" fromX="3713" fromY="-687" />
+      <outputs name="Surrender" ownerID="19" targetID="17" fromX="3713" fromY="-767" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="20" positionX="2239" positionY="-630" width="350" height="725">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="15" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;20" tag="ITEM_CARGO-SEAWEED" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;30" tag="ITEM_CARGO-FISH" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />There is nothing but fish and seaweed here.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="21" positionX="857" positionY="-498" width="460" height="589">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="33" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="21" targetID="20" group="G1" fromX="1287" fromY="-856" />
+      <outputs ownerID="21" targetID="22" group="G1" fromX="1287" fromY="-936" />
+      <outputs ownerID="21" targetID="55" group="G1" fromX="1287" fromY="-1016" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="22" positionX="1576" positionY="-800" width="350" height="885">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="50" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="[Usuário mágico] Tente quebrar essa barreira." ownerID="22" targetID="27" fromX="1901" fromY="-1291" />
+      <outputs name="Saia deste lugar. Você não tem usuários mágicos que possam lidar com isso." ownerID="22" targetID="25" fromX="1901" fromY="-1371" />
+      <outputs name="Tente empurrar de qualquer maneira." ownerID="22" targetID="23" fromX="1901" fromY="-1451" />You find a room that is not submerged, but it is guarded by a magical barrier. </nodes>
+    <nodes xsi:type="NodeDealDamage" ID="23" positionX="1526" positionY="-2076" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="90" maxDamage="110" useCountInPercent="true" targetGroup="2">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="2" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="2" />
+          </LogicProcessing>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="23" targetID="24" fromX="1955" fromY="-2464" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="24" positionX="2040" positionY="-2153" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="8;20" tag="ITEM_CARGO-FEW_ADV_GEMSTONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-STRONG_ONE_SCROLL_1H" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-STRONG_ONE_WAND" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="50%;0;1" tag="ITEM_CARGO-RARE_ONE_JEWELLERY" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="24" targetID="25" fromX="2365" fromY="-2644" />Você empurra a barreira, mas ela o ataca e desencadeia algum tipo de autodestruição na sala. Você consegue pegar alguns detritos utilizáveis antes de ter que correr.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="25" positionX="2392" positionY="-2363" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="25" targetID="26" fromX="2840" fromY="-2795" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="2965" positionY="-2310" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeChallenge" ID="27" positionX="2017" positionY="-1398" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_4S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="mag">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="27" targetID="28" fromX="2458" fromY="-1893" />
+      <outputs name="Lose" ownerID="27" targetID="32" fromX="2458" fromY="-1973" />
+      <outputs name="Surrender" ownerID="27" targetID="32" fromX="2458" fromY="-2053" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="28" positionX="2565" positionY="-1366" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1m" list1="mag">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+          <LogicModifiers list="1m">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="2" tag="SKILL_PACK-BLESS_S" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="28" targetID="83" fromX="2890" fromY="-1857" />You break the spell and are free to loot this chamber, which you believe was once the study of a magic wielder.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="29" positionX="3584" positionY="-1253" width="460" height="509" sourceGroup="GROUP-VIHUR_WITCH_3P_3M_3S" cargoPercentage="150">
+      <outputs ownerID="29" targetID="30" group="G1" fromX="4014" fromY="-1611" />
+      <outputs ownerID="29" targetID="31" group="G1" fromX="4014" fromY="-1691" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="30" positionX="4153" positionY="-879" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="50" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;10" tag="ITEM_CARGO-FEW_HIGH_RANDOM_GEMSTONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-STRONG_ONE_ARTIFACT_1H" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="31" positionX="4656" positionY="-1263" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="8;15" tag="ITEM_CARGO-HORDE_HIGH_RANDOM_GEMSTONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-STRONG_ONE_SCROLL_1H" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+    </nodes>
+    <nodes xsi:type="NodeDealDamage" ID="32" positionX="3552" positionY="-1956" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="40" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="32" targetID="33" fromX="3981" fromY="-2344" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="33" positionX="4114" positionY="-1938" width="350" height="725">
+      <outputs name="Sair." ownerID="33" targetID="34" fromX="4439" fromY="-2429" />You fail to break the spell, and it harms your spirit.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="34" positionX="4560" positionY="-1922" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="34" targetID="35" fromX="5008" fromY="-2354" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="35" positionX="5106" positionY="-2004" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" endOfQuest="true" />
+    <nodes xsi:type="NodeProduceDrop" ID="36" positionX="-352" positionY="-689" width="460" height="589">
+      <outputs ownerID="36" targetID="20" group="G1" fromX="78" fromY="-1047" />
+      <outputs ownerID="36" targetID="37" group="G1" fromX="78" fromY="-1127" />
+      <outputs ownerID="36" targetID="51" group="G1" fromX="78" fromY="-1207" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="37" positionX="-749" positionY="-574" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="60" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Ataque!" ownerID="37" targetID="39" fromX="-423" fromY="-1065" />
+      <outputs name="Nade pra longe!" ownerID="37" targetID="38" fromX="-423" fromY="-1145" />Você nada para o sul e descobre muitas grandes câmaras, parcialmente submersas, que ainda guardam um eco de grandeza. Você mergulha para procurar em uma sala tão magnífica e vê um kraken olhando para você!</nodes>
+    <nodes xsi:type="NodeChallenge" ID="38" positionX="-2802" positionY="-809" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_3P_0M_0S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="38" targetID="43" fromX="-2360" fromY="-1304" />
+      <outputs name="Lose" ownerID="38" targetID="46" fromX="-2360" fromY="-1384" />
+      <outputs name="Surrender" ownerID="38" targetID="46" fromX="-2360" fromY="-1464" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="39" positionX="-2579" positionY="15" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-ONE_KRAKEN_10P_8M_8S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="39" targetID="40" fromX="-2137" fromY="-480" />
+      <outputs name="Lose" ownerID="39" targetID="50" fromX="-2137" fromY="-560" />
+      <outputs name="Surrender" ownerID="39" targetID="50" fromX="-2137" fromY="-640" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="40" positionX="-1974" positionY="705" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;20" tag="ITEM_CARGO-FEW_HIGH_RANDOM_GEMSTONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;30" tag="ITEM_CARGO-FEW_GOLEM_LEATHER" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="40" targetID="41" fromX="-1648" fromY="213" />You defeat the kraken.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="41" positionX="-1436" positionY="-29" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="41" targetID="42" fromX="-987" fromY="-461" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="42" positionX="-805" positionY="-18" width="350" height="530" allPlayersXP="10" allPlayersRP="6" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="43" positionX="-2015" positionY="-870" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+          <LogicModifiers list="1">
+            <scriptCallWithTag scriptName="FMO_AddTags" parameter="1" tag="TAG-STRENGTH" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="50%;0;2" tag="ITEM_CARGO-ONE_PRISTINE_MATTER" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;40" tag="---" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="43" targetID="44" fromX="-1689" fromY="-1361" />Você escapa da fera e se sente fortalecido como resultado. Você também se encontra coberto por algas e amêijoas.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="44" positionX="-1637" positionY="-1100" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="44" targetID="45" fromX="-1188" fromY="-1532" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="45" positionX="-1133" positionY="-1157" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeDealDamage" ID="46" positionX="-2649" positionY="-1636" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="50" maxDamage="80" useCountInPercent="true" targetGroup="50">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="50" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXPercentElements" parameter="50" />
+          </LogicProcessing>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="46" targetID="47" fromX="-2219" fromY="-2024" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="47" positionX="-2296" positionY="-2224" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="ppl">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="2" tag="SKILL_PACK-ILLNESS" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="47" targetID="48" fromX="-1970" fromY="-2715" />You panic and almost drown as you swim up. You feel ill and scared.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="48" positionX="-2153" positionY="-1649" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="48" targetID="49" fromX="-1704" fromY="-2081" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="49" positionX="-1529" positionY="-1688" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="50" positionX="-1968" positionY="-57" width="350" height="725">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="nochosen">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="0" tag="TAG-CHOSEN" />
+          </LogicFilter>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="nochosen">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+          <LogicModifiers list="1">
+            <scriptCallWithTag scriptName="FMO_TakeCharacters" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="50" targetID="48" fromX="-1642" fromY="-548" />The kraken defeats you and devours one of you before the rest can escape.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="51" positionX="-748" positionY="-1461" width="350" height="805">
+      <outputs name="Saqueie e vá embora." ownerID="51" targetID="52" group="G1" fromX="-422" fromY="-1952" />
+      <outputs name="Saqueie e vá embora." ownerID="51" targetID="53" group="G1" fromX="-422" fromY="-2032" />Você nada para o sul e descobre muitas grandes câmaras, parcialmente submersas, que ainda guardam um eco de grandeza. Você mergulha para procurar em uma sala tão magnífica e vê um kraken morto.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="52" positionX="-1183" positionY="-2317" width="460" height="429" sourceGroup="GROUP-ONE_KRAKEN_10P_8M_8S" cargoPercentage="80" dropPercentage="80">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="ppl">
+            <scriptCallWithTag scriptName="FRA_ChancePlusLuck" parameter="35" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="52" targetID="48" fromX="-752" fromY="-2675" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="53" positionX="-1835" positionY="-2279" width="460" height="429" sourceGroup="GROUP-ONE_KRAKEN_10P_8M_8S" cargoPercentage="60" dropPercentage="60">
+      <outputs ownerID="53" targetID="48" fromX="-1404" fromY="-2637" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="54" positionX="4392" positionY="-31" width="460" height="429" sourceGroup="GROUP-DWARVES_7P_6M_2S" cargoPercentage="80">
+      <outputs ownerID="54" targetID="16" fromX="4822" fromY="-389" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="55" positionX="1142" positionY="-1166" width="350" height="805">
+      <outputs name="Ataque!" ownerID="55" targetID="56" fromX="1467" fromY="-1657" />
+      <outputs name="[Usuário de magia] Enfrente-os com magia." ownerID="55" targetID="66" fromX="1467" fromY="-1737" />You enter a partially submerged chamber that is mostly intact, but you quickly realise this place is haunted. The doors shut behind you, and you feel the malevolent presence of dark spirits around you!</nodes>
+    <nodes xsi:type="NodeChallenge" ID="56" positionX="964" positionY="-2019" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-WRAITH_4P_3M_4S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="56" targetID="57" fromX="1405" fromY="-2514" />
+      <outputs name="Lose" ownerID="56" targetID="63" fromX="1405" fromY="-2594" />
+      <outputs name="Surrender" ownerID="56" targetID="63" fromX="1405" fromY="-2674" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="57" positionX="1445" positionY="-2718" width="350" height="885">
+      <outputs name="Saqueie o que puder e vá embora." ownerID="57" targetID="82" fromX="1770" fromY="-3209" />
+      <outputs name="Destrua as pinturas." ownerID="57" targetID="58" fromX="1770" fromY="-3289" />
+      <outputs name="[Magic user]These spirits are strong and the paintings are artefacts of great power too, but ones that are best left for the depths of the ocean. Sair." ownerID="57" targetID="59" fromX="1770" fromY="-3369" />You destroy the wraiths, and the chamber releases its hold on you. The spirits that you defeated are drawn into old paintings on the walls. The portraits now look at you with cold hatred, but they seem unable to attack again.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="58" positionX="2516" positionY="-3514" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="80" maxDamage="100" useCountInPercent="true" targetGroup="1">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="58" targetID="62" fromX="2945" fromY="-3902" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="59" positionX="2399" positionY="-2976" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="mag">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers list="mag">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="4" tag="SKILL_PACK-BLESS_M" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="59" targetID="60" fromX="2847" fromY="-3408" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="60" positionX="3203" positionY="-3349" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="60" targetID="61" fromX="3651" fromY="-3781" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="61" positionX="3741" positionY="-3192" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="62" positionX="1936" positionY="-3682" width="350" height="725">
+      <outputs name="Sair." ownerID="62" targetID="60" fromX="2261" fromY="-4173" />You try to destroy one of the paintings, and its power burns into your very souls instead! You are forced to flee, and the doors to the chamber disappear behind you.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="63" positionX="2955" positionY="-3867" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="63" targetID="64" fromX="3384" fromY="-4255" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="64" positionX="2390" positionY="-4268" width="350" height="725">
+      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />You are defeated and forced to flee. The doors to the chamber disappear behind you.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="65" positionX="449" positionY="-3034" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="65" targetID="35" fromX="897" fromY="-3466" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="66" positionX="1277" positionY="-3591" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-WRAITH_4P_3M_4S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="mag">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="66" targetID="67" fromX="1718" fromY="-4086" />
+      <outputs name="Lose" ownerID="66" targetID="63" fromX="1718" fromY="-4166" />
+      <outputs name="Surrender" ownerID="66" targetID="63" fromX="1718" fromY="-4246" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="67" positionX="1915" positionY="-2975" width="460" height="429" sourceGroup="GROUP-LOTS_WRAITH_6P_5M_6S" cargoPercentage="100" dropPercentage="100">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="mag">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+          <LogicModifiers list="1">
+            <scriptCallWithTag scriptName="FMO_AddTags" parameter="1" tag="TAG-DESTINY" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="67" targetID="57" fromX="2345" fromY="-3333" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="68" positionX="-282" positionY="-1399" width="460" height="589">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="50" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="68" targetID="20" group="G1" fromX="148" fromY="-1757" />
+      <outputs ownerID="68" targetID="69" group="G1" fromX="148" fromY="-1837" />
+      <outputs ownerID="68" targetID="77" group="G1" fromX="148" fromY="-1917" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="69" positionX="284" positionY="-1869" width="350" height="885">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="40" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Ataque!" ownerID="69" targetID="73" fromX="609" fromY="-2360" />
+      <outputs name="Sair." ownerID="69" targetID="70" fromX="609" fromY="-2440" />
+      <outputs name="[Demônio da água] Nade ao redor das criaturas do mar e roube o que puder." ownerID="69" targetID="71" fromX="609" fromY="-2520" />As ruínas ficaram submersas por muito tempo para conter qualquer coisa de grande valor, mas você identifica alguns materiais em potencial que podem ser recuperados. Há, no entanto, muita vida marinha aqui que você precisa limpar se quiser prosseguir.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="70" positionX="739" positionY="-1400" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeSpawnOnMap" ID="71" positionX="338" positionY="-2510" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="wdemon">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-FEW_ADV_WOOD" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-HORDE_ADV_STONE" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="71" targetID="72" fromX="786" fromY="-2942" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="72" positionX="958" positionY="-2792" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeChallenge" ID="73" positionX="-520" positionY="-2881" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_SEA_BEAST_4P_2M_1S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="73" targetID="74" fromX="-78" fromY="-3376" />
+      <outputs name="Lose" ownerID="73" targetID="76" fromX="-78" fromY="-3456" />
+      <outputs name="Surrender" ownerID="73" targetID="76" fromX="-78" fromY="-3536" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="74" positionX="53" positionY="-3031" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="8;20" tag="ITEM_CARGO-FEW_ADV_WOOD" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="8;20" tag="ITEM_CARGO-FEW_ADV_STONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="20;40" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddTagShared" parameter="2" tag="TAG-LOYALTY_WATER_DEMONS" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="74" targetID="60" fromX="378" fromY="-3522" />You defeat the sea creatures and gather the loot.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="76" positionX="425" positionY="-3668" width="350" height="725">
+      <outputs name="Sair." ownerID="76" targetID="65" fromX="750" fromY="-4159" />You are defeated and forced to flee.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="77" positionX="-280" positionY="-2037" width="350" height="805">
+      <outputs name="Ataque!" ownerID="77" targetID="78" fromX="45" fromY="-2528" />
+      <outputs name="Sair." ownerID="77" targetID="70" fromX="45" fromY="-2608" />You discover that the ruins have become a nest of czytlica. Some of them swim nearby, along with corpses of many warriors who were perhaps lured here by a song of sea demons.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="78" positionX="-1400" positionY="-3054" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-CZYTLICA_5P_5M_5S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="78" targetID="80" fromX="-958" fromY="-3549" />
+      <outputs name="Lose" ownerID="78" targetID="76" fromX="-958" fromY="-3629" />
+      <outputs name="Surrender" ownerID="78" targetID="76" fromX="-958" fromY="-3709" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="79" positionX="-877" positionY="-3055" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="8;20" tag="ITEM_CARGO-FEW_ADV_STONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="20;40" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddTagShared" parameter="2" tag="TAG-LOYALTY_WATER_DEMONS" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-RARE_ONE_ORC_WEAPON" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="79" targetID="60" fromX="-551" fromY="-3546" />You defeat the sea creatures and gather the loot.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="80" positionX="-486" positionY="-3781" width="460" height="429" sourceGroup="GROUP-ORCS_5P_3M_1S" cargoPercentage="100">
+      <outputs ownerID="80" targetID="79" fromX="-55" fromY="-4139" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="81" positionX="2440" positionY="960" width="460" height="429" sourceGroup="GROUP-BANDITS_LEADER_4P_4M_2S" cargoPercentage="50">
+      <outputs ownerID="81" targetID="6" fromX="2870" fromY="601" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="82" positionX="2943" positionY="-2888" width="460" height="429" sourceGroup="GROUP-LOTS_WRAITH_6P_5M_6S" cargoPercentage="50" dropPercentage="50">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="mag">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+          <LogicModifiers list="1">
+            <scriptCallWithTag scriptName="FMO_AddTags" parameter="1" tag="TAG-DESTINY" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="82" targetID="60" fromX="3373" fromY="-3246" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="83" positionX="2995" positionY="-1277" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="83" targetID="29" fromX="3443" fromY="-1709" />
+    </nodes>
+  </Adventure>
+  <Adventure name="Water ruins 7" uniqueID="3" seaEvent="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="8" nodeIdMax="84" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="-2" positionY="61" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="322" fromY="-542" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="419" positionY="-206" width="350" height="1046">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+          <LogicFilter name="wdemon" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-WATER_DEMON" />
+          </LogicFilter>
+          <LogicFilter name="mag" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-MAGIC_USER" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Procure as áreas do norte." ownerID="2" targetID="3" group="G1" fromX="744" fromY="-697" />
+      <outputs name="Procure na área leste." ownerID="2" targetID="21" group="G1" fromX="744" fromY="-777" />
+      <outputs name="Nade para as partes ocidentais." ownerID="2" targetID="68" group="G1" fromX="744" fromY="-857" />
+      <outputs name="Investigue a zona sul." ownerID="2" targetID="36" group="G1" fromX="744" fromY="-937" />
+      <outputs name="Sair." ownerID="2" targetID="70" fromX="744" fromY="-1017" />Você encontra os restos de uma estrutura antiga, provavelmente desenterrada pelo Shattering. A maioria das partes não são acessíveis, mas algumas podem ser exploradas.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="3" positionX="852" positionY="126" width="460" height="589">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="25" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="3" targetID="20" group="G1" fromX="1282" fromY="-232" />
+      <outputs ownerID="3" targetID="4" group="G1" fromX="1282" fromY="-312" />
+      <outputs ownerID="3" targetID="14" group="G1" fromX="1282" fromY="-392" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="4" positionX="1432" positionY="414" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="50" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Mergulho." ownerID="4" targetID="5" fromX="1757" fromY="-77" />
+      <outputs name="[Water demon]Swimming in such enclosed, man-made spaces is foul, but it will be easier for you. Mergulho." ownerID="4" targetID="13" fromX="1757" fromY="-157" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1865" positionY="867" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_8P_0M_0S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="81" fromX="2306" fromY="371" />
+      <outputs name="Lose" ownerID="5" targetID="7" fromX="2306" fromY="291" />
+      <outputs name="Surrender" ownerID="5" targetID="7" fromX="2306" fromY="211" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="6" positionX="2943" positionY="1277" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="15;30" tag="ITEM_CARGO-ONE_GOLD" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1;2" tag="ITEM_CARGO-STRONG_ONE_DWARF_MELEE_WEAPON" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;2" tag="ITEM_CARGO-STRONG_ONE_JEWELLERY" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="6" targetID="10" fromX="3268" fromY="785" />You discover the treasure and find your way back up.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="7" positionX="2875" positionY="501" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="40" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="7" targetID="8" fromX="3304" fromY="112" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="3445" positionY="717" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="ppl">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="2" tag="SKILL_PACK-ILLNESS" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />It is too dark, and you barely find your way back up.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="4082" positionY="1419" width="350" height="530" allPlayersXP="8" allPlayersRP="4" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeSpawnOnMap" ID="10" positionX="3423" positionY="1315" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="10" targetID="9" fromX="3871" fromY="882" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="3860" positionY="635" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="4308" fromY="202" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="4417" positionY="649" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeChallenge" ID="13" positionX="2263" positionY="109" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_7P_0M_0S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="wdemon">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="13" targetID="81" fromX="2704" fromY="-386" />
+      <outputs name="Lose" ownerID="13" targetID="7" fromX="2704" fromY="-466" />
+      <outputs name="Surrender" ownerID="13" targetID="7" fromX="2704" fromY="-546" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="14" positionX="1864" positionY="86" width="350" height="805">
+      <outputs name="[Craft] Tente descobrir o mecanismo." ownerID="14" targetID="15" group="G1" fromX="2189" fromY="-405" />
+      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />You find a vault, locked by an old mechanism that defies decay - and likely brawn too. </nodes>
+    <nodes xsi:type="NodeChallenge" ID="15" positionX="2860" positionY="2" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_7M_0S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="craft">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="15" tag="TAG-CRAFTING" />
+          </LogicFilter>
+          <LogicResultAction list="craft">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="15" targetID="54" fromX="3301" fromY="-493" />
+      <outputs name="Lose" ownerID="15" targetID="17" fromX="2876" fromY="-573" />
+      <outputs name="Surrender" ownerID="15" targetID="17" fromX="2876" fromY="-573" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="16" positionX="4999" positionY="72" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;25" tag="ITEM_CARGO-FEW_HIGH_RANDOM_METAL" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="8;25" tag="ITEM_CARGO-FEW_HIGH_RANDOM_STONE" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />You work out the mechanism and get into the vault. Although the structure is very durable, much of the contents have been either taken or destroyed. Still, you find some things that may be of use.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="17" positionX="4243" positionY="-532" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="40" maxDamage="70" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="17" targetID="18" fromX="4672" fromY="-920" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="18" positionX="5521" positionY="-131" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="ppl">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="3" tag="SKILL_PACK-CURSE_M" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Whatever this mechanism is, it scrambles your brains. You leave, confused and tired.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="19" positionX="3503" positionY="-87" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_8M_0S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="craft">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="15" tag="TAG-CRAFTING" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="19" targetID="54" fromX="3944" fromY="-582" />
+      <outputs name="Lose" ownerID="19" targetID="17" fromX="3944" fromY="-662" />
+      <outputs name="Surrender" ownerID="19" targetID="17" fromX="3944" fromY="-742" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="20" positionX="2239" positionY="-630" width="350" height="725">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="15" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;20" tag="---" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;30" tag="ITEM_CARGO-FISH" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />There is nothing but fish and seaweed here.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="21" positionX="857" positionY="-498" width="460" height="589">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="33" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="21" targetID="20" group="G1" fromX="1287" fromY="-856" />
+      <outputs ownerID="21" targetID="22" group="G1" fromX="1287" fromY="-936" />
+      <outputs ownerID="21" targetID="55" group="G1" fromX="1287" fromY="-1016" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="22" positionX="1636" positionY="-768" width="350" height="885">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="50" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="[Usuário mágico] Tente quebrar essa barreira." ownerID="22" targetID="27" fromX="1961" fromY="-1259" />
+      <outputs name="Saia deste lugar. Você não tem usuários mágicos que possam lidar com isso." ownerID="22" targetID="25" fromX="1961" fromY="-1339" />
+      <outputs name="Tente empurrar de qualquer maneira." ownerID="22" targetID="23" fromX="1961" fromY="-1419" />You find a room that is not submerged, but it is guarded by a magical barrier. </nodes>
+    <nodes xsi:type="NodeDealDamage" ID="23" positionX="1526" positionY="-2076" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="90" maxDamage="110" useCountInPercent="true" targetGroup="2">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="2" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="2" />
+          </LogicProcessing>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="23" targetID="24" fromX="1955" fromY="-2464" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="24" positionX="2040" positionY="-2153" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="8;20" tag="ITEM_CARGO-FEW_ADV_GEMSTONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-STRONG_ONE_SCROLL_1H" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-STRONG_ONE_WAND" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="50%;0;1" tag="ITEM_CARGO-RARE_ONE_JEWELLERY" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="24" targetID="25" fromX="2365" fromY="-2644" />Você empurra a barreira, mas ela o ataca e desencadeia algum tipo de autodestruição na sala. Você consegue pegar alguns detritos utilizáveis antes de ter que correr.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="25" positionX="2426" positionY="-2307" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="25" targetID="26" fromX="2874" fromY="-2739" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="2965" positionY="-2310" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeChallenge" ID="27" positionX="2017" positionY="-1398" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_8S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="mag">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="27" targetID="28" fromX="2458" fromY="-1893" />
+      <outputs name="Lose" ownerID="27" targetID="32" fromX="2458" fromY="-1973" />
+      <outputs name="Surrender" ownerID="27" targetID="32" fromX="2458" fromY="-2053" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="28" positionX="2548" positionY="-1394" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1m" list1="mag">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="28" targetID="83" fromX="2873" fromY="-1885" />You break the spell and are free to loot this chamber, which you believe was once the study of a magic wielder.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="29" positionX="3464" positionY="-1248" width="460" height="509" sourceGroup="GROUP-VIHUR_WITCH_3P_3M_3S" cargoPercentage="200">
+      <outputs ownerID="29" targetID="30" group="G1" fromX="3894" fromY="-1606" />
+      <outputs ownerID="29" targetID="31" group="G1" fromX="3894" fromY="-1686" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="30" positionX="4001" positionY="-1252" width="350" height="530" allPlayersXP="8" allPlayersRP="4" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="20" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="mag">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1;2" tag="ITEM_CARGO-RARE_ONE_SCROLL_1H" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-ANCIENT_ONE_WAND" />
+          </LogicModifiers>
+          <LogicModifiers list="1">
+            <scriptCallWithTag scriptName="FMO_AddTags" parameter="1" tag="TAG-MYSTICISM" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="31" positionX="4413" positionY="-1293" width="350" height="530" allPlayersXP="8" allPlayersRP="4" linkedEventUniqueID="0">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1;2" tag="ITEM_CARGO-RARE_ONE_WAND" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-ANCIENT_ONE_SCROLL_1H" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+    </nodes>
+    <nodes xsi:type="NodeDealDamage" ID="32" positionX="3467" positionY="-1957" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="50" maxDamage="70" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="32" targetID="33" fromX="3896" fromY="-2345" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="33" positionX="4114" positionY="-1938" width="350" height="725">
+      <outputs name="Sair." ownerID="33" targetID="34" fromX="4439" fromY="-2429" />You fail to break the spell, and it harms your spirit.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="34" positionX="4560" positionY="-1922" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="34" targetID="35" fromX="5008" fromY="-2354" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="35" positionX="5106" positionY="-2004" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" endOfQuest="true" />
+    <nodes xsi:type="NodeProduceDrop" ID="36" positionX="-352" positionY="-689" width="460" height="589">
+      <outputs ownerID="36" targetID="20" group="G1" fromX="78" fromY="-1047" />
+      <outputs ownerID="36" targetID="37" group="G1" fromX="78" fromY="-1127" />
+      <outputs ownerID="36" targetID="51" group="G1" fromX="78" fromY="-1207" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="37" positionX="-749" positionY="-574" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="60" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Ataque!" ownerID="37" targetID="39" fromX="-423" fromY="-1065" />
+      <outputs name="Nade pra longe!" ownerID="37" targetID="38" fromX="-423" fromY="-1145" />Você nada para o sul e descobre muitas grandes câmaras, parcialmente submersas, que ainda guardam um eco de grandeza. Você mergulha para procurar em uma sala tão magnífica e vê um kraken olhando para você!</nodes>
+    <nodes xsi:type="NodeChallenge" ID="38" positionX="-2882" positionY="-777" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_7P_0M_0S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="38" targetID="43" fromX="-2440" fromY="-1272" />
+      <outputs name="Lose" ownerID="38" targetID="46" fromX="-2440" fromY="-1352" />
+      <outputs name="Surrender" ownerID="38" targetID="46" fromX="-2440" fromY="-1432" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="39" positionX="-2579" positionY="15" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-ONE_KRAKEN_10P_8M_8S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="39" targetID="40" fromX="-2137" fromY="-480" />
+      <outputs name="Lose" ownerID="39" targetID="50" fromX="-2137" fromY="-560" />
+      <outputs name="Surrender" ownerID="39" targetID="50" fromX="-2137" fromY="-640" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="40" positionX="-1974" positionY="705" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;25" tag="ITEM_CARGO-FEW_HIGH_RANDOM_GEMSTONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;30" tag="ITEM_CARGO-FEW_GOLEM_LEATHER" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="40" targetID="41" fromX="-1648" fromY="213" />You defeat the kraken.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="41" positionX="-1436" positionY="-29" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="41" targetID="42" fromX="-987" fromY="-461" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="42" positionX="-805" positionY="-18" width="350" height="530" allPlayersXP="10" allPlayersRP="6" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="43" positionX="-2328" positionY="-857" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1s" makePublic="true" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="50%;0;2" tag="ITEM_CARGO-ONE_PRISTINE_MATTER" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;40" tag="ITEM_CARGO-SEAWEED" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="43" targetID="44" fromX="-2002" fromY="-1348" />Você escapa da fera e se sente fortalecido como resultado. Você também se encontra coberto por algas e amêijoas.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="44" positionX="-1958" positionY="-997" width="480" height="583" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="44" targetID="45" group="G1" fromX="-1509" fromY="-1429" />
+      <outputs ownerID="44" targetID="84" group="G1" fromX="-1509" fromY="-1509" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="45" positionX="-1413" positionY="-571" width="350" height="530" allPlayersXP="7" allPlayersRP="5" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="20" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers list="1s">
+            <scriptCallWithTag scriptName="FMO_AddTags" parameter="1" tag="TAG-STRENGTH" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+    </nodes>
+    <nodes xsi:type="NodeDealDamage" ID="46" positionX="-2794" positionY="-1644" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="70" maxDamage="90" useCountInPercent="true" targetGroup="50">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="50" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXPercentElements" parameter="50" />
+          </LogicProcessing>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="46" targetID="47" fromX="-2364" fromY="-2032" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="47" positionX="-2296" positionY="-2224" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="ppl">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="3" tag="SKILL_PACK-ILLNESS" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="47" targetID="48" fromX="-1970" fromY="-2715" />You panic and almost drown as you swim up. You feel ill and scared.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="48" positionX="-2153" positionY="-1649" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="48" targetID="49" fromX="-1704" fromY="-2081" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="49" positionX="-1529" positionY="-1688" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="50" positionX="-1904" positionY="-141" width="350" height="725">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="nochosen">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="0" tag="TAG-CHOSEN" />
+          </LogicFilter>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="nochosen">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+          <LogicModifiers list="1">
+            <scriptCallWithTag scriptName="FMO_TakeCharacters" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="50" targetID="48" fromX="-1578" fromY="-632" />The kraken defeats you and devours one of you before the rest can escape.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="51" positionX="-748" positionY="-1461" width="350" height="805">
+      <outputs name="Saqueie e vá embora." ownerID="51" targetID="52" group="G1" fromX="-422" fromY="-1952" />
+      <outputs name="Saqueie e vá embora." ownerID="51" targetID="53" group="G1" fromX="-422" fromY="-2032" />Você nada para o sul e descobre muitas grandes câmaras, parcialmente submersas, que ainda guardam um eco de grandeza. Você mergulha para procurar em uma sala tão magnífica e vê um kraken morto.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="52" positionX="-1183" positionY="-2317" width="460" height="429" sourceGroup="GROUP-ONE_KRAKEN_10P_8M_8S" cargoPercentage="150" dropPercentage="150">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="ppl">
+            <scriptCallWithTag scriptName="FRA_ChancePlusLuck" parameter="35" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="52" targetID="48" fromX="-752" fromY="-2675" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="53" positionX="-1835" positionY="-2279" width="460" height="429" sourceGroup="GROUP-ONE_KRAKEN_10P_8M_8S" cargoPercentage="100" dropPercentage="100">
+      <outputs ownerID="53" targetID="48" fromX="-1404" fromY="-2637" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="54" positionX="4311" positionY="-7" width="460" height="429" sourceGroup="GROUP-DWARVES_7P_6M_2S" cargoPercentage="200">
+      <outputs ownerID="54" targetID="16" fromX="4741" fromY="-365" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="55" positionX="1142" positionY="-1166" width="350" height="805">
+      <outputs name="Ataque!" ownerID="55" targetID="56" fromX="1467" fromY="-1657" />
+      <outputs name="[Usuário de magia] Enfrente-os com magia." ownerID="55" targetID="66" fromX="1467" fromY="-1737" />You enter a partially submerged chamber that is mostly intact, but you quickly realise this place is haunted. The doors shut behind you, and you feel the malevolent presence of dark spirits around you!</nodes>
+    <nodes xsi:type="NodeChallenge" ID="56" positionX="997" positionY="-2028" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_WRAITH_6P_5M_6S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="56" targetID="57" fromX="1438" fromY="-2523" />
+      <outputs name="Lose" ownerID="56" targetID="63" fromX="1438" fromY="-2603" />
+      <outputs name="Surrender" ownerID="56" targetID="63" fromX="1438" fromY="-2683" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="57" positionX="1500" positionY="-2623" width="350" height="885">
+      <outputs name="Saqueie o que puder e vá embora." ownerID="57" targetID="60" fromX="1825" fromY="-3114" />
+      <outputs name="Destrua as pinturas." ownerID="57" targetID="58" fromX="1825" fromY="-3194" />
+      <outputs name="[Magic user]These spirits are strong and the paintings are artefacts of great power too, but ones that are best left for the depths of the ocean. Sair." ownerID="57" targetID="59" fromX="1825" fromY="-3274" />You destroy the wraiths, and the chamber releases its hold on you. The spirits that you defeated are drawn into old paintings on the walls. The portraits now look at you with cold hatred, but they seem unable to attack again.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="58" positionX="1905" positionY="-2977" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="80" maxDamage="100" useCountInPercent="true" targetGroup="1">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="58" targetID="62" fromX="2334" fromY="-3365" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="59" positionX="2465" positionY="-3059" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="mag">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers list="mag">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="4" tag="SKILL_PACK-BLESS_M" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="59" targetID="60" fromX="2913" fromY="-3491" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="60" positionX="3001" positionY="-3232" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="60" targetID="82" fromX="3449" fromY="-3664" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="61" positionX="4043" positionY="-3226" width="350" height="530" allPlayersXP="8" allPlayersRP="4" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="62" positionX="1935" positionY="-3551" width="350" height="725">
+      <outputs name="Sair." ownerID="62" targetID="60" fromX="2260" fromY="-4042" />You try to destroy one of the paintings, and its power burns into your very souls instead! You are forced to flee, and the doors to the chamber disappear behind you.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="63" positionX="2967" positionY="-3935" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="40" maxDamage="70" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="63" targetID="64" fromX="3396" fromY="-4323" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="64" positionX="2390" positionY="-4268" width="350" height="725">
+      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />You are defeated and forced to flee. The doors to the chamber disappear behind you.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="65" positionX="491" positionY="-3160" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="65" targetID="35" fromX="939" fromY="-3592" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="66" positionX="1156" positionY="-3537" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-LOTS_WRAITH_6P_5M_6S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="mag">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="66" targetID="67" fromX="1597" fromY="-4032" />
+      <outputs name="Lose" ownerID="66" targetID="63" fromX="1597" fromY="-4112" />
+      <outputs name="Surrender" ownerID="66" targetID="63" fromX="1597" fromY="-4192" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="67" positionX="2419" positionY="-3737" width="460" height="429" sourceGroup="GROUP-LOTS_WRAITH_6P_5M_6S" cargoPercentage="150" dropPercentage="100">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="mag">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+          <LogicModifiers list="1">
+            <scriptCallWithTag scriptName="FMO_AddTags" parameter="1" tag="TAG-DESTINY" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="67" targetID="57" fromX="2849" fromY="-4095" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="68" positionX="-282" positionY="-1399" width="460" height="589">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="50" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="68" targetID="20" group="G1" fromX="148" fromY="-1757" />
+      <outputs ownerID="68" targetID="69" group="G1" fromX="148" fromY="-1837" />
+      <outputs ownerID="68" targetID="77" group="G1" fromX="148" fromY="-1917" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="69" positionX="314" positionY="-1573" width="350" height="885">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="40" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Ataque!" ownerID="69" targetID="73" fromX="639" fromY="-2064" />
+      <outputs name="Sair." ownerID="69" targetID="70" fromX="295" fromY="-2144" />
+      <outputs name="[Demônio da água] Nade ao redor das criaturas do mar e roube o que puder." ownerID="69" targetID="71" fromX="295" fromY="-2144" />As ruínas ficaram submersas por muito tempo para conter qualquer coisa de grande valor, mas você identifica alguns materiais em potencial que podem ser recuperados. Há, no entanto, muita vida marinha aqui que você precisa limpar se quiser prosseguir.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="70" positionX="739" positionY="-1400" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeSpawnOnMap" ID="71" positionX="338" positionY="-2510" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="wdemon">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-FEW_ADV_WOOD" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-HORDE_ADV_STONE" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="71" targetID="72" fromX="786" fromY="-2942" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="72" positionX="958" positionY="-2792" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeChallenge" ID="73" positionX="-488" positionY="-2948" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-JURATA_MIX_6P_6M_6S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="73" targetID="74" fromX="-46" fromY="-3443" />
+      <outputs name="Lose" ownerID="73" targetID="76" fromX="-46" fromY="-3523" />
+      <outputs name="Surrender" ownerID="73" targetID="76" fromX="-46" fromY="-3603" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="74" positionX="53" positionY="-3031" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="15;30" tag="ITEM_CARGO-FEW_ADV_WOOD" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="15;30" tag="ITEM_CARGO-FEW_ADV_STONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="20;40" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddTagShared" parameter="3" tag="TAG-LOYALTY_WATER_DEMONS" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="74" targetID="60" fromX="378" fromY="-3522" />You defeat the sea creatures and gather the loot.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="76" positionX="451" positionY="-3709" width="350" height="725">
+      <outputs name="Sair." ownerID="76" targetID="65" fromX="776" fromY="-4200" />You are defeated and forced to flee.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="77" positionX="-280" positionY="-2037" width="350" height="805">
+      <outputs name="Ataque!" ownerID="77" targetID="78" fromX="45" fromY="-2528" />
+      <outputs name="Sair." ownerID="77" targetID="70" fromX="45" fromY="-2608" />You discover that the ruins have become a nest of czytlica. Some of them swim nearby, along with corpses of many warriors who were perhaps lured here by a song of sea demons.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="78" positionX="-1525" positionY="-3035" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_SEA_DEMONS_MIX_8P_7M_7S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="78" targetID="80" fromX="-1083" fromY="-3530" />
+      <outputs name="Lose" ownerID="78" targetID="76" fromX="-1083" fromY="-3610" />
+      <outputs name="Surrender" ownerID="78" targetID="76" fromX="-1083" fromY="-3690" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="79" positionX="-860" positionY="-3006" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="15;30" tag="ITEM_CARGO-FEW_ADV_STONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="20;40" tag="ITEM_CARGO-SEAWEED" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddTagShared" parameter="3" tag="TAG-LOYALTY_WATER_DEMONS" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;2" tag="ITEM_CARGO-RARE_ONE_ORC_WEAPON" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="79" targetID="60" fromX="-534" fromY="-3497" />You defeat the sea creatures and gather the loot.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="80" positionX="-486" positionY="-3781" width="460" height="429" sourceGroup="GROUP-ELVES_6P_6M_5S" cargoPercentage="100">
+      <outputs ownerID="80" targetID="79" fromX="-55" fromY="-4139" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="81" positionX="2440" positionY="960" width="460" height="429" sourceGroup="GROUP-DWARVES_7P_6M_2S" cargoPercentage="100">
+      <outputs ownerID="81" targetID="6" fromX="2870" fromY="601" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="82" positionX="3530" positionY="-3302" width="460" height="429" sourceGroup="GROUP-JURATA_MIX_6P_6M_6S" cargoPercentage="200" dropPercentage="200">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="15;20" tag="ITEM_CARGO-FEW_ADV_GEMSTONE" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="82" targetID="61" fromX="3960" fromY="-3660" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="83" positionX="2952" positionY="-1335" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="83" targetID="29" fromX="3400" fromY="-1767" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="84" positionX="-1405" positionY="-1133" width="350" height="530" allPlayersXP="7" allPlayersRP="5" linkedEventUniqueID="0" />
+  </Adventure>
+  <Adventure name="Water ruins 10" uniqueID="4" seaEvent="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="11" nodeIdMax="85" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
+    <nodes xsi:type="NodeStarting" ID="1" positionX="-2" positionY="61" width="347" height="661" image="Event014">
+      <outputs ownerID="1" targetID="2" fromX="322" fromY="-542" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="2" positionX="415" positionY="-311" width="350" height="1046">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="ppl" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" />
+          </LogicFilter>
+          <LogicFilter name="wdemon" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-WATER_DEMON" />
+          </LogicFilter>
+          <LogicFilter name="mag" makePublic="true">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="1" tag="TAG-MAGIC_USER" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Procure as áreas do norte." ownerID="2" targetID="3" fromX="740" fromY="-802" />
+      <outputs name="Procure na área leste." ownerID="2" targetID="21" fromX="740" fromY="-882" />
+      <outputs name="Nade para as partes ocidentais." ownerID="2" targetID="68" fromX="740" fromY="-962" />
+      <outputs name="Investigue a zona sul." ownerID="2" targetID="36" fromX="740" fromY="-1042" />
+      <outputs name="Sair." ownerID="2" targetID="70" fromX="740" fromY="-1122" />You find the remains of an ancient structure, likely unearthed by the Shattering.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="3" positionX="852" positionY="126" width="460" height="589">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="25" tag="---" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="3" targetID="20" group="G1" fromX="1282" fromY="-232" />
+      <outputs ownerID="3" targetID="4" group="G1" fromX="1282" fromY="-312" />
+      <outputs ownerID="3" targetID="14" group="G1" fromX="1282" fromY="-392" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="4" positionX="1432" positionY="414" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="50" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Mergulho." ownerID="4" targetID="5" fromX="1757" fromY="-77" />
+      <outputs name="[Water demon]Swimming in such enclosed, man-made spaces is foul, but it will be easier for you. Mergulho." ownerID="4" targetID="13" fromX="1757" fromY="-157" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="5" positionX="1865" positionY="867" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_11P_0M_0S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="5" targetID="81" fromX="2306" fromY="371" />
+      <outputs name="Lose" ownerID="5" targetID="7" fromX="2306" fromY="291" />
+      <outputs name="Surrender" ownerID="5" targetID="7" fromX="2306" fromY="211" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="6" positionX="2943" positionY="1277" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="20;40" tag="ITEM_CARGO-ONE_MITHRILL" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="50%;1;2" tag="ITEM_CARGO-ANCIENT_ONE_DWARF_WEAPON" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="50%;0;2" tag="ITEM_CARGO-ANCIENT_ONE_JEWELLERY" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="6" targetID="10" fromX="3268" fromY="785" />You discover the treasure and find your way back up.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="7" positionX="2875" positionY="501" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="60" maxDamage="80" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="7" targetID="8" fromX="3304" fromY="112" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="3445" positionY="717" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="ppl">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="2" tag="SKILL_PACK-ILLNESS" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />It is too dark, and you barely find your way back up.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="4082" positionY="1419" width="350" height="530" allPlayersXP="10" allPlayersRP="6" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeSpawnOnMap" ID="10" positionX="3423" positionY="1315" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="10" targetID="9" fromX="3871" fromY="882" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="3860" positionY="635" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="11" targetID="12" fromX="4308" fromY="202" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="4417" positionY="649" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeChallenge" ID="13" positionX="2261" positionY="125" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_10P_0M_0S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="wdemon">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="13" targetID="81" fromX="2702" fromY="-370" />
+      <outputs name="Lose" ownerID="13" targetID="7" fromX="2702" fromY="-450" />
+      <outputs name="Surrender" ownerID="13" targetID="7" fromX="2702" fromY="-530" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="14" positionX="1864" positionY="86" width="350" height="805">
+      <outputs name="[Craft] Tente descobrir o mecanismo." ownerID="14" targetID="15" group="G1" fromX="2189" fromY="-405" />
+      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />You find a vault, locked by an old mechanism that defies decay - and likely brawn too. </nodes>
+    <nodes xsi:type="NodeChallenge" ID="15" positionX="2824" positionY="0" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_10M_0S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="craft">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="15" tag="TAG-CRAFTING" />
+          </LogicFilter>
+          <LogicResultAction list="craft">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="15" targetID="54" fromX="3265" fromY="-495" />
+      <outputs name="Lose" ownerID="15" targetID="17" fromX="3265" fromY="-575" />
+      <outputs name="Surrender" ownerID="15" targetID="17" fromX="3265" fromY="-655" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="16" positionX="4999" positionY="72" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;25" tag="ITEM_CARGO-FEW_HIGH_RANDOM_METAL" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="15;30" tag="ITEM_CARGO-FEW_HIGH_RANDOM_STONE" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />You work out the mechanism and get into the vault. Although the structure is very durable, much of the contents have been either taken or destroyed. Still, you find some things that may be of use.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="17" positionX="3913" positionY="-224" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="70" maxDamage="90" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="17" targetID="18" fromX="4342" fromY="-612" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="18" positionX="5521" positionY="-131" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="ppl">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="3" tag="SKILL_PACK-CURSE_M" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Whatever this mechanism is, it scrambles your brains. You leave, confused and tired.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="19" positionX="3382" positionY="-55" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_11M_0S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="craft">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="15" tag="TAG-CRAFTING" />
+          </LogicFilter>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="19" targetID="54" fromX="3823" fromY="-550" />
+      <outputs name="Lose" ownerID="19" targetID="17" fromX="3823" fromY="-630" />
+      <outputs name="Surrender" ownerID="19" targetID="17" fromX="3823" fromY="-710" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="20" positionX="2239" positionY="-630" width="350" height="725">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="15" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;20" tag="---" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;30" tag="ITEM_CARGO-FISH" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />There is nothing but fish and seaweed here.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="21" positionX="857" positionY="-498" width="460" height="589">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="33" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="21" targetID="20" group="G1" fromX="1287" fromY="-856" />
+      <outputs ownerID="21" targetID="22" group="G1" fromX="1287" fromY="-936" />
+      <outputs ownerID="21" targetID="55" group="G1" fromX="1287" fromY="-1016" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="22" positionX="1636" positionY="-768" width="350" height="885">
+      <outputs name="[Usuário mágico] Tente quebrar essa barreira." ownerID="22" targetID="27" fromX="1961" fromY="-1259" />
+      <outputs name="Saia deste lugar. Você não tem usuários mágicos que possam lidar com isso." ownerID="22" targetID="25" fromX="1961" fromY="-1339" />
+      <outputs name="Tente empurrar de qualquer maneira." ownerID="22" targetID="23" fromX="1961" fromY="-1419" />You find a room that is not submerged, but it is guarded by a magical barrier. </nodes>
+    <nodes xsi:type="NodeDealDamage" ID="23" positionX="1526" positionY="-2076" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="90" maxDamage="110" useCountInPercent="true" targetGroup="2">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="2" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="2" />
+          </LogicProcessing>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="23" targetID="24" fromX="1955" fromY="-2464" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="24" positionX="2040" positionY="-2153" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="8;20" tag="ITEM_CARGO-FEW_ADV_GEMSTONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-STRONG_ONE_SCROLL_1H" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;1" tag="ITEM_CARGO-STRONG_ONE_WAND" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="50%;0;1" tag="ITEM_CARGO-RARE_ONE_JEWELLERY" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="24" targetID="25" fromX="2365" fromY="-2644" />Você empurra a barreira, mas ela o ataca e desencadeia algum tipo de autodestruição na sala. Você consegue pegar alguns detritos utilizáveis antes de ter que correr.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="25" positionX="2426" positionY="-2307" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="25" targetID="26" fromX="2874" fromY="-2739" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="2965" positionY="-2310" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeChallenge" ID="27" positionX="2017" positionY="-1398" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_10S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="mag">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="27" targetID="28" fromX="2458" fromY="-1893" />
+      <outputs name="Lose" ownerID="27" targetID="32" fromX="2458" fromY="-1973" />
+      <outputs name="Surrender" ownerID="27" targetID="32" fromX="2458" fromY="-2053" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="28" positionX="2623" positionY="-1282" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1m" makePublic="true" list1="mag">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="28" targetID="84" fromX="2948" fromY="-1773" />You break the spell and are free to loot this chamber, which you believe was once the study of a magic wielder.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="29" positionX="3744" positionY="-992" width="460" height="509" sourceGroup="GROUP-DRAGON_ZMEYS_11P_12M_11S" cargoPercentage="200" dropPercentage="100">
+      <outputs ownerID="29" targetID="30" group="G1" fromX="4174" fromY="-1350" />
+      <outputs ownerID="29" targetID="31" group="G1" fromX="4174" fromY="-1430" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="30" positionX="3126" positionY="-1408" width="350" height="530" allPlayersXP="10" allPlayersRP="6" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="30" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="50%;1;2" tag="ITEM_CARGO-ANCIENT_ONE_SCROLL_1H" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1" tag="ITEM_CARGO-ANCIENT_ONE_WAND" />
+          </LogicModifiers>
+          <LogicModifiers list="1m">
+            <scriptCallWithTag scriptName="FMO_AddTags" parameter="1" tag="TAG-MYSTICISM" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="31" positionX="4290" positionY="-1348" width="350" height="530" allPlayersXP="10" allPlayersRP="6" linkedEventUniqueID="0">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="50%;1;2" tag="ITEM_CARGO-RARE_ONE_WAND" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="1;2" tag="ITEM_CARGO-ANCIENT_ONE_SCROLL_1H" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+    </nodes>
+    <nodes xsi:type="NodeDealDamage" ID="32" positionX="3552" positionY="-1956" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="60" maxDamage="80" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="32" targetID="33" fromX="3981" fromY="-2344" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="33" positionX="4114" positionY="-1938" width="350" height="725">
+      <outputs name="Sair." ownerID="33" targetID="34" fromX="4439" fromY="-2429" />You fail to break the spell, and it harms your spirit.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="34" positionX="4560" positionY="-1922" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="34" targetID="35" fromX="5008" fromY="-2354" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="35" positionX="5106" positionY="-2004" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" endOfQuest="true" />
+    <nodes xsi:type="NodeProduceDrop" ID="36" positionX="-352" positionY="-689" width="460" height="589">
+      <outputs ownerID="36" targetID="20" group="G1" fromX="78" fromY="-1047" />
+      <outputs ownerID="36" targetID="37" group="G1" fromX="78" fromY="-1127" />
+      <outputs ownerID="36" targetID="51" group="G1" fromX="78" fromY="-1207" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="37" positionX="-749" positionY="-574" width="350" height="805">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="60" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Ataque!" ownerID="37" targetID="39" fromX="-423" fromY="-1065" />
+      <outputs name="Nade pra longe!" ownerID="37" targetID="38" fromX="-423" fromY="-1145" />Você nada para o sul e descobre muitas grandes câmaras, parcialmente submersas, que ainda guardam um eco de grandeza. Você mergulha para procurar em uma sala tão magnífica e vê um kraken olhando para você!</nodes>
+    <nodes xsi:type="NodeChallenge" ID="38" positionX="-2560" positionY="-870" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_9P_0M_0S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="38" targetID="43" fromX="-2118" fromY="-1365" />
+      <outputs name="Lose" ownerID="38" targetID="46" fromX="-2118" fromY="-1445" />
+      <outputs name="Surrender" ownerID="38" targetID="46" fromX="-2118" fromY="-1525" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="39" positionX="-2579" positionY="15" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-KRAKEN_12P_10M_10S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="39" targetID="40" fromX="-2137" fromY="-480" />
+      <outputs name="Lose" ownerID="39" targetID="50" fromX="-2137" fromY="-560" />
+      <outputs name="Surrender" ownerID="39" targetID="50" fromX="-2137" fromY="-640" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="40" positionX="-1974" positionY="705" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;25" tag="ITEM_CARGO-FEW_HIGH_RANDOM_GEMSTONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;30" tag="ITEM_CARGO-FEW_GOLEM_LEATHER" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="40" targetID="41" fromX="-1648" fromY="213" />You defeat the kraken.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="41" positionX="-1436" positionY="-29" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="41" targetID="42" fromX="-987" fromY="-461" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="42" positionX="-805" positionY="-18" width="350" height="530" allPlayersXP="10" allPlayersRP="6" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="43" positionX="-2015" positionY="-870" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1" makePublic="true" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="2" />
+          </LogicProcessing>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="50%;0;2" tag="ITEM_CARGO-ONE_PRISTINE_MATTER" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="20;50" tag="ITEM_CARGO-SEAWEED" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="43" targetID="44" fromX="-1689" fromY="-1361" />Você escapa da fera e se sente fortalecido como resultado. Você também se encontra coberto por algas e amêijoas.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="44" positionX="-1651" positionY="-1075" width="480" height="583" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="44" targetID="45" group="G1" fromX="-1202" fromY="-1507" />
+      <outputs ownerID="44" targetID="85" group="G1" fromX="-1202" fromY="-1587" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="45" positionX="-1157" positionY="-742" width="350" height="530" allPlayersXP="10" allPlayersRP="6" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="20" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers list="1">
+            <scriptCallWithTag scriptName="FMO_AddTags" parameter="1" tag="TAG-STRENGTH" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+    </nodes>
+    <nodes xsi:type="NodeDealDamage" ID="46" positionX="-2632" positionY="-1636" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="70" maxDamage="90" useCountInPercent="true" targetGroup="50">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="50" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXPercentElements" parameter="50" />
+          </LogicProcessing>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="46" targetID="47" fromX="-2202" fromY="-2024" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="47" positionX="-2296" positionY="-2224" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers list="ppl">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="3" tag="SKILL_PACK-ILLNESS" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="47" targetID="48" fromX="-1970" fromY="-2715" />You panic and almost drown as you swim up. You feel ill and scared.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="48" positionX="-2153" positionY="-1649" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="48" targetID="49" fromX="-1704" fromY="-2081" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="49" positionX="-1529" positionY="-1688" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="50" positionX="-1968" positionY="-57" width="350" height="725">
+      <logic>
+        <FilterBlock>
+          <LogicFilter name="nochosen">
+            <scriptCallWithTag scriptName="FwT_AllPlayersAllGroupsCharacters" parameter="0" tag="TAG-CHOSEN" />
+          </LogicFilter>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="nochosen">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+          <LogicModifiers list="1">
+            <scriptCallWithTag scriptName="FMO_TakeCharacters" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="50" targetID="48" fromX="-1642" fromY="-548" />The kraken defeats you and devours one of you before the rest can escape.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="51" positionX="-748" positionY="-1461" width="350" height="805">
+      <outputs name="Saqueie e vá embora." ownerID="51" targetID="52" group="G1" fromX="-422" fromY="-1952" />
+      <outputs name="Saqueie e vá embora." ownerID="51" targetID="53" group="G1" fromX="-422" fromY="-2032" />Você nada para o sul e descobre muitas grandes câmaras, parcialmente submersas, que ainda guardam um eco de grandeza. Você mergulha para procurar em uma sala tão magnífica e vê um kraken morto.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="52" positionX="-1183" positionY="-2317" width="460" height="429" sourceGroup="GROUP-KRAKEN_11P_9M_9S" cargoPercentage="200" dropPercentage="200">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="ppl">
+            <scriptCallWithTag scriptName="FRA_ChancePlusLuck" parameter="35" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="52" targetID="48" fromX="-752" fromY="-2675" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="53" positionX="-1835" positionY="-2279" width="460" height="429" sourceGroup="GROUP-KRAKEN_11P_9M_9S" cargoPercentage="150" dropPercentage="150">
+      <outputs ownerID="53" targetID="48" fromX="-1404" fromY="-2637" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="54" positionX="4441" positionY="-74" width="460" height="429" sourceGroup="GROUP-DRAGON_ONE_10P_8M_8S" cargoPercentage="200" dropPercentage="100">
+      <outputs ownerID="54" targetID="16" fromX="4871" fromY="-432" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="55" positionX="1142" positionY="-1166" width="350" height="805">
+      <outputs name="Ataque!" ownerID="55" targetID="56" fromX="1467" fromY="-1657" />
+      <outputs name="[Usuário de magia] Enfrente-os com magia." ownerID="55" targetID="66" fromX="1467" fromY="-1737" />You enter a partially submerged chamber that is mostly intact, but you quickly realise this place is unclean. The doors shut behind you, and you feel the malevolent presence of the unliving around you!</nodes>
+    <nodes xsi:type="NodeChallenge" ID="56" positionX="856" positionY="-1986" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-UNLI_DRAGONS_10P_11M_10S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="56" targetID="57" fromX="1297" fromY="-2481" />
+      <outputs name="Lose" ownerID="56" targetID="63" fromX="1297" fromY="-2561" />
+      <outputs name="Surrender" ownerID="56" targetID="63" fromX="1297" fromY="-2641" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="57" positionX="1491" positionY="-2575" width="350" height="885">
+      <outputs name="Saqueie o que puder e vá embora." ownerID="57" targetID="60" fromX="1816" fromY="-3066" />
+      <outputs name="Destrua as pinturas." ownerID="57" targetID="58" fromX="1816" fromY="-3146" />
+      <outputs name="[Magic user]These spirits are strong and the paintings are artefacts of great power too, but ones that are best left for the depths of the ocean. Sair." ownerID="57" targetID="59" fromX="1816" fromY="-3226" />You destroy the unliving, and the chamber releases its hold on you. The spirits that you defeated are drawn into old paintings on the walls. The portraits now look at you with cold hatred, but they seem unable to attack again.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="58" positionX="1865" positionY="-2954" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="80" maxDamage="100" useCountInPercent="true" targetGroup="1">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="ppl">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="58" targetID="62" fromX="2294" fromY="-3342" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="59" positionX="2482" positionY="-3065" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="mag">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers list="mag">
+            <scriptCallWithTag scriptName="FMO_ChangeEffectSkillOnCharacter" parameter="5" tag="SKILL_PACK-BLESS_M" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="59" targetID="60" fromX="2930" fromY="-3497" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="60" positionX="3027" positionY="-3149" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="60" targetID="82" fromX="3476" fromY="-3586" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="61" positionX="4043" positionY="-3226" width="350" height="530" allPlayersXP="10" allPlayersRP="6" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeAdventure" ID="62" positionX="1869" positionY="-3696" width="350" height="725">
+      <outputs name="Sair." ownerID="62" targetID="60" fromX="2194" fromY="-4187" />You try to destroy one of the paintings, and its power burns into your very souls instead! You are forced to flee, and the doors to the chamber disappear behind you.</nodes>
+    <nodes xsi:type="NodeDealDamage" ID="63" positionX="2955" positionY="-3867" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="50" maxDamage="80" useCountInPercent="true" targetGroup="ppl">
+      <outputs ownerID="63" targetID="64" fromX="3384" fromY="-4255" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="64" positionX="2390" positionY="-4268" width="350" height="725">
+      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />You are defeated and forced to flee. The doors to the chamber disappear behind you.</nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="65" positionX="449" positionY="-3034" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="65" targetID="35" fromX="897" fromY="-3466" />
+    </nodes>
+    <nodes xsi:type="NodeChallenge" ID="66" positionX="1277" positionY="-3591" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-UNLI_DRAGONS_10P_11M_10S" challengeScale="101" challengedList="ppl">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="mag">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Win" ownerID="66" targetID="67" fromX="1718" fromY="-4086" />
+      <outputs name="Lose" ownerID="66" targetID="63" fromX="1718" fromY="-4166" />
+      <outputs name="Surrender" ownerID="66" targetID="63" fromX="1718" fromY="-4246" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="67" positionX="2460" positionY="-3611" width="460" height="429" sourceGroup="GROUP-UNLI_DRAGON_ONE_7P_7M_7S" cargoPercentage="150" dropPercentage="100">
+      <logic>
+        <ModifierBlock>
+          <LogicProcessing name="1" list1="mag">
+            <scriptCallWithTag scriptName="FLP_GetRandomXelements" parameter="1" />
+          </LogicProcessing>
+          <LogicModifiers list="1">
+            <scriptCallWithTag scriptName="FMO_AddTags" parameter="1" tag="TAG-DESTINY" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="67" targetID="57" fromX="2890" fromY="-3969" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="68" positionX="-282" positionY="-1399" width="460" height="589">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="50" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs ownerID="68" targetID="20" group="G1" fromX="148" fromY="-1757" />
+      <outputs ownerID="68" targetID="69" group="G1" fromX="148" fromY="-1837" />
+      <outputs ownerID="68" targetID="77" group="G1" fromX="148" fromY="-1917" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="69" positionX="314" positionY="-1573" width="350" height="885">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction>
+            <scriptCallWithTag scriptName="FRA_Chance" parameter="40" />
+          </LogicResultAction>
+        </FilterBlock>
+      </logic>
+      <outputs name="Ataque!" ownerID="69" targetID="73" fromX="639" fromY="-2064" />
+      <outputs name="Sair." ownerID="69" targetID="70" fromX="639" fromY="-2144" />
+      <outputs name="[Demônio da água] Nade ao redor das criaturas do mar e roube o que puder." ownerID="69" targetID="71" fromX="639" fromY="-2224" />As ruínas ficaram submersas por muito tempo para conter qualquer coisa de grande valor, mas você identifica alguns materiais em potencial que podem ser recuperados. Há, no entanto, muita vida marinha aqui que você precisa limpar se quiser prosseguir.</nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="70" positionX="739" positionY="-1400" width="350" height="530" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeSpawnOnMap" ID="71" positionX="338" positionY="-2510" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <logic>
+        <FilterBlock>
+          <LogicResultAction list="wdemon">
+            <scriptCallWithTag scriptName="FRA_ListSizeMoreEqualThan" parameter="1" />
+          </LogicResultAction>
+        </FilterBlock>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="10;30" tag="ITEM_CARGO-FEW_HIGH_RANDOM_WOOD" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="5;15" tag="ITEM_CARGO-PACK_PURE_STONE" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="71" targetID="72" fromX="786" fromY="-2942" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="72" positionX="958" positionY="-2792" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
+    <nodes xsi:type="NodeChallenge" ID="73" positionX="-492" positionY="-3034" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_SEA_DEMONS_MIX_11P_9M_9S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="73" targetID="74" fromX="-50" fromY="-3529" />
+      <outputs name="Lose" ownerID="73" targetID="76" fromX="-50" fromY="-3609" />
+      <outputs name="Surrender" ownerID="73" targetID="76" fromX="-50" fromY="-3689" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="74" positionX="53" positionY="-3031" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="15;30" tag="ITEM_CARGO-FEW_ADV_WOOD" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="15;30" tag="ITEM_CARGO-FEW_ADV_STONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="20;40" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddTagShared" parameter="3" tag="TAG-LOYALTY_WATER_DEMONS" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="74" targetID="60" fromX="378" fromY="-3522" />You defeat the sea creatures and gather the loot.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="76" positionX="457" positionY="-3554" width="350" height="725">
+      <outputs name="Sair." ownerID="76" targetID="65" fromX="782" fromY="-4045" />You are defeated and forced to flee.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="77" positionX="-280" positionY="-2037" width="350" height="805">
+      <outputs name="Ataque!" ownerID="77" targetID="78" fromX="45" fromY="-2528" />
+      <outputs name="Sair." ownerID="77" targetID="70" fromX="45" fromY="-2608" />You discover that the ruins have become a nest of czytlica. Some of them swim nearby, along with corpses of many warriors who were perhaps lured here by a song of sea demons.</nodes>
+    <nodes xsi:type="NodeChallenge" ID="78" positionX="-1400" positionY="-3054" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_SEA_DEMONS_MIX_8P_7M_7S" challengeScale="101" challengedList="ppl">
+      <outputs name="Win" ownerID="78" targetID="80" fromX="-958" fromY="-3549" />
+      <outputs name="Lose" ownerID="78" targetID="76" fromX="-958" fromY="-3629" />
+      <outputs name="Surrender" ownerID="78" targetID="76" fromX="-958" fromY="-3709" />
+    </nodes>
+    <nodes xsi:type="NodeAdventure" ID="79" positionX="-877" positionY="-3055" width="350" height="725">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="15;30" tag="ITEM_CARGO-FEW_ADV_STONE" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="20;40" tag="---" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddTagShared" parameter="3" tag="TAG-LOYALTY_WATER_DEMONS" />
+          </LogicModifiers>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="0;2" tag="ITEM_CARGO-RARE_ONE_ORC_WEAPON" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs name="Sair." ownerID="79" targetID="60" fromX="-551" fromY="-3546" />You defeat the sea creatures and gather the loot.</nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="80" positionX="-486" positionY="-3781" width="460" height="429" sourceGroup="GROUP-ELVES_6P_6M_5S" cargoPercentage="100">
+      <outputs ownerID="80" targetID="79" fromX="-55" fromY="-4139" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="81" positionX="2440" positionY="960" width="460" height="429" sourceGroup="GROUP-DRAGON_ONE_10P_8M_8S" cargoPercentage="150" dropPercentage="100">
+      <outputs ownerID="81" targetID="6" fromX="2870" fromY="601" />
+    </nodes>
+    <nodes xsi:type="NodeProduceDrop" ID="82" positionX="3530" positionY="-3302" width="460" height="429" sourceGroup="GROUP-PIRATES_SEA_THING_9P_10M_10S" cargoPercentage="200" dropPercentage="200">
+      <logic>
+        <ModifierBlock>
+          <LogicModifiers>
+            <scriptCallWithTag scriptName="FMO_AddItems" parameter="15;20" tag="ITEM_CARGO-FEW_ADV_GEMSTONE" />
+          </LogicModifiers>
+        </ModifierBlock>
+      </logic>
+      <outputs ownerID="82" targetID="61" fromX="3960" fromY="-3660" />
+    </nodes>
+    <nodes xsi:type="NodeSpawnOnMap" ID="84" positionX="3074" positionY="-876" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
+      <outputs ownerID="84" targetID="29" fromX="3522" fromY="-1308" />
+    </nodes>
+    <nodes xsi:type="NodeAdventureEnd" ID="85" positionX="-1155" positionY="-1307" width="350" height="530" allPlayersXP="10" allPlayersRP="6" linkedEventUniqueID="0" />
+  </Adventure>
+</MODULE>
