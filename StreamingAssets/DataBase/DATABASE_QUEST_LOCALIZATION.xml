@@ -20,7 +20,7 @@
 		<Entry Key="QUEST_MQ_CMUCH2_DES" Val="Você matou o sapo estranho."></Entry>
 		<Entry Key="QUEST_MQ_CMUCH3_DES" Val="Você saiu do pântano."></Entry>
 		<Entry Key="QUEST_MQ_BABA" Val="Você encontrou a cabana da bruxa e a bruxa dentro: uma baba yaga. Ela pediu o sapo."></Entry>
-		<Entry Key="QUEST_MQ_BABA_DES" Val="O sapo parecia um demônio, mas na verdade era um vodnik amaldiçoado. O &amp;#39;príncipe&amp;#39; estava grato por sua libertação. Ele lhe falou de demônios sendo queimados pela luz que veio do solo. Alguns morreram, outros mudaram. Esta luz está claramente envenenando a terra."></Entry>
+		<Entry Key="QUEST_MQ_BABA_DES" Val="O sapo parecia um demônio, mas na verdade era um vodnik amaldiçoado. O '#39;príncipe'#39; estava grato por sua libertação. Ele lhe falou de demônios sendo queimados pela luz que veio do solo. Alguns morreram, outros mudaram. Esta luz está claramente envenenando a terra."></Entry>
 		<Entry Key="QUEST_MQ_BABA2_DES" Val="Você falhou em desfazer a maldição do cmuch, mas o yaga mencionou algo sobre os demônios do pântano desaparecendo após a Destruição e uma luz aparecendo. Provavelmente outro caso de intromissão dos Lightbringers."></Entry>
 		<Entry Key="QUEST_MQ_BABA3_DES" Val="Você atacou a baba yaga e não conseguiu informaçoes dela ou do cmuch. Fique de olho nos sinais das atividades dos portadores da luz."></Entry>
 		<Entry Key="QUEST_MQ_BABA4_DES" Val="Você deixou o sapo com a yaga. Ela mencionou algo sobre os demônios do pântano desaparecendo após a Fragmentação e uma luz aparecendo. Provavelmente outro caso de intromissão dos Lightbringers."></Entry>
@@ -31,7 +31,7 @@
 		<Entry Key="QUEST_MQ_AMBUSH_DES" Val="Você derrotou os bandidos e recuperou seus bens. Os patifes falaram da terra destruindo suas casas e da luz levando seu povo, levando-os ao banditismo. Este flagelo da luz precisa ser detido. Fique de olho em um caminho."></Entry>
 		<Entry Key="QUEST_MQ_AMBUSH2_DES" Val="Os bandidos te derrotaram, mas te deixaram ir. Os patifes falaram da terra destruindo suas casas e da luz levando seu povo, levando-os ao banditismo. Este flagelo da luz precisa ser detido. Fique de olho em um caminho."></Entry>
 		<Entry Key="QUEST_MQ_ALECHEMIST" Val="Você se deparou com um homem estranho que se autodenomina Alquimista."></Entry>
-		<Entry Key="QUEST_MQ_ALECHEMIST2_DES" Val="Você mata o homem e saqueia sua mesa estranha. Entre outras coisas, você encontra um mapa com um local claramente marcado: &amp;#39;Bandidos estúpidos incapazes de compreender a importância de sua caverna - precisam entrar aqui antes que tudo se estilhace!&amp;#39;"></Entry>
+		<Entry Key="QUEST_MQ_ALECHEMIST2_DES" Val="Você mata o homem e saqueia sua mesa estranha. Entre outras coisas, você encontra um mapa com um local claramente marcado: '#39;Bandidos estúpidos incapazes de compreender a importância de sua caverna - precisam entrar aqui antes que tudo se estilhace!'#39;"></Entry>
 		<Entry Key="QUEST_MQ_ALECHEMIST3_DES" Val="Você tentou, mas não conseguiu matar o Alquimista. Ele deixou você viver e provou ser um agente da vontade divina como você. Ele lhe falou de uma caverna vermelha que pode conter o segredo do flagelo do portador da luz. Mas para entrar na caverna, você precisa lidar com os bandidos de Red Ridge, que montaram acampamento perto da entrada da caverna. O covil dos bandidos deve aparecer no seu mapa."></Entry>
 		<Entry Key="QUEST_MQ_ALECHEMIST_DES" Val="O Alquimista provou ser um agente da vontade divina como você. Ele lhe falou de uma caverna vermelha que pode conter o segredo do flagelo do portador da luz. Mas para entrar na caverna, você precisa lidar com os bandidos de Red Ridge, que montaram acampamento perto da entrada da caverna. O covil dos bandidos deve aparecer no seu mapa."></Entry>
 		<Entry Key="QUEST_MQ_BANDITLAIR" Val="Você encontrou o covil dos bandidos de Red Ridge."></Entry>
@@ -122,20 +122,20 @@
 		<Entry Key="QUEST_MQ_DZIAD3_DES" Val="Você não conseguiu obter o coração de gelo do dziad mroz, então agora você precisa procurar outra maneira de lidar com a besta da luz."></Entry>
 		<Entry Key="QUEST_MQ_ELFPATH" Val="Você se aproximou do Woodlandkin em busca de respostas e ajuda com a ameaça do Lightbringer."></Entry>
 		<Entry Key="QUEST_MQ_ELFPATH_DES" Val="Um jovem elfo druida, Nai-ysir, disse a você que o conselho é muito lento para agir. Mas ela também disse que conhece um mago elfo que pode ser a causa de tudo isso. Capturá-la e trazê-la ao conselho pode garantir sua ajuda. Vá procurar o mago desonesto."></Entry>
-		<Entry Key="QUEST_MQ_ELFMAGE" Val="Você encontrou o esconderijo de Ail&amp;#39;yleth, a maga élfica desonesta."></Entry>
-		<Entry Key="QUEST_MQ_ELFMAGE_DES" Val="Ail&amp;#39;yleth tentou influenciar você para o lado dela, alegando que é hora da luz governar. Você concordou em seguir o caminho dela e procurar uma entrada escondida na câmara do coração onde reside a besta da luz."></Entry>
-		<Entry Key="QUEST_MQ_ELFMAGE2_DES" Val="Ail&amp;#39;yleth tentou influenciar você para o lado dela, alegando que é hora da luz governar. Você não concordou e, em vez disso, convenceu o equilíbrio dela a ser atendido. O mago se juntará a você na antiga prisão e ajudará a resgatar o grande mestre anão."></Entry>
-		<Entry Key="QUEST_MQ_ELFMAGE3_DES" Val="Ail&amp;#39;yleth tentou influenciar você para o lado dela, alegando que é hora da luz governar. Você se recusou a ouvir sua loucura e a capturou para ser levada de volta aos elfos."></Entry>
-		<Entry Key="QUEST_MQ_ELFMAGE4_DES" Val="Ail&amp;#39;yleth tentou influenciar você para o lado dela, alegando que é hora da luz governar. Você se recusou a ouvir sua loucura, mas também não conseguiu capturá-la. Você deve procurar outra maneira de destruir a luz."></Entry>
+		<Entry Key="QUEST_MQ_ELFMAGE" Val="Você encontrou o esconderijo de Ail'#39;yleth, a maga élfica desonesta."></Entry>
+		<Entry Key="QUEST_MQ_ELFMAGE_DES" Val="Ail'#39;yleth tentou influenciar você para o lado dela, alegando que é hora da luz governar. Você concordou em seguir o caminho dela e procurar uma entrada escondida na câmara do coração onde reside a besta da luz."></Entry>
+		<Entry Key="QUEST_MQ_ELFMAGE2_DES" Val="Ail'#39;yleth tentou influenciar você para o lado dela, alegando que é hora da luz governar. Você não concordou e, em vez disso, convenceu o equilíbrio dela a ser atendido. O mago se juntará a você na antiga prisão e ajudará a resgatar o grande mestre anão."></Entry>
+		<Entry Key="QUEST_MQ_ELFMAGE3_DES" Val="Ail'#39;yleth tentou influenciar você para o lado dela, alegando que é hora da luz governar. Você se recusou a ouvir sua loucura e a capturou para ser levada de volta aos elfos."></Entry>
+		<Entry Key="QUEST_MQ_ELFMAGE4_DES" Val="Ail'#39;yleth tentou influenciar você para o lado dela, alegando que é hora da luz governar. Você se recusou a ouvir sua loucura, mas também não conseguiu capturá-la. Você deve procurar outra maneira de destruir a luz."></Entry>
 		<Entry Key="QUEST_MQ_ELFMAGE5_DES" Val="Você devolveu o mago elfo ao conselho e eles concordaram em ajudá-lo a destruir a besta da luz. Um enviado irá encontrá-lo de volta à Caverna Vermelha."></Entry>
 		<Entry Key="QUEST_MQ_ELFMAGE6_DES" Val="Você devolveu o mago elfo ao conselho, mas eles não concordaram em ajudá-lo. Nai-ysir ficou com raiva e decidiu se juntar a você, mas agora você deve encontrar outra maneira de lidar com a luz."></Entry>
-		<Entry Key="QUEST_MQ_ELFZMEY" Val="Você encontrou a entrada para a câmara do coração exatamente como Ail&amp;#39;yleth o orientou."></Entry>
+		<Entry Key="QUEST_MQ_ELFZMEY" Val="Você encontrou a entrada para a câmara do coração exatamente como Ail'#39;yleth o orientou."></Entry>
 		<Entry Key="QUEST_MQ_ELFZMEY_DES" Val="O mago se junta a você e o guia para enfrentar alguns guardioes anoes."></Entry>
 		<Entry Key="QUEST_MQ_ELFZMEY2_DES" Val="Você derrotou os guardioes anoes e ajudou a luz-zmey para que um dia, a luz governe Thea. Para melhor ou pior, você completou sua tarefa."></Entry>
 		<Entry Key="QUEST_MQ_ELFZMEY3_DES" Val="Os guardioes anoes derrotaram você. Volte quando estiver melhor preparado."></Entry>
 		<Entry Key="QUEST_MQ_ELFZMEYCAVE" Val="Você entrou na câmara do coração para enfrentar os guardas anoes e ajudar o light-zmey."></Entry>
 		<Entry Key="QUEST_THEO_START" Val="Theodore, um ex-demônio da casa, agora um mensageiro divino, visitou você."></Entry>
-		<Entry Key="QUEST_THEO_START_DES" Val="Ele estabeleceu algumas das regras básicas para sobreviver neste mundo. Suas palavras finais foram: &amp;#39;Eu posso aparecer de vez em quando para lhe contar coisas, mas, por enquanto, você deve dar seus primeiros passos nesta terra hostil. Lembre-se de verificar os recursos no mapa para Coletar, montar acampamento para Artesanato e Culinária e verificar seu Inventário para ter certeza de que está bem equipado. Aqui tem um pouco de madeira, então você pode se curar ao acampar. Meu conselho é explorar, aprender os truques e só então decidir se deseja estabelecer um assentamento."></Entry>
+		<Entry Key="QUEST_THEO_START_DES" Val="Ele estabeleceu algumas das regras básicas para sobreviver neste mundo. Suas palavras finais foram: '#39;Eu posso aparecer de vez em quando para lhe contar coisas, mas, por enquanto, você deve dar seus primeiros passos nesta terra hostil. Lembre-se de verificar os recursos no mapa para Coletar, montar acampamento para Artesanato e Culinária e verificar seu Inventário para ter certeza de que está bem equipado. Aqui tem um pouco de madeira, então você pode se curar ao acampar. Meu conselho é explorar, aprender os truques e só então decidir se deseja estabelecer um assentamento."></Entry>
 		<Entry Key="QUEST_THEO_VISIT2_DES" Val="Theodore elogiou você pelo seu progresso com os portadores da luz e lhe concedeu uma segunda semente cósmica."></Entry>
 		<Entry Key="QUEST_THEO_TUTORIAL" Val="Theodore mais uma vez visitou você."></Entry>
 		<Entry Key="QUEST_THEO_TUTORIAL_DES" Val="O mensageiro pediu para você encontrar uma vila eslava onde um ex-escolhido precisa aprender uma lição. Você deve encontrar a vila em seu mapa."></Entry>
@@ -148,7 +148,7 @@
 		<Entry Key="QUEST_THEO_WITCHHOUSE2_DES" Val="Ele estava preocupado que você não se saísse bem, mas disse que você tem tempo para melhorar. Ele mencionou que voltará para uma pequena tarefa final antes que você esteja pronto para as grandes coisas."></Entry>
 		<Entry Key="QUEST_THEO" Val="Teodoro"></Entry>
 		<Entry Key="QUEST_THEO_HERESY" Val="Você encontrou a vila para onde Theodore o enviou."></Entry>
-		<Entry Key="QUEST_THEO_HERESY_DES" Val="Os aldeoes apontaram para você a localização de Zbigniev, o escolhido caído, mas tudo o que eles podiam dizer era &amp;#39;vá por ali&amp;#39;. Você deve procurá-lo nas proximidades."></Entry>
+		<Entry Key="QUEST_THEO_HERESY_DES" Val="Os aldeoes apontaram para você a localização de Zbigniev, o escolhido caído, mas tudo o que eles podiam dizer era '#39;vá por ali'#39;. Você deve procurá-lo nas proximidades."></Entry>
 		<Entry Key="QUEST_THEO_HERESY2_DES" Val="Você destruiu a vila e Theodore parece satisfeito com a mensagem firme que isso envia para outros incrédulos. Ele disse que é hora de ele desaparecer. Ele lhe disse para ficar de olho nos portadores da luz e que, com o tempo, você encontrará pistas para sua próxima tarefa."></Entry>
 		<Entry Key="QUEST_THEO_HERESY3_DES" Val="Você atacou os aldeoes, mas falhou. Você deve retornar quando estiver melhor preparado."></Entry>
 		<Entry Key="QUEST_THEO_ZBIGNIEV" Val="Você encontrou Zbigniev, o escolhido caído que parecia muito zangado com os deuses."></Entry>
@@ -235,7 +235,7 @@
 		<Entry Key="QUEST_LEOEND" Val="Leopold visitou você depois do fiasco do Kurv Game."></Entry>
 		<Entry Key="QUEST_LEOEND_DES" Val="Ele disse que o jogo foi suspenso porque os demônios foram abalados por sua explosão violenta. Ele deixou um presente de agradecimento antes de seguir em frente."></Entry>
 		<Entry Key="QUEST_LEO_GAME" Val="Você entrou no jogo Kurv."></Entry>
-		<Entry Key="QUEST_LEO_GAME_DES" Val="Você matou todos os demônios, mas Leopold parecia muito ingrato e simplesmente saiu correndo dizendo &amp;#39;humanos são sangrentos&amp;#39;. Ainda assim, não há mais roubo dele."></Entry>
+		<Entry Key="QUEST_LEO_GAME_DES" Val="Você matou todos os demônios, mas Leopold parecia muito ingrato e simplesmente saiu correndo dizendo '#39;humanos são sangrentos'#39;. Ainda assim, não há mais roubo dele."></Entry>
 		<Entry Key="QUEST_LEO_GAME2_DES" Val="Você tentou matar os demônios, mas falhou mal. Você não tem certeza do que acontece agora."></Entry>
 		<Entry Key="QUEST_LEO_GAME3_DES" Val="Você ganhou o jogo e pediu a liberdade de Leopold. Não há mais roubo e um skshack feliz."></Entry>
 		<Entry Key="QUEST_LEO_GAME4_DES" Val="Você ganhou o jogo, mas condenou Leopold à servidão. Afinal, o pequeno bastardo roubou de você."></Entry>
@@ -529,7 +529,7 @@
 		<Entry Key="QUEST_ARATHCHEST_DES2" Val="Você saiu."></Entry>
 		<Entry Key="QUEST_ARATHCHEST_DES3" Val="Não havia tesouro."></Entry>
 		<Entry Key="QUEST_LOGGOSK" Val="Poder de Gosk"></Entry>
-		<Entry Key="QUEST_GOSKMIGHT" Val="Você encontrou um pedaço de um antigo mapa do tesouro pirata chamado Gosk&amp;#39;s Might."></Entry>
+		<Entry Key="QUEST_GOSKMIGHT" Val="Você encontrou um pedaço de um antigo mapa do tesouro pirata chamado Gosk'#39;s Might."></Entry>
 		<Entry Key="QUEST_GOSKMIGHT_DES" Val="O mapa direciona você para algumas ruínas antigas."></Entry>
 		<Entry Key="QUEST_GOSKMIGHT2" Val="Você encontrou as ruínas mencionadas no mapa do tesouro."></Entry>
 		<Entry Key="QUEST_GOSKMIGHT2_DES" Val="Você descobriu uma câmara escondida e conseguiu abri-la e obter sua próxima pista. Parece que você precisa enfrentar mais piratas para encontrar os três capitães restantes que têm as peças do mapa. Fique atento às notícias da atividade pirata em terra ou navegue para pesquisar os mares."></Entry>

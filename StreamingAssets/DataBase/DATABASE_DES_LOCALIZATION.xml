@@ -81,7 +81,7 @@
 		<Entry Key="DES_TAG_CHOSEN" Val="Escolhido"></Entry>
 		<Entry Key="DES_TAG_CHOSEN_DES" Val="Este personagem é o escolhido dos deuses. Eles são imunes à morte mental e menos propensos a serem sequestrados, mas se eles morrerem, seu tempo acabou."></Entry>
 		<Entry Key="DES_TAG_HALF_RACE" Val="Mestiço"></Entry>
-		<Entry Key="DES_TAG_HALF_RACE_DES" Val="Quando as diferentes pessoas de Thea se misturam, os resultados podem variar. Para alguns, a criança se tornará puramente de uma raça, mas para os humanos, as crianças podem permanecer humanas e carregar apenas alguns traços de seu &amp;#39;outro&amp;#39; pai."></Entry>
+		<Entry Key="DES_TAG_HALF_RACE_DES" Val="Quando as diferentes pessoas de Thea se misturam, os resultados podem variar. Para alguns, a criança se tornará puramente de uma raça, mas para os humanos, as crianças podem permanecer humanas e carregar apenas alguns traços de seu '#39;outro'#39; pai."></Entry>
 		<Entry Key="DES_TAG_WOODFOLK" Val="Povo da Madeira"></Entry>
 		<Entry Key="DES_TAG_WOODFOLK_DES" Val="Seres que estão em sintonia com a floresta."></Entry>
 		<Entry Key="DES_TAG_MAGIC_USER" Val="Usuário mágico"></Entry>
@@ -163,7 +163,7 @@
 		<Entry Key="DES_TAG_TARGET_CLOSER_IN_EACH_COLUMN" Val="Alvo - Mais próximo em cada coluna"></Entry>
 		<Entry Key="DES_TAG_TARGET_CLOSER_IN_EACH_COLUMN_DES" Val="Alveja o primeiro inimigo em cada coluna que estiver mais perto do lançador."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_NORMAL" Val="Dano Normal"></Entry>
-		<Entry Key="DES_TAG_DAMAGE_NORMAL_DES" Val="Danos regulares. O número normalmente indica multiplicador de dano ou dano adicional com o sinal &amp;#39;+&amp;#39;."></Entry>
+		<Entry Key="DES_TAG_DAMAGE_NORMAL_DES" Val="Danos regulares. O número normalmente indica multiplicador de dano ou dano adicional com o sinal '#39;+'#39;."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_HEAL" Val="Curar"></Entry>
 		<Entry Key="DES_TAG_DAMAGE_HEAL_DES" Val="Aumenta os Pontos de Vida."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_GUARDIAN_DEMON" Val="Invocar Demônio Guardião"></Entry>
@@ -640,7 +640,7 @@
 		<Entry Key="DES_SUBRACE_HUM_INVENTOR" Val="Inventor Humano"></Entry>
 		<Entry Key="DES_SUBRACE_HUM_INVENTOR_DES" Val="Especializou-se em invenção e pesquisa. Eles também sabem como criar itens e construir estruturas."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_INVENTOR_NEMOSLAV" Val="Nemoslav Jr."></Entry>
-		<Entry Key="DES_SUBRACE_HUM_INVENTOR_NEMOSLAV_DES" Val="Nemoslav vem de uma longa linhagem de inventores e exploradores incríveis. Dizia-se que seu bisavô possuía um navio que podia nadar debaixo d&amp;#39;água. Nemoslav Jr ainda está para adquirir tal renome para si mesmo, mas certamente é brilhante e cheio de ambição."></Entry>
+		<Entry Key="DES_SUBRACE_HUM_INVENTOR_NEMOSLAV_DES" Val="Nemoslav vem de uma longa linhagem de inventores e exploradores incríveis. Dizia-se que seu bisavô possuía um navio que podia nadar debaixo d'#39;água. Nemoslav Jr ainda está para adquirir tal renome para si mesmo, mas certamente é brilhante e cheio de ambição."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_GATHERER" Val="Coletor Humano"></Entry>
 		<Entry Key="DES_SUBRACE_HUM_GATHERER_DES" Val="Mãos rápidas e olhos aguçados os tornam proficientes na colheita de recursos."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_HUNTER" Val="Caçador Humano"></Entry>
@@ -696,7 +696,7 @@
 		<Entry Key="DES_SUBRACE_ELF_MAGE" Val="Barriga do Rio"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_ELF_MAGE" Val="Mago Élfico Ancião"></Entry>
 		<Entry Key="DES_SUBRACE_ELF_YOUNG_MAGE" Val="Elfo Jovem Mago"></Entry>
-		<Entry Key="DES_SUBRACE_ELF_MAGE_DES" Val="Guardioes da sabedoria antiga e mestres das artes místicas. Muitas vezes mais &amp;#39;civilizados&amp;#39; do que seus parentes da floresta devido à sua afinidade com viagens e intercâmbio cultural. Além de raras exceçoes, os magos estão realmente entre os mais jovens dos parentes élficos, porque foram os primeiros a perecer quando a escuridão tomou o mundo no passado."></Entry>
+		<Entry Key="DES_SUBRACE_ELF_MAGE_DES" Val="Guardioes da sabedoria antiga e mestres das artes místicas. Muitas vezes mais '#39;civilizados'#39; do que seus parentes da floresta devido à sua afinidade com viagens e intercâmbio cultural. Além de raras exceçoes, os magos estão realmente entre os mais jovens dos parentes élficos, porque foram os primeiros a perecer quando a escuridão tomou o mundo no passado."></Entry>
 		<Entry Key="DES_SUBRACE_ELF_SHADOW" Val="Sombra élfica"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_ELF_SHADOW" Val="Sombra Élfica Anciã"></Entry>
 		<Entry Key="DES_SUBRACE_ELF_SHADOW_DES" Val="Corrompido pela escuridão há muito tempo, uma casta banida de assassinos mais parecida com demônios das trevas do que sua própria espécie."></Entry>
@@ -849,7 +849,7 @@
 		<Entry Key="DES_SUBRACE_DEMON_BIES" Val="correr"></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_BIES_DES" Val="Bies é uma fera sombria e agourenta que é conhecida por possuir suas vítimas e fazê-las causar estragos na terra."></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_SYRIN" Val="olho"></Entry>
-		<Entry Key="DES_SUBRACE_DEMON_SYRIN_DES" Val="Parte pássaro, parte humanóide, conhecido por se sentar nas rochas à beira d&amp;#39;água e encantar os homens - por isso, às vezes são confundidos com os jurata."></Entry>
+		<Entry Key="DES_SUBRACE_DEMON_SYRIN_DES" Val="Parte pássaro, parte humanóide, conhecido por se sentar nas rochas à beira d'#39;água e encantar os homens - por isso, às vezes são confundidos com os jurata."></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_LIGHT_SICK_SYRIN" Val="Sirina Leve"></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_LIGHT_SICK_SYRIN_DES" Val="Parte pássaro, parte humanóide, conhecido por sentar nas rochas à beira da água e encantar os homens - mas este parece enfraquecido pela doença leve."></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_ALKONOST" Val="Alkonost"></Entry>
@@ -1054,11 +1054,11 @@
 		<Entry Key="DES_SUBRACE_WOOD_BEAR" Val="Urso de madeira"></Entry>
 		<Entry Key="DES_SUBRACE_WOOD_BEAR_DES" Val="Uma escultura de madeira animada, lindamente esculpida para representar um urso selvagem com machado. Os ursos não são conhecidos por serem gentis mesmo em um bom dia, mas este parece particularmente determinado a matar."></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_HELL_HOUNDS" Val="Cães do Inferno"></Entry>
-		<Entry Key="DES_SUBRACE_DEMON_HELL_HOUNDS_DES" Val="Carinhosamente chamados de cães do inferno, embora ninguém tenha certeza do que o &amp;#39;inferno&amp;#39; significa. Alguns especulam uma conexão com os submundos."></Entry>
+		<Entry Key="DES_SUBRACE_DEMON_HELL_HOUNDS_DES" Val="Carinhosamente chamados de cães do inferno, embora ninguém tenha certeza do que o '#39;inferno'#39; significa. Alguns especulam uma conexão com os submundos."></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_TWO_HELL_HOUNDS" Val="Dois cães do inferno"></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_TWO_HELL_HOUNDS_DES" Val="Dois cães pretos, carinhosamente chamados de cães infernais por seu dono - embora ninguém em Slavya saiba a que esse inferno se refere? Esses dois filhotes costumavam ser bons cães, atacando apenas indesejáveis e pequenas criaturas, mas algo ou alguém os fez ansiar por mais sangue."></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_TREASURE" Val="Tomislav - Demônio do Tesouro"></Entry>
-		<Entry Key="DES_SUBRACE_DEMON_TREASURE_DES" Val="Tomislav é o líder da Bear Village, um autoproclamado &amp;#39;chefe&amp;#39; que parece cuidar muito de sua casa. Ele também é um demônio tesoureiro, que normalmente seria encontrado em cavernas e masmorras, guardando algumas jóias perdidas há muito tempo. Este claramente encontrou um novo chamado."></Entry>
+		<Entry Key="DES_SUBRACE_DEMON_TREASURE_DES" Val="Tomislav é o líder da Bear Village, um autoproclamado '#39;chefe'#39; que parece cuidar muito de sua casa. Ele também é um demônio tesoureiro, que normalmente seria encontrado em cavernas e masmorras, guardando algumas jóias perdidas há muito tempo. Este claramente encontrou um novo chamado."></Entry>
 		<Entry Key="DES_SUBRACE_FOREFATHER_SPIRITS" Val="Espíritos Antepassados"></Entry>
 		<Entry Key="DES_SUBRACE_FOREFATHER_SPIRITS_DES" Val="Os antepassados são as almas dos antepassados, também referidos como dziody. São almas velhas, sábias, mas orgulhosas e fáceis de se irritar. O povo de Slavya há muito honra os antepassados com todas as celebraçoes das almas, pedindo sua sabedoria e proteção em troca da veneração."></Entry>
 		<Entry Key="DES_SUBRACE_POSSESSED_PUMPKIN" Val="Abóbora Possuída"></Entry>
@@ -2803,7 +2803,7 @@
 		<Entry Key="DES_SKILL_GREED" Val="Ambição"></Entry>
 		<Entry Key="DES_SKILL_GREED_DES" Val="Anoes sem clã sofrem de uma forma estranha de fome - eles precisam ingerir uma barra de metal a cada turno. Toda vez que esse personagem ingere uma barra de metal, ele está mais perto de se livrar dessa fraqueza."></Entry>
 		<Entry Key="DES_SKILL_FOODIE" Val="Viciado em comida"></Entry>
-		<Entry Key="DES_SKILL_FOODIE_DES" Val="As pessoas comuns têm um ditado - &amp;#39;Nunca coma mais do que você pode levantar&amp;#39;. Mas os anoes levantam muito e certamente não são pessoas comuns! Como anão, este personagem tem chance de comer 1 {ICON:FoodIcon} extra por turno."></Entry>
+		<Entry Key="DES_SKILL_FOODIE_DES" Val="As pessoas comuns têm um ditado - '#39;Nunca coma mais do que você pode levantar'#39;. Mas os anoes levantam muito e certamente não são pessoas comuns! Como anão, este personagem tem chance de comer 1 {ICON:FoodIcon} extra por turno."></Entry>
 		<Entry Key="DES_SKILL_SLAVE" Val="Marca de Escravo"></Entry>
 		<Entry Key="DES_SKILL_SLAVE_DES" Val="Cada escravo tem uma marca. Não apenas em seu corpo, mas também em sua mente e alma. Slave Mark é um símbolo terrível de seu passado, futuro e presente."></Entry>
 		<Entry Key="DES_SKILL_NATURE_PURITY" Val="Pureza Natural"></Entry>
@@ -3532,11 +3532,11 @@
 		<Entry Key="DES_SUBSKILL_FIRST_STRIKE" Val="Primeiro ataque"></Entry>
 		<Entry Key="DES_SUBSKILL_FIRST_STRIKE_DES" Val="Causa dano ao inimigo diretamente oposto quando jogado no campo de batalha."></Entry>
 		<Entry Key="DES_SUBSKILL_BLOOD_THIRSTY" Val="Sanguinário"></Entry>
-		<Entry Key="DES_SUBSKILL_BLOOD_THIRSTY_DES" Val="Todas as criaturas que se chamam &amp;#39;Striga&amp;#39; sofrem de um tipo particular de sede."></Entry>
+		<Entry Key="DES_SUBSKILL_BLOOD_THIRSTY_DES" Val="Todas as criaturas que se chamam '#39;Striga'#39; sofrem de um tipo particular de sede."></Entry>
 		<Entry Key="DES_SUBSKILL_GREED" Val="Ambição"></Entry>
-		<Entry Key="DES_SUBSKILL_GREED_DES" Val="A cada turno, 1 metal com a menor raridade &amp;#39;desaparece&amp;#39; do inventário do grupo."></Entry>
+		<Entry Key="DES_SUBSKILL_GREED_DES" Val="A cada turno, 1 metal com a menor raridade '#39;desaparece'#39; do inventário do grupo."></Entry>
 		<Entry Key="DES_SUBSKILL_FOODIE" Val="Viciado em comida"></Entry>
-		<Entry Key="DES_SUBSKILL_FOODIE_DES" Val="A cada turno há 25% de chance de que um alimento extra &amp;#39;desapareça&amp;#39;."></Entry>
+		<Entry Key="DES_SUBSKILL_FOODIE_DES" Val="A cada turno há 25% de chance de que um alimento extra '#39;desapareça'#39;."></Entry>
 		<Entry Key="DES_SUBSKILL_NATURE_PURITY" Val="Pureza Natural"></Entry>
 		<Entry Key="DES_SUBSKILL_NATURE_PURITY_DES" Val="Alguns dos slots de equipamento deste personagem estão bloqueados, a regeneração de Sanidade do grupo é aumentada."></Entry>
 		<Entry Key="DES_SUBSKILL_EARTHY_SKIN" Val="Pele Terrosa"></Entry>
@@ -4384,7 +4384,7 @@
 		<Entry Key="DES_SET_UNLI_DRAGON_NEST" Val="Covil dos Dragoes Vivos"></Entry>
 		<Entry Key="DES_SET_DRAGON_NEST" Val="Covil dos Dragoes"></Entry>
 		<Entry Key="DES_SET_DRAGON_ZMEY_NEST" Val="Covil dos Dragoes e Zmay"></Entry>
-		<Entry Key="DES_SET_ZMEY_DRAGON_NEST" Val="Zmay&amp;#39; e Covil dos Dragoes"></Entry>
+		<Entry Key="DES_SET_ZMEY_DRAGON_NEST" Val="Zmay'#39; e Covil dos Dragoes"></Entry>
 		<Entry Key="DES_SET_WATER_WHIRLPOOL" Val="Hidromassagem"></Entry>
 		<Entry Key="DES_SET_WATER_FLOATING_CRATES" Val="Caixas Flutuantes"></Entry>
 		<Entry Key="DES_SET_WATER_SEA_CAVE" Val="Caverna do Mar"></Entry>

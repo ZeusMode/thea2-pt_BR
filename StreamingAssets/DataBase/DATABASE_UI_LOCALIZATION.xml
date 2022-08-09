@@ -1,6 +1,6 @@
 ﻿<DATABASE_UI_LOCALIZATION-NO_HSH>
 	<LOC_LIBRARY-UI>
-		<Entry Key="QUOTE_MARKS_EXAMPLE" Val="&amp;quot;Exemplo&amp;quot;"></Entry>
+		<Entry Key="QUOTE_MARKS_EXAMPLE" Val="'quot;Exemplo'quot;"></Entry>
 		<Entry Key="UI_GREET_PLAYER" Val="Saudaçoes, {SCRIPT:UIS_GetCurentPlayerName}!"></Entry>
 		<Entry Key="UI_YOU_ARE_ABOUT_TO_DELETE_PROFILE" Val="Você está prestes a excluir o perfil do jogador: {SCRIPT:UIS_GetProfileToDelete}!"></Entry>
 		<Entry Key="UI_SELECT_TARGETS" Val="Selecione destinos para a habilidade {SCRIPT:UIS_TargetSelectionCount}"></Entry>
