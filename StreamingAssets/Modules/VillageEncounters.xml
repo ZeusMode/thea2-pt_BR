@@ -559,7 +559,7 @@
       <outputs name="Ataque!" ownerID="32" targetID="6" fromX="2240" fromY="-599" />'Ah, quit your jabbering. Fine, we'll take your shit and go, seems easier than getting our blades wet. You best watch out offering free stuff, though. If word spreads, you'll get yourself some traffic here...'</nodes>
     <nodes xsi:type="NodeTrade" ID="33" positionX="2315" positionY="-277" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-80">
       <outputs name="confirme" ownerID="33" targetID="34" fromX="2745" fromY="-605" />
-      <outputs name="Cancelararararararararar" ownerID="33" targetID="32" fromX="2745" fromY="-685" />
+      <outputs name="Cancelar" ownerID="33" targetID="32" fromX="2745" fromY="-685" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="34" positionX="2850" positionY="-252" width="350" height="530" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -2357,7 +2357,7 @@ No dark trickery from me, dearie. Just rest and peace. We could trade, though?'<
 A deal. You let me stay and you will have your way.'</nodes>
     <nodes xsi:type="NodeTrade" ID="43" positionX="122.248619" positionY="1434.92432" width="460" height="479" traderProfile="TRADER-SLAVYAN_SMALL_FRIENDLY" playerInventory="stuff">
       <outputs name="confirme" ownerID="43" targetID="44" fromX="552" fromY="1106" />
-      <outputs name="Cancelararararararararar" ownerID="43" targetID="44" fromX="552" fromY="1026" />
+      <outputs name="Cancelar" ownerID="43" targetID="44" fromX="552" fromY="1026" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="44" positionX="757.5098" positionY="1474.85645" width="350" height="805">
       <outputs name="Proponha um duelo de espíritos, uma bruxa contra outra." ownerID="44" targetID="45" fromX="1083" fromY="983" />
@@ -3374,7 +3374,7 @@ You kill the bies and will likely banish the febra too.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="28" targetID="30" fromX="1260" fromY="-2378" />
-      <outputs name="Cancelararararararararar" ownerID="28" targetID="19" fromX="1260" fromY="-2458" />
+      <outputs name="Cancelar" ownerID="28" targetID="19" fromX="1260" fromY="-2458" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="29" positionX="832.009949" positionY="-2675.55249" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="adult" startingBalance="-1">
       <logic>
@@ -3391,7 +3391,7 @@ You kill the bies and will likely banish the febra too.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="29" targetID="30" fromX="1262" fromY="-3003" />
-      <outputs name="Cancelararararararararar" ownerID="29" targetID="19" fromX="1262" fromY="-3084" />
+      <outputs name="Cancelar" ownerID="29" targetID="19" fromX="1262" fromY="-3084" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="1382" positionY="-2499" width="350" height="725">
       <logic>
@@ -3951,7 +3951,7 @@ But before you can take them back, you see an old woman with a cat staring at yo
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="25" targetID="28" fromX="3307" fromY="-962" />
-      <outputs name="Cancelararararararararar" ownerID="25" targetID="32" fromX="3307" fromY="-1042" />
+      <outputs name="Cancelar" ownerID="25" targetID="32" fromX="3307" fromY="-1042" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="4081.865" positionY="-950.0941" width="350" height="725" image="Event254">
       <logic>
@@ -4565,7 +4565,7 @@ Many children fall to her trickery.
 </nodes>
     <nodes xsi:type="NodeTrade" ID="17" positionX="2408" positionY="-1393" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="food" startingBalance="-100">
       <outputs name="confirme" ownerID="17" targetID="19" fromX="2838" fromY="-1722" />
-      <outputs name="Cancelararararararararar" ownerID="17" targetID="16" fromX="2838" fromY="-1802" />
+      <outputs name="Cancelar" ownerID="17" targetID="16" fromX="2838" fromY="-1802" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2991.76758" positionY="-1190.68811" width="350" height="725">
       <logic>
@@ -4878,7 +4878,7 @@ So we had to cut the trip short.'</nodes>
       <outputs name="Sair." ownerID="37" targetID="39" fromX="5241" fromY="-1540" />'Well, that was a waste of a conversation. Stone and metal be with ya.'</nodes>
     <nodes xsi:type="NodeTrade" ID="38" positionX="4890.049" positionY="-502.338" width="460" height="479" traderProfile="TRADER-EARTHBOUND_SMALL" playerInventory="stuff">
       <outputs name="confirme" ownerID="38" targetID="39" fromX="5320" fromY="-830" />
-      <outputs name="Cancelararararararararar" ownerID="38" targetID="37" fromX="5320" fromY="-910" />
+      <outputs name="Cancelar" ownerID="38" targetID="37" fromX="5320" fromY="-910" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="39" positionX="5594.592" positionY="-607.107056" width="350" height="455" allPlayersXP="5" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="40" positionX="3898.47144" positionY="-1725.83191" width="350" height="725">
@@ -4964,7 +4964,7 @@ Tell ya what, we do not do this often with strangers, but we can trade some good
     </nodes>
     <nodes xsi:type="NodeTrade" ID="49" positionX="3769.848" positionY="2160.589" width="460" height="479" traderProfile="TRADER-EARTHBOUND_SMALL_FRIENDLY" playerInventory="stuff">
       <outputs name="confirme" ownerID="49" targetID="50" fromX="4200" fromY="1832" />
-      <outputs name="Cancelararararararararar" ownerID="49" targetID="50" fromX="4200" fromY="1752" />
+      <outputs name="Cancelar" ownerID="49" targetID="50" fromX="4200" fromY="1752" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="4343.53271" positionY="1934.40332" width="350" height="725">
       <outputs name="Sair." ownerID="50" targetID="39" fromX="4669" fromY="1443" />&#39;Bem conhecido, amigos. Pedra e metal estejam com você. Os anões partem em seu caminho.</nodes>
@@ -5048,7 +5048,7 @@ Tell ya what, we do not do this often with strangers, but we can trade some good
 </nodes>
     <nodes xsi:type="NodeTrade" ID="57" positionX="-501.204254" positionY="1642.72876" width="460" height="479" traderProfile="TRADER-EARTHBOUND_SMALL" playerInventory="stuff">
       <outputs name="confirme" ownerID="57" targetID="58" fromX="-70" fromY="1314" />
-      <outputs name="Cancelararararararararar" ownerID="57" targetID="58" fromX="-70" fromY="1234" />
+      <outputs name="Cancelar" ownerID="57" targetID="58" fromX="-70" fromY="1234" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="58" positionX="-478.225647" positionY="1099.705" width="350" height="805">
       <outputs name="Diga que você não pode poupar a comida, mas ofereça um lugar para descansar." ownerID="58" targetID="64" fromX="-152" fromY="608" />

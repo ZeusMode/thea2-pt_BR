@@ -907,7 +907,7 @@ You pay first, and I do not give money back...'
 [Only one character per game will be allowed this change]</nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1296" positionY="-291" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-7000">
       <outputs name="confirme" ownerID="4" targetID="6" fromX="1726" fromY="-619" />
-      <outputs name="Cancelarararar" ownerID="4" targetID="3" fromX="1726" fromY="-699" />
+      <outputs name="Cancelar" ownerID="4" targetID="3" fromX="1726" fromY="-699" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="-542" positionY="-814" width="350" height="530" logBookName="QUEST_CHIEFTAINQ" logBookDescription="QUEST_CHIEFTAINQ_DES2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1826" positionY="-201" width="350" height="966">
@@ -1536,7 +1536,7 @@ Now, let us drink and party, champions!'
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="29" targetID="32" fromX="7195" fromY="-1360" />
-      <outputs name="Cancelarararar" ownerID="29" targetID="30" fromX="7195" fromY="-1440" />
+      <outputs name="Cancelar" ownerID="29" targetID="30" fromX="7195" fromY="-1440" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6292" positionY="-1175" width="350" height="805" image="Event340">
       <outputs name="Sair." ownerID="30" targetID="28" fromX="6617" fromY="-1666" />
@@ -1759,7 +1759,7 @@ Now, let us drink and party, champions!'</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="29" targetID="32" fromX="7195" fromY="-1442" />
-      <outputs name="Cancelarararar" ownerID="29" targetID="30" fromX="7195" fromY="-1522" />
+      <outputs name="Cancelar" ownerID="29" targetID="30" fromX="7195" fromY="-1522" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6292" positionY="-1175" width="350" height="805" image="Event340">
       <outputs name="Comemore alguns e vá embora." ownerID="30" targetID="28" fromX="6617" fromY="-1666" />
@@ -1886,7 +1886,7 @@ You pay first, and I do not give money back...'
 [Only one character per game will be allowed this change]</nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1296" positionY="-291" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-7000">
       <outputs name="confirme" ownerID="4" targetID="6" fromX="1726" fromY="-619" />
-      <outputs name="Cancelarararar" ownerID="4" targetID="3" fromX="1726" fromY="-699" />
+      <outputs name="Cancelar" ownerID="4" targetID="3" fromX="1726" fromY="-699" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="-542" positionY="-814" width="350" height="530" logBookName="QUEST_CHIEFTAINQ" logBookDescription="QUEST_CHIEFTAINQ_DES2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1826" positionY="-201" width="350" height="966">

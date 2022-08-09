@@ -33,7 +33,7 @@
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />The Stingers show you their stash to trade.</nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-BEASTS" playerInventory="sell">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelararararararararararar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-BEASTS" playerInventory="sell" startingBalance="-50">
       <logic>
@@ -50,7 +50,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelararararararararararar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-BEASTS_FRIENDLY" playerInventory="sell">
       <logic>
@@ -61,7 +61,7 @@
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelararararararararararar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="805">
@@ -122,7 +122,7 @@
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />The Stingers show you their stash to trade.</nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-BEASTS_LARGE" playerInventory="sell2">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelararararararararararar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-BEASTS_LARGE" playerInventory="sell2" startingBalance="-50">
       <logic>
@@ -139,7 +139,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelararararararararararar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-BEASTS_LARGE_FRIENDLY" playerInventory="sell2">
       <logic>
@@ -150,7 +150,7 @@
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelararararararararararar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="805">
@@ -309,7 +309,7 @@
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="26" targetID="29" fromX="-193" fromY="-1726" />
-      <outputs name="Cancelararararararararararar" ownerID="26" targetID="2" fromX="-193" fromY="-1806" />
+      <outputs name="Cancelar" ownerID="26" targetID="2" fromX="-193" fromY="-1806" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="435" positionY="-1431" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeSpawnOnMap" ID="29" positionX="-98" positionY="-1383" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
@@ -482,7 +482,7 @@ Pay us with meat, lots of it! And we shall train you too, beast friend.'
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="17" targetID="19" fromX="1055" fromY="-1094" />
-      <outputs name="Cancelararararararararararar" ownerID="17" targetID="22" fromX="1055" fromY="-1174" />
+      <outputs name="Cancelar" ownerID="17" targetID="22" fromX="1055" fromY="-1174" />
     </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="19" positionX="586" positionY="-1275" width="460" height="429">
       <logic>
@@ -529,7 +529,7 @@ Pay us with meat, lots of it! And we shall train you too, beast friend.'
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="23" targetID="24" fromX="1765" fromY="-344" />
-      <outputs name="Cancelararararararararararar" ownerID="23" targetID="4" fromX="1765" fromY="-424" />
+      <outputs name="Cancelar" ownerID="23" targetID="4" fromX="1765" fromY="-424" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="24" positionX="1851" positionY="-280" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
@@ -626,7 +626,7 @@ Pay us with meat, lots of it! And we shall train you too, beast friend.'
         </ModifierBlock>
       </logic>
       <outputs name="confirme" ownerID="30" targetID="31" fromX="1603" fromY="-863" />
-      <outputs name="Cancelararararararararararar" ownerID="30" targetID="4" fromX="1603" fromY="-943" />
+      <outputs name="Cancelar" ownerID="30" targetID="4" fromX="1603" fromY="-943" />
     </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="31" positionX="1287" positionY="-1062" width="460" height="429">
       <logic>
@@ -647,7 +647,7 @@ Pay us with meat, lots of it! And we shall train you too, beast friend.'
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="32" targetID="27" fromX="3181" fromY="688" />
-      <outputs name="Cancelararararararararararar" ownerID="32" targetID="33" fromX="3181" fromY="608" />
+      <outputs name="Cancelar" ownerID="32" targetID="33" fromX="3181" fromY="608" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="2216" positionY="1474" width="350" height="805">
       <outputs name="Leve-o." ownerID="33" targetID="32" fromX="2541" fromY="982" />

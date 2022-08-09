@@ -707,7 +707,7 @@ What is odd, though, is that these markings are not quite right. They seem merge
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="8" targetID="9" fromX="2159" fromY="604" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="8" targetID="7" fromX="2159" fromY="524" />
+      <outputs name="Cancelar" ownerID="8" targetID="7" fromX="2159" fromY="524" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1740" positionY="1849" width="350" height="885">
       <logic>
@@ -747,7 +747,7 @@ As the world shattered, so has the memory of your divine. If you can piece toget
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="13" targetID="14" fromX="2163" fromY="98" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="13" targetID="7" fromX="2163" fromY="18" />
+      <outputs name="Cancelar" ownerID="13" targetID="7" fromX="2163" fromY="18" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="2368" positionY="510" width="350" height="805">
       <logic>
@@ -773,7 +773,7 @@ As the world shattered, so has the memory of your divine. If you can piece toget
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="15" targetID="9" fromX="2093" fromY="-415" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="15" targetID="7" fromX="2093" fromY="-495" />
+      <outputs name="Cancelar" ownerID="15" targetID="7" fromX="2093" fromY="-495" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="16" positionX="2267" positionY="-370" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="food" startingBalance="-10">
       <logic>
@@ -784,7 +784,7 @@ As the world shattered, so has the memory of your divine. If you can piece toget
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="16" targetID="14" fromX="2697" fromY="-698" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="16" targetID="7" fromX="2697" fromY="-778" />
+      <outputs name="Cancelar" ownerID="16" targetID="7" fromX="2697" fromY="-778" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="17" positionX="1462" positionY="-773" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_4S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="17" targetID="19" fromX="1903" fromY="-1268" />
@@ -840,7 +840,7 @@ As the world shattered, so has the memory of your divine. If you can piece toget
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="24" targetID="23" fromX="2143" fromY="-2730" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="24" targetID="22" fromX="2143" fromY="-2810" />
+      <outputs name="Cancelar" ownerID="24" targetID="22" fromX="2143" fromY="-2810" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="3123" positionY="-2528" width="350" height="725">
       <logic>
@@ -863,7 +863,7 @@ As the world shattered, so has the memory of your divine. If you can piece toget
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="26" targetID="27" fromX="2136" fromY="-3204" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="26" targetID="7" fromX="2136" fromY="-3284" />
+      <outputs name="Cancelar" ownerID="26" targetID="7" fromX="2136" fromY="-3284" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="27" positionX="2237" positionY="-2912" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="27" targetID="25" group="G1" fromX="2666" fromY="-3300" />
@@ -878,7 +878,7 @@ As the world shattered, so has the memory of your divine. If you can piece toget
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="28" targetID="27" fromX="2138" fromY="-3707" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="28" targetID="7" fromX="2138" fromY="-3787" />
+      <outputs name="Cancelar" ownerID="28" targetID="7" fromX="2138" fromY="-3787" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="2959" positionY="-3370" width="350" height="805">
       <logic>
@@ -907,7 +907,7 @@ As the world shattered, so has the memory of your divine. If you can piece toget
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="30" targetID="29" fromX="2671" fromY="-3832" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="30" targetID="22" fromX="2671" fromY="-3912" />
+      <outputs name="Cancelar" ownerID="30" targetID="22" fromX="2671" fromY="-3912" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="31" positionX="2756" positionY="-291" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="noch" startingBalance="-1">
       <logic>
@@ -918,7 +918,7 @@ As the world shattered, so has the memory of your divine. If you can piece toget
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="31" targetID="29" fromX="3186" fromY="-619" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="31" targetID="7" fromX="3186" fromY="-699" />
+      <outputs name="Cancelar" ownerID="31" targetID="7" fromX="3186" fromY="-699" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="32" positionX="1160" positionY="-3622" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="farmanimals" startingBalance="-1">
       <logic>
@@ -941,7 +941,7 @@ As the world shattered, so has the memory of your divine. If you can piece toget
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="32" targetID="33" fromX="1590" fromY="-3950" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="32" targetID="22" fromX="1590" fromY="-4030" />
+      <outputs name="Cancelar" ownerID="32" targetID="22" fromX="1590" fromY="-4030" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="33" positionX="1670" positionY="-3930" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="33" targetID="34" group="G1" fromX="2099" fromY="-4318" />
@@ -1475,7 +1475,7 @@ Lasstly, you can defeat the light creaturess that linger here. I sshall ssiphon 
       <outputs name="Procure a cobra." ownerID="10" targetID="5" fromX="1443" fromY="-1832" />'We do not know, lady. Ask the snake - he keeps vigil here, he knows.'</nodes>
     <nodes xsi:type="NodeTrade" ID="11" positionX="3639" positionY="-517" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="spirits" startingBalance="-4">
       <outputs name="confirme" ownerID="11" targetID="30" fromX="4069" fromY="-845" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="11" targetID="8" fromX="4069" fromY="-925" />
+      <outputs name="Cancelar" ownerID="11" targetID="8" fromX="4069" fromY="-925" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="3709" positionY="-1645" width="350" height="805">
       <outputs name="Ataque!" ownerID="12" targetID="13" fromX="4034" fromY="-2136" />
@@ -1689,11 +1689,11 @@ But you feel there is much more potential within you. You feel your divine conne
     <nodes xsi:type="NodeAdventureEnd" ID="32" positionX="6667" positionY="-2574" width="350" height="530" allPlayersXP="2" allPlayersRP="2" logBookName="QUEST_DIV_PATH_ALLPATHS2" logBookDescription="QUEST_DIV_PATH_TWOC_DES" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="33" positionX="3705" positionY="-1107" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="noch" startingBalance="-1">
       <outputs name="confirme" ownerID="33" targetID="30" fromX="4135" fromY="-1435" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="33" targetID="8" fromX="4135" fromY="-1515" />
+      <outputs name="Cancelar" ownerID="33" targetID="8" fromX="4135" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="34" positionX="4198" positionY="-1112" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="trade" startingBalance="-20">
       <outputs name="confirme" ownerID="34" targetID="30" fromX="4628" fromY="-1440" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="34" targetID="8" fromX="4628" fromY="-1520" />
+      <outputs name="Cancelar" ownerID="34" targetID="8" fromX="4628" fromY="-1520" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="35" positionX="4224" positionY="-2484" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-LIGHT_6P_6M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="35" targetID="14" fromX="4665" fromY="-2979" />
@@ -2463,7 +2463,7 @@ Lasstly, you can defeat the light creaturess that linger here. I sshall ssiphon 
       <outputs name="Procure a cobra." ownerID="10" targetID="5" fromX="1443" fromY="-1832" />'We do not know, lady. Ask the snake - he keeps vigil here, he knows.'</nodes>
     <nodes xsi:type="NodeTrade" ID="11" positionX="3639" positionY="-517" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="spirits" startingBalance="-4">
       <outputs name="confirme" ownerID="11" targetID="30" fromX="4069" fromY="-845" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="11" targetID="8" fromX="4069" fromY="-925" />
+      <outputs name="Cancelar" ownerID="11" targetID="8" fromX="4069" fromY="-925" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="3709" positionY="-1645" width="350" height="805">
       <outputs name="Ataque!" ownerID="12" targetID="13" fromX="4034" fromY="-2136" />
@@ -2667,11 +2667,11 @@ But you feel there is much more potential within you. You feel your divine conne
     <nodes xsi:type="NodeAdventureEnd" ID="32" positionX="5901" positionY="-2584" width="350" height="530" allPlayersXP="2" allPlayersRP="2" logBookName="QUEST_DIV_PATH_ALLPATHS2" logBookDescription="QUEST_DIV_PATH_TWOC_DES" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="33" positionX="3662" positionY="-1028" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="noch" startingBalance="-1">
       <outputs name="confirme" ownerID="33" targetID="30" fromX="4092" fromY="-1356" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="33" targetID="8" fromX="4092" fromY="-1436" />
+      <outputs name="Cancelar" ownerID="33" targetID="8" fromX="4092" fromY="-1436" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="34" positionX="4198" positionY="-1112" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="trade" startingBalance="-20">
       <outputs name="confirme" ownerID="34" targetID="30" fromX="4628" fromY="-1440" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="34" targetID="8" fromX="4628" fromY="-1520" />
+      <outputs name="Cancelar" ownerID="34" targetID="8" fromX="4628" fromY="-1520" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="35" positionX="4224" positionY="-2484" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-LIGHT_6P_6M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="35" targetID="14" fromX="4665" fromY="-2979" />
@@ -4211,7 +4211,7 @@ As the place turns barren and the leshy's remains turn to ash, you are able to a
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="10" targetID="11" group="G1" fromX="1724" fromY="913" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="10" targetID="29" fromX="1724" fromY="833" />
+      <outputs name="Cancelar" ownerID="10" targetID="29" fromX="1724" fromY="833" />
       <outputs name="confirme" ownerID="10" targetID="17" group="G1" fromX="1724" fromY="753" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1857" positionY="1426" width="350" height="885">
@@ -4292,7 +4292,7 @@ And then there was the earth's Shattering, of course.'</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="21" targetID="22" group="G1" fromX="2245" fromY="161" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="21" targetID="29" fromX="2245" fromY="81" />
+      <outputs name="Cancelar" ownerID="21" targetID="29" fromX="2245" fromY="81" />
       <outputs name="confirme" ownerID="21" targetID="23" group="G1" fromX="2245" fromY="1" />
       <outputs name="confirme" ownerID="21" targetID="26" group="G1" fromX="2245" fromY="-78" />
     </nodes>
@@ -4360,7 +4360,7 @@ You, little chosen, must make more haste, make them go back into the earth...'
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="27" targetID="19" fromX="2699" fromY="-504" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="27" targetID="29" fromX="2699" fromY="-584" />
+      <outputs name="Cancelar" ownerID="27" targetID="29" fromX="2699" fromY="-584" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="1299" positionY="13" width="350" height="1206">
       <logic>
@@ -4876,7 +4876,7 @@ As the place turns barren and the leshy's remains turn to ash, you are able to a
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="10" targetID="11" group="G1" fromX="1698" fromY="952" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="10" targetID="29" fromX="1698" fromY="872" />
+      <outputs name="Cancelar" ownerID="10" targetID="29" fromX="1698" fromY="872" />
       <outputs name="confirme" ownerID="10" targetID="17" group="G1" fromX="1698" fromY="792" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1857" positionY="1426" width="350" height="885">
@@ -4957,7 +4957,7 @@ And then there was the earth's Shattering, of course.'</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="21" targetID="22" group="G1" fromX="2261" fromY="254" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="21" targetID="29" fromX="2261" fromY="174" />
+      <outputs name="Cancelar" ownerID="21" targetID="29" fromX="2261" fromY="174" />
       <outputs name="confirme" ownerID="21" targetID="23" group="G1" fromX="2261" fromY="94" />
       <outputs name="confirme" ownerID="21" targetID="26" group="G1" fromX="2261" fromY="14" />
     </nodes>
@@ -5025,7 +5025,7 @@ You, little chosen, must make more haste, make them go back into the earth...'
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="27" targetID="19" fromX="2699" fromY="-504" />
-      <outputs name="Cancelarararararararararararararararararararararar" ownerID="27" targetID="29" fromX="2699" fromY="-584" />
+      <outputs name="Cancelar" ownerID="27" targetID="29" fromX="2699" fromY="-584" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="1322" positionY="178" width="350" height="1206">
       <logic>

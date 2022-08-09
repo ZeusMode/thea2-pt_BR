@@ -776,7 +776,7 @@ She tells you of three ways your fortunes can be told on Halloween.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="58" targetID="59" fromX="5011" fromY="-84" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="58" targetID="9" fromX="5011" fromY="-164" />
+      <outputs name="Cancelar" ownerID="58" targetID="9" fromX="5011" fromY="-164" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="59" positionX="3973" positionY="442" width="350" height="966">
       <logic>
@@ -2179,7 +2179,7 @@ There is a map attached.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="11" targetID="10" fromX="1654" fromY="-1396" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="11" targetID="10" fromX="1654" fromY="-1476" />
+      <outputs name="Cancelar" ownerID="11" targetID="10" fromX="1654" fromY="-1476" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="-877" positionY="-1263" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="13" positionX="1064" positionY="-1579" width="350" height="966">
@@ -2840,7 +2840,7 @@ She suddenly remembers about staying quiet and stops, but her face is red in ang
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="8" targetID="39" fromX="2019" fromY="-2561" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="8" targetID="6" fromX="2019" fromY="-2641" />
+      <outputs name="Cancelar" ownerID="8" targetID="6" fromX="2019" fromY="-2641" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="10" positionX="2260" positionY="-1418" width="460" height="479" traderProfile="TRADER-HERBS" playerInventory="stuff">
       <logic>
@@ -2851,7 +2851,7 @@ She suddenly remembers about staying quiet and stops, but her face is red in ang
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="10" targetID="6" fromX="2690" fromY="-1746" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="10" targetID="6" fromX="2690" fromY="-1826" />
+      <outputs name="Cancelar" ownerID="10" targetID="6" fromX="2690" fromY="-1826" />
     </nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="11" positionX="2862" positionY="-895" width="350" height="805">
       <logic>
@@ -3415,7 +3415,7 @@ Then we asked Vieslav and Bohna to hide for a time. We were gonna stage a whole 
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="15" targetID="41" fromX="-195" fromY="-715" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="15" targetID="42" fromX="-195" fromY="-795" />
+      <outputs name="Cancelar" ownerID="15" targetID="42" fromX="-195" fromY="-795" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="3305" positionY="-1727" width="350" height="885">
       <outputs name="Vá para a cabana dos lenhadores." ownerID="16" targetID="21" group="G1" fromX="3630" fromY="-2218" />
@@ -3984,7 +3984,7 @@ Still, at least they no longer have their physical coils to play with. </nodes>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="18" positionX="3003" positionY="-534" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-1">
       <outputs name="confirme" ownerID="18" targetID="19" fromX="3433" fromY="-862" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="18" targetID="20" fromX="3433" fromY="-942" />
+      <outputs name="Cancelar" ownerID="18" targetID="20" fromX="3433" fromY="-942" />
     </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="19" positionX="3829" positionY="-755" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="19" targetID="42" fromX="4277" fromY="-1187" />
@@ -5164,7 +5164,7 @@ He turns to you:
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="3601" positionY="-1595" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="15" positionX="1705" positionY="770" width="460" height="479" traderProfile="TRADER-SCAVENGERS_FRIENDLY" playerInventory="fruit" startingBalance="-20">
       <outputs name="confirme" ownerID="15" targetID="18" fromX="2135" fromY="441" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="15" targetID="17" fromX="2135" fromY="361" />
+      <outputs name="Cancelar" ownerID="15" targetID="17" fromX="2135" fromY="361" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2299" positionY="311" width="350" height="885">
       <outputs name="Corre" ownerID="17" targetID="8" group="G1" fromX="2624" fromY="-180" />
@@ -5207,7 +5207,7 @@ He turns to you:
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="50" targetID="51" fromX="227" fromY="-1046" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="50" targetID="2" fromX="227" fromY="-1126" />
+      <outputs name="Cancelar" ownerID="50" targetID="2" fromX="227" fromY="-1126" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-898" positionY="-248" width="350" height="805">
       <outputs name="Um amiguinho parece querer ficar. Pegue eles." ownerID="51" targetID="52" fromX="-572" fromY="-739" />
@@ -5420,7 +5420,7 @@ The pumpkin who spoke has a large 'B' carved on it.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="3601" positionY="-1595" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="15" positionX="1705" positionY="770" width="460" height="479" traderProfile="TRADER-SCAVENGERS_FRIENDLY" playerInventory="fruit" startingBalance="-30">
       <outputs name="confirme" ownerID="15" targetID="18" fromX="2135" fromY="441" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="15" targetID="17" fromX="2135" fromY="361" />
+      <outputs name="Cancelar" ownerID="15" targetID="17" fromX="2135" fromY="361" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2299" positionY="311" width="350" height="885">
       <outputs name="Corre" ownerID="17" targetID="8" group="G1" fromX="2624" fromY="-180" />
@@ -5471,7 +5471,7 @@ The pumpkin who spoke has a large 'B' carved on it.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="50" targetID="51" fromX="227" fromY="-1046" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="50" targetID="2" fromX="227" fromY="-1126" />
+      <outputs name="Cancelar" ownerID="50" targetID="2" fromX="227" fromY="-1126" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-898" positionY="-248" width="350" height="805">
       <logic>
@@ -5719,7 +5719,7 @@ The pumpkin who spoke has a large 'B' carved on it.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="616" positionY="-876" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="4" positionX="559" positionY="-259" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-500">
       <outputs name="confirme" ownerID="4" targetID="19" fromX="989" fromY="-587" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="4" targetID="3" fromX="989" fromY="-667" />
+      <outputs name="Cancelar" ownerID="4" targetID="3" fromX="989" fromY="-667" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1519" positionY="1143" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -6116,7 +6116,7 @@ The pumpkin who spoke has a large 'B' carved on it.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="3601" positionY="-1595" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="15" positionX="1705" positionY="770" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS" playerInventory="fruit" startingBalance="-50">
       <outputs name="confirme" ownerID="15" targetID="18" fromX="2135" fromY="441" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="15" targetID="17" fromX="2135" fromY="361" />
+      <outputs name="Cancelar" ownerID="15" targetID="17" fromX="2135" fromY="361" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2299" positionY="311" width="350" height="885">
       <outputs name="Corre" ownerID="17" targetID="8" group="G1" fromX="2624" fromY="-180" />
@@ -6159,7 +6159,7 @@ The pumpkin who spoke has a large 'B' carved on it.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="50" targetID="51" fromX="227" fromY="-1046" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="50" targetID="2" fromX="227" fromY="-1126" />
+      <outputs name="Cancelar" ownerID="50" targetID="2" fromX="227" fromY="-1126" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-898" positionY="-248" width="350" height="805">
       <outputs name="Um amiguinho parece querer ficar. Pegue eles." ownerID="51" targetID="52" fromX="-572" fromY="-739" />
@@ -6228,7 +6228,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="3" targetID="4" fromX="1143" fromY="-202" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="3" targetID="2" fromX="1143" fromY="-282" />
+      <outputs name="Cancelar" ownerID="3" targetID="2" fromX="1143" fromY="-282" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1353" positionY="49" width="350" height="725">
       <outputs name="Aguarde seu escolhido." ownerID="4" targetID="5" fromX="1678" fromY="-442" />You paid your bloody dues and the spirit of your chosen is returned, now pray that it comes back in the right flesh...</nodes>
@@ -6265,7 +6265,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="6" targetID="4" fromX="1098" fromY="-714" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="6" targetID="2" fromX="1098" fromY="-794" />
+      <outputs name="Cancelar" ownerID="6" targetID="2" fromX="1098" fromY="-794" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="8" positionX="1332" positionY="-789" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-6">
       <logic>
@@ -6276,7 +6276,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="8" targetID="4" fromX="1762" fromY="-1117" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="8" targetID="2" fromX="1762" fromY="-1197" />
+      <outputs name="Cancelar" ownerID="8" targetID="2" fromX="1762" fromY="-1197" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="9" positionX="1935" positionY="-760" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-8">
       <logic>
@@ -6287,7 +6287,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="9" targetID="4" fromX="2365" fromY="-1088" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="9" targetID="2" fromX="2365" fromY="-1168" />
+      <outputs name="Cancelar" ownerID="9" targetID="2" fromX="2365" fromY="-1168" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="10" positionX="630" positionY="-1195" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-10">
       <logic>
@@ -6298,7 +6298,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="10" targetID="4" fromX="1060" fromY="-1523" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="10" targetID="2" fromX="1060" fromY="-1603" />
+      <outputs name="Cancelar" ownerID="10" targetID="2" fromX="1060" fromY="-1603" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="11" positionX="-410" positionY="-1047" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -6384,7 +6384,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="16" targetID="4" fromX="1651" fromY="-1636" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="16" targetID="2" fromX="1651" fromY="-1716" />
+      <outputs name="Cancelar" ownerID="16" targetID="2" fromX="1651" fromY="-1716" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="17" positionX="1888" positionY="-1352" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-20">
       <logic>
@@ -6395,7 +6395,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="17" targetID="4" fromX="2318" fromY="-1680" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="17" targetID="2" fromX="2318" fromY="-1760" />
+      <outputs name="Cancelar" ownerID="17" targetID="2" fromX="2318" fromY="-1760" />
     </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="19" positionX="28" positionY="-1312" width="460" height="429">
       <logic>
@@ -6478,7 +6478,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="3" targetID="4" fromX="1151" fromY="-207" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="3" targetID="2" fromX="1151" fromY="-287" />
+      <outputs name="Cancelar" ownerID="3" targetID="2" fromX="1151" fromY="-287" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1357" positionY="133" width="350" height="725">
       <outputs name="Aguarde seu escolhido." ownerID="4" targetID="5" fromX="1682" fromY="-358" />You paid your bloody dues and the spirit of your chosen is returned, now pray that it comes back in the right flesh...</nodes>
@@ -6515,7 +6515,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="6" targetID="4" fromX="1141" fromY="-718" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="6" targetID="2" fromX="1141" fromY="-798" />
+      <outputs name="Cancelar" ownerID="6" targetID="2" fromX="1141" fromY="-798" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="8" positionX="1332" positionY="-789" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-6">
       <logic>
@@ -6526,7 +6526,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="8" targetID="4" fromX="1762" fromY="-1117" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="8" targetID="2" fromX="1762" fromY="-1197" />
+      <outputs name="Cancelar" ownerID="8" targetID="2" fromX="1762" fromY="-1197" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="9" positionX="1935" positionY="-760" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-8">
       <logic>
@@ -6537,7 +6537,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="9" targetID="4" fromX="2365" fromY="-1088" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="9" targetID="2" fromX="2365" fromY="-1168" />
+      <outputs name="Cancelar" ownerID="9" targetID="2" fromX="2365" fromY="-1168" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="10" positionX="630" positionY="-1195" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-10">
       <logic>
@@ -6548,7 +6548,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="10" targetID="4" fromX="1060" fromY="-1523" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="10" targetID="2" fromX="1060" fromY="-1603" />
+      <outputs name="Cancelar" ownerID="10" targetID="2" fromX="1060" fromY="-1603" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="11" positionX="-337" positionY="-898" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -6634,7 +6634,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="16" targetID="4" fromX="1651" fromY="-1636" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="16" targetID="2" fromX="1651" fromY="-1716" />
+      <outputs name="Cancelar" ownerID="16" targetID="2" fromX="1651" fromY="-1716" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="17" positionX="1888" positionY="-1352" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-20">
       <logic>
@@ -6645,7 +6645,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="17" targetID="4" fromX="2318" fromY="-1680" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="17" targetID="2" fromX="1874" fromY="-1760" />
+      <outputs name="Cancelar" ownerID="17" targetID="2" fromX="1874" fromY="-1760" />
     </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="19" positionX="27" positionY="-1416" width="460" height="429">
       <logic>
@@ -7287,7 +7287,7 @@ Remember, the price is high and it will get higher every time you abuse your div
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="3601" positionY="-1595" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="15" positionX="1705" positionY="770" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS" playerInventory="fruit" startingBalance="-50">
       <outputs name="confirme" ownerID="15" targetID="18" fromX="2135" fromY="441" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="15" targetID="17" fromX="2135" fromY="361" />
+      <outputs name="Cancelar" ownerID="15" targetID="17" fromX="2135" fromY="361" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2299" positionY="311" width="350" height="885">
       <outputs name="Corre" ownerID="17" targetID="8" group="G1" fromX="2624" fromY="-180" />
@@ -7330,7 +7330,7 @@ Remember, the price is high and it will get higher every time you abuse your div
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="50" targetID="51" fromX="227" fromY="-1046" />
-      <outputs name="Cancelararararararararararararararararararararararararararararar" ownerID="50" targetID="2" fromX="227" fromY="-1126" />
+      <outputs name="Cancelar" ownerID="50" targetID="2" fromX="227" fromY="-1126" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-898" positionY="-248" width="350" height="805">
       <outputs name="Um amiguinho parece querer ficar. Pegue eles." ownerID="51" targetID="52" fromX="-572" fromY="-739" />

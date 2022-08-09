@@ -1499,7 +1499,7 @@ You feel a warm glow that seems pleasant at first, then becomes stifling, hot, a
       <outputs name="Vasculhe as ruínas e vá embora." ownerID="52" targetID="78" fromX="4168" fromY="-1082" />Seu espírito é forte e afasta a luz ardente que ameaçava devorar sua própria alma. Pelo menos agora você pode saquear as ruínas em paz, embora permaneça abalado com a experiência. </nodes>
     <nodes xsi:type="NodeTrade" ID="53" positionX="2363.688" positionY="-247.38649" width="460" height="479" traderProfile="TRADER-SLAVYAN_SMALL" playerInventory="items">
       <outputs name="confirme" ownerID="53" targetID="76" fromX="2793" fromY="-575" />
-      <outputs name="Cancelarararararar" ownerID="53" targetID="71" fromX="2793" fromY="-655" />
+      <outputs name="Cancelar" ownerID="53" targetID="71" fromX="2793" fromY="-655" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="55" positionX="3747.528" positionY="776.139038" width="350" height="885">
       <logic>
@@ -1600,7 +1600,7 @@ You feel a warm glow that seems pleasant at first, then becomes stifling, hot, a
       <outputs name="Ataque!" ownerID="64" targetID="63" fromX="403" fromY="-3549" />'I guess dealin's more profitable-like, sure. We can trade, or you can bugger off. Call it professional cort... curtsy?'</nodes>
     <nodes xsi:type="NodeTrade" ID="65" positionX="636.321167" positionY="-3030.4917" width="460" height="479" traderProfile="TRADER-SLAVYAN_SMALL" playerInventory="items">
       <outputs name="confirme" ownerID="65" targetID="74" fromX="1066" fromY="-3358" />
-      <outputs name="Cancelarararararar" ownerID="65" targetID="74" fromX="1066" fromY="-3439" />
+      <outputs name="Cancelar" ownerID="65" targetID="74" fromX="1066" fromY="-3439" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="66" positionX="1522.36108" positionY="-1970.991" width="350" height="805">
       <outputs name="Concorde em pegar as coisas deles e deixá-los em paz." ownerID="66" targetID="34" fromX="1848" fromY="-2462" />
@@ -1630,7 +1630,7 @@ You feel a warm glow that seems pleasant at first, then becomes stifling, hot, a
       <outputs name="Corre." ownerID="69" targetID="74" fromX="1509" fromY="-4238" />Você está muito espancado e talvez deixe cair algumas de suas coisas para que eles não o persigam. &#39;Sorte que não somos maus, senão pegamos todas as suas coisas!&#39;</nodes>
     <nodes xsi:type="NodeTrade" ID="70" positionX="1937.55359" positionY="-3610.982" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="items" startingBalance="-100">
       <outputs name="confirme" ownerID="70" targetID="74" fromX="2367" fromY="-3939" />
-      <outputs name="Cancelarararararar" ownerID="70" targetID="35" fromX="2367" fromY="-4019" />
+      <outputs name="Cancelar" ownerID="70" targetID="35" fromX="2367" fromY="-4019" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="71" positionX="3217.10669" positionY="248.939072" width="350" height="885">
       <logic>
@@ -7110,7 +7110,7 @@ You hear the hochlicks laugh. But you do find some resources.
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="77" targetID="49" fromX="1203" fromY="-3669" />
-      <outputs name="Cancelarararararar" ownerID="77" targetID="11" fromX="1203" fromY="-3749" />
+      <outputs name="Cancelar" ownerID="77" targetID="11" fromX="1203" fromY="-3749" />
     </nodes>
   </Adventure>
   <Adventure name="Goblin guardians" uniqueID="30" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="4" nodeIdMax="55" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -10243,7 +10243,7 @@ You feel a warm glow that seems pleasant at first, then becomes stifling, hot, a
       <outputs name="Vasculhe as ruínas e vá embora." ownerID="52" targetID="78" fromX="4092" fromY="-1005" />Seu espírito é forte e afasta a luz ardente que ameaçava devorar sua própria alma. Pelo menos agora você pode saquear as ruínas em paz, embora permaneça abalado com a experiência. </nodes>
     <nodes xsi:type="NodeTrade" ID="53" positionX="2344" positionY="-287" width="460" height="479" traderProfile="TRADER-SCAVENGERS_SMALL_FRIENDLY" playerInventory="items">
       <outputs name="confirme" ownerID="53" targetID="76" fromX="2774" fromY="-615" />
-      <outputs name="Cancelarararararar" ownerID="53" targetID="71" fromX="2774" fromY="-695" />
+      <outputs name="Cancelar" ownerID="53" targetID="71" fromX="2774" fromY="-695" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="55" positionX="3785" positionY="786" width="350" height="885">
       <logic>
@@ -10370,7 +10370,7 @@ You feel a warm glow that seems pleasant at first, then becomes stifling, hot, a
 </nodes>
     <nodes xsi:type="NodeTrade" ID="70" positionX="1854" positionY="-3697" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="items" startingBalance="-20">
       <outputs name="confirme" ownerID="70" targetID="74" fromX="2284" fromY="-4025" />
-      <outputs name="Cancelarararararar" ownerID="70" targetID="35" fromX="2284" fromY="-4105" />
+      <outputs name="Cancelar" ownerID="70" targetID="35" fromX="2284" fromY="-4105" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="71" positionX="3217.10669" positionY="248.939072" width="350" height="885">
       <logic>

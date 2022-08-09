@@ -215,7 +215,7 @@
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="24" targetID="26" group="G1" fromX="632" fromY="-1720" />
-      <outputs name="Cancelarararararar" ownerID="24" targetID="22" fromX="632" fromY="-1800" />
+      <outputs name="Cancelar" ownerID="24" targetID="22" fromX="632" fromY="-1800" />
       <outputs name="confirme" ownerID="24" targetID="28" group="G1" fromX="632" fromY="-1880" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="956" positionY="-2014" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
@@ -517,7 +517,7 @@
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="24" targetID="26" group="G1" fromX="672" fromY="-1641" />
-      <outputs name="Cancelarararararar" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
+      <outputs name="Cancelar" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
       <outputs name="confirme" ownerID="24" targetID="28" group="G1" fromX="672" fromY="-1801" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="844" positionY="-1865" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
@@ -790,7 +790,7 @@
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="24" targetID="26" group="G1" fromX="672" fromY="-1641" />
-      <outputs name="Cancelarararararar" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
+      <outputs name="Cancelar" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
       <outputs name="confirme" ownerID="24" targetID="28" group="G1" fromX="672" fromY="-1801" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="844" positionY="-1865" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
@@ -1660,7 +1660,7 @@ They swim away but blow you a sweet kiss. </nodes>
 Her words carry a command that you know will break you. She truly is the queen of these waters.</nodes>
     <nodes xsi:type="NodeTrade" ID="29" positionX="5144" positionY="-2768" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-50">
       <outputs name="confirme" ownerID="29" targetID="31" fromX="5574" fromY="-3096" />
-      <outputs name="Cancelarararararar" ownerID="29" targetID="28" fromX="5574" fromY="-3176" />
+      <outputs name="Cancelar" ownerID="29" targetID="28" fromX="5574" fromY="-3176" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6239" positionY="-2522" width="350" height="725">
       <outputs name="Sair." ownerID="30" targetID="32" fromX="6564" fromY="-3013" />'I accept your tribute, prince of the sweet waters. You may leave.'</nodes>
@@ -1738,7 +1738,7 @@ She clicks her fingers, and you follow her into the depths of your new home, for
 </nodes>
     <nodes xsi:type="NodeTrade" ID="39" positionX="915" positionY="-2116" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-30">
       <outputs name="confirme" ownerID="39" targetID="38" fromX="1345" fromY="-2444" />
-      <outputs name="Cancelarararararar" ownerID="39" targetID="37" fromX="1345" fromY="-2524" />
+      <outputs name="Cancelar" ownerID="39" targetID="37" fromX="1345" fromY="-2524" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="40" positionX="650" positionY="-1618" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="40" targetID="37" fromX="1079" fromY="-2006" />
@@ -2034,7 +2034,7 @@ They swim away but blow you a sweet kiss. </nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="24" targetID="26" group="G1" fromX="672" fromY="-1641" />
-      <outputs name="Cancelarararararar" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
+      <outputs name="Cancelar" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
       <outputs name="confirme" ownerID="24" targetID="28" group="G1" fromX="672" fromY="-1801" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="911" positionY="-1916" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">

@@ -3461,7 +3461,7 @@ She grunts towards one of her men, and he scuttles off. She goes on:
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="11" targetID="14" fromX="3590" fromY="368" />
-      <outputs name="Cancelarararararararararararar" ownerID="11" targetID="14" fromX="3590" fromY="288" />
+      <outputs name="Cancelar" ownerID="11" targetID="14" fromX="3590" fromY="288" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="12" positionX="3103" positionY="1262" width="460" height="479" traderProfile="TRADER-ALPHA_CLANS_FRIENDLY" playerInventory="stuff">
       <logic>
@@ -3472,7 +3472,7 @@ She grunts towards one of her men, and he scuttles off. She goes on:
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="12" targetID="14" fromX="3533" fromY="933" />
-      <outputs name="Cancelarararararararararararar" ownerID="12" targetID="14" fromX="3533" fromY="853" />
+      <outputs name="Cancelar" ownerID="12" targetID="14" fromX="3533" fromY="853" />
     </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="14" positionX="3766" positionY="979" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="14" targetID="15" fromX="4214" fromY="546" />
@@ -4040,7 +4040,7 @@ There are now three such 'animals' lying on the ground.
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="5" targetID="6" fromX="1510" fromY="-599" />
-      <outputs name="Cancelarararararararararararar" ownerID="5" targetID="3" fromX="1510" fromY="-679" />
+      <outputs name="Cancelar" ownerID="5" targetID="3" fromX="1510" fromY="-679" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1639" positionY="-209" width="350" height="725">
       <logic>
@@ -4238,7 +4238,7 @@ But now, for my reward??</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="32" targetID="24" fromX="4100" fromY="-1917" />
-      <outputs name="Cancelarararararararararararar" ownerID="32" targetID="21" fromX="4100" fromY="-1997" />
+      <outputs name="Cancelar" ownerID="32" targetID="21" fromX="4100" fromY="-1997" />
     </nodes>
   </Adventure>
   <Adventure name="Krtecek" uniqueID="22" allowOnce="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="true" difficulty="3" nodeIdMax="17" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -4425,7 +4425,7 @@ It leaves behind a small bundle before disappearing again.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="17" targetID="10" fromX="2617" fromY="-1664" />
-      <outputs name="Cancelarararararararararararar" ownerID="17" targetID="8" fromX="2617" fromY="-1744" />
+      <outputs name="Cancelar" ownerID="17" targetID="8" fromX="2617" fromY="-1744" />
     </nodes>
   </Adventure>
   <Adventure name="WeddingFeast" uniqueID="23" allowOnce="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="true" difficulty="4" nodeIdMax="22" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -5180,7 +5180,7 @@ It is making your heads hurt and your guts turn and twist.</nodes>
       <outputs name="Ataque!" ownerID="11" targetID="13" fromX="1435" fromY="-1597" />Your demon met with the forest guardian, bugay, and convinced him to leave your village be if you promise not to be carless with wood chopping.</nodes>
     <nodes xsi:type="NodeTrade" ID="12" positionX="1101" positionY="-1906" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="demon" startingBalance="-1">
       <outputs name="confirme" ownerID="12" targetID="14" fromX="1531" fromY="-2234" />
-      <outputs name="Cancelarararararararararararar" ownerID="12" targetID="10" fromX="1531" fromY="-2314" />
+      <outputs name="Cancelar" ownerID="12" targetID="10" fromX="1531" fromY="-2314" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="13" positionX="1827" positionY="-1102" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_FOREST_D_8P_8M_8S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="13" targetID="16" fromX="2268" fromY="-1597" />
@@ -5934,7 +5934,7 @@ The creature stretches an arm and it forms a stone bridge across the ravine!
       <outputs name="Pergunte o que está no baú que você vê do outro lado do caminho?" ownerID="6" targetID="13" fromX="2396" fromY="-735" />'Ah, right to the point you are, good! Well, I am not fussy, just lazy, and I like myself some nice meat! Or, I am partial to fruit. I guess if you really don't have any of that, you can give me one of your people, although I dislike the mess of fresh food?'</nodes>
     <nodes xsi:type="NodeTrade" ID="7" positionX="2677" positionY="-42" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="food" startingBalance="-100">
       <outputs name="confirme" ownerID="7" targetID="8" fromX="3107" fromY="-370" />
-      <outputs name="Cancelarararararararararararar" ownerID="7" targetID="6" fromX="3107" fromY="-450" />
+      <outputs name="Cancelar" ownerID="7" targetID="6" fromX="3107" fromY="-450" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="3452" positionY="-188" width="350" height="725">
       <outputs name="Atravesse a ponte de mão." ownerID="8" targetID="11" fromX="3777" fromY="-679" />You hand over the goods and the troll lets you cross.</nodes>
@@ -5942,7 +5942,7 @@ The creature stretches an arm and it forms a stone bridge across the ravine!
       <outputs name="Atravesse a ponte de mão." ownerID="9" targetID="11" fromX="3355" fromY="-1137" />You leave one of your people behind to their terror and go for the crossing. The Troll grabs his bounty in his rocky hand and squishes it like a melon! You hear your comrade's scream and their bones crack...</nodes>
     <nodes xsi:type="NodeTrade" ID="10" positionX="2529" positionY="-573" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-1">
       <outputs name="confirme" ownerID="10" targetID="9" fromX="2959" fromY="-901" />
-      <outputs name="Cancelarararararararararararar" ownerID="10" targetID="6" fromX="2959" fromY="-981" />
+      <outputs name="Cancelar" ownerID="10" targetID="6" fromX="2959" fromY="-981" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="3992" positionY="-521" width="350" height="966" image="Event025">
       <logic>
@@ -6616,7 +6616,7 @@ As you stand there, basking in the new feeling, a woman appears out of the lake 
 'Welcome, Knights of Arathorn. You are far from Camroth, yet I, the Lady of the Lake, will grant your knightly boon, as it was agreed.'</nodes>
     <nodes xsi:type="NodeTrade" ID="10" positionX="2345" positionY="-296" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="weapon" startingBalance="-1">
       <outputs name="confirme" ownerID="10" targetID="12" fromX="2775" fromY="-624" />
-      <outputs name="Cancelarararararararararararar" ownerID="10" targetID="6" fromX="2775" fromY="-704" />
+      <outputs name="Cancelar" ownerID="10" targetID="6" fromX="2775" fromY="-704" />
     </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="11" positionX="2439" positionY="-899" width="460" height="429" sourceGroup="GROUP-DRAGON_ONE_10P_8M_8S" cargoPercentage="50" dropPercentage="50">
       <outputs ownerID="11" targetID="7" fromX="2869" fromY="-1257" />
@@ -7219,7 +7219,7 @@ He flies away, and some of you feel stronger in magic.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="14" targetID="17" fromX="1454" fromY="-2539" />
-      <outputs name="Cancelarararararararararararar" ownerID="14" targetID="13" fromX="1454" fromY="-2619" />
+      <outputs name="Cancelar" ownerID="14" targetID="13" fromX="1454" fromY="-2619" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="1095" positionY="-1324" width="350" height="805">
       <logic>
@@ -7237,7 +7237,7 @@ He flies away, and some of you feel stronger in magic.</nodes>
 The dragon remains on top of its tower, and takes the gold again.'</nodes>
     <nodes xsi:type="NodeTrade" ID="16" positionX="312" positionY="-2142" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="pf" startingBalance="-1">
       <outputs name="confirme" ownerID="16" targetID="20" fromX="742" fromY="-2470" />
-      <outputs name="Cancelarararararararararararar" ownerID="16" targetID="13" fromX="742" fromY="-2550" />
+      <outputs name="Cancelar" ownerID="16" targetID="13" fromX="742" fromY="-2550" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1680" positionY="-1962" width="350" height="725">
       <outputs name="Sair." ownerID="17" targetID="18" fromX="2005" fromY="-2453" />The dragon takes the virgin and looks a bit confused as to what to do with them. Finally, he decides to eat the poor soul, but as he does, he chokes on them and falls dead while his minions run away in fear of your tricks!</nodes>
@@ -8038,7 +8038,7 @@ But, I have sworn off killing and bloodshed! Yet, my primal urges cannot be tame
       <outputs name="Recusar educadamente por enquanto, o estudioso pode retornar mais tarde." ownerID="2" targetID="8" fromX="732" fromY="-891" />Sua escola atraiu a atenção de um estudioso de aparência estranha. Ele diz que é um inventor. Ele está interessado em seus artesãos, pois eles são conhecidos por serem promissores no campo. &#39;Sim, eu crio maravilhas, faço sonhos ganharem vida e ideias despertadas! Bom, às vezes... Na maioria das vezes eu faço porcarias que quebram, mas é uma ótima profissão. Vou ensiná-lo aos que são dignos, por um preço.&#39;</nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="835" positionY="-178" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-10000">
       <outputs name="confirme" ownerID="3" targetID="4" fromX="1265" fromY="-506" />
-      <outputs name="Cancelarararararararararararar" ownerID="3" targetID="2" fromX="1265" fromY="-586" />
+      <outputs name="Cancelar" ownerID="3" targetID="2" fromX="1265" fromY="-586" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="1457" positionY="-95" width="350" height="530" linkedEventUniqueID="0">
       <logic>

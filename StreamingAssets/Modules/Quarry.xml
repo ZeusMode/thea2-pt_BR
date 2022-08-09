@@ -303,7 +303,7 @@ You think it winked at you.
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="30" targetID="18" group="G1" fromX="3725" fromY="-237" />
-      <outputs name="Cancelararar" ownerID="30" targetID="17" fromX="3725" fromY="-317" />
+      <outputs name="Cancelar" ownerID="30" targetID="17" fromX="3725" fromY="-317" />
       <outputs name="confirme" ownerID="30" targetID="35" group="G1" fromX="3725" fromY="-397" />
       <outputs name="confirme" ownerID="30" targetID="27" group="G1" fromX="3725" fromY="-477" />
     </nodes>
@@ -1076,7 +1076,7 @@ The dragon falls back asleep.</nodes>
       <outputs name="Aceno com a cabeça." ownerID="40" targetID="10" fromX="1658" fromY="-1772" />Você se aproxima do dragão e vê seus olhos seguindo você com interesse. Você se curva e fala. Escuta, depois responde, devagar: &#39;Muito bem, um jogo de charadas vai me divertir tanto. Se sua mente for tão afiada quanto minhas escamas, você pode receber uma bênção.&#39;</nodes>
     <nodes xsi:type="NodeTrade" ID="41" positionX="3855" positionY="-1509" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-1">
       <outputs name="confirme" ownerID="41" targetID="24" fromX="4285" fromY="-1837" />
-      <outputs name="Cancelararar" ownerID="41" targetID="22" fromX="4285" fromY="-1917" />
+      <outputs name="Cancelar" ownerID="41" targetID="22" fromX="4285" fromY="-1917" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="42" positionX="2892" positionY="-1149" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="15" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="42" targetID="22" fromX="3321" fromY="-1537" />
@@ -1650,7 +1650,7 @@ You start loading the stone when you realise the mounds have moved. They are wat
       <outputs name="Junte o que puder e vá embora." ownerID="32" targetID="6" fromX="1202" fromY="-1325" />Enquanto você finge que está juntando pedras, você esculpe uma runa adormecida nos trolls desavisados e eles adormecem. Eles não ficarão indefesos por muito tempo, então é melhor você se apressar.</nodes>
     <nodes xsi:type="NodeTrade" ID="33" positionX="909.5221" positionY="-1587.56763" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-1">
       <outputs name="confirme" ownerID="33" targetID="35" fromX="1339" fromY="-1915" />
-      <outputs name="Cancelararar" ownerID="33" targetID="11" fromX="1339" fromY="-1996" />
+      <outputs name="Cancelar" ownerID="33" targetID="11" fromX="1339" fromY="-1996" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="283.5813" positionY="-1613.78137" width="350" height="725">
       <logic>

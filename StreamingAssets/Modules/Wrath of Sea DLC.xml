@@ -118,7 +118,7 @@
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="11" targetID="12" fromX="2317" fromY="-1530" />
-      <outputs name="Cancelararararararararararararar" ownerID="11" targetID="17" fromX="2317" fromY="-1610" />
+      <outputs name="Cancelar" ownerID="11" targetID="17" fromX="2317" fromY="-1610" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="2430" positionY="-1114" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -138,7 +138,7 @@
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="13" targetID="15" fromX="2422" fromY="-2059" />
-      <outputs name="Cancelararararararararararararar" ownerID="13" targetID="17" fromX="2422" fromY="-2139" />
+      <outputs name="Cancelar" ownerID="13" targetID="17" fromX="2422" fromY="-2139" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="2973" positionY="-1304" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="15" positionX="2537" positionY="-1726" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
@@ -152,7 +152,7 @@
     </nodes>
     <nodes xsi:type="NodeTrade" ID="16" positionX="1455" positionY="-2083" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-800">
       <outputs name="confirme" ownerID="16" targetID="14" fromX="1885" fromY="-2411" />
-      <outputs name="Cancelararararararararararararar" ownerID="16" targetID="17" fromX="1885" fromY="-2491" />
+      <outputs name="Cancelar" ownerID="16" targetID="17" fromX="1885" fromY="-2491" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1355" positionY="-854" width="350" height="805">
       <logic>
@@ -938,7 +938,7 @@ Thanks to your divine power, you are able to cleanse him, but he lingers yet.
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="12" targetID="2" fromX="1302" fromY="-958" />
-      <outputs name="Cancelararararararararararararar" ownerID="12" targetID="10" fromX="1302" fromY="-1038" />
+      <outputs name="Cancelar" ownerID="12" targetID="10" fromX="1302" fromY="-1038" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="-437" positionY="-281" width="350" height="530" logBookName="QUEST_NEMOSLAV" logBookDescription="QUEST_NEMOSLAV_DES4" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="14" positionX="948" positionY="258" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_INVENTOR_NEMOSLAV_9P_10M_9S" challengeScale="101" challengedList="ppl">
@@ -2539,7 +2539,7 @@ You reach the throne room, where Jurasmat awaits. She sits upon a throne made of
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="35" targetID="36" fromX="4608" fromY="-1589" />
-      <outputs name="Cancelararararararararararararar" ownerID="35" targetID="32" fromX="4608" fromY="-1669" />
+      <outputs name="Cancelar" ownerID="35" targetID="32" fromX="4608" fromY="-1669" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="4732" positionY="-1406" width="350" height="725">
       <outputs name="Sair." ownerID="36" targetID="37" fromX="5057" fromY="-1897" />&#39;A vida de alguém tocado pelo divino, sim, isso me libertará. Aqui, você jogou bem e fez seu trabalho, então pegue a chave e vá encontrar seu tesouro. Pouco me importo com isso. Ela te joga a chave e nada para longe.</nodes>
@@ -2804,7 +2804,7 @@ You reach the throne room, where Jurasmat awaits. She sits upon a throne made of
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="66" targetID="36" fromX="2751" fromY="-1748" />
-      <outputs name="Cancelararararararararararararar" ownerID="66" targetID="39" fromX="2751" fromY="-1828" />
+      <outputs name="Cancelar" ownerID="66" targetID="39" fromX="2751" fromY="-1828" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="67" positionX="1821" positionY="-1207" width="350" height="966">
       <outputs name="Deixe de qualquer maneira." ownerID="67" targetID="34" fromX="2146" fromY="-1698" />
@@ -5134,7 +5134,7 @@ Listen, I need to get my daughter. Will you let me get her, or will you stand in
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="11" targetID="12" fromX="2317" fromY="-1530" />
-      <outputs name="Cancelararararararararararararar" ownerID="11" targetID="17" fromX="2317" fromY="-1610" />
+      <outputs name="Cancelar" ownerID="11" targetID="17" fromX="2317" fromY="-1610" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="2430" positionY="-1114" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -5154,7 +5154,7 @@ Listen, I need to get my daughter. Will you let me get her, or will you stand in
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="13" targetID="15" fromX="2422" fromY="-2059" />
-      <outputs name="Cancelararararararararararararar" ownerID="13" targetID="17" fromX="2422" fromY="-2139" />
+      <outputs name="Cancelar" ownerID="13" targetID="17" fromX="2422" fromY="-2139" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="2973" positionY="-1304" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="15" positionX="2537" positionY="-1726" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
@@ -5168,7 +5168,7 @@ Listen, I need to get my daughter. Will you let me get her, or will you stand in
     </nodes>
     <nodes xsi:type="NodeTrade" ID="16" positionX="1404" positionY="-2095" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-2000">
       <outputs name="confirme" ownerID="16" targetID="14" fromX="1834" fromY="-2423" />
-      <outputs name="Cancelararararararararararararar" ownerID="16" targetID="17" fromX="1834" fromY="-2503" />
+      <outputs name="Cancelar" ownerID="16" targetID="17" fromX="1834" fromY="-2503" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1355" positionY="-854" width="350" height="805">
       <logic>
@@ -5358,7 +5358,7 @@ Listen, I need to get my daughter. Will you let me get her, or will you stand in
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="11" targetID="12" fromX="2317" fromY="-1530" />
-      <outputs name="Cancelararararararararararararar" ownerID="11" targetID="17" fromX="2317" fromY="-1610" />
+      <outputs name="Cancelar" ownerID="11" targetID="17" fromX="2317" fromY="-1610" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="2430" positionY="-1114" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -5378,7 +5378,7 @@ Listen, I need to get my daughter. Will you let me get her, or will you stand in
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="13" targetID="15" fromX="2422" fromY="-2059" />
-      <outputs name="Cancelararararararararararararar" ownerID="13" targetID="17" fromX="2422" fromY="-2139" />
+      <outputs name="Cancelar" ownerID="13" targetID="17" fromX="2422" fromY="-2139" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="2973" positionY="-1304" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="15" positionX="2537" positionY="-1726" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
@@ -5392,7 +5392,7 @@ Listen, I need to get my daughter. Will you let me get her, or will you stand in
     </nodes>
     <nodes xsi:type="NodeTrade" ID="16" positionX="1404" positionY="-2095" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-5000">
       <outputs name="confirme" ownerID="16" targetID="14" fromX="1834" fromY="-2423" />
-      <outputs name="Cancelararararararararararararar" ownerID="16" targetID="17" fromX="1834" fromY="-2503" />
+      <outputs name="Cancelar" ownerID="16" targetID="17" fromX="1834" fromY="-2503" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1355" positionY="-854" width="350" height="805">
       <logic>
@@ -5965,7 +5965,7 @@ Listen, I need to get my daughter. Will you let me get her, or will you stand in
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="22" targetID="24" fromX="-2926" fromY="-1429" />
-      <outputs name="Cancelararararararararararararar" ownerID="22" targetID="32" fromX="-2926" fromY="-1509" />
+      <outputs name="Cancelar" ownerID="22" targetID="32" fromX="-2926" fromY="-1509" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="-3896" positionY="-1387" width="350" height="725">
       <logic>

@@ -23,7 +23,7 @@
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-NIGHT_DEMONS_LARGE" playerInventory="stuff">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelarararararar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1691" positionY="-474" width="460" height="479" traderProfile="TRADER-NIGHT_DEMONS_LARGE" playerInventory="nofood" startingBalance="-50">
       <logic>
@@ -37,7 +37,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="confirme" ownerID="4" targetID="6" fromX="2121" fromY="-802" />
-      <outputs name="Cancelarararararar" ownerID="4" targetID="11" fromX="2121" fromY="-882" />
+      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2121" fromY="-882" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-NIGHT_DEMONS_LARGE_FRIENDLY" playerInventory="stuff">
       <logic>
@@ -48,7 +48,7 @@
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelarararararar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="805">
@@ -208,7 +208,7 @@
       <outputs name="Visite as casas de prazer." ownerID="7" targetID="17" fromX="954" fromY="-2212" />'You are friends, for now. So, you may enter at your own peril.'</nodes>
     <nodes xsi:type="NodeTrade" ID="8" positionX="1907" positionY="-1852" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="petsnoghost" startingBalance="-15">
       <outputs name="confirme" ownerID="8" targetID="11" fromX="2337" fromY="-2180" />
-      <outputs name="Cancelarararararar" ownerID="8" targetID="87" fromX="2337" fromY="-2260" />
+      <outputs name="Cancelar" ownerID="8" targetID="87" fromX="2337" fromY="-2260" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="9" positionX="1662" positionY="-2508" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="noch" startingBalance="-1">
       <logic>
@@ -225,7 +225,7 @@
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="9" targetID="11" fromX="2092" fromY="-2836" />
-      <outputs name="Cancelarararararar" ownerID="9" targetID="87" fromX="2092" fromY="-2916" />
+      <outputs name="Cancelar" ownerID="9" targetID="87" fromX="2092" fromY="-2916" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="10" positionX="1103" positionY="-2579" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="noch" startingBalance="-1">
       <logic>
@@ -245,7 +245,7 @@
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="10" targetID="11" fromX="1533" fromY="-2907" />
-      <outputs name="Cancelarararararar" ownerID="10" targetID="87" fromX="1533" fromY="-2987" />
+      <outputs name="Cancelar" ownerID="10" targetID="87" fromX="1533" fromY="-2987" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="2639" positionY="-1399" width="350" height="805">
       <logic>

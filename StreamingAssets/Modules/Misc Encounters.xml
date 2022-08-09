@@ -290,7 +290,7 @@ You'd think any lake would be wet, yeah?'</nodes>
       <outputs name="Sair." ownerID="27" targetID="36" fromX="-454" fromY="-644" />You come across a small pond, there are signs here that say: 'Drop us a gift of good metal or good  gems and the lady of the lake will bless you.'</nodes>
     <nodes xsi:type="NodeTrade" ID="28" positionX="-1310" positionY="70" width="460" height="880" traderProfile="TRADER-BANDIT_TWO" playerInventory="trade" startingBalance="-2">
       <outputs name="confirme" ownerID="28" targetID="29" group="G1" fromX="-879" fromY="-258" />
-      <outputs name="Cancelararararar" ownerID="28" targetID="37" fromX="-879" fromY="-338" />
+      <outputs name="Cancelar" ownerID="28" targetID="37" fromX="-879" fromY="-338" />
       <outputs name="confirme" ownerID="28" targetID="30" group="G1" fromX="-879" fromY="-418" />
       <outputs name="confirme" ownerID="28" targetID="31" group="G1" fromX="-879" fromY="-498" />
       <outputs name="confirme" ownerID="28" targetID="32" group="G1" fromX="-879" fromY="-579" />
@@ -1334,7 +1334,7 @@ The leader stops him with a raised hand, then speaks to you:
 'Good road to you, stranger. May we impose on your time?'</nodes>
     <nodes xsi:type="NodeTrade" ID="19" positionX="2638" positionY="-764" width="460" height="479" traderProfile="TRADER-SLAVYAN_SMALL_FRIENDLY" playerInventory="stuff">
       <outputs name="confirme" ownerID="19" targetID="17" fromX="3068" fromY="-1092" />
-      <outputs name="Cancelararararar" ownerID="19" targetID="17" fromX="3068" fromY="-1172" />
+      <outputs name="Cancelar" ownerID="19" targetID="17" fromX="3068" fromY="-1172" />
     </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="20" positionX="-693.046753" positionY="-788.3464" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="20" targetID="21" fromX="-244" fromY="-1220" />
@@ -1390,7 +1390,7 @@ Tales are important to us. A spirit cannot truly rest if their death tale is not
     </nodes>
     <nodes xsi:type="NodeTrade" ID="27" positionX="1230" positionY="-2124" width="460" height="479" traderProfile="TRADER-SLAVYAN_SMALL" playerInventory="stuff">
       <outputs name="confirme" ownerID="27" targetID="32" fromX="1660" fromY="-2452" />
-      <outputs name="Cancelararararar" ownerID="27" targetID="32" fromX="1660" fromY="-2532" />
+      <outputs name="Cancelar" ownerID="27" targetID="32" fromX="1660" fromY="-2532" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="190.668167" positionY="-2767.383" width="350" height="725">
       <outputs name="Concorde e negocie com eles." ownerID="28" targetID="29" fromX="516" fromY="-3258" />'I see. Sadness ensues. We will try to find peace for his spirit through another journey.
@@ -1408,7 +1408,7 @@ Would you like to trade?'</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="29" targetID="32" fromX="1164" fromY="-3117" />
-      <outputs name="Cancelararararar" ownerID="29" targetID="32" fromX="1164" fromY="-3197" />
+      <outputs name="Cancelar" ownerID="29" targetID="32" fromX="1164" fromY="-3197" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="-1010.33563" positionY="-3002.76074" width="350" height="805">
       <logic>
@@ -3979,7 +3979,7 @@ You also find a stash of good wood left behind by the demon.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="confirme" ownerID="32" targetID="11" fromX="1168" fromY="-3284" />
-      <outputs name="Cancelararararar" ownerID="32" targetID="9" fromX="1168" fromY="-3365" />
+      <outputs name="Cancelar" ownerID="32" targetID="9" fromX="1168" fromY="-3365" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="33" positionX="1333" positionY="-1225" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="33" targetID="34" fromX="1774" fromY="-1721" />
