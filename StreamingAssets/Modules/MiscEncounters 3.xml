@@ -92,7 +92,7 @@ She gives you her family heirloom as reward.</nodes>
       <outputs name="Concorde e entre na casa dela para falar com o espírito." ownerID="9" targetID="24" fromX="2574" fromY="-789" />— Não há necessidade de se incomodar, senhores. Eu não quis ofender. Matar fogo com fogo é o que eu digo. Vá falar com aquele meu marido. A noite está chegando, e ele virá também.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="1114" positionY="-752" width="350" height="805">
       <outputs name="Estaqueie a casa e ataque o fantasma quando ele aparecer." ownerID="10" targetID="11" fromX="1439" fromY="-1243" />
-      <outputs name="Não é da sua conta, na verdade; apenas saia." ownerID="10" targetID="32" fromX="1439" fromY="-1323" />— Mate um espírito, sim? digo bom. Meu marido se foi e pronto. Essa coisa não é minha. Tenha cuidado, porém, essas coisas podem trazer desagradáveis companheiros quando atacados. É por isso que ainda não fizemos isso. O resto dos aldeões concorda com a cabeça.</nodes>
+      <outputs name="Não é da sua conta, na verdade; apenas saia." ownerID="10" targetID="32" fromX="1439" fromY="-1323" />— Mate um espírito, sim? digo bom. Meu marido se foi e pronto. Essa coisa não é minha. Tenha cuidado, porém, essas coisas podem trazer desagradáveis companheiros quando atacados. É por isso que ainda não fizemos isso. O resto dos aldeoes concorda com a cabeça.</nodes>
     <nodes xsi:type="NodeChallenge" ID="11" positionX="1608" positionY="-1472" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-GHOST_2P_3M_4S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="11" targetID="12" fromX="2049" fromY="-1967" />
       <outputs name="Lose" ownerID="11" targetID="16" fromX="2049" fromY="-2047" />
@@ -149,7 +149,7 @@ You get some gold coins, but over the next few days, your throat gets sore and s
       <outputs name="Bom, pegue o ouro e vá embora." ownerID="15" targetID="14" fromX="3085" fromY="-2766" />&#39;Seus malditos atrevidos! Ajuda, eles dizem, mas nosso sustento é tudo o que eles querem... Aqui, pegue um pouco de ouro e engasgue com isso.&#39;
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="3333" positionY="-2212" width="350" height="725">
-      <outputs name="Melhor sair rapidamente então." ownerID="16" targetID="17" fromX="3658" fromY="-2703" />O marido-fantasma é feroz e afugenta você de sua casa! Os aldeões amaldiçoam você também, pois você apenas enfureceu o espírito.</nodes>
+      <outputs name="Melhor sair rapidamente então." ownerID="16" targetID="17" fromX="3658" fromY="-2703" />O marido-fantasma é feroz e afugenta você de sua casa! Os aldeoes amaldiçoam você também, pois você apenas enfureceu o espírito.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="17" positionX="1614" positionY="-3045" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="18" positionX="-1011" positionY="-34" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-HUMS_2P_2M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="18" targetID="19" group="G1" fromX="-569" fromY="-529" />
@@ -228,7 +228,7 @@ You get some gold coins, but over the next few days, your throat gets sore and s
     <nodes xsi:type="NodeAdventure" ID="28" positionX="4457" positionY="663" width="350" height="725">
       <outputs name="Diga que ela está livre do fantasma." ownerID="28" targetID="31" fromX="4783" fromY="172" />&#39;Ah, então que coisa, minhas coisas não estão, quero dizer, ela não pode, oh! Excelente! Finalmente, estou livre, obrigado!&#39; O fantasma desaparece e a esposa entra para ver seu trabalho feito.</nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="2954.13428" positionY="807.756348" width="350" height="805">
-      <outputs name="Diga aos aldeões que não havia outro jeito. O fantasma estava muito apegado à sua esposa, então ele a levou com ele." ownerID="29" targetID="36" fromX="3279" fromY="316" />
+      <outputs name="Diga aos aldeoes que não havia outro jeito. O fantasma estava muito apegado à sua esposa, então ele a levou com ele." ownerID="29" targetID="36" fromX="3279" fromY="316" />
       <outputs name="Tente se desculpar pelo seu erro. Erros acontecem, e sussurrar fantasmas não é uma arte precisa." ownerID="29" targetID="36" fromX="3279" fromY="236" />A esposa grita à noite. Você corre para o quarto e vê o fantasma rasgando-a com garras espectrais. Uma vez que ela se foi, o espírito se dissolve.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="30" positionX="4238" positionY="-659" width="350" height="530" allPlayersXP="3" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="31" positionX="5021" positionY="641" width="350" height="885">
@@ -265,7 +265,7 @@ You get some gold coins, but over the next few days, your throat gets sore and s
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pegue a comida e vá embora." ownerID="36" targetID="35" fromX="3889" fromY="499" />Os aldeões estão confusos, mas sabem que não devem questionar as palavras de um sábio, especialmente agora que o problema acabou. Eles oferecem comida em agradecimento, e você tem a sensação de que pedir mais pode ser forçar.</nodes>
+      <outputs name="Pegue a comida e vá embora." ownerID="36" targetID="35" fromX="3889" fromY="499" />Os aldeoes estão confusos, mas sabem que não devem questionar as palavras de um sábio, especialmente agora que o problema acabou. Eles oferecem comida em agradecimento, e você tem a sensação de que pedir mais pode ser forçar.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="37" positionX="663" positionY="-1353" width="350" height="530" allPlayersXP="3" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -355,7 +355,7 @@ You get some gold coins, but over the next few days, your throat gets sore and s
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Tente falar com esse garoto. Explique que você teve que matar aqueles aldeões porque eles estavam enfraquecidos por demônios." ownerID="2" targetID="4" fromX="583" fromY="253" />
+      <outputs name="Tente falar com esse garoto. Explique que você teve que matar aqueles aldeoes porque eles estavam enfraquecidos por demônios." ownerID="2" targetID="4" fromX="583" fromY="253" />
       <outputs name="Intimidar a criança. Diga que eles podem ter sorte e matar uma pessoa, mas certamente morrerão em seguida!" ownerID="2" targetID="16" fromX="583" fromY="173" />
       <outputs name="Ataque a criança antes que ela possa fazer mal!" ownerID="2" targetID="20" group="G1" fromX="583" fromY="93" />
       <outputs name="Ataque a criança antes que ela possa fazer mal!" ownerID="2" targetID="21" group="G1" fromX="583" fromY="13" />Você é acordado por um grito e descobre que uma criança está em cima de um de seus companheiros de equipe, segurando uma faca ensanguentada e prestes a desferir o golpe mortal! É uma das crianças que você &#39;resgatou&#39; de um assentamento depois de matar todo o seu povo.</nodes>
@@ -715,7 +715,7 @@ The creature disappears, but a curse lingers upon your souls. </nodes>
       <outputs name="Ataque a escória mentirosa!" ownerID="15" targetID="3" fromX="5003" fromY="959" />You see the goblin sweating and averting eye contact with you. Others look equally uncomfortable. He is lying for sure.</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="5107" positionY="1621" width="350" height="1046">
       <outputs name="Diga a eles que você tentará falar com este goblin assassino, mas você não pode prometer nada, já que eles são culpados em parte." ownerID="16" targetID="21" fromX="5432" fromY="1129" />
-      <outputs name="Concordar que toda a aldeia não deve pagar pelas ações de alguns, especialmente crianças. Diga que você vai falar com este goblin assassino." ownerID="16" targetID="21" fromX="5432" fromY="1049" />
+      <outputs name="Concordar que toda a aldeia não deve pagar pelas açoes de alguns, especialmente crianças. Diga que você vai falar com este goblin assassino." ownerID="16" targetID="21" fromX="5432" fromY="1049" />
       <outputs name="Say that whatever comes their way is well deserved. Sair." ownerID="16" targetID="22" fromX="5432" fromY="969" />
       <outputs name="Diga a eles que você levará seus filhos para um local seguro, mas o resto deve ficar de pé e pagar o preço por seus crimes." ownerID="16" targetID="17" fromX="5432" fromY="889" />
       <outputs name="They are guilty. Ataque!" ownerID="16" targetID="3" fromX="5432" fromY="809" />&#39;Ah, tudo bem... então foram nossos meninos que fizeram isso. Nós pensamos. Quero dizer, nossa aldeia estava indo mal, as colheitas morreram, os espíritos não ajudaram. Aqueles rapazes dizem que vão procurar coisas para nós. E eles fizeram. Não perguntamos onde. Mas nós sabíamos. Talvez não tudo, mas de que outra forma eles conseguiriam tanto? O estupro, porém, nós realmente não sabíamos disso. Aqueles meninos, eles estão mortos agora, mortos de verdade. Não fomos, não matamos. Nossos filhos, eles são bons, por favor...&#39;</nodes>

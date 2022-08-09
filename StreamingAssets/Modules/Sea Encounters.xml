@@ -56,7 +56,7 @@
       </logic>
       <outputs name="Mate o peixe." ownerID="6" targetID="3" fromX="1720" fromY="-345" />
       <outputs name="[Hunter] Caçar o peixe." ownerID="6" targetID="20" fromX="1720" fromY="-425" />
-      <outputs name="[Demônio da água] Água salgada é ruim. Mas pule rápido e pegue o que puder - o peixinho não vai incomodá-lo." ownerID="6" targetID="21" fromX="1720" fromY="-505" />O navio é antigo e parece ter pertencido a goblins, a julgar pelo estilo. Seu trabalho manual é conhecido por sobreviver a condições adversas, então talvez você possa encontrar algo útil. Mas bandos de criaturas marinhas estão fervilhando no convés, então você precisa se livrar deles primeiro.</nodes>
+      <outputs name="[Demônio da água] Água salgada é ruim. Mas pule rápido e pegue o que puder - o peixinho não vai incomodá-lo." ownerID="6" targetID="21" fromX="1720" fromY="-505" />O navio é antigo e parece ter pertencido a goblins, a julgar pelo estilo. Seu trabalho manual é conhecido por sobreviver a condiçoes adversas, então talvez você possa encontrar algo útil. Mas bandos de criaturas marinhas estão fervilhando no convés, então você precisa se livrar deles primeiro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2317" positionY="906" width="350" height="805">
       <outputs name="Pegue o baú e ignore o fantasma." ownerID="7" targetID="8" fromX="2642" fromY="414" />
       <outputs name="Pegue o baú e faça um gesto para que o fantasma suba e fale com você." ownerID="7" targetID="9" fromX="2642" fromY="334" />Com o peixe desaparecido, você nada até o convés e procura por qualquer mercadoria. Você vê um baú esculpido e, sentado ao lado dele, vê um fantasma, olhando desesperadamente para as profundezas do mar diante dele.</nodes>
@@ -358,7 +358,7 @@
       </logic>
       <outputs name="Mate o peixe." ownerID="6" targetID="3" fromX="1720" fromY="-345" />
       <outputs name="[Hunter] Caçar o peixe." ownerID="6" targetID="20" fromX="1720" fromY="-425" />
-      <outputs name="[Demônio da água] Água salgada é ruim. Mas pule rápido e pegue o que puder - o peixinho não vai incomodá-lo." ownerID="6" targetID="21" fromX="1720" fromY="-505" />O navio é antigo e parece ter pertencido a goblins, a julgar pelo estilo. Seu trabalho manual é conhecido por sobreviver a condições adversas, então talvez você possa encontrar algo útil. Mas bandos de criaturas marinhas estão fervilhando no convés, então você precisa se livrar deles primeiro.</nodes>
+      <outputs name="[Demônio da água] Água salgada é ruim. Mas pule rápido e pegue o que puder - o peixinho não vai incomodá-lo." ownerID="6" targetID="21" fromX="1720" fromY="-505" />O navio é antigo e parece ter pertencido a goblins, a julgar pelo estilo. Seu trabalho manual é conhecido por sobreviver a condiçoes adversas, então talvez você possa encontrar algo útil. Mas bandos de criaturas marinhas estão fervilhando no convés, então você precisa se livrar deles primeiro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2379" positionY="772" width="350" height="805">
       <outputs name="Pegue o baú e ignore o fantasma." ownerID="7" targetID="8" fromX="2704" fromY="280" />
       <outputs name="Pegue o baú e faça um gesto para que o fantasma suba e fale com você." ownerID="7" targetID="9" fromX="2704" fromY="200" />Com o peixe desaparecido, você nada até o convés e procura por qualquer mercadoria. Você vê um baú esculpido e, sentado ao lado dele, vê um fantasma, olhando desesperadamente para as profundezas do mar diante dele.</nodes>
@@ -663,7 +663,7 @@
       </logic>
       <outputs name="Mate o peixe." ownerID="6" targetID="3" fromX="1720" fromY="-345" />
       <outputs name="[Hunter] Caçar o peixe." ownerID="6" targetID="20" fromX="1720" fromY="-425" />
-      <outputs name="[Demônio da água] Água salgada é ruim. Mas pule rápido e pegue o que puder - o peixinho não vai incomodá-lo." ownerID="6" targetID="21" fromX="1720" fromY="-505" />O navio é antigo e parece ter pertencido a goblins, a julgar pelo estilo. Seu trabalho manual é conhecido por sobreviver a condições adversas, então talvez você possa encontrar algo útil. Mas bandos de criaturas marinhas estão fervilhando no convés, então você precisa se livrar deles primeiro.</nodes>
+      <outputs name="[Demônio da água] Água salgada é ruim. Mas pule rápido e pegue o que puder - o peixinho não vai incomodá-lo." ownerID="6" targetID="21" fromX="1720" fromY="-505" />O navio é antigo e parece ter pertencido a goblins, a julgar pelo estilo. Seu trabalho manual é conhecido por sobreviver a condiçoes adversas, então talvez você possa encontrar algo útil. Mas bandos de criaturas marinhas estão fervilhando no convés, então você precisa se livrar deles primeiro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2379" positionY="772" width="350" height="805">
       <outputs name="Ignore a aparição e saqueie o que puder." ownerID="7" targetID="35" fromX="2704" fromY="280" />
       <outputs name="A aparição não parece instantaneamente agressiva. Talvez haja uma maneira de capturá-lo. Entre e experimente." ownerID="7" targetID="9" fromX="2704" fromY="200" />Com o peixe desaparecido, você nada até o convés e procura mercadorias. Você vê vários cadáveres limpos pelos peixes. Você também vê uma aparição vagando sem rumo pelo convés. </nodes>
@@ -1549,7 +1549,7 @@ They swim away but blow you a sweet kiss. </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2414" positionY="-1496" width="350" height="885">
       <outputs name="[Syrin] Sim, parece que vocês dois compartilham algo, embora pareçam mais com suas irmãs raivosas, a alkhonost. Ainda assim, deseje-lhes bem e vá embora." ownerID="19" targetID="22" fromX="2739" fromY="-1987" />
       <outputs name="[Vodnik]Absurdo. Subaquático é o seu domínio, e nenhuma rainha reivindica domínio. Bobagem!" ownerID="19" targetID="24" fromX="2739" fromY="-2067" />
-      <outputs name="Acene com a cabeça e agradeça por seu tempo, então nade para longe." ownerID="19" targetID="21" fromX="2739" fromY="-2147" />&#39;Somos chamados de czytlica. Alguns nos chamam de sereias também, mas isso pode ser por causa do seu syrin que canta nossas canções em terra. As jurata, nossas rainhas, reivindicaram os mares quando a terra se rompeu. Agora somos mestres aqui, longe da terra e de seus pequenos lagos.</nodes>
+      <outputs name="Acene com a cabeça e agradeça por seu tempo, então nade para longe." ownerID="19" targetID="21" fromX="2739" fromY="-2147" />&#39;Somos chamados de czytlica. Alguns nos chamam de sereias também, mas isso pode ser por causa do seu syrin que canta nossas cançoes em terra. As jurata, nossas rainhas, reivindicaram os mares quando a terra se rompeu. Agora somos mestres aqui, longe da terra e de seus pequenos lagos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="2525" positionY="-2438" width="350" height="725">
       <logic>
         <ModifierBlock>

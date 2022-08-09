@@ -618,7 +618,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="18" targetID="20" group="G1" fromX="3949" fromY="-549" />
-      <outputs name="Sair." ownerID="18" targetID="21" group="G1" fromX="3949" fromY="-630" />Você monta as armadilhas e se livra dos vermes. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="21" group="G1" fromX="3949" fromY="-630" />Você monta as armadilhas e se livra dos vermes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="19" positionX="1501.08484" positionY="-17.5874252" width="460" height="429" sourceGroup="GROUP-RATS_1P_1M_1S" dropPercentage="80">
       <outputs ownerID="19" targetID="18" fromX="1931" fromY="-375" />
     </nodes>
@@ -809,7 +809,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="49" targetID="20" group="G1" fromX="2600" fromY="-2368" />
-      <outputs name="Sair." ownerID="49" targetID="21" group="G1" fromX="2600" fromY="-2448" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas ações. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="49" targetID="21" group="G1" fromX="2600" fromY="-2448" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="2745" positionY="-2323" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -828,7 +828,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="50" targetID="20" group="G1" fromX="3070" fromY="-2814" />
-      <outputs name="Sair." ownerID="50" targetID="21" group="G1" fromX="3070" fromY="-2894" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas ações. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="21" group="G1" fromX="3070" fromY="-2894" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="3760" positionY="-1242" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -847,7 +847,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="51" targetID="20" group="G1" fromX="4085" fromY="-1733" />
-      <outputs name="Sair." ownerID="51" targetID="21" group="G1" fromX="4085" fromY="-1813" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas ações. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="51" targetID="21" group="G1" fromX="4085" fromY="-1813" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="-553" positionY="-169" width="350" height="885" image="Event238">
       <logic>
         <FilterBlock>
@@ -988,7 +988,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="63" targetID="20" group="G1" fromX="2418" fromY="-1469" />
-      <outputs name="Sair." ownerID="63" targetID="21" group="G1" fromX="2418" fromY="-1549" />Os ratos seguem a melodia e se afogam. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="63" targetID="21" group="G1" fromX="2418" fromY="-1549" />Os ratos seguem a melodia e se afogam. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
   </Adventure>
   <Adventure name="SlavKillWolves" uniqueID="14" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="51" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="-451.314148" positionY="-29.9478874" width="347" height="825" image="Event015">
@@ -1382,8 +1382,8 @@ It purrs at you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Você sabe como lidar com rufiões - você se envolveu com essa vida também. Fale com eles." ownerID="2" targetID="3" fromX="882" fromY="-507" />
-      <outputs name="Intimidar os rufiões. Diga a eles que você não deixará ninguém vivo a menos que eles vão." ownerID="2" targetID="4" fromX="882" fromY="-587" />
+      <outputs name="Você sabe como lidar com rufioes - você se envolveu com essa vida também. Fale com eles." ownerID="2" targetID="3" fromX="882" fromY="-507" />
+      <outputs name="Intimidar os rufioes. Diga a eles que você não deixará ninguém vivo a menos que eles vão." ownerID="2" targetID="4" fromX="882" fromY="-587" />
       <outputs name="[Intelecto e harmonia] Convença os catadores de que é mais sensato partir agora do que enfrentar você ou, mais tarde, os eslavos também." ownerID="2" targetID="16" fromX="882" fromY="-667" />
       <outputs name="Pague os catadores para sair." ownerID="2" targetID="15" fromX="882" fromY="-747" />
       <outputs name="Ataque!" ownerID="2" targetID="24" fromX="882" fromY="-827" />
@@ -1569,7 +1569,7 @@ It purrs at you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2259" />Você está prestes a relatar seu sucesso quando percebe que os catadores não têm honra. Eles voltam para a aldeia e atacam novamente. Eles acabam sendo espancados pelos aldeões sem sua ajuda, e sua amizade sofre por isso.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2259" />Você está prestes a relatar seu sucesso quando percebe que os catadores não têm honra. Eles voltam para a aldeia e atacam novamente. Eles acabam sendo espancados pelos aldeoes sem sua ajuda, e sua amizade sofre por isso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="487.979858" positionY="-2380.74268" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -1791,8 +1791,8 @@ It purrs at you.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="[Unliving] Peça-lhes para seguir em frente ou deixe os aldeões em paz." ownerID="3" targetID="7" group="G1" fromX="395" fromY="584" />
-      <outputs name="[Unliving] Peça-lhes para seguir em frente ou deixe os aldeões em paz." ownerID="3" targetID="42" group="G1" fromX="395" fromY="504" />
+      <outputs name="[Unliving] Peça-lhes para seguir em frente ou deixe os aldeoes em paz." ownerID="3" targetID="7" group="G1" fromX="395" fromY="584" />
+      <outputs name="[Unliving] Peça-lhes para seguir em frente ou deixe os aldeoes em paz." ownerID="3" targetID="42" group="G1" fromX="395" fromY="504" />
       <outputs name="Realize um ritual que manterá os mortos-vivos presos aqui. Isso é magia negra, então pode custar algo, mas deve funcionar." ownerID="3" targetID="5" fromX="395" fromY="423" />
       <outputs name="Você os pegou de surpresa, então ataque!" ownerID="3" targetID="30" fromX="395" fromY="343" />You spot several unliving corpses walking in circles around a single gravestone.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="958" positionY="55" width="350" height="885">
@@ -1921,7 +1921,7 @@ It purrs at you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2303" />Você está prestes a relatar seu sucesso quando percebe que os catadores não têm honra. Eles voltam para a aldeia e atacam novamente. Eles acabam sendo espancados pelos aldeões sem sua ajuda, e sua amizade sofre por isso.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2303" />Você está prestes a relatar seu sucesso quando percebe que os catadores não têm honra. Eles voltam para a aldeia e atacam novamente. Eles acabam sendo espancados pelos aldeoes sem sua ajuda, e sua amizade sofre por isso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="487.979858" positionY="-2380.74268" width="350" height="681.449951">
       <logic>
         <ModifierBlock>
@@ -2355,7 +2355,7 @@ This village is small, as such, it will not offer recruitment and may have other
         </FilterBlock>
       </logic>
       <outputs name="[Bruxa] Diga que você só precisa da ajuda de sua irmã, e você mesma pagará o preço e promete não sobrecarregá-la." ownerID="26" targetID="29" fromX="2438" fromY="-2486" />
-      <outputs name="Concorde em pagar o preço para remover maldições." ownerID="26" targetID="31" fromX="2438" fromY="-2566" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes." ownerID="26" targetID="31" fromX="2438" fromY="-2566" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="26" targetID="55" fromX="2438" fromY="-2646" />
       <outputs name="Sair." ownerID="26" targetID="4" fromX="2438" fromY="-2726" />'A witch, that's what you're after, eh? Magic comes at a price. Healing the spirit is easier, but curses, well, they are nasty things. They'll cost you more, cost you blood.'</nodes>
     <nodes xsi:type="NodeTrade" ID="27" positionX="1135.68176" positionY="-2609.58325" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-1000">
@@ -2409,7 +2409,7 @@ This village is small, as such, it will not offer recruitment and may have other
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ela e vá embora." ownerID="29" targetID="4" fromX="2838" fromY="-2480" />A bruxa assente. — Bah, deveria ter dito isso, mana. Eu não tentaria te vender a porcaria cara, ha. Vamos lá.&#39; Juntos, vocês removem quaisquer maldições que tenham.
+      <outputs name="Agradeça a ela e vá embora." ownerID="29" targetID="4" fromX="2838" fromY="-2480" />A bruxa assente. — Bah, deveria ter dito isso, mana. Eu não tentaria te vender a porcaria cara, ha. Vamos lá.&#39; Juntos, vocês removem quaisquer maldiçoes que tenham.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="3049.31543" positionY="-2679.04932" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="15" useCountInPercent="true" targetGroup="half">
       <logic>
@@ -2807,7 +2807,7 @@ This village is small, as such, it will not offer recruitment and may have other
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1098.9574" positionY="-1337.7124" width="350" height="725">
-      <outputs name="Excelente. Vá dizer aos aldeões." ownerID="7" targetID="50" fromX="1424" fromY="-1828" />Você encontra os pontos certos para marcar seu território com um odor forte e predatório. As abelhas logo se afastam e deixam seu mel para trás.</nodes>
+      <outputs name="Excelente. Vá dizer aos aldeoes." ownerID="7" targetID="50" fromX="1424" fromY="-1828" />Você encontra os pontos certos para marcar seu território com um odor forte e predatório. As abelhas logo se afastam e deixam seu mel para trás.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2784.79028" positionY="546.8231" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -2959,7 +2959,7 @@ I mean, you meant well. But perhaps next time, do as we ask.'</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="48" targetID="21" fromX="4373.04" fromY="-514.4161" />Um batedor do vilarejo estava observando você e se aproxima: &#39;Que se dane. Você raciocinou com os ferrões. Excelente. Acho que não nos importaremos com o zumbido se isso nos trouxer mel. Obrigado, e aqui está sua recompensa.</nodes>
+      <outputs name="Sair." ownerID="48" targetID="21" fromX="4373.04" fromY="-514.4161" />Um batedor do vilarejo estava observando você e se aproxima: &#39;Que se dane. Você raciocinou com os ferroes. Excelente. Acho que não nos importaremos com o zumbido se isso nos trouxer mel. Obrigado, e aqui está sua recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="1852.86719" positionY="-1170.88464" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -3215,9 +3215,9 @@ When you are friends, visit the tavern to recruit people.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="[Bruxa] Diga que você só precisa da ajuda de sua irmã, e você mesma pagará o preço e promete não sobrecarregá-la." ownerID="26" targetID="29" fromX="2402" fromY="-2534" />
-      <outputs name="Concorde em pagar o preço por curar maldições." ownerID="26" targetID="31" fromX="2402" fromY="-2615" />
+      <outputs name="Concorde em pagar o preço por curar maldiçoes." ownerID="26" targetID="31" fromX="2402" fromY="-2615" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="26" targetID="62" fromX="2402" fromY="-2695" />
-      <outputs name="Você não tem feridas espirituais ou maldições, vá embora." ownerID="26" targetID="4" fromX="2402" fromY="-2775" />'A witch, that's what you're after, eh? Magic comes at a price. Healing the spirit is easier, but curses, well, they are nasty things. They'll cost you more, cost you blood.'</nodes>
+      <outputs name="Você não tem feridas espirituais ou maldiçoes, vá embora." ownerID="26" targetID="4" fromX="2402" fromY="-2775" />'A witch, that's what you're after, eh? Magic comes at a price. Healing the spirit is easier, but curses, well, they are nasty things. They'll cost you more, cost you blood.'</nodes>
     <nodes xsi:type="NodeTrade" ID="27" positionX="1135.68176" positionY="-2609.58325" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-500">
       <logic>
         <FilterBlock>
@@ -3269,7 +3269,7 @@ When you are friends, visit the tavern to recruit people.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ela e vá embora." ownerID="29" targetID="4" fromX="2839" fromY="-2449" />A bruxa assente. — Bah, deveria ter dito isso, mana. Eu não tentaria te vender a porcaria cara, ha. Vamos lá.&#39; Juntos, vocês removem quaisquer maldições que tenham.
+      <outputs name="Agradeça a ela e vá embora." ownerID="29" targetID="4" fromX="2839" fromY="-2449" />A bruxa assente. — Bah, deveria ter dito isso, mana. Eu não tentaria te vender a porcaria cara, ha. Vamos lá.&#39; Juntos, vocês removem quaisquer maldiçoes que tenham.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="3044" positionY="-2821" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="15" useCountInPercent="true" targetGroup="half">
       <logic>
@@ -3781,7 +3781,7 @@ When you are friends, visit the tavern to recruit people.</nodes>
       <outputs name="[Mestre das feras ou cavaleiro de javali] Javalis são sua especialidade. Crie caos suficiente para fazê-los fugir, então tente separar e capturar os jovens." ownerID="3" targetID="7" group="G1" fromX="-42" fromY="1314" />
       <outputs name="[Mestre das feras ou cavaleiro de javali] Javalis são sua especialidade. Crie caos suficiente para fazê-los fugir, então tente separar e capturar os jovens." ownerID="3" targetID="42" group="G1" fromX="-42" fromY="1234" />
       <outputs name="Alguns em seu grupo podem se comunicar com javalis, então tente fazê-los obedecer." ownerID="3" targetID="5" group="G1" fromX="-42" fromY="1154" />
-      <outputs name="A porca será muito protetora de seus leitões. Tente fazer com que esta área pareça um lugar muito arriscado para criar jovens." ownerID="3" targetID="6" fromX="-42" fromY="1073" />
+      <outputs name="A porca será muito protetora de seus leitoes. Tente fazer com que esta área pareça um lugar muito arriscado para criar jovens." ownerID="3" targetID="6" fromX="-42" fromY="1073" />
       <outputs name="Prepare uma armadilha para o bando e ataque quando eles estiverem enfraquecidos." ownerID="3" targetID="30" fromX="-42" fromY="993" />You get in closer and observe. The boars have some piglets with them, which can make them more aggressive, but may also provide an opportunity.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1079.43433" positionY="-21.7207184" width="350" height="805">
       <logic>
@@ -4082,7 +4082,7 @@ When you are friends, visit the tavern to recruit people.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="42" targetID="40" fromX="447" fromY="1726" />Seu plano sai pela culatra. Os javalis entram em pânico e correm, mas acabam atropelando alguns aldeões. Você pega alguns leitões, no entanto. Os eslavos não estão impressionados com sua &#39;ajuda&#39;.
+      <outputs name="Sair." ownerID="42" targetID="40" fromX="447" fromY="1726" />Seu plano sai pela culatra. Os javalis entram em pânico e correm, mas acabam atropelando alguns aldeoes. Você pega alguns leitoes, no entanto. Os eslavos não estão impressionados com sua &#39;ajuda&#39;.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="47" positionX="2863" positionY="647" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="47" targetID="27" fromX="3292" fromY="258" />
@@ -4473,7 +4473,7 @@ When you are friends, visit the tavern to recruit people.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="42" targetID="40" fromX="556" fromY="1703" />Você luta com o urso, mas os outros não se importam e vão embora, embora você não perceba. Mais tarde você descobre que, irritados com sua interrupção, os ursos atacaram os aldeões. Os eslavos não estão impressionados com sua &#39;ajuda&#39;.
+      <outputs name="Sair." ownerID="42" targetID="40" fromX="556" fromY="1703" />Você luta com o urso, mas os outros não se importam e vão embora, embora você não perceba. Mais tarde você descobre que, irritados com sua interrupção, os ursos atacaram os aldeoes. Os eslavos não estão impressionados com sua &#39;ajuda&#39;.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="47" positionX="3226" positionY="624" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="6" maxDamage="15" useCountInPercent="false" targetGroup="ppl">
       <outputs ownerID="47" targetID="27" fromX="3656" fromY="236" />
@@ -4695,7 +4695,7 @@ When you are friends, visit the tavern to recruit people.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="18" targetID="20" group="G1" fromX="3922" fromY="-781" />
-      <outputs name="Sair." ownerID="18" targetID="21" group="G1" fromX="3922" fromY="-861" />Você monta as armadilhas e se livra dos vermes. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="21" group="G1" fromX="3922" fromY="-861" />Você monta as armadilhas e se livra dos vermes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="19" positionX="1501.08484" positionY="-17.5874252" width="460" height="429" sourceGroup="GROUP-FAT_RATS_MIX_1P_1M_1S" dropPercentage="100">
       <outputs ownerID="19" targetID="18" fromX="1931" fromY="-375" />
     </nodes>
@@ -4889,7 +4889,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="49" targetID="20" group="G1" fromX="2348" fromY="-2423" />
-      <outputs name="Sair." ownerID="49" targetID="21" group="G1" fromX="2348" fromY="-2503" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas ações. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="49" targetID="21" group="G1" fromX="2348" fromY="-2503" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="2473.361" positionY="-1614.38721" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -4911,7 +4911,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="50" targetID="20" group="G1" fromX="2799" fromY="-2105" />
-      <outputs name="Sair." ownerID="50" targetID="21" group="G1" fromX="2799" fromY="-2185" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas ações. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="21" group="G1" fromX="2799" fromY="-2185" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="3568" positionY="-1394" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -4933,7 +4933,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="51" targetID="20" group="G1" fromX="3893" fromY="-1885" />
-      <outputs name="Sair." ownerID="51" targetID="21" group="G1" fromX="3893" fromY="-1965" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas ações. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="51" targetID="21" group="G1" fromX="3893" fromY="-1965" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="-598.1335" positionY="-259.796936" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -5074,7 +5074,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="63" targetID="20" group="G1" fromX="2339" fromY="-1503" />
-      <outputs name="Sair." ownerID="63" targetID="21" group="G1" fromX="2339" fromY="-1583" />Os ratos seguem a melodia e se afogam. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="63" targetID="21" group="G1" fromX="2339" fromY="-1583" />Os ratos seguem a melodia e se afogam. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
   </Adventure>
   <Adventure name="Army" uniqueID="29" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="28" eventTag="TAG-LOG4" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event140">
@@ -6613,7 +6613,7 @@ It could be grave robbers, but it could be more...</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Pergunte o que a dola está fazendo aqui." ownerID="7" targetID="9" fromX="835" fromY="2203" />
-      <outputs name="Ataque!" ownerID="7" targetID="6" fromX="835" fromY="2123" />Esse conhecimento é raro, mas sendo quem você é, você reconhece os sinais. Essas formas juntas sugerem que este pode ser um demônio dola. Eles geralmente são demônios guardiões, especialmente apaixonados por proteger os jovens e trazer boa sorte para aqueles que escolherem. É estranho encontrar um aqui, sozinho.</nodes>
+      <outputs name="Ataque!" ownerID="7" targetID="6" fromX="835" fromY="2123" />Esse conhecimento é raro, mas sendo quem você é, você reconhece os sinais. Essas formas juntas sugerem que este pode ser um demônio dola. Eles geralmente são demônios guardioes, especialmente apaixonados por proteger os jovens e trazer boa sorte para aqueles que escolherem. É estranho encontrar um aqui, sozinho.</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="951.35614" positionY="3200.15186" width="350" height="966">
       <outputs name="Descubra uma maneira de acordar a dola e lembrá-la de seu dever de proteger." ownerID="9" targetID="13" fromX="1277" fromY="2709" />
       <outputs name="A ligação desses mortos-vivos é muito fraca e fresca. Use um ritual de limpeza para quebrar o vínculo e assim destruí-los." ownerID="9" targetID="14" fromX="1277" fromY="2628" />
@@ -6754,7 +6754,7 @@ It could be grave robbers, but it could be more...</nodes>
       <outputs name="Mate o demônio também antes que ela convoque mais mortos-vivos." ownerID="27" targetID="83" fromX="2920" fromY="1230" />
       <outputs name="Amarre o demônio ao seu serviço com magia. Isso é arriscado, mas pode funcionar." ownerID="27" targetID="84" fromX="2920" fromY="1150" />
       <outputs name="Apenas deixe este lugar." ownerID="27" targetID="76" group="G2" fromX="2920" fromY="1070" />
-      <outputs name="Apenas deixe este lugar." ownerID="27" targetID="83" group="G2" fromX="2920" fromY="990" />O ritual funciona e os mortos-vivos desmoronam onde estão. A criatura que os convocou grita como se estivesse com dor. &#39;Nããão! Minhas acusações, mortas. Eu falhei... de novo... não se preocupem meus queridos, eu vou acertar vocês de novo...&#39;
+      <outputs name="Apenas deixe este lugar." ownerID="27" targetID="83" group="G2" fromX="2920" fromY="990" />O ritual funciona e os mortos-vivos desmoronam onde estão. A criatura que os convocou grita como se estivesse com dor. &#39;Nããão! Minhas acusaçoes, mortas. Eu falhei... de novo... não se preocupem meus queridos, eu vou acertar vocês de novo...&#39;
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="5276.63" positionY="911.844" width="350" height="360.8" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="29" positionX="4185.65234" positionY="1323.21741" width="350" height="360.8" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
@@ -10014,8 +10014,8 @@ You feel a blessing upon you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Você sabe como lidar com rufiões - você se envolveu com essa vida também. Fale com eles." ownerID="2" targetID="3" fromX="882" fromY="-507" />
-      <outputs name="Intimidar os rufiões. Diga a eles que você não deixará ninguém vivo a menos que eles vão." ownerID="2" targetID="4" fromX="882" fromY="-587" />
+      <outputs name="Você sabe como lidar com rufioes - você se envolveu com essa vida também. Fale com eles." ownerID="2" targetID="3" fromX="882" fromY="-507" />
+      <outputs name="Intimidar os rufioes. Diga a eles que você não deixará ninguém vivo a menos que eles vão." ownerID="2" targetID="4" fromX="882" fromY="-587" />
       <outputs name="[Intelecto e harmonia] Convença os catadores de que é mais sensato partir agora do que enfrentar você ou, mais tarde, os eslavos também." ownerID="2" targetID="16" fromX="882" fromY="-667" />
       <outputs name="Pague os catadores para sair." ownerID="2" targetID="15" fromX="882" fromY="-747" />
       <outputs name="Ataque!" ownerID="2" targetID="24" fromX="882" fromY="-827" />
@@ -10201,7 +10201,7 @@ You feel a blessing upon you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2259" />Você está prestes a relatar seu sucesso quando percebe que os catadores não têm honra. Eles voltam para a aldeia e atacam novamente. Eles acabam sendo espancados pelos aldeões sem sua ajuda, e sua amizade sofre por isso.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2259" />Você está prestes a relatar seu sucesso quando percebe que os catadores não têm honra. Eles voltam para a aldeia e atacam novamente. Eles acabam sendo espancados pelos aldeoes sem sua ajuda, e sua amizade sofre por isso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="487.979858" positionY="-2380.74268" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -10801,7 +10801,7 @@ You feel a blessing upon you.
       <outputs name="[Pirata] Tente negociar com os piratas." ownerID="2" targetID="55" group="G1" fromX="788" fromY="-650" />
       <outputs name="Tente negociar com os piratas." ownerID="2" targetID="9" group="G1" fromX="788" fromY="-730" />
       <outputs name="[Bandido] Eles parecem estar pisando em território de bandidos aqui. Pergunte por que os piratas estão tomando os assentamentos de terra." ownerID="2" targetID="10" fromX="788" fromY="-810" />
-      <outputs name="Diga que você ainda não fez a tarefa, mas deseja revisar suas opções novamente." ownerID="2" targetID="60" fromX="788" fromY="-891" />This settlement is now overrun with orc pirates. Some of the locals are chained and forced to work, with others locked up in cages or hung on display as examples. </nodes>
+      <outputs name="Diga que você ainda não fez a tarefa, mas deseja revisar suas opçoes novamente." ownerID="2" targetID="60" fromX="788" fromY="-891" />This settlement is now overrun with orc pirates. Some of the locals are chained and forced to work, with others locked up in cages or hung on display as examples. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-633" positionY="-1001" width="350" height="530" logBookName="QUEST_OCCUPSLAV" logBookDescription="QUEST_OCCUPSLAV_DES3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="4" positionX="902" positionY="164" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-PIRATES_7P_5M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="4" targetID="38" fromX="1343" fromY="-331" />

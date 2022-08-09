@@ -870,7 +870,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
       <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-647" />
       <outputs name="Alegrar." ownerID="2" targetID="7" group="G1" fromX="760" fromY="-727" />
       <outputs name="Alegrar." ownerID="2" targetID="8" group="G1" fromX="760" fromY="-807" />
-      <outputs name="Alegrar." ownerID="2" targetID="10" group="G1" fromX="760" fromY="-887" />O fascínio dos anões pela beleza única das rusalkas é um fato há muito tempo. E bem, seu próprio anão e demoneta da água decidiu explorar essas tradições de longa data. Uma cegonha anuncia uma criança da união, mas quem será essa criança é um mistério.</nodes>
+      <outputs name="Alegrar." ownerID="2" targetID="10" group="G1" fromX="760" fromY="-887" />O fascínio dos anoes pela beleza única das rusalkas é um fato há muito tempo. E bem, seu próprio anão e demoneta da água decidiu explorar essas tradiçoes de longa data. Uma cegonha anuncia uma criança da união, mas quem será essa criança é um mistério.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1944" positionY="-798" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1936,12 +1936,12 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Participe do ritual." ownerID="2" targetID="5" fromX="778" fromY="-490" />O acasalamento dos anões é uma coisa secreta, e como você escolheu um caminho fora de sua família, você não tem memória de como ele funciona. No entanto, você provou ser amigo dos presos à Terra e, portanto, vocês dois estão convidados a participar do ritual vivificante que pode fornecer a você um filho. 
+      <outputs name="Participe do ritual." ownerID="2" targetID="5" fromX="778" fromY="-490" />O acasalamento dos anoes é uma coisa secreta, e como você escolheu um caminho fora de sua família, você não tem memória de como ele funciona. No entanto, você provou ser amigo dos presos à Terra e, portanto, vocês dois estão convidados a participar do ritual vivificante que pode fornecer a você um filho. 
  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1998" positionY="-302" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="5" positionX="895" positionY="56" width="350" height="805">
       <outputs name="Aguarde os resultados." ownerID="5" targetID="6" group="G1" fromX="1220" fromY="-435" />
-      <outputs name="Aguarde os resultados." ownerID="5" targetID="8" group="G1" fromX="1220" fromY="-515" />Você entra profundamente nos antigos túneis dos anões. O macho tem que seguir seu instinto e encontrar a rocha da vida. Seu companheiro espera. Uma vez que a pedra é trazida de volta, a fêmea canta a canção da vida, e juntas elas esculpem a pedra na esperança de que ela se torne uma criança. Apenas uma dessas cerimônias pode ser realizada a cada duas décadas e nem sempre é bem sucedida.
+      <outputs name="Aguarde os resultados." ownerID="5" targetID="8" group="G1" fromX="1220" fromY="-515" />Você entra profundamente nos antigos túneis dos anoes. O macho tem que seguir seu instinto e encontrar a rocha da vida. Seu companheiro espera. Uma vez que a pedra é trazida de volta, a fêmea canta a canção da vida, e juntas elas esculpem a pedra na esperança de que ela se torne uma criança. Apenas uma dessas cerimônias pode ser realizada a cada duas décadas e nem sempre é bem sucedida.
  </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1354" positionY="252" width="350" height="725">
       <logic>

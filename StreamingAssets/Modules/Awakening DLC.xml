@@ -238,7 +238,7 @@ You feel the favour of Perun befall you!</nodes>
       </logic>
       <outputs name="[Sabedoria] Você já leu sobre isso, então considere com cuidado." ownerID="2" targetID="5" group="G1" fromX="847" fromY="-496" />
       <outputs name="Você já leu sobre este, então considere-o com cuidado." ownerID="2" targetID="6" group="G1" fromX="847" fromY="-576" />
-      <outputs name="Maldito roedor, mate-o!" ownerID="2" targetID="4" fromX="847" fromY="-656" />Durante a noite, um de seus aldeões descobre um intruso no celeiro. As portas do depósito estão entreabertas e uma pequena criatura peluda, coberta com sua farinha, olha para você. Ele tem olhos amarelos, dentes afiados e cheiro de ovo podre.</nodes>
+      <outputs name="Maldito roedor, mate-o!" ownerID="2" targetID="4" fromX="847" fromY="-656" />Durante a noite, um de seus aldeoes descobre um intruso no celeiro. As portas do depósito estão entreabertas e uma pequena criatura peluda, coberta com sua farinha, olha para você. Ele tem olhos amarelos, dentes afiados e cheiro de ovo podre.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="505" positionY="-1551" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -423,7 +423,7 @@ You feel the favour of Perun befall you!</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Faça isso!" ownerID="4" targetID="11" fromX="1621" fromY="-579" />Você coloca seu pessoal em um prédio e polvilha a soleira com sal e sangue de galinha. Você amarra fitas vermelhas e joga sorvas no chão! Você se sente fortalecido, mas ainda precisa enfrentar as aparições!</nodes>
+      <outputs name="Faça isso!" ownerID="4" targetID="11" fromX="1621" fromY="-579" />Você coloca seu pessoal em um prédio e polvilha a soleira com sal e sangue de galinha. Você amarra fitas vermelhas e joga sorvas no chão! Você se sente fortalecido, mas ainda precisa enfrentar as apariçoes!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1108" positionY="-965" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -502,7 +502,7 @@ You feel the favour of Perun befall you!</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Um de seu povo, uma vez perdido para as aparições, voltou. Dê-lhes as boas-vindas de volta." ownerID="12" targetID="13" group="G1" fromX="3541" fromY="-302" />
+      <outputs name="Um de seu povo, uma vez perdido para as apariçoes, voltou. Dê-lhes as boas-vindas de volta." ownerID="12" targetID="13" group="G1" fromX="3541" fromY="-302" />
       <outputs name="Sair. " ownerID="12" targetID="18" group="G1" fromX="3541" fromY="-382" />Sua força de vontade se mostra mais forte do que a força maliciosa dos fantasmas uivantes. Desta vez, nenhum de seu povo morreu.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="3727" positionY="186" width="350" height="530" allPlayersXP="6" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
@@ -620,8 +620,8 @@ You feel the favour of Perun befall you!</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Um de seu povo, uma vez perdido para as aparições, voltou. Dê-lhes as boas-vindas de volta." ownerID="20" targetID="13" group="G1" fromX="3890" fromY="-1951" />
-      <outputs name="Sair. " ownerID="20" targetID="18" group="G1" fromX="3890" fromY="-2031" />A força bruta é a forma mais perigosa de derrotar as aparições, e seu espírito sofre muito. Mas sua força de vontade se mostra mais forte do que a força maliciosa das aparições uivantes. Desta vez, nenhum de seu povo morreu e as aparições se foram, por enquanto.</nodes>
+      <outputs name="Um de seu povo, uma vez perdido para as apariçoes, voltou. Dê-lhes as boas-vindas de volta." ownerID="20" targetID="13" group="G1" fromX="3890" fromY="-1951" />
+      <outputs name="Sair. " ownerID="20" targetID="18" group="G1" fromX="3890" fromY="-2031" />A força bruta é a forma mais perigosa de derrotar as apariçoes, e seu espírito sofre muito. Mas sua força de vontade se mostra mais forte do que a força maliciosa das apariçoes uivantes. Desta vez, nenhum de seu povo morreu e as apariçoes se foram, por enquanto.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="21" positionX="2968" positionY="-1479" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="70" maxDamage="90" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="21" targetID="20" fromX="3397" fromY="-1867" />
     </nodes>
@@ -1393,7 +1393,7 @@ It then disappears!</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Louvado seja o Deus Sol!" ownerID="13" targetID="15" fromX="2635" fromY="-2132" />Após sete dias, o ovo eclode e um novo Rarag nasce! Ele abre suas asas e envolve todo o seu povo no calor de seus fogos. Todas as maldições são curadas imediatamente!</nodes>
+      <outputs name="Louvado seja o Deus Sol!" ownerID="13" targetID="15" fromX="2635" fromY="-2132" />Após sete dias, o ovo eclode e um novo Rarag nasce! Ele abre suas asas e envolve todo o seu povo no calor de seus fogos. Todas as maldiçoes são curadas imediatamente!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="15" positionX="2800" positionY="-2432" width="350" height="530" allPlayersXP="5" allPlayersRP="3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="16" positionX="2900" positionY="-1533" width="350" height="805">
       <logic>
@@ -1455,7 +1455,7 @@ Still, you have certainly gained some folk knowledge from this.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Louvado seja o Deus Sol!" ownerID="20" targetID="15" fromX="2616" fromY="-2926" />Após sete dias, o ovo eclode e um novo Rarag nasce! Ele abre suas asas e envolve todo o seu povo no calor de seus fogos. Todas as maldições sobre sua aldeia são imediatamente curadas e alguns de seu povo sentem uma bênção de Svarog sobre eles.</nodes>
+      <outputs name="Louvado seja o Deus Sol!" ownerID="20" targetID="15" fromX="2616" fromY="-2926" />Após sete dias, o ovo eclode e um novo Rarag nasce! Ele abre suas asas e envolve todo o seu povo no calor de seus fogos. Todas as maldiçoes sobre sua aldeia são imediatamente curadas e alguns de seu povo sentem uma bênção de Svarog sobre eles.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="3460" positionY="-2262" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2000,7 +2000,7 @@ One of the werewolves shifts back into wolf form and proudly joins your village!
       </logic>
       <outputs name="Use outro aldeão como isca para criar uma armadilha." ownerID="10" targetID="18" group="G1" fromX="339" fromY="-1444" />
       <outputs name="Use outro aldeão como isca para criar uma armadilha." ownerID="10" targetID="11" group="G1" fromX="339" fromY="-1524" />
-      <outputs name="Não arrisque mais aldeões, ataque agora!" ownerID="10" targetID="3" fromX="339" fromY="-1604" />Você observa a criatura e vê que agora há várias delas em sua aldeia. Eles parecem estar procurando por seus entes queridos e, uma vez encontrados, se fixam neles. Um aldeão já foi sugado!</nodes>
+      <outputs name="Não arrisque mais aldeoes, ataque agora!" ownerID="10" targetID="3" fromX="339" fromY="-1604" />Você observa a criatura e vê que agora há várias delas em sua aldeia. Eles parecem estar procurando por seus entes queridos e, uma vez encontrados, se fixam neles. Um aldeão já foi sugado!</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="836" positionY="-1666" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2177,7 +2177,7 @@ But your elders tell you that she will return and bring ill fortune and disease,
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2102" positionY="-214" width="350" height="885">
       <outputs name="Tente com as bugigangas em vez disso." ownerID="10" targetID="11" fromX="2427" fromY="-705" />
       <outputs name="Experimente o truque. [3 pessoas apenas]" ownerID="10" targetID="21" fromX="2427" fromY="-785" />
-      <outputs name="Apenas tente capturar e matar a coisa!" ownerID="10" targetID="8" fromX="2427" fromY="-865" />Uma maneira de enganar um liho é fazê-lo perseguir você. Ele então se sentará em seu ombro e o provocará das maneiras mais cruéis. Você deve então correr para um lago ou rio e deve fingir que se afogou. O liho se julgará vitorioso e flutuará em busca de outras vítimas, pois é um demônio sempre em busca de novas emoções. O truque é, claro, permanecer vivo enquanto você finge.</nodes>
+      <outputs name="Apenas tente capturar e matar a coisa!" ownerID="10" targetID="8" fromX="2427" fromY="-865" />Uma maneira de enganar um liho é fazê-lo perseguir você. Ele então se sentará em seu ombro e o provocará das maneiras mais cruéis. Você deve então correr para um lago ou rio e deve fingir que se afogou. O liho se julgará vitorioso e flutuará em busca de outras vítimas, pois é um demônio sempre em busca de novas emoçoes. O truque é, claro, permanecer vivo enquanto você finge.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1577" positionY="757" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -2251,7 +2251,7 @@ But your elders tell you that she will return and bring ill fortune and disease,
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="17" targetID="18" fromX="2887" fromY="-1653" />Você derrotou os fantasmas, ainda sem saber de onde eles vieram, ou sua conexão com o liho. O liho se foi, mas você ouve sua risada maníaca ecoando em seus ouvidos? Ela não volta na noite seguinte, mas você não tem certeza se foi o seu ataque, ou algo totalmente diferente que a fez ir. Seus anciões balançam a cabeça e os punhos prometendo que o liho um dia retornará para mais??</nodes>
+      <outputs name="Sair." ownerID="17" targetID="18" fromX="2887" fromY="-1653" />Você derrotou os fantasmas, ainda sem saber de onde eles vieram, ou sua conexão com o liho. O liho se foi, mas você ouve sua risada maníaca ecoando em seus ouvidos? Ela não volta na noite seguinte, mas você não tem certeza se foi o seu ataque, ou algo totalmente diferente que a fez ir. Seus ancioes balançam a cabeça e os punhos prometendo que o liho um dia retornará para mais??</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="3049" positionY="-1600" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="19" positionX="2490" positionY="-2029" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="1983" positionY="-1132" width="350" height="530" allPlayersXP="3" allPlayersRP="2" linkedEventUniqueID="0" />
@@ -2303,7 +2303,7 @@ Those who emerge from the waters, feel strengthened by their deed.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="23" targetID="24" fromX="3536" fromY="-1335" />Suas melhores pessoas aceitam o desafio, o liho sobe em seus ombros e, um por um, tenta provocá-los ao desespero. Eles perseveram e pulam na água, fingindo se afogar. Infelizmente, um de seu povo não consegue prender a respiração e, ao sair para respirar, luta até o ponto de exaustão! Você teme que eles não se recuperem disso. O liho solta uma risada maligna, mas pelo menos vai embora, satisfeito com suas más ações.</nodes>
+      <outputs name="Sair." ownerID="23" targetID="24" fromX="3536" fromY="-1335" />Suas melhores pessoas aceitam o desafio, o liho sobe em seus ombros e, um por um, tenta provocá-los ao desespero. Eles perseveram e pulam na água, fingindo se afogar. Infelizmente, um de seu povo não consegue prender a respiração e, ao sair para respirar, luta até o ponto de exaustão! Você teme que eles não se recuperem disso. O liho solta uma risada maligna, mas pelo menos vai embora, satisfeito com suas más açoes.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="24" positionX="3618" positionY="-1391" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="25" positionX="636" positionY="-1525" width="350" height="725">
       <logic>
@@ -2563,7 +2563,7 @@ Those who emerge from the waters, feel strengthened by their deed.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="23" targetID="30" fromX="1283" fromY="-2297" />Dievanna compartilha o amor pela caça com seus dois irmãos divinos, Horz e Zorya, e por isso é a grande caça que você honrará nas celebrações da Lua da Colheita. O poder da Lua da Colheita inunda seu povo e os escolhidos sentem esse poder se infiltrando neles!</nodes>
+      <outputs name="Sair." ownerID="23" targetID="30" fromX="1283" fromY="-2297" />Dievanna compartilha o amor pela caça com seus dois irmãos divinos, Horz e Zorya, e por isso é a grande caça que você honrará nas celebraçoes da Lua da Colheita. O poder da Lua da Colheita inunda seu povo e os escolhidos sentem esse poder se infiltrando neles!</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="1775" positionY="-1994" width="350" height="725" image="Event288">
       <logic>
         <FilterBlock>
@@ -2644,7 +2644,7 @@ Those who emerge from the waters, feel strengthened by their deed.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Dê graças a Marovit." ownerID="26" targetID="30" fromX="1287" fromY="-3062" />Marovit nunca se divertiu com as conexões sociais dentro de sua família, mas o poder da Harvest Moon é inegável e então você procura honrar seu Senhor esta noite. Seus sábios realizam rituais místicos, invocando os espíritos dos mortos e tecendo os ventos da magia. O poder da Lua da Colheita inunda seu povo e os escolhidos sentem esse poder se infiltrando neles!</nodes>
+      <outputs name="Dê graças a Marovit." ownerID="26" targetID="30" fromX="1287" fromY="-3062" />Marovit nunca se divertiu com as conexoes sociais dentro de sua família, mas o poder da Harvest Moon é inegável e então você procura honrar seu Senhor esta noite. Seus sábios realizam rituais místicos, invocando os espíritos dos mortos e tecendo os ventos da magia. O poder da Lua da Colheita inunda seu povo e os escolhidos sentem esse poder se infiltrando neles!</nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="640" positionY="-2785" width="350" height="725" image="Event294">
       <logic>
         <FilterBlock>
@@ -2693,7 +2693,7 @@ Those who emerge from the waters, feel strengthened by their deed.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a Nyia." ownerID="28" targetID="30" fromX="491" fromY="-3259" />Nyia nunca se divertiu com as conexões sociais dentro de sua família, mas o poder da Harvest Moon é inegável e então você procura honrar seu Senhor esta noite. Seus sábios realizam rituais místicos, invocando os espíritos dos mortos e tecendo os ventos da magia. O poder da Lua da Colheita inunda seu povo e os escolhidos sentem esse poder se infiltrando neles!</nodes>
+      <outputs name="Agradeça a Nyia." ownerID="28" targetID="30" fromX="491" fromY="-3259" />Nyia nunca se divertiu com as conexoes sociais dentro de sua família, mas o poder da Harvest Moon é inegável e então você procura honrar seu Senhor esta noite. Seus sábios realizam rituais místicos, invocando os espíritos dos mortos e tecendo os ventos da magia. O poder da Lua da Colheita inunda seu povo e os escolhidos sentem esse poder se infiltrando neles!</nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="-241" positionY="-2608" width="350" height="725" image="Event289">
       <logic>
         <FilterBlock>
@@ -2743,7 +2743,7 @@ Those who emerge from the waters, feel strengthened by their deed.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="31" targetID="30" fromX="132" fromY="-2276" />A mãe divina é patrona de toda a vida e natureza, e ela cuida de seus filhos, Horz e Zorya. Em homenagem às celebrações da Lua da Colheita e da mãe natureza, vocês devem dançar sob o olhar da lua, seus corpos cobertos por nada além da terra sagrada. O poder da Lua da Colheita inunda seu povo e os escolhidos sentem esse poder se infiltrando neles!</nodes>
+      <outputs name="Sair." ownerID="31" targetID="30" fromX="132" fromY="-2276" />A mãe divina é patrona de toda a vida e natureza, e ela cuida de seus filhos, Horz e Zorya. Em homenagem às celebraçoes da Lua da Colheita e da mãe natureza, vocês devem dançar sob o olhar da lua, seus corpos cobertos por nada além da terra sagrada. O poder da Lua da Colheita inunda seu povo e os escolhidos sentem esse poder se infiltrando neles!</nodes>
   </Adventure>
   <Adventure name="Tesknica" uniqueID="11" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="true" difficulty="4" nodeIdMax="13" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event075">
@@ -2860,7 +2860,7 @@ And yet, upon the demon's departure, you feel a deeper understanding of the demo
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Volta a dormir." ownerID="7" targetID="12" fromX="2551" fromY="-878" />O cheiro doce do sabugueiro acalma o sono e quando a mulher aparece mais uma vez, ela parece evitar a fumaça. O beijo doloroso do demônio Saudade consome apenas algumas almas esta noite. Quando acordam, suas almas estão pesadas e seus corações escurecidos. Alguns permanecerão enfraquecidos para sempre, mas outros se sentirão fortalecidos por sua provação.</nodes>
+      <outputs name="Volta a dormir." ownerID="7" targetID="12" fromX="2551" fromY="-878" />O cheiro doce do sabugueiro acalma o sono e quando a mulher aparece mais uma vez, ela parece evitar a fumaça. O beijo doloroso do demônio Saudade consome apenas algumas almas esta noite. Quando acordam, suas almas estão pesadas e seus coraçoes escurecidos. Alguns permanecerão enfraquecidos para sempre, mas outros se sentirão fortalecidos por sua provação.</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2241" positionY="-1198" width="350" height="805">
       <outputs name="Quebre seu poder maligno." ownerID="8" targetID="9" fromX="2566" fromY="-1689" />
       <outputs name="No. Queime incenso de ervas da planta ao redor de seu povo." ownerID="8" targetID="7" fromX="2566" fromY="-1769" />You use the herb to create a smoke screen and infuse it with folk magic to call on the spirits of your ancestors and bring you the strength of the spirit to fight against the demon!</nodes>
@@ -3303,7 +3303,7 @@ And yet, upon the demon's departure, you feel a deeper understanding of the demo
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="516" positionY="-2545" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1781" positionY="-67" width="350" height="725">
-      <outputs name="Agradeça a eles pelas informações." ownerID="11" targetID="12" fromX="2106" fromY="-558" />&#39;Bem, nós tentamos lutar, mas falhamos, e verdade seja dita, nós ficamos parados por muito tempo. Mas você sabe, esses brutos, eles mataram um monte de nosso povo e levaram muitos de nossos bens, então se você quiser tentar vencê-los, seja nosso convidado! Tínhamos uma grande serraria e uma pequena pedreira, então você não só vingará nosso povo, como será bem recompensado, sabe.what, these brutes, they killed a bunch of our people and took much of our goods, so if you want to try and beat them, be our guests! 
+      <outputs name="Agradeça a eles pelas informaçoes." ownerID="11" targetID="12" fromX="2106" fromY="-558" />&#39;Bem, nós tentamos lutar, mas falhamos, e verdade seja dita, nós ficamos parados por muito tempo. Mas você sabe, esses brutos, eles mataram um monte de nosso povo e levaram muitos de nossos bens, então se você quiser tentar vencê-los, seja nosso convidado! Tínhamos uma grande serraria e uma pequena pedreira, então você não só vingará nosso povo, como será bem recompensado, sabe.what, these brutes, they killed a bunch of our people and took much of our goods, so if you want to try and beat them, be our guests! 
 
 We had a sizeable lumber mill and a small quarry, so not only you will avenge our people, you'll be well rewarded, you know.?</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2216" positionY="-64" width="350" height="966">
@@ -3952,12 +3952,12 @@ Reads his makeshift sign, below it, there is an additional note:
 'Well, as you can see, I am a cobbler, Needler they call me, and I travel Thea makin' and sellin' exquisite, custom made, designer footwear! I also deal with dragon infestations. So, you see, this site is actually perfect for my business. So which one are ya here for?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1440" positionY="377" width="350" height="805">
       <outputs name="Diga ao homem que você está aqui sobre o dragão" ownerID="6" targetID="7" fromX="1765" fromY="-114" />
-      <outputs name="Diga que você questiona sua sanidade e certamente sua habilidade de matar dragões." ownerID="6" targetID="9" fromX="1765" fromY="-194" />'Oh sorry, all out of shoes your size at the moment, but come back next week, I'll make some more, just for ya?'</nodes>
+      <outputs name="Diga que você questiona sua sanidade e certamente sua habilidade de matar dragoes." ownerID="6" targetID="9" fromX="1765" fromY="-194" />'Oh sorry, all out of shoes your size at the moment, but come back next week, I'll make some more, just for ya?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1926" positionY="-520" width="350" height="725">
       <outputs name="Uma princesa?" ownerID="7" targetID="10" fromX="2251" fromY="-1011" />'Ah the dragon. Well, as I advertised, I will take care of the dragon problem for you, or at least help you do it, for a price.?</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="947" positionY="-977" width="350" height="805">
       <outputs name="Acene com a cabeça e insista que você precisa saber sobre o dragão." ownerID="8" targetID="7" fromX="1272" fromY="-1468" />
-      <outputs name="Diga que você questiona sua sanidade e certamente sua habilidade de matar dragões." ownerID="8" targetID="9" fromX="1272" fromY="-1548" />'You say that as if it was a certainty, I tell ya, I have many satisfied customers seeking me out for my shoes!'</nodes>
+      <outputs name="Diga que você questiona sua sanidade e certamente sua habilidade de matar dragoes." ownerID="8" targetID="9" fromX="1272" fromY="-1548" />'You say that as if it was a certainty, I tell ya, I have many satisfied customers seeking me out for my shoes!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1472" positionY="-790" width="350" height="725">
       <outputs name="Uma princesa?" ownerID="9" targetID="10" fromX="1797" fromY="-1281" />'Bah, insane! I am an entrepren- a trade man, yes, and a master of my arts. And how I plan to rid you of your problem, is my business, ya pay the price, I help to slay the dragon.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2416" positionY="-596" width="350" height="805">
@@ -4473,16 +4473,16 @@ It leaves behind a small bundle before disappearing again.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Comece as comemorações." ownerID="2" targetID="3" group="G1" fromX="888" fromY="-685" />
-      <outputs name="Comece as comemorações." ownerID="2" targetID="4" group="G1" fromX="888" fromY="-765" />
-      <outputs name="Comece as comemorações." ownerID="2" targetID="5" group="G1" fromX="888" fromY="-845" />
-      <outputs name="Comece as comemorações." ownerID="2" targetID="6" group="G1" fromX="888" fromY="-925" />
-      <outputs name="Comece as comemorações." ownerID="2" targetID="7" group="G1" fromX="888" fromY="-1005" />
-      <outputs name="Comece as comemorações." ownerID="2" targetID="8" group="G1" fromX="888" fromY="-1086" />
-      <outputs name="Comece as comemorações." ownerID="2" targetID="9" group="G1" fromX="888" fromY="-1166" />
-      <outputs name="Comece as comemorações." ownerID="2" targetID="10" group="G1" fromX="888" fromY="-1246" />
-      <outputs name="Comece as comemorações." ownerID="2" targetID="11" group="G1" fromX="888" fromY="-1326" />
-      <outputs name="Comece as comemorações." ownerID="2" targetID="22" group="G1" fromX="888" fromY="-1406" />Dois de seus colegas aldeões decidiram se casar e, como os tempos são terríveis, é mais importante do que nunca apreciar essas ocasiões. As celebrações de casamento duram sete dias, e é costume garantir que todos participem.</nodes>
+      <outputs name="Comece as comemoraçoes." ownerID="2" targetID="3" group="G1" fromX="888" fromY="-685" />
+      <outputs name="Comece as comemoraçoes." ownerID="2" targetID="4" group="G1" fromX="888" fromY="-765" />
+      <outputs name="Comece as comemoraçoes." ownerID="2" targetID="5" group="G1" fromX="888" fromY="-845" />
+      <outputs name="Comece as comemoraçoes." ownerID="2" targetID="6" group="G1" fromX="888" fromY="-925" />
+      <outputs name="Comece as comemoraçoes." ownerID="2" targetID="7" group="G1" fromX="888" fromY="-1005" />
+      <outputs name="Comece as comemoraçoes." ownerID="2" targetID="8" group="G1" fromX="888" fromY="-1086" />
+      <outputs name="Comece as comemoraçoes." ownerID="2" targetID="9" group="G1" fromX="888" fromY="-1166" />
+      <outputs name="Comece as comemoraçoes." ownerID="2" targetID="10" group="G1" fromX="888" fromY="-1246" />
+      <outputs name="Comece as comemoraçoes." ownerID="2" targetID="11" group="G1" fromX="888" fromY="-1326" />
+      <outputs name="Comece as comemoraçoes." ownerID="2" targetID="22" group="G1" fromX="888" fromY="-1406" />Dois de seus colegas aldeoes decidiram se casar e, como os tempos são terríveis, é mais importante do que nunca apreciar essas ocasioes. As celebraçoes de casamento duram sete dias, e é costume garantir que todos participem.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1223" positionY="205" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4496,7 +4496,7 @@ It leaves behind a small bundle before disappearing again.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="As comemorações afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="3" targetID="12" fromX="1548" fromY="-286" />As followers of Dzievanna, you honour some elder traditions, perhaps reaching back to the days of the Elves. The young couple swears their oaths under an ancient oak tree, citing:
+      <outputs name="As comemoraçoes afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="3" targetID="12" fromX="1548" fromY="-286" />As followers of Dzievanna, you honour some elder traditions, perhaps reaching back to the days of the Elves. The young couple swears their oaths under an ancient oak tree, citing:
 
 'Our souls, reborn in these mortal coils, have found their missing halves, and from two incomplete spirits they will now become one, stronger and immortal.'
 
@@ -4516,7 +4516,7 @@ Only then do the usual libations, with an excess of food, strong spirits and ple
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="As comemorações afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="4" targetID="12" fromX="2217" fromY="-630" />To honour the power of Triglav, the couple wanting to become one must together slay a wild beast! The beast is brought by the village elders and put in the fighting pits, where the young contestants must face it together or fall trying.
+      <outputs name="As comemoraçoes afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="4" targetID="12" fromX="2217" fromY="-630" />To honour the power of Triglav, the couple wanting to become one must together slay a wild beast! The beast is brought by the village elders and put in the fighting pits, where the young contestants must face it together or fall trying.
 
 Of course, the beast is only symbolic and will often take the shape of a single spider or rat, but the ritual has been known to cause some harm.
 
@@ -4536,7 +4536,7 @@ Only then do the usual libations, with an excess of food, strong spirits and ple
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="As comemorações afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="5" targetID="12" fromX="1797" fromY="-1098" />The power of the wind and air can be considered cleansing. It can blow away the troubles of the past and prepare the young couple for their journey together. 
+      <outputs name="As comemoraçoes afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="5" targetID="12" fromX="1797" fromY="-1098" />The power of the wind and air can be considered cleansing. It can blow away the troubles of the past and prepare the young couple for their journey together. 
 
 In the name of Stribog, the couple stands atop the tallest structure. While they embrace each other and sing to the gods, their naked bodies receive the blessing of their lord.
 
@@ -4554,7 +4554,7 @@ Only then do the usual libations, with an excess of food, strong spirits and ple
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="As comemorações afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="6" targetID="12" fromX="1324" fromY="-1122" />In true warrior fashion, Zorya's followers must organise the fighting pits, and the couple wishing to get married must face off, first against each other to establish who's in charge, and then against the village to show their strength as a team!
+      <outputs name="As comemoraçoes afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="6" targetID="12" fromX="1324" fromY="-1122" />In true warrior fashion, Zorya's followers must organise the fighting pits, and the couple wishing to get married must face off, first against each other to establish who's in charge, and then against the village to show their strength as a team!
 
 The combat is, of course, to the first blood only, but the newlyweds often begin their new life with many cuts and bruises, which signify that they are ready to continue the fight against the Darkness even after their nuptials.
 
@@ -4574,7 +4574,7 @@ Only then do the usual libations, with an excess of food, strong spirits and ple
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="As comemorações afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="7" targetID="12" fromX="2376" fromY="-1530" />The Night Lord believes finding a lifelong mate is sacred, so these ceremonies hold great value to him. 
+      <outputs name="As comemoraçoes afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="7" targetID="12" fromX="2376" fromY="-1530" />The Night Lord believes finding a lifelong mate is sacred, so these ceremonies hold great value to him. 
 
 The couple must go on a hunt together, albeit, watched by the rest of the village for safety. 
 
@@ -4596,7 +4596,7 @@ Only then do the usual libations, with an excess of food, strong spirits and ple
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="As comemorações afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="8" targetID="12" fromX="1929" fromY="-1923" />In honour of the Sun God, the couple begins the ceremony at high noon, when the sun is the strongest. 
+      <outputs name="As comemoraçoes afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="8" targetID="12" fromX="1929" fromY="-1923" />In honour of the Sun God, the couple begins the ceremony at high noon, when the sun is the strongest. 
 
 Symbols of the Sun God's grace are burned into the skin of the newlyweds to show they are willing to endure anything for each other and for their God.
 
@@ -4618,7 +4618,7 @@ Only then do the usual libations, with an excess of food, strong spirits and ple
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="As comemorações afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="9" targetID="12" fromX="1398" fromY="-1939" />The Lady of Love is certainly the most appropriate patron of the marriage ritual. In honour of the beautiful Mistress, the couple, naked as nature intended, must first paint each other's bodies so that every inch is covered, exchanging their eternal vows to both each other and their patron Goddess. 
+      <outputs name="As comemoraçoes afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="9" targetID="12" fromX="1398" fromY="-1939" />The Lady of Love is certainly the most appropriate patron of the marriage ritual. In honour of the beautiful Mistress, the couple, naked as nature intended, must first paint each other's bodies so that every inch is covered, exchanging their eternal vows to both each other and their patron Goddess. 
 
 The whole village is then invited to partake in the ritual and share the love that the two newlyweds proclaimed. 
 
@@ -4638,7 +4638,7 @@ Only then do the usual libations, with an excess of food, strong spirits and ple
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="As comemorações afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="10" targetID="12" fromX="413" fromY="-1819" />Nyia is often perceived as a cold and calculating mistress. But the coupling of two people, in the hopes of procreation and companionship, is part of the cycle of life and thus very close to Nyia's domain.
+      <outputs name="As comemoraçoes afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="10" targetID="12" fromX="413" fromY="-1819" />Nyia is often perceived as a cold and calculating mistress. But the coupling of two people, in the hopes of procreation and companionship, is part of the cycle of life and thus very close to Nyia's domain.
 
 The ceremony of the union is short and formal. The happy couple signs the village book of marriages, citing only a short vow to honour each other until the Darkness claims us.
 
@@ -4658,7 +4658,7 @@ Only then do the usual libations, with an excess of food, strong spirits and ple
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="As comemorações afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="11" targetID="12" fromX="900" fromY="-2134" />Para Marovit e seu rebanho, a época da Harvest Moon está repleta de energias místicas, e assim você se prepara para uma noite de magia e rituais. Velas são acesas, velhos tomos são trazidos para leitura e feitiços são cantados para que o mundo espiritual seja honrado. A atmosfera da lua vermelha funciona bem com seus rituais e você sente suas recompensas passarem por você.</nodes>
+      <outputs name="As comemoraçoes afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="11" targetID="12" fromX="900" fromY="-2134" />Para Marovit e seu rebanho, a época da Harvest Moon está repleta de energias místicas, e assim você se prepara para uma noite de magia e rituais. Velas são acesas, velhos tomos são trazidos para leitura e feitiços são cantados para que o mundo espiritual seja honrado. A atmosfera da lua vermelha funciona bem com seus rituais e você sente suas recompensas passarem por você.</nodes>
     <nodes xsi:type="NodeChallenge" ID="12" positionX="1907" positionY="-2209" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="12" targetID="17" fromX="2348" fromY="-2704" />
       <outputs name="Lose" ownerID="12" targetID="13" fromX="2348" fromY="-2784" />
@@ -4673,7 +4673,7 @@ Only then do the usual libations, with an excess of food, strong spirits and ple
         </ModifierBlock>
       </logic>
       <outputs name="Oh, bem, casamentos são casamentos." ownerID="13" targetID="14" group="G1" fromX="2952" fromY="-3298" />
-      <outputs name="Oh, bem, casamentos são casamentos." ownerID="13" targetID="16" group="G1" fromX="2952" fromY="-3378" />As libações foram longas e os espíritos fluíram em abundância, muitos de vocês estão sentindo os efeitos! O casamento foi considerado um grande sucesso e o feliz casal inicia sua nova jornada.</nodes>
+      <outputs name="Oh, bem, casamentos são casamentos." ownerID="13" targetID="16" group="G1" fromX="2952" fromY="-3378" />As libaçoes foram longas e os espíritos fluíram em abundância, muitos de vocês estão sentindo os efeitos! O casamento foi considerado um grande sucesso e o feliz casal inicia sua nova jornada.</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="2593" positionY="-3714" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4713,7 +4713,7 @@ Only then do the usual libations, with an excess of food, strong spirits and ple
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Ótimo, volte para as tarefas diárias." ownerID="19" targetID="18" fromX="3856" fromY="-3087" />As celebrações do casamento eram tão barulhentas e tão festivas que atraíram a atenção de um demônio. O amiguinho, um hochlick, decidiu que vai se juntar à sua aldeia, e realmente não estava em discussão.</nodes>
+      <outputs name="Ótimo, volte para as tarefas diárias." ownerID="19" targetID="18" fromX="3856" fromY="-3087" />As celebraçoes do casamento eram tão barulhentas e tão festivas que atraíram a atenção de um demônio. O amiguinho, um hochlick, decidiu que vai se juntar à sua aldeia, e realmente não estava em discussão.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3149" positionY="-1883" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4742,7 +4742,7 @@ Only then do the usual libations, with an excess of food, strong spirits and ple
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="As comemorações afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="22" targetID="12" fromX="-68" fromY="-1134" />The cleansing power of water is well known to all Easterlanders, but as followers of Mokosh, this becomes even more true for you.
+      <outputs name="As comemoraçoes afetam a todos. Você deve ver o quão bem todos vocês se saíram contra o inevitável envenenamento por álcool e dores de estômago." ownerID="22" targetID="12" fromX="-68" fromY="-1134" />The cleansing power of water is well known to all Easterlanders, but as followers of Mokosh, this becomes even more true for you.
 
 The couple wishing to become married must stand naked in a river and submerge for several minutes to prove their trust in Mokosh and in each other. 
 
@@ -5963,10 +5963,10 @@ The creature stretches an arm and it forms a stone bridge across the ravine!
       <outputs name="Concordar em deixar uma pessoa. [Deixe um homem para trás!]" ownerID="13" targetID="10" fromX="2822" fromY="-1742" />
       <outputs name="Desafie o troll para uma luta. Se você ganhar, ele deve deixar você passar." ownerID="13" targetID="14" fromX="2822" fromY="-1822" />
       <outputs name="Declínio." ownerID="13" targetID="16" group="G1" fromX="2822" fromY="-1902" />
-      <outputs name="Declínio." ownerID="13" targetID="17" group="G1" fromX="2822" fromY="-1982" />&#39;Eu não sei, alguns Anões deixaram lá um tempo atrás, talvez um século ou mais, eles estavam correndo para algum lugar, gritando sobre alguma Escuridão. Eles o abandonaram e se dispersaram no nevoeiro, antes do longo pôr do sol. Então, que tal? Nós temos um acordo??l??</nodes>
+      <outputs name="Declínio." ownerID="13" targetID="17" group="G1" fromX="2822" fromY="-1982" />&#39;Eu não sei, alguns Anoes deixaram lá um tempo atrás, talvez um século ou mais, eles estavam correndo para algum lugar, gritando sobre alguma Escuridão. Eles o abandonaram e se dispersaram no nevoeiro, antes do longo pôr do sol. Então, que tal? Nós temos um acordo??l??</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="2965" positionY="-1458" width="350" height="805">
       <outputs name="Para armas!" ownerID="14" targetID="15" fromX="3290" fromY="-1949" />
-      <outputs name="Retire-se e reveja as opções novamente." ownerID="14" targetID="37" fromX="3290" fromY="-2029" />&#39;Oferta interessante, negócio! Mas eu te aviso, não vou bancar o bonzinho, briga é briga!&#39; O troll te cobra antes que você possa responder.</nodes>
+      <outputs name="Retire-se e reveja as opçoes novamente." ownerID="14" targetID="37" fromX="3290" fromY="-2029" />&#39;Oferta interessante, negócio! Mas eu te aviso, não vou bancar o bonzinho, briga é briga!&#39; O troll te cobra antes que você possa responder.</nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="3478" positionY="-1616" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-TROLL_ROCK_ONE_8P_6M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="15" targetID="20" fromX="3919" fromY="-2111" />
       <outputs name="Lose" ownerID="15" targetID="21" fromX="3919" fromY="-2191" />
@@ -6195,7 +6195,7 @@ So, it is a person who is righteous and honourable. Now, I solemnly swear I will
 
 It is a man who is righteous and honourable. Now, I solemnly swear I will release you from my service once the deed I ask is done and I hold the sword in my hand. Will you accept?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="3228" positionY="452" width="350" height="725">
-      <outputs name="Tire a espada da pedra." ownerID="14" targetID="15" fromX="3553" fromY="-39" />&#39;Maravilhoso, eu sabia que o destino me daria a salvação. Eu não sabia se seus corações eram puros o suficiente, mas sua concordância em servir ao meu propósito, sem promessa de recompensa, prova que você é realmente quem eu procuro. Agora, pelo poder de um rei de Camroth legitimamente ungido, eu os declaro cavaleiros de Camroth e ordeno que peguem a espada para mim!&#39;</nodes>
+      <outputs name="Tire a espada da pedra." ownerID="14" targetID="15" fromX="3553" fromY="-39" />&#39;Maravilhoso, eu sabia que o destino me daria a salvação. Eu não sabia se seus coraçoes eram puros o suficiente, mas sua concordância em servir ao meu propósito, sem promessa de recompensa, prova que você é realmente quem eu procuro. Agora, pelo poder de um rei de Camroth legitimamente ungido, eu os declaro cavaleiros de Camroth e ordeno que peguem a espada para mim!&#39;</nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="3763" positionY="333" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_3P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="15" targetID="23" fromX="4204" fromY="-162" />
       <outputs name="Lose" ownerID="15" targetID="21" fromX="4204" fromY="-242" />
@@ -6403,13 +6403,13 @@ The ghost speaks again:
 
 Next question: What is your favoured colour on this earth?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="2843" positionY="712" width="350" height="885">
-      <outputs name="[Intelecto ou inteligência] Dê a ele uma resposta muito específica e detalhada, com base em seus cálculos detalhados, que leve em consideração o tamanho e a força médios dos trolls e estime o tamanho de uma rocha, bem como as possíveis variações climáticas." ownerID="16" targetID="22" fromX="3168" fromY="220" />
+      <outputs name="[Intelecto ou inteligência] Dê a ele uma resposta muito específica e detalhada, com base em seus cálculos detalhados, que leve em consideração o tamanho e a força médios dos trolls e estime o tamanho de uma rocha, bem como as possíveis variaçoes climáticas." ownerID="16" targetID="22" fromX="3168" fromY="220" />
       <outputs name="Diga que você não sabe." ownerID="16" targetID="19" fromX="3168" fromY="140" />
       <outputs name="Pergunte que tipo de troll, rocha ou pântano?" ownerID="16" targetID="23" fromX="3168" fromY="60" />'Correct. The final answer you must now give:
 
 What speed would a rock thrown by a troll fly?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2802" positionY="-262" width="350" height="966">
-      <outputs name="[Intelecto ou inteligência] Dê a ele uma resposta muito específica e detalhada, com base em seus cálculos detalhados, que leve em consideração o tamanho e a força médios do Troll e estime o tamanho de uma rocha, bem como as possíveis variações climáticas." ownerID="17" targetID="22" fromX="3127" fromY="-753" />
+      <outputs name="[Intelecto ou inteligência] Dê a ele uma resposta muito específica e detalhada, com base em seus cálculos detalhados, que leve em consideração o tamanho e a força médios do Troll e estime o tamanho de uma rocha, bem como as possíveis variaçoes climáticas." ownerID="17" targetID="22" fromX="3127" fromY="-753" />
       <outputs name="Diga que você não sabe." ownerID="17" targetID="19" fromX="3127" fromY="-833" />
       <outputs name="Ataque o fantasma!" ownerID="17" targetID="11" fromX="3127" fromY="-913" />
       <outputs name="Pergunte que tipo de troll, rocha ou pântano?" ownerID="17" targetID="23" fromX="3127" fromY="-993" />'This answer is incorrect, and so the punishment I must direct!'
@@ -6755,7 +6755,7 @@ One of you feels a sudden surge of knowledge.</nodes>
       </logic>
       <outputs name="[Wits] Esgueirar-se pelos ursos para chegar ao tesouro." ownerID="14" targetID="16" fromX="1322" fromY="-913" />
       <outputs name="Apenas mate os ursos!" ownerID="14" targetID="17" fromX="1322" fromY="-993" />
-      <outputs name="Não, vá embora." ownerID="14" targetID="3" fromX="1322" fromY="-1073" />Você entra na caverna e vê que ela não está tão vazia quanto parecia à primeira vista. Há vários ursos dormindo profundamente em uma das câmaras. Pelas instruções que você recebeu, você sabe onde procurar o tesouro, mas isso exigirá que você passe pela câmara do urso.</nodes>
+      <outputs name="Não, vá embora." ownerID="14" targetID="3" fromX="1322" fromY="-1073" />Você entra na caverna e vê que ela não está tão vazia quanto parecia à primeira vista. Há vários ursos dormindo profundamente em uma das câmaras. Pelas instruçoes que você recebeu, você sabe onde procurar o tesouro, mas isso exigirá que você passe pela câmara do urso.</nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="1498" positionY="-158" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -7038,7 +7038,7 @@ Your fellow villager grows more attractive and eloquent, in front of your very e
         </FilterBlock>
       </logic>
       <outputs name="Ataque!" ownerID="2" targetID="3" fromX="913" fromY="-533" />
-      <outputs name="[Usuário de magia] Dragões são criaturas de alta magia, tente usar um ritual para afugentar a fera de suas casas!" ownerID="2" targetID="5" fromX="913" fromY="-613" />
+      <outputs name="[Usuário de magia] Dragoes são criaturas de alta magia, tente usar um ritual para afugentar a fera de suas casas!" ownerID="2" targetID="5" fromX="913" fromY="-613" />
       <outputs name="[Atraente] Pedir ao dragão para aceitar uma virgem em vez disso?" ownerID="2" targetID="13" fromX="913" fromY="-693" />
       <outputs name="Apenas deixe o dragão ficar com o ouro." ownerID="2" targetID="4" fromX="913" fromY="-773" />A great, ancient gold dragon and his swarming minions have descended upon your lands! In your minds, you hear a roar:
 

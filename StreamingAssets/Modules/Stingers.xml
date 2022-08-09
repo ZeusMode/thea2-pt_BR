@@ -396,7 +396,7 @@ When you're friends, you can recruit some bees, or spider queens, or train your 
         </FilterBlock>
       </logic>
       <outputs name="Defenda-se!" ownerID="7" targetID="14" fromX="-269" fromY="-607" />
-      <outputs name="Corre!" ownerID="7" targetID="6" fromX="-269" fromY="-687" />Você encontra um centro movimentado de atividade animal. Parece um pouco com uma grande colmeia, mas você também vê alguns pares subterrâneos e vários outros ninhos organizados em um assentamento. Mas você não é amigo dos ferrões, então eles atacam!
+      <outputs name="Corre!" ownerID="7" targetID="6" fromX="-269" fromY="-687" />Você encontra um centro movimentado de atividade animal. Parece um pouco com uma grande colmeia, mas você também vê alguns pares subterrâneos e vários outros ninhos organizados em um assentamento. Mas você não é amigo dos ferroes, então eles atacam!
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2379" positionY="-595" width="350" height="725">
       <logic>

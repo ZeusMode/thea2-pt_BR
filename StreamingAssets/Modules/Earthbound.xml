@@ -303,7 +303,7 @@ This village is small, as such, it will not offer recruitment and may have other
       </logic>
       <outputs name="Ataque!" ownerID="5" targetID="7" fromX="804" fromY="545" />
       <outputs name="Sair." ownerID="5" targetID="3" fromX="804" fromY="465" />
-      <outputs name="Diga que você não quer fazer nenhum mal a eles. Você só quer conversar e visitar." ownerID="5" targetID="49" fromX="804" fromY="385" />&#39;Você não é nosso amigo, então é melhor você ir em frente ou você vai provar nossas lâminas, companheiro.&#39; Você vê anões armados se reunindo.</nodes>
+      <outputs name="Diga que você não quer fazer nenhum mal a eles. Você só quer conversar e visitar." ownerID="5" targetID="49" fromX="804" fromY="385" />&#39;Você não é nosso amigo, então é melhor você ir em frente ou você vai provar nossas lâminas, companheiro.&#39; Você vê anoes armados se reunindo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1440" positionY="1039" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -353,7 +353,7 @@ This village is small, as such, it will not offer recruitment and may have other
       <outputs name="Pague para curar as feridas mentais." ownerID="11" targetID="87" group="G2" fromX="-943" fromY="-2609" />
       <outputs name="Pague para remover o veneno." ownerID="11" targetID="83" fromX="-943" fromY="-2689" />
       <outputs name="Pergunte se há um mestre de runas que pode curar doenças espirituais." ownerID="11" targetID="26" group="G1" fromX="-943" fromY="-2769" />
-      <outputs name="Um velho anão senta-se e compartilha o luar dos anões com quem quer ouvir seus contos. Junte-se a ele." ownerID="11" targetID="34" fromX="-943" fromY="-2849" />
+      <outputs name="Um velho anão senta-se e compartilha o luar dos anoes com quem quer ouvir seus contos. Junte-se a ele." ownerID="11" targetID="34" fromX="-943" fromY="-2849" />
       <outputs name="Volte outro dia." ownerID="11" targetID="3" fromX="-943" fromY="-2930" />
       <outputs name="Pergunte se um colega mestre de runas está presente para ajudá-lo com a cura de feridas espirituais." ownerID="11" targetID="86" group="G1" fromX="-943" fromY="-3010" />
       <outputs name="Pague para curar as feridas mentais." ownerID="11" targetID="104" group="G2" fromX="-943" fromY="-3090" />— Claro, venha, sente-se e beba bimber moonshine. Se você tiver sorte, um curandeiro pode dar uma olhada em suas feridas.</nodes>
@@ -730,7 +730,7 @@ This village is small, as such, it will not offer recruitment and may have other
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="71" targetID="4" fromX="3793" fromY="-2148" />O mestre de runas sai carregando um livro encadernado em metal pesado e muitos frascos. Ele gesticula em direção a uma cadeira: &#39;Sente-se, irmão. Eu purificarei seu espírito de pedra de todas as impurezas, sejam elas maldições ou doenças.&#39;
+      <outputs name="Agradeça a eles e vá embora." ownerID="71" targetID="4" fromX="3793" fromY="-2148" />O mestre de runas sai carregando um livro encadernado em metal pesado e muitos frascos. Ele gesticula em direção a uma cadeira: &#39;Sente-se, irmão. Eu purificarei seu espírito de pedra de todas as impurezas, sejam elas maldiçoes ou doenças.&#39;
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="74" positionX="2941" positionY="1" width="480" height="503" radius="6" settlementID="SET-RUINS" destroyOwner="false" linkedEventUniqueID="54">
       <outputs ownerID="74" targetID="57" fromX="3389" fromY="-431" />
@@ -766,8 +766,8 @@ This village is small, as such, it will not offer recruitment and may have other
       <outputs name="[Natureza] Natureza e fogo não se misturam muito bem. Você se sente constrangido dentro dessas paredes quentes e empoeiradas. No entanto, ofereça uma bênção da natureza." ownerID="76" targetID="94" fromX="-2643" fromY="-2334" />
       <outputs name="[Harmony] Harmony não tem afinidade com o calor da batalha ou a arte da forja. Na verdade, é aqui que as armas são feitas. Ainda assim, ofereça uma bênção." ownerID="76" targetID="95" fromX="-2643" fromY="-2414" />
       <outputs name="[Luz] Invoque o poder da luz para prestar homenagem a este lugar de sua adoração." ownerID="76" targetID="97" fromX="-2643" fromY="-2494" />
-      <outputs name="[Intelecto] Os mestres da forja e os guardiões das runas são conhecidos por terem mentes afiadas. Curve-se em homenagem ao seu vasto conhecimento." ownerID="76" targetID="99" fromX="-2643" fromY="-2574" />
-      <outputs name="[Magia] Anões não estão sintonizados com as tramas da magia, mas seus mestres de runas encontraram uma maneira de esculpir força mística em pedra e metal. Medite e deixe uma bênção de seu domínio para o mestre de runas deles." ownerID="76" targetID="100" fromX="-2643" fromY="-2654" />
+      <outputs name="[Intelecto] Os mestres da forja e os guardioes das runas são conhecidos por terem mentes afiadas. Curve-se em homenagem ao seu vasto conhecimento." ownerID="76" targetID="99" fromX="-2643" fromY="-2574" />
+      <outputs name="[Magia] Anoes não estão sintonizados com as tramas da magia, mas seus mestres de runas encontraram uma maneira de esculpir força mística em pedra e metal. Medite e deixe uma bênção de seu domínio para o mestre de runas deles." ownerID="76" targetID="100" fromX="-2643" fromY="-2654" />
       <outputs name="[Turbulência] É aqui que as lâminas verdadeiras são feitas. Chame a turbulência em um grito de guerra para honrar este lugar sagrado!" ownerID="76" targetID="98" fromX="-2643" fromY="-2735" />
       <outputs name="Mantenha distância e admire o local de longe antes de sair." ownerID="76" targetID="101" fromX="-2643" fromY="-2815" />'Ya can go see it, but the old forge master is a whimsical type, so ya best be on guard and behave. Not every mark of respect gets accepted.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="77" positionX="-1051" positionY="548" width="350" height="725">
@@ -863,7 +863,7 @@ This village is small, as such, it will not offer recruitment and may have other
         </FilterBlock>
       </logic>
       <outputs name="[Anão] Peça a cura." ownerID="86" targetID="71" fromX="1223" fromY="-3981" />
-      <outputs name="Acene em compreensão." ownerID="86" targetID="11" fromX="1223" fromY="-4061" />&#39;Ah, como você sabe, irmão, nós anões, não jogamos bem com magia, e nosso ofício como mestres de runas é raro. Só podemos curar o espírito de nossa própria espécie. Mas já que você está aqui, isso será fácil.</nodes>
+      <outputs name="Acene em compreensão." ownerID="86" targetID="11" fromX="1223" fromY="-4061" />&#39;Ah, como você sabe, irmão, nós anoes, não jogamos bem com magia, e nosso ofício como mestres de runas é raro. Só podemos curar o espírito de nossa própria espécie. Mas já que você está aqui, isso será fácil.</nodes>
     <nodes xsi:type="NodeAdventure" ID="87" positionX="-587" positionY="-2143" width="350" height="725" image="Event151">
       <logic>
         <FilterBlock>
@@ -916,7 +916,7 @@ This village is small, as such, it will not offer recruitment and may have other
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="93" targetID="58" fromX="2834" fromY="255" />&#39;É melhor você correr antes de matar todos vocês!&#39; Os anões pegam seus bens e observam você correr.</nodes>
+      <outputs name="Sair." ownerID="93" targetID="58" fromX="2834" fromY="255" />&#39;É melhor você correr antes de matar todos vocês!&#39; Os anoes pegam seus bens e observam você correr.</nodes>
     <nodes xsi:type="NodeAdventure" ID="94" positionX="-2538" positionY="-1812" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1013,7 +1013,7 @@ This village is small, as such, it will not offer recruitment and may have other
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="100" targetID="96" fromX="-2203" fromY="-3728" />A voz do mestre da forja ressoa para você: &#39;Você mantém sua magia longe da minha forja, ouviu? Mas nada de maldições, certo? Apenas saia.&#39;</nodes>
+      <outputs name="Sair." ownerID="100" targetID="96" fromX="-2203" fromY="-3728" />A voz do mestre da forja ressoa para você: &#39;Você mantém sua magia longe da minha forja, ouviu? Mas nada de maldiçoes, certo? Apenas saia.&#39;</nodes>
     <nodes xsi:type="NodeDealDamage" ID="101" positionX="-2083" positionY="-3288" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="101" targetID="102" group="G1" fromX="-1653" fromY="-3676" />
       <outputs ownerID="101" targetID="96" group="G1" fromX="-1653" fromY="-3756" />
@@ -1130,7 +1130,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
       </logic>
       <outputs name="Ataque!" ownerID="5" targetID="7" fromX="798" fromY="455" />
       <outputs name="Sair." ownerID="5" targetID="3" fromX="798" fromY="375" />
-      <outputs name="Diga que você não quer fazer nenhum mal a eles. Você só quer conversar e visitar." ownerID="5" targetID="49" fromX="798" fromY="295" />&#39;Vocês não são nossos amigos, então é melhor você seguir em frente, ou você vai provar nossas lâminas, moças.&#39; Você vê anões armados se reunindo.</nodes>
+      <outputs name="Diga que você não quer fazer nenhum mal a eles. Você só quer conversar e visitar." ownerID="5" targetID="49" fromX="798" fromY="295" />&#39;Vocês não são nossos amigos, então é melhor você seguir em frente, ou você vai provar nossas lâminas, moças.&#39; Você vê anoes armados se reunindo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1476" positionY="1439" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1188,7 +1188,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
       <outputs name="Pague para curar as feridas mentais." ownerID="11" targetID="96" group="G2" fromX="-595" fromY="-2648" />
       <outputs name="Pague para remover o veneno." ownerID="11" targetID="83" fromX="-595" fromY="-2728" />
       <outputs name="Pergunte se há um mestre de runas que pode curar doenças espirituais." ownerID="11" targetID="26" group="G1" fromX="-595" fromY="-2808" />
-      <outputs name="Um velho anão senta-se e compartilha o luar dos anões com quem quer ouvir seus contos. Junte-se a ele." ownerID="11" targetID="34" fromX="-595" fromY="-2888" />
+      <outputs name="Um velho anão senta-se e compartilha o luar dos anoes com quem quer ouvir seus contos. Junte-se a ele." ownerID="11" targetID="34" fromX="-595" fromY="-2888" />
       <outputs name="Volte outro dia." ownerID="11" targetID="3" fromX="-595" fromY="-2969" />
       <outputs name="Pergunte se um colega mestre de runas está presente para ajudá-lo com a cura de feridas espirituais." ownerID="11" targetID="95" group="G1" fromX="-595" fromY="-3049" />
       <outputs name="Pague para curar as feridas mentais." ownerID="11" targetID="99" group="G2" fromX="-595" fromY="-3129" />— Claro, venha, sente-se e beba bimber moonshine. Se você tiver sorte, um curandeiro pode dar uma olhada em suas feridas.</nodes>
@@ -1518,7 +1518,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="71" targetID="4" fromX="3793" fromY="-2148" />O mestre de runas sai carregando um livro encadernado em metal pesado e muitos frascos. Ele gesticula em direção a uma cadeira: &#39;Sente-se, irmão. Eu purificarei seu espírito de pedra de todas as impurezas, sejam elas maldições ou doenças.&#39;
+      <outputs name="Agradeça a eles e vá embora." ownerID="71" targetID="4" fromX="3793" fromY="-2148" />O mestre de runas sai carregando um livro encadernado em metal pesado e muitos frascos. Ele gesticula em direção a uma cadeira: &#39;Sente-se, irmão. Eu purificarei seu espírito de pedra de todas as impurezas, sejam elas maldiçoes ou doenças.&#39;
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="74" positionX="2884" positionY="21" width="480" height="503" radius="6" settlementID="SET-RUINS" destroyOwner="false" linkedEventUniqueID="69">
       <outputs ownerID="74" targetID="57" fromX="3332" fromY="-411" />
@@ -1657,7 +1657,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="[Anão] Peça a cura." ownerID="95" targetID="71" fromX="2867" fromY="-2981" />
-      <outputs name="Acene em compreensão." ownerID="95" targetID="11" fromX="2867" fromY="-3061" />&#39;Ah, como você sabe, irmão, nós anões, não jogamos bem com magia, e nosso ofício como mestres de runas é raro. Só podemos curar o espírito de nossa própria espécie. Mas já que você está aqui, isso será fácil.</nodes>
+      <outputs name="Acene em compreensão." ownerID="95" targetID="11" fromX="2867" fromY="-3061" />&#39;Ah, como você sabe, irmão, nós anoes, não jogamos bem com magia, e nosso ofício como mestres de runas é raro. Só podemos curar o espírito de nossa própria espécie. Mas já que você está aqui, isso será fácil.</nodes>
     <nodes xsi:type="NodeAdventure" ID="96" positionX="-419" positionY="-2169" width="350" height="725" image="Event151">
       <logic>
         <FilterBlock>
@@ -1719,7 +1719,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="100" targetID="58" fromX="2473" fromY="224" />&#39;É melhor você correr antes de matar todos vocês!&#39; Os anões pegam seus bens e observam você correr.</nodes>
+      <outputs name="Sair." ownerID="100" targetID="58" fromX="2473" fromY="224" />&#39;É melhor você correr antes de matar todos vocês!&#39; Os anoes pegam seus bens e observam você correr.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="101" positionX="1527" positionY="628" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="40" maxDamage="80" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="101" targetID="100" fromX="1956" fromY="239" />
     </nodes>
@@ -1748,8 +1748,8 @@ Once you become friends, you will get the chance to recruit.</nodes>
       <outputs name="[Natureza] Natureza e fogo não se misturam muito bem. Você se sente constrangido dentro dessas paredes quentes e empoeiradas. No entanto, ofereça uma bênção da natureza." ownerID="102" targetID="103" fromX="-3089" fromY="-1689" />
       <outputs name="[Harmony] Harmony não tem afinidade com o calor da batalha ou a arte da forja. Na verdade, é aqui que as armas são feitas. Ainda assim, ofereça uma bênção." ownerID="102" targetID="104" fromX="-3089" fromY="-1769" />
       <outputs name="[Luz] Invoque o poder da luz para prestar homenagem a este lugar de sua adoração." ownerID="102" targetID="105" fromX="-3089" fromY="-1849" />
-      <outputs name="[Intelecto] Os mestres da forja e os guardiões das runas são conhecidos por terem mentes afiadas. Curve-se em homenagem ao seu vasto conhecimento." ownerID="102" targetID="108" fromX="-3089" fromY="-1929" />
-      <outputs name="[Magia] Anões não estão sintonizados com as tramas da magia, mas seus mestres de runas encontraram uma maneira de esculpir força mística em pedra e metal. Medite e deixe uma bênção de seu domínio para o mestre de runas deles." ownerID="102" targetID="109" fromX="-3089" fromY="-2009" />
+      <outputs name="[Intelecto] Os mestres da forja e os guardioes das runas são conhecidos por terem mentes afiadas. Curve-se em homenagem ao seu vasto conhecimento." ownerID="102" targetID="108" fromX="-3089" fromY="-1929" />
+      <outputs name="[Magia] Anoes não estão sintonizados com as tramas da magia, mas seus mestres de runas encontraram uma maneira de esculpir força mística em pedra e metal. Medite e deixe uma bênção de seu domínio para o mestre de runas deles." ownerID="102" targetID="109" fromX="-3089" fromY="-2009" />
       <outputs name="[Turbulência] É aqui que as lâminas verdadeiras são feitas. Chame a turbulência em um grito de guerra para honrar este lugar sagrado!" ownerID="102" targetID="106" fromX="-3089" fromY="-2090" />
       <outputs name="Mantenha distância e admire o local de longe antes de sair." ownerID="102" targetID="110" fromX="-3089" fromY="-2170" />'Ya can go see it, but the old forge master is a whimsical type, so ya best be on guard and behave. Not every mark of respect gets accepted.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="103" positionX="-2996" positionY="-1171" width="350" height="725">
@@ -1848,7 +1848,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="109" targetID="107" fromX="-2723" fromY="-3123" />A voz do mestre da forja ressoa para você: &#39;Você mantém sua magia longe da minha forja, ouviu? Mas nada de maldições, certo? Apenas saia.&#39;</nodes>
+      <outputs name="Sair." ownerID="109" targetID="107" fromX="-2723" fromY="-3123" />A voz do mestre da forja ressoa para você: &#39;Você mantém sua magia longe da minha forja, ouviu? Mas nada de maldiçoes, certo? Apenas saia.&#39;</nodes>
     <nodes xsi:type="NodeDealDamage" ID="110" positionX="-2544" positionY="-2746" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="110" targetID="111" group="G1" fromX="-2114" fromY="-2728" />
       <outputs ownerID="110" targetID="107" group="G1" fromX="-2114" fromY="-2728" />
@@ -2092,7 +2092,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Pergunte se esses são os anões desaparecidos. O que ela fez com eles?" ownerID="3" targetID="26" fromX="240" fromY="959" />
+      <outputs name="Pergunte se esses são os anoes desaparecidos. O que ela fez com eles?" ownerID="3" targetID="26" fromX="240" fromY="959" />
       <outputs name="Ataque!" ownerID="3" targetID="7" fromX="240" fromY="879" />You come up to the rock and see the syrin, a bird-like demonette, smiling at you:
 
 'Oh, demon kind, how swell. Come to hear my song? My usual audience has gone deaf . . .'
@@ -2146,7 +2146,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Reporte-se aos anões." ownerID="19" targetID="38" fromX="3103" fromY="1651" />'Yes, perhaps you are right. Perhaps a price for our loss has been paid by those who stand here. Their stone faces will pay tribute to our fallen sister-mother. We will leave now.' </nodes>
+      <outputs name="Reporte-se aos anoes." ownerID="19" targetID="38" fromX="3103" fromY="1651" />'Yes, perhaps you are right. Perhaps a price for our loss has been paid by those who stand here. Their stone faces will pay tribute to our fallen sister-mother. We will leave now.' </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="1695" positionY="2750" width="350" height="725" image="Event023">
       <logic>
         <ModifierBlock>
@@ -2161,7 +2161,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Acene com a cabeça e deseje-lhes bem." ownerID="20" targetID="36" fromX="2021" fromY="2258" />Sua canção triste se espalha pelas colinas e montanhas, e logo muitos anões, mesmo os distantes, se transformam em pedra. Quando sua tristeza é satisfeita, você e suas irmãs se separam.</nodes>
+      <outputs name="Acene com a cabeça e deseje-lhes bem." ownerID="20" targetID="36" fromX="2021" fromY="2258" />Sua canção triste se espalha pelas colinas e montanhas, e logo muitos anoes, mesmo os distantes, se transformam em pedra. Quando sua tristeza é satisfeita, você e suas irmãs se separam.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="22" positionX="5600.439" positionY="898.072144" width="350" height="408" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2190,7 +2190,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="-702" positionY="2373" width="350" height="922">
-      <outputs name="Peça para ela parar de cantar. Anões suficientes perderam suas vidas." ownerID="26" targetID="8" fromX="-376" fromY="1925" />
+      <outputs name="Peça para ela parar de cantar. Anoes suficientes perderam suas vidas." ownerID="26" targetID="8" fromX="-376" fromY="1925" />
       <outputs name="Ataque!" ownerID="26" targetID="7" fromX="-376" fromY="1845" />
       <outputs name="[Syrin ou alkhonost] Pergunte às suas irmãs por que elas cantam a canção de luto aqui." ownerID="26" targetID="47" fromX="-376" fromY="1765" />
       <outputs name="[Demônio] Demônios são obrigados pelas leis do destino. Invoque as leis demoníacas para jogar um jogo de azar. Se eles perderem, eles têm que sair. Se eles ganharem, você paga com seu próprio espírito." ownerID="26" targetID="54" fromX="-376" fromY="1685" />'Do? Nothing, as such. Dwarves are made of stone at heart. My song broke their heart, and thus to stone they turned in their sorrow. Hardly my fault.'</nodes>
@@ -2257,7 +2257,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles, participe da bebida e vá embora." ownerID="40" targetID="44" fromX="4078" fromY="1163" />Os anões apreciam que você tenha se livrado do syrin e, embora preferissem vingar seus irmãos, reconhecem que isso é uma vitória. Eles deixam uma recompensa por suas boas ações e oferecem comida e cerveja para comemorar.</nodes>
+      <outputs name="Agradeça a eles, participe da bebida e vá embora." ownerID="40" targetID="44" fromX="4078" fromY="1163" />Os anoes apreciam que você tenha se livrado do syrin e, embora preferissem vingar seus irmãos, reconhecem que isso é uma vitória. Eles deixam uma recompensa por suas boas açoes e oferecem comida e cerveja para comemorar.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="41" positionX="2253" positionY="1058" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="41" targetID="23" fromX="2682" fromY="669" />
     </nodes>
@@ -2280,7 +2280,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="44" fromX="4544" fromY="-511" />Você derrota o syrin e sua maldita canção. Os anões estão satisfeitos por você ter vingado a morte de seus irmãos. Eles deixam uma recompensa por suas boas ações e oferecem comida e cerveja para comemorar.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="44" fromX="4544" fromY="-511" />Você derrota o syrin e sua maldita canção. Os anoes estão satisfeitos por você ter vingado a morte de seus irmãos. Eles deixam uma recompensa por suas boas açoes e oferecem comida e cerveja para comemorar.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="44" positionX="4692" positionY="1042" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="44" targetID="22" fromX="5140" fromY="609" />
     </nodes>
@@ -2307,7 +2307,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
         </ModifierBlock>
       </logic>
       <outputs name="Concorde e junte-se a suas irmãs syrin na canção de luto, pois perder uma irmã-mãe é a mais grave das perdas para sua espécie." ownerID="47" targetID="20" fromX="1389" fromY="2183" />
-      <outputs name="Peça para ela parar de cantar. Anões suficientes perderam suas vidas." ownerID="47" targetID="19" fromX="1389" fromY="2103" />'We lost our sister-mother. She died, struck by a dwarven hammer. They did not mean it. She was sick and attacked them. Yet our sorrow remains, and they need to pay.'</nodes>
+      <outputs name="Peça para ela parar de cantar. Anoes suficientes perderam suas vidas." ownerID="47" targetID="19" fromX="1389" fromY="2103" />'We lost our sister-mother. She died, struck by a dwarven hammer. They did not mean it. She was sick and attacked them. Yet our sorrow remains, and they need to pay.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="48" positionX="452" positionY="2155" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="demon">
       <logic>
         <FilterBlock>
@@ -2341,7 +2341,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Pergunte se esses são os anões desaparecidos. O que ela fez com eles?" ownerID="53" targetID="26" fromX="1313" fromY="556" />
+      <outputs name="Pergunte se esses são os anoes desaparecidos. O que ela fez com eles?" ownerID="53" targetID="26" fromX="1313" fromY="556" />
       <outputs name="Ataque!" ownerID="53" targetID="7" fromX="1313" fromY="476" />You come up to the rock and see the syrin, a bird-like demonette, smiling at you:
 
 'Ah, the fairer sex. I suppose at least with you I can speak -- not like them.'
@@ -2381,7 +2381,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="56" targetID="45" fromX="773" fromY="1226" />Os anões apreciam que você tenha se livrado do syrin e, embora preferissem vingar seus irmãos, reconhecem que isso é uma vitória. Eles deixam uma recompensa por suas boas ações e oferecem comida e cerveja para comemorar.</nodes>
+      <outputs name="Sair." ownerID="56" targetID="45" fromX="773" fromY="1226" />Os anoes apreciam que você tenha se livrado do syrin e, embora preferissem vingar seus irmãos, reconhecem que isso é uma vitória. Eles deixam uma recompensa por suas boas açoes e oferecem comida e cerveja para comemorar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="57" positionX="2144" positionY="2927" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2436,7 +2436,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e relate seu sucesso aos anões." ownerID="60" targetID="38" fromX="1760" fromY="-301" />O syrin voa da rocha e se junta a você em sua música: &#39;Bravo, irmãs, bravo! Nossa música era de luto por nossa irmã-mãe, assassinada pelos anões. Mas sua valente melodia jogou fora nossa melancolia. Vamos deixar este lugar ser. Que os deuses da música fiquem com você.&#39;</nodes>
+      <outputs name="Agradeça a eles e relate seu sucesso aos anoes." ownerID="60" targetID="38" fromX="1760" fromY="-301" />O syrin voa da rocha e se junta a você em sua música: &#39;Bravo, irmãs, bravo! Nossa música era de luto por nossa irmã-mãe, assassinada pelos anoes. Mas sua valente melodia jogou fora nossa melancolia. Vamos deixar este lugar ser. Que os deuses da música fiquem com você.&#39;</nodes>
     <nodes xsi:type="NodeDealDamage" ID="61" positionX="1884" positionY="-352" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="rus">
       <outputs ownerID="61" targetID="41" fromX="2313" fromY="-740" />
     </nodes>
@@ -2444,7 +2444,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
       <outputs ownerID="62" targetID="5" fromX="1327" fromY="-1109" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="63" positionX="2067" positionY="-900" width="350" height="725">
-      <outputs name="Pergunte se esses são os anões desaparecidos. O que ela fez com eles?" ownerID="63" targetID="26" fromX="2392" fromY="-1391" />You come up to the rock and see the syrin, a bird-like demonette, smiling at you:
+      <outputs name="Pergunte se esses são os anoes desaparecidos. O que ela fez com eles?" ownerID="63" targetID="26" fromX="2392" fromY="-1391" />You come up to the rock and see the syrin, a bird-like demonette, smiling at you:
 
 'I like you. You hear my song, yet you remain strong -- not like them.'
 
@@ -2466,7 +2466,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="65" targetID="44" fromX="5024" fromY="-528" />Você derrota o syrin e sua maldita canção. Os anões estão satisfeitos por você ter vingado a morte de seus irmãos. Eles deixam uma recompensa por suas boas ações e oferecem comida e cerveja para comemorar.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="65" targetID="44" fromX="5024" fromY="-528" />Você derrota o syrin e sua maldita canção. Os anoes estão satisfeitos por você ter vingado a morte de seus irmãos. Eles deixam uma recompensa por suas boas açoes e oferecem comida e cerveja para comemorar.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="66" positionX="3632" positionY="-269" width="460" height="429" sourceGroup="GROUP-SYRINS_3P_6M_4S" cargoPercentage="40">
       <outputs ownerID="66" targetID="65" fromX="4062" fromY="-627" />
     </nodes>
@@ -2528,10 +2528,10 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
       <outputs name="Lutar!" ownerID="4" targetID="6" fromX="1832" fromY="-444" />
       <outputs name="Tente fugir." ownerID="4" targetID="49" fromX="1832" fromY="-524" />You are ambushed by the bandits!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="2107" positionY="-1318" width="350" height="1046" image="Event195">
-      <outputs name="Pare, levante as mãos e diga que você não quer lutar, apenas para trazer uma mensagem de que eles precisam sair, pois os anões não os querem aqui." ownerID="5" targetID="50" fromX="2432" fromY="-1809" />
+      <outputs name="Pare, levante as mãos e diga que você não quer lutar, apenas para trazer uma mensagem de que eles precisam sair, pois os anoes não os querem aqui." ownerID="5" targetID="50" fromX="2432" fromY="-1809" />
       <outputs name="Tente parecer intimidante e diga a eles para vencê-lo!" ownerID="5" targetID="51" fromX="2432" fromY="-1889" />
       <outputs name="Ataque!" ownerID="5" targetID="6" fromX="2432" fromY="-1969" />
-      <outputs name="[Bandido] Diga a eles que os anões estão se preparando para atacar eles com força. Diga que você vai pagar um pouco a eles, e assim eles podem sair enquanto mantêm sua honra de ladrão no lugar." ownerID="5" targetID="47" fromX="2432" fromY="-2049" />
+      <outputs name="[Bandido] Diga a eles que os anoes estão se preparando para atacar eles com força. Diga que você vai pagar um pouco a eles, e assim eles podem sair enquanto mantêm sua honra de ladrão no lugar." ownerID="5" targetID="47" fromX="2432" fromY="-2049" />
       <outputs name="[Atraente] Exiba seu espólio e diga que certamente pode ser feito um acordo para que eles saiam." ownerID="5" targetID="60" fromX="2432" fromY="-2129" />You search the place and finally spot some bandits. Alas, they spot you too, so you haven't got much time to decide what to do.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="2208" positionY="-365" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_BANDITS_6P_5M_4S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="43" fromX="2649" fromY="-860" />
@@ -2616,9 +2616,9 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="1963" positionY="1544" width="350" height="966">
-      <outputs name="Ameace os bandidos e diga que mesmo que eles te derrotem, os anões serão os próximos a chegar, e eles acabarão com a vida deles!" ownerID="26" targetID="8" fromX="2288" fromY="1052" />
+      <outputs name="Ameace os bandidos e diga que mesmo que eles te derrotem, os anoes serão os próximos a chegar, e eles acabarão com a vida deles!" ownerID="26" targetID="8" fromX="2288" fromY="1052" />
       <outputs name="Ataque!" ownerID="26" targetID="7" fromX="2288" fromY="972" />
-      <outputs name="[Bandido] Diga a eles que os anões estão se preparando para atacar eles com força. Diga que você vai pagar um pouco a eles, e assim eles podem sair enquanto mantêm sua honra de ladrão no lugar." ownerID="26" targetID="47" fromX="2288" fromY="892" />
+      <outputs name="[Bandido] Diga a eles que os anoes estão se preparando para atacar eles com força. Diga que você vai pagar um pouco a eles, e assim eles podem sair enquanto mantêm sua honra de ladrão no lugar." ownerID="26" targetID="47" fromX="2288" fromY="892" />
       <outputs name="[Atraente] Exiba seu espólio e diga que certamente pode ser feito um acordo para que eles saiam." ownerID="26" targetID="60" fromX="2288" fromY="812" />Os bandidos se levantam e pegam suas armas: &#39;O que você quer aqui? Precisa de nós para dar uma surra na sua bunda ou algo assim??'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="34" positionX="5194" positionY="-117" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
@@ -2665,7 +2665,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="40" targetID="44" fromX="4229" fromY="1629" />Os anões estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce.</nodes>
+      <outputs name="Sair." ownerID="40" targetID="44" fromX="4229" fromY="1629" />Os anoes estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="41" positionX="2501" positionY="1020" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="41" targetID="23" fromX="2930" fromY="631" />
     </nodes>
@@ -2682,7 +2682,7 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="45" fromX="4345" fromY="-667" />Você mata todos os bandidos. Os anões estão satisfeitos com sua ajuda e oferecem uma pequena recompensa.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="45" fromX="4345" fromY="-667" />Você mata todos os bandidos. Os anoes estão satisfeitos com sua ajuda e oferecem uma pequena recompensa.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="44" positionX="4323" positionY="1490" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="44" targetID="22" fromX="4771" fromY="1057" />
     </nodes>
@@ -2787,9 +2787,9 @@ She gestures towards a couple of stone dwarven statues standing nearby, posed in
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Ameace os bandidos e diga que mesmo que eles te derrotem, os anões serão os próximos a chegar, e eles acabarão com a vida deles!" ownerID="60" targetID="8" fromX="1605" fromY="1256" />
+      <outputs name="Ameace os bandidos e diga que mesmo que eles te derrotem, os anoes serão os próximos a chegar, e eles acabarão com a vida deles!" ownerID="60" targetID="8" fromX="1605" fromY="1256" />
       <outputs name="Ataque!" ownerID="60" targetID="7" fromX="1605" fromY="1176" />
-      <outputs name="[Bandido] Diga a eles que os anões estão se preparando para atacar eles com força. Diga que você vai pagar um pouco a eles, e assim eles podem sair enquanto mantêm sua honra de ladrão no lugar." ownerID="60" targetID="47" fromX="1605" fromY="1096" />The bandits rise and grab their weapons:
+      <outputs name="[Bandido] Diga a eles que os anoes estão se preparando para atacar eles com força. Diga que você vai pagar um pouco a eles, e assim eles podem sair enquanto mantêm sua honra de ladrão no lugar." ownerID="60" targetID="47" fromX="1605" fromY="1096" />The bandits rise and grab their weapons:
 
 'What are you yammering about? You think just 'cause we're bandits we always go for pretty faces? Beat it!'
 
@@ -2852,10 +2852,10 @@ You hear faint whispers of 'Glad the captain isn't here, else their trick would'
       <outputs name="Lutar!" ownerID="4" targetID="6" fromX="1799" fromY="-628" />
       <outputs name="Tente fugir." ownerID="4" targetID="49" fromX="1799" fromY="-708" />You are ambushed by the orcs!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="2102" positionY="-1223" width="350" height="966">
-      <outputs name="Pare, jogue suas mãos para cima e diga que você não quer lutar, apenas para dizer a eles que eles precisam sair, pois os anões não querem que eles causem problemas aqui." ownerID="5" targetID="50" fromX="2427" fromY="-1714" />
-      <outputs name="Orcs respeitam a força. Mostre seu poder e convença-os a deixar este lugar antes que os anões cheguem." ownerID="5" targetID="51" fromX="2427" fromY="-1794" />
+      <outputs name="Pare, jogue suas mãos para cima e diga que você não quer lutar, apenas para dizer a eles que eles precisam sair, pois os anoes não querem que eles causem problemas aqui." ownerID="5" targetID="50" fromX="2427" fromY="-1714" />
+      <outputs name="Orcs respeitam a força. Mostre seu poder e convença-os a deixar este lugar antes que os anoes cheguem." ownerID="5" targetID="51" fromX="2427" fromY="-1794" />
       <outputs name="Ataque!" ownerID="5" targetID="6" fromX="2427" fromY="-1874" />
-      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anões insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="5" targetID="47" fromX="2427" fromY="-1954" />You search the place and finally spot some orcs. Alas, they spot you too, so you haven't got much time to decide what to do.</nodes>
+      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anoes insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="5" targetID="47" fromX="2427" fromY="-1954" />You search the place and finally spot some orcs. Alas, they spot you too, so you haven't got much time to decide what to do.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="3072" positionY="-235" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_ORCS_7P_6M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="43" fromX="3513" fromY="-730" />
       <outputs name="Lose" ownerID="6" targetID="16" fromX="3513" fromY="-810" />
@@ -2886,7 +2886,7 @@ You hear faint whispers of 'Glad the captain isn't here, else their trick would'
         </ModifierBlock>
       </logic>
       <outputs name="[Healer or cmuch]Ofereça-lhes ajuda na cura." ownerID="19" targetID="20" group="G2" fromX="3402" fromY="1599" />
-      <outputs name="Acene com a cabeça e diga que você vai levar a mensagem para os anões. Deseje-lhes bons inimigos e lâminas afiadas a caminho de casa." ownerID="19" targetID="37" group="G2" fromX="3402" fromY="1519" />
+      <outputs name="Acene com a cabeça e diga que você vai levar a mensagem para os anoes. Deseje-lhes bons inimigos e lâminas afiadas a caminho de casa." ownerID="19" targetID="37" group="G2" fromX="3402" fromY="1519" />
       <outputs name="Insista para que eles partam dentro de um dia." ownerID="19" targetID="48" group="G1" fromX="3402" fromY="1439" />
       <outputs name="Insista para que eles partam dentro de um dia." ownerID="19" targetID="53" group="G1" fromX="3402" fromY="1359" />&#39;Ah! Claro que eles nos veem como uma ameaça, e assim deveriam, os cabeças de pedra. Estou ansioso pelo dia em que possamos nos encontrar em uma batalha honrosa. Ainda assim, não somos nenhum partido de ataque. Somos rastreadores de sangue, estamos aqui para conseguir um troféu, e conseguimos. Precisamos nos curar agora e descansar. Então nos mudamos. Dou minha palavra de honra que não incomodaremos a cidade de pedra.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3613" positionY="2481" width="350" height="681">
@@ -2949,9 +2949,9 @@ You hear faint whispers of 'Glad the captain isn't here, else their trick would'
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="1064" positionY="1321" width="350" height="885">
-      <outputs name="Admita que você foi enviado aqui pelos anões, que estão preocupados com a atividade dos orcs tão perto do assentamento." ownerID="26" targetID="54" fromX="1389" fromY="829" />
+      <outputs name="Admita que você foi enviado aqui pelos anoes, que estão preocupados com a atividade dos orcs tão perto do assentamento." ownerID="26" targetID="54" fromX="1389" fromY="829" />
       <outputs name="Ataque!" ownerID="26" targetID="6" fromX="1389" fromY="749" />
-      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anões insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="26" targetID="47" fromX="1389" fromY="669" />A matriarca se levanta e fala: &#39;Pare! Não vá mais longe ou encontre o destino deste troll. Podemos parecer maltratados para você, mas somos orcs e lutaremos até a morte!</nodes>
+      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anoes insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="26" targetID="47" fromX="1389" fromY="669" />A matriarca se levanta e fala: &#39;Pare! Não vá mais longe ou encontre o destino deste troll. Podemos parecer maltratados para você, mas somos orcs e lutaremos até a morte!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="34" positionX="5125" positionY="2335" width="350" height="408" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2969,7 +2969,7 @@ You hear faint whispers of 'Glad the captain isn't here, else their trick would'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Reporte-se aos anões." ownerID="35" targetID="38" fromX="4865" fromY="1101" />'So this is what my word means to you and those shorties, eh? You may be worthless scum, but I am a woman of my word. I said we did not come here to make trouble with the dwarves, and I meant it. We go. But you best hope we do not meet again, scum.'</nodes>
+      <outputs name="Reporte-se aos anoes." ownerID="35" targetID="38" fromX="4865" fromY="1101" />'So this is what my word means to you and those shorties, eh? You may be worthless scum, but I am a woman of my word. I said we did not come here to make trouble with the dwarves, and I meant it. We go. But you best hope we do not meet again, scum.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="4095" positionY="2489" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -2984,7 +2984,7 @@ You hear faint whispers of 'Glad the captain isn't here, else their trick would'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="36" targetID="45" fromX="4420" fromY="2041" />Os anões admiram seus modos legais: &#39;Sim, rapazes, bom em vocês. Os orcs não apenas foram feridos, mas também deram sua palavra, então era sensato ajudá-los. Mesmo que sejam cães fedorentos. 
+      <outputs name="Agradeça a eles e vá embora." ownerID="36" targetID="45" fromX="4420" fromY="2041" />Os anoes admiram seus modos legais: &#39;Sim, rapazes, bom em vocês. Os orcs não apenas foram feridos, mas também deram sua palavra, então era sensato ajudá-los. Mesmo que sejam cães fedorentos. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="3575" positionY="1769" width="350" height="681">
       <logic>
@@ -3058,7 +3058,7 @@ Your friendship does not grow, but they pay you for the job, as agreed.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="44" fromX="3995" fromY="-501" />Você mata todos os bandidos. Os anões estão satisfeitos com sua ajuda e oferecem uma pequena recompensa.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="44" fromX="3995" fromY="-501" />Você mata todos os bandidos. Os anoes estão satisfeitos com sua ajuda e oferecem uma pequena recompensa.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="44" positionX="5089" positionY="1025" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="44" targetID="22" fromX="5537" fromY="592" />
     </nodes>
@@ -3085,7 +3085,7 @@ Your friendship does not grow, but they pay you for the job, as agreed.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="[Healer or cmuch]Ofereça-lhes ajuda na cura." ownerID="47" targetID="20" group="G2" fromX="1231" fromY="1885" />
-      <outputs name="Acene com a cabeça e diga que você vai levar a mensagem para os anões. Deseje-lhes bons inimigos e lâminas afiadas a caminho de casa." ownerID="47" targetID="37" group="G2" fromX="1231" fromY="1805" />
+      <outputs name="Acene com a cabeça e diga que você vai levar a mensagem para os anoes. Deseje-lhes bons inimigos e lâminas afiadas a caminho de casa." ownerID="47" targetID="37" group="G2" fromX="1231" fromY="1805" />
       <outputs name="Insista para que eles partam dentro de um dia." ownerID="47" targetID="48" group="G1" fromX="1231" fromY="1725" />
       <outputs name="Insista para que eles partam dentro de um dia." ownerID="47" targetID="53" group="G1" fromX="1231" fromY="1645" />&#39;Ah! Claro que eles nos veem como uma ameaça, e assim deveriam, os cabeças de pedra. Estou ansioso pelo dia em que possamos nos encontrar em uma batalha honrosa. Ainda assim, não somos nenhum partido de ataque. Somos rastreadores de sangue, estamos aqui para conseguir um troféu, e conseguimos. Precisamos nos curar agora e descansar. Então nos mudamos. Dou minha palavra de honra que não incomodaremos a cidade de pedra.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="48" positionX="4006" positionY="1459" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="gob">
@@ -3146,8 +3146,8 @@ Your friendship does not grow, but they pay you for the job, as agreed.</nodes>
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="54" positionX="1564" positionY="1480" width="350" height="885">
       <outputs name="[Anão] Como eles se atrevem a acusar seus parentes de tais jogos mesquinhos? Diga claramente que é isso que você diz que é: um pedido educado para que se afastem desta terra." ownerID="54" targetID="55" group="G1" fromX="1889" fromY="988" />
-      <outputs name="Diga que os anões não são conhecidos por jogar esses jogos. Eles só querem que os orcs saiam de seu território." ownerID="54" targetID="8" group="G1" fromX="1889" fromY="908" />
-      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anões insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="54" targetID="47" fromX="1889" fromY="828" />'What, those rock heads can't deal with their own shit now? Or do they mean to disrespect us by sending you lot?'</nodes>
+      <outputs name="Diga que os anoes não são conhecidos por jogar esses jogos. Eles só querem que os orcs saiam de seu território." ownerID="54" targetID="8" group="G1" fromX="1889" fromY="908" />
+      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anoes insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="54" targetID="47" fromX="1889" fromY="828" />'What, those rock heads can't deal with their own shit now? Or do they mean to disrespect us by sending you lot?'</nodes>
     <nodes xsi:type="NodeChallenge" ID="55" positionX="2060" positionY="1519" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-ORC_WITCH_MIX_6P_5M_6S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -3189,7 +3189,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="58" targetID="44" fromX="2948" fromY="-374" />Você mata todos os orcs e relata. Mas os anões estão muito zangados! — Eles lhe deram sua palavra de honra, foram feridos e você os matou em nosso nome! Vocês moças não têm orgulho. É melhor você nos deixar agora.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="58" targetID="44" fromX="2948" fromY="-374" />Você mata todos os orcs e relata. Mas os anoes estão muito zangados! — Eles lhe deram sua palavra de honra, foram feridos e você os matou em nosso nome! Vocês moças não têm orgulho. É melhor você nos deixar agora.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="59" positionX="2439" positionY="-728" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="59" targetID="16" fromX="2868" fromY="-1116" />
     </nodes>
@@ -3249,9 +3249,9 @@ Your friendship does not grow.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="[Anão] Seus parentes perderam o controle deles, mas seus pais treinaram ursos para viver. Tente levá-los de volta aos anões." ownerID="3" targetID="51" group="G1" fromX="-204" fromY="1312" />
+      <outputs name="[Anão] Seus parentes perderam o controle deles, mas seus pais treinaram ursos para viver. Tente levá-los de volta aos anoes." ownerID="3" targetID="51" group="G1" fromX="-204" fromY="1312" />
       <outputs name="Você tem aqueles que podem se comunicar com ursos. Faça as feras obedecerem a você." ownerID="3" targetID="5" group="G1" fromX="-204" fromY="1232" />
-      <outputs name="Os ursos respeitam o território. Tente descobrir uma maneira de marcar esta terra para os anões, fazendo com que os ursos saiam." ownerID="3" targetID="6" fromX="-204" fromY="1152" />
+      <outputs name="Os ursos respeitam o território. Tente descobrir uma maneira de marcar esta terra para os anoes, fazendo com que os ursos saiam." ownerID="3" targetID="6" fromX="-204" fromY="1152" />
       <outputs name="[Hunter] Prepare uma armadilha para o bando e ataque quando eles estiverem enfraquecidos." ownerID="3" targetID="4" group="G2" fromX="-204" fromY="1072" />
       <outputs name="[Hunter] Prepare uma armadilha para o bando e ataque quando eles estiverem enfraquecidos." ownerID="3" targetID="30" group="G2" fromX="-204" fromY="992" />You get in closer and observe several armoured bears roaming the place angrily.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1157" positionY="-209" width="350" height="725">
@@ -3327,7 +3327,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="7" targetID="40" fromX="402" fromY="2473" />Você luta com o urso alfa e quebra seu pescoço com as próprias mãos, e os outros se submetem ao seu domínio. Os ursos até voltam para os anões, que ficam impressionados com sua habilidade.
+      <outputs name="Sair." ownerID="7" targetID="40" fromX="402" fromY="2473" />Você luta com o urso alfa e quebra seu pescoço com as próprias mãos, e os outros se submetem ao seu domínio. Os ursos até voltam para os anoes, que ficam impressionados com sua habilidade.
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="9" positionX="1646.18066" positionY="-61.979805" width="460" height="509" sourceGroup="GROUP-BEARS_5P_2M_0S" dropPercentage="50">
       <outputs ownerID="9" targetID="12" group="G1" fromX="2076" fromY="-420" />
@@ -3419,7 +3419,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="17" targetID="36" fromX="1897" fromY="232" />Você marca o território e assedia a matilha até que eles sigam em frente. Você se livrou do problema como foi pedido, então os anões estão agradecidos.
+      <outputs name="Sair." ownerID="17" targetID="36" fromX="1897" fromY="232" />Você marca o território e assedia a matilha até que eles sigam em frente. Você se livrou do problema como foi pedido, então os anoes estão agradecidos.
  </nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2851.84644" positionY="46.0069351" width="350" height="681">
       <logic>
@@ -3450,7 +3450,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2259" />&#39;Bah, você alimenta os animais, moça, eles virão para mais. Tolice.&#39; Os anões não estão impressionados.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2259" />&#39;Bah, você alimenta os animais, moça, eles virão para mais. Tolice.&#39; Os anoes não estão impressionados.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="487.979858" positionY="-2380.74268" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -3523,7 +3523,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="33" targetID="47" fromX="2678" fromY="297" />Sua trama falha e você é assaltado pelos ursos. Os anões ouvem seus gritos e vêm em seu auxílio. Eles têm que matar os próprios ursos e estão zangados por terem que poupar tempo. Você não ganha nenhuma amizade.</nodes>
+      <outputs name="Sair." ownerID="33" targetID="47" fromX="2678" fromY="297" />Sua trama falha e você é assaltado pelos ursos. Os anoes ouvem seus gritos e vêm em seu auxílio. Eles têm que matar os próprios ursos e estão zangados por terem que poupar tempo. Você não ganha nenhuma amizade.</nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="1785.20117" positionY="2219.573" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -3541,7 +3541,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="34" targetID="36" group="G1" fromX="2110" fromY="1772" />Os ursos se curvam ao seu domínio e concordam em voltar para os anões. Talvez um até decida ficar com você. Os anões estão muito felizes com seu trabalho.
+      <outputs name="Sair." ownerID="34" targetID="36" group="G1" fromX="2110" fromY="1772" />Os ursos se curvam ao seu domínio e concordam em voltar para os anoes. Talvez um até decida ficar com você. Os anoes estão muito felizes com seu trabalho.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="36" positionX="2441.24561" positionY="1992.71545" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="36" targetID="39" fromX="2889" fromY="1560" />
@@ -3593,7 +3593,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="42" targetID="40" fromX="313" fromY="1747" />A luta de ursos vai mal, e os anões riem de seu fracasso. Eles te deixam algumas joias, dizendo que as moças ficam bem em bugigangas. Você ganha alguma amizade apenas através de sua vergonha.
+      <outputs name="Sair." ownerID="42" targetID="40" fromX="313" fromY="1747" />A luta de ursos vai mal, e os anoes riem de seu fracasso. Eles te deixam algumas joias, dizendo que as moças ficam bem em bugigangas. Você ganha alguma amizade apenas através de sua vergonha.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="47" positionX="2749.97656" positionY="601.730957" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="47" targetID="27" fromX="3179" fromY="213" />
@@ -3641,7 +3641,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="50" targetID="36" fromX="803" fromY="-444" />Os ursos se curvam ao seu domínio e concordam em voltar para os anões. Talvez um até decida ficar com você. Os anões estão muito felizes com seu trabalho.
+      <outputs name="Sair." ownerID="50" targetID="36" fromX="803" fromY="-444" />Os ursos se curvam ao seu domínio e concordam em voltar para os anoes. Talvez um até decida ficar com você. Os anoes estão muito felizes com seu trabalho.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-524" positionY="3077" width="350" height="681">
       <logic>
@@ -3677,7 +3677,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="51" targetID="40" fromX="-198" fromY="2629" />Você se aproxima dos ursos e permanece calmo como pedra enquanto monta em um deles e supera sua fúria. Os outros se curvam ao seu domínio e todos voltam para os anões. Os presos à terra estão muito satisfeitos com seu trabalho e o recompensam por isso.
+      <outputs name="Sair." ownerID="51" targetID="40" fromX="-198" fromY="2629" />Você se aproxima dos ursos e permanece calmo como pedra enquanto monta em um deles e supera sua fúria. Os outros se curvam ao seu domínio e todos voltam para os anoes. Os presos à terra estão muito satisfeitos com seu trabalho e o recompensam por isso.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="52" positionX="880" positionY="1053" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="40" useCountInPercent="true" targetGroup="animalsi">
       <outputs ownerID="52" targetID="32" fromX="1309" fromY="664" />
@@ -3747,7 +3747,7 @@ Your friendship does not grow.</nodes>
       <outputs name="Tente fugir." ownerID="4" targetID="53" group="G1" fromX="1791" fromY="-621" />
       <outputs name="Tente fugir." ownerID="4" targetID="49" group="G1" fromX="1791" fromY="-701" />You are ambushed by the trolls!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="2107" positionY="-1318" width="350" height="1046">
-      <outputs name="Pare, jogue suas mãos para cima e diga que você não quer lutar, apenas para dizer a eles que eles precisam sair, pois os anões não os querem aqui." ownerID="5" targetID="55" fromX="2432" fromY="-1809" />
+      <outputs name="Pare, jogue suas mãos para cima e diga que você não quer lutar, apenas para dizer a eles que eles precisam sair, pois os anoes não os querem aqui." ownerID="5" targetID="55" fromX="2432" fromY="-1809" />
       <outputs name="Ataque!" ownerID="5" targetID="6" fromX="2432" fromY="-1809" />
       <outputs name="[Anão] Um despertar dos pequeninos! Diga aos trolls que você está honrado por estar aqui e testemunhar isso." ownerID="5" targetID="47" fromX="2432" fromY="-1809" />
       <outputs name="Tente fugir." ownerID="5" targetID="53" group="G1" fromX="2432" fromY="-1809" />
@@ -3782,7 +3782,7 @@ Your friendship does not grow.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="[Usuário de magia] Ofereça-se para ajudá-los a despertar seus filhotes com um ritual, então eles podem sair sem mais delongas." ownerID="19" targetID="20" fromX="3346" fromY="1851" />
-      <outputs name="Diga que eles não precisam sair. Você explicará a situação deles aos anões." ownerID="19" targetID="37" fromX="3346" fromY="1771" />
+      <outputs name="Diga que eles não precisam sair. Você explicará a situação deles aos anoes." ownerID="19" targetID="37" fromX="3346" fromY="1771" />
       <outputs name="Insista para que eles partam dentro de um dia." ownerID="19" targetID="35" fromX="3346" fromY="1691" />
       <outputs name="Ofereça-se para dar-lhes muita comida. Você ouviu que ajuda os trolls a crescer, então talvez ajude com os pequenos." ownerID="19" targetID="58" fromX="3346" fromY="1611" />'We do not go, we have young that wait to be awakened. If we go now, they die. Why you listen to little stone people? Why they want us go? We only eat them ones that come and poke us!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3508" positionY="2393" width="350" height="681">
@@ -3840,7 +3840,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
       <outputs name="[Natureza] Como os trolls são criaturas da vontade da natureza, proclame que é seu domínio e, portanto, eles devem sair." ownerID="26" targetID="54" group="G1" fromX="2232" fromY="1267" />
       <outputs name="Ataque!" ownerID="26" targetID="7" fromX="2232" fromY="1187" />
       <outputs name="[Anão] Um despertar dos pequeninos! Diga aos trolls que você está honrado por estar aqui e testemunhar isso." ownerID="26" targetID="47" fromX="2232" fromY="1107" />
-      <outputs name="Diga que os anões ouviram barulhos estranhos e fizeram as pessoas desaparecerem aqui, então eles pediram para você se livrar dos trolls." ownerID="26" targetID="8" group="G1" fromX="2232" fromY="1027" />They turn to you and you notice a skshack sitting quietly in the middle of all the rocks. The poppa troll speaks:
+      <outputs name="Diga que os anoes ouviram barulhos estranhos e fizeram as pessoas desaparecerem aqui, então eles pediram para você se livrar dos trolls." ownerID="26" targetID="8" group="G1" fromX="2232" fromY="1027" />They turn to you and you notice a skshack sitting quietly in the middle of all the rocks. The poppa troll speaks:
 
 'Whaat you want here, little one? You come to help?'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="34" positionX="5119.094" positionY="2166.3418" width="350" height="408" allPlayersXP="5" allPlayersRP="1" linkedEventUniqueID="0">
@@ -3863,7 +3863,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Relatório para os anões." ownerID="35" targetID="38" fromX="4205" fromY="1060" />'Sensitive time now, we not need the little stone folk troubling us, so we go. But we are not happy, you tell them that.'</nodes>
+      <outputs name="Relatório para os anoes." ownerID="35" targetID="38" fromX="4205" fromY="1060" />'Sensitive time now, we not need the little stone folk troubling us, so we go. But we are not happy, you tell them that.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="3975" positionY="2284" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -3918,7 +3918,7 @@ The dwarves say that it is a joyous event for rockers to awaken, and they are pl
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="39" targetID="45" fromX="6349" fromY="1639" />Os anões estão furiosos por você ter interrompido um rito sagrado dos trolls: &#39;Azar, moças, azar para todos nós!&#39;</nodes>
+      <outputs name="Sair." ownerID="39" targetID="45" fromX="6349" fromY="1639" />Os anoes estão furiosos por você ter interrompido um rito sagrado dos trolls: &#39;Azar, moças, azar para todos nós!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="6045.62939" positionY="1372.48059" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -3927,7 +3927,7 @@ The dwarves say that it is a joyous event for rockers to awaken, and they are pl
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="40" targetID="45" fromX="6371" fromY="925" />Os anões estão furiosos por você ter interrompido um rito sagrado dos trolls: &#39;Azar, moças, azar para todos nós! Mas talvez devêssemos ter te contado, sim. É melhor você ir agora.
+      <outputs name="Sair." ownerID="40" targetID="45" fromX="6371" fromY="925" />Os anoes estão furiosos por você ter interrompido um rito sagrado dos trolls: &#39;Azar, moças, azar para todos nós! Mas talvez devêssemos ter te contado, sim. É melhor você ir agora.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="41" positionX="2501" positionY="1029" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="41" targetID="23" fromX="2930" fromY="640" />
@@ -3979,7 +3979,7 @@ They leave a reward for you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="[Usuário de magia] Ofereça-se para ajudá-los a despertar seus filhotes com um ritual, então eles podem sair sem mais delongas." ownerID="47" targetID="20" group="G2" fromX="1205" fromY="1770" />
-      <outputs name="Diga que eles não precisam sair. Você explicará a situação deles aos anões." ownerID="47" targetID="37" group="G2" fromX="1205" fromY="1690" />
+      <outputs name="Diga que eles não precisam sair. Você explicará a situação deles aos anoes." ownerID="47" targetID="37" group="G2" fromX="1205" fromY="1690" />
       <outputs name="Insista para que eles partam dentro de um dia." ownerID="47" targetID="35" fromX="1205" fromY="1610" />
       <outputs name="[Fêmea anã] Ofereça-se para cantar a canção da terra, uma canção de ninar que você cantaria para seus próprios filhotes de pedra." ownerID="47" targetID="60" fromX="1205" fromY="1530" />'Little stone people know us well. You can stay, you keep quiet. They be easy to break now.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="49" positionX="3192" positionY="-1141" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
@@ -4116,7 +4116,7 @@ When the time comes, the trolls keep you at bay, so you still don't know exactly
 
 They take the young, leave you a reward, and slowly move away.</nodes>
     <nodes xsi:type="NodeAdventure" ID="61" positionX="3514" positionY="829" width="350" height="681">
-      <outputs name="Sair." ownerID="61" targetID="24" fromX="3839" fromY="381" />Quando você informa os anões do seu fracasso, eles ficam perturbados por você ter tentado interferir no despertar do rocker. Sua amizade sofre por isso.</nodes>
+      <outputs name="Sair." ownerID="61" targetID="24" fromX="3839" fromY="381" />Quando você informa os anoes do seu fracasso, eles ficam perturbados por você ter tentado interferir no despertar do rocker. Sua amizade sofre por isso.</nodes>
     <nodes xsi:type="NodeChallenge" ID="62" positionX="2244" positionY="543" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-TROLL_ROCK_ONE_8P_6M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="62" targetID="63" fromX="2685" fromY="47" />
       <outputs name="Lose" ownerID="62" targetID="16" fromX="2685" fromY="-32" />
@@ -4130,7 +4130,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="63" targetID="44" fromX="3345" fromY="-358" />Você mata os trolls, mas quando reporta aos anões, eles ficam perturbados por você ter interferido no despertar de um roqueiro, dizendo que era um rito sagrado. &#39;Que vergonha, que vergonha, moças!&#39;</nodes>
+      <outputs name="Sair." ownerID="63" targetID="44" fromX="3345" fromY="-358" />Você mata os trolls, mas quando reporta aos anoes, eles ficam perturbados por você ter interferido no despertar de um roqueiro, dizendo que era um rito sagrado. &#39;Que vergonha, que vergonha, moças!&#39;</nodes>
     <nodes xsi:type="NodeDealDamage" ID="64" positionX="474" positionY="-1819" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="64" targetID="65" group="G1" fromX="903" fromY="-2207" />
       <outputs ownerID="64" targetID="66" group="G1" fromX="903" fromY="-2287" />
@@ -4148,7 +4148,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="65" targetID="68" fromX="1493" fromY="-2806" />Você dá sua comida, mas os trolls apenas fingem que vão embora. Na verdade, eles se instalam ainda mais perto dos anões e causam muitos problemas. Os anões terrestres não estão impressionados com seus esforços, dizendo que você nunca deve alimentar trolls, pois eles simplesmente voltam para mais!</nodes>
+      <outputs name="Sair." ownerID="65" targetID="68" fromX="1493" fromY="-2806" />Você dá sua comida, mas os trolls apenas fingem que vão embora. Na verdade, eles se instalam ainda mais perto dos anoes e causam muitos problemas. Os anoes terrestres não estão impressionados com seus esforços, dizendo que você nunca deve alimentar trolls, pois eles simplesmente voltam para mais!</nodes>
     <nodes xsi:type="NodeAdventure" ID="66" positionX="489" positionY="-2388" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -4427,7 +4427,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Reporte-se aos anões." ownerID="6" targetID="7" fromX="654" fromY="760" />Você canaliza sua natureza demoníaca e, em poucas horas, o túnel está limpo. Os anões estão realmente impressionados com seu trabalho.</nodes>
+      <outputs name="Reporte-se aos anoes." ownerID="6" targetID="7" fromX="654" fromY="760" />Você canaliza sua natureza demoníaca e, em poucas horas, o túnel está limpo. Os anoes estão realmente impressionados com seu trabalho.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="3077" positionY="737" width="460" height="619" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="7" targetID="10" group="G1" fromX="3506" fromY="348" />
       <outputs ownerID="7" targetID="8" group="G1" fromX="3506" fromY="268" />
@@ -4458,7 +4458,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="8" targetID="12" fromX="4018" fromY="488" />Os anões estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="8" targetID="12" fromX="4018" fromY="488" />Os anoes estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2669" positionY="44" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -4467,7 +4467,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="9" targetID="16" fromX="2994" fromY="-403" />Você cava e cava e cava até achar que não tem fim. É tedioso e desgasta sua moral, e termina com um perigoso colapso de um arco que quase o mata. Os anões não estão impressionados com sua incompetência.</nodes>
+      <outputs name="Sair." ownerID="9" targetID="16" fromX="2994" fromY="-403" />Você cava e cava e cava até achar que não tem fim. É tedioso e desgasta sua moral, e termina com um perigoso colapso de um arco que quase o mata. Os anoes não estão impressionados com sua incompetência.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="4154" positionY="967" width="350" height="681">
       <logic>
         <FilterBlock>
@@ -4493,7 +4493,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="10" targetID="12" fromX="4479" fromY="519" />Os anões estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="10" targetID="12" fromX="4479" fromY="519" />Os anoes estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="4589" positionY="748" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -4514,7 +4514,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="11" targetID="12" fromX="4914" fromY="300" />Os anões estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="11" targetID="12" fromX="4914" fromY="300" />Os anoes estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="12" positionX="5130" positionY="792" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="12" targetID="13" fromX="5578" fromY="359" />
     </nodes>
@@ -4563,7 +4563,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
       <outputs name="Surrender" ownerID="19" targetID="15" fromX="2559" fromY="845" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="2662" positionY="771" width="350" height="681">
-      <outputs name="Reporte-se aos anões." ownerID="20" targetID="7" fromX="2987" fromY="323" />Você cava e cava e cava até achar que não tem fim. Mas, eventualmente, os túneis estão limpos. Todos os outros túneis provam ser becos sem saída. É tedioso e desgasta sua moral. </nodes>
+      <outputs name="Reporte-se aos anoes." ownerID="20" targetID="7" fromX="2987" fromY="323" />Você cava e cava e cava até achar que não tem fim. Mas, eventualmente, os túneis estão limpos. Todos os outros túneis provam ser becos sem saída. É tedioso e desgasta sua moral. </nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="1162" positionY="229" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4583,7 +4583,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="16" fromX="1487" fromY="-262" />— Ah, suas orelhas pontudas arrogantes! Vocês são todas moças, é isso que vocês são. Vá brincar na floresta. Os anões não estão impressionados com sua incompetência.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="16" fromX="1487" fromY="-262" />— Ah, suas orelhas pontudas arrogantes! Vocês são todas moças, é isso que vocês são. Vá brincar na floresta. Os anoes não estão impressionados com sua incompetência.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="861" positionY="-471" width="350" height="966" image="Event176">
       <outputs name="Ataque!" ownerID="22" targetID="23" fromX="1186" fromY="-962" />
       <outputs name="[Usuário de magia] Prepare um ritual e enfrente o mestre no mundo espiritual." ownerID="22" targetID="30" fromX="1186" fromY="-1042" />
@@ -4611,7 +4611,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="24" targetID="12" fromX="2460" fromY="-1079" />O mestre striga cai e você pode limpar o resto desta caverna sem mais perigos. Os anões estão felizes com seus resultados e o recompensam bem.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="24" targetID="12" fromX="2460" fromY="-1079" />O mestre striga cai e você pode limpar o resto desta caverna sem mais perigos. Os anoes estão felizes com seus resultados e o recompensam bem.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="25" positionX="1816" positionY="-1403" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="25" targetID="26" fromX="2245" fromY="-1791" />
     </nodes>
@@ -4815,7 +4815,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Reporte-se aos anões." ownerID="6" targetID="7" fromX="654" fromY="716" />Você canaliza sua natureza demoníaca e, em poucas horas, o túnel está limpo. Os anões estão realmente impressionados com seu trabalho.</nodes>
+      <outputs name="Reporte-se aos anoes." ownerID="6" targetID="7" fromX="654" fromY="716" />Você canaliza sua natureza demoníaca e, em poucas horas, o túnel está limpo. Os anoes estão realmente impressionados com seu trabalho.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="3077" positionY="737" width="460" height="619" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="7" targetID="10" group="G1" fromX="3506" fromY="348" />
       <outputs ownerID="7" targetID="8" group="G1" fromX="3506" fromY="268" />
@@ -4846,7 +4846,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="8" targetID="12" fromX="4018" fromY="444" />Os anões estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="8" targetID="12" fromX="4018" fromY="444" />Os anoes estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2669" positionY="44" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -4855,7 +4855,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="9" targetID="16" fromX="2994" fromY="-447" />Você cava e cava e cava até achar que não tem fim. É tedioso e desgasta sua moral, e termina com um perigoso colapso de um arco que quase o mata. Os anões não estão impressionados com sua incompetência.</nodes>
+      <outputs name="Sair." ownerID="9" targetID="16" fromX="2994" fromY="-447" />Você cava e cava e cava até achar que não tem fim. É tedioso e desgasta sua moral, e termina com um perigoso colapso de um arco que quase o mata. Os anoes não estão impressionados com sua incompetência.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="4154" positionY="967" width="350" height="681">
       <logic>
         <FilterBlock>
@@ -4881,7 +4881,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="10" targetID="12" fromX="4479" fromY="475" />Os anões estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="10" targetID="12" fromX="4479" fromY="475" />Os anoes estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="4589" positionY="748" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -4902,7 +4902,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="11" targetID="12" fromX="4914" fromY="256" />Os anões estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="11" targetID="12" fromX="4914" fromY="256" />Os anoes estão impressionados com a rapidez com que você se livrou dos encrenqueiros, embora não estejam totalmente felizes que os criminosos tenham saído impunes. Ainda assim, sua amizade cresce. </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="12" positionX="5130" positionY="792" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="12" targetID="13" fromX="5578" fromY="359" />
     </nodes>
@@ -4951,7 +4951,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
       <outputs name="Surrender" ownerID="19" targetID="15" fromX="2559" fromY="808" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="2662" positionY="771" width="350" height="725">
-      <outputs name="Reporte-se aos anões." ownerID="20" targetID="7" fromX="2987" fromY="279" />Você cava e cava e cava até achar que não tem fim. Mas, eventualmente, os túneis estão limpos. Todos os outros túneis provam ser becos sem saída. É tedioso e desgasta sua moral. </nodes>
+      <outputs name="Reporte-se aos anoes." ownerID="20" targetID="7" fromX="2987" fromY="279" />Você cava e cava e cava até achar que não tem fim. Mas, eventualmente, os túneis estão limpos. Todos os outros túneis provam ser becos sem saída. É tedioso e desgasta sua moral. </nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="1162" positionY="229" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4971,7 +4971,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="16" fromX="1487" fromY="-262" />— Ah, suas orelhas pontudas arrogantes! Vocês são todas moças, é isso que vocês são. Vá brincar na floresta. Os anões não estão impressionados com sua incompetência.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="16" fromX="1487" fromY="-262" />— Ah, suas orelhas pontudas arrogantes! Vocês são todas moças, é isso que vocês são. Vá brincar na floresta. Os anoes não estão impressionados com sua incompetência.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="861" positionY="-471" width="350" height="966" image="Event105">
       <outputs name="Ataque!" ownerID="22" targetID="23" fromX="1186" fromY="-962" />
       <outputs name="Tente derrubá-lo para se livrar dos lobisomens." ownerID="22" targetID="30" fromX="1186" fromY="-1042" />
@@ -4999,7 +4999,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="24" targetID="12" fromX="2460" fromY="-1079" />Os lobisomens se foram e você pode limpar o resto desta caverna sem mais perigos. Os anões estão felizes com seus resultados e o recompensam bem.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="24" targetID="12" fromX="2460" fromY="-1079" />Os lobisomens se foram e você pode limpar o resto desta caverna sem mais perigos. Os anoes estão felizes com seus resultados e o recompensam bem.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="25" positionX="1656" positionY="-1413" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="25" targetID="26" fromX="2085" fromY="-1801" />
     </nodes>
@@ -5194,7 +5194,7 @@ They take the young, leave you a reward, and slowly move away.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Diga que os anões pediram para você recuperar sua antiga forja. É importante para eles, então eles não vão deixá-lo ir." ownerID="6" targetID="30" fromX="1538" fromY="550" />
+      <outputs name="Diga que os anoes pediram para você recuperar sua antiga forja. É importante para eles, então eles não vão deixá-lo ir." ownerID="6" targetID="30" fromX="1538" fromY="550" />
       <outputs name="Sim, mate-o em nome da luz!" ownerID="6" targetID="25" fromX="1538" fromY="470" />You call upon the light and it guides you in, past the many wards. 
 
 Within the forge you see a burning furnace, an anvil, and all the trappings you'd expect, but behind the hammer stands a creature of the dark - a mroki. It looks at you, its empty eyes revealing no emotion:
@@ -5208,7 +5208,7 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Diga que os anões pediram para você recuperar sua antiga forja. É importante para eles, então eles não vão deixá-lo ir." ownerID="7" targetID="30" fromX="2002" fromY="435" />You call upon the light and it guides you in, past the many wards. 
+      <outputs name="Diga que os anoes pediram para você recuperar sua antiga forja. É importante para eles, então eles não vão deixá-lo ir." ownerID="7" targetID="30" fromX="2002" fromY="435" />You call upon the light and it guides you in, past the many wards. 
 
 Within the forge you see a burning furnace, an anvil, and all the trappings you'd expect, but behind the hammer stands a creature of the dark - a mroki. It looks at you, its empty eyes revealing no emotion:
 
@@ -5224,13 +5224,13 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Diga que os anões pediram para você recuperar sua antiga forja. É importante para eles, então eles não vão deixá-lo ir." ownerID="8" targetID="32" fromX="2463" fromY="134" />You call upon the dark and it obeys and guides you in, past the many wards. 
+      <outputs name="Diga que os anoes pediram para você recuperar sua antiga forja. É importante para eles, então eles não vão deixá-lo ir." ownerID="8" targetID="32" fromX="2463" fromY="134" />You call upon the dark and it obeys and guides you in, past the many wards. 
 
 Within the forge you see a burning furnace, an anvil, and all the trappings you'd expect, but behind the hammer stands a creature of the dark - a mroki. It looks at you, its empty eyes revealing no emotion:
 
 'Dark friend, welcome. How can I aid you?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1551" positionY="-171" width="350" height="805">
-      <outputs name="Diga que os anões querem sua forja de volta." ownerID="9" targetID="10" fromX="1876" fromY="-662" />
+      <outputs name="Diga que os anoes querem sua forja de volta." ownerID="9" targetID="10" fromX="1876" fromY="-662" />
       <outputs name="Ataque!" ownerID="9" targetID="25" fromX="1876" fromY="-742" />The dark mist rises up to your waist now, and a huge shadow appears and speaks to you:
 
 'What?'</nodes>
@@ -5243,7 +5243,7 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
         </FilterBlock>
       </logic>
       <outputs name="[Inteligência] Pergunte o que ele é e por que ele pegou a forja." ownerID="10" targetID="12" fromX="2406" fromY="-797" />
-      <outputs name="Insista que a forja pertence aos anões e eles são teimosos. Eles certamente continuarão a assediá-lo aqui." ownerID="10" targetID="11" fromX="2406" fromY="-877" />'I claimed this place and warded it against the nuisance that are the stone folk. Now they send you.'</nodes>
+      <outputs name="Insista que a forja pertence aos anoes e eles são teimosos. Eles certamente continuarão a assediá-lo aqui." ownerID="10" targetID="11" fromX="2406" fromY="-877" />'I claimed this place and warded it against the nuisance that are the stone folk. Now they send you.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="11" positionX="2506" positionY="-1126" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-MROKI_MIX_6P_5M_6S" challengeScale="101" challengedList="nodwarf">
       <outputs name="Win" ownerID="11" targetID="19" fromX="2947" fromY="-1621" />
       <outputs name="Lose" ownerID="11" targetID="23" fromX="2947" fromY="-1701" />
@@ -5257,8 +5257,8 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Insista que a forja pertence aos anões e eles são teimosos. Eles certamente continuarão a assediá-lo aqui." ownerID="12" targetID="11" fromX="2893" fromY="-669" />
-      <outputs name="[Sabedoria] Diga que os anões prestam grande respeito aos seus antepassados e heróis caídos. Parece que o mroki tem pelo menos um eco de tal anão dentro, então você dirá isso aos anões, e talvez os dois possam chegar a um acordo." ownerID="12" targetID="13" fromX="2893" fromY="-749" />'I am a mroki, a creature of darkness is what you know of me. Does it matter? I feel an affinity to stone and metal, a stirring of old lives a calling of the fire, who knows? I am here to forge.'</nodes>
+      <outputs name="Insista que a forja pertence aos anoes e eles são teimosos. Eles certamente continuarão a assediá-lo aqui." ownerID="12" targetID="11" fromX="2893" fromY="-669" />
+      <outputs name="[Sabedoria] Diga que os anoes prestam grande respeito aos seus antepassados e heróis caídos. Parece que o mroki tem pelo menos um eco de tal anão dentro, então você dirá isso aos anoes, e talvez os dois possam chegar a um acordo." ownerID="12" targetID="13" fromX="2893" fromY="-749" />'I am a mroki, a creature of darkness is what you know of me. Does it matter? I feel an affinity to stone and metal, a stirring of old lives a calling of the fire, who knows? I am here to forge.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="3001" positionY="-226" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5278,7 +5278,7 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ele e vá contar aos anões." ownerID="13" targetID="14" fromX="3326" fromY="-717" />&#39;Eu defendi contra eles porque eles continuaram vindo para lutar. Se eles vierem conversar, eu ouvirei. O mroki lhe entrega um pequeno presente e volta ao trabalho.</nodes>
+      <outputs name="Agradeça a ele e vá contar aos anoes." ownerID="13" targetID="14" fromX="3326" fromY="-717" />&#39;Eu defendi contra eles porque eles continuaram vindo para lutar. Se eles vierem conversar, eu ouvirei. O mroki lhe entrega um pequeno presente e volta ao trabalho.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="14" positionX="3454" positionY="-298" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="14" targetID="15" group="G1" fromX="3883" fromY="-686" />
       <outputs ownerID="14" targetID="16" group="G1" fromX="3883" fromY="-766" />
@@ -5317,8 +5317,8 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="5214" positionY="-565" width="350" height="530" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="19" positionX="3090" positionY="-1115" width="350" height="805">
-      <outputs name="Diga que enquanto você simpatiza, os anões são muito possessivos com suas forjas, então o mroki deve ir embora." ownerID="19" targetID="20" fromX="3415" fromY="-1606" />
-      <outputs name="[Sabedoria] Diga que os anões prestam grande respeito aos seus antepassados e heróis caídos. Parece que o mroki tem pelo menos um eco de tal anão dentro, então você dirá isso aos anões, e talvez os dois possam chegar a um acordo." ownerID="19" targetID="13" fromX="3415" fromY="-1686" />'For you, a mroki is a creature of darkness, and we are that, but how do we come to be? I don't know the answer, but I feel many minds within me. Perhaps those lost to darkness? Or just dark thoughts of those who encountered turmoil in its purest form? In any case, the dwarven mind speaks loudly to me, so I came here to forge weapons. That's all.'</nodes>
+      <outputs name="Diga que enquanto você simpatiza, os anoes são muito possessivos com suas forjas, então o mroki deve ir embora." ownerID="19" targetID="20" fromX="3415" fromY="-1606" />
+      <outputs name="[Sabedoria] Diga que os anoes prestam grande respeito aos seus antepassados e heróis caídos. Parece que o mroki tem pelo menos um eco de tal anão dentro, então você dirá isso aos anoes, e talvez os dois possam chegar a um acordo." ownerID="19" targetID="13" fromX="3415" fromY="-1686" />'For you, a mroki is a creature of darkness, and we are that, but how do we come to be? I don't know the answer, but I feel many minds within me. Perhaps those lost to darkness? Or just dark thoughts of those who encountered turmoil in its purest form? In any case, the dwarven mind speaks loudly to me, so I came here to forge weapons. That's all.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3501" positionY="-1438" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -5330,7 +5330,7 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Reporte-se aos anões." ownerID="20" targetID="21" fromX="3826" fromY="-1929" />— Sim, sim, que nós... ou eles... somos. Eu irei, pois a voz em minha mente não quer derramar sangue de anão. Você falou bem. Aqui, você pode ter um melhor uso disso do que eu. O mroki lhe entrega um presente, então se dissolve em sombra, e você sente a névoa negra ir embora com ele. </nodes>
+      <outputs name="Reporte-se aos anoes." ownerID="20" targetID="21" fromX="3826" fromY="-1929" />— Sim, sim, que nós... ou eles... somos. Eu irei, pois a voz em minha mente não quer derramar sangue de anão. Você falou bem. Aqui, você pode ter um melhor uso disso do que eu. O mroki lhe entrega um presente, então se dissolve em sombra, e você sente a névoa negra ir embora com ele. </nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="4019" positionY="-1685" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -5360,7 +5360,7 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="24" targetID="17" fromX="3764" fromY="-2737" />— Uma pena, moça, uma pena. Afinal, você não é tão útil, hein? Os anões têm que lidar com o problema sozinhos, para que sua amizade não cresça.</nodes>
+      <outputs name="Sair." ownerID="24" targetID="17" fromX="3764" fromY="-2737" />— Uma pena, moça, uma pena. Afinal, você não é tão útil, hein? Os anoes têm que lidar com o problema sozinhos, para que sua amizade não cresça.</nodes>
     <nodes xsi:type="NodeChallenge" ID="25" positionX="1047" positionY="-1036" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-MROKI_8P_6M_8S" challengeScale="101" challengedList="nodwarf">
       <outputs name="Win" ownerID="25" targetID="31" group="G1" fromX="1488" fromY="-1531" />
       <outputs name="Lose" ownerID="25" targetID="29" fromX="1488" fromY="-1611" />
@@ -5393,10 +5393,10 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="29" targetID="17" fromX="1926" fromY="-2283" />Você é espancado e forçado a fugir. Os anões têm que lidar com o problema sozinhos, para que sua amizade não cresça.</nodes>
+      <outputs name="Sair." ownerID="29" targetID="17" fromX="1926" fromY="-2283" />Você é espancado e forçado a fugir. Os anoes têm que lidar com o problema sozinhos, para que sua amizade não cresça.</nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="2528" positionY="1389" width="350" height="805">
-      <outputs name="Insista que a forja pertence aos anões e eles são teimosos. Eles certamente continuarão a assediá-lo aqui." ownerID="30" targetID="11" fromX="2853" fromY="897" />
-      <outputs name="[Sabedoria] Diga que os anões prestam grande respeito aos seus antepassados e heróis caídos. Parece que o mroki tem pelo menos um eco de tal anão dentro, então você dirá isso aos anões, e talvez os dois possam chegar a um acordo." ownerID="30" targetID="13" fromX="2853" fromY="817" />'For you, a mroki is a creature of darkness, and we are that, but how did we come to be so? I don't know the answer, but I feel many minds within me. Perhaps those lost to darkness? Or just dark thoughts of those who encountered turmoil in its purest form? In any case, the dwarven mind speaks loudly to me, so I came here to forge weapons. That's all.'</nodes>
+      <outputs name="Insista que a forja pertence aos anoes e eles são teimosos. Eles certamente continuarão a assediá-lo aqui." ownerID="30" targetID="11" fromX="2853" fromY="897" />
+      <outputs name="[Sabedoria] Diga que os anoes prestam grande respeito aos seus antepassados e heróis caídos. Parece que o mroki tem pelo menos um eco de tal anão dentro, então você dirá isso aos anoes, e talvez os dois possam chegar a um acordo." ownerID="30" targetID="13" fromX="2853" fromY="817" />'For you, a mroki is a creature of darkness, and we are that, but how did we come to be so? I don't know the answer, but I feel many minds within me. Perhaps those lost to darkness? Or just dark thoughts of those who encountered turmoil in its purest form? In any case, the dwarven mind speaks loudly to me, so I came here to forge weapons. That's all.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="31" positionX="562" positionY="-1282" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -5413,8 +5413,8 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
       <outputs ownerID="31" targetID="26" fromX="991" fromY="-1670" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="2989" positionY="930" width="350" height="805">
-      <outputs name="Diga a ele que os anões são burros teimosos e você precisa se dar bem com eles, então sim, peça ao seu amigo sombra para ir." ownerID="32" targetID="33" fromX="3314" fromY="438" />
-      <outputs name="[Sabedoria] Diga que os anões prestam grande respeito aos seus antepassados e heróis caídos. Parece que o mroki tem pelo menos um eco de tal anão dentro, então você dirá isso aos anões, e talvez os dois possam chegar a um acordo." ownerID="32" targetID="13" fromX="3314" fromY="358" />'You know we mroki are creatures moulded from darkness and shadow. You too hear many voices. I feel many minds within me. Perhaps those lost to darkness? Or just dark thoughts of those who encountered turmoil in its purest form? In any case, the dwarven mind speaks loudly to me, so I came here to forge weapons. That's all. But if you ask, I will leave.'</nodes>
+      <outputs name="Diga a ele que os anoes são burros teimosos e você precisa se dar bem com eles, então sim, peça ao seu amigo sombra para ir." ownerID="32" targetID="33" fromX="3314" fromY="438" />
+      <outputs name="[Sabedoria] Diga que os anoes prestam grande respeito aos seus antepassados e heróis caídos. Parece que o mroki tem pelo menos um eco de tal anão dentro, então você dirá isso aos anoes, e talvez os dois possam chegar a um acordo." ownerID="32" targetID="13" fromX="3314" fromY="358" />'You know we mroki are creatures moulded from darkness and shadow. You too hear many voices. I feel many minds within me. Perhaps those lost to darkness? Or just dark thoughts of those who encountered turmoil in its purest form? In any case, the dwarven mind speaks loudly to me, so I came here to forge weapons. That's all. But if you ask, I will leave.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="3450" positionY="702" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -5426,7 +5426,7 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Reporte-se aos anões." ownerID="33" targetID="21" fromX="3775" fromY="210" />&#39;Sim. Eu irei, pois a voz em minha mente não quer derramar sangue de anão. Você falou bem. Aqui, você pode ter um melhor uso disso do que eu. O mroki lhe entrega um presente, então se dissolve em sombra, e você sente a névoa negra ir embora com ele. </nodes>
+      <outputs name="Reporte-se aos anoes." ownerID="33" targetID="21" fromX="3775" fromY="210" />&#39;Sim. Eu irei, pois a voz em minha mente não quer derramar sangue de anão. Você falou bem. Aqui, você pode ter um melhor uso disso do que eu. O mroki lhe entrega um presente, então se dissolve em sombra, e você sente a névoa negra ir embora com ele. </nodes>
   </Adventure>
   <Adventure name="DwarfKillsMedOrc" uniqueID="69" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="59" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event062">
@@ -5485,10 +5485,10 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
       <outputs name="Lutar!" ownerID="4" targetID="6" fromX="1799" fromY="-628" />
       <outputs name="Tente fugir." ownerID="4" targetID="49" fromX="1799" fromY="-708" />You are ambushed by the orcs!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="2102" positionY="-1223" width="350" height="966">
-      <outputs name="Pare, jogue suas mãos para cima e diga que você não quer lutar, apenas para dizer a eles que eles precisam sair, pois os anões não querem que eles causem problemas aqui." ownerID="5" targetID="50" fromX="2427" fromY="-1714" />
-      <outputs name="Orcs respeitam a força. Mostre seu poder e convença-os a deixar este lugar antes que os anões cheguem." ownerID="5" targetID="51" fromX="2427" fromY="-1794" />
+      <outputs name="Pare, jogue suas mãos para cima e diga que você não quer lutar, apenas para dizer a eles que eles precisam sair, pois os anoes não querem que eles causem problemas aqui." ownerID="5" targetID="50" fromX="2427" fromY="-1714" />
+      <outputs name="Orcs respeitam a força. Mostre seu poder e convença-os a deixar este lugar antes que os anoes cheguem." ownerID="5" targetID="51" fromX="2427" fromY="-1794" />
       <outputs name="Ataque!" ownerID="5" targetID="6" fromX="2427" fromY="-1874" />
-      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anões insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="5" targetID="47" fromX="2427" fromY="-1954" />You search the place and finally spot some orcs. Alas, they spot you too, so you haven't got much time to decide what to do.</nodes>
+      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anoes insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="5" targetID="47" fromX="2427" fromY="-1954" />You search the place and finally spot some orcs. Alas, they spot you too, so you haven't got much time to decide what to do.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="3166" positionY="-170" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-HORDE_ORCS_8P_7M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="43" fromX="3607" fromY="-665" />
       <outputs name="Lose" ownerID="6" targetID="16" fromX="3607" fromY="-745" />
@@ -5519,7 +5519,7 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
         </ModifierBlock>
       </logic>
       <outputs name="[Healer or cmuch]Ofereça-lhes ajuda na cura." ownerID="19" targetID="20" group="G2" fromX="3341" fromY="1464" />
-      <outputs name="Acene com a cabeça e diga que você vai levar a mensagem para os anões. Deseje-lhes bons inimigos e lâminas afiadas a caminho de casa." ownerID="19" targetID="37" group="G2" fromX="3341" fromY="1384" />
+      <outputs name="Acene com a cabeça e diga que você vai levar a mensagem para os anoes. Deseje-lhes bons inimigos e lâminas afiadas a caminho de casa." ownerID="19" targetID="37" group="G2" fromX="3341" fromY="1384" />
       <outputs name="Insista para que eles partam dentro de um dia." ownerID="19" targetID="48" group="G1" fromX="3341" fromY="1304" />
       <outputs name="Insista para que eles partam dentro de um dia." ownerID="19" targetID="53" group="G1" fromX="3341" fromY="1224" />&#39;Ah! Claro que eles nos veem como uma ameaça, e assim deveriam, os cabeças de pedra. Estou ansioso pelo dia em que possamos nos encontrar em uma batalha honrosa. Ainda assim, não somos nenhum partido de ataque. Somos rastreadores de sangue, estamos aqui para conseguir um troféu, e conseguimos. Precisamos nos curar agora e descansar. Então nos mudamos. Dou minha palavra de honra que não incomodaremos a cidade de pedra.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3613" positionY="2481" width="350" height="725">
@@ -5571,9 +5571,9 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="1183" positionY="1418" width="350" height="885">
-      <outputs name="Admita que você foi enviado aqui pelos anões, que estão preocupados com a atividade dos orcs tão perto do assentamento." ownerID="26" targetID="54" fromX="1508" fromY="926" />
+      <outputs name="Admita que você foi enviado aqui pelos anoes, que estão preocupados com a atividade dos orcs tão perto do assentamento." ownerID="26" targetID="54" fromX="1508" fromY="926" />
       <outputs name="Ataque!" ownerID="26" targetID="6" fromX="1508" fromY="846" />
-      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anões insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="26" targetID="47" fromX="1508" fromY="766" />A matriarca se levanta e fala: &#39;Pare! Não vá mais longe ou encontre o destino deste troll. Podemos parecer maltratados para você, mas somos orcs e lutaremos até a morte!</nodes>
+      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anoes insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="26" targetID="47" fromX="1508" fromY="766" />A matriarca se levanta e fala: &#39;Pare! Não vá mais longe ou encontre o destino deste troll. Podemos parecer maltratados para você, mas somos orcs e lutaremos até a morte!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="34" positionX="5125" positionY="2335" width="350" height="530" allPlayersXP="6" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="35" positionX="4540" positionY="1549" width="350" height="725">
       <logic>
@@ -5583,7 +5583,7 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Reporte-se aos anões." ownerID="35" targetID="38" fromX="4865" fromY="1057" />'So this is what my word means to you and those shorties, eh? You may be worthless scum, but I am a woman of my word. I said we did not come here to make trouble with the dwarves, and I meant it. We go. But you best hope we do not meet again, scum.'</nodes>
+      <outputs name="Reporte-se aos anoes." ownerID="35" targetID="38" fromX="4865" fromY="1057" />'So this is what my word means to you and those shorties, eh? You may be worthless scum, but I am a woman of my word. I said we did not come here to make trouble with the dwarves, and I meant it. We go. But you best hope we do not meet again, scum.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="4095" positionY="2489" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -5598,7 +5598,7 @@ Within the forge you see a burning furnace, an anvil, and all the trappings you'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="36" targetID="45" fromX="4420" fromY="1997" />Os anões admiram seus modos legais: &#39;Sim, rapazes, bom em vocês. Os orcs não apenas foram feridos, mas também deram sua palavra, então era sensato ajudá-los. Mesmo que sejam cães fedorentos. 
+      <outputs name="Agradeça a eles e vá embora." ownerID="36" targetID="45" fromX="4420" fromY="1997" />Os anoes admiram seus modos legais: &#39;Sim, rapazes, bom em vocês. Os orcs não apenas foram feridos, mas também deram sua palavra, então era sensato ajudá-los. Mesmo que sejam cães fedorentos. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="3566" positionY="1723" width="350" height="725">
       <logic>
@@ -5669,7 +5669,7 @@ Your friendship does not grow, but they pay you for the job, as agreed.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="44" fromX="4022" fromY="-512" />Você mata todos os bandidos. Os anões estão satisfeitos com sua ajuda e oferecem uma pequena recompensa.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="44" fromX="4022" fromY="-512" />Você mata todos os bandidos. Os anoes estão satisfeitos com sua ajuda e oferecem uma pequena recompensa.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="44" positionX="5096" positionY="1063" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="44" targetID="22" fromX="5544" fromY="630" />
     </nodes>
@@ -5696,7 +5696,7 @@ Your friendship does not grow, but they pay you for the job, as agreed.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="[Healer or cmuch]Ofereça-lhes ajuda na cura." ownerID="47" targetID="20" group="G2" fromX="1231" fromY="1885" />
-      <outputs name="Acene com a cabeça e diga que você vai levar a mensagem para os anões. Deseje-lhes bons inimigos e lâminas afiadas a caminho de casa." ownerID="47" targetID="37" group="G2" fromX="1231" fromY="1805" />
+      <outputs name="Acene com a cabeça e diga que você vai levar a mensagem para os anoes. Deseje-lhes bons inimigos e lâminas afiadas a caminho de casa." ownerID="47" targetID="37" group="G2" fromX="1231" fromY="1805" />
       <outputs name="Insista para que eles partam dentro de um dia." ownerID="47" targetID="48" group="G1" fromX="1231" fromY="1725" />
       <outputs name="Insista para que eles partam dentro de um dia." ownerID="47" targetID="53" group="G1" fromX="1231" fromY="1645" />&#39;Ah! Claro que eles nos veem como uma ameaça, e assim deveriam, os cabeças de pedra. Estou ansioso pelo dia em que possamos nos encontrar em uma batalha honrosa. Ainda assim, não somos nenhum partido de ataque. Somos rastreadores de sangue, estamos aqui para conseguir um troféu, e conseguimos. Precisamos nos curar agora e descansar. Então nos mudamos. Dou minha palavra de honra que não incomodaremos a cidade de pedra.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="48" positionX="4006" positionY="1459" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="gob">
@@ -5757,8 +5757,8 @@ Your friendship does not grow, but they pay you for the job, as agreed.</nodes>
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="54" positionX="1564" positionY="1480" width="350" height="885">
       <outputs name="[Anão] Como eles se atrevem a acusar seus parentes de tais jogos mesquinhos? Diga claramente que é isso que você diz que é: um pedido educado para que se afastem desta terra." ownerID="54" targetID="55" group="G1" fromX="1889" fromY="988" />
-      <outputs name="Diga que os anões não são conhecidos por jogar esses jogos. Eles só querem que os orcs saiam de seu território." ownerID="54" targetID="8" group="G1" fromX="1889" fromY="908" />
-      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anões insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="54" targetID="47" fromX="1889" fromY="828" />'What, those rock heads can't deal with their own shit now? Or do they mean to disrespect us by sending you lot?'</nodes>
+      <outputs name="Diga que os anoes não são conhecidos por jogar esses jogos. Eles só querem que os orcs saiam de seu território." ownerID="54" targetID="8" group="G1" fromX="1889" fromY="908" />
+      <outputs name="[Orc] Elogie o clã por sua vitória sobre o troll. Diga que os anoes insignificantes os veem como uma ameaça, então eles mandaram você para fazer o trabalho deles." ownerID="54" targetID="47" fromX="1889" fromY="828" />'What, those rock heads can't deal with their own shit now? Or do they mean to disrespect us by sending you lot?'</nodes>
     <nodes xsi:type="NodeChallenge" ID="55" positionX="2060" positionY="1519" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-LOTS_ORCS_7P_6M_6S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -5803,7 +5803,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="58" targetID="44" fromX="2963" fromY="-342" />Você mata todos os orcs e relata. Mas os anões estão muito zangados! — Eles lhe deram sua palavra de honra, foram feridos e você os matou em nosso nome! Vocês moças não têm orgulho. É melhor você nos deixar agora.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="58" targetID="44" fromX="2963" fromY="-342" />Você mata todos os orcs e relata. Mas os anoes estão muito zangados! — Eles lhe deram sua palavra de honra, foram feridos e você os matou em nosso nome! Vocês moças não têm orgulho. É melhor você nos deixar agora.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="59" positionX="2570" positionY="-651" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="59" targetID="16" fromX="2999" fromY="-1039" />
     </nodes>
@@ -6006,7 +6006,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="21" group="G1" fromX="3742" fromY="-146" />Você arma as armadilhas e os esqueletos dos orcs queimam em cinzas. Os anões agradecem por se livrar do incômodo e deixam uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="21" group="G1" fromX="3742" fromY="-146" />Você arma as armadilhas e os esqueletos dos orcs queimam em cinzas. Os anoes agradecem por se livrar do incômodo e deixam uma recompensa.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="19" positionX="1459" positionY="123" width="460" height="429" sourceGroup="GROUP-ORC_SKELETON_6P_2M_3S" cargoPercentage="80" dropPercentage="80">
       <outputs ownerID="19" targetID="18" fromX="1889" fromY="-235" />
     </nodes>
@@ -6093,7 +6093,7 @@ Your friendship does not grow.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um fantasma preso aqui também, e ele quer se prender a você." ownerID="49" targetID="74" group="G1" fromX="2313" fromY="-1721" />
-      <outputs name="Sair." ownerID="49" targetID="77" group="G1" fromX="2313" fromY="-1801" />Esses ossos sem vida devem estar longe de seu mestre há muito tempo. Eles ouvem seus comandos como se estivessem ansiando por alguém para dar um. Eles se afastam, mas os anões estão zangados porque você não matou o flagelo.</nodes>
+      <outputs name="Sair." ownerID="49" targetID="77" group="G1" fromX="2313" fromY="-1801" />Esses ossos sem vida devem estar longe de seu mestre há muito tempo. Eles ouvem seus comandos como se estivessem ansiando por alguém para dar um. Eles se afastam, mas os anoes estão zangados porque você não matou o flagelo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="2520" positionY="-1472" width="350" height="761">
       <logic>
         <ModifierBlock>
@@ -6115,7 +6115,7 @@ Your friendship does not grow.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um fantasma preso aqui também, e ele quer se prender a você." ownerID="50" targetID="74" group="G1" fromX="2845" fromY="-1919" />
-      <outputs name="Sair." ownerID="50" targetID="77" group="G1" fromX="2845" fromY="-1999" />Esses ossos sem vida devem estar longe de seu mestre há muito tempo. Eles ouvem seus comandos como se estivessem ansiando por alguém para dar um. Eles se afastam, mas os anões estão zangados porque você não matou o flagelo. As a mark of their honour, they pay you for the job, but your friendship does not grow.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="77" group="G1" fromX="2845" fromY="-1999" />Esses ossos sem vida devem estar longe de seu mestre há muito tempo. Eles ouvem seus comandos como se estivessem ansiando por alguém para dar um. Eles se afastam, mas os anoes estão zangados porque você não matou o flagelo. As a mark of their honour, they pay you for the job, but your friendship does not grow.</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="-1088" positionY="247" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -6161,7 +6161,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="58" targetID="21" group="G1" fromX="-891" fromY="-1374" />Os anões estão perplexos com o que aquele necromante era, mas eles ouviram falar de crianças orcs do sexo masculino que usam magia sendo mortas porque se tornam más, então talvez seja verdade, afinal. Eles agradecem por se livrar do flagelo e deixam uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="58" targetID="21" group="G1" fromX="-891" fromY="-1374" />Os anoes estão perplexos com o que aquele necromante era, mas eles ouviram falar de crianças orcs do sexo masculino que usam magia sendo mortas porque se tornam más, então talvez seja verdade, afinal. Eles agradecem por se livrar do flagelo e deixam uma recompensa.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="60" positionX="-2125" positionY="-766" width="460" height="429">
       <logic>
         <ModifierBlock>
@@ -6219,7 +6219,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="64" targetID="21" group="G1" fromX="2767" fromY="-1171" />Você destrói o feitiço de ligação e os orcs não vivos desmoronam em uma pilha de ossos. Os anões agradecem por se livrar do incômodo e deixam uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="64" targetID="21" group="G1" fromX="2767" fromY="-1171" />Você destrói o feitiço de ligação e os orcs não vivos desmoronam em uma pilha de ossos. Os anoes agradecem por se livrar do incômodo e deixam uma recompensa.</nodes>
     <nodes xsi:type="NodeChallenge" ID="66" positionX="28" positionY="1449" width="500" height="689" challengeType="TypePhysical" versusGroup="GROUP-HORDE_ORC_SKELETON_7P_3M_4S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -6259,7 +6259,7 @@ Your friendship does not grow.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="68" targetID="21" group="G1" fromX="1875" fromY="1201" />Você destrói o feitiço de ligação e os orcs não vivos desmoronam em uma pilha de ossos. Os anões agradecem por se livrar do incômodo e deixam uma recompensa.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="68" targetID="21" group="G1" fromX="1875" fromY="1201" />Você destrói o feitiço de ligação e os orcs não vivos desmoronam em uma pilha de ossos. Os anoes agradecem por se livrar do incômodo e deixam uma recompensa.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="69" positionX="2533" positionY="-2727" width="480" height="503" radius="8" groupID="GROUP-ORC_SKELETON_5P_1M_2S" destroyOwner="false" linkedEventUniqueID="0">
       <outputs ownerID="69" targetID="90" fromX="2981" fromY="-3159" />
     </nodes>
@@ -6435,7 +6435,7 @@ Your friendship does not grow.</nodes>
       </logic>
       <outputs name="[Anão] Vá em frente, mas verifique se há armadilhas e pedras rúnicas escondidas. Nenhum ferreiro anão trabalha desprotegido." ownerID="2" targetID="28" fromX="894" fromY="-565" />
       <outputs name="Entre, com cuidado." ownerID="2" targetID="3" fromX="894" fromY="-645" />
-      <outputs name="Sair." ownerID="2" targetID="21" fromX="894" fromY="-725" />Entre os escombros e pedras, você encontra vários bolsões subterrâneos onde uma cidade dos anões ficava. De uma dessas entradas, você vê a luz e ouve o bater do martelo contra a bigorna. </nodes>
+      <outputs name="Sair." ownerID="2" targetID="21" fromX="894" fromY="-725" />Entre os escombros e pedras, você encontra vários bolsoes subterrâneos onde uma cidade dos anoes ficava. De uma dessas entradas, você vê a luz e ouve o bater do martelo contra a bigorna. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1668.901" positionY="-241.292175" width="350" height="1046" image="Event152">
       <outputs name="[Anão] Cumprimente o ferreiro de acordo com o costume." ownerID="3" targetID="13" fromX="1994" fromY="-732" />
       <outputs name="Fale com o anão. Pergunte a ele o que ele está fazendo aqui sozinho." ownerID="3" targetID="12" fromX="1994" fromY="-812" />
@@ -6539,8 +6539,8 @@ As the smith turns to rubble, so does everything around you, and you are forced 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Concorde com a cabeça em compreensão do antigo costume dos anões e junte-se aos seus parentes no trabalho dele." ownerID="13" targetID="17" group="G1" fromX="3675" fromY="-768" />
-      <outputs name="Concorde com a cabeça em compreensão do antigo costume dos anões e junte-se aos seus parentes no trabalho dele." ownerID="13" targetID="18" group="G1" fromX="3675" fromY="-849" />— Isso é um colírio para os olhos, sim. Bom dia para você, meu amigo, bom dia. Eu lhe ofereceria cerveja e carne de carneiro, mas sendo o ferreiro de plantão neste templo, sou obrigado a manter as fogueiras acesas e a bigorna ocupada.</nodes>
+      <outputs name="Concorde com a cabeça em compreensão do antigo costume dos anoes e junte-se aos seus parentes no trabalho dele." ownerID="13" targetID="17" group="G1" fromX="3675" fromY="-768" />
+      <outputs name="Concorde com a cabeça em compreensão do antigo costume dos anoes e junte-se aos seus parentes no trabalho dele." ownerID="13" targetID="18" group="G1" fromX="3675" fromY="-849" />— Isso é um colírio para os olhos, sim. Bom dia para você, meu amigo, bom dia. Eu lhe ofereceria cerveja e carne de carneiro, mas sendo o ferreiro de plantão neste templo, sou obrigado a manter as fogueiras acesas e a bigorna ocupada.</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="3425.976" positionY="1657.74207" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -6731,7 +6731,7 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
       <outputs name="[Anão] Peça para eles se acalmarem. Certamente você pode compartilhar esses despojos, como os parentes devem." ownerID="3" targetID="6" fromX="565" fromY="31" />
       <outputs name="[Luz] Invoque a luz e afirme que não há necessidade de derramar sangue entre pessoas que pensam da mesma forma." ownerID="3" targetID="9" fromX="565" fromY="-49" />
       <outputs name="[Intelecto e harmonia] Fale com o bom senso deles. Diga que este lugar é vasto e há o suficiente para todos vocês lucrar sem a necessidade de violência." ownerID="3" targetID="10" fromX="565" fromY="-129" />
-      <outputs name="Sair." ownerID="3" targetID="59" fromX="565" fromY="-209" />&#39;Oi, sim! Vença, este é o nosso achado!&#39; Um par de guerreiros anões corpulentos estão em seu caminho, armas em punho.</nodes>
+      <outputs name="Sair." ownerID="3" targetID="59" fromX="565" fromY="-209" />&#39;Oi, sim! Vença, este é o nosso achado!&#39; Um par de guerreiros anoes corpulentos estão em seu caminho, armas em punho.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1870.0813" positionY="2578.73047" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-DWARVES_7P_6M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="11" fromX="2311" fromY="2083" />
       <outputs name="Lose" ownerID="5" targetID="14" fromX="2311" fromY="2003" />
@@ -6748,7 +6748,7 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Vá fazer o seu lado, rápido!" ownerID="6" targetID="8" fromX="1030" fromY="557" />&#39;Sim, irmãos, sim, não há necessidade de briga&#39;. Diga-lhe o que, você vai limpar esse fim, nós fazemos este fim, e quem salvar mais é o vencedor, hein? Vai!&#39; Os anões correm para o lado deles e começam a vasculhar e cavar.</nodes>
+      <outputs name="Vá fazer o seu lado, rápido!" ownerID="6" targetID="8" fromX="1030" fromY="557" />&#39;Sim, irmãos, sim, não há necessidade de briga&#39;. Diga-lhe o que, você vai limpar esse fim, nós fazemos este fim, e quem salvar mais é o vencedor, hein? Vai!&#39; Os anoes correm para o lado deles e começam a vasculhar e cavar.</nodes>
     <nodes xsi:type="NodeChallenge" ID="8" positionX="1166.448" positionY="1374.88025" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="8" targetID="16" fromX="1607" fromY="879" />
       <outputs name="Lose" ownerID="8" targetID="17" fromX="1607" fromY="799" />
@@ -6799,7 +6799,7 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="16" targetID="42" fromX="2150" fromY="1231" />&#39;Ah, seus malditos são bons! Bem feito. Aqui, pegue este pedaço de metal que encontramos. Metal e pedra estejam com vocês, rapazes! Os anões recolhem sua pilha menor de objetos e partem, cantando canções sujas e torcendo por um bom dia de trabalho.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="16" targetID="42" fromX="2150" fromY="1231" />&#39;Ah, seus malditos são bons! Bem feito. Aqui, pegue este pedaço de metal que encontramos. Metal e pedra estejam com vocês, rapazes! Os anoes recolhem sua pilha menor de objetos e partem, cantando cançoes sujas e torcendo por um bom dia de trabalho.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2889.2854" positionY="1537.525" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -6808,9 +6808,9 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="17" targetID="41" fromX="3215" fromY="1046" />&#39;Há! Nós vencemos você de forma justa, mas foi uma boa competição. Metal e pedra fortalecem vocês, rapazes! Os anões recolhem sua pilha consideravelmente maior de detritos e partem, cantando canções sujas e torcendo por um bom dia de trabalho.</nodes>
+      <outputs name="Sair." ownerID="17" targetID="41" fromX="3215" fromY="1046" />&#39;Há! Nós vencemos você de forma justa, mas foi uma boa competição. Metal e pedra fortalecem vocês, rapazes! Os anoes recolhem sua pilha consideravelmente maior de detritos e partem, cantando cançoes sujas e torcendo por um bom dia de trabalho.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2280.24438" positionY="1041.784" width="350" height="725">
-      <outputs name="Sair." ownerID="18" targetID="41" fromX="2605" fromY="550" />&#39;Que tipo de bebês lascados vocês são? Desistir? Que vergonha, que vergonha, moças. Os anões juntam sua pilha consideravelmente maior de material recuperado e vão embora, balançando a cabeça. </nodes>
+      <outputs name="Sair." ownerID="18" targetID="41" fromX="2605" fromY="550" />&#39;Que tipo de bebês lascados vocês são? Desistir? Que vergonha, que vergonha, moças. Os anoes juntam sua pilha consideravelmente maior de material recuperado e vão embora, balançando a cabeça. </nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="2025.73425" positionY="-300.504578" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -6823,7 +6823,7 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
         </ModifierBlock>
       </logic>
       <outputs name="Excelente. Procure sua parte e vá embora." ownerID="23" targetID="44" group="G1" fromX="2351" fromY="-791" />
-      <outputs name="Excelente. Procure sua parte e vá embora." ownerID="23" targetID="46" group="G1" fromX="2351" fromY="-871" />&#39;Bah, você tem uma daquelas línguas de prata, você tem! Nós fazemos a nossa parte e você faz a sua. Quem sabe quem terá a melhor escolha, mas parece justo. Metal e pedra estejam com vocês, rapazes! Os anões se afastam para salvar sua parte.</nodes>
+      <outputs name="Excelente. Procure sua parte e vá embora." ownerID="23" targetID="46" group="G1" fromX="2351" fromY="-871" />&#39;Bah, você tem uma daquelas línguas de prata, você tem! Nós fazemos a nossa parte e você faz a sua. Quem sabe quem terá a melhor escolha, mas parece justo. Metal e pedra estejam com vocês, rapazes! Os anoes se afastam para salvar sua parte.</nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="2641.93018" positionY="-1150.29333" width="350" height="805">
       <outputs name="Ataque!" ownerID="25" targetID="5" fromX="2967" fromY="-1641" />
       <outputs name="Sair." ownerID="25" targetID="56" fromX="2967" fromY="-1721" />'You're gettin' on my nervous side. Ya better leave, now.'</nodes>
@@ -6842,9 +6842,9 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
       <outputs name="[Luz] Invoque a luz e afirme que não há necessidade de derramar sangue entre pessoas que pensam da mesma forma." ownerID="28" targetID="9" fromX="590" fromY="-1040" />
       <outputs name="[Intelecto e harmonia] Fale com o bom senso deles. Diga que este lugar é vasto e há o suficiente para todos vocês lucrar sem a necessidade de violência." ownerID="28" targetID="10" fromX="590" fromY="-1120" />
       <outputs name="Tente convencê-los a dividir os despojos uniformemente." ownerID="28" targetID="43" fromX="590" fromY="-1200" />
-      <outputs name="Espere até que os anões saiam e pegue o que sobrou." ownerID="28" targetID="31" group="G1" fromX="590" fromY="-1281" />
-      <outputs name="Espere até que os anões saiam e pegue o que sobrou." ownerID="28" targetID="32" group="G1" fromX="590" fromY="-1361" />
-      <outputs name="Esgueirar-se pelos anões e saquear pelas costas deles." ownerID="28" targetID="29" fromX="590" fromY="-1441" />
+      <outputs name="Espere até que os anoes saiam e pegue o que sobrou." ownerID="28" targetID="31" group="G1" fromX="590" fromY="-1281" />
+      <outputs name="Espere até que os anoes saiam e pegue o que sobrou." ownerID="28" targetID="32" group="G1" fromX="590" fromY="-1361" />
+      <outputs name="Esgueirar-se pelos anoes e saquear pelas costas deles." ownerID="28" targetID="29" fromX="590" fromY="-1441" />
       <outputs name="Emboscá-los. Você tem a vantagem." ownerID="28" targetID="47" fromX="590" fromY="-1521" />A couple of burly dwarven fighters stand in the ruins gathering loot and looking about with angry grimaces.</nodes>
     <nodes xsi:type="NodeChallenge" ID="29" positionX="1341" positionY="-1202" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_5P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="29" targetID="48" fromX="1782" fromY="-1697" />
@@ -6870,7 +6870,7 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="31" targetID="56" fromX="1189" fromY="-1690" />Você espera até que os anões partam, mas eles não deixam muito para trás. Seu batedor, no entanto, melhorou sua habilidade.</nodes>
+      <outputs name="Sair." ownerID="31" targetID="56" fromX="1189" fromY="-1690" />Você espera até que os anoes partam, mas eles não deixam muito para trás. Seu batedor, no entanto, melhorou sua habilidade.</nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="815.962952" positionY="-1950.5116" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -7839,7 +7839,7 @@ The city is dead.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2666" positionY="336" width="350" height="725">
       <outputs name="Como assim?" ownerID="7" targetID="8" fromX="2991" fromY="-155" />'The heart was kept a secret from all. And this is where our duty failed. All else that happened, happened because of our folly.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="3104" positionY="361" width="350" height="725">
-      <outputs name="Então eles acham que foram seus deuses que traíram o coração?" ownerID="8" targetID="9" fromX="3429" fromY="-130" />&#39;Quando seus deuses vieram e cresceram em força, os parentes élficos decidiram deixá-los ser os guardiões da árvore inteiramente, e alguns de nossos jovens acharam que deveríamos fazê-lo também. Pedras tolas e ásperas eram! Quando a árvore queimou, eles foram e disseram a seus deuses que havia esperança, que o núcleo estava bem, então a árvore renascerá não importa o que eles façam lá em cima.&#39;</nodes>
+      <outputs name="Então eles acham que foram seus deuses que traíram o coração?" ownerID="8" targetID="9" fromX="3429" fromY="-130" />&#39;Quando seus deuses vieram e cresceram em força, os parentes élficos decidiram deixá-los ser os guardioes da árvore inteiramente, e alguns de nossos jovens acharam que deveríamos fazê-lo também. Pedras tolas e ásperas eram! Quando a árvore queimou, eles foram e disseram a seus deuses que havia esperança, que o núcleo estava bem, então a árvore renascerá não importa o que eles façam lá em cima.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3548" positionY="450" width="350" height="885">
       <outputs name="E o grande mestre detido pelos trolls na prisão? O Alquimista disse que conhecia um." ownerID="9" targetID="10" fromX="3873" fromY="-41" />
       <outputs name="Silenciado?" ownerID="9" targetID="21" fromX="3873" fromY="-121" />
@@ -7923,7 +7923,7 @@ We need whatever gives him life -- the substitute. We tried asking him, we tried
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="Explique o que os anões lhe disseram. Peça a ajuda deles para parar o Shattering." ownerID="2" targetID="3" fromX="726" fromY="-498" />
+      <outputs name="Explique o que os anoes lhe disseram. Peça a ajuda deles para parar o Shattering." ownerID="2" targetID="3" fromX="726" fromY="-498" />
       <outputs name="Ataque!" ownerID="2" targetID="4" fromX="726" fromY="-578" />You find the dziad mroz that the dwarves sent you to seek out. He stands watching you silently. But a young girl, made of ice, approaches you:
 
 'You are searching for grandfather? Why?'</nodes>
@@ -7932,7 +7932,7 @@ We need whatever gives him life -- the substitute. We tried asking him, we tried
       <outputs name="[Harmonia ou Intelecto] Invoque seu domínio para se inspirar. Todos os demônios são tecidos da escuridão. Quando essa luz se soltar completamente, nem mesmo essas planícies de gelo permanecerão intocadas. Diga ao dziad mroz que suas netas de gelo certamente derreterão sob o olhar ardente dos portadores da luz." ownerID="3" targetID="22" fromX="1129" fromY="-185" />
       <outputs name="[Usuário de magia ou Magia] Demônios, especialmente os antigos, são governados por poderes místicos e leis demoníacas. Desafie o demônio para um jogo espiritual." ownerID="3" targetID="23" fromX="1129" fromY="-265" />
       <outputs name="Todos os demônios são tecidos da escuridão. Quando essa luz se soltar completamente, nem mesmo essas planícies de gelo permanecerão intocadas. Diga ao dziad mroz que suas netas de gelo certamente derreterão sob o olhar ardente dos portadores da luz." ownerID="3" targetID="25" fromX="1129" fromY="-345" />
-      <outputs name="Ataque!" ownerID="3" targetID="4" fromX="1129" fromY="-425" />O dziad mroz permanece imóvel, e a moça responde depois de uma pausa: &#39;Sim. Assim disseram, muitas vezes. Nós não compartilhamos nossos segredos - algo que os anões deveriam ter aprendido, não? Vá embora, antes que minhas irmãs decidam brincar com você.</nodes>
+      <outputs name="Ataque!" ownerID="3" targetID="4" fromX="1129" fromY="-425" />O dziad mroz permanece imóvel, e a moça responde depois de uma pausa: &#39;Sim. Assim disseram, muitas vezes. Nós não compartilhamos nossos segredos - algo que os anoes deveriam ter aprendido, não? Vá embora, antes que minhas irmãs decidam brincar com você.</nodes>
     <nodes xsi:type="NodeChallenge" ID="4" positionX="188" positionY="-986" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-DZIAD_MROZ_ONE_7P_7M_7S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="4" targetID="5" fromX="629" fromY="-1481" />
       <outputs name="Lose" ownerID="4" targetID="21" fromX="629" fromY="-1561" />
@@ -7973,7 +7973,7 @@ We need whatever gives him life -- the substitute. We tried asking him, we tried
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="13" targetID="27" fromX="5516" fromY="-1309" />O gelo atinge tão fundo em sua alma que nunca o deixa ir. Você acorda como um sniezynka, seu coração congelado, sua mente fria. Somente por meio de sua fé você retém seu senso de identidade, apesar do chamado assustador e sempre presente do avô de inverno. Você segura o floco de neve congelado e agora pode levá-lo para a caverna vermelha para os anões.</nodes>
+      <outputs name="Sair." ownerID="13" targetID="27" fromX="5516" fromY="-1309" />O gelo atinge tão fundo em sua alma que nunca o deixa ir. Você acorda como um sniezynka, seu coração congelado, sua mente fria. Somente por meio de sua fé você retém seu senso de identidade, apesar do chamado assustador e sempre presente do avô de inverno. Você segura o floco de neve congelado e agora pode levá-lo para a caverna vermelha para os anoes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="5623" positionY="-876" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -7985,7 +7985,7 @@ We need whatever gives him life -- the substitute. We tried asking him, we tried
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="14" targetID="27" fromX="5948" fromY="-1367" />O gelo atinge tão fundo em sua alma que nunca o deixa ir. Você acorda como um sniezynka, seu coração congelado, sua mente fria. Somente por meio de sua fé você retém seu senso de identidade, apesar do chamado assustador e sempre presente do avô de inverno. Você segura o floco de neve congelado e agora pode levá-lo para a caverna vermelha para os anões.</nodes>
+      <outputs name="Sair." ownerID="14" targetID="27" fromX="5948" fromY="-1367" />O gelo atinge tão fundo em sua alma que nunca o deixa ir. Você acorda como um sniezynka, seu coração congelado, sua mente fria. Somente por meio de sua fé você retém seu senso de identidade, apesar do chamado assustador e sempre presente do avô de inverno. Você segura o floco de neve congelado e agora pode levá-lo para a caverna vermelha para os anoes.</nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="1320" positionY="1265" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_7M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -8355,7 +8355,7 @@ We need whatever gives him life -- the substitute. We tried asking him, we tried
       <outputs name="[Pirata] Tente negociar com os piratas." ownerID="2" targetID="55" group="G1" fromX="-862" fromY="-106" />
       <outputs name="Tente negociar com os piratas e convencê-los de que seus esforços são inúteis." ownerID="2" targetID="9" group="G1" fromX="-862" fromY="-186" />
       <outputs name="Pergunte o que os piratas estão fazendo em terra." ownerID="2" targetID="56" fromX="-862" fromY="-266" />
-      <outputs name="Revise suas opções novamente." ownerID="2" targetID="58" fromX="-862" fromY="-346" />Você vê a fortaleza dos anões cercada por tropas piratas. Eles estão acampados do lado de fora e parecem exaustos, famintos e feridos. A cidade terrestre está fechada, mas não parece danificada. Ainda assim, você não poderá visitar agora.</nodes>
+      <outputs name="Revise suas opçoes novamente." ownerID="2" targetID="58" fromX="-862" fromY="-346" />Você vê a fortaleza dos anoes cercada por tropas piratas. Eles estão acampados do lado de fora e parecem exaustos, famintos e feridos. A cidade terrestre está fechada, mas não parece danificada. Ainda assim, você não poderá visitar agora.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-556" positionY="-741" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="4" positionX="844" positionY="239" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-PIRATES_SEA_THING_9P_10M_10S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="4" targetID="38" fromX="1285" fromY="-256" />
@@ -8586,6 +8586,6 @@ We need whatever gives him life -- the substitute. We tried asking him, we tried
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="61" targetID="47" fromX="3069" fromY="-3435" />— Bem, que se dane! Seja você, pois as águas do mar são salgadas! Digo-te uma coisa, tive uma promoção depois desse negócio, por isso estou em dívida contigo. Digo ao meu chefe que isso é estúpido e devemos ir. Que o mar seja gentil com você. Os piratas partem como prometido. Os anões estão agradecidos, embora digam que poderiam ter durado mais dez anos dentro de suas paredes antes que precisassem de qualquer contato externo.</nodes>
+      <outputs name="Sair." ownerID="61" targetID="47" fromX="3069" fromY="-3435" />— Bem, que se dane! Seja você, pois as águas do mar são salgadas! Digo-te uma coisa, tive uma promoção depois desse negócio, por isso estou em dívida contigo. Digo ao meu chefe que isso é estúpido e devemos ir. Que o mar seja gentil com você. Os piratas partem como prometido. Os anoes estão agradecidos, embora digam que poderiam ter durado mais dez anos dentro de suas paredes antes que precisassem de qualquer contato externo.</nodes>
   </Adventure>
 </MODULE>

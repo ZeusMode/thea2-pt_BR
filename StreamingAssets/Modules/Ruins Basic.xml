@@ -3685,7 +3685,7 @@ The duende is clearly ancient, perhaps from the days of the darkness, judging by
       </logic>
       <outputs name="[Anão] Vá em frente, mas verifique se há armadilhas e pedras rúnicas escondidas. Nenhum ferreiro anão trabalha desprotegido." ownerID="2" targetID="28" fromX="894" fromY="-565" />
       <outputs name="Entre, com cuidado." ownerID="2" targetID="3" fromX="894" fromY="-645" />
-      <outputs name="Sair." ownerID="2" targetID="21" fromX="894" fromY="-725" />Entre os escombros e pedras, você encontra vários bolsões subterrâneos onde uma cidade dos anões ficava. De uma dessas entradas, você vê a luz e ouve o bater do martelo contra a bigorna. </nodes>
+      <outputs name="Sair." ownerID="2" targetID="21" fromX="894" fromY="-725" />Entre os escombros e pedras, você encontra vários bolsoes subterrâneos onde uma cidade dos anoes ficava. De uma dessas entradas, você vê a luz e ouve o bater do martelo contra a bigorna. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1700" positionY="-210" width="350" height="1046" image="Event152">
       <outputs name="[Anão] Cumprimente o ferreiro de acordo com o costume." ownerID="3" targetID="13" fromX="2026" fromY="-701" />
       <outputs name="Fale com o anão. Pergunte a ele o que ele está fazendo aqui sozinho." ownerID="3" targetID="12" fromX="2026" fromY="-781" />
@@ -3789,8 +3789,8 @@ As the smith turns to rubble, so does everything around you, and you are forced 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Concorde com a cabeça em compreensão do antigo costume dos anões e junte-se aos seus parentes no trabalho dele." ownerID="13" targetID="17" group="G1" fromX="3675" fromY="-768" />
-      <outputs name="Concorde com a cabeça em compreensão do antigo costume dos anões e junte-se aos seus parentes no trabalho dele." ownerID="13" targetID="18" group="G1" fromX="3675" fromY="-849" />— Isso é um colírio para os olhos, sim. Bom dia para você, meu amigo, bom dia. Eu lhe ofereceria cerveja e carne de carneiro, mas sendo o ferreiro de plantão neste templo, sou obrigado a manter as fogueiras acesas e a bigorna ocupada.</nodes>
+      <outputs name="Concorde com a cabeça em compreensão do antigo costume dos anoes e junte-se aos seus parentes no trabalho dele." ownerID="13" targetID="17" group="G1" fromX="3675" fromY="-768" />
+      <outputs name="Concorde com a cabeça em compreensão do antigo costume dos anoes e junte-se aos seus parentes no trabalho dele." ownerID="13" targetID="18" group="G1" fromX="3675" fromY="-849" />— Isso é um colírio para os olhos, sim. Bom dia para você, meu amigo, bom dia. Eu lhe ofereceria cerveja e carne de carneiro, mas sendo o ferreiro de plantão neste templo, sou obrigado a manter as fogueiras acesas e a bigorna ocupada.</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="3425.976" positionY="1657.74207" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -3993,7 +3993,7 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
       <outputs name="[Anão] Peça para eles se acalmarem. Certamente você pode compartilhar esses despojos, como os parentes devem." ownerID="3" targetID="6" fromX="565" fromY="31" />
       <outputs name="[Luz] Invoque a luz e afirme que não há necessidade de derramar sangue entre pessoas que pensam da mesma forma." ownerID="3" targetID="9" fromX="565" fromY="-49" />
       <outputs name="[Intelecto e harmonia] Fale com o bom senso deles. Diga que este lugar é vasto e há o suficiente para todos vocês lucrar sem a necessidade de violência." ownerID="3" targetID="10" fromX="565" fromY="-129" />
-      <outputs name="Sair." ownerID="3" targetID="59" fromX="565" fromY="-209" />&#39;Oi, sim! Vença, este é o nosso achado!&#39; Um par de guerreiros anões corpulentos estão em seu caminho, armas em punho.</nodes>
+      <outputs name="Sair." ownerID="3" targetID="59" fromX="565" fromY="-209" />&#39;Oi, sim! Vença, este é o nosso achado!&#39; Um par de guerreiros anoes corpulentos estão em seu caminho, armas em punho.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1870.0813" positionY="2578.73047" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-DWARVES_7P_6M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="11" fromX="2311" fromY="2083" />
       <outputs name="Lose" ownerID="5" targetID="14" fromX="2311" fromY="2003" />
@@ -4010,7 +4010,7 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Vá fazer o seu lado, rápido!" ownerID="6" targetID="8" fromX="1030" fromY="557" />&#39;Sim, irmãos, sim, não há necessidade de briga&#39;. Diga-lhe o que, você vai limpar esse fim, nós fazemos este fim, e quem salvar mais é o vencedor, hein? Vai!&#39; Os anões correm para o lado deles e começam a vasculhar e cavar.</nodes>
+      <outputs name="Vá fazer o seu lado, rápido!" ownerID="6" targetID="8" fromX="1030" fromY="557" />&#39;Sim, irmãos, sim, não há necessidade de briga&#39;. Diga-lhe o que, você vai limpar esse fim, nós fazemos este fim, e quem salvar mais é o vencedor, hein? Vai!&#39; Os anoes correm para o lado deles e começam a vasculhar e cavar.</nodes>
     <nodes xsi:type="NodeChallenge" ID="8" positionX="1166.448" positionY="1374.88025" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="8" targetID="16" fromX="1607" fromY="879" />
       <outputs name="Lose" ownerID="8" targetID="17" fromX="1607" fromY="799" />
@@ -4074,7 +4074,7 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="16" targetID="42" fromX="2150" fromY="1231" />&#39;Ah, seus malditos são bons! Bem feito. Aqui, pegue este pedaço de metal que encontramos. Metal e pedra estejam com vocês, rapazes! Os anões recolhem sua pilha menor de objetos e partem, cantando canções sujas e torcendo por um bom dia de trabalho.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="16" targetID="42" fromX="2150" fromY="1231" />&#39;Ah, seus malditos são bons! Bem feito. Aqui, pegue este pedaço de metal que encontramos. Metal e pedra estejam com vocês, rapazes! Os anoes recolhem sua pilha menor de objetos e partem, cantando cançoes sujas e torcendo por um bom dia de trabalho.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2889.2854" positionY="1537.525" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -4086,9 +4086,9 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="17" targetID="41" fromX="3215" fromY="1046" />&#39;Ah! Nós vencemos você de forma justa, mas foi uma boa competição. Metal e pedra fortalecem vocês, rapazes! Os anões recolhem sua pilha consideravelmente maior de detritos e partem, cantando canções sujas e torcendo por um bom dia de trabalho.</nodes>
+      <outputs name="Sair." ownerID="17" targetID="41" fromX="3215" fromY="1046" />&#39;Ah! Nós vencemos você de forma justa, mas foi uma boa competição. Metal e pedra fortalecem vocês, rapazes! Os anoes recolhem sua pilha consideravelmente maior de detritos e partem, cantando cançoes sujas e torcendo por um bom dia de trabalho.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2280.24438" positionY="1041.784" width="350" height="725">
-      <outputs name="Sair." ownerID="18" targetID="41" fromX="2605" fromY="550" />&#39;Que tipo de bebês lascados vocês são? Desistir? Que vergonha, que vergonha, moças. Os anões juntam sua pilha consideravelmente maior de material recuperado e vão embora, balançando a cabeça. </nodes>
+      <outputs name="Sair." ownerID="18" targetID="41" fromX="2605" fromY="550" />&#39;Que tipo de bebês lascados vocês são? Desistir? Que vergonha, que vergonha, moças. Os anoes juntam sua pilha consideravelmente maior de material recuperado e vão embora, balançando a cabeça. </nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="2025.73425" positionY="-300.504578" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -4101,7 +4101,7 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
         </ModifierBlock>
       </logic>
       <outputs name="Excelente. Procure sua parte e vá embora." ownerID="23" targetID="44" group="G1" fromX="2351" fromY="-791" />
-      <outputs name="Excelente. Procure sua parte e vá embora." ownerID="23" targetID="46" group="G1" fromX="2351" fromY="-871" />&#39;Bah, você tem uma daquelas línguas de prata, você tem! Nós fazemos a nossa parte e você faz a sua. Quem sabe quem terá a melhor escolha, mas parece justo. Metal e pedra estejam com vocês, rapazes! Os anões se afastam para salvar sua parte.</nodes>
+      <outputs name="Excelente. Procure sua parte e vá embora." ownerID="23" targetID="46" group="G1" fromX="2351" fromY="-871" />&#39;Bah, você tem uma daquelas línguas de prata, você tem! Nós fazemos a nossa parte e você faz a sua. Quem sabe quem terá a melhor escolha, mas parece justo. Metal e pedra estejam com vocês, rapazes! Os anoes se afastam para salvar sua parte.</nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="2641.93018" positionY="-1150.29333" width="350" height="805">
       <outputs name="Ataque!" ownerID="25" targetID="5" fromX="2967" fromY="-1641" />
       <outputs name="Sair." ownerID="25" targetID="56" fromX="2967" fromY="-1721" />'You're gettin' on my nervous side. Ya better leave, now.'</nodes>
@@ -4120,9 +4120,9 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
       <outputs name="[Luz] Invoque a luz e afirme que não há necessidade de derramar sangue entre pessoas que pensam da mesma forma." ownerID="28" targetID="9" fromX="590" fromY="-1040" />
       <outputs name="[Intelecto e harmonia] Fale com o bom senso deles. Diga que este lugar é vasto e há o suficiente para todos vocês lucrar sem a necessidade de violência." ownerID="28" targetID="10" fromX="590" fromY="-1120" />
       <outputs name="Tente convencê-los a dividir os despojos uniformemente." ownerID="28" targetID="43" fromX="590" fromY="-1200" />
-      <outputs name="Espere até que os anões saiam e pegue o que sobrou." ownerID="28" targetID="31" group="G1" fromX="590" fromY="-1281" />
-      <outputs name="Espere até que os anões saiam e pegue o que sobrou." ownerID="28" targetID="32" group="G1" fromX="590" fromY="-1361" />
-      <outputs name="Esgueirar-se pelos anões e saquear pelas costas deles." ownerID="28" targetID="29" fromX="590" fromY="-1441" />
+      <outputs name="Espere até que os anoes saiam e pegue o que sobrou." ownerID="28" targetID="31" group="G1" fromX="590" fromY="-1281" />
+      <outputs name="Espere até que os anoes saiam e pegue o que sobrou." ownerID="28" targetID="32" group="G1" fromX="590" fromY="-1361" />
+      <outputs name="Esgueirar-se pelos anoes e saquear pelas costas deles." ownerID="28" targetID="29" fromX="590" fromY="-1441" />
       <outputs name="Emboscá-los. Você tem a vantagem." ownerID="28" targetID="47" fromX="590" fromY="-1521" />A couple of burly dwarven fighters stand in the ruins gathering loot and looking about with angry grimaces.</nodes>
     <nodes xsi:type="NodeChallenge" ID="29" positionX="1341" positionY="-1202" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_5P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="29" targetID="48" fromX="1782" fromY="-1697" />
@@ -4148,7 +4148,7 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="31" targetID="56" fromX="1189" fromY="-1690" />Você espera até que os anões partam, mas eles não deixam muito para trás. Seu batedor, no entanto, melhorou sua habilidade.</nodes>
+      <outputs name="Sair." ownerID="31" targetID="56" fromX="1189" fromY="-1690" />Você espera até que os anoes partam, mas eles não deixam muito para trás. Seu batedor, no entanto, melhorou sua habilidade.</nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="815.962952" positionY="-1950.5116" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -4291,12 +4291,12 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
       </logic>
       <outputs name="Realize um ritual para tentar enfraquecer esses demônios sem vida." ownerID="4" targetID="5" fromX="1262" fromY="-347" />
       <outputs name="[Anão] Ajude seus irmãos, rápido!" ownerID="4" targetID="6" group="G3" fromX="1262" fromY="-428" />
-      <outputs name="Ajude os anões!" ownerID="4" targetID="60" group="G3" fromX="1262" fromY="-508" />
+      <outputs name="Ajude os anoes!" ownerID="4" targetID="60" group="G3" fromX="1262" fromY="-508" />
       <outputs name="[Natureza ou intelecto] Fique de lado e deixe-os lutar suas próprias batalhas." ownerID="4" targetID="9" group="G1" fromX="1262" fromY="-588" />
       <outputs name="[Natureza ou intelecto] Fique de lado e deixe-os lutar suas próprias batalhas." ownerID="4" targetID="61" group="G1" fromX="1262" fromY="-668" />
       <outputs name="Espere para ver quem ganha, então se livre deles." ownerID="4" targetID="62" group="G2" fromX="1262" fromY="-748" />
       <outputs name="Espere para ver quem ganha, então se livre deles." ownerID="4" targetID="63" group="G2" fromX="1262" fromY="-829" />
-      <outputs name="[Unliving] Ajude seus parentes!" ownerID="4" targetID="68" fromX="1262" fromY="-909" />Conforme você se aproxima, você percebe que o fogo vem de várias tochas seguradas por um pequeno grupo de anões fortemente armados lutando contra um bando de mortos-vivos. Os anões permanecem firmes, usando o fogo para ajudá-los, mas os mortos-vivos estão começando a enxameá-los. </nodes>
+      <outputs name="[Unliving] Ajude seus parentes!" ownerID="4" targetID="68" fromX="1262" fromY="-909" />Conforme você se aproxima, você percebe que o fogo vem de várias tochas seguradas por um pequeno grupo de anoes fortemente armados lutando contra um bando de mortos-vivos. Os anoes permanecem firmes, usando o fogo para ajudá-los, mas os mortos-vivos estão começando a enxameá-los. </nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1409.75244" positionY="705.6044" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_3S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -4361,7 +4361,7 @@ In the centre of the once-great place, you see the skeletal remains of a dragon 
       <outputs name="Sair." ownerID="9" targetID="86" fromX="1840" fromY="-1233" />
       <outputs name="[Unliving] Tente argumentar com seus parentes." ownerID="9" targetID="70" fromX="1840" fromY="-1313" />It is not your place to interfere in the conflict of others. You feel your domain strengthened by this resolve.
 
-Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Os anões estão sobrecarregados pelos mortos-vivos, e agora você pode enfrentar a ameaça restante que está correndo em seu caminho.
+Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Os anoes estão sobrecarregados pelos mortos-vivos, e agora você pode enfrentar a ameaça restante que está correndo em seu caminho.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="762.596741" positionY="-3871.46387" width="350" height="805">
       <logic>
@@ -4375,7 +4375,7 @@ Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Os an
         </FilterBlock>
       </logic>
       <outputs name="Cuide de suas feridas." ownerID="12" targetID="24" fromX="1088" fromY="-4362" />
-      <outputs name="Enquanto os anões estão desprevenidos, ataque-os!" ownerID="12" targetID="64" fromX="1088" fromY="-4442" />Os anões param e olham para seu médico: &#39;Então, primeiro você ficou lá nos observando sangrar, e agora você quer ajudar. Carnes... Tudo bem, socorro, não precisamos da sua ajuda insignificante para lutar.</nodes>
+      <outputs name="Enquanto os anoes estão desprevenidos, ataque-os!" ownerID="12" targetID="64" fromX="1088" fromY="-4442" />Os anoes param e olham para seu médico: &#39;Então, primeiro você ficou lá nos observando sangrar, e agora você quer ajudar. Carnes... Tudo bem, socorro, não precisamos da sua ajuda insignificante para lutar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="1199.746" positionY="-4396.808" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -4525,12 +4525,12 @@ Tell ya what, if you help out, we'll give you a bit extra.'</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Ataque os anões." ownerID="61" targetID="64" fromX="2324" fromY="-1207" />
+      <outputs name="Ataque os anoes." ownerID="61" targetID="64" fromX="2324" fromY="-1207" />
       <outputs name="Sair." ownerID="61" targetID="86" fromX="2324" fromY="-1287" />
       <outputs name="Tente argumentar com eles." ownerID="61" targetID="40" fromX="2324" fromY="-1367" />
       <outputs name="[Anão] Parabenize seus irmãos por uma luta bem travada." ownerID="61" targetID="13" fromX="2324" fromY="-1447" />It is not your place to interfere in the conflict of others. You feel your domain strengthened by this resolve.
 
-Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Os anões estão sobrecarregados pelos mortos-vivos, e agora você pode enfrentar a ameaça restante que está correndo em seu caminho.
+Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Os anoes estão sobrecarregados pelos mortos-vivos, e agora você pode enfrentar a ameaça restante que está correndo em seu caminho.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="62" positionX="646.1492" positionY="-1432.08276" width="350" height="885">
       <logic>
@@ -4547,7 +4547,7 @@ Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Os an
       </logic>
       <outputs name="Mate os mortos-vivos." ownerID="62" targetID="29" fromX="971" fromY="-1923" />
       <outputs name="Sair." ownerID="62" targetID="86" fromX="971" fromY="-2003" />
-      <outputs name="[Unliving] Tente argumentar com seus parentes." ownerID="62" targetID="70" fromX="971" fromY="-2083" />Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Os anões estão sobrecarregados pelos mortos-vivos, e agora você pode enfrentar a ameaça restante que está correndo em seu caminho.</nodes>
+      <outputs name="[Unliving] Tente argumentar com seus parentes." ownerID="62" targetID="70" fromX="971" fromY="-2083" />Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Os anoes estão sobrecarregados pelos mortos-vivos, e agora você pode enfrentar a ameaça restante que está correndo em seu caminho.</nodes>
     <nodes xsi:type="NodeAdventure" ID="63" positionX="1543.29944" positionY="-1606.12329" width="350" height="1046">
       <logic>
         <ModifierBlock>
@@ -4556,11 +4556,11 @@ Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Os an
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Ataque os anões." ownerID="63" targetID="64" fromX="1869" fromY="-2097" />
+      <outputs name="Ataque os anoes." ownerID="63" targetID="64" fromX="1869" fromY="-2097" />
       <outputs name="Sair." ownerID="63" targetID="86" fromX="1869" fromY="-2177" />
       <outputs name="Tente argumentar com eles." ownerID="63" targetID="40" fromX="1869" fromY="-2257" />
       <outputs name="Ofereça ajuda médica e diga que não seria honroso interferir." ownerID="63" targetID="12" fromX="1869" fromY="-2337" />
-      <outputs name="[Anão] Parabenize seus irmãos por uma luta bem travada." ownerID="63" targetID="13" fromX="1869" fromY="-2418" />Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Os anões estão sobrecarregados pelos mortos-vivos, e agora você pode enfrentar a ameaça restante que está correndo em seu caminho.</nodes>
+      <outputs name="[Anão] Parabenize seus irmãos por uma luta bem travada." ownerID="63" targetID="13" fromX="1869" fromY="-2418" />Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Os anoes estão sobrecarregados pelos mortos-vivos, e agora você pode enfrentar a ameaça restante que está correndo em seu caminho.</nodes>
     <nodes xsi:type="NodeChallenge" ID="64" positionX="2578.91333" positionY="-2502.62646" width="500" height="689" challengeType="TypePhysical" versusGroup="GROUP-DWARVES_6P_5M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="64" targetID="65" fromX="3020" fromY="-2960" />
       <outputs name="Lose" ownerID="64" targetID="58" fromX="3020" fromY="-3041" />
@@ -7571,7 +7571,7 @@ But when you rush back to the encampment, it is gone as if it were never there. 
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="[Anões] Escalar paredes não é problema. Desça." ownerID="2" targetID="3" fromX="591" fromY="-627" />
+      <outputs name="[Anoes] Escalar paredes não é problema. Desça." ownerID="2" targetID="3" fromX="591" fromY="-627" />
       <outputs name="Ou você é bem versado em escalada, ou você tem asas. Desça." ownerID="2" targetID="4" fromX="591" fromY="-707" />
       <outputs name="[Ferramentas] Use suas ferramentas de artesanato para descer." ownerID="2" targetID="6" group="G1" fromX="591" fromY="-788" />
       <outputs name="Desça." ownerID="2" targetID="5" group="G1" fromX="591" fromY="-868" />
@@ -7875,7 +7875,7 @@ You get hit by falling debris as you run for your lives.
         </ModifierBlock>
       </logic>
       <outputs name="Pegue o loot e parta para a superfície." ownerID="58" targetID="59" group="G1" fromX="4077" fromY="-404" />
-      <outputs name="Pegue o loot e parta para a superfície." ownerID="58" targetID="80" group="G1" fromX="4077" fromY="-484" />Você atinge os portões do cofre com tudo o que tem e a pedra desmorona diante de você... apenas para revelar outra camada mais espessa, zombando de seus esforços com sua força primitiva. Você pode, no entanto, juntar algumas pedras aqui antes que os tremores se tornem violentos demais para você ficar por perto.</nodes>
+      <outputs name="Pegue o loot e parta para a superfície." ownerID="58" targetID="80" group="G1" fromX="4077" fromY="-484" />Você atinge os portoes do cofre com tudo o que tem e a pedra desmorona diante de você... apenas para revelar outra camada mais espessa, zombando de seus esforços com sua força primitiva. Você pode, no entanto, juntar algumas pedras aqui antes que os tremores se tornem violentos demais para você ficar por perto.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="59" positionX="2755.64355" positionY="72.93881" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="2" maxDamage="5" useCountInPercent="false" targetGroup="ppl">
       <logic>
         <FilterBlock>
@@ -7988,7 +7988,7 @@ You manage to loot some of it before tremors kick in and everything starts colla
         </ModifierBlock>
       </logic>
       <outputs name="Corra de volta para a superfície." ownerID="72" targetID="52" group="G1" fromX="3312" fromY="2389" />
-      <outputs name="Corra de volta para a superfície." ownerID="72" targetID="68" group="G1" fromX="3312" fromY="2309" />Você encontra a grande entrada quebrada para os cofres. Os portões eram de pedra sólida e metal, com runas esculpidas profundamente na superfície para proteger contra intrusos. O chão treme fortemente aqui, e você pega algumas pedras brilhantes enquanto corre, esperando não ser esmagado pelos violentos tremores que destruíram este lugar. </nodes>
+      <outputs name="Corra de volta para a superfície." ownerID="72" targetID="68" group="G1" fromX="3312" fromY="2309" />Você encontra a grande entrada quebrada para os cofres. Os portoes eram de pedra sólida e metal, com runas esculpidas profundamente na superfície para proteger contra intrusos. O chão treme fortemente aqui, e você pega algumas pedras brilhantes enquanto corre, esperando não ser esmagado pelos violentos tremores que destruíram este lugar. </nodes>
     <nodes xsi:type="NodeAdventure" ID="73" positionX="5210.58057" positionY="-681.577759" width="350" height="805">
       <outputs name="Corra de volta para a superfície." ownerID="73" targetID="52" group="G1" fromX="5536" fromY="-1172" />
       <outputs name="Corra de volta para a superfície." ownerID="73" targetID="81" group="G1" fromX="5536" fromY="-1252" />Whatever chamber lay here before now lies in ruins. Violent tremors tear the ground apart before your eyes. </nodes>

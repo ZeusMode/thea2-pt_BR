@@ -708,7 +708,7 @@ She tells you of three ways your fortunes can be told on Halloween.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="50" positionX="4702" positionY="-1605" width="350" height="530" allPlayersXP="2" allPlayersRP="3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="51" positionX="1793" positionY="1260" width="350" height="805">
       <outputs name="Dê boas-vindas a eles." ownerID="51" targetID="53" fromX="2118" fromY="768" />
-      <outputs name="Diga-lhes que não há necessidade e deseje-lhes o bem." ownerID="51" targetID="52" fromX="2118" fromY="688" />Eles acenam obedientemente e juntos vocês preparam a festa das almas; você acende velas para que os espíritos encontrem o caminho e conta histórias de quem passou, para que sua memória seja honrada. Um dos foliões decide que ficará com você como penitência por seu erro anterior.</nodes>
+      <outputs name="Diga-lhes que não há necessidade e deseje-lhes o bem." ownerID="51" targetID="52" fromX="2118" fromY="688" />Eles acenam obedientemente e juntos vocês preparam a festa das almas; você acende velas para que os espíritos encontrem o caminho e conta histórias de quem passou, para que sua memória seja honrada. Um dos folioes decide que ficará com você como penitência por seu erro anterior.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="52" positionX="3279" positionY="904" width="350" height="530" allPlayersXP="5" allPlayersRP="4" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeProduceDrop" ID="53" positionX="2232" positionY="1241" width="460" height="669">
       <outputs ownerID="53" targetID="54" group="G1" fromX="2662" fromY="882" />
@@ -920,7 +920,7 @@ Fun fact: Vegetables turn to pumpkins and fruit becomes fruit sweets during this
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="181" fromY="-1598" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="181" fromY="-1598" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2683" positionY="86" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2123" positionY="-595" width="350" height="725">
       <logic>
@@ -935,7 +935,7 @@ Fun fact: Vegetables turn to pumpkins and fruit becomes fruit sweets during this
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="7" targetID="5" fromX="2448" fromY="-1086" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="7" targetID="5" fromX="2448" fromY="-1086" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2546" positionY="-804" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -944,7 +944,7 @@ Fun fact: Vegetables turn to pumpkins and fruit becomes fruit sweets during this
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="8" targetID="5" fromX="2871" fromY="-1295" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="8" targetID="5" fromX="2871" fromY="-1295" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="867" positionY="-465" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -964,7 +964,7 @@ Fun fact: Vegetables turn to pumpkins and fruit becomes fruit sweets during this
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="9" targetID="5" fromX="1192" fromY="-956" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="9" targetID="5" fromX="1192" fromY="-956" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="832" positionY="436" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -984,7 +984,7 @@ Fun fact: Vegetables turn to pumpkins and fruit becomes fruit sweets during this
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="10" targetID="5" fromX="1157" fromY="-55" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="10" targetID="5" fromX="1157" fromY="-55" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1203" positionY="375" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1013,7 +1013,7 @@ Fun fact: Vegetables turn to pumpkins and fruit becomes fruit sweets during this
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="11" targetID="5" fromX="1528" fromY="-116" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="11" targetID="5" fromX="1528" fromY="-116" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="1692" positionY="294" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1036,7 +1036,7 @@ Fun fact: Vegetables turn to pumpkins and fruit becomes fruit sweets during this
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;
+      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;
 
 As a goblin, your spirit finds its way straight back into the willing body of a young shaman.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="1243" positionY="-492" width="350" height="725">
@@ -1058,7 +1058,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="13" targetID="5" fromX="1568" fromY="-983" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="13" targetID="5" fromX="1568" fromY="-983" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="1648" positionY="-1000" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1078,7 +1078,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="14" targetID="5" fromX="1973" fromY="-1491" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="14" targetID="5" fromX="1973" fromY="-1491" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="-563" positionY="-853" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -1094,7 +1094,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
         </FilterBlock>
       </logic>
       <outputs name="Curve-se e vá embora." ownerID="15" targetID="16" group="G1" fromX="-237" fromY="-1344" />
-      <outputs name="Curve-se e vá embora." ownerID="15" targetID="17" group="G1" fromX="-237" fromY="-1424" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ, VOCÊ JÁ ENGANOU A MORTE. AGORA, PEREÇA!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="15" targetID="17" group="G1" fromX="-237" fromY="-1424" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ, VOCÊ JÁ ENGANOU A MORTE. AGORA, PEREÇA!&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="2044" positionY="-1679" width="350" height="530" linkedEventUniqueID="29">
       <logic>
         <FilterBlock>
@@ -1242,7 +1242,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="2005" fromY="-1083" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="2005" fromY="-1083" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2683" positionY="86" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2123" positionY="-595" width="350" height="725">
       <logic>
@@ -1257,7 +1257,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="7" targetID="5" fromX="2448" fromY="-1086" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="7" targetID="5" fromX="2448" fromY="-1086" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2546" positionY="-804" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1266,7 +1266,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="8" targetID="5" fromX="2871" fromY="-1295" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="8" targetID="5" fromX="2871" fromY="-1295" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="853" positionY="-463" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1286,7 +1286,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="9" targetID="5" fromX="1178" fromY="-954" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="9" targetID="5" fromX="1178" fromY="-954" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="832" positionY="436" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1306,7 +1306,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="10" targetID="5" fromX="1157" fromY="-55" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="10" targetID="5" fromX="1157" fromY="-55" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1203" positionY="375" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1335,7 +1335,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="11" targetID="5" fromX="1528" fromY="-116" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="11" targetID="5" fromX="1528" fromY="-116" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="1692" positionY="294" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1358,7 +1358,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;
+      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;
 
 As a goblin, your spirit finds its way straight back into the willing body of a young shaman.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="1222" positionY="-708" width="350" height="725">
@@ -1380,7 +1380,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="13" targetID="5" fromX="1547" fromY="-1199" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="13" targetID="5" fromX="1547" fromY="-1199" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="840" positionY="-1253" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1400,7 +1400,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="14" targetID="5" fromX="1165" fromY="-1744" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="14" targetID="5" fromX="1165" fromY="-1744" />E, no entanto, os portoes para os submundos permanecem fechados e a voz de Nyia sinaliza: &#39;Esta é a hora de All Souls, minha hora. VOCÊ VAI SERVIR ALÉM DA MORTE!&#39;</nodes>
   </Adventure>
   <Adventure name="StorkElf" uniqueID="9" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="8" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event200">
@@ -1534,7 +1534,7 @@ As a goblin, your spirit finds its way straight back into the willing body of a 
       <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-647" />
       <outputs name="Alegrar." ownerID="2" targetID="7" group="G1" fromX="760" fromY="-727" />
       <outputs name="Alegrar." ownerID="2" targetID="8" group="G1" fromX="760" fromY="-807" />
-      <outputs name="Alegrar." ownerID="2" targetID="10" group="G1" fromX="760" fromY="-887" />O fascínio dos anões pela beleza única de Rusalkas tem sido um fato há muito tempo, então quando você encara a beleza da água e lembra que a casca da maçã destinou você a encontrar um &#39;R&#39; como seu amor, você sabe que esse é o seu destino. Uma cegonha anuncia uma criança da união, mas quem será essa criança é um mistério.</nodes>
+      <outputs name="Alegrar." ownerID="2" targetID="10" group="G1" fromX="760" fromY="-887" />O fascínio dos anoes pela beleza única de Rusalkas tem sido um fato há muito tempo, então quando você encara a beleza da água e lembra que a casca da maçã destinou você a encontrar um &#39;R&#39; como seu amor, você sabe que esse é o seu destino. Uma cegonha anuncia uma criança da união, mas quem será essa criança é um mistério.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1944" positionY="-798" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2142,9 +2142,9 @@ There is a map attached.</nodes>
       </logic>
       <outputs name="Pergunte sobre o convite." ownerID="2" targetID="3" fromX="740" fromY="-532" />Você é recebido na Bear Village por um cara contagiantemente entusiasmado, que diz ser o prefeito: &#39;Bom dia, bom dia. Estou feliz em mostrar a você, mas é Tomislav que está realmente no comando de nossa pequena vila, então quando você tiver tempo, vá vê-lo. Você o reconhecerá com certeza, baixinho, barbudo e esperto.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="835" positionY="102" width="350" height="725">
-      <outputs name="Pergunte o que você pode fazer na aldeia?" ownerID="3" targetID="4" fromX="1160" fromY="-389" />&#39;Ah sim, sim, a cada poucos anos organizamos as celebrações da noite de Finados, acompanhadas por um concurso maravilhoso de lenhadores e escultores de madeira. Este ano, porém, temos convidados especiais e eles me convenceram a incluir a prática do All Hallow&#39;s Eve, uma tradição das Terras Ocidentais. Daí as abóboras, você vê. De qualquer forma, Bear Village nunca esteve melhor, então queremos que as pessoas venham e aproveitem as comemorações conosco.&#39;</nodes>
+      <outputs name="Pergunte o que você pode fazer na aldeia?" ownerID="3" targetID="4" fromX="1160" fromY="-389" />&#39;Ah sim, sim, a cada poucos anos organizamos as celebraçoes da noite de Finados, acompanhadas por um concurso maravilhoso de lenhadores e escultores de madeira. Este ano, porém, temos convidados especiais e eles me convenceram a incluir a prática do All Hallow&#39;s Eve, uma tradição das Terras Ocidentais. Daí as abóboras, você vê. De qualquer forma, Bear Village nunca esteve melhor, então queremos que as pessoas venham e aproveitem as comemoraçoes conosco.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1274" positionY="143" width="350" height="725">
-      <outputs name="Agradeça a ele e vá procurar alguns dos pontos que ele mencionou." ownerID="4" targetID="6" fromX="1599" fromY="-348" />&#39;Bem, aqui, no centro, você pode visitar as barracas de comida e participar dos maravilhosos jogos e tradições do Halloween - uma nova maneira de comemorar o Dia de Finados, muito emocionante. Ou, você pode visitar alguns de nossos pontos-chave, como a cabana da mulher sábia, onde você pode comprar ervas, e ouvir suas muitas histórias. A cabana do lenhador, onde você pode admirar a confecção das maravilhosas esculturas de madeira, que você vê aqui, ou os canis, onde você pode conhecer Gurtek, nosso mestre das feras.</nodes>
+      <outputs name="Agradeça a ele e vá procurar alguns dos pontos que ele mencionou." ownerID="4" targetID="6" fromX="1599" fromY="-348" />&#39;Bem, aqui, no centro, você pode visitar as barracas de comida e participar dos maravilhosos jogos e tradiçoes do Halloween - uma nova maneira de comemorar o Dia de Finados, muito emocionante. Ou, você pode visitar alguns de nossos pontos-chave, como a cabana da mulher sábia, onde você pode comprar ervas, e ouvir suas muitas histórias. A cabana do lenhador, onde você pode admirar a confecção das maravilhosas esculturas de madeira, que você vê aqui, ou os canis, onde você pode conhecer Gurtek, nosso mestre das feras.</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="-385" positionY="-1029" width="350" height="1046" image="Event322">
       <logic>
         <FilterBlock>
@@ -2167,9 +2167,9 @@ There is a map attached.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="2434" positionY="-697" width="350" height="530" logBookName="QUEST_HALLOW" logBookDescription="QUEST_HALLOW_DES" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="10" positionX="0" positionY="-1215" width="350" height="966">
       <outputs name="Verifique as barracas de comida." ownerID="10" targetID="11" fromX="325" fromY="-1706" />
-      <outputs name="Veja se você pode ajudar com as decorações." ownerID="10" targetID="13" fromX="325" fromY="-1786" />
+      <outputs name="Veja se você pode ajudar com as decoraçoes." ownerID="10" targetID="13" fromX="325" fromY="-1786" />
       <outputs name="[Criança] Peça para participar de um dos jogos." ownerID="10" targetID="27" fromX="325" fromY="-1866" />
-      <outputs name="Sair." ownerID="10" targetID="12" fromX="325" fromY="-1946" />Ao passear pela bonita rua principal de Bear Village, você admira as muitas esculturas de madeira que se erguem ao seu redor. Existem criaturas da floresta, demônios, todos esculpidos com detalhes meticulosos. Alguns parecem tão reais que você poderia jurar que olham para você. Entre as esculturas, você encontra barracas de comida cheias de guloseimas temáticas de abóbora, mas também maçãs assadas, avelãs e hidromel. Você também vê muitos foliões colocando decorações.</nodes>
+      <outputs name="Sair." ownerID="10" targetID="12" fromX="325" fromY="-1946" />Ao passear pela bonita rua principal de Bear Village, você admira as muitas esculturas de madeira que se erguem ao seu redor. Existem criaturas da floresta, demônios, todos esculpidos com detalhes meticulosos. Alguns parecem tão reais que você poderia jurar que olham para você. Entre as esculturas, você encontra barracas de comida cheias de guloseimas temáticas de abóbora, mas também maçãs assadas, avelãs e hidromel. Você também vê muitos folioes colocando decoraçoes.</nodes>
     <nodes xsi:type="NodeTrade" ID="11" positionX="1224" positionY="-1068" width="460" height="479" traderProfile="TRADER-COOKER_FRIENDLY" playerInventory="stuff">
       <logic>
         <FilterBlock>
@@ -2196,7 +2196,7 @@ There is a map attached.</nodes>
       <outputs name="Concorde em ajudá-los a fazê-lo." ownerID="13" targetID="14" fromX="1389" fromY="-2070" />
       <outputs name="Diga que eles devem ouvir o chefe e ter um tema adequado de Halloween." ownerID="13" targetID="15" fromX="1389" fromY="-2150" />
       <outputs name="Sair." ownerID="13" targetID="12" fromX="1389" fromY="-2230" />
-      <outputs name="Na verdade, reconsidere suas opções." ownerID="13" targetID="10" fromX="1389" fromY="-2310" />As crianças se animam e uma mulher assente: “Sim, quanto mais, melhor. Veja, o chefe quer agradar seus convidados estrangeiros, então ele está fazendo todo esse tema de abóbora. Mas não queremos irritar os antepassados, então queremos tentar fazer um pouco dos dois. Temos algumas máscaras de Dziody esculpidas, temos velas e tentamos fazer toda a decoração tranquila; tipo, você sabe, para não perturbar os espíritos, agora eles estão tão perto.&#39;</nodes>
+      <outputs name="Na verdade, reconsidere suas opçoes." ownerID="13" targetID="10" fromX="1389" fromY="-2310" />As crianças se animam e uma mulher assente: “Sim, quanto mais, melhor. Veja, o chefe quer agradar seus convidados estrangeiros, então ele está fazendo todo esse tema de abóbora. Mas não queremos irritar os antepassados, então queremos tentar fazer um pouco dos dois. Temos algumas máscaras de Dziody esculpidas, temos velas e tentamos fazer toda a decoração tranquila; tipo, você sabe, para não perturbar os espíritos, agora eles estão tão perto.&#39;</nodes>
     <nodes xsi:type="NodeChallenge" ID="14" positionX="1473" positionY="-1827" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_4M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="14" targetID="17" fromX="1914" fromY="-2322" />
       <outputs name="Lose" ownerID="14" targetID="20" fromX="1914" fromY="-2402" />
@@ -2204,7 +2204,7 @@ There is a map attached.</nodes>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="1504" positionY="-2603" width="350" height="805">
       <outputs name="Começar." ownerID="15" targetID="16" fromX="1829" fromY="-3094" />
-      <outputs name="Na verdade, reconsidere suas opções." ownerID="15" targetID="13" fromX="1829" fromY="-3174" />A mulher parece infeliz, mas sabendo que você não vai delatá-la, ela concorda com a cabeça. Agora você pode esculpir algumas abóboras, cobrir casas com teias de aranha e ajudar as crianças a pintar seus rostos com desenhos assustadores.</nodes>
+      <outputs name="Na verdade, reconsidere suas opçoes." ownerID="15" targetID="13" fromX="1829" fromY="-3174" />A mulher parece infeliz, mas sabendo que você não vai delatá-la, ela concorda com a cabeça. Agora você pode esculpir algumas abóboras, cobrir casas com teias de aranha e ajudar as crianças a pintar seus rostos com desenhos assustadores.</nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="1937" positionY="-2827" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_3M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="16" targetID="24" fromX="2378" fromY="-3322" />
       <outputs name="Lose" ownerID="16" targetID="23" fromX="2378" fromY="-3402" />
@@ -2326,7 +2326,7 @@ An older looking gentleman in foreign clothes claps his hands in moderate admira
       </logic>
       <outputs name="Vá para as maçãs. [Somente crianças]" ownerID="27" targetID="29" fromX="-2077" fromY="-2238" />
       <outputs name="Experimente o pão." ownerID="27" targetID="28" fromX="-2077" fromY="-2318" />
-      <outputs name="Na verdade, reconsidere suas opções." ownerID="27" targetID="10" fromX="-2077" fromY="-2398" />Uma criança corre até você e exclama: &#39;Ah, sim, temos maçã balançando ali ou você pode tentar a sorte com o nosso jogo de pão - pedaços de coisas estavam escondidos na massa, cada um de nós pega um pedaço do pão, e veja o que encontramos, alguns podem ter boa sorte, alguns dentes quebrados!&#39;</nodes>
+      <outputs name="Na verdade, reconsidere suas opçoes." ownerID="27" targetID="10" fromX="-2077" fromY="-2398" />Uma criança corre até você e exclama: &#39;Ah, sim, temos maçã balançando ali ou você pode tentar a sorte com o nosso jogo de pão - pedaços de coisas estavam escondidos na massa, cada um de nós pega um pedaço do pão, e veja o que encontramos, alguns podem ter boa sorte, alguns dentes quebrados!&#39;</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="28" positionX="-1692" positionY="-2998" width="460" height="750">
       <outputs ownerID="28" targetID="30" group="G1" fromX="-1261" fromY="-3356" />
       <outputs ownerID="28" targetID="31" group="G1" fromX="-1261" fromY="-3436" />
@@ -2780,9 +2780,9 @@ The people cheer him on, but some seem a bit uneasy.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Verifique as barracas de comida." ownerID="79" targetID="11" fromX="722" fromY="-1564" />
-      <outputs name="Veja se você pode ajudar com as decorações." ownerID="79" targetID="13" fromX="722" fromY="-1644" />
+      <outputs name="Veja se você pode ajudar com as decoraçoes." ownerID="79" targetID="13" fromX="722" fromY="-1644" />
       <outputs name="[Criança] Peça para participar de um dos jogos." ownerID="79" targetID="27" fromX="722" fromY="-1724" />
-      <outputs name="Sair." ownerID="79" targetID="12" fromX="722" fromY="-1804" />A vila parece menos alegre agora, e muitas das decorações de Haloween se foram. Mas, nervosos para não ofender ainda mais os antepassados, os jogos e folia do All Souls continuam tranquilamente...</nodes>
+      <outputs name="Sair." ownerID="79" targetID="12" fromX="722" fromY="-1804" />A vila parece menos alegre agora, e muitas das decoraçoes de Haloween se foram. Mas, nervosos para não ofender ainda mais os antepassados, os jogos e folia do All Souls continuam tranquilamente...</nodes>
   </Adventure>
   <Adventure name="Wise woman's hut" uniqueID="14" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="53" eventTag="TAG-LOG_HALOWEEN" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="-4" positionY="210" width="347" height="982" image="Event192">
@@ -2862,7 +2862,7 @@ She suddenly remembers about staying quiet and stops, but her face is red in ang
         </ModifierBlock>
       </logic>
       <outputs name="Questione a mulher sábia primeiro." ownerID="11" targetID="18" fromX="3187" fromY="-1386" />
-      <outputs name="Questione os aldeões reunidos aqui." ownerID="11" targetID="19" fromX="3187" fromY="-1466" />Você caminha até onde uma pequena multidão de aldeões se reuniu e você vê vários animais eviscerados e espalhados para todos verem. As pessoas estão cochichando sobre Gurtek e seus cães como os principais suspeitos desse ato sujo. Algumas crianças estão chorando, os adultos parecem inquietos. Eles se voltam para sua mulher sábia quando ela chega com você. Ela fala: &#39;Isto é um ato sujo. E na noite de Finados... precisamos encontrar os culpados rapidamente, antes que os espíritos fiquem mais irritados!</nodes>
+      <outputs name="Questione os aldeoes reunidos aqui." ownerID="11" targetID="19" fromX="3187" fromY="-1466" />Você caminha até onde uma pequena multidão de aldeoes se reuniu e você vê vários animais eviscerados e espalhados para todos verem. As pessoas estão cochichando sobre Gurtek e seus cães como os principais suspeitos desse ato sujo. Algumas crianças estão chorando, os adultos parecem inquietos. Eles se voltam para sua mulher sábia quando ela chega com você. Ela fala: &#39;Isto é um ato sujo. E na noite de Finados... precisamos encontrar os culpados rapidamente, antes que os espíritos fiquem mais irritados!</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2322" positionY="-378" width="350" height="725">
       <outputs name="Acene e veja o que ela tem a oferecer." ownerID="12" targetID="6" fromX="2647" fromY="-869" />&#39;Desgosto é uma palavra forte. Pouco me importo com o costume estrangeiro, só isso. Eu lhe digo, esses espíritos ocidentais podem ficar felizes com abóboras e tolices, mas as almas de nossos antepassados não devem ser confundidas. Todo mundo é tão alegre. Rindo, pregando peças, comendo doces. Nenhuma paz triste, nenhuma reverência. A próxima coisa que você sabe que eles vão esquecer de acender as velas no cemitério! Mas, cada um na sua...&#39;</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="13" positionX="1878" positionY="636" width="350" height="885">
@@ -2911,7 +2911,7 @@ She suddenly remembers about staying quiet and stops, but her face is red in ang
       </logic>
       <outputs name="Sair." ownerID="16" targetID="3" fromX="-1341" fromY="-1570" />'How nice of you. Well, as a reward, here, my old iron frog, it should lend you its wisdom.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="3289" positionY="-909" width="350" height="966">
-      <outputs name="Questione os aldeões reunidos aqui." ownerID="18" targetID="19" fromX="3614" fromY="-1400" />
+      <outputs name="Questione os aldeoes reunidos aqui." ownerID="18" targetID="19" fromX="3614" fromY="-1400" />
       <outputs name="Diga que você vai ajudá-los e vá perguntar sobre isso ao redor da aldeia." ownerID="18" targetID="40" fromX="3614" fromY="-1480" />
       <outputs name="[Inteligência] Essa é uma conclusão muito rápida que ela acabou de tirar. Insista que ela sabe mais; é claro que ela não ficou muito surpresa ao ver aqueles animais mortos." ownerID="18" targetID="32" fromX="3614" fromY="-1560" />
       <outputs name="[Usuário de magia] Os animais parecem posados para imitar algum ritual, mas não é nada real. Um truque de salão na melhor das hipóteses. Já que Bogslava afirma ser uma mulher sábia, pergunte por que ela não percebeu isso?" ownerID="18" targetID="41" fromX="3614" fromY="-1640" />' I was talking to you , remember. I know nothing of this mess, only that it is likely to be angry souls, pissed off at our Tomislav for organising his Halloween nonsense and listening to that foreigner, Fredrick.'</nodes>
@@ -3343,7 +3343,7 @@ She suddenly remembers about staying quiet and stops, but her face is red in ang
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="3" positionX="820" positionY="523" width="350" height="725">
       <outputs name="Pergunte o que ele faz aqui?" ownerID="3" targetID="4" fromX="1145" fromY="31" />'Oh, good, good. Anyway, how can I help?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1265" positionY="251" width="350" height="725">
-      <outputs name="Ouça o que aconteceu." ownerID="4" targetID="6" fromX="1590" fromY="-240" />&#39;Eu cuido dos animais, treino esses cães aqui para o mestre Tomislav, cuido dos cavalos dele e tal. Se você está procurando por alguma dessas atrações estrangeiras de Hallow Something, eu não estou participando. Mas você pode colocar uma oferenda para os espíritos sob o velho carvalho... O grito de uma mulher interrompe: &quot;Oh, não, não, meu Vieslav está desaparecido, Gurtek, você deve me ajudar a encontrá-lo!&quot;</nodes>
+      <outputs name="Ouça o que aconteceu." ownerID="4" targetID="6" fromX="1590" fromY="-240" />&#39;Eu cuido dos animais, treino esses cães aqui para o mestre Tomislav, cuido dos cavalos dele e tal. Se você está procurando por alguma dessas atraçoes estrangeiras de Hallow Something, eu não estou participando. Mas você pode colocar uma oferenda para os espíritos sob o velho carvalho... O grito de uma mulher interrompe: &quot;Oh, não, não, meu Vieslav está desaparecido, Gurtek, você deve me ajudar a encontrá-lo!&quot;</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="2044" positionY="-2630" width="350" height="725">
       <outputs name="Diga a ele que seus cães ainda são os principais suspeitos, mas talvez valha a pena perguntar sobre o estrangeiro também. Deixe para falar sobre isso com Tomislav na aldeia." ownerID="5" targetID="19" fromX="2369" fromY="-3121" />'Listen, I am not hiding anything here. If you ask me, it's that new fella, he sneaks out at night, goes to the grove, does funny westerner business there - sacrifices to some of their lot, I guess. Or else, the spirits took our people, and all we can do is try to appease them now. Burn all those Halloween things and get back to good old Zaduszki to honour All Souls time.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1334" positionY="-672" width="350" height="725">
@@ -3378,9 +3378,9 @@ Then we asked Vieslav and Bohna to hide for a time. We were gonna stage a whole 
       <outputs name="Diga a ele que seus cães ainda são os principais suspeitos, mas talvez valha a pena perguntar sobre o estrangeiro também. Deixe para falar sobre isso com Tomislav na aldeia." ownerID="10" targetID="19" fromX="1172" fromY="-2923" />
       <outputs name="[Xamã, zerca ou espírito] Pergunte se ele tem alguma evidência real de que os espíritos estão trabalhando aqui." ownerID="10" targetID="24" fromX="1172" fromY="-3003" />'If you ask me, it's that the new fella, he sneaks out at night, goes to the grove, does funny westerner business there - sacrifices to some of their lot, I guess. Or else, the spirits took our people, and all we can do is try to appease them now. Burn all those Halloween things and get back to good old Zaduszki to honour All Souls time.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="478" positionY="-1033" width="350" height="885">
-      <outputs name="Pergunte sobre os animais mortos, diga que muitos aldeões dizem que seus cães os mataram." ownerID="11" targetID="13" fromX="803" fromY="-1524" />
-      <outputs name="Diga a ele que Bogslava derramou o feijão e você sabe que eles conspiraram para assustar os aldeões." ownerID="11" targetID="27" fromX="803" fromY="-1604" />
-      <outputs name="Pergunte sobre os animais de estimação mortos, diga que muitos aldeões dizem que seus cães os mataram e Bogslava confirmou essa suspeita para você." ownerID="11" targetID="12" fromX="803" fromY="-1684" />He looks concerned, but does not speak.</nodes>
+      <outputs name="Pergunte sobre os animais mortos, diga que muitos aldeoes dizem que seus cães os mataram." ownerID="11" targetID="13" fromX="803" fromY="-1524" />
+      <outputs name="Diga a ele que Bogslava derramou o feijão e você sabe que eles conspiraram para assustar os aldeoes." ownerID="11" targetID="27" fromX="803" fromY="-1604" />
+      <outputs name="Pergunte sobre os animais de estimação mortos, diga que muitos aldeoes dizem que seus cães os mataram e Bogslava confirmou essa suspeita para você." ownerID="11" targetID="12" fromX="803" fromY="-1684" />He looks concerned, but does not speak.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="0" positionY="-1594" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -3392,8 +3392,8 @@ Then we asked Vieslav and Bohna to hide for a time. We were gonna stage a whole 
       <outputs name="[inteligência] Parece uma coincidência terrível, as duas coisas acontecendo, especialmente que é ele quem parece odiar tanto o Halloween. Insista que ele lhe diga a verdade!" ownerID="12" targetID="14" fromX="325" fromY="-2085" />
       <outputs name="Se sua teoria for verdadeira e os espíritos ficaram bravos com a vila por celebrar o Halloween, o que ele sugere que eles deveriam fazer?" ownerID="12" targetID="10" fromX="325" fromY="-2165" />&#39;Hmm, ela fez agora? Ela disse que eu encobri meus cachorros? Bem, acho que ela está certa. Aquele nosso maldito chefe disse que os mandaria para baixo e eles só fazem o que a natureza manda... E você sabe, eu acho que eles têm o sangue Bies neles e eles não são, então eles agem com os espíritos. Então, você vê, eu ainda acho que foram os espíritos que fizeram tudo acontecer. Meus cães certamente não sequestraram ninguém.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="890" positionY="-1069" width="350" height="805">
-      <outputs name="[Inteligência] Padrões? Interessante escolha de palavras. Tente pressioná-lo a dizer a verdade." ownerID="13" targetID="14" fromX="1215" fromY="-1560" />
-      <outputs name="Se sua teoria for verdadeira e os espíritos ficaram bravos com a vila por celebrar o Halloween, o que ele sugere que eles deveriam fazer?" ownerID="13" targetID="10" fromX="1215" fromY="-1640" />— Gurtek, você deve rastrear meu povo desaparecido, Gurtek, seus cães matam nossas galinhas, Gurtek isso, Gurtek aquilo, eles sempre querem alguma coisa, nunca pensem em mim... Cães serão cães; eles podem matar alguns animais de estimação menores, com certeza. Mas Tomislav disse claramente que devo mantê-los presos esta semana, então fiz isso. Além disso, os cães tendem a não organizar suas presas em padrões.</nodes>
+      <outputs name="[Inteligência] Padroes? Interessante escolha de palavras. Tente pressioná-lo a dizer a verdade." ownerID="13" targetID="14" fromX="1215" fromY="-1560" />
+      <outputs name="Se sua teoria for verdadeira e os espíritos ficaram bravos com a vila por celebrar o Halloween, o que ele sugere que eles deveriam fazer?" ownerID="13" targetID="10" fromX="1215" fromY="-1640" />— Gurtek, você deve rastrear meu povo desaparecido, Gurtek, seus cães matam nossas galinhas, Gurtek isso, Gurtek aquilo, eles sempre querem alguma coisa, nunca pensem em mim... Cães serão cães; eles podem matar alguns animais de estimação menores, com certeza. Mas Tomislav disse claramente que devo mantê-los presos esta semana, então fiz isso. Além disso, os cães tendem a não organizar suas presas em padroes.</nodes>
     <nodes xsi:type="NodeChallenge" ID="14" positionX="1410" positionY="-1711" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-Q_BEAST_MASTER_DOGS_5P_5M_5S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -3715,7 +3715,7 @@ Gurtek is called for and he obeys, even though you see tears in his eyes. The do
 
 He bows and leaves, so does Gurtek, carrying his two dogs.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="4459" positionY="83" width="350" height="885">
-      <outputs name="Diga a ele que se o garoto fez esculturas mágicas e possivelmente andando por aí matando pessoas, ele deveria pagar por isso como qualquer outro. Diga aos aldeões." ownerID="10" targetID="20" fromX="4784" fromY="-408" />
+      <outputs name="Diga a ele que se o garoto fez esculturas mágicas e possivelmente andando por aí matando pessoas, ele deveria pagar por isso como qualquer outro. Diga aos aldeoes." ownerID="10" targetID="20" fromX="4784" fromY="-408" />
       <outputs name="Concordo, permita culpar os cães." ownerID="10" targetID="9" fromX="4784" fromY="-488" />
       <outputs name="Diga que você não vai denunciar o filho dele, por enquanto, mas ele também deve deixar os cachorros em paz. Diga que você vai continuar investigando isso para ele." ownerID="10" targetID="19" fromX="4784" fromY="-568" />'Well, you see. My boy, he is half eleven. And well. His sculptures, they are clearly infused with magic... It's just, if the villagers hear of it. They will not believe he did not mean it. I am a demon, you see, and he is a half-breed. Villagers tend to accept us only so long as we don't stand out like this... If we kill the dogs, folk will calm down and I will have time to try and figure out what is really happening.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1067" positionY="-748" width="350" height="805">
@@ -3891,7 +3891,7 @@ It looks like you got here fast enough to interrupt the slaughter. At least for 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Reporte-se a Tomislav e aos aldeões." ownerID="6" targetID="61" fromX="1951" fromY="-1568" />You defeat the forefather spirits and see the shattered sculptures turn to ordinary wood once more. 
+      <outputs name="Reporte-se a Tomislav e aos aldeoes." ownerID="6" targetID="61" fromX="1951" fromY="-1568" />You defeat the forefather spirits and see the shattered sculptures turn to ordinary wood once more. 
 
 And yet, you sense a dark presence linger and you know that the souls may yet find a way to enact their revenge on the Bear Village.
 
@@ -3943,7 +3943,7 @@ Still, at least they no longer have their physical coils to play with. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Concorde que os aldeões devem pagar seu preço." ownerID="14" targetID="16" fromX="3840" fromY="-33" />
+      <outputs name="Concorde que os aldeoes devem pagar seu preço." ownerID="14" targetID="16" fromX="3840" fromY="-33" />
       <outputs name="Ofereça um de sua preferência." ownerID="14" targetID="18" fromX="3840" fromY="-113" />
       <outputs name="Ataque!" ownerID="14" targetID="5" fromX="3840" fromY="-193" />
       <outputs name="[Usuário de magia] Você sente que esses espíritos estão obscurecidos e distorcidos. Eles vão pedir sangue o que você disser. Enfrentá-los nos reinos espirituais, é a única maneira de saciar completamente sua sede de vingança." ownerID="14" targetID="15" fromX="3840" fromY="-273" />
@@ -3990,7 +3990,7 @@ Still, at least they no longer have their physical coils to play with. </nodes>
       <outputs ownerID="19" targetID="42" fromX="4277" fromY="-1187" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="4469" positionY="-509" width="350" height="1046">
-      <outputs name="Concorde que os aldeões devem pagar seu preço." ownerID="20" targetID="16" fromX="4794" fromY="-1000" />
+      <outputs name="Concorde que os aldeoes devem pagar seu preço." ownerID="20" targetID="16" fromX="4794" fromY="-1000" />
       <outputs name="Ofereça um de sua preferência." ownerID="20" targetID="18" fromX="4794" fromY="-1080" />
       <outputs name="Ataque!" ownerID="20" targetID="5" fromX="4794" fromY="-1160" />
       <outputs name="[Usuário de magia] Você sente que esses espíritos estão obscurecidos e distorcidos. Eles vão pedir sangue o que você disser. Enfrentá-los nos reinos espirituais, é a única maneira de saciar completamente sua sede de vingança." ownerID="20" targetID="15" fromX="4794" fromY="-1240" />
@@ -4129,7 +4129,7 @@ Still, at least they no longer have their physical coils to play with. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="31" positionX="-1244" positionY="-823" width="350" height="530" logBookName="QUEST_HALLOW_FORE" logBookDescription="QUEST_HALLOW_FORE_DES2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="32" positionX="-597" positionY="266" width="350" height="805">
       <outputs name="Pergunte a que deus estrangeiro eles se referiam antes?" ownerID="32" targetID="33" fromX="-271" fromY="-225" />
-      <outputs name="Pergunte por que não matar os convidados estrangeiros então? Por que os aldeões?" ownerID="32" targetID="34" fromX="-271" fromY="-305" />'A half elven youth carved this wood with all the passion of their woodland kin and the tenacity of such tender age. In doing so, they infused it with ancient magic. It is through this magic that we were able to manifest and teach those fools a lesson in blood.'</nodes>
+      <outputs name="Pergunte por que não matar os convidados estrangeiros então? Por que os aldeoes?" ownerID="32" targetID="34" fromX="-271" fromY="-305" />'A half elven youth carved this wood with all the passion of their woodland kin and the tenacity of such tender age. In doing so, they infused it with ancient magic. It is through this magic that we were able to manifest and teach those fools a lesson in blood.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="-1064" positionY="414" width="350" height="1126">
       <outputs name="[Nyia] Sim, se esta é a transgressão deles, eles realmente erraram. Permita que os antepassados continuem sua punição como acharem melhor." ownerID="33" targetID="28" fromX="-738" fromY="-77" />
       <outputs name="Provavelmente ainda haverá um preço difícil a pagar, pois foi muito além das palavras. Mas, tente convencer os antepassados de que as pessoas não pretendiam irritá-los tanto. Falta-lhes a orientação de um zerca. O prefeito deles é um demônio. E eles claramente queriam apenas homenagear um convidado, não ofender seus próprios costumes." ownerID="33" targetID="13" fromX="-738" fromY="-157" />
@@ -4207,7 +4207,7 @@ Still, at least they no longer have their physical coils to play with. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Veja quem quer participar." ownerID="41" targetID="43" fromX="5724" fromY="-882" />Você vê que Tomislav e os aldeões estavam pairando nas proximidades, eles aplaudem quando você se aproxima, muitos se ajoelham diante de você, Tomislav se curva: &#39;Vocês são verdadeiros heróis, pelo menos para nós. Você deu a sua própria vida, por nós! Eu nunca poderei retribuir o suficiente. Aqui, uma coleção que fizemos para recompensá-lo. E alguns de nosso pessoal pediram para se juntar a você, se você os aceitar.</nodes>
+      <outputs name="Veja quem quer participar." ownerID="41" targetID="43" fromX="5724" fromY="-882" />Você vê que Tomislav e os aldeoes estavam pairando nas proximidades, eles aplaudem quando você se aproxima, muitos se ajoelham diante de você, Tomislav se curva: &#39;Vocês são verdadeiros heróis, pelo menos para nós. Você deu a sua própria vida, por nós! Eu nunca poderei retribuir o suficiente. Aqui, uma coleção que fizemos para recompensá-lo. E alguns de nosso pessoal pediram para se juntar a você, se você os aceitar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="4933" positionY="-451" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -4224,7 +4224,7 @@ Still, at least they no longer have their physical coils to play with. </nodes>
       <outputs name="Peça a Bogslava para vir." ownerID="43" targetID="36" fromX="6143" fromY="-956" />
       <outputs name="O jovem sobrinho de Gurtek gostaria de ir com você, e seu tio concorda com isso. Pegue-o." ownerID="43" targetID="44" fromX="6143" fromY="-1036" />
       <outputs name="O filho de Tomislav, Milosz, deseja se juntar a você. Ele rejeitou a arte para sempre, mas ainda pode fazer artesanato decente. Pegue-o." ownerID="43" targetID="46" fromX="6143" fromY="-1116" />
-      <outputs name="Uma criança que ficou órfã deseja ir com você, pois você é o herói. Os aldeões concordam que seria melhor para eles. Leve-os com você." ownerID="43" targetID="47" fromX="6143" fromY="-1196" />
+      <outputs name="Uma criança que ficou órfã deseja ir com você, pois você é o herói. Os aldeoes concordam que seria melhor para eles. Leve-os com você." ownerID="43" targetID="47" fromX="6143" fromY="-1196" />
       <outputs name="Diga que você não quer que ninguém participe." ownerID="43" targetID="64" fromX="6143" fromY="-1276" />Those who want to join you line up.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="44" positionX="6778" positionY="-582" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_HALLOW_FORE" logBookDescription="QUEST_HALLOW_FORE_DES6" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
@@ -4285,7 +4285,7 @@ Still, at least they no longer have their physical coils to play with. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles." ownerID="48" targetID="49" fromX="4623" fromY="216" />Você vê que os aldeões estavam reunidos nas proximidades e ouviu claramente qual será o preço. Gurtek, sua família goblin, Tomislav e seu grupo estranho e mais alguns indesejáveis foram rapidamente escolhidos como voluntários, e antes que alguém pudesse correr ou protestar, os antepassados os levaram. Bogslava fala com você: &#39;Este foi um preço sangrento, mas você salvou muitas vidas. Eu acho que esta aldeia nunca quis essas pessoas estranhas de qualquer maneira, natureza humana... nós afugentamos aquele estrangeiro também... Aqui, uma coleção que fizemos para recompensá-lo. &#39;</nodes>
+      <outputs name="Agradeça a eles." ownerID="48" targetID="49" fromX="4623" fromY="216" />Você vê que os aldeoes estavam reunidos nas proximidades e ouviu claramente qual será o preço. Gurtek, sua família goblin, Tomislav e seu grupo estranho e mais alguns indesejáveis foram rapidamente escolhidos como voluntários, e antes que alguém pudesse correr ou protestar, os antepassados os levaram. Bogslava fala com você: &#39;Este foi um preço sangrento, mas você salvou muitas vidas. Eu acho que esta aldeia nunca quis essas pessoas estranhas de qualquer maneira, natureza humana... nós afugentamos aquele estrangeiro também... Aqui, uma coleção que fizemos para recompensá-lo. &#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="49" positionX="4665" positionY="872" width="350" height="805">
       <outputs name="Peça a Bogslava para vir." ownerID="49" targetID="17" fromX="4990" fromY="380" />
       <outputs name="Recuse e vá embora." ownerID="49" targetID="50" fromX="4990" fromY="300" />The villagers bow in thanks but do not say much, some are clearly ashamed of what happened, other relieved it was not them who paid. They move away. Bogslava remains.
@@ -4306,12 +4306,12 @@ Still, at least they no longer have their physical coils to play with. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Veja quem quer participar." ownerID="52" targetID="53" fromX="3097" fromY="1788" />Você vê que Tomislav e os aldeões estavam pairando nas proximidades, eles aplaudem quando você se aproxima, muitos se ajoelham diante de você, Tomislav se curva: &#39;Vocês são verdadeiros heróis, pelo menos para nós. Você deu a sua própria vida, por nós! Eu nunca poderei retribuir o suficiente. Aqui, uma coleção que fizemos para recompensá-lo. E alguns de nosso pessoal pediram para se juntar a você, se você os aceitar.</nodes>
+      <outputs name="Veja quem quer participar." ownerID="52" targetID="53" fromX="3097" fromY="1788" />Você vê que Tomislav e os aldeoes estavam pairando nas proximidades, eles aplaudem quando você se aproxima, muitos se ajoelham diante de você, Tomislav se curva: &#39;Vocês são verdadeiros heróis, pelo menos para nós. Você deu a sua própria vida, por nós! Eu nunca poderei retribuir o suficiente. Aqui, uma coleção que fizemos para recompensá-lo. E alguns de nosso pessoal pediram para se juntar a você, se você os aceitar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="53" positionX="3563" positionY="2777" width="350" height="1046">
       <outputs name="Peça a Bogslava e seu neto que venham." ownerID="53" targetID="54" fromX="3888" fromY="2285" />
       <outputs name="O jovem sobrinho de Gurtek gostaria de ir com você, e seu tio concorda com isso. Pegue-o." ownerID="53" targetID="55" fromX="3888" fromY="2205" />
       <outputs name="O filho de Tomislav, Milosz, deseja se juntar a você. Ele rejeitou a arte para sempre, mas ainda pode fazer artesanato decente. Pegue-o." ownerID="53" targetID="57" fromX="3888" fromY="2125" />
-      <outputs name="Uma criança que ficou órfã deseja ir com você, pois você é o herói. Os aldeões concordam que seria melhor para eles. Leve-os com você." ownerID="53" targetID="59" fromX="3888" fromY="2045" />
+      <outputs name="Uma criança que ficou órfã deseja ir com você, pois você é o herói. Os aldeoes concordam que seria melhor para eles. Leve-os com você." ownerID="53" targetID="59" fromX="3888" fromY="2045" />
       <outputs name="Diga que você não quer que ninguém participe." ownerID="53" targetID="63" fromX="3888" fromY="1965" />Those who want to join you line up.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="54" positionX="4062" positionY="2454" width="460" height="429">
       <logic>
@@ -4444,12 +4444,12 @@ Still, at least they no longer have their physical coils to play with. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Veja quem quer participar." ownerID="61" targetID="65" fromX="2786" fromY="980" />Você vê que Tomislav e os aldeões estavam pairando nas proximidades, eles aplaudem quando você se aproxima, muitos se ajoelham diante de você, Tomislav se curva: &#39;Vocês são verdadeiros heróis, pelo menos para nós. Você deu a sua própria vida, por nós! Eu nunca poderei retribuir o suficiente. Aqui, uma coleção que fizemos para recompensá-lo. E alguns de nosso pessoal pediram para se juntar a você, se você os aceitar.</nodes>
+      <outputs name="Veja quem quer participar." ownerID="61" targetID="65" fromX="2786" fromY="980" />Você vê que Tomislav e os aldeoes estavam pairando nas proximidades, eles aplaudem quando você se aproxima, muitos se ajoelham diante de você, Tomislav se curva: &#39;Vocês são verdadeiros heróis, pelo menos para nós. Você deu a sua própria vida, por nós! Eu nunca poderei retribuir o suficiente. Aqui, uma coleção que fizemos para recompensá-lo. E alguns de nosso pessoal pediram para se juntar a você, se você os aceitar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="62" positionX="3428" positionY="1702" width="350" height="1046">
       <outputs name="Peça a Bogslava e seu neto que venham." ownerID="62" targetID="54" fromX="3753" fromY="1210" />
       <outputs name="O jovem sobrinho de Gurtek gostaria de ir com você, e seu tio concorda com isso. Pegue-o." ownerID="62" targetID="55" fromX="3753" fromY="1130" />
       <outputs name="O filho de Tomislav, Milosz, deseja se juntar a você. Ele rejeitou a arte para sempre, mas ainda pode fazer artesanato decente. Pegue-o." ownerID="62" targetID="57" fromX="3753" fromY="1050" />
-      <outputs name="Uma criança que ficou órfã deseja ir com você, pois você é o herói. Os aldeões concordam que seria melhor para eles. Leve-os com você." ownerID="62" targetID="59" fromX="3753" fromY="970" />
+      <outputs name="Uma criança que ficou órfã deseja ir com você, pois você é o herói. Os aldeoes concordam que seria melhor para eles. Leve-os com você." ownerID="62" targetID="59" fromX="3753" fromY="970" />
       <outputs name="Diga que você não quer que ninguém participe." ownerID="62" targetID="63" fromX="3753" fromY="890" />Mais tarde, você descobre que a vila continuou a ser assombrada e algumas pessoas ficaram loucas, mas no geral, a vila se saiu muito melhor do que poderia. Quem quiser se juntar a você, faça fila.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="63" positionX="4023" positionY="1265" width="350" height="530" allPlayersXP="10" allPlayersRP="9" logBookName="QUEST_HALLOW_FORE" logBookDescription="QUEST_HALLOW_FORE_DES4" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventureEnd" ID="64" positionX="6020" positionY="-1556" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_HALLOW_FORE" logBookDescription="QUEST_HALLOW_FORE_DES6" linkedEventUniqueID="0" />
@@ -4470,7 +4470,7 @@ Still, at least they no longer have their physical coils to play with. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Concorde que os aldeões devem pagar seu preço." ownerID="66" targetID="16" fromX="4228" fromY="2" />
+      <outputs name="Concorde que os aldeoes devem pagar seu preço." ownerID="66" targetID="16" fromX="4228" fromY="2" />
       <outputs name="Ofereça um de sua preferência." ownerID="66" targetID="18" fromX="4228" fromY="-77" />
       <outputs name="Ataque!" ownerID="66" targetID="5" fromX="4228" fromY="-157" />
       <outputs name="[Usuário de magia] Você sente que esses espíritos estão obscurecidos e distorcidos. Eles vão pedir sangue o que você disser. Enfrentá-los nos reinos espirituais, é a única maneira de saciar completamente sua sede de vingança." ownerID="66" targetID="15" fromX="4228" fromY="-237" />
@@ -4547,7 +4547,7 @@ Still, at least they no longer have their physical coils to play with. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá contar a Tomislav e aos aldeões sobre isso." ownerID="5" targetID="6" fromX="1802" fromY="-360" />Você destrói o urso e, no entanto, ouve uma voz de dentro: &#39;Você não pode nos parar, pequenos tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...&#39;
+      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="5" targetID="6" fromX="1802" fromY="-360" />Você destrói o urso e, no entanto, ouve uma voz de dentro: &#39;Você não pode nos parar, pequenos tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...&#39;
 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2023" positionY="94" width="350" height="725">
@@ -4564,7 +4564,7 @@ He turns to you:
 Oh, and one one of my dogs will stay with you from now on, as thanks for all the hard work.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2876" positionY="232" width="350" height="805">
       <outputs name="Concorde em ajudá-los." ownerID="8" targetID="11" fromX="3201" fromY="-259" />
-      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="8" targetID="9" fromX="3201" fromY="-339" />Bem, eu mesmo lidaria com isso, mas como demônio, estou preso a esta aldeia. A loja foi até onde eu pude ir...&#39; Você não tem certeza se ele está dizendo a verdade, mas você tem a sensação de que ele não ganhará as próximas eleições depois disso.</nodes>
+      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="8" targetID="9" fromX="3201" fromY="-339" />Bem, eu mesmo lidaria com isso, mas como demônio, estou preso a esta aldeia. A loja foi até onde eu pude ir...&#39; Você não tem certeza se ele está dizendo a verdade, mas você tem a sensação de que ele não ganhará as próximas eleiçoes depois disso.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="9" positionX="3502" positionY="-722" width="480" height="583" radius="0" destroyOwner="false" linkedEventUniqueID="0">
       <outputs ownerID="9" targetID="24" group="G1" fromX="3950" fromY="-1154" />
       <outputs ownerID="9" targetID="27" group="G1" fromX="3950" fromY="-1234" />
@@ -4758,7 +4758,7 @@ You find Tomislav. He listens to your tale, concerned.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá contar a Tomislav e aos aldeões sobre isso." ownerID="31" targetID="6" fromX="1808" fromY="-1702" />Você destrói o urso e, no entanto, ouve uma voz de dentro: &#39;Você não pode nos parar, pequenos tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...&#39;
+      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="31" targetID="6" fromX="1808" fromY="-1702" />Você destrói o urso e, no entanto, ouve uma voz de dentro: &#39;Você não pode nos parar, pequenos tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...&#39;
 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="1940" positionY="-822" width="350" height="725">
@@ -4836,7 +4836,7 @@ You find Tomislav. He listens to your tale, concerned.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá contar a Tomislav e aos aldeões sobre isso." ownerID="5" targetID="6" fromX="1903" fromY="-613" />Você destrói o urso e, no entanto, ouve uma voz de dentro: &#39;Você não pode nos parar, pequenos tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...&#39;
+      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="5" targetID="6" fromX="1903" fromY="-613" />Você destrói o urso e, no entanto, ouve uma voz de dentro: &#39;Você não pode nos parar, pequenos tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...&#39;
 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2030" positionY="-45" width="350" height="725">
@@ -4852,7 +4852,7 @@ He turns to you:
 'Will you speak to them on our behalf? We have no zerca, or shaman that could do it for us. Whatever you decide, I  will take my dogs and try to ready the folk for what may come next. Oh, and one of my dogs will stay with you from now on, as thanks for all the hard work.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2953" positionY="86" width="350" height="805">
       <outputs name="Concorde em ajudá-los." ownerID="8" targetID="11" group="G1" fromX="3278" fromY="-405" />
-      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="8" targetID="9" fromX="3278" fromY="-485" />Bem, eu mesmo lidaria com isso, mas como demônio, estou preso a esta aldeia. A loja foi até onde eu pude ir...&#39; Você não tem certeza se ele está dizendo a verdade, mas você tem a sensação de que ele não ganhará as próximas eleições depois disso.</nodes>
+      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="8" targetID="9" fromX="3278" fromY="-485" />Bem, eu mesmo lidaria com isso, mas como demônio, estou preso a esta aldeia. A loja foi até onde eu pude ir...&#39; Você não tem certeza se ele está dizendo a verdade, mas você tem a sensação de que ele não ganhará as próximas eleiçoes depois disso.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="9" positionX="3778" positionY="-926" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -4939,7 +4939,7 @@ He turns to you:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá contar a Tomislav e aos aldeões sobre isso." ownerID="29" targetID="6" fromX="1713" fromY="163" />Você destrói o urso e, no entanto, ouve uma voz de dentro: &#39;Você não pode nos parar, pequenos tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...&#39;
+      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="29" targetID="6" fromX="1713" fromY="163" />Você destrói o urso e, no entanto, ouve uma voz de dentro: &#39;Você não pode nos parar, pequenos tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...&#39;
 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="-441" positionY="-466" width="350" height="725">

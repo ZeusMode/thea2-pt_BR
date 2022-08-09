@@ -785,8 +785,8 @@ You think it winked at you.
         </FilterBlock>
       </logic>
       <outputs name="Use o elemento surpresa e ataque!" ownerID="3" targetID="6" fromX="1173" fromY="263" />
-      <outputs name="[Usuário de magia] Dragões são criaturas nascidas da força mística, então desafie-o com seu espírito e quebre sua alma!" ownerID="3" targetID="8" fromX="1173" fromY="183" />
-      <outputs name="[Usuário de magia ou zerca, e inteligência] Dragões não são meras feras. Muitas vezes eles são sábios e às vezes dispostos a falar. Aproxime-se do dragão e fale com ele." ownerID="3" targetID="9" fromX="1173" fromY="103" />
+      <outputs name="[Usuário de magia] Dragoes são criaturas nascidas da força mística, então desafie-o com seu espírito e quebre sua alma!" ownerID="3" targetID="8" fromX="1173" fromY="183" />
+      <outputs name="[Usuário de magia ou zerca, e inteligência] Dragoes não são meras feras. Muitas vezes eles são sábios e às vezes dispostos a falar. Aproxime-se do dragão e fale com ele." ownerID="3" targetID="9" fromX="1173" fromY="103" />
       <outputs name="Afaste-se com cuidado." ownerID="3" targetID="4" fromX="1173" fromY="23" />Seus olhos de águia são úteis quando você percebe, nas profundezas da escuridão da ravina, que a terra parece se mover para cima e para baixo em ritmo lento. Você então percebe uma grande forma de dragão entre as pedras.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="25.1742554" positionY="-832.9875" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="5" positionX="910.544" positionY="-499.2058" width="350" height="885" image="Event096">

@@ -51,7 +51,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pergunte aos aldeões o que aconteceu aqui." ownerID="7" targetID="14" fromX="1019" fromY="-1801" />Os esqueletos desmoronam, seu vínculo não natural com a vida é quebrado. Você sente um leve rastro de seu jovem mestre, pois você sabe com certeza que é uma mera criança que brincou com a arte das trevas. A trilha leva às profundezas do mundo cinzento, uma terra de nem vivos nem mortos. </nodes>
+      <outputs name="Pergunte aos aldeoes o que aconteceu aqui." ownerID="7" targetID="14" fromX="1019" fromY="-1801" />Os esqueletos desmoronam, seu vínculo não natural com a vida é quebrado. Você sente um leve rastro de seu jovem mestre, pois você sabe com certeza que é uma mera criança que brincou com a arte das trevas. A trilha leva às profundezas do mundo cinzento, uma terra de nem vivos nem mortos. </nodes>
     <nodes xsi:type="NodeChallenge" ID="8" positionX="1170" positionY="-952" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_3S" challengeScale="0" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -68,10 +68,10 @@
       <outputs ownerID="9" targetID="10" fromX="1689" fromY="-2215" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="1867" positionY="-1589" width="350" height="725">
-      <outputs name="Pergunte aos aldeões o que aconteceu aqui." ownerID="10" targetID="14" fromX="2192" fromY="-2080" />You eventually break the bond that held the unliving here, but the foul magic that awakened them was wild, uncontrolled, and it stung back. 
+      <outputs name="Pergunte aos aldeoes o que aconteceu aqui." ownerID="10" targetID="14" fromX="2192" fromY="-2080" />You eventually break the bond that held the unliving here, but the foul magic that awakened them was wild, uncontrolled, and it stung back. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1504" positionY="238" width="350" height="725">
-      <outputs name="Pergunte aos aldeões o que aconteceu aqui." ownerID="11" targetID="14" fromX="1829" fromY="-253" />You destroy the unliving scourge and burn their bones to ash to make sure they do not rise again.
+      <outputs name="Pergunte aos aldeoes o que aconteceu aqui." ownerID="11" targetID="14" fromX="1829" fromY="-253" />You destroy the unliving scourge and burn their bones to ash to make sure they do not rise again.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2403" positionY="-287" width="350" height="725">
       <outputs name="Corre." ownerID="12" targetID="13" fromX="2728" fromY="-778" />You are badly beaten and forced to flee for now.</nodes>
@@ -129,7 +129,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pergunte aos aldeões o que aconteceu aqui." ownerID="22" targetID="14" fromX="2150" fromY="-1238" />Os esqueletos desmoronam, seu vínculo não natural com a vida é quebrado. Você sente um leve rastro de seu jovem mestre, pois você sabe com certeza que é uma mera criança que brincou com a arte das trevas. A trilha leva às profundezas do mundo cinzento, uma terra de nem vivos nem mortos. </nodes>
+      <outputs name="Pergunte aos aldeoes o que aconteceu aqui." ownerID="22" targetID="14" fromX="2150" fromY="-1238" />Os esqueletos desmoronam, seu vínculo não natural com a vida é quebrado. Você sente um leve rastro de seu jovem mestre, pois você sabe com certeza que é uma mera criança que brincou com a arte das trevas. A trilha leva às profundezas do mundo cinzento, uma terra de nem vivos nem mortos. </nodes>
   </Adventure>
   <Adventure name="Dark Volh Start" uniqueID="7" allowOnce="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="true" typeVillage="false" difficulty="4" nodeIdMax="4" eventTag="TAG-LOGVOLH" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
@@ -401,7 +401,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pegue o espírito e deixe este lugar." ownerID="29" targetID="31" fromX="11" fromY="-2169" />Você usa a pena de um corvo, mergulhada no sangue de três virgens e carregada sob sua axila por três luas cheias. A pena flutua suavemente para o menino, atravessando o mundo cinza sem impedimentos, e ao tocar o coração da criança, ela o mata instantaneamente. Também corta quaisquer ligações mágicas com criaturas impuras que a criança havia chamado para a não-vida. O espírito do menino, limpo e calmo, torna-se seu para comandar.</nodes>
+      <outputs name="Pegue o espírito e deixe este lugar." ownerID="29" targetID="31" fromX="11" fromY="-2169" />Você usa a pena de um corvo, mergulhada no sangue de três virgens e carregada sob sua axila por três luas cheias. A pena flutua suavemente para o menino, atravessando o mundo cinza sem impedimentos, e ao tocar o coração da criança, ela o mata instantaneamente. Também corta quaisquer ligaçoes mágicas com criaturas impuras que a criança havia chamado para a não-vida. O espírito do menino, limpo e calmo, torna-se seu para comandar.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="-800" positionY="-1681" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="80" maxDamage="90" useCountInPercent="true" targetGroup="malewitch">
       <logic>
         <FilterBlock>
@@ -575,7 +575,7 @@
     <nodes xsi:type="NodeAdventure" ID="55" positionX="-2694" positionY="-1567" width="350" height="885">
       <outputs name="Invoque seus deuses e coloque o medo dos submundos nesta criança insuportável!" ownerID="55" targetID="56" fromX="-2368" fromY="-2058" />
       <outputs name="Ataque!" ownerID="55" targetID="51" fromX="-2368" fromY="-2138" />
-      <outputs name="[Usuário de magia] Infelizmente, isso é o que acontece com os volhs quando eles não são guiados corretamente. Ataque este necromante nos reinos espirituais e rápido, antes que seu poder cresça ainda mais!" ownerID="55" targetID="47" fromX="-2368" fromY="-2218" />&#39;Por que eu iria querer desistir do meu poder? Neste mundo, você é o predador ou a presa. Todas as pessoas da minha aldeia eram fracas. Meu professor também, me dizendo para ficar calmo, cuidadoso. Tolos, todos vocês. Eu controlo dragões agora - dragões!&#39; Uma excitação juvenil irradia do necromante, e suas criaturas se voltam para você.</nodes>
+      <outputs name="[Usuário de magia] Infelizmente, isso é o que acontece com os volhs quando eles não são guiados corretamente. Ataque este necromante nos reinos espirituais e rápido, antes que seu poder cresça ainda mais!" ownerID="55" targetID="47" fromX="-2368" fromY="-2218" />&#39;Por que eu iria querer desistir do meu poder? Neste mundo, você é o predador ou a presa. Todas as pessoas da minha aldeia eram fracas. Meu professor também, me dizendo para ficar calmo, cuidadoso. Tolos, todos vocês. Eu controlo dragoes agora - dragoes!&#39; Uma excitação juvenil irradia do necromante, e suas criaturas se voltam para você.</nodes>
     <nodes xsi:type="NodeChallenge" ID="56" positionX="-3360" positionY="-1545" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-DRAGON_VOLH_7P_8M_7S" challengeScale="0" challengedList="ppl">
       <outputs name="Win" ownerID="56" targetID="58" fromX="-2918" fromY="-2040" />
       <outputs name="Lose" ownerID="56" targetID="62" fromX="-2918" fromY="-2120" />
@@ -594,7 +594,7 @@
       </logic>
       <outputs name="Invoque seus deuses e coloque o medo dos submundos nesta criança insuportável!" ownerID="57" targetID="56" fromX="-1911" fromY="-1897" />
       <outputs name="Ataque!" ownerID="57" targetID="51" fromX="-1911" fromY="-1977" />
-      <outputs name="[Usuário de magia] Infelizmente, isso é o que acontece com os volhs quando eles não são guiados corretamente. Ataque este necromante nos reinos espirituais e rápido, antes que seu poder cresça ainda mais!" ownerID="57" targetID="47" fromX="-1911" fromY="-2057" />&#39;Por que eu iria querer desistir do meu poder? Neste mundo, você é o predador ou a presa. Todas as pessoas da minha aldeia eram fracas. Meu professor também, me dizendo para ficar calmo, cuidadoso. Tolos, todos vocês. Eu controlo dragões agora - dragões!&#39; Uma excitação juvenil irradia do necromante, e suas criaturas se voltam para você.</nodes>
+      <outputs name="[Usuário de magia] Infelizmente, isso é o que acontece com os volhs quando eles não são guiados corretamente. Ataque este necromante nos reinos espirituais e rápido, antes que seu poder cresça ainda mais!" ownerID="57" targetID="47" fromX="-1911" fromY="-2057" />&#39;Por que eu iria querer desistir do meu poder? Neste mundo, você é o predador ou a presa. Todas as pessoas da minha aldeia eram fracas. Meu professor também, me dizendo para ficar calmo, cuidadoso. Tolos, todos vocês. Eu controlo dragoes agora - dragoes!&#39; Uma excitação juvenil irradia do necromante, e suas criaturas se voltam para você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="58" positionX="-3912" positionY="-1512" width="350" height="885">
       <logic>
         <ModifierBlock>
@@ -603,7 +603,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Mate o homem. Ele tem a mente de uma criança e o poder de criar dragões." ownerID="58" targetID="66" fromX="-3586" fromY="-2003" />
+      <outputs name="Mate o homem. Ele tem a mente de uma criança e o poder de criar dragoes." ownerID="58" targetID="66" fromX="-3586" fromY="-2003" />
       <outputs name="Diga ao homem que ele ficará com você agora e aprenderá a fazer melhor." ownerID="58" targetID="59" group="G1" fromX="-3586" fromY="-2083" />
       <outputs name="Diga ao homem que ele ficará com você agora e aprenderá a fazer melhor." ownerID="58" targetID="61" group="G1" fromX="-3586" fromY="-2163" />O homem parece assustado com a firmeza de sua voz, como uma criança faria ao ser repreendida por um dos pais. - Eu... eu sinto muito. Eu sei que isso é ruim, mas foi muito divertido... — Ele estala os dedos e o dragão e todos os outros mortos-vivos caem em uma pilha de ossos.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="59" positionX="-4689" positionY="-2029" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
@@ -998,7 +998,7 @@
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="[Caçador ou necrófago] Você sabe como sobreviver a essas provações. Procure sombra, racione sua água e cubra sua cabeça da queimadura." ownerID="2" targetID="3" fromX="721" fromY="-669" />
+      <outputs name="[Caçador ou necrófago] Você sabe como sobreviver a essas provaçoes. Procure sombra, racione sua água e cubra sua cabeça da queimadura." ownerID="2" targetID="3" fromX="721" fromY="-669" />
       <outputs name="[Demônio da água] Esse calor ameaça ferver você vivo! Tente procurar abrigo rápido." ownerID="2" targetID="5" group="G1" fromX="721" fromY="-749" />
       <outputs name="Procure abrigo." ownerID="2" targetID="4" group="G1" fromX="721" fromY="-829" />O sol de verão é escaldante, reforçado pelo chamado não natural dos portadores da luz. O calor está deixando você tonto e fraco. Você deve procurar abrigo rápido ou correr o risco de exaustão.</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="860" positionY="116" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_3M_0S" challengeScale="0" challengedList="ppl">
@@ -2175,7 +2175,7 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="39" targetID="24" group="G1" fromX="-753" fromY="-3087" />O demônio concorda e deixa você em paz. Eventualmente, a poludnica se foi e sua colheita ocorre sem problemas. As celebrações continuam durante toda a noite para honrar os deuses e agradecer por uma boa colheita. Infelizmente, você percebe pela manhã que um de seus filhos se foi. </nodes>
+      <outputs name="Sair." ownerID="39" targetID="24" group="G1" fromX="-753" fromY="-3087" />O demônio concorda e deixa você em paz. Eventualmente, a poludnica se foi e sua colheita ocorre sem problemas. As celebraçoes continuam durante toda a noite para honrar os deuses e agradecer por uma boa colheita. Infelizmente, você percebe pela manhã que um de seus filhos se foi. </nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="-1529" positionY="-2487" width="350" height="805" image="Event102">
       <logic>
         <FilterBlock>
@@ -3362,7 +3362,7 @@ The female growls at him and takes a few steps towards you.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="-1748" positionY="-401" width="350" height="966">
       <outputs name="Pergunte sobre os goblins." ownerID="3" targetID="8" fromX="-1422" fromY="-892" />
       <outputs name="Pergunte sobre os elfos." ownerID="3" targetID="22" fromX="-1422" fromY="-972" />
-      <outputs name="Pergunte sobre os anões." ownerID="3" targetID="33" fromX="-1422" fromY="-1052" />
+      <outputs name="Pergunte sobre os anoes." ownerID="3" targetID="33" fromX="-1422" fromY="-1052" />
       <outputs name="Pergunte sobre os orcs." ownerID="3" targetID="28" fromX="-1422" fromY="-1132" />'Ah yes, them lot, they have their own rules too. Most likely you will need to be friends with their kind first, or else have an adult who can lend their own experience - ya know, a gobbo teaching another gobbo the ways.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="-83" positionY="1768" width="350" height="805" image="Event139">
       <outputs name="Agradeça a ela e vá embora." ownerID="4" targetID="5" fromX="242" fromY="1276" />
@@ -3373,7 +3373,7 @@ The female growls at him and takes a few steps towards you.</nodes>
       <outputs name="Pergunte sobre outra profissão." ownerID="6" targetID="2" fromX="2554" fromY="-2001" />'These jobs are the building blocks of our society. Your child does not need any extra training, and it is the path most likely to succeed without any surprises.' </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="842" positionY="-154" width="350" height="805" image="Event141">
       <outputs name="Agradeça a ela e vá embora." ownerID="7" targetID="5" fromX="1167" fromY="-645" />
-      <outputs name="Pergunte sobre outra profissão." ownerID="7" targetID="2" fromX="1167" fromY="-725" />&#39;Para se tornar uma bruxa, uma criança precisa ser uma mulher forte em magia (4) e ter chance do seu lado (50% para aparecer]. Se a criança for muito forte (7), ela sempre terá a oportunidade de Tente as provações. Ter outra bruxa para ensinar seu filhote aumenta suas chances de sucesso.&#39;</nodes>
+      <outputs name="Pergunte sobre outra profissão." ownerID="7" targetID="2" fromX="1167" fromY="-725" />&#39;Para se tornar uma bruxa, uma criança precisa ser uma mulher forte em magia (4) e ter chance do seu lado (50% para aparecer]. Se a criança for muito forte (7), ela sempre terá a oportunidade de Tente as provaçoes. Ter outra bruxa para ensinar seu filhote aumenta suas chances de sucesso.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="-1055" positionY="-1071" width="350" height="1206">
       <outputs name="Pergunte o que uma criança precisa para se tornar uma escaramuça." ownerID="8" targetID="11" fromX="-729" fromY="-1562" />
       <outputs name="Pergunte o que uma criança precisa para se tornar um cavaleiro de javali." ownerID="8" targetID="19" fromX="-729" fromY="-1642" />
@@ -3395,10 +3395,10 @@ The female growls at him and takes a few steps towards you.</nodes>
       <outputs name="Pergunte sobre outra profissão." ownerID="12" targetID="2" fromX="708" fromY="1209" />'To become a hunter, a child will need to be perceptive (3]. If the child is very perceptive (4), they will also have a better chance of succeeding.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="920" positionY="1677" width="350" height="805" image="Event134">
       <outputs name="Agradeça a ela e vá embora." ownerID="14" targetID="5" fromX="1245" fromY="1185" />
-      <outputs name="Pergunte sobre outra profissão." ownerID="14" targetID="2" fromX="1245" fromY="1105" />&#39;Para se tornar uma bruxa, uma criança precisa ser uma mulher forte em magia (4) e ter chance do seu lado (50% para aparecer]. Se a criança for muito forte (7), ela sempre terá a oportunidade de Tente as provações. Ter outra bruxa para ensinar seu filhote aumenta suas chances de sucesso.&#39;</nodes>
+      <outputs name="Pergunte sobre outra profissão." ownerID="14" targetID="2" fromX="1245" fromY="1105" />&#39;Para se tornar uma bruxa, uma criança precisa ser uma mulher forte em magia (4) e ter chance do seu lado (50% para aparecer]. Se a criança for muito forte (7), ela sempre terá a oportunidade de Tente as provaçoes. Ter outra bruxa para ensinar seu filhote aumenta suas chances de sucesso.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="385" positionY="915" width="350" height="805" image="Event127">
       <outputs name="Agradeça a ela e vá embora." ownerID="15" targetID="5" fromX="710" fromY="423" />
-      <outputs name="Pergunte sobre outra profissão." ownerID="15" targetID="2" fromX="710" fromY="343" />&#39;Para se tornar uma bruxa, uma criança precisa ser uma mulher forte em magia (4) e ter chance do seu lado (50% para aparecer]. Se a criança for muito forte (7), ela sempre terá a oportunidade de Tente as provações. Ter outra bruxa para ensinar seu filhote aumenta suas chances de sucesso.&#39;</nodes>
+      <outputs name="Pergunte sobre outra profissão." ownerID="15" targetID="2" fromX="710" fromY="343" />&#39;Para se tornar uma bruxa, uma criança precisa ser uma mulher forte em magia (4) e ter chance do seu lado (50% para aparecer]. Se a criança for muito forte (7), ela sempre terá a oportunidade de Tente as provaçoes. Ter outra bruxa para ensinar seu filhote aumenta suas chances de sucesso.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="824" positionY="698" width="350" height="805" image="Event222">
       <outputs name="Agradeça a ela e vá embora." ownerID="16" targetID="5" fromX="1149" fromY="206" />
       <outputs name="Pergunte sobre outra profissão." ownerID="16" targetID="2" fromX="1149" fromY="126" />'To become a bandit, a child will need to be fast (3) and have chance on their side (50% to appear].'</nodes>
@@ -5266,7 +5266,7 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="[Luz] Comece as celebrações em nome da luz!" ownerID="2" targetID="3" fromX="737" fromY="-715" />
+      <outputs name="[Luz] Comece as celebraçoes em nome da luz!" ownerID="2" targetID="3" fromX="737" fromY="-715" />
       <outputs name="[Turmoil] Honre o sol em nome da turbulência!" ownerID="2" targetID="5" fromX="737" fromY="-795" />
       <outputs name="[Harmonia] Elogie o sol pela harmonia." ownerID="2" targetID="18" fromX="737" fromY="-875" />
       <outputs name="[Magia] Honre o poder do sol em nome da magia." ownerID="2" targetID="21" fromX="737" fromY="-955" />
@@ -5533,7 +5533,7 @@ To keep the dark at bay and call out to the sun on the very day when the night i
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="3" targetID="4" fromX="1301" fromY="-620" />Seus animais estão indo muito bem, então você terá uma boa carne este ano. E talvez até algumas novas adições.</nodes>
+      <outputs name="Alegrar." ownerID="3" targetID="4" fromX="1301" fromY="-620" />Seus animais estão indo muito bem, então você terá uma boa carne este ano. E talvez até algumas novas adiçoes.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="4" positionX="1584" positionY="-298" width="460" height="750">
       <outputs ownerID="4" targetID="6" group="G1" fromX="2018" fromY="-660" />
       <outputs ownerID="4" targetID="7" group="G1" fromX="2018" fromY="-740" />
@@ -6681,7 +6681,7 @@ To keep the dark at bay and call out to the sun on the very day when the night i
       <outputs name="[Elf] Treine para se tornar um guardião." ownerID="2" targetID="4" fromX="742" fromY="-754" />
       <outputs name="[Homem anão] Treine para se tornar um mestre de guerra." ownerID="2" targetID="5" fromX="742" fromY="-834" />
       <outputs name="[Homem anão] Treine para se tornar um jovem ferreiro." ownerID="2" targetID="6" fromX="742" fromY="-914" />
-      <outputs name="[Fêmea anã] Treine para se tornar um jovem ferreiro. Como escolhido dos deuses, você pode desafiar as convenções!" ownerID="2" targetID="7" fromX="742" fromY="-994" />
+      <outputs name="[Fêmea anã] Treine para se tornar um jovem ferreiro. Como escolhido dos deuses, você pode desafiar as convençoes!" ownerID="2" targetID="7" fromX="742" fromY="-994" />
       <outputs name="[Orc feminino] Torne-se uma bruxa." ownerID="2" targetID="8" fromX="742" fromY="-1075" />
       <outputs name="[Orc] Treine para ser um guerreiro." ownerID="2" targetID="9" fromX="742" fromY="-1155" />
       <outputs name="[Goblin] Torne-se um cavaleiro de javali." ownerID="2" targetID="10" fromX="742" fromY="-1235" />
@@ -7590,7 +7590,7 @@ To keep the dark at bay and call out to the sun on the very day when the night i
       <outputs name="Tente convencer a multidão a se acalmar e sair." ownerID="4" targetID="5" fromX="1231" fromY="-562" />
       <outputs name="Ataque a multidão." ownerID="4" targetID="6" fromX="1231" fromY="-642" />
       <outputs name="Ajude a multidão furiosa a matar a bruxa má." ownerID="4" targetID="14" fromX="1231" fromY="-722" />
-      <outputs name="[Bruxa ou volh] Use sua própria magia para se conectar à cabana e proteger a bruxa dentro do povo ignorante." ownerID="4" targetID="7" fromX="1231" fromY="-802" />&#39;Encontramos uma bruxa malvada, e vamos queimá-la por todo o mal que ela fez!&#39; Outros acenam. Você os ouve mencionar maldições, maus presságios e espíritos malignos. A bruxa em questão está escondida dentro da cabana. Você a ouve chorar e implorar por sua vida, jurando que ela nunca fez nada de ruim.</nodes>
+      <outputs name="[Bruxa ou volh] Use sua própria magia para se conectar à cabana e proteger a bruxa dentro do povo ignorante." ownerID="4" targetID="7" fromX="1231" fromY="-802" />&#39;Encontramos uma bruxa malvada, e vamos queimá-la por todo o mal que ela fez!&#39; Outros acenam. Você os ouve mencionar maldiçoes, maus presságios e espíritos malignos. A bruxa em questão está escondida dentro da cabana. Você a ouve chorar e implorar por sua vida, jurando que ela nunca fez nada de ruim.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1364" positionY="270" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-BANDITS_5P_4M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="8" fromX="1805" fromY="-225" />
       <outputs name="Lose" ownerID="5" targetID="28" fromX="1805" fromY="-305" />
@@ -7634,7 +7634,7 @@ To keep the dark at bay and call out to the sun on the very day when the night i
       <outputs name="Na verdade, ser um rato não é tão ruim. Agradeça a ela pela nova perspectiva e peça outro pagamento por salvar sua vida." ownerID="9" targetID="40" fromX="2843" fromY="255" />
       <outputs name="Mate ela!" ownerID="9" targetID="10" fromX="2843" fromY="175" />
       <outputs name="[Bruxa] Exija que ela lhe dê um corte de cabelo nas axilas e duas unhas dos pés, e diga a ela para cuspir por cima do ombro esquerdo três vezes para que você possa pegá-lo. Isso fará uma poção para quebrar a maldição com certeza." ownerID="9" targetID="29" fromX="2843" fromY="95" />
-      <outputs name="[Gusla or volh]Demand that she give you a clipping of her armpit hair and two toenails, and tell her to spit over her left shoulder three times so you can catch it. This will make a potion to break the curse for sure.&#xD;" ownerID="9" targetID="31" fromX="2843" fromY="15" />A bruxa não mostra remorso e dá de ombros: &#39;Quebrar maldições não é o mesmo que distribuí-las, minha querida. Mas você salvou meu bacon, então posso tentar ajudá-lo. Não vai ser fácil.&#39;</nodes>
+      <outputs name="[Gusla or volh]Demand that she give you a clipping of her armpit hair and two toenails, and tell her to spit over her left shoulder three times so you can catch it. This will make a potion to break the curse for sure.&#xD;" ownerID="9" targetID="31" fromX="2843" fromY="15" />A bruxa não mostra remorso e dá de ombros: &#39;Quebrar maldiçoes não é o mesmo que distribuí-las, minha querida. Mas você salvou meu bacon, então posso tentar ajudá-lo. Não vai ser fácil.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="3343" positionY="418" width="350" height="885">
       <outputs name="Mate-a de qualquer maneira." ownerID="10" targetID="12" fromX="3668" fromY="-73" />
       <outputs name="Na verdade, ser um rato não é tão ruim. Agradeça a ela pela nova perspectiva e peça outro pagamento por salvar sua vida." ownerID="10" targetID="40" fromX="3668" fromY="-153" />
@@ -7772,7 +7772,7 @@ To keep the dark at bay and call out to the sun on the very day when the night i
       <outputs name="Run away!&#xD;&#xA;" ownerID="24" targetID="25" fromX="4665" fromY="-2957" />Many people in the crowd around you begin to squeal and transform into vermin, but you manage to shield yourselves from the worst of it and suffer only from broken spirits - for now.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="4824" positionY="-2743" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventure" ID="26" positionX="2537" positionY="-323" width="350" height="725">
-      <outputs name="Sair." ownerID="26" targetID="25" fromX="2862" fromY="-814" />Você não consegue lidar com a multidão e ajudar a bruxa, mas ela aproveitou esse tempo para escapar. As pessoas estão zangadas, e você recebe algumas pancadas e contusões enquanto elas o afugentam.</nodes>
+      <outputs name="Sair." ownerID="26" targetID="25" fromX="2862" fromY="-814" />Você não consegue lidar com a multidão e ajudar a bruxa, mas ela aproveitou esse tempo para escapar. As pessoas estão zangadas, e você recebe algumas pancadas e contusoes enquanto elas o afugentam.</nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="2974" positionY="-458" width="350" height="725">
       <outputs name="Sair." ownerID="27" targetID="25" fromX="3299" fromY="-949" />You get badly beaten and chased away.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="28" positionX="1940" positionY="-466" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
@@ -7790,7 +7790,7 @@ To keep the dark at bay and call out to the sun on the very day when the night i
         </FilterBlock>
       </logic>
       <outputs name="[Somente rato amaldiçoado] Beba." ownerID="29" targetID="30" fromX="4099" fromY="813" />
-      <outputs name="Tente uma maneira diferente." ownerID="29" targetID="9" fromX="4099" fromY="733" />— Bah, você sabe que isso vai tirar um pouco do meu poder, mas suponho que devo ao rato, e você é uma irmã. Aqui, aproveite. Não me culpe se o desfazer da maldição não devolver exatamente o que era. Mas eles não serão um rato, com certeza. Ela segue suas instruções ao pé da letra e até ajuda você a preparar a poção. Agora tudo que você deve fazer é beber e não vomitar. Você só tem uma chance.</nodes>
+      <outputs name="Tente uma maneira diferente." ownerID="29" targetID="9" fromX="4099" fromY="733" />— Bah, você sabe que isso vai tirar um pouco do meu poder, mas suponho que devo ao rato, e você é uma irmã. Aqui, aproveite. Não me culpe se o desfazer da maldição não devolver exatamente o que era. Mas eles não serão um rato, com certeza. Ela segue suas instruçoes ao pé da letra e até ajuda você a preparar a poção. Agora tudo que você deve fazer é beber e não vomitar. Você só tem uma chance.</nodes>
     <nodes xsi:type="NodeChallenge" ID="30" positionX="4252" positionY="1471" width="500" height="807" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_2P_0M_0S" challengeScale="0" challengedList="cursed">
       <logic>
         <FilterBlock>
@@ -7816,7 +7816,7 @@ To keep the dark at bay and call out to the sun on the very day when the night i
         </FilterBlock>
       </logic>
       <outputs name="[Somente rato amaldiçoado] Beba." ownerID="31" targetID="30" fromX="3042" fromY="1201" />
-      <outputs name="Tente uma maneira diferente." ownerID="31" targetID="9" fromX="3042" fromY="1121" />&#39;Bah, um homem-bruxo me dizendo o que fazer... Na minha época, você era esperto o suficiente para esconder suas canecas! Veles que se dane por permitir isso. Mas justo é justo... aqui. Ela segue suas instruções ao pé da letra e até ajuda você a preparar a poção. Agora tudo que você deve fazer é beber e não vomitar. Você só tem uma chance.</nodes>
+      <outputs name="Tente uma maneira diferente." ownerID="31" targetID="9" fromX="3042" fromY="1121" />&#39;Bah, um homem-bruxo me dizendo o que fazer... Na minha época, você era esperto o suficiente para esconder suas canecas! Veles que se dane por permitir isso. Mas justo é justo... aqui. Ela segue suas instruçoes ao pé da letra e até ajuda você a preparar a poção. Agora tudo que você deve fazer é beber e não vomitar. Você só tem uma chance.</nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="4942" positionY="1505" width="350" height="725">
       <logic>
         <FilterBlock>

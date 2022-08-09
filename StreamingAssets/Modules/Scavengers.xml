@@ -382,7 +382,7 @@
       </logic>
       <outputs name="[Bruxa] Diga que você só precisa da ajuda de sua irmã. Você mesmo pagará o preço e promete não sobrecarregá-la." ownerID="26" targetID="29" fromX="2432" fromY="-2616" />
       <outputs name="Aceite pagar o preço." ownerID="26" targetID="31" fromX="2432" fromY="-2697" />
-      <outputs name="Peça para curar suas feridas espirituais." ownerID="26" targetID="55" fromX="2432" fromY="-2777" />— Uma bruxa, é isso que você procura, hein? A magia tem um preço. Curar o espírito é mais fácil. Maldições - bem, são coisas desagradáveis, e vão te custar mais. Custar seu sangue.</nodes>
+      <outputs name="Peça para curar suas feridas espirituais." ownerID="26" targetID="55" fromX="2432" fromY="-2777" />— Uma bruxa, é isso que você procura, hein? A magia tem um preço. Curar o espírito é mais fácil. Maldiçoes - bem, são coisas desagradáveis, e vão te custar mais. Custar seu sangue.</nodes>
     <nodes xsi:type="NodeTrade" ID="27" positionX="1100.61682" positionY="-2595.55737" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-500">
       <logic>
         <FilterBlock>
@@ -434,7 +434,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ela e vá embora." ownerID="29" targetID="4" fromX="2846" fromY="-2512" />A bruxa diz: &#39;Bah, deveria ter dito isso, mana. Eu não teria tentado te vender a porcaria do preço, ha. Vamos lá.&#39; Juntos, vocês removem quaisquer maldições que tenham.
+      <outputs name="Agradeça a ela e vá embora." ownerID="29" targetID="4" fromX="2846" fromY="-2512" />A bruxa diz: &#39;Bah, deveria ter dito isso, mana. Eu não teria tentado te vender a porcaria do preço, ha. Vamos lá.&#39; Juntos, vocês removem quaisquer maldiçoes que tenham.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="3049.31543" positionY="-2679.04932" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="20" useCountInPercent="true" targetGroup="half">
       <logic>
@@ -979,7 +979,7 @@
       </logic>
       <outputs name="[Bruxa] Diga que você só precisa da ajuda de sua irmã. Você mesmo pagará o preço e promete não sobrecarregá-la." ownerID="26" targetID="29" fromX="2432" fromY="-2616" />
       <outputs name="Aceite pagar o preço." ownerID="26" targetID="31" fromX="2432" fromY="-2697" />
-      <outputs name="Peça para curar suas feridas espirituais." ownerID="26" targetID="62" fromX="2432" fromY="-2777" />— Uma bruxa, é isso que você procura, hein? A magia tem um preço. Curar o espírito é mais fácil. Maldições - bem, são coisas desagradáveis, e vão te custar mais. Custar seu sangue.</nodes>
+      <outputs name="Peça para curar suas feridas espirituais." ownerID="26" targetID="62" fromX="2432" fromY="-2777" />— Uma bruxa, é isso que você procura, hein? A magia tem um preço. Curar o espírito é mais fácil. Maldiçoes - bem, são coisas desagradáveis, e vão te custar mais. Custar seu sangue.</nodes>
     <nodes xsi:type="NodeTrade" ID="27" positionX="1051" positionY="-2588" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-500">
       <logic>
         <FilterBlock>
@@ -1031,7 +1031,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ela e vá embora." ownerID="29" targetID="4" fromX="2897" fromY="-2501" />A bruxa diz: &#39;Bah, deveria ter dito isso, mana. Eu não teria tentado te vender a porcaria do preço, ha. Vamos lá.&#39; Juntos, vocês removem quaisquer maldições que tenham.
+      <outputs name="Agradeça a ela e vá embora." ownerID="29" targetID="4" fromX="2897" fromY="-2501" />A bruxa diz: &#39;Bah, deveria ter dito isso, mana. Eu não teria tentado te vender a porcaria do preço, ha. Vamos lá.&#39; Juntos, vocês removem quaisquer maldiçoes que tenham.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="3033.59326" positionY="-2673.0022" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="15" useCountInPercent="true" targetGroup="half">
       <logic>
@@ -1433,7 +1433,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Você tem gente que sabe lidar com abelhas. Considere suas opções." ownerID="2" targetID="3" fromX="-905" fromY="-207" />
+      <outputs name="Você tem gente que sabe lidar com abelhas. Considere suas opçoes." ownerID="2" targetID="3" fromX="-905" fromY="-207" />
       <outputs name="[Sabedoria] Você sabe um pouco sobre abelhas, então pense em uma maneira de lidar com elas." ownerID="2" targetID="4" fromX="-905" fromY="-287" />
       <outputs name="[Natureza ou Intelecto] Use sua habilidade mental para descobrir o que fazer." ownerID="2" targetID="16" fromX="-905" fromY="-367" />
       <outputs name="Use sua comida para atrair as abelhas para longe do território e torcer para que elas não voltem." ownerID="2" targetID="50" fromX="-905" fromY="-447" />
@@ -1488,7 +1488,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Sim, mate-os um por um." ownerID="4" targetID="9" fromX="1430" fromY="-552" />
-      <outputs name="Você tem gente que sabe lidar com abelhas. Considere suas opções." ownerID="4" targetID="3" fromX="1430" fromY="-632" />
+      <outputs name="Você tem gente que sabe lidar com abelhas. Considere suas opçoes." ownerID="4" targetID="3" fromX="1430" fromY="-632" />
       <outputs name="Basta matá-los à moda antiga." ownerID="4" targetID="24" fromX="1430" fromY="-713" />Você pode tentar usar um pouco de fumaça espessa com sementes de papoula envenenadas. Isso vai sufocar as abelhas lentamente, mas deve se livrar delas. No entanto, se as coisas derem errado, eles ficarão muito irritados.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="700.1601" positionY="1703.26575" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-BEES_2P_1M_0S" challengeScale="101" challengedList="animalsi">
       <logic>
@@ -2108,7 +2108,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="44" targetID="36" fromX="2378" fromY="219" />&#39;Sim, você tem boas vibrações, então vamos como dissemos. Que os espíritos sejam gentis com você. Os gobbos seguem em frente e os catadores ficam satisfeitos. 
+      <outputs name="Sair." ownerID="44" targetID="36" fromX="2378" fromY="219" />&#39;Sim, você tem boas vibraçoes, então vamos como dissemos. Que os espíritos sejam gentis com você. Os gobbos seguem em frente e os catadores ficam satisfeitos. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="-113" positionY="1227" width="350" height="805">
       <logic>
@@ -3398,7 +3398,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="18" targetID="20" group="G1" fromX="3922" fromY="-781" />
-      <outputs name="Sair." ownerID="18" targetID="21" group="G1" fromX="3922" fromY="-861" />Você monta as armadilhas e se livra dos vermes. Os aldeões agradecem e deixam uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="21" group="G1" fromX="3922" fromY="-861" />Você monta as armadilhas e se livra dos vermes. Os aldeoes agradecem e deixam uma recompensa.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="19" positionX="1501.08484" positionY="-17.5874252" width="460" height="429" sourceGroup="GROUP-FAT_RATS_MIX_1P_1M_1S" cargoPercentage="100" dropPercentage="100">
       <outputs ownerID="19" targetID="18" fromX="1931" fromY="-375" />
     </nodes>
@@ -3614,7 +3614,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="50" targetID="20" group="G1" fromX="2799" fromY="-1636" />
-      <outputs name="Sair." ownerID="50" targetID="21" group="G1" fromX="2799" fromY="-1636" />Os ratos ouvem e fogem da aldeia. Natureza e Harmonia são satisfeitas por suas ações. Os catadores agradecem e deixam uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="21" group="G1" fromX="2799" fromY="-1636" />Os ratos ouvem e fogem da aldeia. Natureza e Harmonia são satisfeitas por suas açoes. Os catadores agradecem e deixam uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="3649.54346" positionY="-1426.80615" width="350" height="761">
       <logic>
         <ModifierBlock>
@@ -3926,7 +3926,7 @@ It purrs at you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="23" fromX="1673" fromY="-3134" />Acontece que não há honra entre os ladrões - os bandidos retornam ao seu território. Os catadores não estão felizes com você.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="23" fromX="1673" fromY="-3134" />Acontece que não há honra entre os ladroes - os bandidos retornam ao seu território. Os catadores não estão felizes com você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="783.927856" positionY="-2763.65186" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -7034,7 +7034,7 @@ You feel a warm glow that seems pleasant at first, then becomes stifling, hot, a
       <outputs name="[Pirata] Tente negociar com os piratas." ownerID="2" targetID="55" group="G1" fromX="755" fromY="-572" />
       <outputs name="Tente negociar com os piratas." ownerID="2" targetID="9" group="G1" fromX="755" fromY="-652" />
       <outputs name="Pergunte o que os piratas estão fazendo em terra." ownerID="2" targetID="56" fromX="755" fromY="-732" />
-      <outputs name="Diga que você ainda não fez a tarefa, mas deseja revisar suas opções novamente." ownerID="2" targetID="58" fromX="755" fromY="-813" />This settlement is now overrun with orc pirates. Some of the locals are chained and forced to work, with others locked up in cages or hung on display as examples. </nodes>
+      <outputs name="Diga que você ainda não fez a tarefa, mas deseja revisar suas opçoes novamente." ownerID="2" targetID="58" fromX="755" fromY="-813" />This settlement is now overrun with orc pirates. Some of the locals are chained and forced to work, with others locked up in cages or hung on display as examples. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-473" positionY="-797" width="350" height="530" logBookName="QUEST_OCCUPSCAV" logBookDescription="QUEST_OCCUPSLAV_DES3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="4" positionX="844" positionY="239" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-PIRATES_5P_4M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="4" targetID="38" fromX="1285" fromY="-256" />

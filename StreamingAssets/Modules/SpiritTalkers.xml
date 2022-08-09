@@ -906,13 +906,13 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="[Gente da floresta] Aproxime-se com cautela e tente falar com os guardiões da floresta." ownerID="2" targetID="3" fromX="311" fromY="-491" />
+      <outputs name="[Gente da floresta] Aproxime-se com cautela e tente falar com os guardioes da floresta." ownerID="2" targetID="3" fromX="311" fromY="-491" />
       <outputs name="[Goblin Shaman] Peça aos espíritos da floresta para lhe dizer o que está errado aqui." ownerID="2" targetID="4" fromX="311" fromY="-571" />
       <outputs name="[Harmony] Evoque o poder da Harmonia para apaziguar a raiva deste velho espírito." ownerID="2" targetID="16" fromX="311" fromY="-651" />
       <outputs name="[Natureza]Chame seu domínio para mostrar aos demônios da floresta que você está do lado deles." ownerID="2" targetID="57" fromX="311" fromY="-731" />
       <outputs name="Ataque!" ownerID="2" targetID="24" fromX="311" fromY="-811" />
       <outputs name="Ofereça sua própria energia espiritual para apaziguar essa velha criatura e faça com que ela deixe os goblins em paz. [Sofre dano espiritual]" ownerID="2" targetID="58" fromX="311" fromY="-892" />
-      <outputs name="Volte mais tarde." ownerID="2" targetID="31" fromX="311" fromY="-972" />Você se aproxima da área onde dizem que os guardiões da floresta desonestos moram. Você vê um bosque escuro e fechado e sente muitos olhos observando você.</nodes>
+      <outputs name="Volte mais tarde." ownerID="2" targetID="31" fromX="311" fromY="-972" />Você se aproxima da área onde dizem que os guardioes da floresta desonestos moram. Você vê um bosque escuro e fechado e sente muitos olhos observando você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="-683.1542" positionY="1935.07715" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -923,7 +923,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
       </logic>
       <outputs name="[Demônio da floresta] Chame seus irmãos e lembre-os de que os goblins também são amigos da floresta e não devem ser atacados sem motivo!" ownerID="3" targetID="7" group="G1" fromX="-357" fromY="1443" />
       <outputs name="[Demônio da floresta] Chame seus irmãos e lembre-os de que os goblins também são amigos da floresta e não devem ser atacados sem motivo!" ownerID="3" targetID="42" group="G1" fromX="-357" fromY="1363" />
-      <outputs name="Implore aos guardiões da floresta que ouçam a razão. Certamente os goblins não fizeram nada para merecer serem atacados." ownerID="3" targetID="5" fromX="-357" fromY="1283" />
+      <outputs name="Implore aos guardioes da floresta que ouçam a razão. Certamente os goblins não fizeram nada para merecer serem atacados." ownerID="3" targetID="5" fromX="-357" fromY="1283" />
       <outputs name="[Usuário de magia] Este guardião da floresta parece um pouco desequilibrado. Entre no reino dos espíritos e lute com eles lá para que você possa trazer algum sentido para a velha floresta." ownerID="3" targetID="6" fromX="-357" fromY="1203" />
       <outputs name="[Orc] Esses demônios da floresta estão fora de controle. Cerque-os, plante piras nos lugares certos e queime-os! Será um desafio fazê-lo rápido o suficiente, mas você sabe como queimar florestas." ownerID="3" targetID="30" fromX="-357" fromY="1123" />
       <outputs name="Ataque!" ownerID="3" targetID="24" fromX="-357" fromY="1042" />Há certamente um espírito da floresta aqui. Ele fala: &#39;Eu reivindico este pedaço de floresta, então é melhor você ir embora!&#39;</nodes>
@@ -939,11 +939,11 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Sim, faça isso. Um guardião desonesto é perigoso para a floresta e os espíritos que habitam aqui." ownerID="4" targetID="9" fromX="1307" fromY="-248" />
-      <outputs name="[Gente da floresta] Aproxime-se com cautela e tente falar com os guardiões da floresta." ownerID="4" targetID="3" fromX="1307" fromY="-328" />
+      <outputs name="[Gente da floresta] Aproxime-se com cautela e tente falar com os guardioes da floresta." ownerID="4" targetID="3" fromX="1307" fromY="-328" />
       <outputs name="Desistir. Informe os goblins disso." ownerID="4" targetID="37" fromX="1307" fromY="-408" />
       <outputs name="Ataque!" ownerID="4" targetID="24" fromX="1307" fromY="-488" />
       <outputs name="[Harmony] Invoque o poder da Harmonia para apaziguar a raiva deste velho espírito." ownerID="4" targetID="16" fromX="1307" fromY="-568" />
-      <outputs name="Ofereça sua própria energia espiritual para apaziguar essa velha criatura e faça com que ela deixe os goblins em paz. [Sofre dano espiritual]" ownerID="4" targetID="58" fromX="1307" fromY="-649" />Os espíritos lhe dizem que os vilões estão maculados por uma estranha luz ardente. Isso os torna mais agressivos e instáveis. Os espíritos se oferecem para prender as almas do vil no reino espiritual, mas isso significará uma morte lenta e dolorosa para eles.</nodes>
+      <outputs name="Ofereça sua própria energia espiritual para apaziguar essa velha criatura e faça com que ela deixe os goblins em paz. [Sofre dano espiritual]" ownerID="4" targetID="58" fromX="1307" fromY="-649" />Os espíritos lhe dizem que os viloes estão maculados por uma estranha luz ardente. Isso os torna mais agressivos e instáveis. Os espíritos se oferecem para prender as almas do vil no reino espiritual, mas isso significará uma morte lenta e dolorosa para eles.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="333.6225" positionY="2161.81152" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-VILY_MIX_2P_3M_3S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -996,7 +996,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="7" targetID="40" fromX="279" fromY="2606" />Os guardiões da floresta ouvem e admitem que estavam sendo excessivamente protetores. Eles agradecem por lembrá-los. Os goblins também estão gratos por esta resolução pacífica e deixam um presente para você.
+      <outputs name="Sair." ownerID="7" targetID="40" fromX="279" fromY="2606" />Os guardioes da floresta ouvem e admitem que estavam sendo excessivamente protetores. Eles agradecem por lembrá-los. Os goblins também estão gratos por esta resolução pacífica e deixam um presente para você.
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="9" positionX="1546.85742" positionY="69.5128555" width="460" height="509" sourceGroup="GROUP-VILY_4P_4M_3S" cargoPercentage="100" dropPercentage="100">
       <outputs ownerID="9" targetID="12" group="G1" fromX="1977" fromY="-288" />
@@ -1069,7 +1069,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="17" targetID="36" fromX="2004" fromY="283" />You face the vily in the spirit realm and find their auras tainted by burning light, which you help to clear. Os guardiões da floresta ouvem e admitem que estavam sendo excessivamente protetores. Eles agradecem por lembrá-los. Os goblins também estão gratos por esta resolução pacífica e deixam um presente para você.
+      <outputs name="Sair." ownerID="17" targetID="36" fromX="2004" fromY="283" />You face the vily in the spirit realm and find their auras tainted by burning light, which you help to clear. Os guardioes da floresta ouvem e admitem que estavam sendo excessivamente protetores. Eles agradecem por lembrá-los. Os goblins também estão gratos por esta resolução pacífica e deixam um presente para você.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2719" positionY="129" width="350" height="725">
       <outputs name="Sair." ownerID="18" targetID="10" fromX="3044" fromY="-362" />Os goblins estão fascinados com o que aconteceu aqui, embora estejam preocupados com a brutalidade de seu ato e seus efeitos de longo prazo no mundo cinza espiritual nesta área. Sua amizade não cresce tanto quanto você esperava, mas você ainda é recompensado.
@@ -1217,7 +1217,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="42" targetID="40" fromX="258" fromY="1812" />&#39;Goblins são gente de carne, você os serve também, então você vai pagar por toda a dor da floresta!&#39; Os guardiões da floresta atacam você, e os goblins têm que vir em seu socorro. 
+      <outputs name="Sair." ownerID="42" targetID="40" fromX="258" fromY="1812" />&#39;Goblins são gente de carne, você os serve também, então você vai pagar por toda a dor da floresta!&#39; Os guardioes da floresta atacam você, e os goblins têm que vir em seu socorro. 
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="47" positionX="2734.531" positionY="703.9092" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="40" useCountInPercent="true" targetGroup="woodkin">
       <outputs ownerID="47" targetID="27" fromX="3163" fromY="315" />
@@ -1268,7 +1268,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="55" targetID="36" fromX="1295" fromY="973" />Seu plano funciona e os guardiões da floresta são muito lentos para escapar das chamas. Os goblins, no entanto, estão horrorizados com a destruição de suas terras. Eles sussurram algo sobre brutos orcs fazendo suas coisas típicas. Sua amizade não cresce.</nodes>
+      <outputs name="Sair." ownerID="55" targetID="36" fromX="1295" fromY="973" />Seu plano funciona e os guardioes da floresta são muito lentos para escapar das chamas. Os goblins, no entanto, estão horrorizados com a destruição de suas terras. Eles sussurram algo sobre brutos orcs fazendo suas coisas típicas. Sua amizade não cresce.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="56" positionX="1406" positionY="-728" width="460" height="429">
       <logic>
         <ModifierBlock>
@@ -1301,7 +1301,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="57" targetID="36" fromX="787" fromY="-406" />Os guardiões da floresta ouvem e admitem que estavam sendo excessivamente protetores. Eles agradecem por lembrá-los. Os goblins também estão gratos por esta resolução pacífica e deixam um presente para você.
+      <outputs name="Sair." ownerID="57" targetID="36" fromX="787" fromY="-406" />Os guardioes da floresta ouvem e admitem que estavam sendo excessivamente protetores. Eles agradecem por lembrá-los. Os goblins também estão gratos por esta resolução pacífica e deixam um presente para você.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="58" positionX="-210.806458" positionY="-1279.20276" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="20" maxDamage="30" useCountInPercent="true" targetGroup="half">
       <logic>
@@ -1373,10 +1373,10 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
       <outputs name="Você tem gente que sabe sobre os mortos-vivos. Olhe mais de perto." ownerID="2" targetID="3" group="G1" fromX="798" fromY="-687" />
       <outputs name="[Natureza ou Luz] Através da Natureza e da Luz, limpe este lugar da força maligna que viola as leis de seus deuses." ownerID="2" targetID="16" fromX="798" fromY="-767" />
       <outputs name="Ataque!" ownerID="2" targetID="24" fromX="798" fromY="-847" />
-      <outputs name="[Zerca] Essas aparições estão presas aqui, e você sabe por qual ritual. Tudo o que você precisa fazer é enterrar um pouco de prata no chão e sacrificar um animal de estimação, e as aparições não incomodarão mais os goblins. Faça isso." ownerID="2" targetID="55" fromX="798" fromY="-927" />
+      <outputs name="[Zerca] Essas apariçoes estão presas aqui, e você sabe por qual ritual. Tudo o que você precisa fazer é enterrar um pouco de prata no chão e sacrificar um animal de estimação, e as apariçoes não incomodarão mais os goblins. Faça isso." ownerID="2" targetID="55" fromX="798" fromY="-927" />
       <outputs name="Volte mais tarde." ownerID="2" targetID="56" fromX="798" fromY="-1008" />
       <outputs name="[Xamã Goblin] Entre no mundo cinza e enfrente os fantasmas lá para que você possa liberá-los desse sofrimento." ownerID="2" targetID="58" fromX="798" fromY="-1088" />
-      <outputs name="[Goblin ou espírito] Aparições são apenas almas perdidas, ligadas a uma emoção, lugar ou pessoa. Procure o que quer que possa estar mantendo-os presos aqui." ownerID="2" targetID="60" fromX="798" fromY="-1168" />You find the small graveyard where the goblins warned of spirit trouble.</nodes>
+      <outputs name="[Goblin ou espírito] Apariçoes são apenas almas perdidas, ligadas a uma emoção, lugar ou pessoa. Procure o que quer que possa estar mantendo-os presos aqui." ownerID="2" targetID="60" fromX="798" fromY="-1168" />You find the small graveyard where the goblins warned of spirit trouble.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="-6" positionY="1241" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -1388,12 +1388,12 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="[Wraith] Peça a eles para seguir em frente ou deixe os aldeões em paz." ownerID="3" targetID="7" group="G1" fromX="319" fromY="749" />
-      <outputs name="[Wraith] Peça a eles para seguir em frente ou deixe os aldeões em paz." ownerID="3" targetID="42" group="G1" fromX="319" fromY="669" />
+      <outputs name="[Wraith] Peça a eles para seguir em frente ou deixe os aldeoes em paz." ownerID="3" targetID="7" group="G1" fromX="319" fromY="749" />
+      <outputs name="[Wraith] Peça a eles para seguir em frente ou deixe os aldeoes em paz." ownerID="3" targetID="42" group="G1" fromX="319" fromY="669" />
       <outputs name="[Usuário de magia] Realize um ritual que manterá os mortos-vivos presos aqui. Isso é magia negra e pode custar algo, mas deve funcionar." ownerID="3" targetID="5" fromX="319" fromY="589" />
       <outputs name="Você os pegou de surpresa, ataque!" ownerID="3" targetID="30" fromX="319" fromY="509" />
       <outputs name="[Xamã Goblin] Entre no mundo cinza e enfrente os fantasmas lá para que você possa liberá-los desse sofrimento." ownerID="3" targetID="58" fromX="319" fromY="429" />
-      <outputs name="[Goblin ou espírito] Aparições são apenas almas perdidas, ligadas a uma emoção, lugar ou pessoa. Procure o que quer que possa estar mantendo-os presos aqui." ownerID="3" targetID="60" fromX="319" fromY="348" />You spot several wraiths walking in circles around a gravestone.</nodes>
+      <outputs name="[Goblin ou espírito] Apariçoes são apenas almas perdidas, ligadas a uma emoção, lugar ou pessoa. Procure o que quer que possa estar mantendo-os presos aqui." ownerID="3" targetID="60" fromX="319" fromY="348" />You spot several wraiths walking in circles around a gravestone.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="933" positionY="337" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -1411,9 +1411,9 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
       <outputs name="Destrua o objeto." ownerID="4" targetID="51" fromX="1258" fromY="-154" />
       <outputs name="Você tem gente que sabe sobre os mortos-vivos. Olhe mais de perto." ownerID="4" targetID="3" fromX="1258" fromY="-234" />
       <outputs name="Basta matá-los à moda antiga." ownerID="4" targetID="24" fromX="1258" fromY="-314" />
-      <outputs name="[Goblin ou espírito] Aparições são apenas almas perdidas, ligadas a uma emoção, lugar ou pessoa. Procure o que quer que possa estar mantendo-os presos aqui." ownerID="4" targetID="60" fromX="1258" fromY="-394" />
+      <outputs name="[Goblin ou espírito] Apariçoes são apenas almas perdidas, ligadas a uma emoção, lugar ou pessoa. Procure o que quer que possa estar mantendo-os presos aqui." ownerID="4" targetID="60" fromX="1258" fromY="-394" />
       <outputs name="[Natureza ou Luz] Através da natureza e da luz, limpe este lugar da força maligna que viola as leis de seus deuses." ownerID="4" targetID="16" fromX="1258" fromY="-474" />
-      <outputs name="[Xamã Goblin] Entre no mundo cinza e enfrente os fantasmas lá para que você possa liberá-los desse sofrimento." ownerID="4" targetID="58" fromX="1258" fromY="-555" />Um fedor de magia negra atinge seus sentidos, e você descobre que uma estatueta amaldiçoada em cima de uma das lápides estava fazendo com que as almas dos mortos permanecessem e se transformassem em espectros. É fácil de destruir, mas pode ferir seu espírito e provavelmente destruirá as aparições de maneira dolorosa.</nodes>
+      <outputs name="[Xamã Goblin] Entre no mundo cinza e enfrente os fantasmas lá para que você possa liberá-los desse sofrimento." ownerID="4" targetID="58" fromX="1258" fromY="-555" />Um fedor de magia negra atinge seus sentidos, e você descobre que uma estatueta amaldiçoada em cima de uma das lápides estava fazendo com que as almas dos mortos permanecessem e se transformassem em espectros. É fácil de destruir, mas pode ferir seu espírito e provavelmente destruirá as apariçoes de maneira dolorosa.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="808.7786" positionY="1047.36145" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_1S" challengeScale="300" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1493,7 +1493,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
       <outputs name="Surrender" ownerID="16" targetID="57" fromX="1295" fromY="-1490" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2766" positionY="136" width="350" height="725">
-      <outputs name="Sair." ownerID="18" targetID="10" fromX="3091" fromY="-355" />As aparições são destruídas em um clarão de dor e angústia. Os oradores do espírito goblin ouviram os gritos das almas e ficaram tristes com uma resolução tão brutal. Sua amizade sofre.
+      <outputs name="Sair." ownerID="18" targetID="10" fromX="3091" fromY="-355" />As apariçoes são destruídas em um clarão de dor e angústia. Os oradores do espírito goblin ouviram os gritos das almas e ficaram tristes com uma resolução tão brutal. Sua amizade sofre.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="363.770264" positionY="-1532.52454" width="350" height="805">
       <logic>
@@ -1518,7 +1518,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2303" />You are about to report your success when you realise that perhaps your knowledge was not entirely accurate. As aparições são destruídas em um clarão de dor e angústia. Os oradores do espírito goblin ouviram os gritos das almas e ficaram tristes com uma resolução tão brutal. Sua amizade sofre.for it.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2303" />You are about to report your success when you realise that perhaps your knowledge was not entirely accurate. As apariçoes são destruídas em um clarão de dor e angústia. Os oradores do espírito goblin ouviram os gritos das almas e ficaram tristes com uma resolução tão brutal. Sua amizade sofre.for it.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="487.979858" positionY="-2380.74268" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1683,7 +1683,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="52" targetID="54" fromX="1756" fromY="-1253" />Suas orações funcionam. Uma das lápides se desfaz em pó e, junto com ela, as aparições são liberadas de sua ligação e desaparecem pacificamente. Os goblins estão impressionados com seu trabalho e elogiam &#39;aqueles deuses hummie&#39;.</nodes>
+      <outputs name="Sair." ownerID="52" targetID="54" fromX="1756" fromY="-1253" />Suas oraçoes funcionam. Uma das lápides se desfaz em pó e, junto com ela, as apariçoes são liberadas de sua ligação e desaparecem pacificamente. Os goblins estão impressionados com seu trabalho e elogiam &#39;aqueles deuses hummie&#39;.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="54" positionX="1882.35657" positionY="-1019.79651" width="460" height="429" sourceGroup="GROUP-WRAITH_4P_3M_4S" cargoPercentage="100" dropPercentage="60">
       <outputs ownerID="54" targetID="36" fromX="2312" fromY="-1378" />
     </nodes>
@@ -1803,7 +1803,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="61" targetID="54" fromX="-107" fromY="-1953" />Você encontra o objeto - uma lápide - e fala com as aparições. Eles dizem que este é o lugar de descanso de seu opressor. Você concorda em profanar a lápide, e isso apazigua os fantasmas o suficiente para eles saírem. Você também espalha sal e joga sementes de papoula sobre o ombro esquerdo três vezes para garantir que um novo espectro não surja. Os goblins estão impressionados com seu trabalho e elogiam &#39;aqueles deuses hummie&#39;.</nodes>
+      <outputs name="Sair." ownerID="61" targetID="54" fromX="-107" fromY="-1953" />Você encontra o objeto - uma lápide - e fala com as apariçoes. Eles dizem que este é o lugar de descanso de seu opressor. Você concorda em profanar a lápide, e isso apazigua os fantasmas o suficiente para eles saírem. Você também espalha sal e joga sementes de papoula sobre o ombro esquerdo três vezes para garantir que um novo espectro não surja. Os goblins estão impressionados com seu trabalho e elogiam &#39;aqueles deuses hummie&#39;.</nodes>
   </Adventure>
   <Adventure name="SpiritTalkersVillSmall" uniqueID="23" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="96" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="-23.2673264" positionY="44.6534653" width="347" height="821" image="Event054">
@@ -2009,7 +2009,7 @@ This village is small, as such, it will not offer recruitment and may have other
       </logic>
       <outputs name="[Goblin] Diga a ele para parar de tagarelar sobre os preços e dar-lhe os cogumelos certos, não as coisas de turista." ownerID="26" targetID="29" fromX="2401" fromY="-2573" />
       <outputs name="[Usuários de magia] Diga que você sabe como fazer algumas limpezas, mas precisa da ajuda deles para fazê-lo corretamente." ownerID="26" targetID="64" fromX="2401" fromY="-2653" />
-      <outputs name="Concorde em pagar o preço para remover maldições. [20 gemas preciosas]" ownerID="26" targetID="31" fromX="2401" fromY="-2733" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes. [20 gemas preciosas]" ownerID="26" targetID="31" fromX="2401" fromY="-2733" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="26" targetID="55" fromX="2401" fromY="-2813" />
       <outputs name="Diga que você não tem o pagamento." ownerID="26" targetID="11" fromX="2401" fromY="-2894" />'Yes, yes, your spirit is dirty as a whelp's arse, I smell it. Now, if you have curses on you, that cost more, yes. So you pay, I give you drink and smoke and you no complain if you get a little sick, yes?'</nodes>
     <nodes xsi:type="NodeTrade" ID="27" positionX="1023" positionY="-2588" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="sell" startingBalance="-700">
@@ -2059,7 +2059,7 @@ This village is small, as such, it will not offer recruitment and may have other
       </logic>
       <outputs name="Agradeça a eles e vá embora." ownerID="29" targetID="4" fromX="2845" fromY="-2377" />
       <outputs name="[Usuários de magia] Diga que você sabe como fazer algumas limpezas, mas precisa da ajuda deles para fazê-lo corretamente." ownerID="29" targetID="64" fromX="2845" fromY="-2457" />
-      <outputs name="Concorde em pagar o preço para remover maldições." ownerID="29" targetID="65" fromX="2845" fromY="-2537" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes." ownerID="29" targetID="65" fromX="2845" fromY="-2537" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="29" targetID="55" fromX="2845" fromY="-2618" />&#39;Ah, estou velho, meus olhos estão embaçados, seu idiota, espere para dizer isso agora, me faça parecer bobo. Você senta, come e fica bem. Seus amigos também recebem coisas boas, mas pagam.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="3133" positionY="-2643" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="20" useCountInPercent="true" targetGroup="half">
       <logic>
@@ -2500,7 +2500,7 @@ This village is small, as such, it will not offer recruitment and may have other
       </logic>
       <outputs name="[Goblin] Diga a ele para parar de tagarelar sobre os preços e dar-lhe os cogumelos certos, não as coisas de turista." ownerID="91" targetID="29" fromX="1588" fromY="-3662" />
       <outputs name="[Usuários de magia] Diga que você sabe como fazer algumas limpezas, mas precisa da ajuda deles para fazê-lo corretamente." ownerID="91" targetID="64" fromX="1588" fromY="-3742" />
-      <outputs name="Concorde em pagar o preço para remover maldições. [20 gemas preciosas]" ownerID="91" targetID="31" fromX="1588" fromY="-3822" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes. [20 gemas preciosas]" ownerID="91" targetID="31" fromX="1588" fromY="-3822" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="91" targetID="55" fromX="1588" fromY="-3902" />
       <outputs name="Diga que você não tem o pagamento." ownerID="91" targetID="11" fromX="1588" fromY="-3982" />'Yes, yes, your spirit is dirty as a whelp's arse, I smell it. Now, if you have curses on you, that cost more, yes. So you pay, I give you drink and smoke and you no complain if you get a little sick, yes?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="92" positionX="-576" positionY="-2370" width="350" height="885">
@@ -3883,7 +3883,7 @@ Some of you fall ill as a result, but the goblins are very impressed with your w
       <outputs name="[Luz ou Harmonia] Invoque seu domínio para limpar completamente este lugar da escuridão. Os goblins podem querer deixar alguns, mas é seu dever se livrar de tudo!" ownerID="2" targetID="17" fromX="748" fromY="-502" />
       <outputs name="[Elfo das sombras] Torne-se um com a névoa escura e redirecione-a para longe deste lugar. Isso deve espalhar a força e, assim, parar esse suposto crescimento." ownerID="2" targetID="7" fromX="748" fromY="-582" />
       <outputs name="[Usuários de magia ou Magia] Realize um ritual de enfraquecimento que não destruirá, mas apenas diminuirá a concentração da escuridão aqui." ownerID="2" targetID="11" fromX="748" fromY="-662" />
-      <outputs name="[Sabedoria]Considere suas opções com cuidado." ownerID="2" targetID="3" fromX="748" fromY="-742" />
+      <outputs name="[Sabedoria]Considere suas opçoes com cuidado." ownerID="2" targetID="3" fromX="748" fromY="-742" />
       <outputs name="Tente atacar a névoa." ownerID="2" targetID="21" fromX="748" fromY="-822" />
       <outputs name="Volte com mais sabedoria ou quem sabe de coisas místicas." ownerID="2" targetID="4" fromX="748" fromY="-903" />Você encontra as velhas ruínas onde os goblins disseram que a escuridão permanece e silenciosamente cresce em força. Você pode sentir o olhar intenso do caos e do desespero procurando devorá-lo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="935" positionY="-760" width="350" height="966">
@@ -3943,7 +3943,7 @@ Some of you fall ill as a result, but the goblins are very impressed with your w
       </logic>
       <outputs name="Sair." ownerID="6" targetID="8" fromX="2404" fromY="-1255" />You persevere, and indeed the black mist lessens in intensity and withdraws deeper into the ruins. 
 
-O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visões de mim. Tchau.&#39;</nodes>
+O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visoes de mim. Tchau.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="937" positionY="-19" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -3974,7 +3974,7 @@ O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei q
       </logic>
       <outputs name="Sair." ownerID="7" targetID="8" fromX="1262" fromY="-510" />The black mist follows your lead, so its hold over this piece of land lessens.
 
-O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visões de mim. Tchau.&#39;</nodes>
+O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visoes de mim. Tchau.&#39;</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="8" positionX="2532" positionY="-844" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="8" targetID="9" fromX="2980" fromY="-1276" />
     </nodes>
@@ -4015,7 +4015,7 @@ O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei q
       </logic>
       <outputs name="Sair." ownerID="10" targetID="8" fromX="2412" fromY="-322" />The ritual works, and indeed the black mist lessens in intensity and withdraws deeper into the ruins. 
 
-O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visões de mim. Tchau.&#39;</nodes>
+O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visoes de mim. Tchau.&#39;</nodes>
     <nodes xsi:type="NodeChallenge" ID="11" positionX="1428" positionY="99" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_2S" challengeScale="300" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -4141,7 +4141,7 @@ The air lifts and a goblin shaman approaches you:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="23" targetID="8" fromX="-319" fromY="-1600" />O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visões de mim. Tchau.&#39;</nodes>
+      <outputs name="Sair." ownerID="23" targetID="8" fromX="-319" fromY="-1600" />O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visoes de mim. Tchau.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="253" positionY="-1820" width="350" height="725">
       <outputs name="Tente sair!" ownerID="24" targetID="12" fromX="578" fromY="-2311" /> You charge at the mist and it engulfs you in pure despair. Your feet shake, your jaw tightens, and the nightmares circle you and whisper your darkest thoughts.
 </nodes>
@@ -4365,7 +4365,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
       </logic>
       <outputs name="[Goblin] Diga a ele para parar de tagarelar sobre os preços e dar-lhe os cogumelos certos, não as coisas de turista." ownerID="26" targetID="29" fromX="2398" fromY="-2560" />
       <outputs name="[Usuários de magia] Diga que você sabe como fazer algumas limpezas, mas precisa da ajuda deles para fazê-lo corretamente." ownerID="26" targetID="64" fromX="2398" fromY="-2640" />
-      <outputs name="Concorde em pagar o preço para remover maldições. [20 gemas preciosas]" ownerID="26" targetID="31" fromX="2398" fromY="-2720" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes. [20 gemas preciosas]" ownerID="26" targetID="31" fromX="2398" fromY="-2720" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="26" targetID="55" fromX="2398" fromY="-2800" />
       <outputs name="Diga que você não tem o pagamento." ownerID="26" targetID="11" fromX="2398" fromY="-2880" />
       <outputs name="Sair." ownerID="26" targetID="4" fromX="2398" fromY="-2961" />'Yes, yes, your spirit is dirty as a whelp's arse, I smell it. Now, if you have curses on you, that cost more, yes. So you pay, I give you drink and smoke and you no complain if you get a little sick, yes?'</nodes>
@@ -4416,7 +4416,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
       </logic>
       <outputs name="Agradeça a eles e vá embora." ownerID="29" targetID="4" fromX="2881" fromY="-2344" />
       <outputs name="[Usuários de magia] Diga que você sabe como fazer algumas limpezas, mas precisa da ajuda deles para fazê-lo corretamente." ownerID="29" targetID="64" fromX="2881" fromY="-2424" />
-      <outputs name="Concorde em pagar o preço para remover maldições." ownerID="29" targetID="65" fromX="2881" fromY="-2504" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes." ownerID="29" targetID="65" fromX="2881" fromY="-2504" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="29" targetID="55" fromX="2881" fromY="-2584" />&#39;Ah, estou velho, meus olhos estão embaçados, seu idiota, espere para dizer isso agora, me faça parecer bobo. Você senta, come e fica bem. Seus amigos também recebem coisas boas, mas pagam.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="3052" positionY="-2676" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="20" useCountInPercent="true" targetGroup="half">
@@ -5159,7 +5159,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
       </logic>
       <outputs name="[Goblin] Diga a ele para parar de tagarelar sobre os preços e dar-lhe os cogumelos certos, não as coisas de turista." ownerID="102" targetID="29" fromX="1489" fromY="-3923" />
       <outputs name="[Usuários de magia] Diga que você sabe como fazer algumas limpezas, mas precisa da ajuda deles para fazê-lo corretamente." ownerID="102" targetID="64" fromX="1489" fromY="-4003" />
-      <outputs name="Concorde em pagar o preço para remover maldições. [20 gemas preciosas]" ownerID="102" targetID="31" fromX="1489" fromY="-4083" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes. [20 gemas preciosas]" ownerID="102" targetID="31" fromX="1489" fromY="-4083" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="102" targetID="55" fromX="1489" fromY="-4163" />
       <outputs name="Diga que você não tem o pagamento." ownerID="102" targetID="11" fromX="1489" fromY="-4243" />'Yes, yes, your spirit is dirty as a whelp's arse, I smell it. Now, if you have curses on you, that cost more, yes. So you pay, I give you drink and smoke and you no complain if you get a little sick, yes?'</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="103" positionX="-1950" positionY="-3282" width="460" height="509">
@@ -5334,7 +5334,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
       <outputs name="[Luz ou Harmonia] Invoque seu domínio para limpar completamente este lugar da escuridão. Os goblins podem querer deixar alguns, mas é seu dever se livrar de tudo!" ownerID="2" targetID="17" fromX="721" fromY="-411" />
       <outputs name="[Elfo das sombras] Torne-se um com a névoa escura e redirecione-a para longe deste lugar. Isso deve espalhar a força e, assim, parar esse suposto crescimento." ownerID="2" targetID="7" fromX="721" fromY="-491" />
       <outputs name="[Usuários de magia ou Magia] Realize um ritual de enfraquecimento que não destruirá, mas apenas diminuirá a concentração da escuridão aqui." ownerID="2" targetID="11" fromX="721" fromY="-571" />
-      <outputs name="[Sabedoria]Considere suas opções com cuidado." ownerID="2" targetID="3" fromX="721" fromY="-651" />
+      <outputs name="[Sabedoria]Considere suas opçoes com cuidado." ownerID="2" targetID="3" fromX="721" fromY="-651" />
       <outputs name="Tente atacar a névoa." ownerID="2" targetID="21" fromX="721" fromY="-731" />
       <outputs name="Volte com mais sabedoria ou quem sabe de coisas místicas." ownerID="2" targetID="4" fromX="721" fromY="-812" />Você encontra as velhas ruínas onde os goblins disseram que a escuridão permanece e silenciosamente cresce em força. Você pode sentir o olhar intenso do caos e do desespero procurando devorá-lo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="994" positionY="-788" width="350" height="966">
@@ -5394,7 +5394,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
       </logic>
       <outputs name="Sair." ownerID="6" targetID="8" fromX="2440" fromY="-1301" />You persevere, and indeed the black mist lessens in intensity and withdraws deeper into the ruins. 
 
-O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visões de mim. Tchau.&#39;</nodes>
+O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visoes de mim. Tchau.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="937" positionY="-19" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5425,7 +5425,7 @@ O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei q
       </logic>
       <outputs name="Sair." ownerID="7" targetID="8" fromX="1262" fromY="-510" />The black mist follows your lead, so its hold over this piece of land lessens.
 
-O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visões de mim. Tchau.&#39;</nodes>
+O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visoes de mim. Tchau.&#39;</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="8" positionX="2532" positionY="-844" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="8" targetID="9" fromX="2980" fromY="-1276" />
     </nodes>
@@ -5466,7 +5466,7 @@ O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei q
       </logic>
       <outputs name="Sair." ownerID="10" targetID="8" fromX="2423" fromY="-376" />The ritual works, and indeed the black mist lessens in intensity and withdraws deeper into the ruins. 
 
-O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visões de mim. Tchau.&#39;</nodes>
+O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visoes de mim. Tchau.&#39;</nodes>
     <nodes xsi:type="NodeChallenge" ID="11" positionX="1487" positionY="98" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_3S" challengeScale="300" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -5589,7 +5589,7 @@ The air lifts and a goblin shaman approaches you:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="23" targetID="8" fromX="-319" fromY="-1600" />O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visões de mim. Tchau.&#39;</nodes>
+      <outputs name="Sair." ownerID="23" targetID="8" fromX="-319" fromY="-1600" />O ar levanta e um goblin xamã se aproxima de você: &#39;Heh, eu nunca pensei que você fizesse isso. Certamente não assim! Bom Bom. Precisamos do escuro, precisamos, mas não tanto, não. Agradecemos aqui - você tem boas visoes de mim. Tchau.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="253" positionY="-1820" width="350" height="725">
       <outputs name="Tente sair!" ownerID="24" targetID="12" fromX="578" fromY="-2311" /> You charge at the mist and it engulfs you in pure despair. Your feet shake, your jaw tightens, and the nightmares circle you and whisper your darkest thoughts.
 </nodes>
@@ -5726,7 +5726,7 @@ The air lifts and a goblin shaman approaches you:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="11" targetID="27" fromX="3345" fromY="960" />&#39;Oi, pare com as maldições, cara! Vamos, vamos, não vamos mais irritar os espíritos ancestrais.&#39; Os jovens voltam para casa e os anciões falantes espirituais agradecem sua ajuda.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="11" targetID="27" fromX="3345" fromY="960" />&#39;Oi, pare com as maldiçoes, cara! Vamos, vamos, não vamos mais irritar os espíritos ancestrais.&#39; Os jovens voltam para casa e os ancioes falantes espirituais agradecem sua ajuda.</nodes>
     <nodes xsi:type="NodeChallenge" ID="12" positionX="860" positionY="-515" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-GOBS_4P_3M_4S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="12" targetID="13" fromX="1301" fromY="-1010" />
       <outputs name="Lose" ownerID="12" targetID="18" fromX="1301" fromY="-1090" />
@@ -5809,7 +5809,7 @@ The spirit talkers hear about your failure and are disappointed that you tried t
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="21" targetID="16" fromX="2434" fromY="-1897" />Os goblins rebeldes retornam aos anciões. Os faladores espirituais duvidam de seus métodos, mas não podem argumentar com os resultados. Sua amizade cresce um pouco e eles lhe dão a recompensa prometida. </nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="21" targetID="16" fromX="2434" fromY="-1897" />Os goblins rebeldes retornam aos ancioes. Os faladores espirituais duvidam de seus métodos, mas não podem argumentar com os resultados. Sua amizade cresce um pouco e eles lhe dão a recompensa prometida. </nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="852" positionY="1406" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5888,7 +5888,7 @@ The spirit talkers hear about your failure and are disappointed that you tried t
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="26" targetID="27" fromX="-186" fromY="-9" />Os novatos goblins mudaram seu acampamento no momento em que você acorda do transe. Eles te deixaram um presente. Os anciões falantes espirituais ouvem sobre sua imprudência e não ficam felizes.</nodes>
+      <outputs name="Sair." ownerID="26" targetID="27" fromX="-186" fromY="-9" />Os novatos goblins mudaram seu acampamento no momento em que você acorda do transe. Eles te deixaram um presente. Os ancioes falantes espirituais ouvem sobre sua imprudência e não ficam felizes.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="27" positionX="-1112" positionY="417" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="27" targetID="28" fromX="-663" fromY="-15" />
     </nodes>
@@ -5934,7 +5934,7 @@ The spirit talker elders appreciate your efforts, but no friendship was gained h
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="32" targetID="16" fromX="3054" fromY="-962" />&#39;Tudo bem, vamos voltar.&#39; Os jovens voltam para casa e os anciões falantes espirituais agradecem sua ajuda. Eles deixam alguns presentes como agradecimento.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="32" targetID="16" fromX="3054" fromY="-962" />&#39;Tudo bem, vamos voltar.&#39; Os jovens voltam para casa e os ancioes falantes espirituais agradecem sua ajuda. Eles deixam alguns presentes como agradecimento.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="33" positionX="1694" positionY="-816" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="33" targetID="18" fromX="2123" fromY="-1204" />
     </nodes>
@@ -7797,7 +7797,7 @@ The contraption then explodes.</nodes>
       <outputs name="Por que ele está procurando ajudá-lo?" ownerID="15" targetID="20" fromX="3043" fromY="-608" />'The earth shatters as the lightbringers escape the core and come up topside. With the light corrupted, the tremors should stop in time.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="5566" positionY="-91" width="350" height="805">
       <outputs name="Concorde e vá caçar algum mroki. Eles podem ser encontrados na escuridão, em biomas vulcânicos." ownerID="16" targetID="18" fromX="5891" fromY="-582" />
-      <outputs name="Recuse e vá embora." ownerID="16" targetID="30" fromX="5891" fromY="-662" />— Os mroki já foram gigantes, sabe? Eles foram alterados pela escuridão e com o tempo se tornaram algo inteiramente novo. Mas seus corações, infundidos com minha magia, enganarão o mecanismo na caverna viva para pensar que é o coração de um gigante. É claro que você precisará derrotar a besta de luz que agora guarda a câmara. Mas se você concordar, eu vou ajudá-lo. E lembre-se, nem todo mroki terá um coração, então pode ser necessário caçar um pouco.</nodes>
+      <outputs name="Recuse e vá embora." ownerID="16" targetID="30" fromX="5891" fromY="-662" />— Os mroki já foram gigantes, sabe? Eles foram alterados pela escuridão e com o tempo se tornaram algo inteiramente novo. Mas seus coraçoes, infundidos com minha magia, enganarão o mecanismo na caverna viva para pensar que é o coração de um gigante. É claro que você precisará derrotar a besta de luz que agora guarda a câmara. Mas se você concordar, eu vou ajudá-lo. E lembre-se, nem todo mroki terá um coração, então pode ser necessário caçar um pouco.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="18" positionX="6034" positionY="-225" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="18" targetID="19" fromX="6482" fromY="-657" />
     </nodes>
@@ -7822,14 +7822,14 @@ The contraption then explodes.</nodes>
       </logic>
       <outputs name="Ele sabe como parar a luz?" ownerID="21" targetID="8" fromX="1203" fromY="-1180" />
       <outputs name="Pergunte a ele qual é a história dele. Orcs masculinos que usam magia não são comuns." ownerID="21" targetID="4" fromX="1203" fromY="-1260" />
-      <outputs name="Implore ao orc para lhe dizer como derrotar a luz nos termos mais simples possíveis. Você não tem tempo para histórias e não se importa com os motivos dele." ownerID="21" targetID="14" fromX="1203" fromY="-1340" />Um macho orc sai da torre como se tivesse acabado de atravessar a pedra. — Então, ela ouviu, mas foi covarde demais para vir! Ou é um sinal de seu brilho que também reside dentro de mim que ela deve usar os campeões de outros deuses para cumprir suas ordens? Não importa, pois você está aqui, disposto a ouvir.</nodes>
+      <outputs name="Implore ao orc para lhe dizer como derrotar a luz nos termos mais simples possíveis. Você não tem tempo para histórias e não se importa com os motivos dele." ownerID="21" targetID="14" fromX="1203" fromY="-1340" />Um macho orc sai da torre como se tivesse acabado de atravessar a pedra. — Então, ela ouviu, mas foi covarde demais para vir! Ou é um sinal de seu brilho que também reside dentro de mim que ela deve usar os campeoes de outros deuses para cumprir suas ordens? Não importa, pois você está aqui, disposto a ouvir.</nodes>
     <nodes xsi:type="NodeChallenge" ID="22" positionX="4734" positionY="-290" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_NECROMANCER_9P_9M_9S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="22" targetID="23" fromX="5175" fromY="-785" />
       <outputs name="Lose" ownerID="22" targetID="26" fromX="5175" fromY="-865" />
       <outputs name="Surrender" ownerID="22" targetID="26" fromX="5175" fromY="-945" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="4614" positionY="-1377" width="350" height="725">
-      <outputs name="Sair." ownerID="23" targetID="24" fromX="4939" fromY="-1868" />O corpo do necromante se transforma em névoa escura e se dissolve. Você deve encontrar outras maneiras de parar o Shattering. Talvez você possa voltar para a caverna vermelha e falar com o Alquimista novamente, resgatar aquele anão de uma prisão ou buscar ajuda de elfos ou anões.
+      <outputs name="Sair." ownerID="23" targetID="24" fromX="4939" fromY="-1868" />O corpo do necromante se transforma em névoa escura e se dissolve. Você deve encontrar outras maneiras de parar o Shattering. Talvez você possa voltar para a caverna vermelha e falar com o Alquimista novamente, resgatar aquele anão de uma prisão ou buscar ajuda de elfos ou anoes.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="24" positionX="5104" positionY="-1390" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="24" targetID="25" fromX="5552" fromY="-1822" />
@@ -7855,7 +7855,7 @@ Perhaps you can go back to the red cave and speak to the Alchemist again.</nodes
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6025" positionY="-841" width="350" height="725">
       <outputs name="Sair." ownerID="30" targetID="27" fromX="6350" fromY="-1332" />'Fools, blind fools!'
 
-O corpo do necromante se transforma em névoa escura e se dissolve. Você deve encontrar outras maneiras de parar o Shattering. Talvez você possa voltar para a caverna vermelha e falar com o Alquimista novamente, resgatar aquele anão de uma prisão ou buscar ajuda de elfos ou anões.</nodes>
+O corpo do necromante se transforma em névoa escura e se dissolve. Você deve encontrar outras maneiras de parar o Shattering. Talvez você possa voltar para a caverna vermelha e falar com o Alquimista novamente, resgatar aquele anão de uma prisão ou buscar ajuda de elfos ou anoes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="-528" positionY="-14" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -8175,7 +8175,7 @@ O corpo do necromante se transforma em névoa escura e se dissolve. Você deve e
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Excelente. Agora é hora de sair." ownerID="33" targetID="31" fromX="1273" fromY="-2558" />Como uma bruxa, você ingeriu sua cota de esquisitices, então as coisas dos goblins não são um desafio. Você inala e surfa na onda de visões espirituais e impressiona muito os locais.
+      <outputs name="Excelente. Agora é hora de sair." ownerID="33" targetID="31" fromX="1273" fromY="-2558" />Como uma bruxa, você ingeriu sua cota de esquisitices, então as coisas dos goblins não são um desafio. Você inala e surfa na onda de visoes espirituais e impressiona muito os locais.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="-333" positionY="-2565" width="350" height="725">
       <logic>
@@ -8761,7 +8761,7 @@ O corpo do necromante se transforma em névoa escura e se dissolve. Você deve e
       <outputs name="[Pirata] Tente negociar com os piratas." ownerID="2" targetID="55" group="G1" fromX="761" fromY="-733" />
       <outputs name="Tente negociar com os piratas." ownerID="2" targetID="9" group="G1" fromX="761" fromY="-813" />
       <outputs name="[Bandido] Eles parecem estar pisando em território de bandidos aqui. Pergunte por que os piratas estão tomando os assentamentos de terra." ownerID="2" targetID="10" fromX="761" fromY="-893" />
-      <outputs name="Diga que você ainda não fez a tarefa, mas deseja revisar suas opções novamente." ownerID="2" targetID="59" fromX="761" fromY="-974" />Este assentamento agora está invadido por piratas orcs. Você não vê os locais, exceto os mortos exibidos como exemplos nas paredes. Os piratas estão aproveitando os despojos de sua ocupação, mas também parecem tensos.</nodes>
+      <outputs name="Diga que você ainda não fez a tarefa, mas deseja revisar suas opçoes novamente." ownerID="2" targetID="59" fromX="761" fromY="-974" />Este assentamento agora está invadido por piratas orcs. Você não vê os locais, exceto os mortos exibidos como exemplos nas paredes. Os piratas estão aproveitando os despojos de sua ocupação, mas também parecem tensos.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-473" positionY="-797" width="350" height="530" logBookName="QUEST_OCCUPSPIRIT" logBookDescription="QUEST_OCCUPSLAV_DES3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="4" positionX="947" positionY="108" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-PIRATES_8P_7M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="4" targetID="38" fromX="1388" fromY="-387" />
@@ -9256,10 +9256,10 @@ O corpo do necromante se transforma em névoa escura e se dissolve. Você deve e
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Ataque os guardiões no reino espiritual." ownerID="2" targetID="4" fromX="741" fromY="-597" />
+      <outputs name="Ataque os guardioes no reino espiritual." ownerID="2" targetID="4" fromX="741" fromY="-597" />
       <outputs name="Sair." ownerID="2" targetID="3" fromX="741" fromY="-677" />
       <outputs name="Say that you will not attack them, and ask if you can help instead. Deixe-os ser." ownerID="2" targetID="16" fromX="741" fromY="-757" />
-      <outputs name="Abandone esta tarefa." ownerID="2" targetID="29" fromX="741" fromY="-837" />Você se aproxima da caverna, e o xamã que está sentado do lado de fora fala: &#39;Então você vem fazer a sujeira deles, hein? Eles são o inimigo; você não deve ajudá-los. Meu povo está escondido no mundo espiritual, e eu os guardo. Minhas proteções não permitem a entrada de orcs azuis, mas admito, você pode entrar. Então decida de que lado você está, escolhido...&#39; Você sabe que só pode atacar aqui com magia. </nodes>
+      <outputs name="Abandone esta tarefa." ownerID="2" targetID="29" fromX="741" fromY="-837" />Você se aproxima da caverna, e o xamã que está sentado do lado de fora fala: &#39;Então você vem fazer a sujeira deles, hein? Eles são o inimigo; você não deve ajudá-los. Meu povo está escondido no mundo espiritual, e eu os guardo. Minhas proteçoes não permitem a entrada de orcs azuis, mas admito, você pode entrar. Então decida de que lado você está, escolhido...&#39; Você sabe que só pode atacar aqui com magia. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-386" positionY="-255" width="350" height="530" logBookName="QUEST_OCCUPSPIRIT2" logBookDescription="QUEST_OCCUPSLAV_DES3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="4" positionX="832" positionY="170" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-LOTS_GOBS_4P_4M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="4" targetID="6" fromX="1273" fromY="-325" />
@@ -9274,7 +9274,7 @@ O corpo do necromante se transforma em névoa escura e se dissolve. Você deve e
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Verifique se os aldeões estão bem." ownerID="6" targetID="13" fromX="1725" fromY="131" />Você rompe as defesas e os goblins reaparecem no mundo físico. Os piratas invadem o local e levam as crianças como escravas. Mas eles abandonam os adultos e a cidade, assim como prometeram. </nodes>
+      <outputs name="Verifique se os aldeoes estão bem." ownerID="6" targetID="13" fromX="1725" fromY="131" />Você rompe as defesas e os goblins reaparecem no mundo físico. Os piratas invadem o local e levam as crianças como escravas. Mas eles abandonam os adultos e a cidade, assim como prometeram. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="1858" positionY="-74" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="70" maxDamage="100" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="7" targetID="8" fromX="2287" fromY="-462" />
     </nodes>

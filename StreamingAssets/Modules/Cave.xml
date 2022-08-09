@@ -3147,7 +3147,7 @@ Or, I have another proposal, one that will promise some wealth, though not as mu
       <outputs name="Enfrente as abelhas." ownerID="2" targetID="30" group="G1" fromX="817" fromY="-700" />You accidentally step on a bee's nest, and as you try to flee, you see a cave you could run into. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="462" positionY="1192" width="350" height="966">
       <outputs name="Mate isso." ownerID="3" targetID="10" fromX="787" fromY="700" />
-      <outputs name="[Demônio da floresta] Este não é um urso - este é um borowy, um dos guardiões leshy das florestas. Tente resgatá-lo." ownerID="3" targetID="11" fromX="787" fromY="620" />
+      <outputs name="[Demônio da floresta] Este não é um urso - este é um borowy, um dos guardioes leshy das florestas. Tente resgatá-lo." ownerID="3" targetID="11" fromX="787" fromY="620" />
       <outputs name="[parentesco animal] Examine este urso." ownerID="3" targetID="35" fromX="787" fromY="540" />
       <outputs name="Ignore o urso e veja se há algo que valha a pena coletar na caverna." ownerID="3" targetID="7" fromX="787" fromY="460" />You take cover in the cave, but you soon realise that you are not alone. There is a wounded bear trapped by some rocks. It looks at you pleadingly.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="1041.24524" positionY="-1844.25134" width="350" height="408" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />

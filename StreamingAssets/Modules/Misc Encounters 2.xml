@@ -348,7 +348,7 @@ As you swear at it, the creature shows the middle finger, but not to you, to som
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="2113" positionY="-1995" width="350" height="885">
       <outputs name="[Bruxa] Diga que você só precisa da ajuda de sua irmã, e você mesma pagará o preço e promete não sobrecarregá-la." ownerID="26" targetID="29" fromX="2438" fromY="-2486" />
-      <outputs name="Concorde em pagar o preço para remover maldições." ownerID="26" targetID="31" fromX="2094" fromY="-2566" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes." ownerID="26" targetID="31" fromX="2094" fromY="-2566" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="26" targetID="55" fromX="2094" fromY="-2566" />'A witch, that's what you're after, eh? Magic comes at a price. Healing the spirit is easier, but curses, well, they are nasty things. They'll cost you more, cost you blood.'</nodes>
     <nodes xsi:type="NodeTrade" ID="27" positionX="1135.68176" positionY="-2609.58325" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-1000">
       <logic>
@@ -401,7 +401,7 @@ As you swear at it, the creature shows the middle finger, but not to you, to som
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ela e vá embora." ownerID="29" targetID="4" fromX="2838" fromY="-2480" />A bruxa assente. — Bah, deveria ter dito isso, mana. Eu não tentaria te vender a porcaria cara, ha. Vamos lá.&#39; Juntos, vocês removem quaisquer maldições que tenham.
+      <outputs name="Agradeça a ela e vá embora." ownerID="29" targetID="4" fromX="2838" fromY="-2480" />A bruxa assente. — Bah, deveria ter dito isso, mana. Eu não tentaria te vender a porcaria cara, ha. Vamos lá.&#39; Juntos, vocês removem quaisquer maldiçoes que tenham.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="3049.31543" positionY="-2679.04932" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="20" useCountInPercent="true" targetGroup="half">
       <logic>
@@ -1103,7 +1103,7 @@ It is as if the gods want us to die here?'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Admita que é uma das principais opções." ownerID="2" targetID="3" fromX="815" fromY="-572" />You track down Zbigniev, the heretic chosen who angered his gods. He spots you and speaks up:
+      <outputs name="Admita que é uma das principais opçoes." ownerID="2" targetID="3" fromX="815" fromY="-572" />You track down Zbigniev, the heretic chosen who angered his gods. He spots you and speaks up:
 
 'Oh, a new chosen. Come to smite me, have you?'
 </nodes>
@@ -1147,7 +1147,7 @@ It is as if the gods want us to die here?'
 Now, I leave you to your own devices, and the gods will surely call upon your services again. But for now, please stay alive.'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="3355" positionY="833" width="350" height="725">
-      <outputs name="Sair." ownerID="8" targetID="14" fromX="3680" fromY="341" />&#39;De fato. Embora confrontar Zbigniev fosse necessário também por outras razões. Muitos fogões queimam em nossas cozinhas divinas, meus queridos. Agora, deixo você com seus próprios recursos, e os deuses certamente chamarão seus serviços novamente. Mas, por enquanto, por favor, fique vivo.
+      <outputs name="Sair." ownerID="8" targetID="14" fromX="3680" fromY="341" />&#39;De fato. Embora confrontar Zbigniev fosse necessário também por outras razoes. Muitos fogoes queimam em nossas cozinhas divinas, meus queridos. Agora, deixo você com seus próprios recursos, e os deuses certamente chamarão seus serviços novamente. Mas, por enquanto, por favor, fique vivo.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="9" positionX="1929" positionY="-429" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="9" targetID="10" group="G1" fromX="2358" fromY="-817" />
@@ -1732,7 +1732,7 @@ A package is left for you, and the hut changes back into an old, decrepit buildi
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="18" targetID="20" group="G1" fromX="3949" fromY="-549" />
-      <outputs name="Sair." ownerID="18" targetID="21" group="G1" fromX="3949" fromY="-630" />Você monta as armadilhas e se livra dos vermes. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="21" group="G1" fromX="3949" fromY="-630" />Você monta as armadilhas e se livra dos vermes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="19" positionX="1501.08484" positionY="-17.5874252" width="460" height="429" sourceGroup="GROUP-RATS_1P_1M_1S" dropPercentage="80">
       <outputs ownerID="19" targetID="18" fromX="1931" fromY="-375" />
     </nodes>
@@ -1923,7 +1923,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="49" targetID="20" group="G1" fromX="2600" fromY="-2368" />
-      <outputs name="Sair." ownerID="49" targetID="21" group="G1" fromX="2600" fromY="-2448" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas ações. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="49" targetID="21" group="G1" fromX="2600" fromY="-2448" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="2745" positionY="-2323" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -1942,7 +1942,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="50" targetID="20" group="G1" fromX="3070" fromY="-2814" />
-      <outputs name="Sair." ownerID="50" targetID="21" group="G1" fromX="3070" fromY="-2894" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas ações. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="21" group="G1" fromX="3070" fromY="-2894" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="3760" positionY="-1242" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -1961,7 +1961,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="51" targetID="20" group="G1" fromX="4085" fromY="-1733" />
-      <outputs name="Sair." ownerID="51" targetID="21" group="G1" fromX="4085" fromY="-1813" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas ações. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="51" targetID="21" group="G1" fromX="4085" fromY="-1813" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="-553" positionY="-169" width="350" height="885" image="Event238">
       <logic>
         <FilterBlock>
@@ -2102,7 +2102,7 @@ It purrs at you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="63" targetID="20" group="G1" fromX="2418" fromY="-1469" />
-      <outputs name="Sair." ownerID="63" targetID="21" group="G1" fromX="2418" fromY="-1549" />Os ratos seguem a melodia e se afogam. Os aldeões agradecem e lhe dão uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="63" targetID="21" group="G1" fromX="2418" fromY="-1549" />Os ratos seguem a melodia e se afogam. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
   </Adventure>
   <Adventure name="SlavyanKillsmallBees" uniqueID="30" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="51" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="-81.44525" positionY="94.05839" width="347" height="825" image="Event220">
@@ -2168,7 +2168,7 @@ It purrs at you.</nodes>
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1098.9574" positionY="-1337.7124" width="350" height="725">
-      <outputs name="Excelente. Vá dizer aos aldeões." ownerID="7" targetID="50" fromX="1424" fromY="-1828" />Você encontra os pontos certos para marcar seu território com um odor forte e predatório. As abelhas logo se afastam e deixam seu mel para trás.</nodes>
+      <outputs name="Excelente. Vá dizer aos aldeoes." ownerID="7" targetID="50" fromX="1424" fromY="-1828" />Você encontra os pontos certos para marcar seu território com um odor forte e predatório. As abelhas logo se afastam e deixam seu mel para trás.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2784.79028" positionY="546.8231" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -2320,7 +2320,7 @@ I mean, you meant well. But perhaps next time, do as we ask.'</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="48" targetID="21" fromX="4373.04" fromY="-514.4161" />Um batedor aldeão estava observando você e se aproxima: &#39;Eu vou ser amaldiçoado. Você raciocinou com os ferrões. Excelente. Acho que não nos importaremos com o zumbido se isso nos trouxer mel. Obrigado, e aqui está sua recompensa.</nodes>
+      <outputs name="Sair." ownerID="48" targetID="21" fromX="4373.04" fromY="-514.4161" />Um batedor aldeão estava observando você e se aproxima: &#39;Eu vou ser amaldiçoado. Você raciocinou com os ferroes. Excelente. Acho que não nos importaremos com o zumbido se isso nos trouxer mel. Obrigado, e aqui está sua recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="1852.86719" positionY="-1170.88464" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -3108,18 +3108,18 @@ Also, I am so, so sorry for stealing your stuff. Wasn't my idea, swears!'
       </logic>
       <outputs name="Sair." ownerID="10" targetID="25" fromX="1603" fromY="-2849" />Você perdeu com um skshack... Ele olha para você incrédulo, ri, vomita em cima de você com uma fleuma verde que se espalha sobre você e faz você engasgar e provavelmente ficar doente. Enquanto você xinga, a criatura mostra o dedo médio, mas não para você, para alguém ou algo nos céus. Então foge. </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="2324" positionY="-441" width="350" height="725">
-      <outputs name="Ele traiu?" ownerID="11" targetID="12" fromX="2649" fromY="-932" />“Eu estava jogando Kurv com alguns amigos – um hochlick, uma pinha e uma fada do dente. Bem, você provavelmente não sabe disso, mas essas fadas dos dentes, eles são verdadeiros valentões. Então, eu e Frix, o hochlick, decidimos, você sabe, ensinar uma lição ao valentão, vencê-lo no jogo muito bem.&#39; </nodes>
+      <outputs name="Ele traiu?" ownerID="11" targetID="12" fromX="2649" fromY="-932" />“Eu estava jogando Kurv com alguns amigos – um hochlick, uma pinha e uma fada do dente. Bem, você provavelmente não sabe disso, mas essas fadas dos dentes, eles são verdadeiros valentoes. Então, eu e Frix, o hochlick, decidimos, você sabe, ensinar uma lição ao valentão, vencê-lo no jogo muito bem.&#39; </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2779" positionY="-252" width="350" height="725">
       <outputs name="O valentão te descobriu e te fez roubar coisas?" ownerID="12" targetID="13" fromX="3104" fromY="-743" />&#39;Trapaça é uma palavra tão mortal. Quando nós, demônios, jogamos, é mais, uh - quem trapaceia melhor. Mas sim, tentamos trapacear mais, pode-se dizer, e juntos. Só as coisas deram errado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="3305" positionY="-423" width="350" height="885">
       <outputs name="[Demônio ou sabedoria] Acalme-o. Sua ligação demoníaca não o deixa falar sobre esse cara Frix, então claramente, ele é o problema. Peça a ele para lhe dizer como alguém poderia entrar neste jogo." ownerID="13" targetID="15" fromX="3630" fromY="-914" />
-      <outputs name="[Demônio de estimação] Seu demônio de estimação diz que o skshack está amaldiçoado ou vinculado por um pacto forte. Por isso sofre tanto. O animal de estimação diz para você perguntar sobre participar deste jogo, pois é assim que você aprenderá mais informações." ownerID="13" targetID="18" fromX="3630" fromY="-994" />
+      <outputs name="[Demônio de estimação] Seu demônio de estimação diz que o skshack está amaldiçoado ou vinculado por um pacto forte. Por isso sofre tanto. O animal de estimação diz para você perguntar sobre participar deste jogo, pois é assim que você aprenderá mais informaçoes." ownerID="13" targetID="18" fromX="3630" fromY="-994" />
       <outputs name="Bem, você sente por ele, mas o que tudo isso tem a ver com você?" ownerID="13" targetID="14" fromX="3630" fromY="-1074" />'What? Him? Nah. Tooth fairies are only good for pullin' them teeth out, and I got plenty. That was not the real issue . . . Frix . . . But I can't . . .'
 
 The skshack starts to choke violently and puffs up.</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="3746" positionY="-1026" width="350" height="966">
       <outputs name="[Demônio ou sabedoria] Acalme-o. Sua ligação demoníaca não o deixa falar sobre esse cara Frix, então claramente, ele é o problema. Peça a ele para lhe dizer como alguém poderia entrar neste jogo." ownerID="14" targetID="15" fromX="4071" fromY="-1517" />
-      <outputs name="[Demônio de estimação] Seu demônio de estimação diz que o skshack está amaldiçoado ou vinculado por um pacto forte. Por isso sofre tanto. O animal de estimação diz para você perguntar sobre participar deste jogo, pois é assim que você aprenderá mais informações." ownerID="14" targetID="18" fromX="4071" fromY="-1597" />
+      <outputs name="[Demônio de estimação] Seu demônio de estimação diz que o skshack está amaldiçoado ou vinculado por um pacto forte. Por isso sofre tanto. O animal de estimação diz para você perguntar sobre participar deste jogo, pois é assim que você aprenderá mais informaçoes." ownerID="14" targetID="18" fromX="4071" fromY="-1597" />
       <outputs name="Então, como exatamente isso afetará você? Mais demônios roubadores?" ownerID="14" targetID="16" fromX="4071" fromY="-1677" />
       <outputs name="Mate essa coisa!" ownerID="14" targetID="9" fromX="4071" fromY="-1757" />'Well, you see, I am a pawn now, but those who play, I think you may be the target. So even if you kill me, you'll likely just get jinxed by them lot. And I can't say more. I am already spilling more beans than I should, and only 'cause he pissed me off, that . . .' 
 
@@ -3250,7 +3250,7 @@ A green fog appears around the skshack and he disappears, his face slightly pani
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1254" positionY="834" width="350" height="1046">
       <outputs name="[Demônio] Sim, é vergonhoso quebrar as leis dos demônios. É por isso que você precisa ir lá e separá-los." ownerID="5" targetID="24" fromX="1579" fromY="342" />
       <outputs name="[Criança] Olhe para ela com aqueles olhos grandes e tristes." ownerID="5" targetID="25" fromX="1579" fromY="262" />
-      <outputs name="[Harmony] Dola são conhecidos por serem espíritos guardiões e portadores do bom destino. Seu próprio domínio não é semelhante à natureza dela?" ownerID="5" targetID="26" fromX="1579" fromY="182" />
+      <outputs name="[Harmony] Dola são conhecidos por serem espíritos guardioes e portadores do bom destino. Seu próprio domínio não é semelhante à natureza dela?" ownerID="5" targetID="26" fromX="1579" fromY="182" />
       <outputs name="Implore a ela para ajudá-lo, pois você não pode ter outra maneira senão matar o pobre skshack que ela chama de amigo." ownerID="5" targetID="16" fromX="1579" fromY="102" />
       <outputs name="Diga que você realmente quer ajudar o skshack, e esse jogo parece horrível de qualquer maneira." ownerID="5" targetID="23" fromX="1579" fromY="22" />'Ah, that silliness. Yes, I do know of it. But why should I aid you, or that notorious friend of mine who should not have participated in the first place? House demons playing cruel tricks for fun and gambling. The shame.' </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="908" positionY="-622" width="350" height="966" image="Event254">
@@ -3705,7 +3705,7 @@ She hands you a bloody human tooth.
       <outputs name="[Demônio ou percepção] Muitos estão sintonizados com o sofrimento. Se você se machucar e tentar fazer com que pareça real, isso pode acontecer." ownerID="2" targetID="4" fromX="734" fromY="-485" />
       <outputs name="[Cmuch]Seu companheiro conhece todos os esconderijos. Siga-os." ownerID="2" targetID="29" fromX="734" fromY="-565" />
       <outputs name="Entre com cuidado e procure o cmuch." ownerID="2" targetID="6" fromX="734" fromY="-645" />
-      <outputs name="Sair." ownerID="2" targetID="3" fromX="734" fromY="-725" />As instruções de Leopold levam você a um pequeno lago. É aqui que vive o sempre esquivo cmuch. Pelo que Leopold disse, encontrar seu amigo será o desafio aqui.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="3" fromX="734" fromY="-725" />As instruçoes de Leopold levam você a um pequeno lago. É aqui que vive o sempre esquivo cmuch. Pelo que Leopold disse, encontrar seu amigo será o desafio aqui.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-195" positionY="-846" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="4" positionX="709" positionY="790" width="350" height="805">
       <logic>
@@ -4039,7 +4039,7 @@ The tooth fairy beckons to you:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Entre na taverna." ownerID="8" targetID="7" fromX="1234" fromY="-1052" />O cmuch aparece: &#39;Bem, vamos entrar. Estarei escondido depois de fazer as apresentações, então não espere minha ajuda depois disso.&#39;</nodes>
+      <outputs name="Entre na taverna." ownerID="8" targetID="7" fromX="1234" fromY="-1052" />O cmuch aparece: &#39;Bem, vamos entrar. Estarei escondido depois de fazer as apresentaçoes, então não espere minha ajuda depois disso.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2039" positionY="622" width="350" height="725">
       <outputs name="Acene com a cabeça como se soubesse exatamente o que ele quer dizer." ownerID="9" targetID="10" fromX="2364" fromY="130" />Você se senta e é encorajado a rolar seus dados, que são feitos de osso. À medida que caem, uma imagem de um homem humano aparece na superfície. A fada do dente bate palmas: &#39;Bom, bom, um competidor é sorteado. Agora, quando for a sua vez, você rola os dados e vê que mal lhes acontece. Todos os seus truques demoníacos são permitidos, é claro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2626" positionY="656" width="350" height="885">
@@ -4192,7 +4192,7 @@ As the tooth fairy walks off, you see Leopold summoned, put into a cage, and car
       <outputs name="Isentar?" ownerID="29" targetID="17" fromX="1985" fromY="-2377" />
       <outputs name="Nomeie seu povo e Leopoldo." ownerID="29" targetID="18" fromX="1985" fromY="-2457" />
       <outputs name="Nomeie apenas o seu povo." ownerID="29" targetID="21" fromX="1985" fromY="-2537" />
-      <outputs name="Dê um nome ao seu pessoal, mas também diga que gostaria que Leopold permanecesse ligado ao jogo." ownerID="29" targetID="19" fromX="1985" fromY="-2617" />Você distorce seu destino com delicadas explosões de magia, e sua tigela mostra uma ilusão perfeita de &#39;seu humano&#39; xingando melhor do que qualquer marinheiro. Os outros demônios estão ofendidos, mas admitem seu domínio. A fada dos dentes parece brava, mas pergunta: &#39;Então, um novato ganha. Sorte de principiante, com certeza. Aqui, uma recompensa, e você pode citar uma dúzia de mortais e demônios isentos dos jogos por três anos, conforme as regras. </nodes>
+      <outputs name="Dê um nome ao seu pessoal, mas também diga que gostaria que Leopold permanecesse ligado ao jogo." ownerID="29" targetID="19" fromX="1985" fromY="-2617" />Você distorce seu destino com delicadas explosoes de magia, e sua tigela mostra uma ilusão perfeita de &#39;seu humano&#39; xingando melhor do que qualquer marinheiro. Os outros demônios estão ofendidos, mas admitem seu domínio. A fada dos dentes parece brava, mas pergunta: &#39;Então, um novato ganha. Sorte de principiante, com certeza. Aqui, uma recompensa, e você pode citar uma dúzia de mortais e demônios isentos dos jogos por três anos, conforme as regras. </nodes>
     <nodes xsi:type="NodeChallenge" ID="30" positionX="2008" positionY="-3051" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_1M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -4216,7 +4216,7 @@ As the tooth fairy walks off, you see Leopold summoned, put into a cage, and car
       <outputs name="Isentar?" ownerID="31" targetID="17" fromX="3233" fromY="-3941" />
       <outputs name="Nomeie seu povo e Leopoldo." ownerID="31" targetID="18" fromX="3233" fromY="-4021" />
       <outputs name="Nomeie apenas o seu povo." ownerID="31" targetID="21" fromX="3233" fromY="-4101" />
-      <outputs name="Dê um nome ao seu pessoal, mas também diga que gostaria que Leopold permanecesse ligado ao jogo." ownerID="31" targetID="19" fromX="3233" fromY="-4181" />Você distorce seu destino com delicadas explosões de magia, e sua tigela mostra uma ilusão perfeita de &#39;seu humano&#39; xingando melhor do que qualquer marinheiro. Os outros demônios estão ofendidos, mas admitem seu domínio. A fada dos dentes parece brava, mas pergunta: &#39;Então, um novato ganha. Sorte de principiante, com certeza. Aqui, uma recompensa, e você pode citar uma dúzia de mortais e demônios isentos dos jogos por três anos, conforme as regras. </nodes>
+      <outputs name="Dê um nome ao seu pessoal, mas também diga que gostaria que Leopold permanecesse ligado ao jogo." ownerID="31" targetID="19" fromX="3233" fromY="-4181" />Você distorce seu destino com delicadas explosoes de magia, e sua tigela mostra uma ilusão perfeita de &#39;seu humano&#39; xingando melhor do que qualquer marinheiro. Os outros demônios estão ofendidos, mas admitem seu domínio. A fada dos dentes parece brava, mas pergunta: &#39;Então, um novato ganha. Sorte de principiante, com certeza. Aqui, uma recompensa, e você pode citar uma dúzia de mortais e demônios isentos dos jogos por três anos, conforme as regras. </nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="1062" positionY="-1443" width="350" height="725">
       <outputs name="Sair." ownerID="32" targetID="33" fromX="1387" fromY="-1934" />The skshack appears, looks at the carnage, and cries out:
 
@@ -4843,7 +4843,7 @@ The third rusalka frowns and whispers something to the two sisters. Anya turns t
       <outputs name="[Demônio da água] Diga a eles que devem abraçar sua natureza demoníaca, mas cuidado para não cair em caminhos sombrios. Conte a eles sobre sua própria jornada que o levou a servir ao panteão cósmico." ownerID="14" targetID="29" fromX="4698" fromY="1874" />
       <outputs name="Incentive-os a seguir sua natureza, como deveriam. Afaste-se e vá contar isso a Bohdan." ownerID="14" targetID="13" fromX="4698" fromY="1794" />
       <outputs name="Derrote-os e leve-os de volta para Bohdan!" ownerID="14" targetID="54" fromX="4698" fromY="1714" />
-      <outputs name="[Percepção] Você vê que Eva, a irmã quieta, parece insegura sobre o que está acontecendo. Fale com ela diretamente e pergunte se isso é realmente o que ela quer, ou se seria melhor voltar para Bohdan e fazer as coisas do jeito certo." ownerID="14" targetID="55" fromX="4698" fromY="1634" />As meninas parecem tristes: &#39;Ele morreu perseguindo alguns cultistas décadas atrás. Mas ele nunca nos disse para sermos anões, sabe, ele disse que deveríamos seguir nossos corações como ele e mamãe fizeram. Então nós estamos!&#39;</nodes>
+      <outputs name="[Percepção] Você vê que Eva, a irmã quieta, parece insegura sobre o que está acontecendo. Fale com ela diretamente e pergunte se isso é realmente o que ela quer, ou se seria melhor voltar para Bohdan e fazer as coisas do jeito certo." ownerID="14" targetID="55" fromX="4698" fromY="1634" />As meninas parecem tristes: &#39;Ele morreu perseguindo alguns cultistas décadas atrás. Mas ele nunca nos disse para sermos anoes, sabe, ele disse que deveríamos seguir nossos coraçoes como ele e mamãe fizeram. Então nós estamos!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="5753" positionY="2002" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -5203,7 +5203,7 @@ She asks the other, who shrugs and looks to the third, who is still ignoring the
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Diga-lhes que não é isso que vai acontecer. Essas rochas não são bebês anões. Eles não podem simplesmente pegar qualquer pedra, cantar e fazer um anão!" ownerID="5" targetID="6" fromX="2190" fromY="103" />
+      <outputs name="Diga-lhes que não é isso que vai acontecer. Essas rochas não são bebês anoes. Eles não podem simplesmente pegar qualquer pedra, cantar e fazer um anão!" ownerID="5" targetID="6" fromX="2190" fromY="103" />
       <outputs name="Pergunte se eles sabem o que as esposas anãs fazem e como você se torna uma. Isso é alguma tolice de forasteiro que eles estão jogando aqui." ownerID="5" targetID="27" fromX="2190" fromY="23" />'What, who are ya? And why should we stop? We will make a little dwarf and we'll be dwarf wives then!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2310" positionY="645" width="350" height="725">
       <outputs name="Eles se moveram? Oh não. Diga a eles para se afastarem desses roqueiros agora! Seus pais trolls devem estar por perto." ownerID="6" targetID="25" fromX="2635" fromY="153" />'Yer wrong, that's what ya are! We saw these little rocks move. They are so little dwarves.' The other sister nods vigorously. </nodes>
@@ -5252,7 +5252,7 @@ She asks the other, who shrugs and looks to the third, who is still ignoring the
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Deixe-os ir e diga que você virá vê-los em breve, então é melhor eles não se perderem!" ownerID="16" targetID="18" fromX="3424" fromY="-2937" />Os trolls batem em você com pedras e uma das garotas fica gravemente ferida. Mas você consegue escapar por um túnel que é pequeno demais para os trolls seguirem. As meninas estão em inundações de lágrimas. &#39;Nós lamentamos. Vovô vai ficar tão bravo. Vamos voltar para ele agora, nós juramos. Obrigado por nos salvar.</nodes>
+      <outputs name="Deixe-os ir e diga que você virá vê-los em breve, então é melhor eles não se perderem!" ownerID="16" targetID="18" fromX="3424" fromY="-2937" />Os trolls batem em você com pedras e uma das garotas fica gravemente ferida. Mas você consegue escapar por um túnel que é pequeno demais para os trolls seguirem. As meninas estão em inundaçoes de lágrimas. &#39;Nós lamentamos. Vovô vai ficar tão bravo. Vamos voltar para ele agora, nós juramos. Obrigado por nos salvar.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="2524" positionY="-2393" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="70" maxDamage="95" useCountInPercent="true" targetGroup="60">
       <logic>
         <ModifierBlock>
@@ -5302,7 +5302,7 @@ She asks the other, who shrugs and looks to the third, who is still ignoring the
       <outputs name="Surrender" ownerID="26" targetID="17" fromX="5433" fromY="-856" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="2845" positionY="702" width="350" height="725">
-      <outputs name="Diga-lhes que não é isso que vai acontecer. Essas rochas não são bebês anões. Eles não podem simplesmente pegar qualquer pedra, cantar e fazer um anão!" ownerID="27" targetID="6" fromX="3170" fromY="210" />'It is not! We do know. They are very wise and revered and they not only give life to little dwarves, they also carve their souls and teach them culture and stuff. See, we do know. Our mum and grandpa told us!'</nodes>
+      <outputs name="Diga-lhes que não é isso que vai acontecer. Essas rochas não são bebês anoes. Eles não podem simplesmente pegar qualquer pedra, cantar e fazer um anão!" ownerID="27" targetID="6" fromX="3170" fromY="210" />'It is not! We do know. They are very wise and revered and they not only give life to little dwarves, they also carve their souls and teach them culture and stuff. See, we do know. Our mum and grandpa told us!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="3915" positionY="109" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -5680,7 +5680,7 @@ She asks the other, who shrugs and looks to the third, who is still ignoring the
         </FilterBlock>
       </logic>
       <outputs name="Agradeça a ele e vá embora." ownerID="15" targetID="19" fromX="-1790" fromY="91" />
-      <outputs name="Pergunte se ele vai ensiná-los a ser anões sem o perigo." ownerID="15" targetID="21" fromX="-1790" fromY="11" />— Sim, os patifes idiotas chegaram aqui não muito antes de você. Tornando-se esposas anãs - se eu já ouvi uma coisa mais estúpida! Aqueles trolls poderiam tê-los no almoço. De qualquer forma, agradeço a vocês, rapazes, vocês salvaram eles e minha bunda. Aqui, sua recompensa.</nodes>
+      <outputs name="Pergunte se ele vai ensiná-los a ser anoes sem o perigo." ownerID="15" targetID="21" fromX="-1790" fromY="11" />— Sim, os patifes idiotas chegaram aqui não muito antes de você. Tornando-se esposas anãs - se eu já ouvi uma coisa mais estúpida! Aqueles trolls poderiam tê-los no almoço. De qualquer forma, agradeço a vocês, rapazes, vocês salvaram eles e minha bunda. Aqui, sua recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="-1095" positionY="289" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5736,7 +5736,7 @@ Bohdan sobs. And it is Chale, the rock troll friend, that speaks up:
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="-2654" positionY="1052" width="350" height="725">
-      <outputs name="Agradeça a ele e vá embora." ownerID="21" targetID="19" fromX="-2328" fromY="560" />&#39;Você me escute. Fiz minha escolha séculos atrás. Estou banido, você vê, desonrado. Então eu estava livre para ter uma esposa rusalka. Agora eu amo meus netos, mas eles não são anões. Eles precisam acabar com essa tolice e aprender a viver como as esquisitices que todos nós somos. Isso é isso. Agora, desculpe-me, mas eu preciso colocar algum sentido em algumas mentes jovens agora. Vocês se cuidam.</nodes>
+      <outputs name="Agradeça a ele e vá embora." ownerID="21" targetID="19" fromX="-2328" fromY="560" />&#39;Você me escute. Fiz minha escolha séculos atrás. Estou banido, você vê, desonrado. Então eu estava livre para ter uma esposa rusalka. Agora eu amo meus netos, mas eles não são anoes. Eles precisam acabar com essa tolice e aprender a viver como as esquisitices que todos nós somos. Isso é isso. Agora, desculpe-me, mas eu preciso colocar algum sentido em algumas mentes jovens agora. Vocês se cuidam.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="22" positionX="-739" positionY="-612" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="22" targetID="23" fromX="-290" fromY="-1044" />
     </nodes>
@@ -5971,7 +5971,7 @@ Just leave me be.'</nodes>
         </FilterBlock>
       </logic>
       <outputs name="[Bruxa] Diga a ela para parar o discurso de vendas e apenas lhe dar um pé de coelho mergulhado no sangue de uma virgem sob meia lua durante a colheita. Você pode fazer o resto." ownerID="2" targetID="4" fromX="762" fromY="-620" />
-      <outputs name="[Usuário mágico]Peça um desconto profissional, pois você só precisa das instalações e alguns suprimentos, e pode gerenciar o resto." ownerID="2" targetID="6" fromX="762" fromY="-700" />
+      <outputs name="[Usuário mágico]Peça um desconto profissional, pois você só precisa das instalaçoes e alguns suprimentos, e pode gerenciar o resto." ownerID="2" targetID="6" fromX="762" fromY="-700" />
       <outputs name="Aceite pagar." ownerID="2" targetID="15" fromX="762" fromY="-780" />
       <outputs name="Sair." ownerID="2" targetID="3" fromX="762" fromY="-860" />A witch hut walks over to you on its chicken foot, and a voice booms from within:
 
@@ -6233,7 +6233,7 @@ Anyway, all good.'
         </FilterBlock>
       </logic>
       <outputs name="[Bruxa] Diga a ela para parar o discurso de vendas e apenas lhe dar um pé de coelho mergulhado no sangue de uma virgem sob meia lua durante a colheita. Você pode fazer o resto." ownerID="2" targetID="4" fromX="762" fromY="-620" />
-      <outputs name="[Usuário mágico]Peça um desconto profissional, pois você só precisa das instalações e alguns suprimentos, e pode gerenciar o resto." ownerID="2" targetID="6" fromX="762" fromY="-700" />
+      <outputs name="[Usuário mágico]Peça um desconto profissional, pois você só precisa das instalaçoes e alguns suprimentos, e pode gerenciar o resto." ownerID="2" targetID="6" fromX="762" fromY="-700" />
       <outputs name="Aceite pagar." ownerID="2" targetID="15" fromX="762" fromY="-780" />
       <outputs name="Sair." ownerID="2" targetID="3" fromX="762" fromY="-860" />A witch hut walks over to you on its chicken foot, and a voice booms from within:
 

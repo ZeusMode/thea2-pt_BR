@@ -182,7 +182,7 @@
       <outputs name="Sair." ownerID="17" targetID="10" fromX="2488" fromY="-2563" />'The vodnik say we are bound to humans by ancient laws. Truth is, other folk mostly drown, but humans have a chance to become one of us, and children have the best chance. Just the way it is. Adults we use... well, and sometimes children come of it, but again, drowning children usually works better. So what will it be?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2727" positionY="-2021" width="350" height="1046">
       <outputs name="Pergunte por que eles não gostam tanto das criaturas marinhas." ownerID="18" targetID="28" fromX="3052" fromY="-2512" />
-      <outputs name="Concorde em caçar um vodnik desonesto e trazê-lo de volta antes de seus anciões, se possível." ownerID="18" targetID="22" fromX="3052" fromY="-2592" />
+      <outputs name="Concorde em caçar um vodnik desonesto e trazê-lo de volta antes de seus ancioes, se possível." ownerID="18" targetID="22" fromX="3052" fromY="-2592" />
       <outputs name="Um syrin está pensando em se juntar às criaturas marinhas. Convença-a de que é loucura." ownerID="18" targetID="24" fromX="3052" fromY="-2672" />
       <outputs name="Demônios da água não gostam de viajar muito longe de sua casa, então eles pedem para você buscar um baú do tesouro para eles. Concorde com isso." ownerID="18" targetID="26" fromX="3052" fromY="-2752" />
       <outputs name="Não há mais nada para fazer aqui, então vá embora." ownerID="18" targetID="20" fromX="3052" fromY="-2832" />&#39;Seja meu convidado - não vamos dizer não a alguma ajuda. Aqui, dê uma olhada em uma lista de coisas que precisam ser feitas. E lembre-se, matando aquelas malditas criaturas marinhas, a czytlica... ou melhor ainda, a jurata... bem, com certeza você vai receber alguns agradecimentos por nos trazer suas barbatanas.</nodes>
@@ -1098,7 +1098,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Diga a ele que ele é um vodnik, um líder entre os parentes da água e, como tal, ele deve enfrentar os anciões e pedir para ser libertado adequadamente, se desejar, mas não se esconder nas sombras!" ownerID="36" targetID="17" fromX="2868" fromY="-655" />
+      <outputs name="Diga a ele que ele é um vodnik, um líder entre os parentes da água e, como tal, ele deve enfrentar os ancioes e pedir para ser libertado adequadamente, se desejar, mas não se esconder nas sombras!" ownerID="36" targetID="17" fromX="2868" fromY="-655" />
       <outputs name="Ataque!" ownerID="36" targetID="3" fromX="2868" fromY="-735" />
       <outputs name="[Inteligência] Pergunte que negócios ele tem com estranhos." ownerID="36" targetID="14" fromX="2868" fromY="-815" />'Well, I did think you looked rather serious. How did they know I was up to no good, eh? Never mind. I am a free vodnik, and I shall do as I wish!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="2005" positionY="2345" width="350" height="966">

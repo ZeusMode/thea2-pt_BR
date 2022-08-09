@@ -129,7 +129,7 @@
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="[Povo da floresta ou sabedoria ou amigo] Ofereça aos guardiões da floresta um tributo para aplacar sua raiva." ownerID="2" targetID="7" fromX="859" fromY="-1064" />
+      <outputs name="[Povo da floresta ou sabedoria ou amigo] Ofereça aos guardioes da floresta um tributo para aplacar sua raiva." ownerID="2" targetID="7" fromX="859" fromY="-1064" />
       <outputs name="Pergunte se você pode entrar e explorar?" ownerID="2" targetID="5" fromX="859" fromY="-1144" />
       <outputs name="Sair." ownerID="2" targetID="25" fromX="859" fromY="-1224" />Você entra no território reivindicado pelos demônios da floresta. Você sente muitos olhos sobre você. &#39;O que te procura aqui, estranho? Não gostamos de estranhos à espreita aqui.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="541" positionY="517" width="350" height="885">

@@ -1739,7 +1739,7 @@ Now, let us drink and party, champions!'</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Comemore alguns e vá embora." ownerID="27" targetID="31" fromX="6155" fromY="-748" />
-      <outputs name="Pague para ter suas feridas curadas." ownerID="27" targetID="29" fromX="6155" fromY="-828" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeões da Cúpula do Trovão! Agora, vamos beber e festejar.
+      <outputs name="Pague para ter suas feridas curadas." ownerID="27" targetID="29" fromX="6155" fromY="-828" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="7686" positionY="-363" width="350" height="530" allPlayersXP="10" allPlayersRP="10" logBookName="QUEST_ARENA1" logBookDescription="QUEST_ARENA2_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
@@ -1763,7 +1763,7 @@ Now, let us drink and party, champions!'</nodes>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6292" positionY="-1175" width="350" height="805" image="Event340">
       <outputs name="Comemore alguns e vá embora." ownerID="30" targetID="28" fromX="6617" fromY="-1666" />
-      <outputs name="Pague para ter suas feridas curadas." ownerID="30" targetID="29" fromX="6617" fromY="-1746" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeões da Cúpula do Trovão! Agora, vamos beber e festejar.
+      <outputs name="Pague para ter suas feridas curadas." ownerID="30" targetID="29" fromX="6617" fromY="-1746" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="31" positionX="6603" positionY="-363" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="31" targetID="28" fromX="7051" fromY="-795" />

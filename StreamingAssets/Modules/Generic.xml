@@ -977,7 +977,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="4" targetID="8" fromX="1726" fromY="1106" />Sua juventude élfica estava claramente destinada a trilhar o caminho místico ao retornar para você como um mago. As provações foram difíceis e eles ainda não são tão fortes quanto um adulto de pleno direito, mas com o tempo, com certeza, eles se tornarão ótimos!</nodes>
+      <outputs name="Alegrar!" ownerID="4" targetID="8" fromX="1726" fromY="1106" />Sua juventude élfica estava claramente destinada a trilhar o caminho místico ao retornar para você como um mago. As provaçoes foram difíceis e eles ainda não são tão fortes quanto um adulto de pleno direito, mas com o tempo, com certeza, eles se tornarão ótimos!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1298" positionY="753" width="350" height="725" image="Event167">
       <logic>
         <FilterBlock>
@@ -1048,7 +1048,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Tente tornar seus últimos dias confortáveis. Não há mais nada a fazer." ownerID="9" targetID="10" fromX="2694" fromY="-578" />A criança entrou em suas provações, mas a escuridão que vem com o aprendizado da magia provou ser muito forte. O jovem cai, sua pele fica cinzenta, suas veias pretas, e logo a loucura toma conta de sua mente. 
+      <outputs name="Tente tornar seus últimos dias confortáveis. Não há mais nada a fazer." ownerID="9" targetID="10" fromX="2694" fromY="-578" />A criança entrou em suas provaçoes, mas a escuridão que vem com o aprendizado da magia provou ser muito forte. O jovem cai, sua pele fica cinzenta, suas veias pretas, e logo a loucura toma conta de sua mente. 
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="10" positionX="2770" positionY="-204" width="460" height="589">
       <outputs ownerID="10" targetID="11" group="G1" fromX="3200" fromY="-562" />
@@ -1124,7 +1124,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="15" targetID="16" fromX="3175" fromY="-1343" />Os jovens élficos partem obedientemente para realizar suas provações, mas eles nunca voltam para você. Muitos anos depois, você recebe a notícia de que a jornada deles os levou a terras distantes e eles esperam retornar em breve, mas em tempo élfico, então pode não ser em sua vida.
+      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="15" targetID="16" fromX="3175" fromY="-1343" />Os jovens élficos partem obedientemente para realizar suas provaçoes, mas eles nunca voltam para você. Muitos anos depois, você recebe a notícia de que a jornada deles os levou a terras distantes e eles esperam retornar em breve, mas em tempo élfico, então pode não ser em sua vida.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="2981" positionY="-1666" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2345" positionY="-1347" width="350" height="725">
@@ -1138,7 +1138,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="17" targetID="16" fromX="2670" fromY="-1838" />As provações são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
+      <outputs name="Alegrar!" ownerID="17" targetID="16" fromX="2670" fromY="-1838" />As provaçoes são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="1883" positionY="-1287" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1150,7 +1150,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="18" targetID="16" fromX="2208" fromY="-1778" />As provações são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
+      <outputs name="Alegrar!" ownerID="18" targetID="16" fromX="2208" fromY="-1778" />As provaçoes são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="-413" positionY="-748" width="350" height="725" image="Event166">
       <logic>
         <FilterBlock>
@@ -1177,7 +1177,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="20" targetID="21" fromX="-87" fromY="-1239" />As provações para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="20" targetID="21" fromX="-87" fromY="-1239" />As provaçoes para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="-4" positionY="-960" width="460" height="589">
       <outputs ownerID="21" targetID="22" group="G1" fromX="426" fromY="-1318" />
       <outputs ownerID="21" targetID="23" group="G1" fromX="426" fromY="-1398" />
@@ -1199,7 +1199,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="22" targetID="16" fromX="1464" fromY="-2096" />As provações do guerreiro se mostraram muito difíceis e a criança morreu.</nodes>
+      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="22" targetID="16" fromX="1464" fromY="-2096" />As provaçoes do guerreiro se mostraram muito difíceis e a criança morreu.</nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="2" positionY="-1604" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1216,7 +1216,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="23" targetID="16" fromX="327" fromY="-2095" />As provações são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
+      <outputs name="Alegrar!" ownerID="23" targetID="16" fromX="327" fromY="-2095" />As provaçoes são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="441" positionY="-1757" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1228,7 +1228,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="766" fromY="-2248" />A criança entrou em suas provações, mas a escuridão que vem com o aprendizado da magia provou ser muito forte. O jovem cai, sua pele fica cinzenta, suas veias pretas, e logo a loucura toma conta de sua mente.and soul remain scarred. </nodes>
+      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="766" fromY="-2248" />A criança entrou em suas provaçoes, mas a escuridão que vem com o aprendizado da magia provou ser muito forte. O jovem cai, sua pele fica cinzenta, suas veias pretas, e logo a loucura toma conta de sua mente.and soul remain scarred. </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="-1103" positionY="28" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1421,7 +1421,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="36" targetID="8" fromX="2912" fromY="1159" />Sua juventude élfica estava claramente destinada a trilhar o caminho místico ao retornar para você como um mago. As provações foram difíceis e eles ainda não são tão fortes quanto um adulto de pleno direito, mas com o tempo, com certeza, eles se tornarão ótimos!</nodes>
+      <outputs name="Alegrar!" ownerID="36" targetID="8" fromX="2912" fromY="1159" />Sua juventude élfica estava claramente destinada a trilhar o caminho místico ao retornar para você como um mago. As provaçoes foram difíceis e eles ainda não são tão fortes quanto um adulto de pleno direito, mas com o tempo, com certeza, eles se tornarão ótimos!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="38" positionX="4247" positionY="-343" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1457,7 +1457,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="39" targetID="21" fromX="665" fromY="-589" />As provações para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="39" targetID="21" fromX="665" fromY="-589" />As provaçoes para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
   </Adventure>
   <Adventure name="DwarfChildGrowingup" uniqueID="11" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="39" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="-115" positionY="163" width="347" height="661" image="Event216">
@@ -1504,7 +1504,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="[Anão ou lealdade e homem] Guie seu filho para seus parentes e peça-lhes para treinar. Existe o risco de que a criança fique com seus parentes anões, mas se eles decidirem voltar para você, certamente ficarão mais fortes por isso." ownerID="2" targetID="3" fromX="667" fromY="-443" />
+      <outputs name="[Anão ou lealdade e homem] Guie seu filho para seus parentes e peça-lhes para treinar. Existe o risco de que a criança fique com seus parentes anoes, mas se eles decidirem voltar para você, certamente ficarão mais fortes por isso." ownerID="2" targetID="3" fromX="667" fromY="-443" />
       <outputs name="Ensine à criança um bom e velho ofício." ownerID="2" targetID="14" fromX="667" fromY="-523" />
       <outputs name="[Chance] Seu filho parece estranho, permita que a chance guie seu destino." ownerID="2" targetID="25" fromX="667" fromY="-603" />Seu filho anão está prestes a se tornar um adulto, pelo menos pela forma como os mortais contam os anos. Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade. Mas o caminho nunca é fácil. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto.
 
@@ -1530,10 +1530,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="[Sorte] Tente o teste para um mestre de runas, sabendo que isso pode significar que seu filho permanecerá com os anões por séculos. [Chance de perda, muito alta]" ownerID="3" targetID="34" fromX="998" fromY="725" />
+      <outputs name="[Sorte] Tente o teste para um mestre de runas, sabendo que isso pode significar que seu filho permanecerá com os anoes por séculos. [Chance de perda, muito alta]" ownerID="3" targetID="34" fromX="998" fromY="725" />
       <outputs name="[Crafting] Faça a criança treinar para se tornar um ferreiro." ownerID="3" targetID="37" fromX="998" fromY="645" />
       <outputs name="Treine para se tornar um guerreiro." ownerID="3" targetID="20" fromX="998" fromY="565" />
-      <outputs name="Fique seguro e ensine à criança um bom e velho ofício." ownerID="3" targetID="14" fromX="998" fromY="485" />Você chega à cidade dos anões e seu jovem é levado para as provações de pedra e metal. [Para buscar classes raras, a criança muitas vezes precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., bem como chance. Melhorar o atributo sorte também pode ajudar nisso.]
+      <outputs name="Fique seguro e ensine à criança um bom e velho ofício." ownerID="3" targetID="14" fromX="998" fromY="485" />Você chega à cidade dos anoes e seu jovem é levado para as provaçoes de pedra e metal. [Para buscar classes raras, a criança muitas vezes precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., bem como chance. Melhorar o atributo sorte também pode ajudar nisso.]
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1730" positionY="1128" width="350" height="725" image="Event152">
       <logic>
@@ -1548,7 +1548,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="5" targetID="8" fromX="2055" fromY="636" />Pela vontade de pedra e metal, seu filho anão provou ser um prodígio e se tornou um dos ferreiros mais jovens, especialmente para um criado longe das cidades dos anões.</nodes>
+      <outputs name="Alegrar!" ownerID="5" targetID="8" fromX="2055" fromY="636" />Pela vontade de pedra e metal, seu filho anão provou ser um prodígio e se tornou um dos ferreiros mais jovens, especialmente para um criado longe das cidades dos anoes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2813" positionY="-138" width="350" height="725" image="Event150">
       <logic>
         <ModifierBlock>
@@ -1601,7 +1601,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="15" targetID="16" fromX="2817" fromY="-1355" />A criança anã realmente se tornou um jovem forte, mas o chamado da pedra e do metal provou ser forte demais para ser ignorado, e eles deixaram você para ficar com seus parentes anões. </nodes>
+      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="15" targetID="16" fromX="2817" fromY="-1355" />A criança anã realmente se tornou um jovem forte, mas o chamado da pedra e do metal provou ser forte demais para ser ignorado, e eles deixaram você para ficar com seus parentes anoes. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="2981" positionY="-1666" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2081" positionY="-1483" width="350" height="725" image="Event152">
       <logic>
@@ -1614,7 +1614,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="17" targetID="16" fromX="2406" fromY="-1974" />As provações são bem-sucedidas e a criança anã se torna jovem sob seu olhar atento.</nodes>
+      <outputs name="Alegrar!" ownerID="17" targetID="16" fromX="2406" fromY="-1974" />As provaçoes são bem-sucedidas e a criança anã se torna jovem sob seu olhar atento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="1425" positionY="-1395" width="350" height="725" image="Event151">
       <logic>
         <ModifierBlock>
@@ -1626,7 +1626,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="18" targetID="16" fromX="1750" fromY="-1886" />As provações para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
+      <outputs name="Alegrar!" ownerID="18" targetID="16" fromX="1750" fromY="-1886" />As provaçoes para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="379" positionY="-1056" width="460" height="589">
       <outputs ownerID="21" targetID="39" group="G1" fromX="809" fromY="-1414" />
       <outputs ownerID="21" targetID="23" group="G1" fromX="809" fromY="-1494" />
@@ -1672,7 +1672,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="756" fromY="-2201" />A criança não se sai bem em suas provações. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.
+      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="756" fromY="-2201" />A criança não se sai bem em suas provaçoes. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="-550" positionY="-238" width="350" height="725">
       <logic>
@@ -1687,7 +1687,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Veja a verdadeira natureza da criança." ownerID="25" targetID="26" fromX="-224" fromY="-729" />Seu filho anão deveria se tornar adulto, pelo menos pela sua contagem de mortais, mas rapidamente se tornou aparente que eles nunca eram anões em primeiro lugar, mas sim uma criatura de pedra escondida por um feitiço!
+      <outputs name="Veja a verdadeira natureza da criança." ownerID="25" targetID="26" fromX="-224" fromY="-729" />Seu filho anão deveria se tornar adulto, pelo menos pela sua contagem de mortais, mas rapidamente se tornou aparente que eles nunca eram anoes em primeiro lugar, mas sim uma criatura de pedra escondida por um feitiço!
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="26" positionX="-1105" positionY="-405" width="460" height="509">
       <outputs ownerID="26" targetID="27" group="G1" fromX="-674" fromY="-763" />
@@ -1762,7 +1762,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="31" targetID="8" fromX="1945" fromY="1596" />Pela vontade da pedra e do metal, seu filho anão provou ser um prodígio e se tornou um dos mais jovens mestres de runas já registrados na memória dos anões.</nodes>
+      <outputs name="Alegrar!" ownerID="31" targetID="8" fromX="1945" fromY="1596" />Pela vontade da pedra e do metal, seu filho anão provou ser um prodígio e se tornou um dos mais jovens mestres de runas já registrados na memória dos anoes.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="33" positionX="1950" positionY="-939" width="460" height="509">
       <logic>
         <FilterBlock>
@@ -1807,7 +1807,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="35" targetID="8" fromX="2388" fromY="1595" />As provações provaram ser demais, talvez seu vínculo com os deuses não anões tenha interferido nos ritos sagrados de passagem. A criança amadurece, mas perece de vergonha.</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="35" targetID="8" fromX="2388" fromY="1595" />As provaçoes provaram ser demais, talvez seu vínculo com os deuses não anoes tenha interferido nos ritos sagrados de passagem. A criança amadurece, mas perece de vergonha.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="2509" positionY="2035" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1849,7 +1849,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="38" targetID="8" fromX="2455" fromY="633" />Pela vontade de pedra e metal, seu filho anão provou ser um prodígio e se tornou um dos ferreiros mais jovens, especialmente para alguém criado longe das cidades dos anões.</nodes>
+      <outputs name="Alegrar!" ownerID="38" targetID="8" fromX="2455" fromY="633" />Pela vontade de pedra e metal, seu filho anão provou ser um prodígio e se tornou um dos ferreiros mais jovens, especialmente para alguém criado longe das cidades dos anoes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="39" positionX="916" positionY="-1500" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1872,7 +1872,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="39" targetID="8" fromX="1242" fromY="-1991" />As provações provaram ser demais, talvez seu vínculo com os deuses não anões tenha interferido nos ritos sagrados de passagem. A criança amadurece, mas perece de vergonha.</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="39" targetID="8" fromX="1242" fromY="-1991" />As provaçoes provaram ser demais, talvez seu vínculo com os deuses não anoes tenha interferido nos ritos sagrados de passagem. A criança amadurece, mas perece de vergonha.</nodes>
   </Adventure>
   <Adventure name="GroupSpiritAttack" uniqueID="13" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="28" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event018">
@@ -2163,7 +2163,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </ModifierBlock>
       </logic>
       <outputs name="Comece os testes para um coletor." ownerID="14" targetID="13" fromX="1302" fromY="-1047" />
-      <outputs name="Comece os testes de artesanato." ownerID="14" targetID="49" fromX="1302" fromY="-1127" />As provações para se tornar um trabalhador geralmente são as mais seguras, mas para uma criança orc isso pode não ser um caminho fácil de aceitar.
+      <outputs name="Comece os testes de artesanato." ownerID="14" targetID="49" fromX="1302" fromY="-1127" />As provaçoes para se tornar um trabalhador geralmente são as mais seguras, mas para uma criança orc isso pode não ser um caminho fácil de aceitar.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="2537" positionY="-620" width="350" height="725" image="Event148">
       <logic>
@@ -2230,7 +2230,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="20" targetID="21" fromX="169" fromY="-1393" />As provações para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="20" targetID="21" fromX="169" fromY="-1393" />As provaçoes para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="431" positionY="-1136" width="460" height="830">
       <outputs ownerID="21" targetID="30" group="G1" fromX="861" fromY="-1494" />
       <outputs ownerID="21" targetID="38" group="G1" fromX="861" fromY="-1574" />
@@ -2288,7 +2288,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="931" fromY="-2495" />A criança não se sai bem em suas provações. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.
+      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="931" fromY="-2495" />A criança não se sai bem em suas provaçoes. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="1045" positionY="-1557" width="350" height="725" image="Event020">
       <logic>
@@ -2306,7 +2306,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="30" targetID="8" fromX="1370" fromY="-2048" />As duras provações do lutador tiraram a vida do jovem!</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="30" targetID="8" fromX="1370" fromY="-2048" />As duras provaçoes do lutador tiraram a vida do jovem!</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="31" positionX="1246" positionY="984" width="350" height="725" image="Event144">
       <logic>
         <FilterBlock>
@@ -3002,7 +3002,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="[Misticismo e acaso] Comece as provações do xamã, apesar dos grandes riscos." ownerID="3" targetID="40" group="G1" fromX="679" fromY="919" />
+      <outputs name="[Misticismo e acaso] Comece as provaçoes do xamã, apesar dos grandes riscos." ownerID="3" targetID="40" group="G1" fromX="679" fromY="919" />
       <outputs name="[Sabedoria e Percepção] Envie seu filho para se tornar um mestre das feras." ownerID="3" targetID="42" fromX="679" fromY="839" />
       <outputs name="[Força] Envie o jovem no caminho de um cavaleiro de javali." ownerID="3" targetID="43" fromX="679" fromY="759" />
       <outputs name="[Força] Treine a criança para lutar como escaramuça." ownerID="3" targetID="52" fromX="679" fromY="679" />
@@ -3103,7 +3103,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="20" targetID="21" fromX="302" fromY="-1268" />As provações para um lutador são duras e perigosas. A criança goblin deve provar seu manto e aprender a usar seu tamanho como uma vantagem e não uma desvantagem.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="20" targetID="21" fromX="302" fromY="-1268" />As provaçoes para um lutador são duras e perigosas. A criança goblin deve provar seu manto e aprender a usar seu tamanho como uma vantagem e não uma desvantagem.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="422" positionY="-972" width="460" height="750">
       <outputs ownerID="21" targetID="30" group="G1" fromX="852" fromY="-1330" />
       <outputs ownerID="21" targetID="23" group="G1" fromX="852" fromY="-1410" />
@@ -3154,7 +3154,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="886" fromY="-2358" />A criança não se sai bem em suas provações. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.</nodes>
+      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="886" fromY="-2358" />A criança não se sai bem em suas provaçoes. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="1183" positionY="-1765" width="350" height="725" image="Event019">
       <logic>
         <FilterBlock>
@@ -3171,7 +3171,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="30" targetID="8" fromX="1508" fromY="-2256" />As duras provações do lutador tiraram a vida do jovem!</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="30" targetID="8" fromX="1508" fromY="-2256" />As duras provaçoes do lutador tiraram a vida do jovem!</nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="-389" positionY="-1563" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4022,7 +4022,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1445" fromY="-908" />
-      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />'Ainda não somos amigos; assim, não oferecemos boas condições, mas você pode negociar.'</nodes>
+      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />'Ainda não somos amigos; assim, não oferecemos boas condiçoes, mas você pode negociar.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1677.34949" positionY="245.258484" width="350" height="725">
       <outputs name="Sair." ownerID="11" targetID="6" fromX="2003" fromY="-245" />'Boa negociação com você. Que a natureza te abençoe.'</nodes>
   </Adventure>
@@ -4198,9 +4198,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="3" targetID="4" group="G1" fromX="1083" fromY="1026" />
-      <outputs name="Comece as provações." ownerID="3" targetID="6" group="G1" fromX="1083" fromY="946" />
-      <outputs name="Comece as provações." ownerID="3" targetID="7" group="G1" fromX="1083" fromY="866" />As provações para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="3" targetID="4" group="G1" fromX="1083" fromY="1026" />
+      <outputs name="Comece as provaçoes." ownerID="3" targetID="6" group="G1" fromX="1083" fromY="946" />
+      <outputs name="Comece as provaçoes." ownerID="3" targetID="7" group="G1" fromX="1083" fromY="866" />As provaçoes para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1238" positionY="1564" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4259,9 +4259,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="8" targetID="9" group="G1" fromX="1095" fromY="118" />
-      <outputs name="Comece as provações." ownerID="8" targetID="10" group="G1" fromX="1095" fromY="38" />
-      <outputs name="Comece as provações." ownerID="8" targetID="7" group="G1" fromX="1095" fromY="-41" />A jornada do caçador é escura e cheia de perigos à espreita em cada esquina. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="8" targetID="9" group="G1" fromX="1095" fromY="118" />
+      <outputs name="Comece as provaçoes." ownerID="8" targetID="10" group="G1" fromX="1095" fromY="38" />
+      <outputs name="Comece as provaçoes." ownerID="8" targetID="7" group="G1" fromX="1095" fromY="-41" />A jornada do caçador é escura e cheia de perigos à espreita em cada esquina. </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1223" positionY="553" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4328,10 +4328,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="11" targetID="12" group="G1" fromX="1537" fromY="-739" />
-      <outputs name="Comece as provações." ownerID="11" targetID="13" group="G1" fromX="1537" fromY="-819" />
-      <outputs name="Comece as provações." ownerID="11" targetID="60" group="G1" fromX="1537" fromY="-899" />
-      <outputs name="Comece as provações." ownerID="11" targetID="21" group="G1" fromX="1537" fromY="-979" />O caminho do zerca é espiritual. Existem poucos perigos físicos, mas a chance de sucesso é pequena sem treinamento adequado.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="11" targetID="12" group="G1" fromX="1537" fromY="-739" />
+      <outputs name="Comece as provaçoes." ownerID="11" targetID="13" group="G1" fromX="1537" fromY="-819" />
+      <outputs name="Comece as provaçoes." ownerID="11" targetID="60" group="G1" fromX="1537" fromY="-899" />
+      <outputs name="Comece as provaçoes." ownerID="11" targetID="21" group="G1" fromX="1537" fromY="-979" />O caminho do zerca é espiritual. Existem poucos perigos físicos, mas a chance de sucesso é pequena sem treinamento adequado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="1647" positionY="-843" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4436,10 +4436,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="16" targetID="18" group="G1" fromX="-331" fromY="-682" />
-      <outputs name="Comece as provações." ownerID="16" targetID="19" group="G1" fromX="-331" fromY="-762" />
-      <outputs name="Comece as provações." ownerID="16" targetID="67" group="G1" fromX="-331" fromY="-842" />
-      <outputs name="Comece as provações." ownerID="16" targetID="17" group="G1" fromX="-331" fromY="-922" />Os julgamentos para um bandido são difíceis e perigosos. A criança deve provar seu manto entre os rufiões deste mundo e encontrar coragem para voltar para você depois.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="16" targetID="18" group="G1" fromX="-331" fromY="-682" />
+      <outputs name="Comece as provaçoes." ownerID="16" targetID="19" group="G1" fromX="-331" fromY="-762" />
+      <outputs name="Comece as provaçoes." ownerID="16" targetID="67" group="G1" fromX="-331" fromY="-842" />
+      <outputs name="Comece as provaçoes." ownerID="16" targetID="17" group="G1" fromX="-331" fromY="-922" />Os julgamentos para um bandido são difíceis e perigosos. A criança deve provar seu manto entre os rufioes deste mundo e encontrar coragem para voltar para você depois.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="-598" positionY="-1254" width="350" height="805">
       <outputs name="Aguarde para ver seu destino." ownerID="17" targetID="62" group="G1" fromX="-272" fromY="-1745" />
       <outputs name="Aguarde para ver seu destino." ownerID="17" targetID="15" group="G1" fromX="-272" fromY="-1825" />A criança falhou em suas tentativas e corre um grave perigo.</nodes>
@@ -4517,7 +4517,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamente o fracasso da criança e siga em frente." ownerID="20" targetID="5" fromX="466" fromY="-2616" />A criança começou a treinar para ser bandida, mas morreu horrivelmente nas mãos dos rufiões.</nodes>
+      <outputs name="Lamente o fracasso da criança e siga em frente." ownerID="20" targetID="5" fromX="466" fromY="-2616" />A criança começou a treinar para ser bandida, mas morreu horrivelmente nas mãos dos rufioes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="1772" positionY="-1645" width="350" height="885">
       <outputs name="Aguarde para ver seu destino." ownerID="21" targetID="63" group="G1" fromX="2097" fromY="-2136" />
       <outputs name="Aguarde para ver seu destino." ownerID="21" targetID="23" group="G1" fromX="2097" fromY="-2216" />
@@ -4577,10 +4577,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="Alegrar..." ownerID="24" targetID="29" fromX="2514" fromY="-2935" />A criança fica envergonhada por seu fracasso e nunca alcança muito em sua vida. No entanto, eles procriam com um goblin e deixam sua progênie para seus cuidados.</nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="326" positionY="-2760" width="350" height="966">
-      <outputs name="Comece as provações." ownerID="25" targetID="78" group="G1" fromX="651" fromY="-3251" />
-      <outputs name="Comece as provações." ownerID="25" targetID="26" group="G1" fromX="651" fromY="-3331" />
-      <outputs name="Comece as provações." ownerID="25" targetID="27" group="G1" fromX="651" fromY="-3411" />
-      <outputs name="Comece as provações." ownerID="25" targetID="28" group="G1" fromX="651" fromY="-3491" />O caminho do artesanato não está cheio de perigos físicos, mas ainda é um caminho cansativo e exigente.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="25" targetID="78" group="G1" fromX="651" fromY="-3251" />
+      <outputs name="Comece as provaçoes." ownerID="25" targetID="26" group="G1" fromX="651" fromY="-3331" />
+      <outputs name="Comece as provaçoes." ownerID="25" targetID="27" group="G1" fromX="651" fromY="-3411" />
+      <outputs name="Comece as provaçoes." ownerID="25" targetID="28" group="G1" fromX="651" fromY="-3491" />O caminho do artesanato não está cheio de perigos físicos, mas ainda é um caminho cansativo e exigente.</nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="1158" positionY="-2258" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4633,9 +4633,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Aguarde para ver seu destino." ownerID="28" targetID="15" group="G1" fromX="2516" fromY="-3132" />A criança falhou em suas tentativas e as consequências podem ser terríveis para uma mente tão jovem.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="29" positionX="3812" positionY="-2801" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="30" positionX="-77.14334" positionY="-2570.09375" width="350" height="885">
-      <outputs name="Comece as provações." ownerID="30" targetID="31" group="G1" fromX="248" fromY="-3061" />
-      <outputs name="Comece as provações." ownerID="30" targetID="32" group="G1" fromX="248" fromY="-3141" />
-      <outputs name="Comece as provações." ownerID="30" targetID="28" group="G1" fromX="248" fromY="-3221" />O caminho dos coletores não está cheio de perigos físicos, mas ainda é um caminho cansativo e exigente.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="30" targetID="31" group="G1" fromX="248" fromY="-3061" />
+      <outputs name="Comece as provaçoes." ownerID="30" targetID="32" group="G1" fromX="248" fromY="-3141" />
+      <outputs name="Comece as provaçoes." ownerID="30" targetID="28" group="G1" fromX="248" fromY="-3221" />O caminho dos coletores não está cheio de perigos físicos, mas ainda é um caminho cansativo e exigente.</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="-497" positionY="-3040" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4690,7 +4690,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece suas provações." ownerID="34" targetID="35" fromX="-248" fromY="119" />O caminho do destino está sempre girando no caos. A criança é mandada para a escuridão e dela emergirá de novo.</nodes>
+      <outputs name="Comece suas provaçoes." ownerID="34" targetID="35" fromX="-248" fromY="119" />O caminho do destino está sempre girando no caos. A criança é mandada para a escuridão e dela emergirá de novo.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="35" positionX="-1107" positionY="757" width="460" height="830">
       <outputs ownerID="35" targetID="58" group="G1" fromX="-676" fromY="398" />
       <outputs ownerID="35" targetID="37" group="G1" fromX="-676" fromY="318" />
@@ -4822,12 +4822,12 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="[Usuário de magia ou caminho divino mágico] Guie a jovem bruxa." ownerID="49" targetID="51" group="G1" fromX="-1359" fromY="-2069" />
-      <outputs name="Comece as provações." ownerID="49" targetID="52" group="G1" fromX="-1359" fromY="-2149" />
-      <outputs name="Comece as provações." ownerID="49" targetID="53" group="G1" fromX="-1359" fromY="-2229" />
-      <outputs name="Comece as provações." ownerID="49" targetID="65" group="G1" fromX="-1359" fromY="-2309" />
-      <outputs name="Comece as provações." ownerID="49" targetID="59" group="G1" fromX="-1359" fromY="-2389" />
-      <outputs name="Comece as provações." ownerID="49" targetID="88" group="G1" fromX="-1359" fromY="-2470" />
-      <outputs name="Comece as provações." ownerID="49" targetID="54" group="G1" fromX="-1359" fromY="-2550" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="52" group="G1" fromX="-1359" fromY="-2149" />
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="53" group="G1" fromX="-1359" fromY="-2229" />
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="65" group="G1" fromX="-1359" fromY="-2309" />
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="59" group="G1" fromX="-1359" fromY="-2389" />
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="88" group="G1" fromX="-1359" fromY="-2470" />
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="54" group="G1" fromX="-1359" fromY="-2550" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-1164" positionY="-1467" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4935,10 +4935,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="55" targetID="69" group="G1" fromX="2417" fromY="-776" />
-      <outputs name="Comece as provações." ownerID="55" targetID="56" group="G1" fromX="2417" fromY="-856" />
-      <outputs name="Comece as provações." ownerID="55" targetID="57" group="G1" fromX="2417" fromY="-936" />
-      <outputs name="Comece as provações." ownerID="55" targetID="21" group="G1" fromX="2417" fromY="-1016" />O caminho do curador não é fisicamente desafiador, mas muitos não têm sabedoria ou persistência para ter sucesso.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="55" targetID="69" group="G1" fromX="2417" fromY="-776" />
+      <outputs name="Comece as provaçoes." ownerID="55" targetID="56" group="G1" fromX="2417" fromY="-856" />
+      <outputs name="Comece as provaçoes." ownerID="55" targetID="57" group="G1" fromX="2417" fromY="-936" />
+      <outputs name="Comece as provaçoes." ownerID="55" targetID="21" group="G1" fromX="2417" fromY="-1016" />O caminho do curador não é fisicamente desafiador, mas muitos não têm sabedoria ou persistência para ter sucesso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="56" positionX="2807" positionY="-560" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5153,12 +5153,12 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="[Usuário de magia] Guie a jovem bruxa." ownerID="68" targetID="51" group="G1" fromX="-2417" fromY="-2083" />
-      <outputs name="Comece as provações." ownerID="68" targetID="52" group="G1" fromX="-2417" fromY="-2163" />
-      <outputs name="Comece as provações." ownerID="68" targetID="53" group="G1" fromX="-2417" fromY="-2243" />
-      <outputs name="Comece as provações." ownerID="68" targetID="65" group="G1" fromX="-2417" fromY="-2323" />
-      <outputs name="Comece as provações." ownerID="68" targetID="59" group="G1" fromX="-2417" fromY="-2403" />
-      <outputs name="Comece as provações." ownerID="68" targetID="88" group="G1" fromX="-2417" fromY="-2484" />
-      <outputs name="Comece as provações." ownerID="68" targetID="54" group="G1" fromX="-2417" fromY="-2564" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="52" group="G1" fromX="-2417" fromY="-2163" />
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="53" group="G1" fromX="-2417" fromY="-2243" />
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="65" group="G1" fromX="-2417" fromY="-2323" />
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="59" group="G1" fromX="-2417" fromY="-2403" />
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="88" group="G1" fromX="-2417" fromY="-2484" />
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="54" group="G1" fromX="-2417" fromY="-2564" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
     <nodes xsi:type="NodeAdventure" ID="69" positionX="3594" positionY="-484" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5214,10 +5214,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="70" targetID="12" group="G1" fromX="1077" fromY="-822" />
-      <outputs name="Comece as provações." ownerID="70" targetID="13" group="G1" fromX="1077" fromY="-902" />
-      <outputs name="Comece as provações." ownerID="70" targetID="60" group="G1" fromX="1077" fromY="-982" />
-      <outputs name="Comece as provações." ownerID="70" targetID="21" group="G1" fromX="1077" fromY="-1062" />O caminho do zerca é espiritual. Existem poucos perigos físicos, mas a chance de sucesso é pequena sem treinamento adequado.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="70" targetID="12" group="G1" fromX="1077" fromY="-822" />
+      <outputs name="Comece as provaçoes." ownerID="70" targetID="13" group="G1" fromX="1077" fromY="-902" />
+      <outputs name="Comece as provaçoes." ownerID="70" targetID="60" group="G1" fromX="1077" fromY="-982" />
+      <outputs name="Comece as provaçoes." ownerID="70" targetID="21" group="G1" fromX="1077" fromY="-1062" />O caminho do zerca é espiritual. Existem poucos perigos físicos, mas a chance de sucesso é pequena sem treinamento adequado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="71" positionX="-1555" positionY="209" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -5241,10 +5241,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="71" targetID="18" group="G1" fromX="-1229" fromY="-282" />
-      <outputs name="Comece as provações." ownerID="71" targetID="19" group="G1" fromX="-1229" fromY="-362" />
-      <outputs name="Comece as provações." ownerID="71" targetID="67" group="G1" fromX="-1229" fromY="-442" />
-      <outputs name="Comece as provações." ownerID="71" targetID="17" group="G1" fromX="-1229" fromY="-522" />Os julgamentos para um bandido são difíceis e perigosos. A criança deve provar seu manto entre os rufiões deste mundo e encontrar coragem para voltar para você depois.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="71" targetID="18" group="G1" fromX="-1229" fromY="-282" />
+      <outputs name="Comece as provaçoes." ownerID="71" targetID="19" group="G1" fromX="-1229" fromY="-362" />
+      <outputs name="Comece as provaçoes." ownerID="71" targetID="67" group="G1" fromX="-1229" fromY="-442" />
+      <outputs name="Comece as provaçoes." ownerID="71" targetID="17" group="G1" fromX="-1229" fromY="-522" />Os julgamentos para um bandido são difíceis e perigosos. A criança deve provar seu manto entre os rufioes deste mundo e encontrar coragem para voltar para você depois.</nodes>
     <nodes xsi:type="NodeAdventure" ID="72" positionX="-553" positionY="1369" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5256,7 +5256,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece suas provações." ownerID="72" targetID="73" fromX="-227" fromY="877" />O caminho do destino está sempre girando no caos. A criança é mandada para a floresta e dela emergirá de novo.</nodes>
+      <outputs name="Comece suas provaçoes." ownerID="72" targetID="73" fromX="-227" fromY="877" />O caminho do destino está sempre girando no caos. A criança é mandada para a floresta e dela emergirá de novo.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="73" positionX="-1117" positionY="1841" width="460" height="669">
       <outputs ownerID="73" targetID="74" group="G1" fromX="-686" fromY="1482" />
       <outputs ownerID="73" targetID="75" group="G1" fromX="-686" fromY="1402" />
@@ -5652,12 +5652,12 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="[Usuário de magia ou caminho divino mágico] Guie o jovem." ownerID="92" targetID="94" group="G1" fromX="-3482" fromY="-3398" />
-      <outputs name="Comece as provações." ownerID="92" targetID="95" group="G1" fromX="-3482" fromY="-3478" />
-      <outputs name="Comece as provações." ownerID="92" targetID="96" group="G1" fromX="-3482" fromY="-3558" />
-      <outputs name="Comece as provações." ownerID="92" targetID="97" group="G1" fromX="-3482" fromY="-3638" />
-      <outputs name="Comece as provações." ownerID="92" targetID="98" group="G1" fromX="-3482" fromY="-3718" />
-      <outputs name="Comece as provações." ownerID="92" targetID="99" group="G1" fromX="-3482" fromY="-3799" />
-      <outputs name="Comece as provações." ownerID="92" targetID="100" group="G1" fromX="-3482" fromY="-3879" />O jovem deve seguir o volh nas profundezas do mundo cinzento e resistir à tentação do poder se eles quiserem ressurgir como seus parentes.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="95" group="G1" fromX="-3482" fromY="-3478" />
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="96" group="G1" fromX="-3482" fromY="-3558" />
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="97" group="G1" fromX="-3482" fromY="-3638" />
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="98" group="G1" fromX="-3482" fromY="-3718" />
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="99" group="G1" fromX="-3482" fromY="-3799" />
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="100" group="G1" fromX="-3482" fromY="-3879" />O jovem deve seguir o volh nas profundezas do mundo cinzento e resistir à tentação do poder se eles quiserem ressurgir como seus parentes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="94" positionX="-3315" positionY="-2878" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5816,7 +5816,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="100" targetID="5" fromX="-3101" fromY="-4893" />O menino não era forte o suficiente para se tornar um volh, e suas provações provaram ser muito ruins, mas eles podem servir como gusla. </nodes>
+      <outputs name="Alegrar." ownerID="100" targetID="5" fromX="-3101" fromY="-4893" />O menino não era forte o suficiente para se tornar um volh, e suas provaçoes provaram ser muito ruins, mas eles podem servir como gusla. </nodes>
     <nodes xsi:type="NodeAdventure" ID="101" positionX="-4230" positionY="-2899" width="350" height="1206">
       <logic>
         <FilterBlock>
@@ -5856,12 +5856,12 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="[Usuário de magia ou caminho divino mágico] Guie o jovem." ownerID="101" targetID="94" group="G1" fromX="-3904" fromY="-3390" />
-      <outputs name="Comece as provações." ownerID="101" targetID="95" group="G1" fromX="-3904" fromY="-3470" />
-      <outputs name="Comece as provações." ownerID="101" targetID="96" group="G1" fromX="-3904" fromY="-3550" />
-      <outputs name="Comece as provações." ownerID="101" targetID="97" group="G1" fromX="-3904" fromY="-3630" />
-      <outputs name="Comece as provações." ownerID="101" targetID="98" group="G1" fromX="-3904" fromY="-3710" />
-      <outputs name="Comece as provações." ownerID="101" targetID="99" group="G1" fromX="-3904" fromY="-3791" />
-      <outputs name="Comece as provações." ownerID="101" targetID="100" group="G1" fromX="-3904" fromY="-3871" />O jovem deve seguir o volh nas profundezas do mundo cinzento e resistir à tentação do poder se eles quiserem ressurgir como seus parentes.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="95" group="G1" fromX="-3904" fromY="-3470" />
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="96" group="G1" fromX="-3904" fromY="-3550" />
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="97" group="G1" fromX="-3904" fromY="-3630" />
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="98" group="G1" fromX="-3904" fromY="-3710" />
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="99" group="G1" fromX="-3904" fromY="-3791" />
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="100" group="G1" fromX="-3904" fromY="-3871" />O jovem deve seguir o volh nas profundezas do mundo cinzento e resistir à tentação do poder se eles quiserem ressurgir como seus parentes.</nodes>
     <nodes xsi:type="NodeAdventureEnd" allowOnce="true" ID="104" positionX="689" positionY="-1001" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -5939,7 +5939,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Torne-se um bandido. (Com a chance de se tornar um capitão bandido)" ownerID="106" targetID="113" fromX="-1549" fromY="-4366" />
       <outputs name="Torne-se um zerca." ownerID="106" targetID="116" fromX="-1549" fromY="-4446" />
       <outputs name="Torne-se um bom curador." ownerID="106" targetID="118" fromX="-1549" fromY="-4526" />
-      <outputs name="Retorne às opções normais. [Cuidado, você não poderá escolher esta opção novamente quando sair.]" ownerID="106" targetID="2" fromX="-1549" fromY="-4607" />
+      <outputs name="Retorne às opçoes normais. [Cuidado, você não poderá escolher esta opção novamente quando sair.]" ownerID="106" targetID="2" fromX="-1549" fromY="-4607" />
       <outputs name="Torne-se um inventor." ownerID="106" targetID="121" fromX="-1549" fromY="-4687" />Conforme escolhido, você pode injetar a semente cósmica e assim se tornar um avatar mais forte do seu deus, sem os riscos usuais.</nodes>
     <nodes xsi:type="NodeTrade" ID="107" positionX="-1453" positionY="-3721" width="460" height="559" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <logic>
@@ -6129,7 +6129,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Torne-se um bandido. (Com a chance de se tornar um capitão bandido)" ownerID="120" targetID="113" fromX="-2396" fromY="-4965" />
       <outputs name="Torne-se um zerca." ownerID="120" targetID="116" fromX="-2396" fromY="-5045" />
       <outputs name="Torne-se um bom curador." ownerID="120" targetID="118" fromX="-2396" fromY="-5125" />
-      <outputs name="Retorne às opções normais. [Cuidado, você não poderá escolher esta opção novamente quando sair.]" ownerID="120" targetID="2" fromX="-2396" fromY="-5206" />
+      <outputs name="Retorne às opçoes normais. [Cuidado, você não poderá escolher esta opção novamente quando sair.]" ownerID="120" targetID="2" fromX="-2396" fromY="-5206" />
       <outputs name="Torne-se um inventor." ownerID="120" targetID="121" fromX="-2396" fromY="-5286" />Conforme escolhido, você pode injetar a semente cósmica e assim se tornar um avatar mais forte do seu deus, sem os riscos usuais.</nodes>
     <nodes xsi:type="NodeTrade" ID="121" positionX="-2863" positionY="-5586" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <logic>
@@ -6820,7 +6820,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="[Criança] A criança parece inteligente; faça com que aprendam um ofício para se tornar um tanoeiro - um artesão, como dizem os amantes da terra." ownerID="3" targetID="14" fromX="64" fromY="927" />
       <outputs name="[Força] Treine-os para se tornarem contramestres." ownerID="3" targetID="37" fromX="64" fromY="847" />
       <outputs name="Parecem um fracote. Treiná-los para se tornar um pirata comum." ownerID="3" targetID="40" fromX="64" fromY="767" />
-      <outputs name="[Força] Treine-os para se tornarem brutos, pois eles parecem ter uma mácula escura. Cuidado, pois eles podem morrer horrivelmente das mutações ou deixá-lo para atender ao chamado do mar. (A chance de falha é muito alta)" ownerID="3" targetID="42" fromX="64" fromY="687" />
+      <outputs name="[Força] Treine-os para se tornarem brutos, pois eles parecem ter uma mácula escura. Cuidado, pois eles podem morrer horrivelmente das mutaçoes ou deixá-lo para atender ao chamado do mar. (A chance de falha é muito alta)" ownerID="3" targetID="42" fromX="64" fromY="687" />
       <outputs name="[Misticismo e macho] A criança parece dotada. Que o mar lhes ensine seus mistérios para que se tornem intendentes. Este caminho é perigoso." ownerID="3" targetID="45" fromX="64" fromY="606" />Você leva a criança para o mar e mostra como ser um pirata. Eles devem realizar tarefas difíceis para provar que são dignos. [Para buscar classes raras, a criança muitas vezes precisará de uma estatística alta no campo apropriado [os números exatos variam] como força para guerreiros, etc., bem como chance. Melhorar o atributo sorte também pode ajudar nisso.]</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1723" positionY="1147" width="350" height="725">
       <logic>
@@ -6974,7 +6974,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="35" targetID="8" fromX="2286" fromY="1787" />As provações provam demais. A criança morre, comida por um grande tubarão. Talvez jogá-los com apenas uma faca de frutas fosse um pouco demais.</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="35" targetID="8" fromX="2286" fromY="1787" />As provaçoes provam demais. A criança morre, comida por um grande tubarão. Talvez jogá-los com apenas uma faca de frutas fosse um pouco demais.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="2583" positionY="2080" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -7023,7 +7023,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="39" targetID="8" fromX="359" fromY="-2267" />As provações provam demais e a criança morre.</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="39" targetID="8" fromX="359" fromY="-2267" />As provaçoes provam demais e a criança morre.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="40" positionX="252" positionY="1042" width="460" height="509">
       <outputs ownerID="40" targetID="41" group="G1" fromX="682" fromY="683" />
       <outputs ownerID="40" targetID="38" group="G1" fromX="682" fromY="603" />
@@ -7073,7 +7073,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Aceite a escolha deles." ownerID="43" targetID="8" fromX="-921" fromY="810" />A criança emerge dos mares transformada, seu corpo crescido em massa e mutações. Eles então atendem ao chamado do mar e desaparecem.</nodes>
+      <outputs name="Aceite a escolha deles." ownerID="43" targetID="8" fromX="-921" fromY="810" />A criança emerge dos mares transformada, seu corpo crescido em massa e mutaçoes. Eles então atendem ao chamado do mar e desaparecem.</nodes>
     <nodes xsi:type="NodeAdventure" ID="44" positionX="-2023" positionY="1305" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -7274,7 +7274,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="4" targetID="8" fromX="1726" fromY="1106" />Sua juventude élfica estava claramente destinada a trilhar o caminho místico ao retornar para você como um mago. As provações foram difíceis e eles ainda não são tão fortes quanto um adulto de pleno direito, mas com o tempo, com certeza, eles se tornarão ótimos!</nodes>
+      <outputs name="Alegrar!" ownerID="4" targetID="8" fromX="1726" fromY="1106" />Sua juventude élfica estava claramente destinada a trilhar o caminho místico ao retornar para você como um mago. As provaçoes foram difíceis e eles ainda não são tão fortes quanto um adulto de pleno direito, mas com o tempo, com certeza, eles se tornarão ótimos!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1298" positionY="753" width="350" height="725" image="Event167">
       <logic>
         <FilterBlock>
@@ -7345,7 +7345,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Tente tornar seus últimos dias confortáveis. Não há mais nada a fazer." ownerID="9" targetID="10" fromX="2694" fromY="-578" />A criança entrou em suas provações, mas a escuridão que vem com o aprendizado da magia provou ser muito forte. O jovem cai, sua pele fica cinzenta, suas veias pretas, e logo a loucura toma conta de sua mente. 
+      <outputs name="Tente tornar seus últimos dias confortáveis. Não há mais nada a fazer." ownerID="9" targetID="10" fromX="2694" fromY="-578" />A criança entrou em suas provaçoes, mas a escuridão que vem com o aprendizado da magia provou ser muito forte. O jovem cai, sua pele fica cinzenta, suas veias pretas, e logo a loucura toma conta de sua mente. 
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="10" positionX="2770" positionY="-204" width="460" height="589">
       <outputs ownerID="10" targetID="11" group="G1" fromX="3200" fromY="-562" />
@@ -7421,7 +7421,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="15" targetID="16" fromX="3175" fromY="-1343" />Os jovens élficos partem obedientemente para realizar suas provações, mas eles nunca voltam para você. Muitos anos depois, você recebe a notícia de que a jornada deles os levou a terras distantes e eles esperam retornar em breve, mas em tempo élfico, então pode não ser em sua vida.
+      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="15" targetID="16" fromX="3175" fromY="-1343" />Os jovens élficos partem obedientemente para realizar suas provaçoes, mas eles nunca voltam para você. Muitos anos depois, você recebe a notícia de que a jornada deles os levou a terras distantes e eles esperam retornar em breve, mas em tempo élfico, então pode não ser em sua vida.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="2981" positionY="-1666" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2345" positionY="-1347" width="350" height="725">
@@ -7435,7 +7435,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="17" targetID="16" fromX="2670" fromY="-1838" />As provações são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
+      <outputs name="Alegrar!" ownerID="17" targetID="16" fromX="2670" fromY="-1838" />As provaçoes são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="1883" positionY="-1287" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -7447,7 +7447,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="18" targetID="16" fromX="2208" fromY="-1778" />As provações são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
+      <outputs name="Alegrar!" ownerID="18" targetID="16" fromX="2208" fromY="-1778" />As provaçoes são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="-413" positionY="-748" width="350" height="725" image="Event166">
       <logic>
         <FilterBlock>
@@ -7474,7 +7474,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="20" targetID="21" fromX="-87" fromY="-1239" />As provações para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="20" targetID="21" fromX="-87" fromY="-1239" />As provaçoes para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="-4" positionY="-960" width="460" height="589">
       <outputs ownerID="21" targetID="22" group="G1" fromX="426" fromY="-1318" />
       <outputs ownerID="21" targetID="23" group="G1" fromX="426" fromY="-1398" />
@@ -7496,7 +7496,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="22" targetID="16" fromX="1464" fromY="-2096" />As provações do guerreiro se mostraram muito difíceis e a criança morreu.</nodes>
+      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="22" targetID="16" fromX="1464" fromY="-2096" />As provaçoes do guerreiro se mostraram muito difíceis e a criança morreu.</nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="2" positionY="-1604" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -7513,7 +7513,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="23" targetID="16" fromX="327" fromY="-2095" />As provações são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
+      <outputs name="Alegrar!" ownerID="23" targetID="16" fromX="327" fromY="-2095" />As provaçoes são bem-sucedidas e a criança élfica se torna um jovem sob seu olhar atento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="441" positionY="-1757" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -7525,7 +7525,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="766" fromY="-2248" />A criança entrou em suas provações, mas a escuridão que vem com o aprendizado da magia provou ser muito forte. O jovem cai, sua pele fica cinzenta, suas veias pretas, e logo a loucura toma conta de sua mente.and soul remain scarred. </nodes>
+      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="766" fromY="-2248" />A criança entrou em suas provaçoes, mas a escuridão que vem com o aprendizado da magia provou ser muito forte. O jovem cai, sua pele fica cinzenta, suas veias pretas, e logo a loucura toma conta de sua mente.and soul remain scarred. </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="-1103" positionY="28" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -7718,7 +7718,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="36" targetID="8" fromX="2912" fromY="1159" />Sua juventude élfica estava claramente destinada a trilhar o caminho místico ao retornar para você como um mago. As provações foram difíceis e eles ainda não são tão fortes quanto um adulto de pleno direito, mas com o tempo, com certeza, eles se tornarão ótimos!</nodes>
+      <outputs name="Alegrar!" ownerID="36" targetID="8" fromX="2912" fromY="1159" />Sua juventude élfica estava claramente destinada a trilhar o caminho místico ao retornar para você como um mago. As provaçoes foram difíceis e eles ainda não são tão fortes quanto um adulto de pleno direito, mas com o tempo, com certeza, eles se tornarão ótimos!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="38" positionX="4247" positionY="-343" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -7754,7 +7754,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="39" targetID="21" fromX="665" fromY="-589" />As provações para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="39" targetID="21" fromX="665" fromY="-589" />As provaçoes para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
   </Adventure>
   <Adventure name="__DwarfChildGrowingup" uniqueID="41" seaEvent="true" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="39" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="-115" positionY="163" width="347" height="661" image="Event216">
@@ -7801,7 +7801,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="[Anão ou lealdade e homem] Guie seu filho para seus parentes e peça-lhes para treinar. Existe o risco de que a criança fique com seus parentes anões, mas se eles decidirem voltar para você, certamente ficarão mais fortes por isso." ownerID="2" targetID="3" fromX="667" fromY="-443" />
+      <outputs name="[Anão ou lealdade e homem] Guie seu filho para seus parentes e peça-lhes para treinar. Existe o risco de que a criança fique com seus parentes anoes, mas se eles decidirem voltar para você, certamente ficarão mais fortes por isso." ownerID="2" targetID="3" fromX="667" fromY="-443" />
       <outputs name="Ensine à criança um bom e velho ofício." ownerID="2" targetID="14" fromX="667" fromY="-523" />
       <outputs name="[Chance] Seu filho parece estranho, permita que a chance guie seu destino." ownerID="2" targetID="25" fromX="667" fromY="-603" />Seu filho anão está prestes a se tornar um adulto, pelo menos pela forma como os mortais contam os anos. Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade. Mas o caminho nunca é fácil. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto.
 
@@ -7827,10 +7827,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="[Sorte] Tente o teste para um mestre de runas, sabendo que isso pode significar que seu filho permanecerá com os anões por séculos. [Chance de perda, muito alta]" ownerID="3" targetID="34" fromX="998" fromY="725" />
+      <outputs name="[Sorte] Tente o teste para um mestre de runas, sabendo que isso pode significar que seu filho permanecerá com os anoes por séculos. [Chance de perda, muito alta]" ownerID="3" targetID="34" fromX="998" fromY="725" />
       <outputs name="[Crafting] Faça a criança treinar para se tornar um ferreiro." ownerID="3" targetID="37" fromX="998" fromY="645" />
       <outputs name="Treine para se tornar um guerreiro." ownerID="3" targetID="20" fromX="998" fromY="565" />
-      <outputs name="Fique seguro e ensine à criança um bom e velho ofício." ownerID="3" targetID="14" fromX="998" fromY="485" />Você chega à cidade dos anões e seu jovem é levado para as provações de pedra e metal. [Para buscar classes raras, a criança muitas vezes precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., bem como chance. Melhorar o atributo sorte também pode ajudar nisso.]
+      <outputs name="Fique seguro e ensine à criança um bom e velho ofício." ownerID="3" targetID="14" fromX="998" fromY="485" />Você chega à cidade dos anoes e seu jovem é levado para as provaçoes de pedra e metal. [Para buscar classes raras, a criança muitas vezes precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., bem como chance. Melhorar o atributo sorte também pode ajudar nisso.]
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1730" positionY="1128" width="350" height="725" image="Event152">
       <logic>
@@ -7845,7 +7845,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="5" targetID="8" fromX="2055" fromY="636" />Pela vontade de pedra e metal, seu filho anão provou ser um prodígio e se tornou um dos ferreiros mais jovens, especialmente para um criado longe das cidades dos anões.</nodes>
+      <outputs name="Alegrar!" ownerID="5" targetID="8" fromX="2055" fromY="636" />Pela vontade de pedra e metal, seu filho anão provou ser um prodígio e se tornou um dos ferreiros mais jovens, especialmente para um criado longe das cidades dos anoes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2813" positionY="-138" width="350" height="725" image="Event150">
       <logic>
         <ModifierBlock>
@@ -7898,7 +7898,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="15" targetID="16" fromX="2817" fromY="-1355" />A criança anã realmente se tornou um jovem forte, mas o chamado da pedra e do metal provou ser forte demais para ser ignorado, e eles deixaram você para ficar com seus parentes anões. </nodes>
+      <outputs name="Alegrem-se com o bem-estar deles, mas lamentem a perda de seu parentesco." ownerID="15" targetID="16" fromX="2817" fromY="-1355" />A criança anã realmente se tornou um jovem forte, mas o chamado da pedra e do metal provou ser forte demais para ser ignorado, e eles deixaram você para ficar com seus parentes anoes. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="2981" positionY="-1666" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2081" positionY="-1483" width="350" height="725" image="Event152">
       <logic>
@@ -7911,7 +7911,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="17" targetID="16" fromX="2406" fromY="-1974" />As provações são bem-sucedidas e a criança anã se torna jovem sob seu olhar atento.</nodes>
+      <outputs name="Alegrar!" ownerID="17" targetID="16" fromX="2406" fromY="-1974" />As provaçoes são bem-sucedidas e a criança anã se torna jovem sob seu olhar atento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="1425" positionY="-1395" width="350" height="725" image="Event151">
       <logic>
         <ModifierBlock>
@@ -7923,7 +7923,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="18" targetID="16" fromX="1750" fromY="-1886" />As provações para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
+      <outputs name="Alegrar!" ownerID="18" targetID="16" fromX="1750" fromY="-1886" />As provaçoes para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="379" positionY="-1056" width="460" height="589">
       <outputs ownerID="21" targetID="39" group="G1" fromX="809" fromY="-1414" />
       <outputs ownerID="21" targetID="23" group="G1" fromX="809" fromY="-1494" />
@@ -7969,7 +7969,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="756" fromY="-2201" />A criança não se sai bem em suas provações. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.
+      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="756" fromY="-2201" />A criança não se sai bem em suas provaçoes. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="-550" positionY="-238" width="350" height="725">
       <logic>
@@ -7984,7 +7984,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Veja a verdadeira natureza da criança." ownerID="25" targetID="26" fromX="-224" fromY="-729" />Seu filho anão deveria se tornar adulto, pelo menos pela sua contagem de mortais, mas rapidamente se tornou aparente que eles nunca eram anões em primeiro lugar, mas sim uma criatura de pedra escondida por um feitiço!
+      <outputs name="Veja a verdadeira natureza da criança." ownerID="25" targetID="26" fromX="-224" fromY="-729" />Seu filho anão deveria se tornar adulto, pelo menos pela sua contagem de mortais, mas rapidamente se tornou aparente que eles nunca eram anoes em primeiro lugar, mas sim uma criatura de pedra escondida por um feitiço!
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="26" positionX="-1105" positionY="-405" width="460" height="509">
       <outputs ownerID="26" targetID="27" group="G1" fromX="-674" fromY="-763" />
@@ -8059,7 +8059,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="31" targetID="8" fromX="1945" fromY="1596" />Pela vontade da pedra e do metal, seu filho anão provou ser um prodígio e se tornou um dos mais jovens mestres de runas já registrados na memória dos anões.</nodes>
+      <outputs name="Alegrar!" ownerID="31" targetID="8" fromX="1945" fromY="1596" />Pela vontade da pedra e do metal, seu filho anão provou ser um prodígio e se tornou um dos mais jovens mestres de runas já registrados na memória dos anoes.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="33" positionX="1950" positionY="-939" width="460" height="509">
       <logic>
         <FilterBlock>
@@ -8104,7 +8104,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="35" targetID="8" fromX="2388" fromY="1595" />As provações provaram ser demais, talvez seu vínculo com os deuses não anões tenha interferido nos ritos sagrados de passagem. A criança amadurece, mas perece de vergonha.</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="35" targetID="8" fromX="2388" fromY="1595" />As provaçoes provaram ser demais, talvez seu vínculo com os deuses não anoes tenha interferido nos ritos sagrados de passagem. A criança amadurece, mas perece de vergonha.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="2509" positionY="2035" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -8146,7 +8146,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="38" targetID="8" fromX="2455" fromY="633" />Pela vontade de pedra e metal, seu filho anão provou ser um prodígio e se tornou um dos ferreiros mais jovens, especialmente para alguém criado longe das cidades dos anões.</nodes>
+      <outputs name="Alegrar!" ownerID="38" targetID="8" fromX="2455" fromY="633" />Pela vontade de pedra e metal, seu filho anão provou ser um prodígio e se tornou um dos ferreiros mais jovens, especialmente para alguém criado longe das cidades dos anoes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="39" positionX="916" positionY="-1500" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -8169,7 +8169,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="39" targetID="8" fromX="1242" fromY="-1991" />As provações provaram ser demais, talvez seu vínculo com os deuses não anões tenha interferido nos ritos sagrados de passagem. A criança amadurece, mas perece de vergonha.</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="39" targetID="8" fromX="1242" fromY="-1991" />As provaçoes provaram ser demais, talvez seu vínculo com os deuses não anoes tenha interferido nos ritos sagrados de passagem. A criança amadurece, mas perece de vergonha.</nodes>
   </Adventure>
   <Adventure name="__OrcChildGrowingup" uniqueID="42" seaEvent="true" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="49" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event219">
@@ -8320,7 +8320,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </ModifierBlock>
       </logic>
       <outputs name="Comece os testes para um coletor." ownerID="14" targetID="13" fromX="1302" fromY="-1047" />
-      <outputs name="Comece os testes de artesanato." ownerID="14" targetID="49" fromX="1302" fromY="-1127" />As provações para se tornar um trabalhador geralmente são as mais seguras, mas para uma criança orc isso pode não ser um caminho fácil de aceitar.
+      <outputs name="Comece os testes de artesanato." ownerID="14" targetID="49" fromX="1302" fromY="-1127" />As provaçoes para se tornar um trabalhador geralmente são as mais seguras, mas para uma criança orc isso pode não ser um caminho fácil de aceitar.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="2537" positionY="-620" width="350" height="725" image="Event148">
       <logic>
@@ -8387,7 +8387,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="20" targetID="21" fromX="169" fromY="-1393" />As provações para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="20" targetID="21" fromX="169" fromY="-1393" />As provaçoes para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="431" positionY="-1136" width="460" height="830">
       <outputs ownerID="21" targetID="30" group="G1" fromX="861" fromY="-1494" />
       <outputs ownerID="21" targetID="38" group="G1" fromX="861" fromY="-1574" />
@@ -8445,7 +8445,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="931" fromY="-2495" />A criança não se sai bem em suas provações. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.
+      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="931" fromY="-2495" />A criança não se sai bem em suas provaçoes. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="1045" positionY="-1557" width="350" height="725" image="Event020">
       <logic>
@@ -8463,7 +8463,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="30" targetID="8" fromX="1370" fromY="-2048" />As duras provações do lutador tiraram a vida do jovem!</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="30" targetID="8" fromX="1370" fromY="-2048" />As duras provaçoes do lutador tiraram a vida do jovem!</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="31" positionX="1246" positionY="984" width="350" height="725" image="Event144">
       <logic>
         <FilterBlock>
@@ -8885,7 +8885,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="[Misticismo e acaso] Comece as provações do xamã, apesar dos grandes riscos." ownerID="3" targetID="40" group="G1" fromX="679" fromY="919" />
+      <outputs name="[Misticismo e acaso] Comece as provaçoes do xamã, apesar dos grandes riscos." ownerID="3" targetID="40" group="G1" fromX="679" fromY="919" />
       <outputs name="[Sabedoria e Percepção] Envie seu filho para se tornar um mestre das feras." ownerID="3" targetID="42" fromX="679" fromY="839" />
       <outputs name="[Força] Envie o jovem no caminho de um cavaleiro de javali." ownerID="3" targetID="43" fromX="679" fromY="759" />
       <outputs name="[Força] Treine a criança para lutar como escaramuça." ownerID="3" targetID="52" fromX="679" fromY="679" />
@@ -8986,7 +8986,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="20" targetID="21" fromX="302" fromY="-1268" />As provações para um lutador são duras e perigosas. A criança goblin deve provar seu manto e aprender a usar seu tamanho como uma vantagem e não uma desvantagem.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="20" targetID="21" fromX="302" fromY="-1268" />As provaçoes para um lutador são duras e perigosas. A criança goblin deve provar seu manto e aprender a usar seu tamanho como uma vantagem e não uma desvantagem.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="422" positionY="-972" width="460" height="750">
       <outputs ownerID="21" targetID="30" group="G1" fromX="852" fromY="-1330" />
       <outputs ownerID="21" targetID="23" group="G1" fromX="852" fromY="-1410" />
@@ -9037,7 +9037,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="886" fromY="-2358" />A criança não se sai bem em suas provações. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.</nodes>
+      <outputs name="Regozije-se com seu retorno seguro." ownerID="24" targetID="16" fromX="886" fromY="-2358" />A criança não se sai bem em suas provaçoes. Eles voltam para você esfarrapados e deprimidos, sussurrando sobre sangue e estupro. Tornam-se trabalhadores, mas mesmo nisso permanecem fracos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="1183" positionY="-1765" width="350" height="725" image="Event019">
       <logic>
         <FilterBlock>
@@ -9054,7 +9054,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="30" targetID="8" fromX="1508" fromY="-2256" />As duras provações do lutador tiraram a vida do jovem!</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="30" targetID="8" fromX="1508" fromY="-2256" />As duras provaçoes do lutador tiraram a vida do jovem!</nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="-389" positionY="-1563" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9560,9 +9560,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="3" targetID="4" group="G1" fromX="1083" fromY="1026" />
-      <outputs name="Comece as provações." ownerID="3" targetID="6" group="G1" fromX="1083" fromY="946" />
-      <outputs name="Comece as provações." ownerID="3" targetID="7" group="G1" fromX="1083" fromY="866" />As provações para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="3" targetID="4" group="G1" fromX="1083" fromY="1026" />
+      <outputs name="Comece as provaçoes." ownerID="3" targetID="6" group="G1" fromX="1083" fromY="946" />
+      <outputs name="Comece as provaçoes." ownerID="3" targetID="7" group="G1" fromX="1083" fromY="866" />As provaçoes para um lutador são duras e perigosas. A criança deve provar seu manto na natureza e se defender contra adversários mais fortes. </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1238" positionY="1564" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9621,9 +9621,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="8" targetID="9" group="G1" fromX="1095" fromY="118" />
-      <outputs name="Comece as provações." ownerID="8" targetID="10" group="G1" fromX="1095" fromY="38" />
-      <outputs name="Comece as provações." ownerID="8" targetID="7" group="G1" fromX="1095" fromY="-41" />A jornada do caçador é escura e cheia de perigos à espreita em cada esquina. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="8" targetID="9" group="G1" fromX="1095" fromY="118" />
+      <outputs name="Comece as provaçoes." ownerID="8" targetID="10" group="G1" fromX="1095" fromY="38" />
+      <outputs name="Comece as provaçoes." ownerID="8" targetID="7" group="G1" fromX="1095" fromY="-41" />A jornada do caçador é escura e cheia de perigos à espreita em cada esquina. </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1223" positionY="553" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9690,10 +9690,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="11" targetID="12" group="G1" fromX="1537" fromY="-739" />
-      <outputs name="Comece as provações." ownerID="11" targetID="13" group="G1" fromX="1537" fromY="-819" />
-      <outputs name="Comece as provações." ownerID="11" targetID="60" group="G1" fromX="1537" fromY="-899" />
-      <outputs name="Comece as provações." ownerID="11" targetID="21" group="G1" fromX="1537" fromY="-979" />O caminho do zerca é espiritual. Existem poucos perigos físicos, mas a chance de sucesso é pequena sem treinamento adequado.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="11" targetID="12" group="G1" fromX="1537" fromY="-739" />
+      <outputs name="Comece as provaçoes." ownerID="11" targetID="13" group="G1" fromX="1537" fromY="-819" />
+      <outputs name="Comece as provaçoes." ownerID="11" targetID="60" group="G1" fromX="1537" fromY="-899" />
+      <outputs name="Comece as provaçoes." ownerID="11" targetID="21" group="G1" fromX="1537" fromY="-979" />O caminho do zerca é espiritual. Existem poucos perigos físicos, mas a chance de sucesso é pequena sem treinamento adequado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="1647" positionY="-843" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9798,10 +9798,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="16" targetID="18" group="G1" fromX="-331" fromY="-682" />
-      <outputs name="Comece as provações." ownerID="16" targetID="19" group="G1" fromX="-331" fromY="-762" />
-      <outputs name="Comece as provações." ownerID="16" targetID="67" group="G1" fromX="-331" fromY="-842" />
-      <outputs name="Comece as provações." ownerID="16" targetID="17" group="G1" fromX="-331" fromY="-922" />Os julgamentos para um bandido são difíceis e perigosos. A criança deve provar seu manto entre os rufiões deste mundo e encontrar coragem para voltar para você depois.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="16" targetID="18" group="G1" fromX="-331" fromY="-682" />
+      <outputs name="Comece as provaçoes." ownerID="16" targetID="19" group="G1" fromX="-331" fromY="-762" />
+      <outputs name="Comece as provaçoes." ownerID="16" targetID="67" group="G1" fromX="-331" fromY="-842" />
+      <outputs name="Comece as provaçoes." ownerID="16" targetID="17" group="G1" fromX="-331" fromY="-922" />Os julgamentos para um bandido são difíceis e perigosos. A criança deve provar seu manto entre os rufioes deste mundo e encontrar coragem para voltar para você depois.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="-598" positionY="-1254" width="350" height="805">
       <outputs name="Aguarde para ver seu destino." ownerID="17" targetID="62" group="G1" fromX="-272" fromY="-1745" />
       <outputs name="Aguarde para ver seu destino." ownerID="17" targetID="15" group="G1" fromX="-272" fromY="-1825" />A criança falhou em suas tentativas e corre um grave perigo.</nodes>
@@ -9879,7 +9879,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamente o fracasso da criança e siga em frente." ownerID="20" targetID="5" fromX="466" fromY="-2616" />A criança começou a treinar para ser bandida, mas morreu horrivelmente nas mãos dos rufiões.</nodes>
+      <outputs name="Lamente o fracasso da criança e siga em frente." ownerID="20" targetID="5" fromX="466" fromY="-2616" />A criança começou a treinar para ser bandida, mas morreu horrivelmente nas mãos dos rufioes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="1772" positionY="-1645" width="350" height="885">
       <outputs name="Aguarde para ver seu destino." ownerID="21" targetID="63" group="G1" fromX="2097" fromY="-2136" />
       <outputs name="Aguarde para ver seu destino." ownerID="21" targetID="23" group="G1" fromX="2097" fromY="-2216" />
@@ -9939,10 +9939,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="Alegrar..." ownerID="24" targetID="29" fromX="2514" fromY="-2935" />A criança fica envergonhada por seu fracasso e nunca alcança muito em sua vida. No entanto, eles procriam com um goblin e deixam sua progênie para seus cuidados.</nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="326" positionY="-2760" width="350" height="966">
-      <outputs name="Comece as provações." ownerID="25" targetID="78" group="G1" fromX="651" fromY="-3251" />
-      <outputs name="Comece as provações." ownerID="25" targetID="26" group="G1" fromX="651" fromY="-3331" />
-      <outputs name="Comece as provações." ownerID="25" targetID="27" group="G1" fromX="651" fromY="-3411" />
-      <outputs name="Comece as provações." ownerID="25" targetID="28" group="G1" fromX="651" fromY="-3491" />O caminho do artesanato não está cheio de perigos físicos, mas ainda é um caminho cansativo e exigente.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="25" targetID="78" group="G1" fromX="651" fromY="-3251" />
+      <outputs name="Comece as provaçoes." ownerID="25" targetID="26" group="G1" fromX="651" fromY="-3331" />
+      <outputs name="Comece as provaçoes." ownerID="25" targetID="27" group="G1" fromX="651" fromY="-3411" />
+      <outputs name="Comece as provaçoes." ownerID="25" targetID="28" group="G1" fromX="651" fromY="-3491" />O caminho do artesanato não está cheio de perigos físicos, mas ainda é um caminho cansativo e exigente.</nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="1158" positionY="-2258" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9995,9 +9995,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Aguarde para ver seu destino." ownerID="28" targetID="15" group="G1" fromX="2516" fromY="-3132" />A criança falhou em suas tentativas e as consequências podem ser terríveis para uma mente tão jovem.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="29" positionX="3812" positionY="-2801" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="30" positionX="-77.14334" positionY="-2570.09375" width="350" height="885">
-      <outputs name="Comece as provações." ownerID="30" targetID="31" group="G1" fromX="248" fromY="-3061" />
-      <outputs name="Comece as provações." ownerID="30" targetID="32" group="G1" fromX="248" fromY="-3141" />
-      <outputs name="Comece as provações." ownerID="30" targetID="28" group="G1" fromX="248" fromY="-3221" />O caminho dos coletores não está cheio de perigos físicos, mas ainda é um caminho cansativo e exigente.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="30" targetID="31" group="G1" fromX="248" fromY="-3061" />
+      <outputs name="Comece as provaçoes." ownerID="30" targetID="32" group="G1" fromX="248" fromY="-3141" />
+      <outputs name="Comece as provaçoes." ownerID="30" targetID="28" group="G1" fromX="248" fromY="-3221" />O caminho dos coletores não está cheio de perigos físicos, mas ainda é um caminho cansativo e exigente.</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="-497" positionY="-3040" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10052,7 +10052,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece suas provações." ownerID="34" targetID="35" fromX="-248" fromY="119" />O caminho do destino está sempre girando no caos. A criança é mandada para a escuridão e dela emergirá de novo.</nodes>
+      <outputs name="Comece suas provaçoes." ownerID="34" targetID="35" fromX="-248" fromY="119" />O caminho do destino está sempre girando no caos. A criança é mandada para a escuridão e dela emergirá de novo.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="35" positionX="-1107" positionY="757" width="460" height="830">
       <outputs ownerID="35" targetID="58" group="G1" fromX="-676" fromY="398" />
       <outputs ownerID="35" targetID="37" group="G1" fromX="-676" fromY="318" />
@@ -10184,12 +10184,12 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="[Usuário de magia ou caminho divino mágico] Guie a jovem bruxa." ownerID="49" targetID="51" group="G1" fromX="-1359" fromY="-2069" />
-      <outputs name="Comece as provações." ownerID="49" targetID="52" group="G1" fromX="-1359" fromY="-2149" />
-      <outputs name="Comece as provações." ownerID="49" targetID="53" group="G1" fromX="-1359" fromY="-2229" />
-      <outputs name="Comece as provações." ownerID="49" targetID="65" group="G1" fromX="-1359" fromY="-2309" />
-      <outputs name="Comece as provações." ownerID="49" targetID="59" group="G1" fromX="-1359" fromY="-2389" />
-      <outputs name="Comece as provações." ownerID="49" targetID="88" group="G1" fromX="-1359" fromY="-2470" />
-      <outputs name="Comece as provações." ownerID="49" targetID="54" group="G1" fromX="-1359" fromY="-2550" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="52" group="G1" fromX="-1359" fromY="-2149" />
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="53" group="G1" fromX="-1359" fromY="-2229" />
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="65" group="G1" fromX="-1359" fromY="-2309" />
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="59" group="G1" fromX="-1359" fromY="-2389" />
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="88" group="G1" fromX="-1359" fromY="-2470" />
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="54" group="G1" fromX="-1359" fromY="-2550" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-1164" positionY="-1467" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10297,10 +10297,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="55" targetID="69" group="G1" fromX="2417" fromY="-776" />
-      <outputs name="Comece as provações." ownerID="55" targetID="56" group="G1" fromX="2417" fromY="-856" />
-      <outputs name="Comece as provações." ownerID="55" targetID="57" group="G1" fromX="2417" fromY="-936" />
-      <outputs name="Comece as provações." ownerID="55" targetID="21" group="G1" fromX="2417" fromY="-1016" />O caminho do curador não é fisicamente desafiador, mas muitos não têm sabedoria ou persistência para ter sucesso.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="55" targetID="69" group="G1" fromX="2417" fromY="-776" />
+      <outputs name="Comece as provaçoes." ownerID="55" targetID="56" group="G1" fromX="2417" fromY="-856" />
+      <outputs name="Comece as provaçoes." ownerID="55" targetID="57" group="G1" fromX="2417" fromY="-936" />
+      <outputs name="Comece as provaçoes." ownerID="55" targetID="21" group="G1" fromX="2417" fromY="-1016" />O caminho do curador não é fisicamente desafiador, mas muitos não têm sabedoria ou persistência para ter sucesso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="56" positionX="2807" positionY="-560" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10515,12 +10515,12 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="[Usuário de magia] Guie a jovem bruxa." ownerID="68" targetID="51" group="G1" fromX="-2417" fromY="-2083" />
-      <outputs name="Comece as provações." ownerID="68" targetID="52" group="G1" fromX="-2417" fromY="-2163" />
-      <outputs name="Comece as provações." ownerID="68" targetID="53" group="G1" fromX="-2417" fromY="-2243" />
-      <outputs name="Comece as provações." ownerID="68" targetID="65" group="G1" fromX="-2417" fromY="-2323" />
-      <outputs name="Comece as provações." ownerID="68" targetID="59" group="G1" fromX="-2417" fromY="-2403" />
-      <outputs name="Comece as provações." ownerID="68" targetID="88" group="G1" fromX="-2417" fromY="-2484" />
-      <outputs name="Comece as provações." ownerID="68" targetID="54" group="G1" fromX="-2417" fromY="-2564" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="52" group="G1" fromX="-2417" fromY="-2163" />
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="53" group="G1" fromX="-2417" fromY="-2243" />
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="65" group="G1" fromX="-2417" fromY="-2323" />
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="59" group="G1" fromX="-2417" fromY="-2403" />
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="88" group="G1" fromX="-2417" fromY="-2484" />
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="54" group="G1" fromX="-2417" fromY="-2564" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
     <nodes xsi:type="NodeAdventure" ID="69" positionX="3594" positionY="-484" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10576,10 +10576,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="70" targetID="12" group="G1" fromX="1077" fromY="-822" />
-      <outputs name="Comece as provações." ownerID="70" targetID="13" group="G1" fromX="1077" fromY="-902" />
-      <outputs name="Comece as provações." ownerID="70" targetID="60" group="G1" fromX="1077" fromY="-982" />
-      <outputs name="Comece as provações." ownerID="70" targetID="21" group="G1" fromX="1077" fromY="-1062" />O caminho do zerca é espiritual. Existem poucos perigos físicos, mas a chance de sucesso é pequena sem treinamento adequado.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="70" targetID="12" group="G1" fromX="1077" fromY="-822" />
+      <outputs name="Comece as provaçoes." ownerID="70" targetID="13" group="G1" fromX="1077" fromY="-902" />
+      <outputs name="Comece as provaçoes." ownerID="70" targetID="60" group="G1" fromX="1077" fromY="-982" />
+      <outputs name="Comece as provaçoes." ownerID="70" targetID="21" group="G1" fromX="1077" fromY="-1062" />O caminho do zerca é espiritual. Existem poucos perigos físicos, mas a chance de sucesso é pequena sem treinamento adequado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="71" positionX="-1555" positionY="209" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -10603,10 +10603,10 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece as provações." ownerID="71" targetID="18" group="G1" fromX="-1229" fromY="-282" />
-      <outputs name="Comece as provações." ownerID="71" targetID="19" group="G1" fromX="-1229" fromY="-362" />
-      <outputs name="Comece as provações." ownerID="71" targetID="67" group="G1" fromX="-1229" fromY="-442" />
-      <outputs name="Comece as provações." ownerID="71" targetID="17" group="G1" fromX="-1229" fromY="-522" />Os julgamentos para um bandido são difíceis e perigosos. A criança deve provar seu manto entre os rufiões deste mundo e encontrar coragem para voltar para você depois.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="71" targetID="18" group="G1" fromX="-1229" fromY="-282" />
+      <outputs name="Comece as provaçoes." ownerID="71" targetID="19" group="G1" fromX="-1229" fromY="-362" />
+      <outputs name="Comece as provaçoes." ownerID="71" targetID="67" group="G1" fromX="-1229" fromY="-442" />
+      <outputs name="Comece as provaçoes." ownerID="71" targetID="17" group="G1" fromX="-1229" fromY="-522" />Os julgamentos para um bandido são difíceis e perigosos. A criança deve provar seu manto entre os rufioes deste mundo e encontrar coragem para voltar para você depois.</nodes>
     <nodes xsi:type="NodeAdventure" ID="72" positionX="-553" positionY="1369" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10618,7 +10618,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Comece suas provações." ownerID="72" targetID="73" fromX="-227" fromY="877" />O caminho do destino está sempre girando no caos. A criança é mandada para a floresta e dela emergirá de novo.</nodes>
+      <outputs name="Comece suas provaçoes." ownerID="72" targetID="73" fromX="-227" fromY="877" />O caminho do destino está sempre girando no caos. A criança é mandada para a floresta e dela emergirá de novo.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="73" positionX="-1117" positionY="1841" width="460" height="669">
       <outputs ownerID="73" targetID="74" group="G1" fromX="-686" fromY="1482" />
       <outputs ownerID="73" targetID="75" group="G1" fromX="-686" fromY="1402" />
@@ -11014,12 +11014,12 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="[Usuário de magia ou caminho divino mágico] Guie o jovem." ownerID="92" targetID="94" group="G1" fromX="-3482" fromY="-3398" />
-      <outputs name="Comece as provações." ownerID="92" targetID="95" group="G1" fromX="-3482" fromY="-3478" />
-      <outputs name="Comece as provações." ownerID="92" targetID="96" group="G1" fromX="-3482" fromY="-3558" />
-      <outputs name="Comece as provações." ownerID="92" targetID="97" group="G1" fromX="-3482" fromY="-3638" />
-      <outputs name="Comece as provações." ownerID="92" targetID="98" group="G1" fromX="-3482" fromY="-3718" />
-      <outputs name="Comece as provações." ownerID="92" targetID="99" group="G1" fromX="-3482" fromY="-3799" />
-      <outputs name="Comece as provações." ownerID="92" targetID="100" group="G1" fromX="-3482" fromY="-3879" />O jovem deve seguir o volh nas profundezas do mundo cinzento e resistir à tentação do poder se eles quiserem ressurgir como seus parentes.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="95" group="G1" fromX="-3482" fromY="-3478" />
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="96" group="G1" fromX="-3482" fromY="-3558" />
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="97" group="G1" fromX="-3482" fromY="-3638" />
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="98" group="G1" fromX="-3482" fromY="-3718" />
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="99" group="G1" fromX="-3482" fromY="-3799" />
+      <outputs name="Comece as provaçoes." ownerID="92" targetID="100" group="G1" fromX="-3482" fromY="-3879" />O jovem deve seguir o volh nas profundezas do mundo cinzento e resistir à tentação do poder se eles quiserem ressurgir como seus parentes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="94" positionX="-3315" positionY="-2878" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -11178,7 +11178,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="100" targetID="5" fromX="-3101" fromY="-4893" />O menino não era forte o suficiente para se tornar um volh, e suas provações provaram ser muito ruins, mas eles podem servir como gusla. </nodes>
+      <outputs name="Alegrar." ownerID="100" targetID="5" fromX="-3101" fromY="-4893" />O menino não era forte o suficiente para se tornar um volh, e suas provaçoes provaram ser muito ruins, mas eles podem servir como gusla. </nodes>
     <nodes xsi:type="NodeAdventure" ID="101" positionX="-4230" positionY="-2899" width="350" height="1206">
       <logic>
         <FilterBlock>
@@ -11218,12 +11218,12 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="[Usuário de magia ou caminho divino mágico] Guie o jovem." ownerID="101" targetID="94" group="G1" fromX="-3904" fromY="-3390" />
-      <outputs name="Comece as provações." ownerID="101" targetID="95" group="G1" fromX="-3904" fromY="-3470" />
-      <outputs name="Comece as provações." ownerID="101" targetID="96" group="G1" fromX="-3904" fromY="-3550" />
-      <outputs name="Comece as provações." ownerID="101" targetID="97" group="G1" fromX="-3904" fromY="-3630" />
-      <outputs name="Comece as provações." ownerID="101" targetID="98" group="G1" fromX="-3904" fromY="-3710" />
-      <outputs name="Comece as provações." ownerID="101" targetID="99" group="G1" fromX="-3904" fromY="-3791" />
-      <outputs name="Comece as provações." ownerID="101" targetID="100" group="G1" fromX="-3904" fromY="-3871" />O jovem deve seguir o volh nas profundezas do mundo cinzento e resistir à tentação do poder se eles quiserem ressurgir como seus parentes.</nodes>
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="95" group="G1" fromX="-3904" fromY="-3470" />
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="96" group="G1" fromX="-3904" fromY="-3550" />
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="97" group="G1" fromX="-3904" fromY="-3630" />
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="98" group="G1" fromX="-3904" fromY="-3710" />
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="99" group="G1" fromX="-3904" fromY="-3791" />
+      <outputs name="Comece as provaçoes." ownerID="101" targetID="100" group="G1" fromX="-3904" fromY="-3871" />O jovem deve seguir o volh nas profundezas do mundo cinzento e resistir à tentação do poder se eles quiserem ressurgir como seus parentes.</nodes>
     <nodes xsi:type="NodeAdventureEnd" allowOnce="true" ID="104" positionX="689" positionY="-1001" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -11301,7 +11301,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Torne-se um bandido. (Com a chance de se tornar um capitão bandido)" ownerID="106" targetID="113" fromX="-1549" fromY="-4366" />
       <outputs name="Torne-se um zerca." ownerID="106" targetID="116" fromX="-1549" fromY="-4446" />
       <outputs name="Torne-se um bom curador." ownerID="106" targetID="118" fromX="-1549" fromY="-4526" />
-      <outputs name="Retorne às opções normais. [Cuidado, você não poderá escolher esta opção novamente quando sair.]" ownerID="106" targetID="2" fromX="-1549" fromY="-4607" />
+      <outputs name="Retorne às opçoes normais. [Cuidado, você não poderá escolher esta opção novamente quando sair.]" ownerID="106" targetID="2" fromX="-1549" fromY="-4607" />
       <outputs name="Torne-se um inventor." ownerID="106" targetID="121" fromX="-1549" fromY="-4687" />Conforme escolhido, você pode injetar a semente cósmica e assim se tornar um avatar mais forte do seu deus, sem os riscos usuais.</nodes>
     <nodes xsi:type="NodeTrade" ID="107" positionX="-1453" positionY="-3721" width="460" height="559" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <logic>
@@ -11491,7 +11491,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Torne-se um bandido. (Com a chance de se tornar um capitão bandido)" ownerID="120" targetID="113" fromX="-2515" fromY="-5017" />
       <outputs name="Torne-se um zerca." ownerID="120" targetID="116" fromX="-2515" fromY="-5097" />
       <outputs name="Torne-se um bom curador." ownerID="120" targetID="118" fromX="-2515" fromY="-5177" />
-      <outputs name="Retorne às opções normais. [Cuidado, você não poderá escolher esta opção novamente quando sair.]" ownerID="120" targetID="2" fromX="-2515" fromY="-5258" />
+      <outputs name="Retorne às opçoes normais. [Cuidado, você não poderá escolher esta opção novamente quando sair.]" ownerID="120" targetID="2" fromX="-2515" fromY="-5258" />
       <outputs name="Torne-se um inventor." ownerID="120" targetID="121" fromX="-2515" fromY="-5338" />Conforme escolhido, você pode injetar a semente cósmica e assim se tornar um avatar mais forte do seu deus, sem os riscos usuais.</nodes>
     <nodes xsi:type="NodeTrade" ID="121" positionX="-2880" positionY="-5607" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <logic>
@@ -11616,7 +11616,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="[Criança] A criança parece inteligente; faça com que aprendam um ofício para se tornar um tanoeiro - um artesão, como dizem os amantes da terra." ownerID="3" targetID="14" fromX="64" fromY="927" />
       <outputs name="[Força] Treine-os para se tornarem contramestres." ownerID="3" targetID="37" fromX="64" fromY="847" />
       <outputs name="Parecem um fracote. Treiná-los para se tornar um pirata comum." ownerID="3" targetID="40" fromX="64" fromY="767" />
-      <outputs name="[Força] Treine-os para se tornarem brutos, pois eles parecem ter uma mácula escura. Cuidado, pois eles podem morrer horrivelmente das mutações ou deixá-lo para atender ao chamado do mar. (A chance de falha é muito alta)" ownerID="3" targetID="42" fromX="64" fromY="687" />
+      <outputs name="[Força] Treine-os para se tornarem brutos, pois eles parecem ter uma mácula escura. Cuidado, pois eles podem morrer horrivelmente das mutaçoes ou deixá-lo para atender ao chamado do mar. (A chance de falha é muito alta)" ownerID="3" targetID="42" fromX="64" fromY="687" />
       <outputs name="[Misticismo e macho] A criança parece dotada. Que o mar lhes ensine seus mistérios para que se tornem intendentes. Este caminho é perigoso." ownerID="3" targetID="45" fromX="64" fromY="606" />Você leva a criança para o mar e mostra como ser um pirata. Eles devem realizar tarefas difíceis para provar que são dignos. [Para buscar classes raras, a criança muitas vezes precisará de uma estatística alta no campo apropriado [os números exatos variam] como força para guerreiros, etc., bem como chance. Melhorar o atributo sorte também pode ajudar nisso.]</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1714" positionY="1154" width="350" height="725">
       <logic>
@@ -11770,7 +11770,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="35" targetID="8" fromX="2286" fromY="1787" />As provações provam demais. A criança morre, comida por um grande tubarão. Talvez jogá-los com apenas uma faca de frutas fosse um pouco demais.</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="35" targetID="8" fromX="2286" fromY="1787" />As provaçoes provam demais. A criança morre, comida por um grande tubarão. Talvez jogá-los com apenas uma faca de frutas fosse um pouco demais.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="2583" positionY="2080" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -11819,7 +11819,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lamentar sua passagem." ownerID="39" targetID="8" fromX="359" fromY="-2267" />As provações provam demais e a criança morre.</nodes>
+      <outputs name="Lamentar sua passagem." ownerID="39" targetID="8" fromX="359" fromY="-2267" />As provaçoes provam demais e a criança morre.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="40" positionX="252" positionY="1042" width="460" height="509">
       <outputs ownerID="40" targetID="41" group="G1" fromX="682" fromY="683" />
       <outputs ownerID="40" targetID="38" group="G1" fromX="682" fromY="603" />
@@ -11869,7 +11869,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Aceite a escolha deles." ownerID="43" targetID="8" fromX="-921" fromY="810" />A criança emerge dos mares transformada, seu corpo crescido em massa e mutações. Eles então atendem ao chamado do mar e desaparecem.</nodes>
+      <outputs name="Aceite a escolha deles." ownerID="43" targetID="8" fromX="-921" fromY="810" />A criança emerge dos mares transformada, seu corpo crescido em massa e mutaçoes. Eles então atendem ao chamado do mar e desaparecem.</nodes>
     <nodes xsi:type="NodeAdventure" ID="44" positionX="-2023" positionY="1305" width="350" height="725">
       <logic>
         <FilterBlock>

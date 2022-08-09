@@ -410,8 +410,8 @@
       <outputs name="Sair." ownerID="16" targetID="6" fromX="1186" fromY="-279" />
       <outputs name="Ataque!" ownerID="16" targetID="5" fromX="1186" fromY="-359" />
       <outputs name="Um dos monumentos de gelo se abre para você. Digitar." ownerID="16" targetID="21" fromX="1186" fromY="-439" />
-      <outputs name="Um dos demônios do gelo se oferece para limpar suas maldições. Vá até eles." ownerID="16" targetID="20" fromX="1186" fromY="-519" />
-      <outputs name="Um pingente de gelo segue você em todos os lugares, e você acha que significa ficar com você se você deixar. Saia da cidade para ver se ele vem com você." ownerID="16" targetID="17" fromX="1186" fromY="-600" />Você não obtém resposta, apenas vários olhares gelados. Quando você se tornar amigo, poderá recrutar, negociar e curar todas as maldições aqui.
+      <outputs name="Um dos demônios do gelo se oferece para limpar suas maldiçoes. Vá até eles." ownerID="16" targetID="20" fromX="1186" fromY="-519" />
+      <outputs name="Um pingente de gelo segue você em todos os lugares, e você acha que significa ficar com você se você deixar. Saia da cidade para ver se ele vem com você." ownerID="16" targetID="17" fromX="1186" fromY="-600" />Você não obtém resposta, apenas vários olhares gelados. Quando você se tornar amigo, poderá recrutar, negociar e curar todas as maldiçoes aqui.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" allowOnce="true" ID="17" positionX="1330" positionY="-340" width="350" height="530" linkedEventUniqueID="0">
       <logic>

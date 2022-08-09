@@ -180,7 +180,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Aceite sua boa vontade e vá embora." ownerID="62" targetID="55" fromX="3296" fromY="-864" />
-      <outputs name="They killed a whole village. Ataque!" ownerID="62" targetID="41" fromX="3296" fromY="-944" />As aranhas são um pouco sencientes. De animal para animal, você descobre que eles invadiram uma vila próxima e trouxeram muitos prêmios &#39;suculentos&#39; de volta ao ninho. Como eles estão tentando estabelecer seu assentamento como mais do que um ninho, eles oferecem alguns bens e dizem que um dos seus se juntará a você como um começo para boas relações.
+      <outputs name="They killed a whole village. Ataque!" ownerID="62" targetID="41" fromX="3296" fromY="-944" />As aranhas são um pouco sencientes. De animal para animal, você descobre que eles invadiram uma vila próxima e trouxeram muitos prêmios &#39;suculentos&#39; de volta ao ninho. Como eles estão tentando estabelecer seu assentamento como mais do que um ninho, eles oferecem alguns bens e dizem que um dos seus se juntará a você como um começo para boas relaçoes.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="63" positionX="1679.63965" positionY="-632.7026" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="3" maxDamage="6" useCountInPercent="false" targetGroup="ppl">
       <outputs ownerID="63" targetID="61" fromX="2108" fromY="-1021" />
@@ -983,7 +983,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
       <outputs name="[Druida] Acalme essas cobras e explore a câmara." ownerID="4" targetID="11" group="G1" fromX="1244" fromY="104" />
       <outputs name="Tente subir de volta rapidamente." ownerID="4" targetID="10" fromX="1244" fromY="23" />
       <outputs name="Ataque!" ownerID="4" targetID="8" fromX="1244" fromY="-56" />
-      <outputs name="[Beastmaster] Pegue a flauta e toque." ownerID="4" targetID="43" fromX="1244" fromY="-136" />Os túneis foram usados como esconderijo uma vez, ou talvez sejam os restos de um posto avançado dos anões. De qualquer forma, existem claramente alguns recursos aqui. No entanto, você vê um ninho de víboras se espalhando por dentro e elas veem você!</nodes>
+      <outputs name="[Beastmaster] Pegue a flauta e toque." ownerID="4" targetID="43" fromX="1244" fromY="-136" />Os túneis foram usados como esconderijo uma vez, ou talvez sejam os restos de um posto avançado dos anoes. De qualquer forma, existem claramente alguns recursos aqui. No entanto, você vê um ninho de víboras se espalhando por dentro e elas veem você!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="937" positionY="-489" width="350" height="1046">
       <logic>
         <FilterBlock>
@@ -1005,7 +1005,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
       <outputs name="[Druida] Acalme essas cobras e explore a câmara." ownerID="5" targetID="6" group="G1" fromX="1262" fromY="-1060" />
       <outputs name="[Druida] Acalme essas cobras e explore a câmara." ownerID="5" targetID="11" group="G1" fromX="1262" fromY="-1140" />
       <outputs name="Pense em uma maneira de enganar as víboras." ownerID="5" targetID="15" fromX="1262" fromY="-1220" />
-      <outputs name="Retiro." ownerID="5" targetID="3" fromX="1262" fromY="-1300" />Os túneis foram usados como esconderijo uma vez, ou talvez sejam os restos de um posto avançado dos anões. De qualquer forma, existem claramente alguns recursos aqui. No entanto, você vê um ninho de víboras se espalhando por dentro.</nodes>
+      <outputs name="Retiro." ownerID="5" targetID="3" fromX="1262" fromY="-1300" />Os túneis foram usados como esconderijo uma vez, ou talvez sejam os restos de um posto avançado dos anoes. De qualquer forma, existem claramente alguns recursos aqui. No entanto, você vê um ninho de víboras se espalhando por dentro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1729.67517" positionY="1387.31982" width="350" height="805">
       <logic>
         <FilterBlock>

@@ -139,7 +139,7 @@
       <outputs name="[Vodnik] Junte-se aos rusalkas - afinal, eles são seus súditos." ownerID="2" targetID="24" fromX="716" fromY="-695" />
       <outputs name="[Demon] Fique alerta para truques, mas participe." ownerID="2" targetID="34" fromX="716" fromY="-775" />
       <outputs name="[Intelecto ou Natureza] O intelecto e a natureza ditam que isso pode ser uma armadilha. Permaneça cauteloso, mas junte-se a eles." ownerID="2" targetID="60" fromX="716" fromY="-855" />
-      <outputs name="A melodia é tão sublime, os dançarinos tão requintados - vá, dance, esqueça suas preocupações." ownerID="2" targetID="44" fromX="716" fromY="-936" />Você ouve uma bela melodia de flauta e vê três mulheres vestindo roupas brancas esparsas girando em círculo. A energia e o riso deles são contagiantes, e eles acenam para você se juntar a eles.</nodes>
+      <outputs name="A melodia é tão sublime, os dançarinos tão requintados - vá, dance, esqueça suas preocupaçoes." ownerID="2" targetID="44" fromX="716" fromY="-936" />Você ouve uma bela melodia de flauta e vê três mulheres vestindo roupas brancas esparsas girando em círculo. A energia e o riso deles são contagiantes, e eles acenam para você se juntar a eles.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="820.480469" positionY="968.1898" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -665,7 +665,7 @@ You are aware that if you last through a whole dance, you could be rewarded.</no
       <outputs name="[Demônio da água]Pergunte se esta lagoa pertence ao vodnik." ownerID="2" targetID="3" fromX="730" fromY="-560" />
       <outputs name="Aproxime-se do homem." ownerID="2" targetID="25" fromX="730" fromY="-640" />
       <outputs name="O homem parece suspeito. Ataca-o!" ownerID="2" targetID="33" fromX="730" fromY="-720" />
-      <outputs name="Sair." ownerID="2" targetID="15" fromX="730" fromY="-800" />Você encontra um pequeno lago isolado cercado por grama alta e salgueiros-chorões curvando suas cabeças tristes na superfície prateada. Há uma figura sentada na praia, curvada e claramente pensativa e preocupada.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="15" fromX="730" fromY="-800" />Você encontra um pequeno lago isolado cercado por grama alta e salgueiros-choroes curvando suas cabeças tristes na superfície prateada. Há uma figura sentada na praia, curvada e claramente pensativa e preocupada.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="683.956055" positionY="795.757751" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -1115,7 +1115,7 @@ The vodnik is nowhere to be seen, but you do see an extra star in the sky.</node
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e reúna sua parte." ownerID="25" targetID="26" fromX="1822.27026" fromY="1461.44971" />&#39;Você diz a verdade para nós, isso é bom. Talvez seus deuses tenham boas intenções, como você diz. Aqui, nós compartilhamos nosso saque. Paz com você.</nodes>
+      <outputs name="Agradeça a eles e reúna sua parte." ownerID="25" targetID="26" fromX="1822.27026" fromY="1461.44971" />&#39;Você diz a verdade para nós, isso é bom. Talvez seus deuses tenham boas intençoes, como você diz. Aqui, nós compartilhamos nosso saque. Paz com você.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="26" positionX="1917.37366" positionY="1922.3678" width="460" height="429.36" sourceGroup="GROUP-HUMS_3P_2M_1S" cargoPercentage="30" targetGroup="ppl">
       <outputs ownerID="26" targetID="5" fromX="2347.67358" fromY="1564.00781" />
     </nodes>
@@ -1219,7 +1219,7 @@ The vodnik is nowhere to be seen, but you do see an extra star in the sky.</node
         </FilterBlock>
       </logic>
       <outputs name="Antes de jogá-lo na água, negocie os termos!" ownerID="5" targetID="6" fromX="1303" fromY="-711" />
-      <outputs name="Pobre coisa. Jogue o peixe de volta na água." ownerID="5" targetID="7" fromX="1303" fromY="-791" />Fiel aos seus sentidos, você reconhece que este é um demônio da sorte menor, comumente conhecido pelos mortais como um peixinho dourado. Você sabe que a melhor maneira de conseguir um bom negócio é negociar antes de ajudá-lo, mas parece estar em péssimas condições.</nodes>
+      <outputs name="Pobre coisa. Jogue o peixe de volta na água." ownerID="5" targetID="7" fromX="1303" fromY="-791" />Fiel aos seus sentidos, você reconhece que este é um demônio da sorte menor, comumente conhecido pelos mortais como um peixinho dourado. Você sabe que a melhor maneira de conseguir um bom negócio é negociar antes de ajudá-lo, mas parece estar em péssimas condiçoes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1251.20972" positionY="1148.17224" width="350" height="805">
       <outputs name="Exija seus três desejos primeiro." ownerID="6" targetID="9" fromX="1576" fromY="657" />
       <outputs name="Pobre coisa. Jogue o peixe de volta na água." ownerID="6" targetID="7" fromX="1576" fromY="576" />Você pega o peixinho e ele fala com você: &#39;eu... estou... morrendo... me jogue na água, por favor...&#39;</nodes>
@@ -1274,7 +1274,7 @@ And here's one from me: those pompous bastards dislike mortals trying back doors
       <outputs ownerID="19" targetID="20" fromX="3397" fromY="2350" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3652.33838" positionY="1514.65454" width="350" height="725">
-      <outputs name="Acene e vá embora." ownerID="20" targetID="16" fromX="3978" fromY="1023" />&#39;Um acordo foi feito, e assim meus juramentos são honrados. Não faço devoluções nem aceito reclamações. O que você tem é isso. Tchau.&#39;
+      <outputs name="Acene e vá embora." ownerID="20" targetID="16" fromX="3978" fromY="1023" />&#39;Um acordo foi feito, e assim meus juramentos são honrados. Não faço devoluçoes nem aceito reclamaçoes. O que você tem é isso. Tchau.&#39;
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="21" positionX="3733.30029" positionY="2341.39087" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="8" useCountInPercent="false">
       <logic>
@@ -1754,7 +1754,7 @@ These words are repeated in various orders. The birds also seem to point in a di
       <outputs name="[Elf] Shadowkin, amaldiçoado pela escuridão há muito tempo, incapaz de retornar à luz. Ofereça a eles sua própria força espiritual para ajudá-los a alcançar o equilíbrio de luz e turbulência, como você conseguiu quando se juntou ao caminho cósmico dos deuses." ownerID="31" targetID="53" group="G1" fromX="2442" fromY="-2899" />
       <outputs name="[Elf] Shadowkin, amaldiçoado pela escuridão há muito tempo, incapaz de retornar à luz. Ofereça a eles sua própria força espiritual para ajudar a manter a turbulência sob controle." ownerID="31" targetID="58" group="G1" fromX="2442" fromY="-2979" />
       <outputs name="[Elfo das sombras] Fale com seus irmãos. Ofereça um ritual de limpeza que acalme e dê maior controle sobre a turbulência interior." ownerID="31" targetID="48" group="G2" fromX="2442" fromY="-3059" />
-      <outputs name="[Elfo das sombras] Diga que você também foi atormentado uma vez, mas ao entrar no caminho da árvore cósmica, você encontrou o equilíbrio. Diga-lhes que é possível." ownerID="31" targetID="49" group="G2" fromX="2442" fromY="-3140" />A figura se volta para você. Agora você vê suas feições magras – até mesmo magras – seus olhos vazios e pretos, sua pele coberta de veias pretas. Apesar desse dano, você reconhece a figura como um elfo. Eles falam com uma voz lenta e cansada: &#39;Eu estava apenas tentando descansar, sentir a conexão... mas tudo o que posso fazer é destruir. Saia antes que eu destrua você também...&#39;</nodes>
+      <outputs name="[Elfo das sombras] Diga que você também foi atormentado uma vez, mas ao entrar no caminho da árvore cósmica, você encontrou o equilíbrio. Diga-lhes que é possível." ownerID="31" targetID="49" group="G2" fromX="2442" fromY="-3140" />A figura se volta para você. Agora você vê suas feiçoes magras – até mesmo magras – seus olhos vazios e pretos, sua pele coberta de veias pretas. Apesar desse dano, você reconhece a figura como um elfo. Eles falam com uma voz lenta e cansada: &#39;Eu estava apenas tentando descansar, sentir a conexão... mas tudo o que posso fazer é destruir. Saia antes que eu destrua você também...&#39;</nodes>
     <nodes xsi:type="NodeChallenge" ID="32" positionX="3769" positionY="-2253" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="32" targetID="40" fromX="4210" fromY="-2748" />
       <outputs name="Lose" ownerID="32" targetID="33" fromX="4210" fromY="-2828" />
@@ -2439,9 +2439,9 @@ The pineconettes are happy:
       <outputs name="Pergunte se eles estão bem." ownerID="19" targetID="20" fromX="325" fromY="-1451" />
       <outputs name="Mate os bichos!" ownerID="19" targetID="23" fromX="325" fromY="-1532" />You take a few measured steps and see various small creatures rumbling about in the shrubbery, clearly trying to make a lot of noise.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="427.529236" positionY="-1113.60559" width="350" height="885">
-      <outputs name="Concorde em matar alguns esquilos. Pergunte por direções." ownerID="20" targetID="24" group="G1" fromX="753" fromY="-1604" />
+      <outputs name="Concorde em matar alguns esquilos. Pergunte por direçoes." ownerID="20" targetID="24" group="G1" fromX="753" fromY="-1604" />
       <outputs name="Declínio." ownerID="20" targetID="21" fromX="753" fromY="-1684" />
-      <outputs name="Concorde em matar alguns esquilos. Pergunte por direções." ownerID="20" targetID="35" group="G1" fromX="753" fromY="-1765" />'Oh, crap, they saw us!'
+      <outputs name="Concorde em matar alguns esquilos. Pergunte por direçoes." ownerID="20" targetID="35" group="G1" fromX="753" fromY="-1765" />'Oh, crap, they saw us!'
 
 'Um, eh... we're in trouble.'
 
@@ -3436,7 +3436,7 @@ His sweet words and melodic whispers are enticing but also slightly over the top
       <outputs name="Diz-se que os corpos dos mortos se transformam em madeira de dríade. Ataque as criaturas!" ownerID="2" targetID="12" fromX="788" fromY="-233" />
       <outputs name="Tente esgueirar-se pela vila para chegar à floresta élfica." ownerID="2" targetID="3" fromX="788" fromY="-313" />
       <outputs name="[Vily] Fale com suas irmãs e peça passagem grátis." ownerID="2" targetID="16" fromX="788" fromY="-393" />
-      <outputs name="Sussurre o canto verde para apaziguar os guardiões e tirar apenas um pouco da madeira, para não destruir o equilíbrio da floresta." ownerID="2" targetID="8" fromX="788" fromY="-473" />
+      <outputs name="Sussurre o canto verde para apaziguar os guardioes e tirar apenas um pouco da madeira, para não destruir o equilíbrio da floresta." ownerID="2" targetID="8" fromX="788" fromY="-473" />
       <outputs name="Sair." ownerID="2" targetID="6" fromX="788" fromY="-554" />You see before you some young saplings of elven wood. 
 
 However, as you look up at the tree crowns, you see several bird-like figures sleeping, huddled together in a circle. 
@@ -3714,9 +3714,9 @@ Surprisingly, the swamper spit cured any wounds you may have had.
         </FilterBlock>
       </logic>
       <outputs name="[Anão] Diga que você vai desistir de sua comida se eles ganharem um concurso de bebida." ownerID="2" targetID="3" fromX="765" fromY="-522" />
-      <outputs name="Afirme seu parentesco com os anões através do senhor da luz." ownerID="2" targetID="34" group="G1" fromX="765" fromY="-602" />
-      <outputs name="Afirme seu parentesco com os anões através do senhor da luz." ownerID="2" targetID="4" group="G1" fromX="765" fromY="-682" />
-      <outputs name="Em nome da luz e da turbulência, ataque os anões desonrosos." ownerID="2" targetID="5" fromX="765" fromY="-763" />
+      <outputs name="Afirme seu parentesco com os anoes através do senhor da luz." ownerID="2" targetID="34" group="G1" fromX="765" fromY="-602" />
+      <outputs name="Afirme seu parentesco com os anoes através do senhor da luz." ownerID="2" targetID="4" group="G1" fromX="765" fromY="-682" />
+      <outputs name="Em nome da luz e da turbulência, ataque os anoes desonrosos." ownerID="2" targetID="5" fromX="765" fromY="-763" />
       <outputs name="Ataque!" ownerID="2" targetID="6" fromX="765" fromY="-843" />
       <outputs name="Eles não parecem muito comprometidos com isso. Tente convencê-los disso." ownerID="2" targetID="20" fromX="765" fromY="-923" />
       <outputs name="[Bandido] Questione seus modos de bandido se tudo o que eles comem é comida." ownerID="2" targetID="33" fromX="765" fromY="-1003" />

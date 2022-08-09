@@ -549,11 +549,11 @@
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Onde há leitões, certamente há uma mãe superprotetora por perto. Observe cuidadosamente a área." ownerID="2" targetID="3" fromX="586" fromY="-696" />
-      <outputs name="[Mestre das Feras] Leitões selvagens são perfeitos para domar, mas primeiro você deve atrair um sem que ele alerte sua mãe." ownerID="2" targetID="31" fromX="586" fromY="-777" />
+      <outputs name="Onde há leitoes, certamente há uma mãe superprotetora por perto. Observe cuidadosamente a área." ownerID="2" targetID="3" fromX="586" fromY="-696" />
+      <outputs name="[Mestre das Feras] Leitoes selvagens são perfeitos para domar, mas primeiro você deve atrair um sem que ele alerte sua mãe." ownerID="2" targetID="31" fromX="586" fromY="-777" />
       <outputs name="[Hunter] Uma mamãe javali certamente está por perto. Coloque uma armadilha para separar o bando e caçar apenas um lote menor." ownerID="2" targetID="6" fromX="586" fromY="-857" />
-      <outputs name="Aproxime-se para tentar capturar os leitões." ownerID="2" targetID="10" group="G1" fromX="586" fromY="-937" />
-      <outputs name="Aproxime-se para tentar capturar os leitões." ownerID="2" targetID="36" group="G1" fromX="586" fromY="-1017" />
+      <outputs name="Aproxime-se para tentar capturar os leitoes." ownerID="2" targetID="10" group="G1" fromX="586" fromY="-937" />
+      <outputs name="Aproxime-se para tentar capturar os leitoes." ownerID="2" targetID="36" group="G1" fromX="586" fromY="-1017" />
       <outputs name="Sair." ownerID="2" targetID="14" fromX="586" fromY="-1097" />As you cross the woodland, you come across some wild piglets. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="407.651154" positionY="788.436646" width="350" height="885">
       <logic>
@@ -566,9 +566,9 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="É prejudicial para o rebanho matar os leitões ou a mãe. Em vez disso, separe os machos mais fracos para caçá-los." ownerID="3" targetID="26" group="G1" fromX="733" fromY="297" />
+      <outputs name="É prejudicial para o rebanho matar os leitoes ou a mãe. Em vez disso, separe os machos mais fracos para caçá-los." ownerID="3" targetID="26" group="G1" fromX="733" fromY="297" />
       <outputs name="Melhor não arriscar prejudicar os jovens. Circule o pacote e saia." ownerID="3" targetID="30" fromX="733" fromY="297" />
-      <outputs name="É prejudicial para o rebanho matar os leitões ou a mãe. Em vez disso, separe os machos mais fracos para caçá-los." ownerID="3" targetID="28" group="G1" fromX="733" fromY="297" />Sure enough, you soon spot a small pack of older boars rummaging through the foliage. </nodes>
+      <outputs name="É prejudicial para o rebanho matar os leitoes ou a mãe. Em vez disso, separe os machos mais fracos para caçá-los." ownerID="3" targetID="28" group="G1" fromX="733" fromY="297" />Sure enough, you soon spot a small pack of older boars rummaging through the foliage. </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1562" positionY="42" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -619,7 +619,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="13" targetID="9" fromX="63" fromY="-2005" />Você tenta pegar os leitões, mas um bando de javalis furiosos o ataca. Felizmente, você é capaz de combatê-los.</nodes>
+      <outputs name="Sair." ownerID="13" targetID="9" fromX="63" fromY="-2005" />Você tenta pegar os leitoes, mas um bando de javalis furiosos o ataca. Felizmente, você é capaz de combatê-los.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="-171.259445" positionY="-942.61084" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="2082.68579" positionY="-1513.73865" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -831,7 +831,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Ataque essas abominações!" ownerID="4" targetID="7" fromX="1685" fromY="185" />
+      <outputs name="Ataque essas abominaçoes!" ownerID="4" targetID="7" fromX="1685" fromY="185" />
       <outputs name="[Turmoil and Magic] Esta é uma perversão da luz e, como tal, seu domínio sofre uma tensão. Mas você também tem um senso aguçado da fonte e pode tentar combatê-la com seu espírito." ownerID="4" targetID="21" group="G1" fromX="1685" fromY="105" />
       <outputs name="Fugir." ownerID="4" targetID="3" fromX="1685" fromY="25" />Você percebe que é um bando de corvos vindo em sua direção, mas eles não estão se comportando naturalmente. Eles não seguem as correntes do vento, movendo-se pelo céu como um martelo feio, nem se comunicam entre si, voando em um silêncio assustador. Seus olhos pretos tipicamente redondos emitem um brilho branco maçante. </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="927" positionY="-587" width="350" height="725">
@@ -1002,7 +1002,7 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Ataque essas abominações!" ownerID="24" targetID="7" fromX="1227" fromY="233" />
+      <outputs name="Ataque essas abominaçoes!" ownerID="24" targetID="7" fromX="1227" fromY="233" />
       <outputs name="[Light]Esta é uma perversão do seu domínio. Tente combatê-lo com força de vontade." ownerID="24" targetID="8" group="G1" fromX="1227" fromY="153" />
       <outputs name="[Turmoil and Magic] Esta é uma perversão da luz e, como tal, seu domínio sofre uma tensão. Mas você também tem um senso aguçado da fonte e pode tentar combatê-la com seu espírito." ownerID="24" targetID="21" group="G1" fromX="1227" fromY="72" />
       <outputs name="Fugir." ownerID="24" targetID="3" fromX="1227" fromY="-7" />Você percebe que é um bando de corvos vindo em sua direção, mas eles não estão se comportando naturalmente. Eles não seguem as correntes do vento, movendo-se pelo céu como um martelo feio, nem se comunicam entre si, voando em um silêncio assustador. Seus olhos pretos tipicamente redondos emitem um brilho branco maçante. You feel an odd burning sensation from your domain, an unnatural pull towards the light.</nodes>
@@ -1205,7 +1205,7 @@ You feel a curse take you even before they attack.</nodes>
       <outputs name="[Bee] Exija que o mel seja dado a você, agora." ownerID="2" targetID="3" fromX="746" fromY="-524" />
       <outputs name="[Druida] Peça às abelhas o prazer de seu mel." ownerID="2" targetID="4" fromX="746" fromY="-604" />
       <outputs name="Ataque!" ownerID="2" targetID="5" fromX="746" fromY="-684" />
-      <outputs name="[Caçadores e coletores] Você sabe como fumar esses ferrões para poder saquear a colmeia." ownerID="2" targetID="8" fromX="746" fromY="-764" />
+      <outputs name="[Caçadores e coletores] Você sabe como fumar esses ferroes para poder saquear a colmeia." ownerID="2" targetID="8" fromX="746" fromY="-764" />
       <outputs name="Dê a volta na colmeia e vá embora." ownerID="2" targetID="7" fromX="746" fromY="-844" />As you cross the plains, you spot a busy beehive full of honey and nectar. It could be very nutritious, perhaps even cure some wounds. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="465.685181" positionY="899.1871" width="350" height="885">
       <logic>
@@ -1234,7 +1234,7 @@ You feel a curse take you even before they attack.</nodes>
       </logic>
       <outputs name="Beba o néctar e o mel." ownerID="4" targetID="31" group="G1" fromX="1580" fromY="-470" />
       <outputs name="Beba o néctar e o mel." ownerID="4" targetID="23" group="G1" fromX="1580" fromY="-551" />
-      <outputs name="À medida que as abelhas baixam a guarda, você pode realizar um ritual que atordoará os ferrões e permitirá que você roube a colmeia adequadamente." ownerID="4" targetID="11" fromX="1580" fromY="-631" />The bees buzz around you as if assessing the sincerity of your words, and some sting you. But when they see you remain calm, they allow you to sample their goods.</nodes>
+      <outputs name="À medida que as abelhas baixam a guarda, você pode realizar um ritual que atordoará os ferroes e permitirá que você roube a colmeia adequadamente." ownerID="4" targetID="11" fromX="1580" fromY="-631" />The bees buzz around you as if assessing the sincerity of your words, and some sting you. But when they see you remain calm, they allow you to sample their goods.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1750.13086" positionY="-979.991943" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-BEES_1P_1M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="33" fromX="2191" fromY="-1475" />
       <outputs name="Lose" ownerID="5" targetID="35" fromX="2191" fromY="-1555" />
@@ -1438,7 +1438,7 @@ You feel a curse take you even before they attack.</nodes>
       </logic>
       <outputs name="[Turmoil]The sudden flush of excitement feeds your domain and makes your heart beat faster. Ataque!" ownerID="2" targetID="5" group="G1" fromX="766" fromY="-612" />
       <outputs name="[Demônio da noite] Exija obediência dos roedores voadores!" ownerID="2" targetID="14" fromX="766" fromY="-692" />
-      <outputs name="[Percepção] Fique parado e permita que eles voem, mesmo que isso signifique levar alguns arranhões. Tente identificar exatamente de onde eles vieram." ownerID="2" targetID="20" fromX="766" fromY="-773" />
+      <outputs name="[Percepção] Fique parado e permita que eles voem, mesmo que isso signifique levar alguns arranhoes. Tente identificar exatamente de onde eles vieram." ownerID="2" targetID="20" fromX="766" fromY="-773" />
       <outputs name="Lutar!" ownerID="2" targetID="6" group="G1" fromX="766" fromY="-853" />
       <outputs name="Fugir!" ownerID="2" targetID="13" group="G2" fromX="766" fromY="-933" />
       <outputs name="Fugir!" ownerID="2" targetID="4" group="G2" fromX="766" fromY="-1013" />A swarm of bats descends upon you out of nowhere!</nodes>

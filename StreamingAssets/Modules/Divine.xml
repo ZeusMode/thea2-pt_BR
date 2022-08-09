@@ -103,7 +103,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Pergunte ao corvo o que ele quer de você. Por que fala de seus deveres divinos?" ownerID="6" targetID="17" fromX="3040" fromY="-163" />
-      <outputs name="Diga que não foi uma escolha sua, mas de outro escolhido que tomou esse caminho!" ownerID="6" targetID="18" fromX="3040" fromY="-243" />O corvo fala enquanto voa acima de você. Já esteve no galho? &#39;Suas ações são boas, mas é o caminho que seu domínio exigiria? Ou você escolheu por capricho de um momento, sem considerar seu verdadeiro caminho? Há muito para você aprender, escolhido.
+      <outputs name="Diga que não foi uma escolha sua, mas de outro escolhido que tomou esse caminho!" ownerID="6" targetID="18" fromX="3040" fromY="-243" />O corvo fala enquanto voa acima de você. Já esteve no galho? &#39;Suas açoes são boas, mas é o caminho que seu domínio exigiria? Ou você escolheu por capricho de um momento, sem considerar seu verdadeiro caminho? Há muito para você aprender, escolhido.
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="7" positionX="342" positionY="28" width="460" height="910">
       <outputs ownerID="7" targetID="8" group="G1" fromX="772" fromY="-330" />
@@ -248,7 +248,7 @@ One should never interfere in the natural cycles unless one absolutely must.'</n
       </logic>
       <outputs name="Pergunte ao corvo o que ele quer de você. Por que fala de seus deveres divinos?" ownerID="16" targetID="17" fromX="2024" fromY="-1578" />&#39;Fiel ao seu caminho, pelo menos desta vez. Você não ficou nesse caminho ao lidar com os escolhidos fracassados, não é? Você não escolheu acalmar a alma quebrada do homem ou oferecer consolo. Uma vergonha para alguém que supostamente está seguindo o caminho da Harmonia.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="3181" positionY="2077" width="350" height="885" image="Event299">
-      <outputs name="Diga que você não questiona a vontade dos deuses. Certamente eles têm suas razões." ownerID="17" targetID="19" fromX="3506" fromY="1585" />
+      <outputs name="Diga que você não questiona a vontade dos deuses. Certamente eles têm suas razoes." ownerID="17" targetID="19" fromX="3506" fromY="1585" />
       <outputs name="Diga que você trilha seu próprio caminho e pouco se importa com o que os deuses pensam." ownerID="17" targetID="31" fromX="3506" fromY="1505" />
       <outputs name="Admita que a pergunta passou pela sua cabeça e pergunte se ela tem respostas." ownerID="17" targetID="32" fromX="3506" fromY="1425" />'I am no one of importance, at least not to you. But I do have a question for you:
 
@@ -1819,7 +1819,7 @@ But you feel there is much more potential within you. You feel your divine conne
       <outputs name="O sangue é a essência mais potente para a feitiçaria, especialmente se dada livremente. Ofereça-se para sangrar um de vocês inteiramente pelas bruxas." ownerID="7" targetID="9" fromX="2511" fromY="-162" />
       <outputs name="Recusar e atacar!" ownerID="7" targetID="18" fromX="2511" fromY="-242" />
       <outputs name="Recusar e sair." ownerID="7" targetID="3" fromX="2511" fromY="-323" />
-      <outputs name="[Usuário de magia] Em vez de uma oferenda, desafie a bruxa para um duelo espiritual de acordo com as tradições antigas." ownerID="7" targetID="8" fromX="2511" fromY="-403" />'She is now. She was ever a servant of death, and two others stood above her in the past. 
+      <outputs name="[Usuário de magia] Em vez de uma oferenda, desafie a bruxa para um duelo espiritual de acordo com as tradiçoes antigas." ownerID="7" targetID="8" fromX="2511" fromY="-403" />'She is now. She was ever a servant of death, and two others stood above her in the past. 
 
 Veles is not a harbinger of death. He is gatekeeper and master of the underworlds. 
 
@@ -1919,7 +1919,7 @@ Here, drink this and receive the gifts of our father.'</nodes>
       <outputs name="O sangue é a essência mais potente para a feitiçaria, especialmente se dada livremente. Ofereça-se para sangrar um de vocês inteiramente pelas bruxas." ownerID="22" targetID="9" fromX="4550" fromY="919" />
       <outputs name="Recusar e atacar!" ownerID="22" targetID="18" fromX="4550" fromY="839" />
       <outputs name="Recusar e sair." ownerID="22" targetID="3" fromX="4550" fromY="759" />
-      <outputs name="[Usuário de magia] Em vez de uma oferenda, desafie a bruxa para um duelo espiritual de acordo com as tradições antigas." ownerID="22" targetID="8" fromX="4550" fromY="678" />'If you truly walk the chosen path, you will sacrifice something precious to us. Only then will we share the enlightenment you seek here.'</nodes>
+      <outputs name="[Usuário de magia] Em vez de uma oferenda, desafie a bruxa para um duelo espiritual de acordo com as tradiçoes antigas." ownerID="22" targetID="8" fromX="4550" fromY="678" />'If you truly walk the chosen path, you will sacrifice something precious to us. Only then will we share the enlightenment you seek here.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="1470" positionY="-1562" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2129,7 +2129,7 @@ The spirits call to me in the greyworld. Surely that is my duty as one of the fo
       </logic>
       <outputs name="[Apenas escolhido] Concentre-se no domínio do espírito para fortalecer seu senhor." ownerID="7" targetID="29" fromX="1380" fromY="1390" />
       <outputs name="[Apenas escolhido] Prepare sua mente e permita que seu deus tire força disso." ownerID="7" targetID="30" fromX="1380" fromY="1310" />
-      <outputs name="Retire-se e retorne quando estiver realmente pronto!" ownerID="7" targetID="38" fromX="1380" fromY="1230" />&#39;Sim Sim. Há muito tempo os espíritos guiam minha jornada, e assim sua alma e suas ações passadas me mostrarão quem eu sou. Aproxime-se e não tema o que está por vir.&#39; Ao se encontrar no abraço de Marovit, você sente sua alma extraída de sua casca e inalada por seu deus. Agora você precisa resistir a esse ataque através da Magia ou do Intelecto.</nodes>
+      <outputs name="Retire-se e retorne quando estiver realmente pronto!" ownerID="7" targetID="38" fromX="1380" fromY="1230" />&#39;Sim Sim. Há muito tempo os espíritos guiam minha jornada, e assim sua alma e suas açoes passadas me mostrarão quem eu sou. Aproxime-se e não tema o que está por vir.&#39; Ao se encontrar no abraço de Marovit, você sente sua alma extraída de sua casca e inalada por seu deus. Agora você precisa resistir a esse ataque através da Magia ou do Intelecto.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="8" positionX="2778" positionY="1035" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="8" targetID="9" group="G1" fromX="3207" fromY="646" />
       <outputs ownerID="8" targetID="19" group="G1" fromX="3207" fromY="566" />
@@ -2180,7 +2180,7 @@ The spirits call to me in the greyworld. Surely that is my duty as one of the fo
     <nodes xsi:type="NodeAdventure" ID="11" positionX="4227" positionY="1856" width="350" height="885">
       <outputs name="Continue ouvindo." ownerID="11" targetID="12" fromX="4552" fromY="1364" />
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="16" group="G1" fromX="4552" fromY="1284" />
-      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4552" fromY="1204" />&#39;Quando os três deuses anciões decidiram criar domínios divinos, eles tiraram o poder de todos nós. Eu suspeito que isso teve seus efeitos colaterais. Veles deu seu poder para criar Magia e Intelecto, e eu fui presenteado com ambos. Como o destinatário mais direto de seu poder e ligado aos espíritos desde o nascimento, eu estava assim ligado ao mundo cinza, garantindo o fluxo estável das almas para a vida após a morte. Mas isso me esgotou e me perdi.</nodes>
+      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4552" fromY="1204" />&#39;Quando os três deuses ancioes decidiram criar domínios divinos, eles tiraram o poder de todos nós. Eu suspeito que isso teve seus efeitos colaterais. Veles deu seu poder para criar Magia e Intelecto, e eu fui presenteado com ambos. Como o destinatário mais direto de seu poder e ligado aos espíritos desde o nascimento, eu estava assim ligado ao mundo cinza, garantindo o fluxo estável das almas para a vida após a morte. Mas isso me esgotou e me perdi.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="4717" positionY="1892" width="350" height="966">
       <outputs name="Então eles se foram para sempre?" ownerID="12" targetID="13" fromX="5042" fromY="1400" />
       <outputs name="Mas por que a luz é ruim?" ownerID="12" targetID="26" fromX="5042" fromY="1320" />
@@ -2320,7 +2320,7 @@ Marovit walks away into the greyworld and you are left alone, with a last gift p
     <nodes xsi:type="NodeAdventure" ID="35" positionX="3433" positionY="2807" width="350" height="725">
       <outputs name="Então os velhos deuses se foram para sempre?" ownerID="35" targetID="13" fromX="3758" fromY="2315" />&#39;A briga deles quase destruiu Thea, até que os deuses finalmente conseguiram enjaular os dois. A escuridão estava trancada nos céus e mantida lá pela coroa das árvores cósmicas que cresciam por todas as terras. A luz foi afundada profundamente no núcleo da terra, mantida no lugar pelo sacrifício do mais velho dos gigantes, Starovit, que deu seu próprio coração como selo. Mas o selo foi claramente quebrado, e assim o filho da luz ameaça purgar o mundo novamente.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="5658" positionY="1719" width="350" height="725">
-      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="36" targetID="15" fromX="5983" fromY="1227" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="36" targetID="15" fromX="5983" fromY="1227" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="37" positionX="5730" positionY="844" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_DIV_MAROVIT" logBookDescription="QUEST_DIV_ALLGODSs_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
         <ModifierBlock>
@@ -2900,7 +2900,7 @@ But you feel there is much more potential within you. You feel your divine conne
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="[Fêmea anã] Cante a canção da vida anã. Afinal, foi dado aos anões pelos gigantes." ownerID="5" targetID="37" fromX="2180" fromY="-987" />
+      <outputs name="[Fêmea anã] Cante a canção da vida anã. Afinal, foi dado aos anoes pelos gigantes." ownerID="5" targetID="37" fromX="2180" fromY="-987" />
       <outputs name="[Anão] Sussurre para a pedra e peça ao gigante para soltá-la, pois vocês dois são stonekin." ownerID="5" targetID="38" fromX="2180" fromY="-1067" />
       <outputs name="[Elf] Use sua conexão natural com a magia para falar com o gigante e peça para ele lhe dar a vara." ownerID="5" targetID="40" fromX="2180" fromY="-1147" />Esta deve ser a mão de um gigante. Esses antigos pastores da terra mantêm esta terra viva com sua canção de vida, mesmo enquanto dormem. Houve um tempo durante o Despertar quando os gigantes retornaram. Talvez este tenha adormecido lentamente e assim conseguiu resguardar a vara para Perun. Ou ele poderia ter sido feito para segurar esta vara por magia, por quem quisesse prendê-la. De qualquer forma, é preciso ter muito cuidado ao lidar com gigantes, mesmo os adormecidos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="814" positionY="-1117" width="350" height="725">
@@ -3504,7 +3504,7 @@ The voice fades, and when your eyesight is restored, the giant hand holds the ro
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="[Fêmea anã] Cante a canção da vida anã. Afinal, foi dado aos anões pelos gigantes." ownerID="5" targetID="37" fromX="2180" fromY="-987" />
+      <outputs name="[Fêmea anã] Cante a canção da vida anã. Afinal, foi dado aos anoes pelos gigantes." ownerID="5" targetID="37" fromX="2180" fromY="-987" />
       <outputs name="[Anão] Sussurre para a pedra e peça ao gigante para soltá-la, pois vocês dois são stonekin." ownerID="5" targetID="38" fromX="2180" fromY="-1067" />
       <outputs name="[Elf] Use sua conexão natural com a magia para falar com o gigante e peça para ele lhe dar a vara." ownerID="5" targetID="40" fromX="2180" fromY="-1147" />Esta deve ser a mão de um gigante. Esses antigos pastores da terra mantêm esta terra viva com sua canção de vida, mesmo enquanto dormem. Houve um tempo durante o Despertar quando os gigantes retornaram. Talvez este tenha adormecido lentamente e assim conseguiu resguardar a vara para Perun. Ou ele poderia ter sido feito para segurar esta vara por magia, por quem quisesse prendê-la. De qualquer forma, é preciso ter muito cuidado ao lidar com gigantes, mesmo os adormecidos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="814" positionY="-1117" width="350" height="725">
@@ -4350,7 +4350,7 @@ You, little chosen, must make more haste, make them go back into the earth...'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Deixe por enquanto." ownerID="26" targetID="24" fromX="4005" fromY="-407" />O leshy olha para você e permanece em silêncio, mas você sente o julgamento dele sobre suas ações sangrentas. Você sente sua alma divina queimar com isso.</nodes>
+      <outputs name="Deixe por enquanto." ownerID="26" targetID="24" fromX="4005" fromY="-407" />O leshy olha para você e permanece em silêncio, mas você sente o julgamento dele sobre suas açoes sangrentas. Você sente sua alma divina queimar com isso.</nodes>
     <nodes xsi:type="NodeTrade" ID="27" positionX="2269" positionY="-176" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="pets" startingBalance="-4">
       <logic>
         <FilterBlock>
@@ -4376,7 +4376,7 @@ You, little chosen, must make more haste, make them go back into the earth...'
       <outputs name="Dê uma vida - um verdadeiro sacrifício." ownerID="28" targetID="21" fromX="1624" fromY="-718" />
       <outputs name="Convença-o de que você foi escolhido e está aqui para ajudar, mas ele precisa lhe dizer como." ownerID="28" targetID="8" fromX="1624" fromY="-798" />
       <outputs name="Enfrente o leshy no mundo espiritual para convencê-lo de que seu espírito está ligado aos deuses." ownerID="28" targetID="9" fromX="1624" fromY="-879" />
-      <outputs name="Ataque!" ownerID="28" targetID="5" fromX="1624" fromY="-959" />Você se aproxima e examina a árvore. Você vê lugares onde havia claramente oferendas colocadas para a deusa Mokosh. Mas você também vê um leshy observando você e suspeita que ele age como um guardião aqui, julgando suas ações em nome da deusa.</nodes>
+      <outputs name="Ataque!" ownerID="28" targetID="5" fromX="1624" fromY="-959" />Você se aproxima e examina a árvore. Você vê lugares onde havia claramente oferendas colocadas para a deusa Mokosh. Mas você também vê um leshy observando você e suspeita que ele age como um guardião aqui, julgando suas açoes em nome da deusa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="177" positionY="1763" width="350" height="1206">
       <outputs name="Dê uma generosa oferta de comida cozida." ownerID="29" targetID="10" fromX="502" fromY="1271" />
       <outputs name="Ofereça toda a essência espiritual de um de seus parentes." ownerID="29" targetID="18" fromX="502" fromY="1191" />
@@ -4644,7 +4644,7 @@ The leshy does not wait for a reply, but goes back into slumber.</nodes>
       <outputs ownerID="49" targetID="51" fromX="3333" fromY="-2106" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="3510" positionY="-1665" width="350" height="725">
-      <outputs name="Deixe por enquanto." ownerID="51" targetID="24" fromX="3835" fromY="-2156" />O leshy olha para você e permanece em silêncio, mas você sente o julgamento dele sobre suas ações sangrentas. Você sente sua alma divina queimar com isso.</nodes>
+      <outputs name="Deixe por enquanto." ownerID="51" targetID="24" fromX="3835" fromY="-2156" />O leshy olha para você e permanece em silêncio, mas você sente o julgamento dele sobre suas açoes sangrentas. Você sente sua alma divina queimar com isso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="4322" positionY="-702" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -5015,7 +5015,7 @@ You, little chosen, must make more haste, make them go back into the earth...'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Deixe por enquanto." ownerID="26" targetID="24" fromX="4005" fromY="-407" />O leshy olha para você e permanece em silêncio, mas você sente o julgamento dele sobre suas ações sangrentas. Você sente sua alma divina queimar com isso.</nodes>
+      <outputs name="Deixe por enquanto." ownerID="26" targetID="24" fromX="4005" fromY="-407" />O leshy olha para você e permanece em silêncio, mas você sente o julgamento dele sobre suas açoes sangrentas. Você sente sua alma divina queimar com isso.</nodes>
     <nodes xsi:type="NodeTrade" ID="27" positionX="2269" positionY="-176" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="pets" startingBalance="-4">
       <logic>
         <FilterBlock>
@@ -5041,7 +5041,7 @@ You, little chosen, must make more haste, make them go back into the earth...'
       <outputs name="Dê uma vida - um verdadeiro sacrifício." ownerID="28" targetID="21" fromX="1647" fromY="-553" />
       <outputs name="Convença-o de que você foi escolhido e está aqui para ajudar, mas ele precisa lhe dizer como." ownerID="28" targetID="8" fromX="1647" fromY="-633" />
       <outputs name="Enfrente o leshy no mundo espiritual para convencê-lo de que seu espírito está ligado aos deuses." ownerID="28" targetID="9" fromX="1647" fromY="-714" />
-      <outputs name="Ataque!" ownerID="28" targetID="5" fromX="1647" fromY="-794" />Você se aproxima e examina a árvore. Você vê lugares onde havia claramente oferendas colocadas para a deusa Mokosh. Mas você também vê um leshy observando você e suspeita que ele age como um guardião aqui, julgando suas ações em nome da deusa.</nodes>
+      <outputs name="Ataque!" ownerID="28" targetID="5" fromX="1647" fromY="-794" />Você se aproxima e examina a árvore. Você vê lugares onde havia claramente oferendas colocadas para a deusa Mokosh. Mas você também vê um leshy observando você e suspeita que ele age como um guardião aqui, julgando suas açoes em nome da deusa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="352" positionY="1437" width="350" height="1206">
       <outputs name="Dê uma generosa oferta de comida cozida." ownerID="29" targetID="10" fromX="677" fromY="945" />
       <outputs name="Ofereça toda a essência espiritual de um de seus parentes." ownerID="29" targetID="18" fromX="677" fromY="865" />
@@ -5307,7 +5307,7 @@ The leshy does not wait for a reply, but goes back into slumber.</nodes>
       <outputs ownerID="49" targetID="51" fromX="3324" fromY="-2152" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="3510" positionY="-1665" width="350" height="725">
-      <outputs name="Deixe por enquanto." ownerID="51" targetID="24" fromX="3835" fromY="-2156" />O leshy olha para você e permanece em silêncio, mas você sente o julgamento dele sobre suas ações sangrentas. Você sente sua alma divina queimar com isso.</nodes>
+      <outputs name="Deixe por enquanto." ownerID="51" targetID="24" fromX="3835" fromY="-2156" />O leshy olha para você e permanece em silêncio, mas você sente o julgamento dele sobre suas açoes sangrentas. Você sente sua alma divina queimar com isso.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="52" positionX="1720" positionY="-2458" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="52" targetID="33" fromX="2168" fromY="-2890" />
     </nodes>
@@ -5426,7 +5426,7 @@ The leshy does not wait for a reply, but goes back into slumber.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Curve-se em agradecimento e vá embora." ownerID="67" targetID="68" fromX="5379" fromY="2198" />&#39;Ah, a própria mãe natureza, em turbulência ela habita, pois mudança é vida. Ela já teve domínio sobre todos os domínios divinos, mas com o tempo ela escolheu compartilhar seu poder para buscar maior equilíbrio. Ela agora mantém a natureza e a turbulência como suas. Você percorre o caminho da mãe primordial e, portanto, deve aprender a agir para o bem de todos. Ela deve ser libertada dos Três. Assim para as terras dos vulcões você irá. Lá, nas covas vermelhas, você pedirá a Triglav para liberar a mãe para nós, pois ela é necessária agora. O leshy não espera por uma resposta, mas volta a dormir.</nodes>
+      <outputs name="Curve-se em agradecimento e vá embora." ownerID="67" targetID="68" fromX="5379" fromY="2198" />&#39;Ah, a própria mãe natureza, em turbulência ela habita, pois mudança é vida. Ela já teve domínio sobre todos os domínios divinos, mas com o tempo ela escolheu compartilhar seu poder para buscar maior equilíbrio. Ela agora mantém a natureza e a turbulência como suas. Você percorre o caminho da mãe primordial e, portanto, deve aprender a agir para o bem de todos. Ela deve ser libertada dos Três. Assim para as terras dos vulcoes você irá. Lá, nas covas vermelhas, você pedirá a Triglav para liberar a mãe para nós, pois ela é necessária agora. O leshy não espera por uma resposta, mas volta a dormir.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="68" positionX="5022" positionY="3361" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="68" targetID="69" fromX="5470" fromY="3378" />
     </nodes>
@@ -5568,14 +5568,14 @@ The leshy does not wait for a reply, but goes back into slumber.</nodes>
       </logic>
       <outputs name="O que significa que ele escolheu esse caminho? Havia outros?" ownerID="9" targetID="10" fromX="3666" fromY="977" />
       <outputs name="Por que ele perdeu a memória em primeiro lugar?" ownerID="9" targetID="11" fromX="3666" fromY="897" />
-      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="9" targetID="16" fromX="3666" fromY="817" />&#39;O fogo queima e meu coração também. Vou reforjar minha mente agora para que eu possa servir novamente. E você - você fez bem em seguir meu caminho, eu vejo. Você honra o ofício, valoriza a sabedoria ou faz amizade com os grandes parentes anões. Isso é sábio. Vejo agora que devo fortalecer meu chamado como artesão e lembrar minhas raízes para ajudar a construir um futuro melhor. Agora, faça suas perguntas, meu campeão, pois não temos muito tempo aqui.</nodes>
+      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="9" targetID="16" fromX="3666" fromY="817" />&#39;O fogo queima e meu coração também. Vou reforjar minha mente agora para que eu possa servir novamente. E você - você fez bem em seguir meu caminho, eu vejo. Você honra o ofício, valoriza a sabedoria ou faz amizade com os grandes parentes anoes. Isso é sábio. Vejo agora que devo fortalecer meu chamado como artesão e lembrar minhas raízes para ajudar a construir um futuro melhor. Agora, faça suas perguntas, meu campeão, pois não temos muito tempo aqui.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="3778" positionY="1797" width="350" height="805">
       <outputs name="Por que ele perdeu a memória em primeiro lugar?" ownerID="10" targetID="11" fromX="4103" fromY="1305" />
       <outputs name="Por que e como ele se tornou um deus?" ownerID="10" targetID="25" fromX="4103" fromY="1225" />“Escolhi seguir minha natureza primordial. Isso afetará você e eu. Para melhor ou pior? Vamos ver. Você me deu clareza, escolhido. Agora entendo os sacrifícios feitos pelos deuses mais velhos e o que nós, os jovens, devemos fazer.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="4227" positionY="1856" width="350" height="885">
       <outputs name="Continue ouvindo." ownerID="11" targetID="12" fromX="4552" fromY="1364" />
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="16" group="G1" fromX="4552" fromY="1284" />
-      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4552" fromY="1204" />&#39;Quando os três deuses anciões decidiram criar domínios divinos, eles tiraram o poder de todos nós. Eu suspeito que isso teve seus efeitos colaterais. Turbulência e Luz vêm de meu pai, mas ele precisava se alimentar do meu domínio do sol para conseguir isso. Eu suspeito que isso me enfraqueceu por um tempo. Eu já fui o deus do sol. Quando a luz escapou de seus limites, fui mais atraído por ela. Suspeito que minha perda de poder foi necessária para não cair.</nodes>
+      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4552" fromY="1204" />&#39;Quando os três deuses ancioes decidiram criar domínios divinos, eles tiraram o poder de todos nós. Eu suspeito que isso teve seus efeitos colaterais. Turbulência e Luz vêm de meu pai, mas ele precisava se alimentar do meu domínio do sol para conseguir isso. Eu suspeito que isso me enfraqueceu por um tempo. Eu já fui o deus do sol. Quando a luz escapou de seus limites, fui mais atraído por ela. Suspeito que minha perda de poder foi necessária para não cair.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="4709" positionY="1870" width="350" height="966">
       <outputs name="Então eles se foram para sempre?" ownerID="12" targetID="13" fromX="5034" fromY="1378" />
       <outputs name="Mas por que a luz é ruim?" ownerID="12" targetID="26" fromX="5034" fromY="1298" />
@@ -5641,7 +5641,7 @@ Svarog turns away and slowly turns into pure sunlight and disappears.  You are l
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2926" positionY="488" width="350" height="885">
       <outputs name="O que significa que ele escolheu esse caminho? Havia outros?" ownerID="19" targetID="20" fromX="3251" fromY="-3" />
       <outputs name="Por que ele perdeu a memória em primeiro lugar?" ownerID="19" targetID="11" fromX="3251" fromY="-83" />
-      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="19" targetID="21" fromX="3251" fromY="-163" />&#39;O fogo queima e meu coração também. Vou reforjar minha mente agora para que eu possa servir novamente. E você - você fez bem em seguir meu caminho, eu vejo. Você honra o ofício, valoriza a sabedoria ou faz amizade com os grandes parentes anões. Isso é sábio. Vejo agora que devo fortalecer meu chamado como artesão e lembrar minhas raízes para ajudar a construir um futuro melhor. Agora, faça suas perguntas, meu campeão, pois não temos muito tempo aqui.</nodes>
+      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="19" targetID="21" fromX="3251" fromY="-163" />&#39;O fogo queima e meu coração também. Vou reforjar minha mente agora para que eu possa servir novamente. E você - você fez bem em seguir meu caminho, eu vejo. Você honra o ofício, valoriza a sabedoria ou faz amizade com os grandes parentes anoes. Isso é sábio. Vejo agora que devo fortalecer meu chamado como artesão e lembrar minhas raízes para ajudar a construir um futuro melhor. Agora, faça suas perguntas, meu campeão, pois não temos muito tempo aqui.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3364" positionY="500" width="350" height="725">
       <outputs name="Por que ele perdeu a memória em primeiro lugar?" ownerID="20" targetID="11" fromX="3689" fromY="8" />“Escolhi seguir minha natureza primordial. Isso afetará você e eu. Para melhor ou pior? Vamos ver. Você me deu clareza, escolhido. Agora entendo os sacrifícios feitos pelos deuses mais velhos e o que nós, os jovens, devemos fazer.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="4806" positionY="101" width="350" height="725">
@@ -5769,7 +5769,7 @@ You take the flame back to Svarog. He looks at you with a renewed sparkle in his
       <outputs name="Surrender" ownerID="39" targetID="32" fromX="121" fromY="1751" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="5625" positionY="1711" width="350" height="725">
-      <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="40" targetID="15" fromX="5950" fromY="1219" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="40" targetID="15" fromX="5950" fromY="1219" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="41" positionX="5757" positionY="759" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_DIV_SVAROG" logBookDescription="QUEST_DIV_ALLGODSs_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
         <ModifierBlock>
@@ -6157,7 +6157,7 @@ The lake is still and empty, as is your soul...
       <outputs ownerID="44" targetID="31" fromX="2250" fromY="1797" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="5601" positionY="1653" width="350" height="725">
-      <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="45" targetID="15" fromX="5926" fromY="1161" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="45" targetID="15" fromX="5926" fromY="1161" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="46" positionX="5910" positionY="807" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_DIV_LADA" logBookDescription="QUEST_DIV_ALLGODSs_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
         <ModifierBlock>
@@ -6523,7 +6523,7 @@ The forest remains shaken, but you hear no more voices.
       <outputs ownerID="44" targetID="31" fromX="2275" fromY="1813" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="6049" positionY="1656" width="350" height="725">
-      <outputs name="Então, por que era necessário esperar por um escolhido?" ownerID="45" targetID="15" fromX="6374" fromY="1164" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Então, por que era necessário esperar por um escolhido?" ownerID="45" targetID="15" fromX="6374" fromY="1164" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeChallenge" ID="46" positionX="200" positionY="1345" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_3S" challengeScale="101" challengedList="ch">
       <outputs name="Win" ownerID="46" targetID="31" fromX="641" fromY="849" />
       <outputs name="Lose" ownerID="46" targetID="32" fromX="641" fromY="769" />
@@ -6713,7 +6713,7 @@ The forest remains shaken, but you hear no more voices.
     <nodes xsi:type="NodeAdventure" ID="11" positionX="4227" positionY="1856" width="350" height="885">
       <outputs name="Continue ouvindo." ownerID="11" targetID="12" fromX="4552" fromY="1364" />
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="16" group="G1" fromX="4552" fromY="1284" />
-      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4552" fromY="1204" />&#39;Quando os três deuses anciões decidiram criar domínios divinos, eles tiraram o poder de todos nós, antes que pudessem devolvê-lo. Enfraquecido, uma criatura de Luz e Harmonia como eu estaria mais vulnerável ao chamado dessa nova força que tenta nos quebrar. Precisávamos de tempo para nos tornarmos nós mesmos novamente, tempo para que nossos campeões subissem. Eu dei ao czytlica o poder de me segurar com sua música por esse motivo.&#39;
+      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4552" fromY="1204" />&#39;Quando os três deuses ancioes decidiram criar domínios divinos, eles tiraram o poder de todos nós, antes que pudessem devolvê-lo. Enfraquecido, uma criatura de Luz e Harmonia como eu estaria mais vulnerável ao chamado dessa nova força que tenta nos quebrar. Precisávamos de tempo para nos tornarmos nós mesmos novamente, tempo para que nossos campeoes subissem. Eu dei ao czytlica o poder de me segurar com sua música por esse motivo.&#39;
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="4710" positionY="1872" width="350" height="966">
       <outputs name="Então eles se foram para sempre?" ownerID="12" targetID="13" fromX="5035" fromY="1380" />
@@ -6905,7 +6905,7 @@ You hear Stribog's voice become wind as  you are left alone, with a last gift pl
       <outputs ownerID="40" targetID="31" fromX="1268" fromY="1744" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="5656" positionY="1696" width="350" height="725">
-      <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="41" targetID="15" fromX="5981" fromY="1204" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="41" targetID="15" fromX="5981" fromY="1204" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="42" positionX="5799" positionY="816" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_DIV_STRIBOG" logBookDescription="QUEST_DIV_ALLGODSs_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
         <ModifierBlock>
@@ -7089,7 +7089,7 @@ These lights are constantly blinding my sight. Destroy them so that I may deal w
       </logic>
       <outputs name="O que significa que ele escolheu esse caminho? Havia outros?" ownerID="9" targetID="10" fromX="3513" fromY="1052" />
       <outputs name="Por que ele perdeu a memória em primeiro lugar?" ownerID="9" targetID="11" fromX="3513" fromY="972" />
-      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="9" targetID="16" fromX="3513" fromY="892" />&#39;Ah, você se livrou das pragas que estavam nos distraindo. Você anda bem no caminho do fogo, sim. Guerreiros, pessoas fortes, os anões forjados em metal ou os ferozes orcs, você os abraça, bom! Agora estamos claros em nosso propósito novamente. Agora posso escolher lutar como meu eu primitivo. Agora, faça suas perguntas, meu campeão, pois não temos muito tempo aqui.</nodes>
+      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="9" targetID="16" fromX="3513" fromY="892" />&#39;Ah, você se livrou das pragas que estavam nos distraindo. Você anda bem no caminho do fogo, sim. Guerreiros, pessoas fortes, os anoes forjados em metal ou os ferozes orcs, você os abraça, bom! Agora estamos claros em nosso propósito novamente. Agora posso escolher lutar como meu eu primitivo. Agora, faça suas perguntas, meu campeão, pois não temos muito tempo aqui.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="3683" positionY="1915" width="350" height="805">
       <outputs name="Por que ele perdeu a memória em primeiro lugar?" ownerID="10" targetID="11" fromX="4008" fromY="1423" />
       <outputs name="Por que e como ele se tornou um deus?" ownerID="10" targetID="25" fromX="4008" fromY="1343" />&#39;Nós somos três - três naturezas forjadas como uma. Com suas escolhas, posso me concentrar no aspecto primordial para o qual fui chamado a existir. Isso afetará você e eu. Mas para melhor ou para pior? Vamos ver. Você me deu clareza, escolhido. Agora entendo os sacrifícios feitos pelos deuses mais antigos.&#39;</nodes>
@@ -7117,7 +7117,7 @@ But through you and your journey here, something deep inside now stirs. Memories
         </ModifierBlock>
       </logic>
       <outputs name="E agora?" ownerID="15" targetID="16" group="G1" fromX="4484" fromY="397" />
-      <outputs name="E agora?" ownerID="15" targetID="21" group="G1" fromX="4484" fromY="317" />— Dar à luz um deus não é pouca coisa. Nasci da necessidade, ou raiva, ou poder. Mas ainda sou jovem. Eu os sinto dentro de mim, mas não os sinto. Meu futuro não é claro para mim, assim como meu passado. Você supõe que estou aqui diante de você? Eu não, nós não. Estamos em muitos lugares agora, e depois, e mais tarde. Lutamos em reinos que você não pode conhecer, mas neste, não temos permissão para isso. Só você pode.&#39;</nodes>
+      <outputs name="E agora?" ownerID="15" targetID="21" group="G1" fromX="4484" fromY="317" />— Dar à luz um deus não é pouca coisa. Nasci da necessidade, ou raiva, ou poder. Mas ainda sou jovem. Eu os sinto dentro de mim, mas não os sinto. Meu futuro não é claro para mim, assim como meu passado. Você supoe que estou aqui diante de você? Eu não, nós não. Estamos em muitos lugares agora, e depois, e mais tarde. Lutamos em reinos que você não pode conhecer, mas neste, não temos permissão para isso. Só você pode.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="4750" positionY="839" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -7665,7 +7665,7 @@ You hear the final howl of Horz and kneel in its glory, before you are left alon
       <outputs ownerID="44" targetID="31" fromX="2250" fromY="1797" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="5590" positionY="1700" width="350" height="725">
-      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="45" targetID="15" fromX="5915" fromY="1208" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="45" targetID="15" fromX="5915" fromY="1208" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="46" positionX="2603" positionY="3705" width="350" height="530" allPlayersXP="2" allPlayersRP="2" logBookName="QUEST_DIV_HORZ" logBookDescription="QUEST_DIV_HORZ_DES" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventureEnd" ID="47" positionX="5873" positionY="747" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_DIV_HORZ" logBookDescription="QUEST_DIV_ALLGODSs_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
@@ -7770,7 +7770,7 @@ You hear the final howl of Horz and kneel in its glory, before you are left alon
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Abordagem. " ownerID="2" targetID="3" fromX="770" fromY="-339" />Ao viajar pelas terras, você é atraído para um determinado lugar, guiado por uma estrela. Quando você se aproxima, você vê três mulheres humanas em pé juntas em silêncio. Uma é jovem, alta e musculosa, seus olhos selvagens com fogo, suas feições quase órquicas. Uma é muito mais velha, grisalha, mas não menos atlética, com roupas mais parecidas com as de uma sálvia, e seus olhos vidrados com a luz roxa da magia. A última é de meia-idade e ela parece enfraquecida, mal de pé, seu corpo se rasgando em dois. 
+      <outputs name="Abordagem. " ownerID="2" targetID="3" fromX="770" fromY="-339" />Ao viajar pelas terras, você é atraído para um determinado lugar, guiado por uma estrela. Quando você se aproxima, você vê três mulheres humanas em pé juntas em silêncio. Uma é jovem, alta e musculosa, seus olhos selvagens com fogo, suas feiçoes quase órquicas. Uma é muito mais velha, grisalha, mas não menos atlética, com roupas mais parecidas com as de uma sálvia, e seus olhos vidrados com a luz roxa da magia. A última é de meia-idade e ela parece enfraquecida, mal de pé, seu corpo se rasgando em dois. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="884" positionY="84" width="350" height="725">
       <outputs name="Fale e peça orientação a Zorya." ownerID="3" targetID="7" fromX="1209" fromY="-407" />Vários orcs rastreadores de sangue estão em seu caminho: &#39;Pare, se você deseja viver!&#39;
@@ -7856,7 +7856,7 @@ You see fire in the matriarch's eyes, and you notice that all your people but yo
     <nodes xsi:type="NodeAdventure" ID="11" positionX="4140" positionY="1914" width="350" height="885">
       <outputs name="Continue ouvindo." ownerID="11" targetID="12" fromX="4465" fromY="1422" />
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="16" group="G1" fromX="4465" fromY="1342" />
-      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4465" fromY="1262" />&#39;Meu pai Svarog falou comigo quando sentiu a corrupção da luz se espalhando. Eu permiti que minhas estrelas servissem à vontade dele, e pelo que agora sinto, ele deu esse poder aos três anciões para que eles construíssem o domínio. Esta luz que agora perturba nossa terra, teria atingido com força, e eu recusaria qualquer coisa, menos um ataque frontal. Meu pai me conhece bem, de fato. E assim, sem toda a minha força, fui fragmentado, um pedaço de mim dado a você. Precisava encontrar o caminho de volta para mim, e agora conseguiu.</nodes>
+      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4465" fromY="1262" />&#39;Meu pai Svarog falou comigo quando sentiu a corrupção da luz se espalhando. Eu permiti que minhas estrelas servissem à vontade dele, e pelo que agora sinto, ele deu esse poder aos três ancioes para que eles construíssem o domínio. Esta luz que agora perturba nossa terra, teria atingido com força, e eu recusaria qualquer coisa, menos um ataque frontal. Meu pai me conhece bem, de fato. E assim, sem toda a minha força, fui fragmentado, um pedaço de mim dado a você. Precisava encontrar o caminho de volta para mim, e agora conseguiu.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="4618" positionY="1888" width="350" height="966">
       <outputs name="Então eles se foram para sempre?" ownerID="12" targetID="13" fromX="4943" fromY="1396" />
       <outputs name="Mas por que a luz é ruim?" ownerID="12" targetID="26" fromX="4943" fromY="1316" />
@@ -7996,7 +7996,7 @@ You still feel your connection to Zorya - she is not gone - but you also know th
       <outputs ownerID="44" targetID="31" fromX="2072" fromY="1823" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="5590" positionY="1700" width="350" height="725">
-      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="45" targetID="15" fromX="5915" fromY="1208" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="45" targetID="15" fromX="5915" fromY="1208" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="46" positionX="2327" positionY="3289" width="350" height="530" allPlayersXP="2" allPlayersRP="2" logBookName="QUEST_DIV_ZORYA" logBookDescription="QUEST_DIV_ZORYA_DES" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventure" ID="47" positionX="685" positionY="1408" width="350" height="725">
       <logic>
@@ -8148,7 +8148,7 @@ You still feel your connection to Zorya - she is not gone - but you also know th
         </ModifierBlock>
       </logic>
       <outputs name="[Spirit Chosen only] Comunique-se com seus parentes e passe por eles para alcançar sua deusa." ownerID="7" targetID="48" fromX="1745" fromY="-147" />
-      <outputs name="[Apenas escolhido] Desvincule essas aparições com seu espírito." ownerID="7" targetID="39" fromX="1745" fromY="-227" />
+      <outputs name="[Apenas escolhido] Desvincule essas apariçoes com seu espírito." ownerID="7" targetID="39" fromX="1745" fromY="-227" />
       <outputs name="[Apenas escolhido] Através do poder absoluto de sua mente, empurre os espíritos para que a deusa possa alcançá-lo!" ownerID="7" targetID="40" fromX="1745" fromY="-307" />
       <outputs name="[Chosen only]Ataque!" ownerID="7" targetID="29" fromX="1745" fromY="-387" />
       <outputs name="Retire-se e retorne quando estiver realmente pronto!" ownerID="7" targetID="52" fromX="1745" fromY="-467" />Você sente a consciência dela aumentar, mas ela ainda não consegue alcançá-lo, enquanto os espíritos ficam mais inquietos e tentam se livrar de sua armadilha. Você sente que seus esforços estão prejudicando a deusa. Você também percebe que todos, menos você, o escolhido, ficaram em transe e incapazes de agir.
@@ -8356,7 +8356,7 @@ Nyia's body becomes shrouded in dark mist as she walks off and you are left alon
       <outputs ownerID="44" targetID="31" fromX="2203" fromY="1660" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="5590" positionY="1700" width="350" height="725">
-      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="45" targetID="15" fromX="5915" fromY="1208" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="45" targetID="15" fromX="5915" fromY="1208" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="46" positionX="1778" positionY="2809" width="350" height="530" allPlayersXP="2" allPlayersRP="2" logBookName="QUEST_DIV_NYIA" logBookDescription="QUEST_DIV_NYIA_DES" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventure" ID="47" positionX="2733" positionY="2179" width="350" height="725" image="Event296">
       <outputs name="Curve-se diante da deusa." ownerID="47" targetID="8" fromX="3058" fromY="1687" />Você destrói as figuras fantasmagóricas e a barreira que estava entre você e Nyia cai para que você possa alcançar sua deusa no poço escuro. Ela se levanta e olha para você com olhos tristes: &#39;Uma pequena faísca no mar de escuridão - como você é estranho, meu escolhido. Você é parte de mim, mas uma parte que nunca sei por que fiz, ou quando. Ainda assim, você vindo aqui deve ter significado, então devemos nos levantar juntos. Bom, talvez...&#39;
@@ -8488,7 +8488,7 @@ The spirits call to me in the greyworld. Surely that is my duty as one of the fo
       </logic>
       <outputs name="[Apenas escolhido] Concentre-se no domínio do espírito para fortalecer seu senhor." ownerID="7" targetID="29" fromX="1380" fromY="1390" />
       <outputs name="[Apenas escolhido] Prepare sua mente e permita que seu deus tire força disso." ownerID="7" targetID="30" fromX="1380" fromY="1310" />
-      <outputs name="You can still pull away. Retire-se e retorne quando estiver realmente pronto!" ownerID="7" targetID="38" fromX="1380" fromY="1230" />&#39;Sim Sim. Há muito tempo os espíritos guiam minha jornada, e assim sua alma e suas ações passadas me mostrarão quem eu sou. Aproxime-se e não tema o que está por vir.&#39; Ao se encontrar no abraço de Marovit, você sente sua alma extraída de sua casca e inalada por seu deus. Agora você precisa resistir a esse ataque através da Magia ou do Intelecto.</nodes>
+      <outputs name="You can still pull away. Retire-se e retorne quando estiver realmente pronto!" ownerID="7" targetID="38" fromX="1380" fromY="1230" />&#39;Sim Sim. Há muito tempo os espíritos guiam minha jornada, e assim sua alma e suas açoes passadas me mostrarão quem eu sou. Aproxime-se e não tema o que está por vir.&#39; Ao se encontrar no abraço de Marovit, você sente sua alma extraída de sua casca e inalada por seu deus. Agora você precisa resistir a esse ataque através da Magia ou do Intelecto.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="8" positionX="2778" positionY="1035" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="8" targetID="9" group="G1" fromX="3207" fromY="646" />
       <outputs ownerID="8" targetID="19" group="G1" fromX="3207" fromY="566" />
@@ -8539,7 +8539,7 @@ The spirits call to me in the greyworld. Surely that is my duty as one of the fo
     <nodes xsi:type="NodeAdventure" ID="11" positionX="4227" positionY="1856" width="350" height="885">
       <outputs name="Continue ouvindo." ownerID="11" targetID="12" fromX="4552" fromY="1364" />
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="16" group="G1" fromX="4552" fromY="1284" />
-      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4552" fromY="1204" />&#39;Quando os três deuses anciões decidiram criar domínios divinos, eles tiraram o poder de todos nós. Eu suspeito que isso teve seus efeitos colaterais. Veles deu seu poder para criar Magia e Intelecto, e eu fui presenteado com ambos. Como o destinatário mais direto de seu poder e ligado aos espíritos desde o nascimento, eu estava assim ligado ao mundo cinza, garantindo o fluxo estável das almas para a vida após a morte. Mas isso me esgotou e me perdi.</nodes>
+      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4552" fromY="1204" />&#39;Quando os três deuses ancioes decidiram criar domínios divinos, eles tiraram o poder de todos nós. Eu suspeito que isso teve seus efeitos colaterais. Veles deu seu poder para criar Magia e Intelecto, e eu fui presenteado com ambos. Como o destinatário mais direto de seu poder e ligado aos espíritos desde o nascimento, eu estava assim ligado ao mundo cinza, garantindo o fluxo estável das almas para a vida após a morte. Mas isso me esgotou e me perdi.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="4717" positionY="1892" width="350" height="966">
       <outputs name="Então eles se foram para sempre?" ownerID="12" targetID="13" fromX="5042" fromY="1400" />
       <outputs name="Mas por que a luz é ruim?" ownerID="12" targetID="26" fromX="5042" fromY="1320" />
@@ -8679,7 +8679,7 @@ Marovit walks away into the greyworld and you are left alone, with a last gift p
     <nodes xsi:type="NodeAdventure" ID="35" positionX="3433" positionY="2807" width="350" height="725">
       <outputs name="Então os velhos deuses se foram para sempre?" ownerID="35" targetID="13" fromX="3758" fromY="2315" />&#39;A briga deles quase destruiu Thea, até que os deuses finalmente conseguiram enjaular os dois. A escuridão estava trancada nos céus e mantida lá pela coroa das árvores cósmicas que cresciam por todas as terras. A luz foi afundada profundamente no núcleo da terra, mantida no lugar pelo sacrifício do mais velho dos gigantes, Starovit, que deu seu próprio coração como selo. Mas o selo foi claramente quebrado, e assim o filho da luz ameaça purgar o mundo novamente.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="5658" positionY="1719" width="350" height="725">
-      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="36" targetID="15" fromX="5983" fromY="1227" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="36" targetID="15" fromX="5983" fromY="1227" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="37" positionX="6259" positionY="873" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_DIV_MAROVIT" logBookDescription="QUEST_DIV_ALLGODSs_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
         <ModifierBlock>
@@ -8809,14 +8809,14 @@ Marovit walks away into the greyworld and you are left alone, with a last gift p
       </logic>
       <outputs name="O que significa que ele escolheu esse caminho? Havia outros?" ownerID="9" targetID="10" fromX="3666" fromY="977" />
       <outputs name="Por que ele perdeu a memória em primeiro lugar?" ownerID="9" targetID="11" fromX="3666" fromY="897" />
-      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="9" targetID="16" fromX="3666" fromY="817" />&#39;O fogo queima e meu coração também. Vou reforjar minha mente agora para que eu possa servir novamente. E você - você fez bem em seguir meu caminho, eu vejo. Você honra o ofício, valoriza a sabedoria ou faz amizade com os grandes parentes anões. Isso é sábio. Vejo agora que devo fortalecer meu chamado como artesão e lembrar minhas raízes para ajudar a construir um futuro melhor. Agora, faça suas perguntas, meu campeão, pois não temos muito tempo aqui.</nodes>
+      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="9" targetID="16" fromX="3666" fromY="817" />&#39;O fogo queima e meu coração também. Vou reforjar minha mente agora para que eu possa servir novamente. E você - você fez bem em seguir meu caminho, eu vejo. Você honra o ofício, valoriza a sabedoria ou faz amizade com os grandes parentes anoes. Isso é sábio. Vejo agora que devo fortalecer meu chamado como artesão e lembrar minhas raízes para ajudar a construir um futuro melhor. Agora, faça suas perguntas, meu campeão, pois não temos muito tempo aqui.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="3778" positionY="1797" width="350" height="805">
       <outputs name="Por que ele perdeu a memória em primeiro lugar?" ownerID="10" targetID="11" fromX="4103" fromY="1305" />
       <outputs name="Por que e como ele se tornou um deus?" ownerID="10" targetID="25" fromX="4103" fromY="1225" />“Escolhi seguir minha natureza primordial. Isso afetará você e eu. Para melhor ou pior? Vamos ver. Você me deu clareza, escolhido. Agora entendo os sacrifícios feitos pelos deuses mais velhos e o que nós, os jovens, devemos fazer.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="4227" positionY="1856" width="350" height="885">
       <outputs name="Continue ouvindo." ownerID="11" targetID="12" fromX="4552" fromY="1364" />
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="16" group="G1" fromX="4552" fromY="1284" />
-      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4552" fromY="1204" />&#39;Quando os três deuses anciões decidiram criar domínios divinos, eles tiraram o poder de todos nós. Eu suspeito que isso teve seus efeitos colaterais. Turbulência e Luz vêm de meu pai, mas ele precisava se alimentar do meu domínio do sol para conseguir isso. Eu suspeito que isso me enfraqueceu por um tempo. Eu já fui o deus do sol. Quando a luz escapou de seus limites, fui mais atraído por ela. Suspeito que minha perda de poder foi necessária para não cair.</nodes>
+      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="11" targetID="21" group="G1" fromX="4552" fromY="1204" />&#39;Quando os três deuses ancioes decidiram criar domínios divinos, eles tiraram o poder de todos nós. Eu suspeito que isso teve seus efeitos colaterais. Turbulência e Luz vêm de meu pai, mas ele precisava se alimentar do meu domínio do sol para conseguir isso. Eu suspeito que isso me enfraqueceu por um tempo. Eu já fui o deus do sol. Quando a luz escapou de seus limites, fui mais atraído por ela. Suspeito que minha perda de poder foi necessária para não cair.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="4709" positionY="1870" width="350" height="966">
       <outputs name="Então eles se foram para sempre?" ownerID="12" targetID="13" fromX="5034" fromY="1378" />
       <outputs name="Mas por que a luz é ruim?" ownerID="12" targetID="26" fromX="5034" fromY="1298" />
@@ -8882,7 +8882,7 @@ Marovit walks away into the greyworld and you are left alone, with a last gift p
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2926" positionY="488" width="350" height="885">
       <outputs name="O que significa que ele escolheu esse caminho? Havia outros?" ownerID="19" targetID="20" fromX="3251" fromY="-3" />
       <outputs name="Por que ele perdeu a memória em primeiro lugar?" ownerID="19" targetID="11" fromX="3251" fromY="-83" />
-      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="19" targetID="21" fromX="3251" fromY="-163" />&#39;O fogo queima e meu coração também. Vou reforjar minha mente agora para que eu possa servir novamente. E você - você fez bem em seguir meu caminho, eu vejo. Você honra o ofício, valoriza a sabedoria ou faz amizade com os grandes parentes anões. Isso é sábio. Vejo agora que devo fortalecer meu chamado como artesão e lembrar minhas raízes para ajudar a construir um futuro melhor. Agora, faça suas perguntas, meu campeão, pois não temos muito tempo aqui.</nodes>
+      <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="19" targetID="21" fromX="3251" fromY="-163" />&#39;O fogo queima e meu coração também. Vou reforjar minha mente agora para que eu possa servir novamente. E você - você fez bem em seguir meu caminho, eu vejo. Você honra o ofício, valoriza a sabedoria ou faz amizade com os grandes parentes anoes. Isso é sábio. Vejo agora que devo fortalecer meu chamado como artesão e lembrar minhas raízes para ajudar a construir um futuro melhor. Agora, faça suas perguntas, meu campeão, pois não temos muito tempo aqui.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3364" positionY="500" width="350" height="725">
       <outputs name="Por que ele perdeu a memória em primeiro lugar?" ownerID="20" targetID="11" fromX="3689" fromY="8" />“Escolhi seguir minha natureza primordial. Isso afetará você e eu. Para melhor ou pior? Vamos ver. Você me deu clareza, escolhido. Agora entendo os sacrifícios feitos pelos deuses mais velhos e o que nós, os jovens, devemos fazer.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="4806" positionY="101" width="350" height="725">
@@ -9010,7 +9010,7 @@ You take the flame back to Svarog. He looks at you with a renewed sparkle in his
       <outputs name="Surrender" ownerID="39" targetID="32" fromX="641" fromY="1814" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="5625" positionY="1711" width="350" height="725">
-      <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="40" targetID="15" fromX="5950" fromY="1219" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="40" targetID="15" fromX="5950" fromY="1219" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="41" positionX="5757" positionY="759" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_DIV_SVAROG" logBookDescription="QUEST_DIV_ALLGODSs_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
         <ModifierBlock>
@@ -9363,7 +9363,7 @@ The lake is still and empty, as is your soul...
       <outputs ownerID="44" targetID="31" fromX="2250" fromY="1797" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="5601" positionY="1653" width="350" height="725">
-      <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="45" targetID="15" fromX="5926" fromY="1161" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="45" targetID="15" fromX="5926" fromY="1161" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="46" positionX="6378" positionY="820" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_DIV_LADA" logBookDescription="QUEST_DIV_ALLGODSs_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
         <ModifierBlock>
@@ -9711,7 +9711,7 @@ The forest remains shaken, but you hear no more voices.
       <outputs ownerID="44" targetID="31" fromX="2275" fromY="1813" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="6049" positionY="1656" width="350" height="725">
-      <outputs name="Então, por que era necessário esperar por um escolhido?" ownerID="45" targetID="15" fromX="6374" fromY="1164" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Então, por que era necessário esperar por um escolhido?" ownerID="45" targetID="15" fromX="6374" fromY="1164" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeChallenge" ID="46" positionX="200" positionY="1345" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_3S" challengeScale="101" challengedList="ch">
       <outputs name="Win" ownerID="46" targetID="31" fromX="641" fromY="849" />
       <outputs name="Lose" ownerID="46" targetID="32" fromX="641" fromY="769" />
@@ -10054,7 +10054,7 @@ You hear the final howl of Horz and kneel in its glory, before you are left alon
       <outputs ownerID="44" targetID="31" fromX="2250" fromY="1797" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="5590" positionY="1700" width="350" height="725">
-      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="45" targetID="15" fromX="5915" fromY="1208" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="45" targetID="15" fromX="5915" fromY="1208" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="46" positionX="2603" positionY="3705" width="350" height="530" allPlayersXP="2" allPlayersRP="2" logBookName="QUEST_DIV_HORZ" logBookDescription="QUEST_DIV_HORZ_DES" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventureEnd" ID="47" positionX="5873" positionY="747" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_DIV_HORZ" logBookDescription="QUEST_DIV_ALLGODSs_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
@@ -10166,7 +10166,7 @@ You hear the final howl of Horz and kneel in its glory, before you are left alon
         </ModifierBlock>
       </logic>
       <outputs name="[Spirit Chosen only] Comunique-se com seus parentes e passe por eles para alcançar sua deusa." ownerID="7" targetID="48" fromX="1745" fromY="-147" />
-      <outputs name="[Apenas escolhido] Desvincule essas aparições com seu espírito." ownerID="7" targetID="39" fromX="1745" fromY="-227" />
+      <outputs name="[Apenas escolhido] Desvincule essas apariçoes com seu espírito." ownerID="7" targetID="39" fromX="1745" fromY="-227" />
       <outputs name="[Apenas escolhido] Através do poder absoluto de sua mente, empurre os espíritos para que a deusa possa alcançá-lo!" ownerID="7" targetID="40" fromX="1745" fromY="-307" />
       <outputs name="[Chosen only]Ataque!" ownerID="7" targetID="29" fromX="1745" fromY="-387" />
       <outputs name="Retire-se e retorne quando estiver realmente pronto!" ownerID="7" targetID="53" fromX="1745" fromY="-467" />Você sente a consciência dela aumentar, mas ela ainda não consegue alcançá-lo, enquanto os espíritos ficam mais inquietos e tentam se livrar de sua armadilha. Você sente que seus esforços estão prejudicando a deusa. Você também percebe que todos, menos você, o escolhido, ficaram em transe e incapazes de agir.
@@ -10374,7 +10374,7 @@ Nyia's body becomes shrouded in dark mist as she walks off and you are left alon
       <outputs ownerID="44" targetID="31" fromX="2203" fromY="1660" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="5590" positionY="1700" width="350" height="725">
-      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="45" targetID="15" fromX="5915" fromY="1208" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses anciões, mas também a sua própria.&#39;</nodes>
+      <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="45" targetID="15" fromX="5915" fromY="1208" />&#39;Triglav nasceu como Lada foi uma vez, na hora da necessidade, forjado com um propósito. Lada precisava trazer esperança em tempos de escuridão, e Triglav trazia poder em tempos de fraqueza. Então, sim e não. Eles carregam a vontade de todos os três deuses ancioes, mas também a sua própria.&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="46" positionX="1778" positionY="2809" width="350" height="530" allPlayersXP="2" allPlayersRP="2" logBookName="QUEST_DIV_NYIA" logBookDescription="QUEST_DIV_NYIA_DES" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventure" ID="47" positionX="2733" positionY="2179" width="350" height="725" image="Event296">
       <outputs name="Curve-se diante da deusa." ownerID="47" targetID="8" fromX="3058" fromY="1687" />Você destrói as figuras fantasmagóricas e a barreira que estava entre você e Nyia cai para que você possa alcançar sua deusa no poço escuro. Ela se levanta e olha para você com olhos tristes: &#39;Uma pequena faísca no mar de escuridão - como você é estranho, meu escolhido. Você é parte de mim, mas uma parte que nunca sei por que fiz, ou quando. Ainda assim, você vindo aqui deve ter significado, então devemos nos levantar juntos. Bom, talvez...&#39;
@@ -10562,7 +10562,7 @@ Nyia's body becomes shrouded in dark mist as she walks off and you are left alon
         </ModifierBlock>
       </logic>
       <outputs name="Pergunte ao corvo o que ele quer de você. Por que fala de seus deveres divinos?" ownerID="6" targetID="17" fromX="3040" fromY="-163" />
-      <outputs name="Diga que não foi uma escolha sua, mas de outro escolhido que tomou esse caminho!" ownerID="6" targetID="18" fromX="3040" fromY="-243" />O corvo fala enquanto voa acima de você. Já esteve no galho? &#39;Suas ações são boas, mas é o caminho que seu domínio exigiria? Ou você escolheu por capricho de um momento, sem considerar seu verdadeiro caminho? Há muito para você aprender, escolhido.
+      <outputs name="Diga que não foi uma escolha sua, mas de outro escolhido que tomou esse caminho!" ownerID="6" targetID="18" fromX="3040" fromY="-243" />O corvo fala enquanto voa acima de você. Já esteve no galho? &#39;Suas açoes são boas, mas é o caminho que seu domínio exigiria? Ou você escolheu por capricho de um momento, sem considerar seu verdadeiro caminho? Há muito para você aprender, escolhido.
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="7" positionX="729" positionY="-185" width="460" height="750">
       <outputs ownerID="7" targetID="8" group="G1" fromX="1159" fromY="-543" />
@@ -10703,7 +10703,7 @@ One should never interfere in the natural cycles unless one absolutely must.'</n
       </logic>
       <outputs name="Pergunte ao corvo o que ele quer de você. Por que fala de seus deveres divinos?" ownerID="16" targetID="17" fromX="2074" fromY="-1520" />&#39;Fiel ao seu caminho, pelo menos desta vez. Você não ficou nesse caminho ao lidar com os escolhidos fracassados, não é? Você não escolheu acalmar a alma quebrada do homem ou oferecer consolo. Uma vergonha para alguém que supostamente está seguindo o caminho da Harmonia.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="3181" positionY="2077" width="350" height="885" image="Event299">
-      <outputs name="Diga que você não questiona a vontade dos deuses. Certamente eles têm suas razões." ownerID="17" targetID="19" fromX="3506" fromY="1585" />
+      <outputs name="Diga que você não questiona a vontade dos deuses. Certamente eles têm suas razoes." ownerID="17" targetID="19" fromX="3506" fromY="1585" />
       <outputs name="Diga que você trilha seu próprio caminho e pouco se importa com o que os deuses pensam." ownerID="17" targetID="31" fromX="3506" fromY="1505" />
       <outputs name="Admita que a pergunta passou pela sua cabeça e pergunte se ela tem respostas." ownerID="17" targetID="32" fromX="3506" fromY="1425" />'I am no one of importance, at least not to you. But I do have a question for you:
 
@@ -10939,7 +10939,7 @@ Why are you needed? Why don't your gods send armies of chosen to solve this worl
         </FilterBlock>
       </logic>
       <outputs name="[Apenas escolhido] Fale com o troll da árvore. Implore a ela para vir até você." ownerID="7" targetID="40" fromX="1672" fromY="-172" />
-      <outputs name="[Somente escolhido] Confie em sua conexão divina. Aproxime-se, pegue a mão do troll da árvore e puxe-a em sua direção. Aceite qualquer dano que você possa incorrer dos guardiões." ownerID="7" targetID="46" fromX="1672" fromY="-252" />
+      <outputs name="[Somente escolhido] Confie em sua conexão divina. Aproxime-se, pegue a mão do troll da árvore e puxe-a em sua direção. Aceite qualquer dano que você possa incorrer dos guardioes." ownerID="7" targetID="46" fromX="1672" fromY="-252" />
       <outputs name="[Somente o demônio da floresta escolhido] Peça ao espírito da floresta para falar através de você e desperte Mokosh desta rocha ardente." ownerID="7" targetID="29" fromX="1672" fromY="-332" />
       <outputs name="Ataque os que guardam o troll-árvore!" ownerID="7" targetID="30" fromX="1672" fromY="-412" />
       <outputs name="[Somente usuário de magia escolhido] Abra seu espírito e permita que os três deuses o julguem para que eles possam ver sua verdadeira intenção aqui." ownerID="7" targetID="39" fromX="1672" fromY="-492" />
@@ -11302,7 +11302,7 @@ Why are you needed? Why don't your gods send armies of chosen to solve this worl
         </FilterBlock>
       </logic>
       <outputs name="[Apenas escolhido] Fale com o troll da árvore. Implore a ela para vir até você." ownerID="7" targetID="40" fromX="1672" fromY="-172" />
-      <outputs name="[Somente escolhido] Confie em sua conexão divina. Aproxime-se, pegue a mão do troll da árvore e puxe-a em sua direção. Aceite qualquer dano que você possa incorrer dos guardiões." ownerID="7" targetID="46" fromX="1672" fromY="-252" />
+      <outputs name="[Somente escolhido] Confie em sua conexão divina. Aproxime-se, pegue a mão do troll da árvore e puxe-a em sua direção. Aceite qualquer dano que você possa incorrer dos guardioes." ownerID="7" targetID="46" fromX="1672" fromY="-252" />
       <outputs name="[Somente o demônio da floresta escolhido] Peça ao espírito da floresta para falar através de você e desperte Mokosh desta rocha ardente." ownerID="7" targetID="29" fromX="1672" fromY="-332" />
       <outputs name="Ataque os que guardam o troll-árvore!" ownerID="7" targetID="30" fromX="1672" fromY="-412" />
       <outputs name="[Somente usuário de magia escolhido] Abra seu espírito e permita que os três deuses o julguem para que eles possam ver sua verdadeira intenção aqui." ownerID="7" targetID="39" fromX="1672" fromY="-492" />

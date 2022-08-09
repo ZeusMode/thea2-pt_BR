@@ -217,8 +217,8 @@ You get out, but you're tired and catch a cold.</nodes>
       </logic>
       <outputs name="Ataque!" ownerID="8" targetID="9" fromX="3181" fromY="-24" />
       <outputs name="[Goblin Shaman or Wraith] Convença os fantasmas a permitir que você os liberte." ownerID="8" targetID="22" fromX="3181" fromY="-105" />
-      <outputs name="[Usuários de magia] Lute contra as aparições com seu espírito." ownerID="8" targetID="10" fromX="3181" fromY="-185" />
-      <outputs name="Volte para o acampamento - isso parece muito perigoso." ownerID="8" targetID="6" fromX="3181" fromY="-265" />Sua oração não satisfaz os espíritos irados que ainda habitam aqui. As aparições se materializam lentamente diante de você, procurando levar suas almas.</nodes>
+      <outputs name="[Usuários de magia] Lute contra as apariçoes com seu espírito." ownerID="8" targetID="10" fromX="3181" fromY="-185" />
+      <outputs name="Volte para o acampamento - isso parece muito perigoso." ownerID="8" targetID="6" fromX="3181" fromY="-265" />Sua oração não satisfaz os espíritos irados que ainda habitam aqui. As apariçoes se materializam lentamente diante de você, procurando levar suas almas.</nodes>
     <nodes xsi:type="NodeChallenge" ID="9" positionX="3573.66016" positionY="432.027222" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-WRAITH_4P_3M_4S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="9" targetID="11" fromX="4014" fromY="-63" />
       <outputs name="Lose" ownerID="9" targetID="12" fromX="4014" fromY="-143" />
@@ -256,7 +256,7 @@ You get out, but you're tired and catch a cold.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="11" targetID="21" fromX="4679" fromY="-764" />Você derrota as aparições e elas se dissolvem no nada. Alguns permanecem e alguns podem até ficar com você, mas agora não representam nenhum perigo. Você é livre para pesquisar este site em paz.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="11" targetID="21" fromX="4679" fromY="-764" />Você derrota as apariçoes e elas se dissolvem no nada. Alguns permanecem e alguns podem até ficar com você, mas agora não representam nenhum perigo. Você é livre para pesquisar este site em paz.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="3344.17944" positionY="-2033.88879" width="350" height="681.449951">
       <outputs name="Corra de volta para o seu acampamento." ownerID="12" targetID="24" fromX="3669.92944" fromY="-2480.95874" />You are defeated and feel your spirit weaken as you are forced to flee.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="4826.887" positionY="-942.8579" width="350" height="408" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0" />
@@ -359,7 +359,7 @@ You get out, but you're tired and catch a cold.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="23" targetID="21" fromX="4662" fromY="-1656" />As aparições param e concordam com a cabeça. Você faz a oração para Nyia mais uma vez e desta vez, o poder da deusa flui através de você e engole os espíritos em seu abraço escuro e vazio. Alguns permanecem e alguns podem até ficar com você, mas agora não representam nenhum perigo.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="23" targetID="21" fromX="4662" fromY="-1656" />As apariçoes param e concordam com a cabeça. Você faz a oração para Nyia mais uma vez e desta vez, o poder da deusa flui através de você e engole os espíritos em seu abraço escuro e vazio. Alguns permanecem e alguns podem até ficar com você, mas agora não representam nenhum perigo.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="24" positionX="3869.591" positionY="-2045.3125" width="460" height="459.36" challengeTypeDamage="TypeSpirit" minDamage="40" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="24" targetID="15" fromX="4298.841" fromY="-2433.67236" />
     </nodes>
@@ -382,7 +382,7 @@ You get out, but you're tired and catch a cold.</nodes>
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="[Mestre de Runas] Não são símbolos, são runas antigas - não anões, mas certamente tentando imitar o ofício de seus parentes. Tente decifrar essas runas." ownerID="2" targetID="30" fromX="756" fromY="-552" />
+      <outputs name="[Mestre de Runas] Não são símbolos, são runas antigas - não anoes, mas certamente tentando imitar o ofício de seus parentes. Tente decifrar essas runas." ownerID="2" targetID="30" fromX="756" fromY="-552" />
       <outputs name="[Wraith] Você sente um companheiro fantasma preso dentro deste objeto. Olhe mais de perto." ownerID="2" targetID="45" fromX="756" fromY="-632" />
       <outputs name="[Usuário de magia ou Magia] Magia forte reside neste objeto. Se você vai montar acampamento aqui, é melhor lidar com isso primeiro. Olhe mais de perto." ownerID="2" targetID="46" fromX="756" fromY="-712" />
       <outputs name="[Sabedoria] Tente descobrir o que essa escrita pode significar." ownerID="2" targetID="6" fromX="756" fromY="-792" />
@@ -412,8 +412,8 @@ You get out, but you're tired and catch a cold.</nodes>
       </logic>
       <outputs name="Apesar da proteção mágica, o baú é muito antigo e tem muitos pontos fracos. Tente abrir o baú sem quebrar as correntes." ownerID="6" targetID="7" group="G1" fromX="1240" fromY="-1557" />
       <outputs name="Apesar da proteção mágica, o baú é muito antigo e tem muitos pontos fracos. Tente abrir o baú sem quebrar as correntes." ownerID="6" targetID="8" group="G1" fromX="1240" fromY="-1637" />
-      <outputs name="Agora que você sabe o que é isso, tente realizar um ritual de limpeza para liberar as aparições, tornando seguro abrir o baú." ownerID="6" targetID="14" fromX="1240" fromY="-1717" />
-      <outputs name="[Wraith] Remova as correntes e fale com sua espécie para acalmá-los. Convença-os de que não precisam seguir qualquer força que os prenda aqui. Em vez disso, eles podem ser gratuitos!" ownerID="6" targetID="31" fromX="1240" fromY="-1797" />Essas runas servem como proteção para o que quer que esteja dentro do baú. Eles são runas de ligação, então abrir o baú liberará os guardiões - provavelmente, espectros. As correntes funcionam como um gatilho. Quando quebrados, eles começarão o processo de liberação das aparições.</nodes>
+      <outputs name="Agora que você sabe o que é isso, tente realizar um ritual de limpeza para liberar as apariçoes, tornando seguro abrir o baú." ownerID="6" targetID="14" fromX="1240" fromY="-1717" />
+      <outputs name="[Wraith] Remova as correntes e fale com sua espécie para acalmá-los. Convença-os de que não precisam seguir qualquer força que os prenda aqui. Em vez disso, eles podem ser gratuitos!" ownerID="6" targetID="31" fromX="1240" fromY="-1797" />Essas runas servem como proteção para o que quer que esteja dentro do baú. Eles são runas de ligação, então abrir o baú liberará os guardioes - provavelmente, espectros. As correntes funcionam como um gatilho. Quando quebrados, eles começarão o processo de liberação das apariçoes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1344.56262" positionY="-1146.60522" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -428,7 +428,7 @@ You get out, but you're tired and catch a cold.</nodes>
       <outputs name="Lutar!" ownerID="8" targetID="13" fromX="762" fromY="-1920" />
       <outputs name="[Wraith] Fale com sua espécie para acalmá-los. Convença-os de que não precisam seguir qualquer força que os prenda aqui. Em vez disso, eles podem ser gratuitos!" ownerID="8" targetID="33" fromX="762" fromY="-2000" />
       <outputs name="Abandone o baú e tente fugir." ownerID="8" targetID="16" group="G1" fromX="762" fromY="-2080" />
-      <outputs name="Abandone o baú e tente fugir." ownerID="8" targetID="36" group="G1" fromX="762" fromY="-2160" />Você cuidadosamente corta a lateral do peito e cria uma abertura. Infelizmente, você acidentalmente quebra uma das runas, e as correntes quebram sem você nem tocá-las. Aparições aparecem e descem sobre você!
+      <outputs name="Abandone o baú e tente fugir." ownerID="8" targetID="36" group="G1" fromX="762" fromY="-2160" />Você cuidadosamente corta a lateral do peito e cria uma abertura. Infelizmente, você acidentalmente quebra uma das runas, e as correntes quebram sem você nem tocá-las. Apariçoes aparecem e descem sobre você!
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2740.976" positionY="-1161.70508" width="350" height="841">
       <outputs name="Lutar!" ownerID="10" targetID="25" fromX="3066" fromY="-1608" />
@@ -634,7 +634,7 @@ You get out, but you're tired and catch a cold.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Abra o baú e pegue o que está dentro." ownerID="30" targetID="29" fromX="1222" fromY="-637" />Essas runas servem como proteção para o que quer que esteja dentro do baú. Eles são runas de ligação, então abrir o baú liberará os guardiões - provavelmente, espectros. As correntes funcionam como um gatilho. Quando quebrados, eles começarão o processo de liberação das aparições.
+      <outputs name="Abra o baú e pegue o que está dentro." ownerID="30" targetID="29" fromX="1222" fromY="-637" />Essas runas servem como proteção para o que quer que esteja dentro do baú. Eles são runas de ligação, então abrir o baú liberará os guardioes - provavelmente, espectros. As correntes funcionam como um gatilho. Quando quebrados, eles começarão o processo de liberação das apariçoes.
 
 Luckily, you know how to break the protection safely.</nodes>
     <nodes xsi:type="NodeChallenge" ID="31" positionX="907.36145" positionY="-2211.28223" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-WRAITH_5P_4M_5S" challengeScale="101" challengedList="ppl">
@@ -779,8 +779,8 @@ You are free to loot the chest safely now.</nodes>
       </logic>
       <outputs name="Apesar da proteção mágica, o baú é muito antigo e tem muitos pontos fracos. Tente abrir o baú sem quebrar as correntes." ownerID="45" targetID="7" group="G1" fromX="252" fromY="-1734" />
       <outputs name="Apesar da proteção mágica, o baú é muito antigo e tem muitos pontos fracos. Tente abrir o baú sem quebrar as correntes." ownerID="45" targetID="8" group="G1" fromX="252" fromY="-1814" />
-      <outputs name="Agora que você sabe o que é isso, tente realizar um ritual de limpeza para liberar as aparições, tornando seguro abrir o baú." ownerID="45" targetID="14" fromX="252" fromY="-1894" />
-      <outputs name="[Wraith] Remova as correntes e fale com sua espécie para acalmá-los. Convença-os de que não precisam seguir qualquer força que os prenda aqui. Em vez disso, eles podem ser gratuitos!" ownerID="45" targetID="31" fromX="252" fromY="-1974" />Essas runas servem como proteção para o que quer que esteja dentro do baú. Eles são runas de ligação, então abrir o baú liberará os guardiões - provavelmente, espectros. As correntes funcionam como um gatilho. Quando quebrados, eles começarão o processo de liberação das aparições.</nodes>
+      <outputs name="Agora que você sabe o que é isso, tente realizar um ritual de limpeza para liberar as apariçoes, tornando seguro abrir o baú." ownerID="45" targetID="14" fromX="252" fromY="-1894" />
+      <outputs name="[Wraith] Remova as correntes e fale com sua espécie para acalmá-los. Convença-os de que não precisam seguir qualquer força que os prenda aqui. Em vez disso, eles podem ser gratuitos!" ownerID="45" targetID="31" fromX="252" fromY="-1974" />Essas runas servem como proteção para o que quer que esteja dentro do baú. Eles são runas de ligação, então abrir o baú liberará os guardioes - provavelmente, espectros. As correntes funcionam como um gatilho. Quando quebrados, eles começarão o processo de liberação das apariçoes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="46" positionX="-584" positionY="-1157" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -797,8 +797,8 @@ You are free to loot the chest safely now.</nodes>
       </logic>
       <outputs name="Apesar da proteção mágica, o baú é muito antigo e tem muitos pontos fracos. Tente abrir o baú sem quebrar as correntes." ownerID="46" targetID="7" group="G1" fromX="-258" fromY="-1648" />
       <outputs name="Apesar da proteção mágica, o baú é muito antigo e tem muitos pontos fracos. Tente abrir o baú sem quebrar as correntes." ownerID="46" targetID="8" group="G1" fromX="-258" fromY="-1728" />
-      <outputs name="Agora que você sabe o que é isso, tente realizar um ritual de limpeza para liberar as aparições, tornando seguro abrir o baú." ownerID="46" targetID="14" fromX="-258" fromY="-1808" />
-      <outputs name="[Wraith] Remova as correntes e fale com sua espécie para acalmá-los. Convença-os de que não precisam seguir qualquer força que os prenda aqui. Em vez disso, eles podem ser gratuitos!" ownerID="46" targetID="31" fromX="-258" fromY="-1888" />Essas runas servem como proteção para o que quer que esteja dentro do baú. Eles são runas de ligação, então abrir o baú liberará os guardiões - provavelmente, espectros. As correntes funcionam como um gatilho. Quando quebrados, eles começarão o processo de liberação das aparições.</nodes>
+      <outputs name="Agora que você sabe o que é isso, tente realizar um ritual de limpeza para liberar as apariçoes, tornando seguro abrir o baú." ownerID="46" targetID="14" fromX="-258" fromY="-1808" />
+      <outputs name="[Wraith] Remova as correntes e fale com sua espécie para acalmá-los. Convença-os de que não precisam seguir qualquer força que os prenda aqui. Em vez disso, eles podem ser gratuitos!" ownerID="46" targetID="31" fromX="-258" fromY="-1888" />Essas runas servem como proteção para o que quer que esteja dentro do baú. Eles são runas de ligação, então abrir o baú liberará os guardioes - provavelmente, espectros. As correntes funcionam como um gatilho. Quando quebrados, eles começarão o processo de liberação das apariçoes.</nodes>
   </Adventure>
   <Adventure name="Night attack" uniqueID="8" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="true" typeVillage="false" difficulty="4" nodeIdMax="48" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event195">

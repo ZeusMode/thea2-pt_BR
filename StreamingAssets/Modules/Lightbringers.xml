@@ -193,7 +193,7 @@ When they spot you, they approach:
       </logic>
       <outputs name="Cure seu espírito." ownerID="19" targetID="20" fromX="-674" fromY="-852" />
       <outputs name="Cure sua saúde mental." ownerID="19" targetID="22" fromX="-674" fromY="-932" />
-      <outputs name="Remova maldições." ownerID="19" targetID="25" fromX="-674" fromY="-1012" />
+      <outputs name="Remova maldiçoes." ownerID="19" targetID="25" fromX="-674" fromY="-1012" />
       <outputs name="Recrute portadores de luz." ownerID="19" targetID="26" fromX="-674" fromY="-1092" />
       <outputs name="Nada a fazer por enquanto, vá embora." ownerID="19" targetID="31" fromX="-674" fromY="-1172" />The village seems frozen in time. The people move so slowly you can barely see it. Yet they all seem really happy. 
 
@@ -694,7 +694,7 @@ When they spot you, they approach:
       </logic>
       <outputs name="Cure seu espírito." ownerID="19" targetID="20" fromX="-674" fromY="-852" />
       <outputs name="Cure sua saúde mental." ownerID="19" targetID="22" fromX="-674" fromY="-932" />
-      <outputs name="Remova maldições." ownerID="19" targetID="25" fromX="-674" fromY="-1012" />
+      <outputs name="Remova maldiçoes." ownerID="19" targetID="25" fromX="-674" fromY="-1012" />
       <outputs name="Recrute portadores de luz." ownerID="19" targetID="26" fromX="-674" fromY="-1092" />
       <outputs name="Nada a fazer por enquanto, vá embora." ownerID="19" targetID="31" fromX="-674" fromY="-1172" />The village seems frozen in time. The people move so slowly you can barely see it. Yet they all seem really happy. 
 
@@ -1020,7 +1020,7 @@ When they spot you, they approach:
       </logic>
       <outputs name="Cure seu espírito." ownerID="19" targetID="20" fromX="-674" fromY="-852" />
       <outputs name="Cure sua saúde mental." ownerID="19" targetID="22" fromX="-674" fromY="-932" />
-      <outputs name="Remova maldições." ownerID="19" targetID="25" fromX="-674" fromY="-1012" />
+      <outputs name="Remova maldiçoes." ownerID="19" targetID="25" fromX="-674" fromY="-1012" />
       <outputs name="Recrute portadores de luz." ownerID="19" targetID="26" fromX="-674" fromY="-1092" />
       <outputs name="Nada a fazer por enquanto, vá embora." ownerID="19" targetID="31" fromX="-674" fromY="-1172" />The village seems frozen in time. The people move so slowly you can barely see it. Yet they all seem really happy. 
 

@@ -1617,7 +1617,7 @@ Now you must seek on land. The whelps of the clever one, Nemoslav, they were giv
       <outputs name="[Bruxa ou volh] Pergunte se não há nada que você possa fazer para fazê-la mudar de ideia." ownerID="15" targetID="20" group="G1" fromX="777" fromY="-1567" />
       <outputs name="Ataque!" ownerID="15" targetID="4" fromX="777" fromY="-1647" />
       <outputs name="[Usuário de magia] Você sente que o medalhão da jurata, usado em volta do pescoço, tem um grande poder. Muito provavelmente é o objeto usado para segurar Eric. Afaste-se, mas fique perto o suficiente para que você ainda possa tentar quebrar o feitiço." ownerID="15" targetID="16" group="G1" fromX="777" fromY="-1727" />
-      <outputs name="Sair." ownerID="15" targetID="19" fromX="777" fromY="-1807" />&#39;E o quê, você pensou que eu iria ouvir o apelo do meu ex-amante? Ouviu como ele está cansado e como ele busca a morte? Minhas razões são minhas. Basta dizer que ele me prometeu uma vida diferente, mas não cumpriu. Ah, claro, ele chorou e se desculpou, jurou viver comigo nos mares em vez disso. Mas não foi isso que eu pedi. Não, não vou soltar o tolo. Você sente muita magia neste lugar. Aqueles que sabem como manejá-lo podem ser úteis aqui.</nodes>
+      <outputs name="Sair." ownerID="15" targetID="19" fromX="777" fromY="-1807" />&#39;E o quê, você pensou que eu iria ouvir o apelo do meu ex-amante? Ouviu como ele está cansado e como ele busca a morte? Minhas razoes são minhas. Basta dizer que ele me prometeu uma vida diferente, mas não cumpriu. Ah, claro, ele chorou e se desculpou, jurou viver comigo nos mares em vez disso. Mas não foi isso que eu pedi. Não, não vou soltar o tolo. Você sente muita magia neste lugar. Aqueles que sabem como manejá-lo podem ser úteis aqui.</nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="856" positionY="-804" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_10S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1924,7 +1924,7 @@ Eric aparece diante de você: &#39;Agora, esta é uma reviravolta inesperada. Es
       <outputs name="[Usuário de magia] Conforme escolhido, você tem o direito de escolher o destino divino. Quebre este selo." ownerID="4" targetID="8" fromX="780" fromY="-1794" />
       <outputs name="Como escolhido, você tem o direito de escolher o destino divino. Quebre este selo com força bruta." ownerID="4" targetID="9" fromX="780" fromY="-1874" />
       <outputs name="Saia e volte com quem sabe magia." ownerID="4" targetID="5" fromX="780" fromY="-1954" />
-      <outputs name="Deixe este lugar em paz. Você pode voltar para os mares e matar Kastytis." ownerID="4" targetID="6" fromX="780" fromY="-2034" />Este selo é de origem divina, e sua deusa foi uma das duas que o criou. Sua conexão divina não lhe diz por que ou quando havia tantos. Mas você sabe que apenas aqueles que transgrediram diretamente contra os deuses foram punidos por maldições mantidas por tais selos. Se você não fosse escolhido, ou parente de um escolhido, e se Kastytis não o tivesse marcado, você não o veria.</nodes>
+      <outputs name="Deixe este lugar em paz. Você pode voltar para os mares e matar Kastytis." ownerID="4" targetID="6" fromX="780" fromY="-2034" />Este selo é de origem divina, e sua deusa foi uma das duas que o criou. Sua conexão divina não lhe diz por que ou quando havia tantos. Mas você sabe que apenas aqueles que transgrediram diretamente contra os deuses foram punidos por maldiçoes mantidas por tais selos. Se você não fosse escolhido, ou parente de um escolhido, e se Kastytis não o tivesse marcado, você não o veria.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="-273" positionY="-722" width="350" height="530" logBookName="QUEST_SEALPT2" logBookDescription="QUEST_SEALPT2_DES3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeSpawnOnMap" ID="6" positionX="-171" positionY="-1643" width="480" height="583" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <logic>
@@ -2018,7 +2018,7 @@ Eric aparece diante de você: &#39;Agora, esta é uma reviravolta inesperada. Es
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="13" targetID="15" fromX="2831" fromY="-557" />Sua pedra se quebra e o selo é quebrado. Você sente uma rajada de vento e depois sente água salgada na boca, garganta e pulmões. Você engasga e cai no chão. Os escolhidos sentem instintivamente que irritaram o panteão divino. </nodes>
+      <outputs name="Sair." ownerID="13" targetID="15" fromX="2831" fromY="-557" />Sua pedra se quebra e o selo é quebrado. Você sente uma rajada de vento e depois sente água salgada na boca, garganta e pulmoes. Você engasga e cai no chão. Os escolhidos sentem instintivamente que irritaram o panteão divino. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="14" positionX="1997" positionY="-344" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="100" maxDamage="120" useCountInPercent="true" targetGroup="2">
       <logic>
         <ModifierBlock>
@@ -2437,7 +2437,7 @@ You reach the throne room, where Jurasmat awaits. She sits upon a throne made of
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="23" fromX="3536" fromY="108" />Você mata Jurasmat, e suas filhas jurata soltam um grito profundo que abala as fundações do castelo subaquático. Você também vê Kastytis tentando correr em sua direção, seu rosto contorcido de dor. Mas antes que ele possa alcançá-lo, seu corpo se transforma em uma árvore - uma árvore morta agora, mero tronco. Você consegue pegar um colar que sabe ser a chave do tesouro do seu mapa antes de ser forçado a correr de volta para o seu navio.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="23" fromX="3536" fromY="108" />Você mata Jurasmat, e suas filhas jurata soltam um grito profundo que abala as fundaçoes do castelo subaquático. Você também vê Kastytis tentando correr em sua direção, seu rosto contorcido de dor. Mas antes que ele possa alcançá-lo, seu corpo se transforma em uma árvore - uma árvore morta agora, mero tronco. Você consegue pegar um colar que sabe ser a chave do tesouro do seu mapa antes de ser forçado a correr de volta para o seu navio.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="4050" positionY="402" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2681,7 +2681,7 @@ She swims away before you can ask more.</nodes>
     <nodes xsi:type="NodeAdventure" ID="58" positionX="3636" positionY="-3527" width="350" height="885">
       <outputs name="Sair." ownerID="58" targetID="60" fromX="3961" fromY="-4018" />
       <outputs name="Ataque ela!" ownerID="58" targetID="6" fromX="3961" fromY="-4098" />
-      <outputs name="[Usuário mágico] Ataque com magia." ownerID="58" targetID="10" fromX="3961" fromY="-4178" />— Você tem boas intenções, afilhado, tenho certeza, mas suas palavras não podem desfazer séculos de cruel banimento e injustiça. Pegue a chave, encontre Gosk&#39;s Might e deixe-nos fazer o que quisermos. Não se envolva e você será poupado.&#39; Ela se vira e começa a nadar para longe.</nodes>
+      <outputs name="[Usuário mágico] Ataque com magia." ownerID="58" targetID="10" fromX="3961" fromY="-4178" />— Você tem boas intençoes, afilhado, tenho certeza, mas suas palavras não podem desfazer séculos de cruel banimento e injustiça. Pegue a chave, encontre Gosk&#39;s Might e deixe-nos fazer o que quisermos. Não se envolva e você será poupado.&#39; Ela se vira e começa a nadar para longe.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="59" positionX="1863" positionY="-3812" width="460" height="429">
       <logic>
         <FilterBlock>
@@ -2827,7 +2827,7 @@ You reach the throne room, where Jurasmat awaits. She sits upon a throne made of
         </FilterBlock>
       </logic>
       <outputs name="Digitar." ownerID="2" targetID="3" fromX="318" fromY="-967" />
-      <outputs name="Sair." ownerID="2" targetID="5" fromX="318" fromY="-1047" />À medida que você se aproxima de uma ruína submarina, o mapa do tesouro acende, a escrita muda e agora lê como instruções: &#39;Você está à beira do Poder de Gosk. Entre por sua conta e risco. Persevere e a força do mar o recompensará. Falhe e você se juntará à escuridão das profundezas do oceano.&#39;</nodes>
+      <outputs name="Sair." ownerID="2" targetID="5" fromX="318" fromY="-1047" />À medida que você se aproxima de uma ruína submarina, o mapa do tesouro acende, a escrita muda e agora lê como instruçoes: &#39;Você está à beira do Poder de Gosk. Entre por sua conta e risco. Persevere e a força do mar o recompensará. Falhe e você se juntará à escuridão das profundezas do oceano.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="626" positionY="-352" width="350" height="1046">
       <outputs name="Passe pela porta do conhecimento." ownerID="3" targetID="14" fromX="951" fromY="-843" />
       <outputs name="Passe pela porta do espírito." ownerID="3" targetID="28" fromX="951" fromY="-923" />
@@ -2859,11 +2859,11 @@ You also sense that you are being watched.</nodes>
       <outputs name="Domine esta desculpa para um deus. Ele precisa se lembrar de seu lugar e esquecer essa loucura, agora!" ownerID="8" targetID="50" fromX="1881" fromY="-3395" />Perun, o velho deus do trovão, luta com Gosk e o deus do mar o derrota, mas Mokosh os impede. Ela está com raiva - não, triste? Ela tenta acalmar Gosk, mas suas águas não podem ser domadas agora, pois ele está furioso. Mokosh, a senhora da vida, comanda a própria água para engolir o deus indisciplinado. Ele é despojado do poder divino e trancado nas profundezas do oceano por toda a eternidade. </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2026" positionY="-2755" width="350" height="805">
       <outputs name="Insista para que ele lhe diga por quê. Certamente ele não dá tesouros grátis?" ownerID="9" targetID="51" fromX="2351" fromY="-3246" />
-      <outputs name="Domine esta desculpa para um deus. Ele precisa se lembrar de seu lugar e esquecer essa loucura, agora!" ownerID="9" targetID="50" fromX="2351" fromY="-3326" />— Então, ela lhe deu visões. É claro. Sem dúvida, sou um deus enlouquecido, sanguinário... Ela lhe mostrou quantos mortais pereceram das Trevas, quão perto o mundo chegou ao fim? Não... não importa. Você veio aqui pelo tesouro de Gosk. Se você deseja reivindicar meu poder, passe pela porta.</nodes>
+      <outputs name="Domine esta desculpa para um deus. Ele precisa se lembrar de seu lugar e esquecer essa loucura, agora!" ownerID="9" targetID="50" fromX="2351" fromY="-3326" />— Então, ela lhe deu visoes. É claro. Sem dúvida, sou um deus enlouquecido, sanguinário... Ela lhe mostrou quantos mortais pereceram das Trevas, quão perto o mundo chegou ao fim? Não... não importa. Você veio aqui pelo tesouro de Gosk. Se você deseja reivindicar meu poder, passe pela porta.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="3537" positionY="-3261" width="350" height="725">
       <outputs name="Faça o seu caminho para fora daqui." ownerID="10" targetID="52" fromX="3862" fromY="-3752" />Gosk kneels down before your divine power, and you see the spirit of Mokosh herself approach him. She looks at him with pity and disdain, then she takes the map and the key and destroys them. The spirit disappears.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1379" positionY="-1424" width="350" height="1046">
-      <outputs name="Tente arrancar mais informações dele, pois ele parece ansioso para falar." ownerID="11" targetID="12" fromX="1704" fromY="-1915" />
+      <outputs name="Tente arrancar mais informaçoes dele, pois ele parece ansioso para falar." ownerID="11" targetID="12" fromX="1704" fromY="-1915" />
       <outputs name="Passe pela porta do conhecimento." ownerID="11" targetID="14" fromX="1704" fromY="-1995" />
       <outputs name="Passe pela porta do espírito." ownerID="11" targetID="28" fromX="1704" fromY="-2075" />
       <outputs name="Tente quebrar as portas." ownerID="11" targetID="43" fromX="1704" fromY="-2155" />
@@ -3147,7 +3147,7 @@ Gosk is still watching you, but now with the anticipation of his freedom.</nodes
       <outputs name="Surrender" ownerID="50" targetID="54" fromX="3342" fromY="-3719" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="2432" positionY="-2961" width="350" height="1126">
-      <outputs name="Tente arrancar mais informações dele, pois ele parece ansioso para falar." ownerID="51" targetID="12" fromX="2757" fromY="-3452" />
+      <outputs name="Tente arrancar mais informaçoes dele, pois ele parece ansioso para falar." ownerID="51" targetID="12" fromX="2757" fromY="-3452" />
       <outputs name="Passe pela porta do conhecimento." ownerID="51" targetID="14" fromX="2757" fromY="-3532" />
       <outputs name="Passe pela porta do espírito." ownerID="51" targetID="28" fromX="2757" fromY="-3612" />
       <outputs name="Tente quebrar as portas." ownerID="51" targetID="43" fromX="2757" fromY="-3692" />
@@ -5542,7 +5542,7 @@ Listen, I need to get my daughter. Will you let me get her, or will you stand in
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2201" positionY="-48" width="350" height="885">
       <outputs name="Ataque!" ownerID="8" targetID="6" fromX="2526" fromY="-539" />
       <outputs name="[Usuário de magia] Enfrente-os com espírito para que sua magia suja possa ser banida!" ownerID="8" targetID="13" fromX="2526" fromY="-619" />
-      <outputs name="Sair." ownerID="8" targetID="4" fromX="2526" fromY="-699" />Você entra no porão de carga e vê um elfo solitário, acorrentado à parede e quase morto. Eles estão cercados por um círculo feito de runas antigas, provavelmente um feitiço de proteção. Você também vê muitos corpos podres de piratas, escravos e feras, todos dilacerados. Entre eles estão alguns grandes cadáveres de dragões, e um deles está olhando para você!</nodes>
+      <outputs name="Sair." ownerID="8" targetID="4" fromX="2526" fromY="-699" />Você entra no porão de carga e vê um elfo solitário, acorrentado à parede e quase morto. Eles estão cercados por um círculo feito de runas antigas, provavelmente um feitiço de proteção. Você também vê muitos corpos podres de piratas, escravos e feras, todos dilacerados. Entre eles estão alguns grandes cadáveres de dragoes, e um deles está olhando para você!</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3493" positionY="1145" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -5619,7 +5619,7 @@ Listen, I need to get my daughter. Will you let me get her, or will you stand in
         </FilterBlock>
       </logic>
       <outputs name="Use esta oportunidade para atacá-los!" ownerID="2" targetID="4" fromX="792" fromY="-724" />
-      <outputs name="Ajude-os puxando seu navio para fora da tempestade. Eles podem ser piratas, mas você manterá as tradições marítimas." ownerID="2" targetID="18" fromX="792" fromY="-804" />
+      <outputs name="Ajude-os puxando seu navio para fora da tempestade. Eles podem ser piratas, mas você manterá as tradiçoes marítimas." ownerID="2" targetID="18" fromX="792" fromY="-804" />
       <outputs name="Sair." ownerID="2" targetID="3" fromX="792" fromY="-884" />You spot a blue orc pirate ship ahead. It seems to be caught in the last of a bad storm. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-346" positionY="-728" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="4" positionX="896" positionY="104" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-PIRATES_7P_5M_5S" challengeScale="101" challengedList="ppl">

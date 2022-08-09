@@ -681,7 +681,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="43" fromX="3061" fromY="-1194" />Os domínios da natureza e da harmonia se opõem à escravização da carne morta à vontade. Seu ritual se dissolve e os ossos desmoronam em paz. Você sente uma doença sobre você.
+      <outputs name="Sair." ownerID="21" targetID="43" fromX="3061" fromY="-1194" />Os domínios da natureza e da harmonia se opoem à escravização da carne morta à vontade. Seu ritual se dissolve e os ossos desmoronam em paz. Você sente uma doença sobre você.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="3063.07446" positionY="-1996.12988" width="350" height="725">
       <logic>
@@ -1728,7 +1728,7 @@ You feel this whole burial ground is tainted with necromantic magic that is bloc
       </logic>
       <outputs name="[Anão] Dê boas-vindas a seus parentes." ownerID="2" targetID="3" fromX="791" fromY="-514" />
       <outputs name="[Light]Ofereça boas-vindas em nome da luz." ownerID="2" targetID="9" fromX="791" fromY="-595" />
-      <outputs name="[Harmony] Cumprimente os guardas anões com palavras de paz." ownerID="2" targetID="10" fromX="791" fromY="-675" />
+      <outputs name="[Harmony] Cumprimente os guardas anoes com palavras de paz." ownerID="2" targetID="10" fromX="791" fromY="-675" />
       <outputs name="Ataque!" ownerID="2" targetID="11" fromX="791" fromY="-755" />
       <outputs name="Convença os guardas a deixá-lo entrar." ownerID="2" targetID="13" fromX="791" fromY="-835" />
       <outputs name="Sair." ownerID="2" targetID="47" fromX="791" fromY="-915" />You enter the old cave and see statues of dwarves, but among them stand several guards.</nodes>
@@ -2066,7 +2066,7 @@ You feel this whole burial ground is tainted with necromantic magic that is bloc
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="10" targetID="41" fromX="1799" fromY="836" />Você destrói os roqueiros e sente os espíritos dos anciões olhando para você em agradecimento. Mesmo que fossem criaturas de pedra, eles estavam claramente loucos para atacar um solo sagrado. Uma das estátuas te presenteia com uma arma como recompensa!</nodes>
+      <outputs name="Sair." ownerID="10" targetID="41" fromX="1799" fromY="836" />Você destrói os roqueiros e sente os espíritos dos ancioes olhando para você em agradecimento. Mesmo que fossem criaturas de pedra, eles estavam claramente loucos para atacar um solo sagrado. Uma das estátuas te presenteia com uma arma como recompensa!</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1911.573" positionY="1148.67712" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2094,8 +2094,8 @@ You feel this whole burial ground is tainted with necromantic magic that is bloc
 
 Os roqueiros têm tanto medo de você que rolam sem nenhuma resistência. Há muita pedra aqui que você pode resgatar sem desrespeitar os túmulos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2735.12231" positionY="203.584381" width="350" height="805">
-      <outputs name="Abra os portões para eles." ownerID="17" targetID="18" group="G1" fromX="3060" fromY="-287" />
-      <outputs name="Abra os portões para eles." ownerID="17" targetID="19" group="G1" fromX="3060" fromY="-367" />Você vê grandes portões de metal no chão. Este é o lugar onde os pequenos pensam que seus pais estão. Como eles ainda não podem mastigar metal, eles tentaram comer por toda parte. Os portões não são tão difíceis de abrir, mas esses roqueiros são claramente muito jovens para pensar muito.</nodes>
+      <outputs name="Abra os portoes para eles." ownerID="17" targetID="18" group="G1" fromX="3060" fromY="-287" />
+      <outputs name="Abra os portoes para eles." ownerID="17" targetID="19" group="G1" fromX="3060" fromY="-367" />Você vê grandes portoes de metal no chão. Este é o lugar onde os pequenos pensam que seus pais estão. Como eles ainda não podem mastigar metal, eles tentaram comer por toda parte. Os portoes não são tão difíceis de abrir, mas esses roqueiros são claramente muito jovens para pensar muito.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="3267.14429" positionY="504.006836" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2109,13 +2109,13 @@ Os roqueiros têm tanto medo de você que rolam sem nenhuma resistência. Há mu
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Recolha as pedras, preste homenagem aos anciãos e vá embora." ownerID="18" targetID="40" fromX="3592" fromY="12" />Você move uma das portas do portão e vê apenas chão e pedra, mas os pequenos ficam excitados. Eles se lançam nas rochas e em poucos minutos desaparecem nas profundezas. Talvez com anos de escavação, alguém pudesse segui-los, mas, novamente, eles disseram que os pais dos trolls os aguardam. Há muita pedra para você coletar sem desrespeitar os anciões, então talvez seja melhor deixar assim.</nodes>
+      <outputs name="Recolha as pedras, preste homenagem aos anciãos e vá embora." ownerID="18" targetID="40" fromX="3592" fromY="12" />Você move uma das portas do portão e vê apenas chão e pedra, mas os pequenos ficam excitados. Eles se lançam nas rochas e em poucos minutos desaparecem nas profundezas. Talvez com anos de escavação, alguém pudesse segui-los, mas, novamente, eles disseram que os pais dos trolls os aguardam. Há muita pedra para você coletar sem desrespeitar os ancioes, então talvez seja melhor deixar assim.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="3796.42676" positionY="-164.767548" width="350" height="725">
       <outputs name="Sair." ownerID="19" targetID="37" fromX="4122" fromY="-655" />You try to lift one of the gate doors, and the rockers spill under it as soon as you move it off the ground. Alas, the gate is too heavy and the walls too unstable. The whole thing collapses, crushing the little creatures and wounding you in the process.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="865.3993" positionY="-2532.4856" width="350" height="885">
-      <outputs name="Abra os portões para eles." ownerID="20" targetID="18" group="G1" fromX="1191" fromY="-3023" />
-      <outputs name="Abra os portões para eles." ownerID="20" targetID="19" group="G1" fromX="1191" fromY="-3103" />
+      <outputs name="Abra os portoes para eles." ownerID="20" targetID="18" group="G1" fromX="1191" fromY="-3023" />
+      <outputs name="Abra os portoes para eles." ownerID="20" targetID="19" group="G1" fromX="1191" fromY="-3103" />
       <outputs name="Basta juntar algumas pedras e sair." ownerID="20" targetID="35" fromX="1191" fromY="-3184" />The rockers seem to be trying to eat their way underneath fallen metal gates. The gates would be easy for you to move or open and the creatures seem preoccupied, but there could be some risk. You could also scavenge stone away from the rockers without disturbing the burial ground any further.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="724.05835" positionY="-3457.205" width="350" height="805">
       <outputs name="Ataque!" ownerID="22" targetID="6" fromX="1049" fromY="-3948" />
@@ -2355,7 +2355,7 @@ The rocker cries pebbles, and the others join in.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="23" targetID="24" fromX="1803" fromY="359" />Você perdeu, e os ladrões de túmulos também roubam você! Pegar suas coisas de volta enquanto está nu não será fácil.
+      <outputs name="Sair." ownerID="23" targetID="24" fromX="1803" fromY="359" />Você perdeu, e os ladroes de túmulos também roubam você! Pegar suas coisas de volta enquanto está nu não será fácil.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="24" positionX="1908" positionY="805" width="480" height="503" radius="3" groupID="GROUP-BANDITS_4P_3M_1S" destroyOwner="false" linkedEventUniqueID="0">
       <outputs ownerID="24" targetID="55" fromX="2356" fromY="372" />
@@ -2418,7 +2418,7 @@ The rocker cries pebbles, and the others join in.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Curve-se aos espíritos em agradecimento." ownerID="33" targetID="58" group="G1" fromX="2584" fromY="1132" />
-      <outputs name="Curve-se aos espíritos em agradecimento." ownerID="33" targetID="56" group="G1" fromX="2584" fromY="1052" />Você destrói os ladrões de túmulos e coloca os túmulos de volta como deveriam ser. Você sente que os espíritos do metal e da pedra o favorecem.</nodes>
+      <outputs name="Curve-se aos espíritos em agradecimento." ownerID="33" targetID="56" group="G1" fromX="2584" fromY="1052" />Você destrói os ladroes de túmulos e coloca os túmulos de volta como deveriam ser. Você sente que os espíritos do metal e da pedra o favorecem.</nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="2923.06323" positionY="885.721069" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -2428,7 +2428,7 @@ The rocker cries pebbles, and the others join in.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Curve-se aos espíritos em agradecimento." ownerID="35" targetID="57" group="G1" fromX="3248" fromY="394" />
-      <outputs name="Curve-se aos espíritos em agradecimento." ownerID="35" targetID="56" group="G1" fromX="3248" fromY="314" />Com os ladrões de túmulos desaparecidos, você coloca os túmulos de volta como deveriam estar. Você sente que os espíritos do metal e da pedra o favorecem.</nodes>
+      <outputs name="Curve-se aos espíritos em agradecimento." ownerID="35" targetID="56" group="G1" fromX="3248" fromY="314" />Com os ladroes de túmulos desaparecidos, você coloca os túmulos de volta como deveriam estar. Você sente que os espíritos do metal e da pedra o favorecem.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="36" positionX="3999.95532" positionY="57.41127" width="350" height="530" allPlayersXP="6" allPlayersRP="3" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2605,7 +2605,7 @@ The rocker cries pebbles, and the others join in.</nodes>
       <outputs name="Investigue a sepultura." ownerID="2" targetID="10" fromX="784" fromY="-683" />
       <outputs name="Você sente as tramas da magia aqui - talvez uma presença de espírito. Realize um ritual para invocar essa presença." ownerID="2" targetID="7" fromX="784" fromY="-763" />
       <outputs name="[Xamã Goblin] Há uma presença de espírito aqui - uma estranha, mas inconfundível. Tente falar com ele." ownerID="2" targetID="36" fromX="784" fromY="-843" />
-      <outputs name="Sair." ownerID="2" targetID="54" fromX="784" fromY="-923" />Este túmulo agourento deve ter sido exposto quando a terra se moveu. Estátuas de pedra e metal de anões caídos permanecem altas e orgulhosas, apesar de qualquer dano. E, no entanto, além do dano esperado, você vê que alguns dos túmulos foram claramente roubados! O ar aqui é frio e ameaçador.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="54" fromX="784" fromY="-923" />Este túmulo agourento deve ter sido exposto quando a terra se moveu. Estátuas de pedra e metal de anoes caídos permanecem altas e orgulhosas, apesar de qualquer dano. E, no entanto, além do dano esperado, você vê que alguns dos túmulos foram claramente roubados! O ar aqui é frio e ameaçador.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="958.5159" positionY="383.930725" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -2697,7 +2697,7 @@ The stone statue becomes animated and turns to you.
     <nodes xsi:type="NodeAdventure" ID="22" positionX="3509.30664" positionY="-458.242126" width="350" height="966">
       <outputs name="[Bruxa Orc] Ofereça-se para realizar um ritual em vez disso. Isso dará ao espírito poder suficiente para resolver isso sozinho." ownerID="22" targetID="33" group="G1" fromX="3835" fromY="-949" />
       <outputs name="Ofereça-se para realizar um ritual em vez disso. Isso dará ao espírito poder suficiente para resolver isso sozinho." ownerID="22" targetID="30" group="G1" fromX="3835" fromY="-1029" />
-      <outputs name="Concorde em entrar e lutar contra os ladrões de túmulos." ownerID="22" targetID="28" fromX="3835" fromY="-1109" />
+      <outputs name="Concorde em entrar e lutar contra os ladroes de túmulos." ownerID="22" targetID="28" fromX="3835" fromY="-1109" />
       <outputs name="Say that you are sorry, but you will not risk it. Sair." ownerID="22" targetID="56" fromX="3835" fromY="-1189" />'Filthy grave robbers came and defiled our forefathers. Lucky bastards took the deathstone before I was able to fully awaken. Now they are trapped in a tomb, but they hold my deathstone. We're at an impasse.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="128.453079" positionY="-1927.062" width="350" height="805">
       <outputs name="Então, o que pode ser feito?" ownerID="24" targetID="22" fromX="454" fromY="-2418" />
@@ -2793,7 +2793,7 @@ The stone statue becomes animated and turns to you.
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="4508.401" positionY="-1735.44031" width="350" height="805">
       <outputs name="Coloque a pedra da morte no peito da estátua anã." ownerID="40" targetID="41" fromX="4834" fromY="-2226" />
-      <outputs name="Destrua a pedra da morte." ownerID="40" targetID="43" fromX="4834" fromY="-2306" />Os ladrões de túmulos estão mortos, e você encontra uma pedra coberta de runas - a pedra da morte. O espírito guardião lhe chama: &#39;Você conseguiu? Coloque-o no meu peito, rapidamente.</nodes>
+      <outputs name="Destrua a pedra da morte." ownerID="40" targetID="43" fromX="4834" fromY="-2306" />Os ladroes de túmulos estão mortos, e você encontra uma pedra coberta de runas - a pedra da morte. O espírito guardião lhe chama: &#39;Você conseguiu? Coloque-o no meu peito, rapidamente.</nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="4959.88672" positionY="-1619.00476" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2842,7 +2842,7 @@ The stone statue becomes animated and turns to you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Espere." ownerID="48" targetID="49" fromX="5501" fromY="-918" />O ritual funcionou. Você invocou seu elo divino e teceu a magia ao seu redor para fortalecer o espírito da pedra. Você vê a estátua se mover mais rápido do que qualquer pedra deveria. Ele corre para as catacumbas próximas, e você ouve os gritos de ladrões de túmulos moribundos.
+      <outputs name="Espere." ownerID="48" targetID="49" fromX="5501" fromY="-918" />O ritual funcionou. Você invocou seu elo divino e teceu a magia ao seu redor para fortalecer o espírito da pedra. Você vê a estátua se mover mais rápido do que qualquer pedra deveria. Ele corre para as catacumbas próximas, e você ouve os gritos de ladroes de túmulos moribundos.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="49" positionX="5645.431" positionY="-319.20343" width="350" height="725">
       <logic>
@@ -4629,7 +4629,7 @@ He leaves you all his equipment as a sign of honour, though.</nodes>
       </logic>
       <outputs name="Investigar." ownerID="2" targetID="4" group="G1" fromX="794" fromY="-255" />
       <outputs name="Investigar." ownerID="2" targetID="5" group="G1" fromX="794" fromY="-336" />
-      <outputs name="Sair." ownerID="2" targetID="3" fromX="794" fromY="-416" />Assim que você entra no túmulo, você sente que algo está errado. Muitas das lápides estão esmagadas e a terra abaixo delas foi movida. Pode ser ladrões de túmulos, mas pode ser algo mais...</nodes>
+      <outputs name="Sair." ownerID="2" targetID="3" fromX="794" fromY="-416" />Assim que você entra no túmulo, você sente que algo está errado. Muitas das lápides estão esmagadas e a terra abaixo delas foi movida. Pode ser ladroes de túmulos, mas pode ser algo mais...</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-207.651642" positionY="-818.212769" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="4" positionX="-135.158371" positionY="1624.07739" width="350" height="1126">
       <logic>
@@ -4810,7 +4810,7 @@ He leaves you all his equipment as a sign of honour, though.</nodes>
       <outputs name="Mate o demônio também antes que ela convoque mais mortos-vivos." ownerID="27" targetID="91" fromX="2847" fromY="1142" />
       <outputs name="Amarre o demônio ao seu serviço com magia. Isso é arriscado e pode acabar amaldiçoando você, mas pode funcionar." ownerID="27" targetID="90" group="G2" fromX="2847" fromY="1062" />
       <outputs name="Amarre o demônio ao seu serviço com magia. Isso é arriscado e pode acabar amaldiçoando você, mas pode funcionar." ownerID="27" targetID="76" group="G2" fromX="2847" fromY="982" />
-      <outputs name="Apenas deixe este lugar. " ownerID="27" targetID="89" fromX="2847" fromY="902" />O ritual funciona e os mortos-vivos desmoronam onde estão. A criatura que os convocou grita como se estivesse com dor. &#39;Nããão! Minhas acusações, mortas. Eu falhei... de novo... não se preocupem meus queridos, eu vou acertar vocês de novo...&#39;
+      <outputs name="Apenas deixe este lugar. " ownerID="27" targetID="89" fromX="2847" fromY="902" />O ritual funciona e os mortos-vivos desmoronam onde estão. A criatura que os convocou grita como se estivesse com dor. &#39;Nããão! Minhas acusaçoes, mortas. Eu falhei... de novo... não se preocupem meus queridos, eu vou acertar vocês de novo...&#39;
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="4123.52539" positionY="1351.0929" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="29" positionX="4697" positionY="1246" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
@@ -5486,7 +5486,7 @@ The spirit resides not far away and can only be dealt with there. Will you help?
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="36" targetID="53" fromX="1386" fromY="-2117" />Você mata os guardiões e tenta saquear a árvore de seus cristais, mas cada um que você toca simplesmente vira pó. A cada cristal que desaparece, você sente uma mancha em sua alma élfica.</nodes>
+      <outputs name="Sair." ownerID="36" targetID="53" fromX="1386" fromY="-2117" />Você mata os guardioes e tenta saquear a árvore de seus cristais, mas cada um que você toca simplesmente vira pó. A cada cristal que desaparece, você sente uma mancha em sua alma élfica.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="39" positionX="1709.98608" positionY="1340.47729" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="40" positionX="3283.715" positionY="-569.89624" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="42" positionX="4305" positionY="3424" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="woodkin">
@@ -6685,7 +6685,7 @@ The tears can grant boons if given by a guardian willingly.'</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Uma escuridão não natural como essa não pode ser deixada descontrolada. Prepare um ritual de luz e harmonia para trancá-lo!" ownerID="5" targetID="6" fromX="1215" fromY="859" />
-      <outputs name="This fight is too great for now. Saia deste lugar. " ownerID="5" targetID="46" fromX="1215" fromY="779" />Agora você tem certeza de que a fumaça é uma manifestação da escuridão em sua forma pura e não natural. Ele procurará corromper ou destruir qualquer coisa que tocar, e está chegando até você! Como o poder de seu domínio se opõe diretamente a essa força, você pode tentar destruí-lo completamente, mas será difícil.</nodes>
+      <outputs name="This fight is too great for now. Saia deste lugar. " ownerID="5" targetID="46" fromX="1215" fromY="779" />Agora você tem certeza de que a fumaça é uma manifestação da escuridão em sua forma pura e não natural. Ele procurará corromper ou destruir qualquer coisa que tocar, e está chegando até você! Como o poder de seu domínio se opoe diretamente a essa força, você pode tentar destruí-lo completamente, mas será difícil.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="1337.08533" positionY="2082.09839" width="500" height="807" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_3S" challengeScale="101" challengedList="ppl">
       <logic>
         <ModifierBlock>
@@ -7275,7 +7275,7 @@ You roll many turns until the final roll that will decide the winner.</nodes>
       </logic>
       <outputs name="Você trapaceia no seu caminho para a vitória e o esqueleto parece impressionado. Ele lhe entrega os dados como recompensa e depois sai. Acene em agradecimento e vá embora." ownerID="41" targetID="85" group="G1" fromX="469" fromY="-4798" />
       <outputs name="Despite your sharp mind, chance has its way. You lose and realise too late that some of your belongings are gone. When you turn to face the skeleton, it is nowhere to be found. Sair." ownerID="41" targetID="86" group="G1" fromX="469" fromY="-4878" />
-      <outputs name="The game is a draw. The skeleton nods in thanks for the time well spent, then ignores you. Sair." ownerID="41" targetID="87" group="G1" fromX="469" fromY="-4959" />Jogar contra demônios é uma maneira segura de perder a alma, mas o esqueleto parece além de tais preocupações. O jogo começa. Você rola muitos turnos até o lançamento final que decidirá o vencedor.</nodes>
+      <outputs name="The game is a draw. The skeleton nods in thanks for the time well spent, then ignores you. Sair." ownerID="41" targetID="87" group="G1" fromX="469" fromY="-4959" />Jogar contra demônios é uma maneira segura de perder a alma, mas o esqueleto parece além de tais preocupaçoes. O jogo começa. Você rola muitos turnos até o lançamento final que decidirá o vencedor.</nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="-472.997375" positionY="-3857.37622" width="350" height="922">
       <outputs name="Despite your sharp mind, chance has its way. You lose and realise too late that some of your belongings are gone. When you turn to face the skeleton, it is nowhere to be found. Sair." ownerID="42" targetID="88" group="G1" fromX="-147" fromY="-4304" />
       <outputs name="Chance has its way with you for a time, but then you turn the tables and win. The skeleton simply nods, and you feel different after the experience. Sair." ownerID="42" targetID="90" group="G1" fromX="-147" fromY="-4384" />
@@ -7550,7 +7550,7 @@ He shakes the orc leather cup that holds the bone dice. </nodes>
       </logic>
       <outputs name="O que é um lugar de poder, exatamente?" ownerID="2" targetID="3" fromX="795" fromY="-59" />
       <outputs name="Pegue a essência espiritual do anão e tente liberá-lo aqui." ownerID="2" targetID="5" fromX="795" fromY="-139" />
-      <outputs name="Ignore o destino dos anões, vá embora." ownerID="2" targetID="23" fromX="795" fromY="-220" />You come to a seemingly unassuming spot where a single crooked tree stands over a tiny pond. 
+      <outputs name="Ignore o destino dos anoes, vá embora." ownerID="2" targetID="23" fromX="795" fromY="-220" />You come to a seemingly unassuming spot where a single crooked tree stands over a tiny pond. 
 
 There is an overwhelming sense of tranquillity the closer you get to the pond, and those sensitive to the weaves of magic know this to be an old place of power.
 
@@ -7561,7 +7561,7 @@ If you're a magic user, you can perform some rituals here.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1405.55859" positionY="610.6704" width="350" height="725">
       <outputs name="Pegue a essência espiritual do anão e tente liberá-lo aqui." ownerID="4" targetID="5" fromX="1731" fromY="119" />They can be places where the connection to the greyworld -- the realm of the spirits -- is strong, or where a spirit decided to dwell and aid the living.
 
-They can also be places where extreme events occurred, creating emotional imprints, or perhaps great magical deeds that left behind traces. Eles podem ser lugares onde a conexão com o mundo cinzento – o reino dos espíritos – é forte, ou onde um espírito decidiu habitar e ajudar os vivos. Eles também podem ser lugares onde ocorreram eventos extremos, criando impressões emocionais, ou talvez grandes feitos mágicos que deixaram rastros. Eles podem ser lugares onde grandes magos residiam, deixando sua magia penetrar no próprio solo. A lista continua.</nodes>
+They can also be places where extreme events occurred, creating emotional imprints, or perhaps great magical deeds that left behind traces. Eles podem ser lugares onde a conexão com o mundo cinzento – o reino dos espíritos – é forte, ou onde um espírito decidiu habitar e ajudar os vivos. Eles também podem ser lugares onde ocorreram eventos extremos, criando impressoes emocionais, ou talvez grandes feitos mágicos que deixaram rastros. Eles podem ser lugares onde grandes magos residiam, deixando sua magia penetrar no próprio solo. A lista continua.</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1827.0127" positionY="429.193481" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -7643,7 +7643,7 @@ You feel that you could also try to bind the spirit to you instead of freeing it
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="10" targetID="29" fromX="3116" fromY="946" />O ritual funciona, mas a amarração forçada de um espírito anão relutante é terrivelmente desonrosa. Os anões do seu grupo sentem o peso de sua vergonha.</nodes>
+      <outputs name="Sair." ownerID="10" targetID="29" fromX="3116" fromY="946" />O ritual funciona, mas a amarração forçada de um espírito anão relutante é terrivelmente desonrosa. Os anoes do seu grupo sentem o peso de sua vergonha.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="3249" positionY="663" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -7685,7 +7685,7 @@ You feel that you could also try to bind the spirit to you instead of freeing it
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Excelente. Agora saiam juntos." ownerID="17" targetID="32" fromX="3376" fromY="-1334" />O ritual funciona e o antigo espírito do lago desbloqueia os laços que mantinham a alma dos anões cativa. O anão liberto bate com a mão no peito: &#39;Você manteve sua palavra, e eu o considero digno de meus serviços. O cemitério ficará bem por um tempo.</nodes>
+      <outputs name="Excelente. Agora saiam juntos." ownerID="17" targetID="32" fromX="3376" fromY="-1334" />O ritual funciona e o antigo espírito do lago desbloqueia os laços que mantinham a alma dos anoes cativa. O anão liberto bate com a mão no peito: &#39;Você manteve sua palavra, e eu o considero digno de meus serviços. O cemitério ficará bem por um tempo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="3085" positionY="-1600" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -7700,7 +7700,7 @@ You feel that you could also try to bind the spirit to you instead of freeing it
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Great. Sair." ownerID="18" targetID="32" fromX="3411" fromY="-2091" />O ritual funciona e o antigo espírito do lago desbloqueia os laços que mantinham a alma dos anões cativa. O anão liberto bate com a mão no peito: &#39;Você manteve sua palavra, e agora devo retornar aos meus deveres. Que pedra e ferro estejam sempre com você!&#39;</nodes>
+      <outputs name="Great. Sair." ownerID="18" targetID="32" fromX="3411" fromY="-2091" />O ritual funciona e o antigo espírito do lago desbloqueia os laços que mantinham a alma dos anoes cativa. O anão liberto bate com a mão no peito: &#39;Você manteve sua palavra, e agora devo retornar aos meus deveres. Que pedra e ferro estejam sempre com você!&#39;</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="19" positionX="4134.64941" positionY="-1502.95178" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -7731,7 +7731,7 @@ You feel that you could also try to bind the spirit to you instead of freeing it
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="30" targetID="28" fromX="4465" fromY="-367" />Seus esforços falham e o ritual drena muito de você. Os anões do seu grupo sentem o peso de sua vergonha.</nodes>
+      <outputs name="Sair." ownerID="30" targetID="28" fromX="4465" fromY="-367" />Seus esforços falham e o ritual drena muito de você. Os anoes do seu grupo sentem o peso de sua vergonha.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="31" positionX="3917.27148" positionY="914.0037" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="31" targetID="12" fromX="4365" fromY="481" />
     </nodes>
@@ -7752,7 +7752,7 @@ You feel that you could also try to bind the spirit to you instead of freeing it
         </FilterBlock>
       </logic>
       <outputs name="Entre." ownerID="2" targetID="5" fromX="665" fromY="-533" />
-      <outputs name="Ignore o pedido dos anões e vá embora." ownerID="2" targetID="3" fromX="665" fromY="-613" />Você chega a um pequeno barraco onde lhe disseram que o demônio que escravizou o ferreiro anão mora. Ao se aproximar, você sente uma concentração de escuridão interior. </nodes>
+      <outputs name="Ignore o pedido dos anoes e vá embora." ownerID="2" targetID="3" fromX="665" fromY="-613" />Você chega a um pequeno barraco onde lhe disseram que o demônio que escravizou o ferreiro anão mora. Ao se aproximar, você sente uma concentração de escuridão interior. </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="3" positionX="229.707825" positionY="-1063.23413" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="3" targetID="4" fromX="678" fromY="-1495" />
     </nodes>
@@ -9260,7 +9260,7 @@ The old hag tells you many stories before she finally says it is time to go. </n
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="43" fromX="3061" fromY="-1194" />Os domínios da natureza e da harmonia se opõem à escravização da carne morta à vontade. Seu ritual se dissolve e os ossos desmoronam em paz. Você sente uma doença sobre você.
+      <outputs name="Sair." ownerID="21" targetID="43" fromX="3061" fromY="-1194" />Os domínios da natureza e da harmonia se opoem à escravização da carne morta à vontade. Seu ritual se dissolve e os ossos desmoronam em paz. Você sente uma doença sobre você.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="3063.07446" positionY="-1996.12988" width="350" height="725">
       <logic>
@@ -9607,7 +9607,7 @@ The skeletons move away, but one stays behind:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="23" targetID="24" fromX="1803" fromY="359" />Você perdeu, e os ladrões de túmulos também roubam você! Pegar suas coisas de volta enquanto está nu não será fácil.
+      <outputs name="Sair." ownerID="23" targetID="24" fromX="1803" fromY="359" />Você perdeu, e os ladroes de túmulos também roubam você! Pegar suas coisas de volta enquanto está nu não será fácil.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="24" positionX="1908" positionY="805" width="480" height="503" radius="3" groupID="GROUP-BANDITS_4P_3M_1S" destroyOwner="false" linkedEventUniqueID="0">
       <outputs ownerID="24" targetID="55" fromX="2356" fromY="372" />
@@ -9670,7 +9670,7 @@ The skeletons move away, but one stays behind:
         </ModifierBlock>
       </logic>
       <outputs name="Curve-se aos espíritos em agradecimento." ownerID="33" targetID="58" group="G1" fromX="2446" fromY="1227" />
-      <outputs name="Curve-se aos espíritos em agradecimento." ownerID="33" targetID="56" group="G1" fromX="2446" fromY="1147" />Você destrói os ladrões de túmulos e coloca os túmulos de volta como deveriam ser. Você sente que os espíritos do metal e da pedra o favorecem.</nodes>
+      <outputs name="Curve-se aos espíritos em agradecimento." ownerID="33" targetID="56" group="G1" fromX="2446" fromY="1147" />Você destrói os ladroes de túmulos e coloca os túmulos de volta como deveriam ser. Você sente que os espíritos do metal e da pedra o favorecem.</nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="2875" positionY="981" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -9683,7 +9683,7 @@ The skeletons move away, but one stays behind:
         </ModifierBlock>
       </logic>
       <outputs name="Curve-se aos espíritos em agradecimento." ownerID="35" targetID="57" group="G1" fromX="3200" fromY="489" />
-      <outputs name="Curve-se aos espíritos em agradecimento." ownerID="35" targetID="56" group="G1" fromX="3200" fromY="409" />Com os ladrões de túmulos desaparecidos, você coloca os túmulos de volta como deveriam estar. Você sente que os espíritos do metal e da pedra o favorecem.</nodes>
+      <outputs name="Curve-se aos espíritos em agradecimento." ownerID="35" targetID="56" group="G1" fromX="3200" fromY="409" />Com os ladroes de túmulos desaparecidos, você coloca os túmulos de volta como deveriam estar. Você sente que os espíritos do metal e da pedra o favorecem.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="36" positionX="3999.95532" positionY="57.41127" width="350" height="530" allPlayersXP="6" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>

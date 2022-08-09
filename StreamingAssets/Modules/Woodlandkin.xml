@@ -279,7 +279,7 @@ We will leave now, if we must.' </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="45" fromX="3970" fromY="-464" />Você mata os elfos das sombras. Os elfos ficam estranhamente aliviados com suas notícias, apesar de normalmente não gostarem de resoluções violentas. Eles te deixam uma recompensa.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="45" fromX="3970" fromY="-464" />Você mata os elfos das sombras. Os elfos ficam estranhamente aliviados com suas notícias, apesar de normalmente não gostarem de resoluçoes violentas. Eles te deixam uma recompensa.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="44" positionX="5039" positionY="952" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="44" targetID="22" fromX="5487" fromY="519" />
     </nodes>
@@ -698,7 +698,7 @@ We will leave now, if we must.' </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você vê uma única pinha à espreita. Aproxime-se." ownerID="49" targetID="20" group="G1" fromX="2321" fromY="-2035" />
-      <outputs name="Sair." ownerID="49" targetID="21" group="G1" fromX="2321" fromY="-2115" />As pinhas ouvem e prometem se comportar. Natureza e harmonia são satisfeitas por suas ações. Os elfos agradecem e deixam uma recompensa.</nodes>
+      <outputs name="Sair." ownerID="49" targetID="21" group="G1" fromX="2321" fromY="-2115" />As pinhas ouvem e prometem se comportar. Natureza e harmonia são satisfeitas por suas açoes. Os elfos agradecem e deixam uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="2494" positionY="-1802" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -927,13 +927,13 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="[Gente da floresta] Aproxime-se com cautela e tente falar com os guardiões da floresta." ownerID="2" targetID="3" fromX="311" fromY="-491" />
+      <outputs name="[Gente da floresta] Aproxime-se com cautela e tente falar com os guardioes da floresta." ownerID="2" targetID="3" fromX="311" fromY="-491" />
       <outputs name="[Xamã Goblin] Peça aos espíritos da floresta para lhe dizer o que está errado aqui." ownerID="2" targetID="4" fromX="311" fromY="-571" />
       <outputs name="[Harmony] Evoque o poder da harmonia para tentar aplacar a raiva desse velho espírito." ownerID="2" targetID="16" fromX="311" fromY="-651" />
       <outputs name="[Nature] Chame seu domínio para mostrar ao leshy que você está do lado dele." ownerID="2" targetID="57" fromX="311" fromY="-731" />
       <outputs name="Ataque!" ownerID="2" targetID="24" fromX="311" fromY="-811" />
       <outputs name="Ofereça sua própria energia espiritual para tentar apaziguar essa velha criatura e fazer com que ela deixe os elfos em paz. [Sofre dano espiritual]" ownerID="2" targetID="58" fromX="311" fromY="-892" />
-      <outputs name="Volte mais tarde." ownerID="2" targetID="31" fromX="311" fromY="-972" />Você se aproxima da área onde dizem que os guardiões da floresta desonestos moram. Você vê um bosque escuro e fechado e sente muitos olhos observando você.</nodes>
+      <outputs name="Volte mais tarde." ownerID="2" targetID="31" fromX="311" fromY="-972" />Você se aproxima da área onde dizem que os guardioes da floresta desonestos moram. Você vê um bosque escuro e fechado e sente muitos olhos observando você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="-683.1542" positionY="1935.07715" width="350" height="1082.45">
       <logic>
         <FilterBlock>
@@ -960,7 +960,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Faça isso. Um guardião desonesto é perigoso para a floresta e os espíritos que habitam aqui." ownerID="4" targetID="9" fromX="1324" fromY="-310" />
-      <outputs name="[Gente da floresta] Aproxime-se com cautela e tente falar com os guardiões da floresta." ownerID="4" targetID="3" fromX="1324" fromY="-391" />
+      <outputs name="[Gente da floresta] Aproxime-se com cautela e tente falar com os guardioes da floresta." ownerID="4" targetID="3" fromX="1324" fromY="-391" />
       <outputs name="Desistir. Informe os elfos disso." ownerID="4" targetID="37" fromX="1324" fromY="-471" />Os espíritos lhe dizem que a alma do leshy ainda está manchada pela velha mancha da escuridão. Isso o torna mais agressivo e instável. Os espíritos se oferecem para cortar o leshy do mundo espiritual para você, mas isso significará uma morte lenta e dolorosa para ele.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="333.6225" positionY="2161.81152" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-LESHY_MIX_7P_6M_7S" challengeScale="200" challengedList="ppl">
       <logic>
@@ -1198,7 +1198,7 @@ Still, they recognise your efforts and you gain some small favour.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="33" targetID="47" fromX="2581" fromY="330" />O que quer que você tenha tentado, o leshy provou ser muito forte e teimoso. Os demônios da floresta atacam você com força. Os elfos ouvem seus gritos e vêm em seu auxílio. Eles têm que matar os próprios guardiões da floresta e estão zangados por terem que fazê-lo.</nodes>
+      <outputs name="Sair." ownerID="33" targetID="47" fromX="2581" fromY="330" />O que quer que você tenha tentado, o leshy provou ser muito forte e teimoso. Os demônios da floresta atacam você com força. Os elfos ouvem seus gritos e vêm em seu auxílio. Eles têm que matar os próprios guardioes da floresta e estão zangados por terem que fazê-lo.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="36" positionX="2313.97632" positionY="2072.31934" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="36" targetID="39" fromX="2762" fromY="1640" />
     </nodes>
@@ -1379,7 +1379,7 @@ The elves are very grateful for this peaceful resolution and leave you a gift.
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Você sabe como lidar com rufiões - você se envolveu com essa vida também. Fale com eles." ownerID="2" targetID="3" fromX="763" fromY="-532" />
+      <outputs name="Você sabe como lidar com rufioes - você se envolveu com essa vida também. Fale com eles." ownerID="2" targetID="3" fromX="763" fromY="-532" />
       <outputs name="[Orc Matriarca] Diga para eles irem agora!" ownerID="2" targetID="4" fromX="763" fromY="-612" />
       <outputs name="[Intelecto e harmonia] Convença os bandidos de que é mais sensato sair do que enfrentar você - e depois enfrentar os elfos também." ownerID="2" targetID="16" fromX="763" fromY="-693" />
       <outputs name="Pague os bandidos para sair." ownerID="2" targetID="15" fromX="763" fromY="-773" />
@@ -1617,7 +1617,7 @@ The elves are very grateful for this peaceful resolution and leave you a gift.
         </ModifierBlock>
       </logic>
       <outputs name="Sair." ownerID="34" targetID="50" group="G1" fromX="2346" fromY="1979" />
-      <outputs name="Sair." ownerID="34" targetID="36" group="G1" fromX="2346" fromY="1899" />&#39;Concordou! A honra entre os ladrões vive em nós. Partimos, e que suas lâminas continuem afiadas! Eles seguem em frente e os elfos ficam impressionados com sua resolução pacífica. 
+      <outputs name="Sair." ownerID="34" targetID="36" group="G1" fromX="2346" fromY="1899" />&#39;Concordou! A honra entre os ladroes vive em nós. Partimos, e que suas lâminas continuem afiadas! Eles seguem em frente e os elfos ficam impressionados com sua resolução pacífica. 
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="36" positionX="3203" positionY="2489" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <logic>
@@ -1776,7 +1776,7 @@ The elves are very grateful for this peaceful resolution and leave you a gift.
       <outputs name="[Usuário de magia ou Wraith] Alguns em seu grupo sabem sobre almas sem vida. Olhe mais de perto." ownerID="2" targetID="3" group="G1" fromX="806" fromY="-719" />
       <outputs name="[Natureza ou Luz] Limpe este lugar da força maligna que viola as leis de seus deuses." ownerID="2" targetID="16" fromX="806" fromY="-799" />
       <outputs name="Ataque!" ownerID="2" targetID="24" fromX="806" fromY="-880" />
-      <outputs name="[Zerca] Essas aparições estão presas aqui, e você sabe por qual ritual. Tudo o que você precisa fazer é enterrar um pouco de prata no chão e sacrificar um animal de estimação, e as aparições não incomodarão mais os elfos. Faça isso." ownerID="2" targetID="55" fromX="806" fromY="-960" />
+      <outputs name="[Zerca] Essas apariçoes estão presas aqui, e você sabe por qual ritual. Tudo o que você precisa fazer é enterrar um pouco de prata no chão e sacrificar um animal de estimação, e as apariçoes não incomodarão mais os elfos. Faça isso." ownerID="2" targetID="55" fromX="806" fromY="-960" />
       <outputs name="Volte mais tarde." ownerID="2" targetID="56" fromX="806" fromY="-1040" />You find the small graveyard where the elves think the unliving roam.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="175.770554" positionY="1006.03088" width="350" height="966">
       <logic>
@@ -1789,8 +1789,8 @@ The elves are very grateful for this peaceful resolution and leave you a gift.
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="[Wraith] Fale com eles, e peça-lhes que se afastem ou deixem os aldeões em paz." ownerID="3" targetID="7" group="G1" fromX="501" fromY="514" />
-      <outputs name="[Wraith] Fale com eles, e peça-lhes que se afastem ou deixem os aldeões em paz." ownerID="3" targetID="42" group="G1" fromX="501" fromY="434" />
+      <outputs name="[Wraith] Fale com eles, e peça-lhes que se afastem ou deixem os aldeoes em paz." ownerID="3" targetID="7" group="G1" fromX="501" fromY="514" />
+      <outputs name="[Wraith] Fale com eles, e peça-lhes que se afastem ou deixem os aldeoes em paz." ownerID="3" targetID="42" group="G1" fromX="501" fromY="434" />
       <outputs name="Realize um ritual que manterá os mortos-vivos presos aqui. Isso é magia negra, então pode custar algo, mas deve funcionar." ownerID="3" targetID="5" fromX="501" fromY="354" />
       <outputs name="You got the jump on them. Ataque!" ownerID="3" targetID="30" fromX="501" fromY="274" />You spot several wraiths floating in circles around a single gravestone.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="913.7174" positionY="53.1649551" width="350" height="885">
@@ -1917,7 +1917,7 @@ The elves are very grateful for this peaceful resolution and leave you a gift.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2303" />Você está prestes a relatar seu sucesso quando percebe que talvez seu conhecimento não tenha sido totalmente preciso. As aparições permanecem, e alguns demônios travessos foram atraídos pelo metal livre e agora continuam roubando dos elfos. Eles são eventualmente espancados pelos parentes élficos sem sua ajuda, e sua amizade sofre por isso.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="23" fromX="1225" fromY="-2303" />Você está prestes a relatar seu sucesso quando percebe que talvez seu conhecimento não tenha sido totalmente preciso. As apariçoes permanecem, e alguns demônios travessos foram atraídos pelo metal livre e agora continuam roubando dos elfos. Eles são eventualmente espancados pelos parentes élficos sem sua ajuda, e sua amizade sofre por isso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="487.979858" positionY="-2380.74268" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2144,7 +2144,7 @@ The elves are very grateful for this peaceful resolution and leave you a gift.
       </logic>
       <outputs name="Ataque!" ownerID="5" targetID="7" fromX="759" fromY="67" />
       <outputs name="Sair." ownerID="5" targetID="3" fromX="759" fromY="-12" />
-      <outputs name="Diga que você não quer fazer mal a eles - tudo o que você quer é conversar e visitar." ownerID="5" targetID="49" fromX="759" fromY="-92" />&#39;É por causa do seu bem-estar que pedimos que você siga em frente, já que você não é amigo dos anciões.&#39; Você não vê ninguém, mas se sente observado.</nodes>
+      <outputs name="Diga que você não quer fazer mal a eles - tudo o que você quer é conversar e visitar." ownerID="5" targetID="49" fromX="759" fromY="-92" />&#39;É por causa do seu bem-estar que pedimos que você siga em frente, já que você não é amigo dos ancioes.&#39; Você não vê ninguém, mas se sente observado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1459.86108" positionY="819.161255" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2286,9 +2286,9 @@ The elves are very grateful for this peaceful resolution and leave you a gift.
       </logic>
       <outputs name="[Elf] Incline a cabeça suavemente em questão." ownerID="26" targetID="29" fromX="2385" fromY="-2670" />
       <outputs name="[Usuários de magia] Diga que você conhece um pouco da limpeza, mas precisa da ajuda deles para fazê-lo corretamente." ownerID="26" targetID="64" fromX="2385" fromY="-2750" />
-      <outputs name="Concorde em pagar o preço para remover maldições. [20 gemas preciosas]" ownerID="26" targetID="31" fromX="2385" fromY="-2830" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes. [20 gemas preciosas]" ownerID="26" targetID="31" fromX="2385" fromY="-2830" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="26" targetID="55" fromX="2385" fromY="-2910" />
-      <outputs name="Diga que você não tem o pagamento." ownerID="26" targetID="11" fromX="2385" fromY="-2990" />Um dos elfos acena com a cabeça e mostra um lugar para você sentar. &#39;Sua alma está contaminada e precisa de limpeza. Maldições extenuam a luz de nossas almas; assim, o preço será alto e sobrecarregará suas mentes. Curar suas feridas espirituais é mais fácil para mim, então não vou pedir muito em troca.&#39;</nodes>
+      <outputs name="Diga que você não tem o pagamento." ownerID="26" targetID="11" fromX="2385" fromY="-2990" />Um dos elfos acena com a cabeça e mostra um lugar para você sentar. &#39;Sua alma está contaminada e precisa de limpeza. Maldiçoes extenuam a luz de nossas almas; assim, o preço será alto e sobrecarregará suas mentes. Curar suas feridas espirituais é mais fácil para mim, então não vou pedir muito em troca.&#39;</nodes>
     <nodes xsi:type="NodeTrade" ID="27" positionX="1101" positionY="-2662" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-500">
       <logic>
         <FilterBlock>
@@ -2333,7 +2333,7 @@ The elves are very grateful for this peaceful resolution and leave you a gift.
       </logic>
       <outputs name="Agradeça a eles e vá embora." ownerID="29" targetID="4" fromX="2845" fromY="-2377" />
       <outputs name="[Usuários de magia] Diga que você conhece um pouco da limpeza, mas precisa da ajuda deles para fazê-lo corretamente." ownerID="29" targetID="64" fromX="2845" fromY="-2457" />
-      <outputs name="Concorde em pagar o preço para remover maldições." ownerID="29" targetID="65" fromX="2845" fromY="-2537" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes." ownerID="29" targetID="65" fromX="2845" fromY="-2537" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="29" targetID="55" fromX="2845" fromY="-2618" />O curandeiro espiritual sorri. &#39;Ah, desculpe-me, senti o toque dos jovens deuses e não esperava um filho mais velho. Sente-se, descanse e medite, e sua alma será purificada. Seus parentes ainda precisarão pagar, é claro.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="3049.31543" positionY="-2679.04932" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="20" useCountInPercent="true" targetGroup="half">
@@ -2714,9 +2714,9 @@ The elves are very grateful for this peaceful resolution and leave you a gift.
       </logic>
       <outputs name="[Elf] Incline a cabeça suavemente em questão." ownerID="68" targetID="29" fromX="1595" fromY="-3754" />
       <outputs name="[Usuários de magia] Diga que você conhece um pouco da limpeza, mas precisa da ajuda deles para fazê-lo corretamente." ownerID="68" targetID="64" fromX="1595" fromY="-3834" />
-      <outputs name="Concorde em pagar o preço para remover maldições. [20 gemas preciosas]" ownerID="68" targetID="31" fromX="1595" fromY="-3914" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes. [20 gemas preciosas]" ownerID="68" targetID="31" fromX="1595" fromY="-3914" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="68" targetID="55" fromX="1595" fromY="-3994" />
-      <outputs name="Diga que você não tem o pagamento." ownerID="68" targetID="11" fromX="1595" fromY="-4074" />Um dos elfos acena com a cabeça e mostra um lugar para você sentar. &#39;Sua alma está contaminada e precisa de limpeza. Maldições extenuam a luz de nossas almas; assim, o preço será alto e sobrecarregará suas mentes. Curar suas feridas espirituais é mais fácil para mim, então não vou pedir muito em troca.&#39;</nodes>
+      <outputs name="Diga que você não tem o pagamento." ownerID="68" targetID="11" fromX="1595" fromY="-4074" />Um dos elfos acena com a cabeça e mostra um lugar para você sentar. &#39;Sua alma está contaminada e precisa de limpeza. Maldiçoes extenuam a luz de nossas almas; assim, o preço será alto e sobrecarregará suas mentes. Curar suas feridas espirituais é mais fácil para mim, então não vou pedir muito em troca.&#39;</nodes>
     <nodes xsi:type="NodeTrade" ID="69" positionX="134" positionY="-3480" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-1000">
       <logic>
         <FilterBlock>
@@ -3423,7 +3423,7 @@ The elves are impressed with your efforts:
       </logic>
       <outputs name="Ataque!" ownerID="5" targetID="7" fromX="757" fromY="439" />
       <outputs name="Sair." ownerID="5" targetID="3" fromX="757" fromY="359" />
-      <outputs name="Diga que você não quer fazer mal a eles - tudo o que você quer é conversar e visitar." ownerID="5" targetID="48" fromX="757" fromY="279" />&#39;É por causa do seu bem-estar que pedimos que você siga em frente, já que você não é amigo dos anciões.&#39; Você não vê ninguém, mas se sente observado. </nodes>
+      <outputs name="Diga que você não quer fazer mal a eles - tudo o que você quer é conversar e visitar." ownerID="5" targetID="48" fromX="757" fromY="279" />&#39;É por causa do seu bem-estar que pedimos que você siga em frente, já que você não é amigo dos ancioes.&#39; Você não vê ninguém, mas se sente observado. </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1479.20837" positionY="971.37915" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -3517,7 +3517,7 @@ The elves are impressed with your efforts:
       <outputs name="Recusar e sair." ownerID="18" targetID="4" fromX="4335" fromY="-1693" />“Normalmente, não gostamos de estranhos cutucando nossas terras. Como amigos, você terá uma exceção. Ruínas élficas não ficam longe daqui. Se você busca a iluminação, vá procurá-los, mas, por favor, respeite nossos ancestrais.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="19" positionX="2458.121" positionY="-31.6077137" width="350" height="805">
       <outputs name="Aceita." ownerID="19" targetID="20" fromX="2783" fromY="-522" />
-      <outputs name="Recusar e sair." ownerID="19" targetID="3" fromX="2783" fromY="-602" />&#39;Resquícios da maldição escura sempre permanecem em nossas florestas, tantos demônios da floresta e até animais se comportam de maneira estranha, para dizer o mínimo. Um desses lugares fica nas proximidades. Procure o que aflige nossa floresta e faça as reparações.&#39;</nodes>
+      <outputs name="Recusar e sair." ownerID="19" targetID="3" fromX="2783" fromY="-602" />&#39;Resquícios da maldição escura sempre permanecem em nossas florestas, tantos demônios da floresta e até animais se comportam de maneira estranha, para dizer o mínimo. Um desses lugares fica nas proximidades. Procure o que aflige nossa floresta e faça as reparaçoes.&#39;</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="20" positionX="2834.08447" positionY="-74.88287" width="480" height="503" radius="5" groupID="GROUP-BOARS_2P_1M_0S" destroyOwner="false" linkedEventUniqueID="26">
       <outputs ownerID="20" targetID="103" fromX="3282" fromY="-56" />
     </nodes>
@@ -3963,9 +3963,9 @@ The elves are impressed with your efforts:
       </logic>
       <outputs name="[Elf] Incline a cabeça suavemente em questão." ownerID="82" targetID="83" fromX="3239" fromY="-2375" />
       <outputs name="[Usuários de magia] Diga que você conhece um pouco da limpeza, mas precisa da ajuda deles para fazê-lo corretamente." ownerID="82" targetID="84" fromX="3239" fromY="-2455" />
-      <outputs name="Concorde em pagar o preço para remover maldições. [20 gemas preciosas]" ownerID="82" targetID="86" fromX="3239" fromY="-2535" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes. [20 gemas preciosas]" ownerID="82" targetID="86" fromX="3239" fromY="-2535" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="82" targetID="62" fromX="3239" fromY="-2615" />
-      <outputs name="Diga que você não tem o pagamento." ownerID="82" targetID="79" fromX="3239" fromY="-2695" />Um dos elfos acena com a cabeça e mostra um lugar para você sentar. &#39;Sua alma está contaminada e precisa de limpeza. Maldições extenuam a luz de nossas almas; assim, o preço será alto e sobrecarregará suas mentes. Curar suas feridas espirituais é mais fácil para mim, então não vou pedir muito em troca.&#39;</nodes>
+      <outputs name="Diga que você não tem o pagamento." ownerID="82" targetID="79" fromX="3239" fromY="-2695" />Um dos elfos acena com a cabeça e mostra um lugar para você sentar. &#39;Sua alma está contaminada e precisa de limpeza. Maldiçoes extenuam a luz de nossas almas; assim, o preço será alto e sobrecarregará suas mentes. Curar suas feridas espirituais é mais fácil para mim, então não vou pedir muito em troca.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="83" positionX="3408" positionY="-1971" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -3989,8 +3989,8 @@ The elves are impressed with your efforts:
         </ModifierBlock>
       </logic>
       <outputs name="Agradeça a eles e vá embora." ownerID="83" targetID="4" fromX="3733" fromY="-2462" />
-      <outputs name="[Usuários de magia] Diga que você conhece um pouco da limpeza de maldições, mas você precisa da ajuda deles para fazê-lo corretamente." ownerID="83" targetID="84" fromX="3733" fromY="-2542" />
-      <outputs name="Concorde em pagar o preço para remover maldições." ownerID="83" targetID="86" fromX="3733" fromY="-2622" />
+      <outputs name="[Usuários de magia] Diga que você conhece um pouco da limpeza de maldiçoes, mas você precisa da ajuda deles para fazê-lo corretamente." ownerID="83" targetID="84" fromX="3733" fromY="-2542" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes." ownerID="83" targetID="86" fromX="3733" fromY="-2622" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="83" targetID="62" fromX="3733" fromY="-2702" />O curandeiro espiritual sorri. &#39;Ah, desculpe-me, senti o toque dos jovens deuses e não esperava um filho mais velho. Sente-se, descanse e medite, e sua alma será purificada. Seus parentes ainda precisarão pagar, é claro.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="84" positionX="4175" positionY="-2803" width="350" height="725">
@@ -4024,9 +4024,9 @@ The elves are impressed with your efforts:
       </logic>
       <outputs name="[Elf] Incline a cabeça suavemente em questão." ownerID="85" targetID="83" fromX="2025" fromY="-2799" />
       <outputs name="[Usuários de magia] Diga que você conhece um pouco da limpeza, mas precisa da ajuda deles para fazê-lo corretamente." ownerID="85" targetID="84" fromX="2025" fromY="-2879" />
-      <outputs name="Concorde em pagar o preço para remover maldições. [20 gemas preciosas]" ownerID="85" targetID="86" fromX="2025" fromY="-2959" />
+      <outputs name="Concorde em pagar o preço para remover maldiçoes. [20 gemas preciosas]" ownerID="85" targetID="86" fromX="2025" fromY="-2959" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="85" targetID="62" fromX="2025" fromY="-3039" />
-      <outputs name="Diga que você não tem o pagamento e vá embora." ownerID="85" targetID="3" fromX="2025" fromY="-3119" />Um dos elfos acena com a cabeça e mostra um lugar para você sentar. &#39;Sua alma está contaminada e precisa de limpeza. Maldições extenuam a luz de nossas almas; assim, o preço será alto e sobrecarregará suas mentes. Curar suas feridas espirituais é mais fácil para mim, então não vou pedir muito em troca.&#39;</nodes>
+      <outputs name="Diga que você não tem o pagamento e vá embora." ownerID="85" targetID="3" fromX="2025" fromY="-3119" />Um dos elfos acena com a cabeça e mostra um lugar para você sentar. &#39;Sua alma está contaminada e precisa de limpeza. Maldiçoes extenuam a luz de nossas almas; assim, o preço será alto e sobrecarregará suas mentes. Curar suas feridas espirituais é mais fácil para mim, então não vou pedir muito em troca.&#39;</nodes>
     <nodes xsi:type="NodeTrade" ID="86" positionX="2168" positionY="-2108" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="gems" startingBalance="-20">
       <logic>
         <FilterBlock>
@@ -4562,7 +4562,7 @@ The elves are impressed with your efforts:
       <outputs name="[Leshy] Domine o vil e peça obediência!" ownerID="3" targetID="50" fromX="-377" fromY="1070" />
       <outputs name="Prepare uma armadilha para o bando e ataque quando eles estiverem enfraquecidos." ownerID="3" targetID="30" fromX="-377" fromY="990" />
       <outputs name="[Usuário de magia] Estes vilmente parecem tomados por alguma maldição sombria. Tente quebrá-lo para liberá-los!" ownerID="3" targetID="52" fromX="-377" fromY="909" />
-      <outputs name="[Leshy] Você sente que esses vilões são mantidos por alguma força estranha. Use sua voz da floresta para pedir obediência!" ownerID="3" targetID="6" fromX="-377" fromY="829" />You get in closer and observe. The vily are swirling around a single young sapling. They seem crazed, snapping and hissing at the tree. </nodes>
+      <outputs name="[Leshy] Você sente que esses viloes são mantidos por alguma força estranha. Use sua voz da floresta para pedir obediência!" ownerID="3" targetID="6" fromX="-377" fromY="829" />You get in closer and observe. The vily are swirling around a single young sapling. They seem crazed, snapping and hissing at the tree. </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1079.43433" positionY="-21.7207184" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -4644,7 +4644,7 @@ The elves are impressed with your efforts:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="7" targetID="40" fromX="371.622345" fromY="2556.71118" />Você percebe que os vilões estão possuídos por algum feitiço estranho, mas sua presença os tira do transe e eles se tornam eles mesmos novamente. Os ventos se acalmam e os demônios voltam às suas funções. Os elfos estão muito gratos por sua ajuda e pela resolução pacífica.
+      <outputs name="Sair." ownerID="7" targetID="40" fromX="371.622345" fromY="2556.71118" />Você percebe que os viloes estão possuídos por algum feitiço estranho, mas sua presença os tira do transe e eles se tornam eles mesmos novamente. Os ventos se acalmam e os demônios voltam às suas funçoes. Os elfos estão muito gratos por sua ajuda e pela resolução pacífica.
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="9" positionX="1628.83765" positionY="-63.5564461" width="460" height="509" sourceGroup="GROUP-VILY_4P_4M_3S" cargoPercentage="100" dropPercentage="40">
       <outputs ownerID="9" targetID="12" group="G1" fromX="2059" fromY="-421" />
@@ -4707,7 +4707,7 @@ The elves are impressed with your efforts:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="17" targetID="36" fromX="2050" fromY="340" />Você descobre que os vilões estão em transe e observa o padrão de seu vôo por um tempo. Isso leva você a um pequeno ídolo de madeira, enterrado nas proximidades. Você o destrói e os vilões são liberados. Eles voam para longe de vergonha, mas os elfos estão muito gratos por sua inteligente resolução.
+      <outputs name="Sair." ownerID="17" targetID="36" fromX="2050" fromY="340" />Você descobre que os viloes estão em transe e observa o padrão de seu vôo por um tempo. Isso leva você a um pequeno ídolo de madeira, enterrado nas proximidades. Você o destrói e os viloes são liberados. Eles voam para longe de vergonha, mas os elfos estão muito gratos por sua inteligente resolução.
  </nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2826.896" positionY="66.20495" width="350" height="681">
       <logic>
@@ -4842,7 +4842,7 @@ The vily fly away and the elves are grateful for your help.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="42" targetID="40" fromX="349.8179" fromY="1765.35986" />Você percebe que os vilões estão possuídos por algum feitiço estranho, e por um tempo isso também leva você. Você devasta a floresta com suas irmãs, matando mudas jovens que poderiam ter crescido em leshy um dia. Os elfos têm que intervir e detê-lo, e eles não estão impressionados com sua &#39;ajuda&#39;.
+      <outputs name="Sair." ownerID="42" targetID="40" fromX="349.8179" fromY="1765.35986" />Você percebe que os viloes estão possuídos por algum feitiço estranho, e por um tempo isso também leva você. Você devasta a floresta com suas irmãs, matando mudas jovens que poderiam ter crescido em leshy um dia. Os elfos têm que intervir e detê-lo, e eles não estão impressionados com sua &#39;ajuda&#39;.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="47" positionX="2749.97656" positionY="601.730957" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="6" maxDamage="15" useCountInPercent="false" targetGroup="ppl">
       <outputs ownerID="47" targetID="27" fromX="3179" fromY="213" />
@@ -4873,7 +4873,7 @@ The vily fly away and the elves are grateful for your help.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="50" targetID="36" group="G1" fromX="849" fromY="-441" />Os vil ouvem sua floresta chorar e param em suas trilhas. O que quer que os tenha levado a essa loucura acaba, e eles se curvam à sua vontade com desculpas. Eles prometem reparar qualquer dano. Os vilões voam para longe, mas deixam você com um presente, e os elfos agradecem sua ajuda.
+      <outputs name="Sair." ownerID="50" targetID="36" group="G1" fromX="849" fromY="-441" />Os vil ouvem sua floresta chorar e param em suas trilhas. O que quer que os tenha levado a essa loucura acaba, e eles se curvam à sua vontade com desculpas. Eles prometem reparar qualquer dano. Os viloes voam para longe, mas deixam você com um presente, e os elfos agradecem sua ajuda.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="2436.24951" positionY="1428.014" width="350" height="681">
       <logic>
@@ -5669,7 +5669,7 @@ Your friendship suffers for it.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você percebe um dos cavalos vivo e observando você. Aproxime-se." ownerID="49" targetID="20" group="G1" fromX="2379" fromY="-2082" />
-      <outputs name="Sair." ownerID="49" targetID="21" group="G1" fromX="2379" fromY="-2162" />Os esqueletos ouvem você e se afastam da floresta. A harmonia é satisfeita por suas ações. Você também encontra os restos de uma carroça de cavalos e pessoas mortas que foram atacadas pelos esqueletos. Os elfos estão inseguros quanto a deixar o flagelo antinatural ir livre, mas eles honram seu acordo e deixam o pagamento.</nodes>
+      <outputs name="Sair." ownerID="49" targetID="21" group="G1" fromX="2379" fromY="-2162" />Os esqueletos ouvem você e se afastam da floresta. A harmonia é satisfeita por suas açoes. Você também encontra os restos de uma carroça de cavalos e pessoas mortas que foram atacadas pelos esqueletos. Os elfos estão inseguros quanto a deixar o flagelo antinatural ir livre, mas eles honram seu acordo e deixam o pagamento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="2585" positionY="-1582" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -5688,7 +5688,7 @@ Your friendship suffers for it.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Você percebe um dos cavalos vivo e observando você. Aproxime-se." ownerID="50" targetID="20" group="G1" fromX="2910" fromY="-2073" />
-      <outputs name="Sair." ownerID="50" targetID="21" group="G1" fromX="2910" fromY="-2153" />Os esqueletos ouvem você e se afastam da floresta. A harmonia é satisfeita por suas ações. Você também encontra os restos de uma carroça de cavalos e pessoas mortas que foram atacadas pelos esqueletos. Os elfos estão inseguros quanto a deixar o flagelo antinatural ir livre, mas eles honram seu acordo e deixam o pagamento.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="21" group="G1" fromX="2910" fromY="-2153" />Os esqueletos ouvem você e se afastam da floresta. A harmonia é satisfeita por suas açoes. Você também encontra os restos de uma carroça de cavalos e pessoas mortas que foram atacadas pelos esqueletos. Os elfos estão inseguros quanto a deixar o flagelo antinatural ir livre, mas eles honram seu acordo e deixam o pagamento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="-598.1335" positionY="-259.796936" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -6134,7 +6134,7 @@ Your friendship suffers for it.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Você sabe como lidar com rufiões - você se envolveu com essa vida também. Fale com eles." ownerID="2" targetID="3" fromX="763" fromY="-532" />
+      <outputs name="Você sabe como lidar com rufioes - você se envolveu com essa vida também. Fale com eles." ownerID="2" targetID="3" fromX="763" fromY="-532" />
       <outputs name="[Orc Matriarca] Diga para eles irem agora!" ownerID="2" targetID="4" fromX="763" fromY="-612" />
       <outputs name="[Intelecto e harmonia] Convença os bandidos de que é mais sensato sair do que enfrentar você - e depois enfrentar os elfos também." ownerID="2" targetID="16" fromX="763" fromY="-693" />
       <outputs name="Pague os orcs para sair." ownerID="2" targetID="15" fromX="763" fromY="-773" />
@@ -7567,7 +7567,7 @@ They disappear into the forest, but you know you are still being watched.</nodes
       <outputs name="Reúna o que você pode encontrar e sair." ownerID="18" targetID="43" fromX="1253" fromY="-2177" />
       <outputs name="Beba da primavera de qualquer maneira. Em seguida, colete qualquer saque e saia." ownerID="18" targetID="40" group="G1" fromX="1253" fromY="-2257" />
       <outputs name="Beba da primavera de qualquer maneira. Em seguida, colete qualquer saque e saia." ownerID="18" targetID="36" group="G1" fromX="1253" fromY="-2338" />
-      <outputs name="Beba da primavera de qualquer maneira. Em seguida, colete qualquer saque e saia." ownerID="18" targetID="38" group="G1" fromX="1253" fromY="-2418" />Você mata os guardiões élficos e fica livre para saquear essas ruínas. No entanto, quando você se aproxima do local que eles guardavam, uma pequena fonte corrente, suas águas ficam pretas.</nodes>
+      <outputs name="Beba da primavera de qualquer maneira. Em seguida, colete qualquer saque e saia." ownerID="18" targetID="38" group="G1" fromX="1253" fromY="-2418" />Você mata os guardioes élficos e fica livre para saquear essas ruínas. No entanto, quando você se aproxima do local que eles guardavam, uma pequena fonte corrente, suas águas ficam pretas.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="19" positionX="3085" positionY="-1529" width="350" height="530" allPlayersXP="6" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -7732,7 +7732,7 @@ They disappear into the forest, but you know you are still being watched.</nodes
       <outputs name="Reúna o que você pode encontrar e sair." ownerID="37" targetID="43" fromX="777" fromY="-2498" />
       <outputs name="Beba da primavera de qualquer maneira. Em seguida, colete qualquer saque e saia." ownerID="37" targetID="40" group="G1" fromX="777" fromY="-2578" />
       <outputs name="Beba da primavera de qualquer maneira. Em seguida, colete qualquer saque e saia." ownerID="37" targetID="36" group="G1" fromX="777" fromY="-2658" />
-      <outputs name="Beba da primavera de qualquer maneira. Em seguida, colete qualquer saque e saia." ownerID="37" targetID="38" group="G1" fromX="777" fromY="-2738" />Você mata os guardiões élficos e fica livre para saquear essas ruínas. No entanto, quando você se aproxima do local que eles guardavam, uma pequena fonte corrente, suas águas ficam pretas. and you know the guardians must have cursed it with their dying breath.</nodes>
+      <outputs name="Beba da primavera de qualquer maneira. Em seguida, colete qualquer saque e saia." ownerID="37" targetID="38" group="G1" fromX="777" fromY="-2738" />Você mata os guardioes élficos e fica livre para saquear essas ruínas. No entanto, quando você se aproxima do local que eles guardavam, uma pequena fonte corrente, suas águas ficam pretas. and you know the guardians must have cursed it with their dying breath.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="38" positionX="1431.79028" positionY="-2676.08374" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="4" maxDamage="8" useCountInPercent="false" targetGroup="ppl">
       <logic>
         <ModifierBlock>
@@ -8557,7 +8557,7 @@ They disappear into the forest, but you know you are still being watched.</nodes
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="36" targetID="53" fromX="1443.326" fromY="-2124.80249" />Você mata os guardiões e tenta saquear a árvore de seus cristais, mas cada um que você toca simplesmente vira pó. A cada cristal que desaparece, você sente uma mancha em sua alma élfica.</nodes>
+      <outputs name="Sair." ownerID="36" targetID="53" fromX="1443.326" fromY="-2124.80249" />Você mata os guardioes e tenta saquear a árvore de seus cristais, mas cada um que você toca simplesmente vira pó. A cada cristal que desaparece, você sente uma mancha em sua alma élfica.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="39" positionX="1553.89856" positionY="1335.74731" width="350" height="408" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="40" positionX="3283.715" positionY="-569.89624" width="350" height="360.8" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="42" positionX="4126.166" positionY="3277.01343" width="460" height="459.36" challengeTypeDamage="TypeSpirit" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="woodkin">
@@ -9858,7 +9858,7 @@ The tears can grant boons if given by a guardian willingly.'</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Isso é problemático, sim. Mas com o mundo se despedaçando, eles realmente não farão nada agora?" ownerID="5" targetID="6" fromX="1730" fromY="-1396" />— Sim, sim, e pode demorar um pouco mais para chegar a um acordo. Não estivemos tão divididos desde antes do Despertar. É problemático para dizer o mínimo. E já que vocês são parentes, direi que acho peculiar como o conselho sabia exatamente o que aconteceu e as ramificações com tantos detalhes, quase como se um deles pudesse fornecer uma conta. . .&#39;</nodes>
+      <outputs name="Isso é problemático, sim. Mas com o mundo se despedaçando, eles realmente não farão nada agora?" ownerID="5" targetID="6" fromX="1730" fromY="-1396" />— Sim, sim, e pode demorar um pouco mais para chegar a um acordo. Não estivemos tão divididos desde antes do Despertar. É problemático para dizer o mínimo. E já que vocês são parentes, direi que acho peculiar como o conselho sabia exatamente o que aconteceu e as ramificaçoes com tantos detalhes, quase como se um deles pudesse fornecer uma conta. . .&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1969" positionY="-465" width="350" height="725">
       <outputs name="Bom, como?" ownerID="6" targetID="8" fromX="2294" fromY="-956" />“É devastador e continuará a fazê-lo por um tempo considerável. Essas coisas não acontecem apenas durante uma vida mortal ou duas. Mas não vim aqui para desanimar. Estou preocupado que este conflito possa nos prejudicar. Portanto, prefiro ajudá-lo a resolver o assunto.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="941" positionY="-944" width="350" height="725">
@@ -9910,7 +9910,7 @@ The tears can grant boons if given by a guardian willingly.'</nodes>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="-3829" positionY="-86" width="350" height="805">
       <outputs name="Agradeça a ajuda e vá embora." ownerID="18" targetID="20" fromX="-3503" fromY="-577" />
-      <outputs name="[Elf] Como exatamente eles estão fazendo este coração? Até onde você sabe, não é um ofício dos parentes mais velhos forjar corações de pedra viva, e os gigantes já se foram há muito tempo." ownerID="18" targetID="19" fromX="-3503" fromY="-657" />'Go back to your red cave where the Alchemist awaits. We will provide a new earth-heart as well as aid in defeating the light-beast that sits in the heart chamber. You have our solemn word on this.
+      <outputs name="[Elf] Como exatamente eles estão fazendo este coração? Até onde você sabe, não é um ofício dos parentes mais velhos forjar coraçoes de pedra viva, e os gigantes já se foram há muito tempo." ownerID="18" targetID="19" fromX="-3503" fromY="-657" />'Go back to your red cave where the Alchemist awaits. We will provide a new earth-heart as well as aid in defeating the light-beast that sits in the heart chamber. You have our solemn word on this.
 
 I believe Nai-ysir wishes to accompany you to achieve this goal?'
 
@@ -10049,7 +10049,7 @@ So how can one listen to your plea when only a part of you is true?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2971" positionY="202" width="350" height="1046">
       <outputs name="[Light]Parece uma perversão do seu domínio. Um extremo que não deveria ser." ownerID="10" targetID="39" fromX="3296" fromY="-289" />
       <outputs name="[Luz ou Harmonia] Sim, você pode ver o ponto dela. Se os portadores da luz levarem tudo, o mundo será mais seguro e mais pacífico." ownerID="10" targetID="12" fromX="3296" fromY="-369" />
-      <outputs name="[Sabedoria] Parece que muita amargura fala através dela. Isso é realmente uma busca para que o mundo encontre a paz, ou para se livrar da emoção mortal, das conexões humanas em favor de uma mente que não distinguirá sua dor da outra e, assim, fará com que tudo desapareça?" ownerID="10" targetID="11" fromX="3296" fromY="-449" />
+      <outputs name="[Sabedoria] Parece que muita amargura fala através dela. Isso é realmente uma busca para que o mundo encontre a paz, ou para se livrar da emoção mortal, das conexoes humanas em favor de uma mente que não distinguirá sua dor da outra e, assim, fará com que tudo desapareça?" ownerID="10" targetID="11" fromX="3296" fromY="-449" />
       <outputs name="É controverso, mas talvez ela tenha razão. Qual é a sugestão dela, então? Se você deixar o mundo se despedaçar, como isso traz paz?" ownerID="10" targetID="13" fromX="3296" fromY="-529" />
       <outputs name="Isso é loucura - nem luz nem escuridão devem governar, pois o povo de Thea sofrerá. Os deuses foram encarregados de salvaguardar o equilíbrio, e você deve seguir o caminho deles. Ela esqueceu que os elfos também faziam esses votos?" ownerID="10" targetID="40" fromX="3296" fromY="-609" />'Yes, yes! And I appreciate how terrifying it may seem to creatures so used to their mortal coil, but try to expand your mind. 
 
@@ -10116,7 +10116,7 @@ It isn't taking anything away -- it is simply uniting all in true equality. When
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="[Goblin] Diga que sua espécie há muito está comprometida com o povo da floresta, com as antigas tradições e o mundo cinzento que mantém os espíritos desta terra. Ela realmente vai ser a única a destruir a ordem das coisas? Isso soa como algo que uma criatura de turbulência e escuridão apreciaria, não alguém que serve à ordem." ownerID="16" targetID="41" fromX="2307" fromY="-1829" />
+      <outputs name="[Goblin] Diga que sua espécie há muito está comprometida com o povo da floresta, com as antigas tradiçoes e o mundo cinzento que mantém os espíritos desta terra. Ela realmente vai ser a única a destruir a ordem das coisas? Isso soa como algo que uma criatura de turbulência e escuridão apreciaria, não alguém que serve à ordem." ownerID="16" targetID="41" fromX="2307" fromY="-1829" />
       <outputs name="Qual é o objetivo dela? Ela quer que os portadores da luz nos levem a todos e que a Destruição destrua a terra?" ownerID="16" targetID="8" fromX="2307" fromY="-1909" />
       <outputs name="Ela está além da razão. Ataque-a e arraste-a de volta para os elfos!" ownerID="16" targetID="43" fromX="2307" fromY="-1989" />Ail'yleth frowns and lets out a sigh:
 
@@ -10124,8 +10124,8 @@ It isn't taking anything away -- it is simply uniting all in true equality. When
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1445" positionY="944" width="350" height="725">
       <outputs name="Como assim?" ownerID="17" targetID="18" fromX="1770" fromY="452" />'Scholars devoted to intellect frowned upon the mystical and sought to rid our world of all magic. If not for my intervention, they would have succeeded in burning the tree and later destroying the seed.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="1968" positionY="1232" width="350" height="805">
-      <outputs name="Essa não é a história que você ouviu; a árvore cósmica foi salva pelos campeões." ownerID="18" targetID="19" fromX="2293" fromY="740" />
-      <outputs name="Concorde com a cabeça, mas pergunte quais são os planos dela agora. Para a terra se despedaçar?" ownerID="18" targetID="8" fromX="2293" fromY="660" />— Eles corromperam os campeões de seus deuses e os fizeram queimar o que pensavam ser a última semente da árvore cósmica. Mas consegui convencer alguns tolos a destruir o coração da terra a tempo. A luz que escapou ajudou a árvore cósmica a renascer. Você e seus deuses, vocês me devem.</nodes>
+      <outputs name="Essa não é a história que você ouviu; a árvore cósmica foi salva pelos campeoes." ownerID="18" targetID="19" fromX="2293" fromY="740" />
+      <outputs name="Concorde com a cabeça, mas pergunte quais são os planos dela agora. Para a terra se despedaçar?" ownerID="18" targetID="8" fromX="2293" fromY="660" />— Eles corromperam os campeoes de seus deuses e os fizeram queimar o que pensavam ser a última semente da árvore cósmica. Mas consegui convencer alguns tolos a destruir o coração da terra a tempo. A luz que escapou ajudou a árvore cósmica a renascer. Você e seus deuses, vocês me devem.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2455" positionY="1315" width="350" height="725">
       <outputs name="Concorde com a cabeça, mas pergunte quais são os planos dela agora. Para a terra se despedaçar?" ownerID="19" targetID="8" fromX="2780" fromY="823" />'Trust the stories of fallible mortals or those of an eternal being who bore witness to the mortal fallacy that was the burning. I care not which version you trust.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="1008" positionY="971" width="350" height="805">
@@ -10145,7 +10145,7 @@ It isn't taking anything away -- it is simply uniting all in true equality. When
       <outputs name="Qual é o objetivo dela? Ela quer que os portadores da luz nos levem a todos e que a Destruição destrua a terra?" ownerID="24" targetID="8" fromX="249" fromY="-2187" />&#39;Nyia, aquela que agora carrega os deveres de Veles e Morena, a mais nova dama da morte - naquela época ela era apenas uma das muitas filhas, mensageiras. Suponho que meu ardil forçou a morte dos antigos deuses, e assim Nyia ascendeu à divindade. Dessa forma, não enganei os tolos.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="4605" positionY="95" width="350" height="805">
       <outputs name="Então ela irá ajudá-lo a tirar o anão da prisão e reforjar um coração terrestre?" ownerID="25" targetID="26" fromX="4930" fromY="-396" />
-      <outputs name="Não, Nai-ysir enviou você aqui para levar Ail&#39;yleth à justiça, e é isso que você fará." ownerID="25" targetID="27" fromX="4930" fromY="-476" />&#39;Oh não, não, por favor, não escolha esse caminho! Eu irei com você para a prisão do grande mestre anão. Ele deve forjar um novo coração para você. Pois se voltarmos aos meus parentes e eles decidirem ajudá-lo, eles sentirão a culpa de minhas ações, eles procurarão assumir a responsabilidade. Temo pelo que eles sacrificarão para ajudá-lo. Por favor, não me faça seguir esse caminho!&#39;</nodes>
+      <outputs name="Não, Nai-ysir enviou você aqui para levar Ail&#39;yleth à justiça, e é isso que você fará." ownerID="25" targetID="27" fromX="4930" fromY="-476" />&#39;Oh não, não, por favor, não escolha esse caminho! Eu irei com você para a prisão do grande mestre anão. Ele deve forjar um novo coração para você. Pois se voltarmos aos meus parentes e eles decidirem ajudá-lo, eles sentirão a culpa de minhas açoes, eles procurarão assumir a responsabilidade. Temo pelo que eles sacrificarão para ajudá-lo. Por favor, não me faça seguir esse caminho!&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="5019" positionY="390" width="350" height="885">
       <outputs name="[Elf] Aceite o juramento dela, pois você sabe que ela não pode quebrá-lo sem consequências." ownerID="26" targetID="35" fromX="5344" fromY="-101" />
       <outputs name="Aceitar." ownerID="26" targetID="53" fromX="5344" fromY="-181" />
@@ -10299,7 +10299,7 @@ I will then create an illusion to shield the chamber from future champions and s
     <nodes xsi:type="NodeAdventure" ID="52" positionX="2449" positionY="-110" width="350" height="1046">
       <outputs name="[Light]Parece uma perversão do seu domínio. Um extremo que não deveria ser." ownerID="52" targetID="39" fromX="2774" fromY="-601" />
       <outputs name="[Luz ou Harmonia] Sim, você pode ver o ponto dela. Se os portadores da luz levarem tudo, o mundo será mais seguro e mais pacífico." ownerID="52" targetID="12" fromX="2774" fromY="-681" />
-      <outputs name="[Sabedoria] Parece que muita amargura fala através dela. Isso é realmente uma busca para que o mundo encontre a paz, ou para se livrar da emoção mortal, das conexões humanas em favor de uma mente que não distinguirá sua dor da outra e, assim, fará com que tudo desapareça?" ownerID="52" targetID="11" fromX="2774" fromY="-761" />
+      <outputs name="[Sabedoria] Parece que muita amargura fala através dela. Isso é realmente uma busca para que o mundo encontre a paz, ou para se livrar da emoção mortal, das conexoes humanas em favor de uma mente que não distinguirá sua dor da outra e, assim, fará com que tudo desapareça?" ownerID="52" targetID="11" fromX="2774" fromY="-761" />
       <outputs name="É controverso, mas talvez ela tenha razão. Qual é a sugestão dela, então? Se você deixar o mundo se despedaçar, como isso traz paz?" ownerID="52" targetID="13" fromX="2774" fromY="-841" />
       <outputs name="Isso é loucura - nem a luz nem as trevas devem governar, pois o povo de Thea sofrerá. Os deuses foram encarregados de salvaguardar o equilíbrio, e você deve seguir o caminho deles. Ela esqueceu que os elfos também faziam esses votos?" ownerID="52" targetID="40" fromX="2774" fromY="-921" />— Um breve relato, sim. Eu sou um campeão da luz. Desejo que os portadores da luz tenham sucesso para que todos nos tornemos um, em paz. Verdadeira igualdade e harmonia. Eu causei a Quebra, mas se você seguir meu plano, a terra vai parar de quebrar a tempo. A luz dominará as trevas de uma vez por todas.&#39;</nodes>
     <nodes xsi:type="NodeAdventure" ID="53" positionX="6003" positionY="546" width="350" height="725">
@@ -10552,7 +10552,7 @@ She chants a spell and the light-beast grows and spreads. She shouts to you:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá em frente para enfrentar os guardiões." ownerID="3" targetID="4" fromX="1256" fromY="-621" />&#39;Eu estou aqui. Mas encontramos uma pequena complicação. O caminho para a câmara de luz é guardado por estátuas anãs. Parece que seu Alquimista reativou a antiga rede de segurança, provavelmente suspeitando de sua mudança de opinião. Então, vamos matar aqueles tolos de pedra e libertar a fera.
+      <outputs name="Vá em frente para enfrentar os guardioes." ownerID="3" targetID="4" fromX="1256" fromY="-621" />&#39;Eu estou aqui. Mas encontramos uma pequena complicação. O caminho para a câmara de luz é guardado por estátuas anãs. Parece que seu Alquimista reativou a antiga rede de segurança, provavelmente suspeitando de sua mudança de opinião. Então, vamos matar aqueles tolos de pedra e libertar a fera.
 
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="4" positionX="1376" positionY="-360" width="480" height="503" radius="0" destroyOwner="false" linkedEventUniqueID="0">

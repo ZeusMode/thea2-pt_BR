@@ -383,7 +383,7 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="2824" positionY="653" width="350" height="966" image="Event002">
-      <outputs name="Há uma espécie de prefeitura, onde as pessoas pagam suas dívidas, elas fazem isso liberando energia escura, para que você possa se livrar de suas maldições dessa maneira." ownerID="11" targetID="21" fromX="3149" fromY="161" />
+      <outputs name="Há uma espécie de prefeitura, onde as pessoas pagam suas dívidas, elas fazem isso liberando energia escura, para que você possa se livrar de suas maldiçoes dessa maneira." ownerID="11" targetID="21" fromX="3149" fromY="161" />
       <outputs name="Uma cabana de herbalista está interessada em toxinas, elas drenarão as suas, mas o procedimento não é totalmente seguro." ownerID="11" targetID="22" fromX="3149" fromY="81" />
       <outputs name="Uma bruxa está se oferecendo para vender alguns de seus familiares para você." ownerID="11" targetID="13" fromX="3149" fromY="1" />
       <outputs name="Simplesmente aproveite a visita, converse com as pessoas e descanse." ownerID="11" targetID="12" fromX="3149" fromY="-78" />A escuridão pesa sobre sua natureza, mas você passa e entra na cidade, situada dentro de uma caverna escondida. Aqui, você pode visitar alguns lugares que estão abertos a pessoas de fora.
@@ -630,7 +630,7 @@
       <outputs name="Voltar." ownerID="27" targetID="4" fromX="1349" fromY="-1357" />'Ah, followers of the darker paths. Good. Beware though, darkness is not one to throw many favours, seeing as you are no friends of ours, you will still need to face the black mists whims if you wish to come in.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="29" positionX="-913" positionY="-63" width="350" height="530" linkedEventUniqueID="31" />
     <nodes xsi:type="NodeAdventure" ID="30" positionX="-869" positionY="-663" width="350" height="1046" image="Event002">
-      <outputs name="Há uma espécie de prefeitura, onde as pessoas pagam suas dívidas, elas fazem isso liberando energia escura, para que você possa se livrar de suas maldições dessa maneira." ownerID="30" targetID="21" fromX="-543" fromY="-1154" />
+      <outputs name="Há uma espécie de prefeitura, onde as pessoas pagam suas dívidas, elas fazem isso liberando energia escura, para que você possa se livrar de suas maldiçoes dessa maneira." ownerID="30" targetID="21" fromX="-543" fromY="-1154" />
       <outputs name="Uma cabana de herbalista está interessada em toxinas, elas drenarão as suas, mas o procedimento não é totalmente seguro." ownerID="30" targetID="22" fromX="-543" fromY="-1234" />
       <outputs name="Uma bruxa está se oferecendo para vender alguns de seus familiares para você." ownerID="30" targetID="13" fromX="-543" fromY="-1314" />
       <outputs name="Simplesmente aproveite a visita, converse com as pessoas e descanse." ownerID="30" targetID="12" fromX="-543" fromY="-1394" />

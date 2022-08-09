@@ -16,15 +16,15 @@
 		<Entry Key="QUEST_MQ_HAHALEK_DES" Val="O demônio falou da luz prejudicando-o, de sua casa não ser segura e assim forçar até mesmo um demônio da casa a trabalhar para os bandidos. Os portadores da luz estão claramente perturbando o equilíbrio na terra."></Entry>
 		<Entry Key="QUEST_MQ_HAHALEK2_DES" Val="Você matou o demônio traquina, mas é estranho que um demônio da casa trabalhasse para bandidos. Demônios parecem estar agindo estranhamente nos dias de hoje."></Entry>
 		<Entry Key="QUEST_MQ_CMUCH" Val="Você encontrou um pântano estranhamente vazio com apenas um sapo de aparência estranha."></Entry>
-		<Entry Key="QUEST_MQ_CMUCH_DES" Val="O sapo pediu para ser levado para uma cabana de bruxa nas proximidades. Ele lhe deu instruções, então você deve ver a cabana se procurar."></Entry>
+		<Entry Key="QUEST_MQ_CMUCH_DES" Val="O sapo pediu para ser levado para uma cabana de bruxa nas proximidades. Ele lhe deu instruçoes, então você deve ver a cabana se procurar."></Entry>
 		<Entry Key="QUEST_MQ_CMUCH2_DES" Val="Você matou o sapo estranho."></Entry>
 		<Entry Key="QUEST_MQ_CMUCH3_DES" Val="Você saiu do pântano."></Entry>
 		<Entry Key="QUEST_MQ_BABA" Val="Você encontrou a cabana da bruxa e a bruxa dentro: uma baba yaga. Ela pediu o sapo."></Entry>
 		<Entry Key="QUEST_MQ_BABA_DES" Val="O sapo parecia um demônio, mas na verdade era um vodnik amaldiçoado. O &amp;#39;príncipe&amp;#39; estava grato por sua libertação. Ele lhe falou de demônios sendo queimados pela luz que veio do solo. Alguns morreram, outros mudaram. Esta luz está claramente envenenando a terra."></Entry>
 		<Entry Key="QUEST_MQ_BABA2_DES" Val="Você falhou em desfazer a maldição do cmuch, mas o yaga mencionou algo sobre os demônios do pântano desaparecendo após a Destruição e uma luz aparecendo. Provavelmente outro caso de intromissão dos Lightbringers."></Entry>
-		<Entry Key="QUEST_MQ_BABA3_DES" Val="Você atacou a baba yaga e não conseguiu informações dela ou do cmuch. Fique de olho nos sinais das atividades dos portadores da luz."></Entry>
+		<Entry Key="QUEST_MQ_BABA3_DES" Val="Você atacou a baba yaga e não conseguiu informaçoes dela ou do cmuch. Fique de olho nos sinais das atividades dos portadores da luz."></Entry>
 		<Entry Key="QUEST_MQ_BABA4_DES" Val="Você deixou o sapo com a yaga. Ela mencionou algo sobre os demônios do pântano desaparecendo após a Fragmentação e uma luz aparecendo. Provavelmente outro caso de intromissão dos Lightbringers."></Entry>
-		<Entry Key="QUEST_MQ_BABA5_DES" Val="Você atacou o vodnik e não obteve informações dele ou do yaga. Fique de olho nos sinais das atividades dos portadores da luz."></Entry>
+		<Entry Key="QUEST_MQ_BABA5_DES" Val="Você atacou o vodnik e não obteve informaçoes dele ou do yaga. Fique de olho nos sinais das atividades dos portadores da luz."></Entry>
 		<Entry Key="QUEST_MQ_WISPS" Val="Você foi assaltado por mechas de luz."></Entry>
 		<Entry Key="QUEST_MQ_WISPS_DES" Val="Eventualmente, as mechas piscam em direção ao sol e desaparecem. Você vê carcaças queimadas de insetos e pequenas criaturas ao seu redor, mas também vê um pequeno grupo de seres estranhamente emparelhados se afastando em uníssono, como se tentassem seguir os fogos-fátuos. Este flagelo da luz precisa ser detido. Fique de olho em um caminho."></Entry>
 		<Entry Key="QUEST_MQ_AMBUSH" Val="Você é emboscado pelos canalhas que levaram seus bens mais cedo."></Entry>
@@ -53,7 +53,7 @@
 		<Entry Key="QUEST_MQ_SCAVENGERS7_DES" Val="Os catadores estão felizes com seus resultados e ajudam você a entrar na Caverna Vermelha. O Alquimista estará esperando por você na entrada quando estiver pronto."></Entry>
 		<Entry Key="QUEST_MQ_SCAVENGERS8_DES" Val="Você vê os restos de um assentamento de catadores que foi destruído. Talvez os bandidos tenham decidido lidar com eles afinal."></Entry>
 		<Entry Key="QUEST_MQ_YAGA" Val="Você encontrou a cabana de bruxas que os bandidos queriam destruir."></Entry>
-		<Entry Key="QUEST_MQ_YAGA_DES" Val="Suas ações falharam. A casa muda e treme, e você sente que ela está se tornando muito hostil com você. Você pode tentar atacar mais tarde ou encontrar outro caminho."></Entry>
+		<Entry Key="QUEST_MQ_YAGA_DES" Val="Suas açoes falharam. A casa muda e treme, e você sente que ela está se tornando muito hostil com você. Você pode tentar atacar mais tarde ou encontrar outro caminho."></Entry>
 		<Entry Key="QUEST_MQ_YAGA2_DES" Val="Você conseguiu lidar com a bruxa, então você pode voltar para os bandidos e relatar seu sucesso."></Entry>
 		<Entry Key="QUEST_MQ_YAGA3_DES" Val="A bruxa te convenceu a não matá-la. Em vez disso, ela ficará escondida por um tempo, então você pode tentar mentir para os bandidos e dizer que a matou."></Entry>
 		<Entry Key="QUEST_MQ_YAGA4_DES" Val="Mas você decidiu sair por enquanto."></Entry>
@@ -69,9 +69,9 @@
 		<Entry Key="QUEST_MQ_MINE8_DES" Val="Você falhou em lidar com os demônios. Você pode tentar novamente ou tentar outro caminho."></Entry>
 		<Entry Key="QUEST_MQ_REDCAVE" Val="Você chegou à Caverna Vermelha, onde o Alquimista espera."></Entry>
 		<Entry Key="QUEST_MQ_REDCAVE_DES" Val="Você tentou passar pela barreira, mas falhou. Você precisa voltar mais forte em força ou magia para tentar novamente."></Entry>
-		<Entry Key="QUEST_MQ_REDCAVE2_DES" Val="Você entrou mais fundo na caverna, mas ela contém mais mistérios e você precisa de ajuda para desvendá-los. Você pode optar por resgatar um velho anão de uma prisão - um caminho difícil, mas direto. Ou você pode procurar ajuda de outras facções, como orcs, goblins, anões ou elfos. Procure qualquer uma de suas aldeias maiores e certifique-se de ser amigável antes de abordá-las."></Entry>
+		<Entry Key="QUEST_MQ_REDCAVE2_DES" Val="Você entrou mais fundo na caverna, mas ela contém mais mistérios e você precisa de ajuda para desvendá-los. Você pode optar por resgatar um velho anão de uma prisão - um caminho difícil, mas direto. Ou você pode procurar ajuda de outras facçoes, como orcs, goblins, anoes ou elfos. Procure qualquer uma de suas aldeias maiores e certifique-se de ser amigável antes de abordá-las."></Entry>
 		<Entry Key="QUEST_MQ_PRISON" Val="Você chegou ao calabouço onde o prisioneiro anão é mantido."></Entry>
-		<Entry Key="QUEST_MQ_PRISON_DES" Val="Você falhou em resgatar o grande mestre anão e foi forçado a sair. Tente novamente, ou talvez procure outros caminhos. Os elfos, anões, goblins ou orcs podem ter respostas para você. Procure por suas aldeias."></Entry>
+		<Entry Key="QUEST_MQ_PRISON_DES" Val="Você falhou em resgatar o grande mestre anão e foi forçado a sair. Tente novamente, ou talvez procure outros caminhos. Os elfos, anoes, goblins ou orcs podem ter respostas para você. Procure por suas aldeias."></Entry>
 		<Entry Key="QUEST_MQ_PRISON2_DES" Val="Você resgatou o anão grande mestre. Hora de retornar à Caverna Vermelha."></Entry>
 		<Entry Key="QUEST_MQ_PRISON3_DES" Val="Você chega onde o prisioneiro anão deveria ser mantido, mas você encontra a terra dividida e apenas escombros onde antes era a entrada."></Entry>
 		<Entry Key="QUEST_MQ_REDCAVEONE" Val="Você voltou para a Caverna Vermelha depois de resgatar o anão grande mestre."></Entry>
@@ -83,7 +83,7 @@
 		<Entry Key="QUEST_MQ_DRUIDTREE4_DES" Val="Você matou a árvore druida e conseguiu o sangue. Hora de retornar à Caverna Vermelha."></Entry>
 		<Entry Key="QUEST_MQ_DRUIDTREE5_DES" Val="A floresta é calma e comum. Você anda e anda, mas não encontra vestígios da árvore druida em nenhum lugar."></Entry>
 		<Entry Key="QUEST_MQ_MROKI" Val="Você encontra o lugar onde uma árvore druida moribunda deveria ser mantida ou presa."></Entry>
-		<Entry Key="QUEST_MQ_MROKI_DES" Val="Você falhou em recuperar o sangue da árvore druida. Tente novamente mais tarde ou tente outro caminho entre as outras facções."></Entry>
+		<Entry Key="QUEST_MQ_MROKI_DES" Val="Você falhou em recuperar o sangue da árvore druida. Tente novamente mais tarde ou tente outro caminho entre as outras facçoes."></Entry>
 		<Entry Key="QUEST_MQ_MROKI2_DES" Val="Você recuperou o sangue da árvore druida. Volte para a Caverna Vermelha."></Entry>
 		<Entry Key="QUEST_MQ_MROKI3_DES" Val="Mas você não encontra nada de interessante aqui."></Entry>
 		<Entry Key="QUEST_MQ_CULT" Val="Você foi atacado por portadores da luz que queriam tomar o sangue do druida."></Entry>
@@ -95,12 +95,12 @@
 		<Entry Key="QUEST_MQ_LIGHTBRINGERS2_DES" Val="Você decidiu não se aproximar por enquanto."></Entry>
 		<Entry Key="QUEST_MQ_LIGHTBRINGERS3_DES" Val="Você foi espancado e forçado a fugir. Você deve tentar novamente se quiser recuperar o sangue do druida."></Entry>
 		<Entry Key="QUEST_MQ_DSTATUES" Val="Você entra na antiga câmara subterrânea onde quatro estátuas anãs guardam a entrada da câmara do coração."></Entry>
-		<Entry Key="QUEST_MQ_DSTATUES_DES" Val="Você derrotou os guardiões e eles pediram para você corrigir seus erros e restaurar o equilíbrio. Volte para a Caverna Vermelha para completar o coração de pedra."></Entry>
-		<Entry Key="QUEST_MQ_DSTATUES2_DES" Val="Você foi derrotado pelos guardiões e eles pedem para você voltar quando estiver pronto."></Entry>
+		<Entry Key="QUEST_MQ_DSTATUES_DES" Val="Você derrotou os guardioes e eles pediram para você corrigir seus erros e restaurar o equilíbrio. Volte para a Caverna Vermelha para completar o coração de pedra."></Entry>
+		<Entry Key="QUEST_MQ_DSTATUES2_DES" Val="Você foi derrotado pelos guardioes e eles pedem para você voltar quando estiver pronto."></Entry>
 		<Entry Key="QUEST_MQ_LIGHTZMEY" Val="Você finalmente entra na câmara do coração onde mora a besta da luz e procura escapar para o mundo."></Entry>
-		<Entry Key="QUEST_MQ_LIGHTZMEY_DES" Val="Você derrotou o light-zmey! Levará tempo para que Thea absorva totalmente as mudanças que suas decisões trouxeram, mas sua tarefa conforme escolhida está cumprida. Por enquanto..."></Entry>
+		<Entry Key="QUEST_MQ_LIGHTZMEY_DES" Val="Você derrotou o light-zmey! Levará tempo para que Thea absorva totalmente as mudanças que suas decisoes trouxeram, mas sua tarefa conforme escolhida está cumprida. Por enquanto..."></Entry>
 		<Entry Key="QUEST_MQ_LIGHTZMEY2_DES" Val="O light-zmey derrota você. Volte quando estiver pronto para enfrentá-lo novamente."></Entry>
-		<Entry Key="QUEST_MQ_MROKINEC" Val="Você rastreia um grupo de mroki. Talvez você possa colher seus corações para o necromante."></Entry>
+		<Entry Key="QUEST_MQ_MROKINEC" Val="Você rastreia um grupo de mroki. Talvez você possa colher seus coraçoes para o necromante."></Entry>
 		<Entry Key="QUEST_MQ_MROKINEC_DES" Val="Você derrotou o mroki. Agora você pode ir para a Caverna Vermelha e encontrar o necromante e encontrar o caminho para a câmara onde a besta da luz espera."></Entry>
 		<Entry Key="QUEST_MQ_MROKINEC2_DES" Val="O mroki derrotou você, mas talvez você possa localizá-lo novamente."></Entry>
 		<Entry Key="QUEST_MQ_ELFPATHBROKEN" Val="O mago élfico confrontou você e exigiu que você seguisse o caminho dela."></Entry>
@@ -114,10 +114,10 @@
 		<Entry Key="QUEST_MQ_NECROMANCER" Val="Você visitou o necromante em sua torre."></Entry>
 		<Entry Key="QUEST_MQ_NECROMANCER_DES" Val="Ele lhe contou sobre seu projeto de liberar o poder das trevas, para que possa destruir a luz. Você concordou em seguir o caminho dele. Cace alguns mroki, nas terras das trevas ou nas terras vulcânicas. Depois, encontre o necromante na Caverna Vermelha para derrotar a besta da luz."></Entry>
 		<Entry Key="QUEST_MQ_NECROMANCER2_DES" Val="Ele lhe contou sobre seu projeto de liberar o poder das trevas, para que possa destruir a luz. Você se recusou a seguir o caminho dele, então agora você deve encontrar outro caminho."></Entry>
-		<Entry Key="QUEST_MQ_DWARFPATH" Val="Você buscou a ajuda dos anões na luta contra os portadores da luz."></Entry>
+		<Entry Key="QUEST_MQ_DWARFPATH" Val="Você buscou a ajuda dos anoes na luta contra os portadores da luz."></Entry>
 		<Entry Key="QUEST_MQ_DWARFPATH_DES" Val="Os presos à terra admitiram sua vergonha em falhar em seu dever e permitir a destruição do coração da terra. Eles vão forjar uma nova runa de coração, mas você precisa procurar o dziad mroz. O antigo demônio mora nas planícies de gelo."></Entry>
 		<Entry Key="QUEST_MQ_DZIAD" Val="Você encontrou o dziad mroz em seu domínio das planícies de gelo."></Entry>
-		<Entry Key="QUEST_MQ_DZIAD_DES" Val="O antigo demônio concordou em entregar a gota de gelo que você precisa para os anões. Agora você pode retornar à caverna para lutar contra a besta da luz."></Entry>
+		<Entry Key="QUEST_MQ_DZIAD_DES" Val="O antigo demônio concordou em entregar a gota de gelo que você precisa para os anoes. Agora você pode retornar à caverna para lutar contra a besta da luz."></Entry>
 		<Entry Key="QUEST_MQ_DZIAD2_DES" Val="Você matou o dziad mroz, então agora você precisa procurar outra maneira de lidar com a besta da luz."></Entry>
 		<Entry Key="QUEST_MQ_DZIAD3_DES" Val="Você não conseguiu obter o coração de gelo do dziad mroz, então agora você precisa procurar outra maneira de lidar com a besta da luz."></Entry>
 		<Entry Key="QUEST_MQ_ELFPATH" Val="Você se aproximou do Woodlandkin em busca de respostas e ajuda com a ameaça do Lightbringer."></Entry>
@@ -130,10 +130,10 @@
 		<Entry Key="QUEST_MQ_ELFMAGE5_DES" Val="Você devolveu o mago elfo ao conselho e eles concordaram em ajudá-lo a destruir a besta da luz. Um enviado irá encontrá-lo de volta à Caverna Vermelha."></Entry>
 		<Entry Key="QUEST_MQ_ELFMAGE6_DES" Val="Você devolveu o mago elfo ao conselho, mas eles não concordaram em ajudá-lo. Nai-ysir ficou com raiva e decidiu se juntar a você, mas agora você deve encontrar outra maneira de lidar com a luz."></Entry>
 		<Entry Key="QUEST_MQ_ELFZMEY" Val="Você encontrou a entrada para a câmara do coração exatamente como Ail&amp;#39;yleth o orientou."></Entry>
-		<Entry Key="QUEST_MQ_ELFZMEY_DES" Val="O mago se junta a você e o guia para enfrentar alguns guardiões anões."></Entry>
-		<Entry Key="QUEST_MQ_ELFZMEY2_DES" Val="Você derrotou os guardiões anões e ajudou a luz-zmey para que um dia, a luz governe Thea. Para melhor ou pior, você completou sua tarefa."></Entry>
-		<Entry Key="QUEST_MQ_ELFZMEY3_DES" Val="Os guardiões anões derrotaram você. Volte quando estiver melhor preparado."></Entry>
-		<Entry Key="QUEST_MQ_ELFZMEYCAVE" Val="Você entrou na câmara do coração para enfrentar os guardas anões e ajudar o light-zmey."></Entry>
+		<Entry Key="QUEST_MQ_ELFZMEY_DES" Val="O mago se junta a você e o guia para enfrentar alguns guardioes anoes."></Entry>
+		<Entry Key="QUEST_MQ_ELFZMEY2_DES" Val="Você derrotou os guardioes anoes e ajudou a luz-zmey para que um dia, a luz governe Thea. Para melhor ou pior, você completou sua tarefa."></Entry>
+		<Entry Key="QUEST_MQ_ELFZMEY3_DES" Val="Os guardioes anoes derrotaram você. Volte quando estiver melhor preparado."></Entry>
+		<Entry Key="QUEST_MQ_ELFZMEYCAVE" Val="Você entrou na câmara do coração para enfrentar os guardas anoes e ajudar o light-zmey."></Entry>
 		<Entry Key="QUEST_THEO_START" Val="Theodore, um ex-demônio da casa, agora um mensageiro divino, visitou você."></Entry>
 		<Entry Key="QUEST_THEO_START_DES" Val="Ele estabeleceu algumas das regras básicas para sobreviver neste mundo. Suas palavras finais foram: &amp;#39;Eu posso aparecer de vez em quando para lhe contar coisas, mas, por enquanto, você deve dar seus primeiros passos nesta terra hostil. Lembre-se de verificar os recursos no mapa para Coletar, montar acampamento para Artesanato e Culinária e verificar seu Inventário para ter certeza de que está bem equipado. Aqui tem um pouco de madeira, então você pode se curar ao acampar. Meu conselho é explorar, aprender os truques e só então decidir se deseja estabelecer um assentamento."></Entry>
 		<Entry Key="QUEST_THEO_VISIT2_DES" Val="Theodore elogiou você pelo seu progresso com os portadores da luz e lhe concedeu uma segunda semente cósmica."></Entry>
@@ -148,9 +148,9 @@
 		<Entry Key="QUEST_THEO_WITCHHOUSE2_DES" Val="Ele estava preocupado que você não se saísse bem, mas disse que você tem tempo para melhorar. Ele mencionou que voltará para uma pequena tarefa final antes que você esteja pronto para as grandes coisas."></Entry>
 		<Entry Key="QUEST_THEO" Val="Teodoro"></Entry>
 		<Entry Key="QUEST_THEO_HERESY" Val="Você encontrou a vila para onde Theodore o enviou."></Entry>
-		<Entry Key="QUEST_THEO_HERESY_DES" Val="Os aldeões apontaram para você a localização de Zbigniev, o escolhido caído, mas tudo o que eles podiam dizer era &amp;#39;vá por ali&amp;#39;. Você deve procurá-lo nas proximidades."></Entry>
+		<Entry Key="QUEST_THEO_HERESY_DES" Val="Os aldeoes apontaram para você a localização de Zbigniev, o escolhido caído, mas tudo o que eles podiam dizer era &amp;#39;vá por ali&amp;#39;. Você deve procurá-lo nas proximidades."></Entry>
 		<Entry Key="QUEST_THEO_HERESY2_DES" Val="Você destruiu a vila e Theodore parece satisfeito com a mensagem firme que isso envia para outros incrédulos. Ele disse que é hora de ele desaparecer. Ele lhe disse para ficar de olho nos portadores da luz e que, com o tempo, você encontrará pistas para sua próxima tarefa."></Entry>
-		<Entry Key="QUEST_THEO_HERESY3_DES" Val="Você atacou os aldeões, mas falhou. Você deve retornar quando estiver melhor preparado."></Entry>
+		<Entry Key="QUEST_THEO_HERESY3_DES" Val="Você atacou os aldeoes, mas falhou. Você deve retornar quando estiver melhor preparado."></Entry>
 		<Entry Key="QUEST_THEO_ZBIGNIEV" Val="Você encontrou Zbigniev, o escolhido caído que parecia muito zangado com os deuses."></Entry>
 		<Entry Key="QUEST_THEO_ZBIGNIEV_DES" Val="Você lidou com o herege e Theodore apareceu para falar com você. Ele disse que é hora de ele desaparecer. Ele lhe disse para ficar de olho nos portadores da luz e que, com o tempo, você encontrará pistas para sua próxima tarefa."></Entry>
 		<Entry Key="QUEST_DIVINELOGBOOK" Val="caminho divino"></Entry>
@@ -161,12 +161,12 @@
 		<Entry Key="QUEST_DIV_PATH_ONEA_DES" Val="O colocado provou ser o templo caído de Jarillo, um deus esquecido. Ele lhe falou de Perun, o pai do panteão, e o incitou a descobrir o que aconteceu com o deus do trovão, para que seu próprio caminho divino fique mais claro. Você deve ir para as terras de gelo, onde encontrará sua próxima tarefa."></Entry>
 		<Entry Key="QUEST_DIV_PATH_ONEB_DES" Val="O lugar provou ser uma das raízes divinas da velha deusa Mokosh. Alguns portadores da luz estavam atacando a raiz, e você tinha que lidar com eles. Quando você tocou a raiz, você sabia que deveria procurar outro lugar assim e descobrir a verdade do destino de Mokosh para que seu próprio caminho divino se tornasse mais claro. Você deve ir para a antiga floresta; lá você encontrará sua próxima tarefa."></Entry>
 		<Entry Key="QUEST_DIV_PATH_ONEC_DES" Val="Você interrompeu um sábado de bruxas, leais ao velho deus e pai da feitiçaria humana, Veles. Você deve procurar o local de descanso de Veles e descobrir a verdade de seu destino para que seu próprio caminho divino possa se tornar mais claro. Você deve ir para a antiga floresta; lá você encontrará sua próxima tarefa."></Entry>
-		<Entry Key="QUEST_DIV_PATH_TWOCMAROVIT_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portões para os submundos guardados por um zmey. Quando você falou com o zmey, ele lhe disse que agora você deve procurar e liberar seu próprio deus para completar sua jornada conforme escolhido. Encontre o rastro de Marovit nas terras das trevas."></Entry>
-		<Entry Key="QUEST_DIV_PATH_TWOCZORYA_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portões para os submundos guardados por um zmey. Quando você falou com o zmey, ele lhe disse que agora você deve procurar e liberar seu próprio deus para completar sua jornada conforme escolhido. Encontre a trilha de Zorya nas terras vulcânicas."></Entry>
-		<Entry Key="QUEST_DIV_PATH_TWOCNYIA_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portões para os submundos guardados por um zmey. Quando você falou com o zmey, ele lhe disse que agora você deve procurar e liberar seu próprio deus para completar sua jornada conforme escolhido. Encontre o rastro de Nyia nas terras das trevas ou do metal."></Entry>
-		<Entry Key="QUEST_DIV_PATH_TWOCHORZ_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portões para os submundos guardados por um zmey. Quando você falou com o zmey, ele lhe disse que agora você deve procurar e liberar seu próprio deus para completar sua jornada conforme escolhido. Encontre a trilha de Horz nas terras vulcânicas."></Entry>
-		<Entry Key="QUEST_DIV_PATH_TWOCLADA_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portões para os submundos guardados por um zmey. Quando você falou com o zmey, ele lhe disse que agora você deve procurar e liberar seu próprio deus para completar sua jornada conforme escolhido. Encontre a trilha de Lada nas terras da floresta antiga ou nas planícies de gelo."></Entry>
-		<Entry Key="QUEST_DIV_PATH_TWOC_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portões para os submundos guardados por um zmey. Infelizmente, você foi derrotado em batalha. Volte quando estiver melhor preparado."></Entry>
+		<Entry Key="QUEST_DIV_PATH_TWOCMAROVIT_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portoes para os submundos guardados por um zmey. Quando você falou com o zmey, ele lhe disse que agora você deve procurar e liberar seu próprio deus para completar sua jornada conforme escolhido. Encontre o rastro de Marovit nas terras das trevas."></Entry>
+		<Entry Key="QUEST_DIV_PATH_TWOCZORYA_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portoes para os submundos guardados por um zmey. Quando você falou com o zmey, ele lhe disse que agora você deve procurar e liberar seu próprio deus para completar sua jornada conforme escolhido. Encontre a trilha de Zorya nas terras vulcânicas."></Entry>
+		<Entry Key="QUEST_DIV_PATH_TWOCNYIA_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portoes para os submundos guardados por um zmey. Quando você falou com o zmey, ele lhe disse que agora você deve procurar e liberar seu próprio deus para completar sua jornada conforme escolhido. Encontre o rastro de Nyia nas terras das trevas ou do metal."></Entry>
+		<Entry Key="QUEST_DIV_PATH_TWOCHORZ_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portoes para os submundos guardados por um zmey. Quando você falou com o zmey, ele lhe disse que agora você deve procurar e liberar seu próprio deus para completar sua jornada conforme escolhido. Encontre a trilha de Horz nas terras vulcânicas."></Entry>
+		<Entry Key="QUEST_DIV_PATH_TWOCLADA_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portoes para os submundos guardados por um zmey. Quando você falou com o zmey, ele lhe disse que agora você deve procurar e liberar seu próprio deus para completar sua jornada conforme escolhido. Encontre a trilha de Lada nas terras da floresta antiga ou nas planícies de gelo."></Entry>
+		<Entry Key="QUEST_DIV_PATH_TWOC_DES" Val="O lugar provou ser o local de descanso do velho deus, Veles, e um dos portoes para os submundos guardados por um zmey. Infelizmente, você foi derrotado em batalha. Volte quando estiver melhor preparado."></Entry>
 		<Entry Key="QUEST_DIV_PATH_ALLPATHS2" Val="Você encontrou o local divino onde o caminho do seu escolhido pode continuar."></Entry>
 		<Entry Key="QUEST_DIV_PATH_ONEB1_DES" Val="O lugar provou ser uma das raízes divinas da velha deusa Mokosh. Alguns lightbringers estavam atacando a raiz e você foi derrotado por eles. Volte quando estiver pronto para o desafio."></Entry>
 		<Entry Key="QUEST_DIV_PATH_TWOA_DES" Val="Você encontrou a vara de Perun, mas não conseguiu liberá-la. Você deve retornar quando estiver melhor preparado."></Entry>
@@ -191,7 +191,7 @@
 		<Entry Key="QUEST_DIV_DZIEVANNA" Val="Você seguiu o caminho divino e encontrou o avatar de Dzievanna."></Entry>
 		<Entry Key="QUEST_DIV_DZIEVANNA_DES" Val="Você destruiu os filhos da natureza sem motivo e assim desrespeitou sua deusa. Ela o considerou indigno. Seu caminho divino terminou, e você só pode esperar que um dia se redimirá aos olhos dela."></Entry>
 		<Entry Key="QUEST_DIV_HORZ" Val="Você seguiu o caminho divino e encontrou o avatar de Horz."></Entry>
-		<Entry Key="QUEST_DIV_HORZ_DES" Val="Você atacou as crianças da noite e perdeu, mostrando apenas fraqueza. Você não é o líder do bando que Horz esperava e foi aí que o caminho do seu escolhido terminou. Você só pode esperar que mostre seu valor através de todas as suas ações a partir de agora..."></Entry>
+		<Entry Key="QUEST_DIV_HORZ_DES" Val="Você atacou as crianças da noite e perdeu, mostrando apenas fraqueza. Você não é o líder do bando que Horz esperava e foi aí que o caminho do seu escolhido terminou. Você só pode esperar que mostre seu valor através de todas as suas açoes a partir de agora..."></Entry>
 		<Entry Key="QUEST_DIV_STRIBOG" Val="Você seguiu o caminho divino e encontrou o avatar de Stribog."></Entry>
 		<Entry Key="QUEST_DIV_TRIGLAV" Val="Você seguiu o caminho divino e encontrou o avatar de Triglav."></Entry>
 		<Entry Key="QUEST_DIV_ZORYA" Val="Você seguiu o caminho divino e encontrou o avatar de Zorya."></Entry>
@@ -280,9 +280,9 @@
 		<Entry Key="QUEST_KS_FLI4_DES" Val="Um grupo de desenvolvedores goblins dedicados está construindo uma máquina complexa chamada Fli Catapult. Você não foi amigável e por isso foi obrigado a sair."></Entry>
 		<Entry Key="QUEST_KS_FLI5_DES" Val="Um grupo de desenvolvedores goblins dedicados está construindo uma máquina complexa chamada Fli Catapult. Você os matou e saqueou o site."></Entry>
 		<Entry Key="QUEST_KS_FLISPWNTWO" Val="Um dos goblins Fli Catapult se aproximou de você."></Entry>
-		<Entry Key="QUEST_KS_FLISPWNTWO_DES" Val="Avix disse que os outros se mudaram para um novo local secreto. Ela agradeceu pelas poções e deixou uma recompensa."></Entry>
+		<Entry Key="QUEST_KS_FLISPWNTWO_DES" Val="Avix disse que os outros se mudaram para um novo local secreto. Ela agradeceu pelas poçoes e deixou uma recompensa."></Entry>
 		<Entry Key="QUEST_KS_FLISPWNONE" Val="Você encontra a caverna onde lhe disseram para procurar um xamã que possa lhe dar uma poção para o goblin, Khax."></Entry>
-		<Entry Key="QUEST_KS_FLISPWNONE_DES" Val="Você pagou o preço que o xamã pediu e ele prometeu entregar as poções aos goblins. Procure a Fli Catapult novamente para receber sua recompensa."></Entry>
+		<Entry Key="QUEST_KS_FLISPWNONE_DES" Val="Você pagou o preço que o xamã pediu e ele prometeu entregar as poçoes aos goblins. Procure a Fli Catapult novamente para receber sua recompensa."></Entry>
 		<Entry Key="QUEST_KS_FLISPWNONE2_DES" Val="Você decidiu que o preço era muito alto e abandonou a tarefa."></Entry>
 		<Entry Key="QUEST_LOG8" Val="Vanero"></Entry>
 		<Entry Key="QUEST_KS_VANERO" Val="Vanero, o comerciante de seda e mantos de aranha, ofereceu suas mercadorias a você."></Entry>
@@ -302,11 +302,11 @@
 		<Entry Key="QUEST_LOG9" Val="A escolha do pai"></Entry>
 		<Entry Key="QUEST_KS_ZLOS" Val="Você se deparou com uma pequena aldeia onde um pai estava prestes a matar sua filha amaldiçoada."></Entry>
 		<Entry Key="QUEST_KS_ZLOS_DES" Val="Mas você decidiu ir embora."></Entry>
-		<Entry Key="QUEST_KS_ZLOS2_DES" Val="Você matou os aldeões e decidiu enfrentar a garota amaldiçoada, alegando que poderia lidar com isso. Zloslava agora é seu problema, ou bênção, dependendo de como o destino a verá."></Entry>
-		<Entry Key="QUEST_KS_ZLOS3_DES" Val="Você matou os aldeões e decidiu deixar a garota para trás."></Entry>
-		<Entry Key="QUEST_KS_ZLOS4_DES" Val="Você tentou matar os aldeões, mas falhou e teve que fugir."></Entry>
+		<Entry Key="QUEST_KS_ZLOS2_DES" Val="Você matou os aldeoes e decidiu enfrentar a garota amaldiçoada, alegando que poderia lidar com isso. Zloslava agora é seu problema, ou bênção, dependendo de como o destino a verá."></Entry>
+		<Entry Key="QUEST_KS_ZLOS3_DES" Val="Você matou os aldeoes e decidiu deixar a garota para trás."></Entry>
+		<Entry Key="QUEST_KS_ZLOS4_DES" Val="Você tentou matar os aldeoes, mas falhou e teve que fugir."></Entry>
 		<Entry Key="QUEST_KS_ZLOS5_DES" Val="Você ajudou o pai a limpar a maldição. Ele ficou muito grato a você que sua filha agora está livre, mesmo que ela não esteja viva."></Entry>
-		<Entry Key="QUEST_KS_ZLOS6_DES" Val="Você permitiu que o pai matasse a criança amaldiçoada e os aldeões ficaram gratos por você não ter interferido."></Entry>
+		<Entry Key="QUEST_KS_ZLOS6_DES" Val="Você permitiu que o pai matasse a criança amaldiçoada e os aldeoes ficaram gratos por você não ter interferido."></Entry>
 		<Entry Key="QUEST_KS_ZLOS7_DES" Val="Você tentou limpar a maldição da criança, mas falhou em fazê-lo corretamente e então a criança se tornou um fantasma."></Entry>
 		<Entry Key="QUEST_LOG10" Val="Paraíso do mar"></Entry>
 		<Entry Key="QUEST_KS_SEA" Val="Você se deparou com um naufrágio com uma mulher flutuando em cima de uma jangada, segurando um baú de tesouro dourado. Ela gritou por socorro."></Entry>
@@ -476,14 +476,14 @@
 		<Entry Key="QUEST_HALLOW_FORE_DES3" Val="Você derrotou os antepassados, e espera que este seja o fim de tudo, embora você sinta que um pouco de seu espírito ainda pode permanecer em Bear Village. Reporte-se a Tomislav."></Entry>
 		<Entry Key="QUEST_HALLOW_FORE_DES4" Val="Você derrotou os antepassados de uma vez por todas. Eles aplaudiram sua força de espírito e prometeram deixar a aldeia em paz."></Entry>
 		<Entry Key="QUEST_HALLOW_FORE_DES5" Val="Você convenceu os antepassados de que um preço menor de sangue aliviaria sua sede de vingança. Eles vão tomar apenas parte da aldeia."></Entry>
-		<Entry Key="QUEST_HALLOW_FORE_DES6" Val="Você convenceu os antepassados de que um preço de sangue menor aliviaria sua sede de vingança e então sacrificou um dos seus para salvar os aldeões."></Entry>
+		<Entry Key="QUEST_HALLOW_FORE_DES6" Val="Você convenceu os antepassados de que um preço de sangue menor aliviaria sua sede de vingança e então sacrificou um dos seus para salvar os aldeoes."></Entry>
 		<Entry Key="QUEST_HALLOW_WOOD" Val="Você encontrou o alojamento dos lenhadores."></Entry>
 		<Entry Key="QUEST_HALLOW_WOOD_DES" Val="Quando você chegou, encontrou esculturas ensanguentadas e nada mais."></Entry>
 		<Entry Key="QUEST_HALLOW_HUT_DES" Val="Bogslava se foi, ela se matou para evitar o julgamento do antepassado."></Entry>
-		<Entry Key="QUEST_HALLOW_KEN_DES2" Val="Os canis foram destruídos, mas você encontrou um grupo de aldeões com Gurtek, eles escaparam do massacre graças a Bael e Zeb que morreram lutando contra os antepassados."></Entry>
+		<Entry Key="QUEST_HALLOW_KEN_DES2" Val="Os canis foram destruídos, mas você encontrou um grupo de aldeoes com Gurtek, eles escaparam do massacre graças a Bael e Zeb que morreram lutando contra os antepassados."></Entry>
 		<Entry Key="QUEST_HALLOW_KEN_DES3" Val="Os canis foram destruídos, Gurtek estava longe de ser visto, mas isso provavelmente significa que ele foi levado pelos antepassados."></Entry>
 		<Entry Key="QUEST_HALLOW_DES6" Val="Bear Village não existe mais, resta apenas sangue e silêncio."></Entry>
-		<Entry Key="QUEST_HALLOW_KEN_DES4" Val="Gurtek acredita que os espíritos raivosos dos antepassados vão fazer algo muito ruim se os aldeões continuarem esta celebração do Dia das Bruxas. Você sentiu alguma energia espiritual ruim, mas era forte demais para você investigar mais. Melhor falar com Tomislav sobre isso."></Entry>
+		<Entry Key="QUEST_HALLOW_KEN_DES4" Val="Gurtek acredita que os espíritos raivosos dos antepassados vão fazer algo muito ruim se os aldeoes continuarem esta celebração do Dia das Bruxas. Você sentiu alguma energia espiritual ruim, mas era forte demais para você investigar mais. Melhor falar com Tomislav sobre isso."></Entry>
 		<Entry Key="QUEST_HALLOW_KEN_DES5" Val="Gurtek acredita que Fredrick, o estrangeiro, é responsável pelos problemas na vila, mas os cães de Gurtek continuam sendo os principais suspeitos também. Melhor falar com Tomislav sobre isso."></Entry>
 		<Entry Key="QUEST_HALLOW_BEAR" Val="Você foi atacado por uma estátua de urso de madeira com um machado!"></Entry>
 		<Entry Key="QUEST_HALLOW_BEAR1" Val="Você tentou derrotar a estátua de madeira do urso novamente."></Entry>
@@ -494,7 +494,7 @@
 		<Entry Key="QUEST_HALLOW_BEAR_DES4" Val="Você foi derrotado, talvez tente novamente quando puder. [Você tem 200 turnos para derrotar o urso e o que vier depois dele.]"></Entry>
 		<Entry Key="QUEST_HALLOWINV" Val="Você foi convidado a visitar Bear Village"></Entry>
 		<Entry Key="QUEST_HALLOWINV_DES" Val="A localização foi marcada no seu mapa."></Entry>
-		<Entry Key="QUEST_HALLOW_KEN_DES6" Val="Você descobriu que os espíritos dos antepassados estão realmente muito zangados com Bear Village e você teme que eles possam ter intenções sangrentas. Melhor ir contar a Tomislav sobre isso."></Entry>
+		<Entry Key="QUEST_HALLOW_KEN_DES6" Val="Você descobriu que os espíritos dos antepassados estão realmente muito zangados com Bear Village e você teme que eles possam ter intençoes sangrentas. Melhor ir contar a Tomislav sobre isso."></Entry>
 		<Entry Key="QUEST_HALLOW_TOM_DES" Val="Você falou com Tomislav e ele pediu para você investigar o alojamento dos lenhadores."></Entry>
 		<Entry Key="QUEST_HALLOW_TOM_DES1" Val="Você falou com Tomislav sobre os antepassados furiosos e ele implorou para você ir ver se você pode apaziguá-los de alguma forma. Eles devem ser encontrados pelo grande carvalho nas proximidades."></Entry>
 		<Entry Key="QUEST_HALLOW_TOM_DES2" Val="Você falou com Tomislav sobre os antepassados furiosos e decidiu que isso não é da sua conta, você foi embora."></Entry>
@@ -503,7 +503,7 @@
 		<Entry Key="QUEST_HALLOW_WOOD_DES1" Val="Você encontrou a pousada e dentro dela, um massacre sangrento. As forças das trevas parecem estar trabalhando aqui, é melhor falar com Tomislav na vila novamente."></Entry>
 		<Entry Key="QUEST_LOG18" Val="Dragão Vavel"></Entry>
 		<Entry Key="QUEST_VAVELINV" Val="Um dragão ameaça sua aldeia."></Entry>
-		<Entry Key="QUEST_VAVELINV_DES" Val="Alguns de seu povo já foram feridos, mas você conseguiu informações sobre um homem que poderia ajudá-lo a se livrar da fera."></Entry>
+		<Entry Key="QUEST_VAVELINV_DES" Val="Alguns de seu povo já foram feridos, mas você conseguiu informaçoes sobre um homem que poderia ajudá-lo a se livrar da fera."></Entry>
 		<Entry Key="QUEST_VAVEL1" Val="Você encontrou um sapateiro, chamado Needler."></Entry>
 		<Entry Key="QUEST_VAVEL1_DES" Val="Ele afirma que pode derrotar o dragão, mas precisa de alguns suprimentos primeiro. Ele também exige uma princesa virgem como recompensa... Você concordou em dar-lhe os suprimentos e falar de recompensas mais tarde."></Entry>
 		<Entry Key="QUEST_VAVEL1_DES2" Val="Ele afirma que pode derrotar o dragão, mas precisa de alguns suprimentos primeiro. Ele também exige uma princesa virgem como recompensa... Você foi embora."></Entry>

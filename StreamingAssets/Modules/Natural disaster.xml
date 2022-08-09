@@ -348,7 +348,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="50" targetID="17" fromX="1759" fromY="-1299" />Você tenta voar para longe antes que a avalanche o atinja, mas é arrastado pela rajada de vento que se segue. Você escapa, mas não sem arranhões e contusões.
+      <outputs name="Sair." ownerID="50" targetID="17" fromX="1759" fromY="-1299" />Você tenta voar para longe antes que a avalanche o atinja, mas é arrastado pela rajada de vento que se segue. Você escapa, mas não sem arranhoes e contusoes.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="3360.39282" positionY="121.0547" width="350" height="725">
       <logic>
@@ -2815,7 +2815,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="50" targetID="17" fromX="1759" fromY="-1299" />Você tenta voar para longe antes que a avalanche o atinja, mas é arrastado pela rajada de vento que se segue. Você escapa, mas não sem arranhões e contusões.
+      <outputs name="Sair." ownerID="50" targetID="17" fromX="1759" fromY="-1299" />Você tenta voar para longe antes que a avalanche o atinja, mas é arrastado pela rajada de vento que se segue. Você escapa, mas não sem arranhoes e contusoes.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="3360.39282" positionY="121.0547" width="350" height="725">
       <logic>

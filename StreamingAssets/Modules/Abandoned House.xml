@@ -1921,7 +1921,7 @@ As aranhas estão mortas, mas podem vir mais. Você encontra os restos de outras
       <outputs name="Fugir!" ownerID="39" targetID="44" group="G1" fromX="1521" fromY="-1652" />
       <outputs name="Fugir!" ownerID="39" targetID="75" group="G1" fromX="1521" fromY="-1732" />
       <outputs name="[Demônios da noite] Elogie sua escolha de refeição e pergunte se eles têm algo para trocar." ownerID="39" targetID="63" fromX="1521" fromY="-1812" />
-      <outputs name="[Unliving]Ressalte que você não tem valor nutricional e peça para ser dispensado da mesa." ownerID="39" targetID="65" fromX="1521" fromY="-1892" />Você encontra um grupo de rufiões desfrutando de um belo pedaço de perna humanóide perto do fogo. Seus olhos famintos caem em você e eles se levantam, armas levantadas. 
+      <outputs name="[Unliving]Ressalte que você não tem valor nutricional e peça para ser dispensado da mesa." ownerID="39" targetID="65" fromX="1521" fromY="-1892" />Você encontra um grupo de rufioes desfrutando de um belo pedaço de perna humanóide perto do fogo. Seus olhos famintos caem em você e eles se levantam, armas levantadas. 
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="40" positionX="681.3316" positionY="-1003.92432" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-HUMS_3P_2M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="40" targetID="45" fromX="1122" fromY="-1499" />
@@ -1953,7 +1953,7 @@ As aranhas estão mortas, mas podem vir mais. Você encontra os restos de outras
       <outputs name="Sair." ownerID="44" targetID="75" fromX="1037" fromY="-2213" />A turbulência dentro de você estava fervendo por uma briga, então você se sente enfraquecido por essa fuga. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="202.4174" positionY="-474.44043" width="350" height="725">
-      <outputs name="Sair." ownerID="45" targetID="74" fromX="528" fromY="-965" />Você mata os rufiões e descobre que eles não carregam muito com eles. Ainda assim, você acabou com seus modos canibais.</nodes>
+      <outputs name="Sair." ownerID="45" targetID="74" fromX="528" fromY="-965" />Você mata os rufioes e descobre que eles não carregam muito com eles. Ainda assim, você acabou com seus modos canibais.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="46" positionX="-816.46936" positionY="-197.049484" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1988,7 +1988,7 @@ As aranhas estão mortas, mas podem vir mais. Você encontra os restos de outras
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Run.&#xD;&#xA;" ownerID="47" targetID="68" fromX="351" fromY="-2578" />Os rufiões bateram muito em você. Você tem que largar sua comida para impedi-los de correr atrás de você!
+      <outputs name="Run.&#xD;&#xA;" ownerID="47" targetID="68" fromX="351" fromY="-2578" />Os rufioes bateram muito em você. Você tem que largar sua comida para impedi-los de correr atrás de você!
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="48" positionX="-581.1457" positionY="-1657.63574" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="3" maxDamage="6" useCountInPercent="false" targetGroup="ppl">
       <outputs ownerID="48" targetID="47" fromX="-151" fromY="-2045" />
@@ -2859,7 +2859,7 @@ As aranhas estão mortas, mas podem vir mais. Você encontra os restos de outras
         </FilterBlock>
       </logic>
       <outputs name="Sim, diga que você está pronto." ownerID="2" targetID="4" fromX="628" fromY="-321" />
-      <outputs name="No. Sair." ownerID="2" targetID="38" fromX="628" fromY="-401" />Curiosamente, o mesmo velho pirata lhe dá as boas-vindas: &#39;Arr, vocês são os pequenos campeões, hein? As regras são simples, você entra e luta a cada rodada sem interrupção! São cinco lutas. Se você perder, você começa de novo e perde alguns bens como pagamento. Todos a bordo, companheiros?</nodes>
+      <outputs name="No. Sair." ownerID="2" targetID="38" fromX="628" fromY="-401" />Curiosamente, o mesmo velho pirata lhe dá as boas-vindas: &#39;Arr, vocês são os pequenos campeoes, hein? As regras são simples, você entra e luta a cada rodada sem interrupção! São cinco lutas. Se você perder, você começa de novo e perde alguns bens como pagamento. Todos a bordo, companheiros?</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="2488" positionY="-2178" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_ARENA1" logBookDescription="QUEST_ARENA1_DES" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -3002,7 +3002,7 @@ As aranhas estão mortas, mas podem vir mais. Você encontra os restos de outras
         </ModifierBlock>
       </logic>
       <outputs name="Comemore alguns e vá embora." ownerID="27" targetID="31" fromX="6155" fromY="-748" />
-      <outputs name="Pague para ter suas feridas curadas." ownerID="27" targetID="29" fromX="6155" fromY="-828" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeões da Cúpula do Trovão! Agora, vamos beber e festejar.
+      <outputs name="Pague para ter suas feridas curadas." ownerID="27" targetID="29" fromX="6155" fromY="-828" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="7686" positionY="-363" width="350" height="530" allPlayersXP="10" allPlayersRP="10" logBookName="QUEST_ARENA1" logBookDescription="QUEST_ARENA2_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
@@ -3026,7 +3026,7 @@ As aranhas estão mortas, mas podem vir mais. Você encontra os restos de outras
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6292" positionY="-1175" width="350" height="805" image="Event340">
       <outputs name="Comemore alguns e vá embora." ownerID="30" targetID="28" fromX="6617" fromY="-1666" />
-      <outputs name="Pague para ter suas feridas curadas." ownerID="30" targetID="29" fromX="6617" fromY="-1746" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeões da Cúpula do Trovão! Agora, vamos beber e festejar.
+      <outputs name="Pague para ter suas feridas curadas." ownerID="30" targetID="29" fromX="6617" fromY="-1746" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="31" positionX="6603" positionY="-363" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="31" targetID="28" fromX="7051" fromY="-795" />

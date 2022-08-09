@@ -409,7 +409,7 @@
 		<Entry Key="DES_TAG_DAMAGE_ITEM_LOSS" Val="Perda de itens"></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ITEM_LOSS_DES" Val="Você vai (ou tem chance) de perder algum tipo de item a cada turno."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_SLOT_BLOCK" Val="Bloco de slot"></Entry>
-		<Entry Key="DES_TAG_DAMAGE_SLOT_BLOCK_DES" Val="Um ou mais slots de equipamento estão bloqueados (além de quaisquer restrições específicas da raça)."></Entry>
+		<Entry Key="DES_TAG_DAMAGE_SLOT_BLOCK_DES" Val="Um ou mais slots de equipamento estão bloqueados (além de quaisquer restriçoes específicas da raça)."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ITEM_RESTRICTION" Val="Não gostei do item"></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ITEM_RESTRICTION_DES" Val="Atributos de personagem reduzidos por ter equipado um tipo de item específico."></Entry>
 		<Entry Key="DES_TAG_TRIGGER_NONE" Val="Acionador - Nenhum"></Entry>
@@ -636,7 +636,7 @@
 		<Entry Key="DES_SUBRACE_HUM_CRAFTSMAN" Val="Artesão Humano"></Entry>
 		<Entry Key="DES_SUBRACE_HUM_CRAFTSMAN_DES" Val="Especializada em itens de artesanato e construção."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_CRAFTSMAN_NEEDLER" Val="Artesão Humano"></Entry>
-		<Entry Key="DES_SUBRACE_HUM_CRAFTSMAN_NEEDLER_DES" Val="Um sapateiro estranho que você conheceu quando um dragão atacou seu povo. Ele estava determinado a ter uma princesa virgem como recompensa por sua inteligente ideia de matar dragões, mas ele decidiu ir junto com você."></Entry>
+		<Entry Key="DES_SUBRACE_HUM_CRAFTSMAN_NEEDLER_DES" Val="Um sapateiro estranho que você conheceu quando um dragão atacou seu povo. Ele estava determinado a ter uma princesa virgem como recompensa por sua inteligente ideia de matar dragoes, mas ele decidiu ir junto com você."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_INVENTOR" Val="Inventor Humano"></Entry>
 		<Entry Key="DES_SUBRACE_HUM_INVENTOR_DES" Val="Especializou-se em invenção e pesquisa. Eles também sabem como criar itens e construir estruturas."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_INVENTOR_NEMOSLAV" Val="Nemoslav Jr."></Entry>
@@ -669,7 +669,7 @@
 		<Entry Key="DES_SUBRACE_HUM_SCAVENGER" Val="Catador Humano"></Entry>
 		<Entry Key="DES_SUBRACE_HUM_SCAVENGER_DES" Val="Abandonados pelos deuses há muito tempo e levados à loucura, eles sobrevivem por todos os meios necessários."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_SCAVENGER_WITCH" Val="Bruxa Humana necrófaga"></Entry>
-		<Entry Key="DES_SUBRACE_HUM_SCAVENGER_WITCH_DES" Val="Os catadores são tipicamente um bando de rufiões não qualificados, mas mesmo entre sua espécie, a marca escura da feitiçaria pode ser encontrada. As bruxas necrófagas são muito mais propensas a cair na corrupção e geralmente têm menos controle do que suas contrapartes humanas ou orcs."></Entry>
+		<Entry Key="DES_SUBRACE_HUM_SCAVENGER_WITCH_DES" Val="Os catadores são tipicamente um bando de rufioes não qualificados, mas mesmo entre sua espécie, a marca escura da feitiçaria pode ser encontrada. As bruxas necrófagas são muito mais propensas a cair na corrupção e geralmente têm menos controle do que suas contrapartes humanas ou orcs."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_BANDIT_CAP_BEAR" Val="Capitão Urso"></Entry>
 		<Entry Key="DES_SUBRACE_HUM_BANDIT_CAP_BEAR_DES" Val="O líder dos bandidos de Red Ridge que seguram a entrada de uma estranha caverna vermelha. Bear governa seu bando com mão forte, mas esconde um coração mais suave por baixo."></Entry>
 		<Entry Key="DES_SUBRACE_SCAVENGER_BOSS_HANKA" Val="Chefe necrófago Hanka"></Entry>
@@ -696,7 +696,7 @@
 		<Entry Key="DES_SUBRACE_ELF_MAGE" Val="Barriga do Rio"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_ELF_MAGE" Val="Mago Élfico Ancião"></Entry>
 		<Entry Key="DES_SUBRACE_ELF_YOUNG_MAGE" Val="Elfo Jovem Mago"></Entry>
-		<Entry Key="DES_SUBRACE_ELF_MAGE_DES" Val="Guardiões da sabedoria antiga e mestres das artes místicas. Muitas vezes mais &amp;#39;civilizados&amp;#39; do que seus parentes da floresta devido à sua afinidade com viagens e intercâmbio cultural. Além de raras exceções, os magos estão realmente entre os mais jovens dos parentes élficos, porque foram os primeiros a perecer quando a escuridão tomou o mundo no passado."></Entry>
+		<Entry Key="DES_SUBRACE_ELF_MAGE_DES" Val="Guardioes da sabedoria antiga e mestres das artes místicas. Muitas vezes mais &amp;#39;civilizados&amp;#39; do que seus parentes da floresta devido à sua afinidade com viagens e intercâmbio cultural. Além de raras exceçoes, os magos estão realmente entre os mais jovens dos parentes élficos, porque foram os primeiros a perecer quando a escuridão tomou o mundo no passado."></Entry>
 		<Entry Key="DES_SUBRACE_ELF_SHADOW" Val="Sombra élfica"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_ELF_SHADOW" Val="Sombra Élfica Anciã"></Entry>
 		<Entry Key="DES_SUBRACE_ELF_SHADOW_DES" Val="Corrompido pela escuridão há muito tempo, uma casta banida de assassinos mais parecida com demônios das trevas do que sua própria espécie."></Entry>
@@ -737,17 +737,17 @@
 		<Entry Key="DES_SUBRACE_GOB_SKIRMISHER_DES" Val=""></Entry>
 		<Entry Key="DES_SUBRACE_DWARF_CHILD" Val="Criança anão"></Entry>
 		<Entry Key="DES_SUBRACE_DWARF_WARMASTER" Val="Anão Mestre de Guerra"></Entry>
-		<Entry Key="DES_SUBRACE_DWARF_WARMASTER_DES" Val="Esculpidos em pedra e metal, os mestres da guerra são antigos, firmes e inabaláveis. Os guerreiros anões são temidos e respeitados por todos que sabem o que é bom para eles."></Entry>
+		<Entry Key="DES_SUBRACE_DWARF_WARMASTER_DES" Val="Esculpidos em pedra e metal, os mestres da guerra são antigos, firmes e inabaláveis. Os guerreiros anoes são temidos e respeitados por todos que sabem o que é bom para eles."></Entry>
 		<Entry Key="DES_SUBRACE_DWARF_SMITH" Val="Ferreiro Anão"></Entry>
 		<Entry Key="DES_SUBRACE_DWARF_YOUNG_SMITH" Val="Anão Jovem Smith"></Entry>
-		<Entry Key="DES_SUBRACE_DWARF_SMITH_DES" Val="Não há ferreiros que possam se chamar iguais aos antigos mestres das artes do metal dos anões. Além de seu ofício, eles também costumam ocupar cargos de liderança como grandes estrategistas e às vezes oradores."></Entry>
+		<Entry Key="DES_SUBRACE_DWARF_SMITH_DES" Val="Não há ferreiros que possam se chamar iguais aos antigos mestres das artes do metal dos anoes. Além de seu ofício, eles também costumam ocupar cargos de liderança como grandes estrategistas e às vezes oradores."></Entry>
 		<Entry Key="DES_SUBRACE_DWARF_CLANLESS_SMITH_TRAIT" Val="Ferreiro Anão Sem Clã"></Entry>
-		<Entry Key="DES_SUBRACE_DWARF_CLANLESS_SMITH_TRAIT_DES" Val="Um ferreiro anão com um passado sombrio. Anões são movidos por seu senso de honra pessoal, assim alguns se tornam sem clã quando sentem que falharam com seus parentes anões. A redenção pode levar tempo, pode nunca vir, mas um anão sem clã ainda se esforçará para alcançá-la."></Entry>
+		<Entry Key="DES_SUBRACE_DWARF_CLANLESS_SMITH_TRAIT_DES" Val="Um ferreiro anão com um passado sombrio. Anoes são movidos por seu senso de honra pessoal, assim alguns se tornam sem clã quando sentem que falharam com seus parentes anoes. A redenção pode levar tempo, pode nunca vir, mas um anão sem clã ainda se esforçará para alcançá-la."></Entry>
 		<Entry Key="DES_SUBRACE_DWARF_RUNEMASTER" Val="Mestre das Runas Anão"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_DWARF_RUNEMASTER" Val="Mestre das Runas Anão Ancião"></Entry>
-		<Entry Key="DES_SUBRACE_DWARF_RUNEMASTER_DES" Val="O mestre de runas é um título dado ao mais velho e sábio dos mestres ferreiros anões que conhecem as antigas e secretas artes de esculpir runas."></Entry>
+		<Entry Key="DES_SUBRACE_DWARF_RUNEMASTER_DES" Val="O mestre de runas é um título dado ao mais velho e sábio dos mestres ferreiros anoes que conhecem as antigas e secretas artes de esculpir runas."></Entry>
 		<Entry Key="DES_SUBRACE_DWARF_LABORER" Val="Anão Trabalhador"></Entry>
-		<Entry Key="DES_SUBRACE_DWARF_LABORER_DES" Val="Trabalhadores anões são o coração e a alma de sua comunidade, trabalhando dia e noite e reunindo recursos vitais para seus parentes."></Entry>
+		<Entry Key="DES_SUBRACE_DWARF_LABORER_DES" Val="Trabalhadores anoes são o coração e a alma de sua comunidade, trabalhando dia e noite e reunindo recursos vitais para seus parentes."></Entry>
 		<Entry Key="DES_SUBRACE_SPIDER_SPITTING" Val="Aranha Cuspideira"></Entry>
 		<Entry Key="DES_SUBRACE_SPIDER_SPITTING_DES" Val="As aranhas cuspidoras são conhecidas por seu ataque de projéteis."></Entry>
 		<Entry Key="DES_SUBRACE_SPIDER_GIANT" Val="Aranha gigante"></Entry>
@@ -806,7 +806,7 @@
 		<Entry Key="DES_SUBRACE_SEA_PREDATOR_FISH" Val="Peixe predador"></Entry>
 		<Entry Key="DES_SUBRACE_SEA_PREDATOR_FISH_DES" Val="Eles podem ser pequenos, mas a água é o domínio deles e dentro dela, você é a presa."></Entry>
 		<Entry Key="DES_SUBRACE_SEA_SHARK" Val="Tubarão"></Entry>
-		<Entry Key="DES_SUBRACE_SEA_SHARK_DES" Val="Os tubarões já foram um conto distante para os eslavos, mas com o estilhaçamento veio o mar e com ele vieram essas máquinas de matar perfeitas."></Entry>
+		<Entry Key="DES_SUBRACE_SEA_SHARK_DES" Val="Os tubaroes já foram um conto distante para os eslavos, mas com o estilhaçamento veio o mar e com ele vieram essas máquinas de matar perfeitas."></Entry>
 		<Entry Key="DES_SUBRACE_SEA_SERPENT" Val="Serpente do mar"></Entry>
 		<Entry Key="DES_SUBRACE_SEA_SERPENT_DES" Val="As serpentes marinhas deslizam silenciosamente entre as ondas em busca de suas presas."></Entry>
 		<Entry Key="DES_SUBRACE_SEA_CZYTLICA" Val="Leitor"></Entry>
@@ -860,7 +860,7 @@
 		<Entry Key="DES_SUBRACE_DEMON_CZORT_DES" Val="Criaturas desonestas, sempre procurando maneiras de serem más e têm uma opinião extremamente alta de si mesmas."></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_HOHLICK" Val="Hohlick"></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_YOUNG_HOHLICK" Val="jovem Hohlick"></Entry>
-		<Entry Key="DES_SUBRACE_DEMON_HOHLICK_DES" Val="Criaturas pequenas e aladas, com olhos grandes e dentes minúsculos. Muito travessos e brincalhões, mas eles são conhecidos por levar as pessoas ao erro. Eles também podem ficar um pouco sensíveis com o tamanho e é melhor você ter cuidado ao emprestar qualquer coisa, pois devolver coisas não é o forte deles. Eles gostam muito de jogos."></Entry>
+		<Entry Key="DES_SUBRACE_DEMON_HOHLICK_DES" Val="Criaturas pequenas e aladas, com olhos grandes e dentes minúsculos. Muito travessos e brincalhoes, mas eles são conhecidos por levar as pessoas ao erro. Eles também podem ficar um pouco sensíveis com o tamanho e é melhor você ter cuidado ao emprestar qualquer coisa, pois devolver coisas não é o forte deles. Eles gostam muito de jogos."></Entry>
 		<Entry Key="DES_SUBRACE_FOREST_PINECONETTES" Val="Pineconettes"></Entry>
 		<Entry Key="DES_SUBRACE_FOREST_PINECONETTES_DES" Val="As pinhas são as menores, mas também as mais comuns, das guardiãs da floresta. Eles assumem a forma de pinhas, flores ou cogumelos, ou às vezes, podem se tornar quase humanóides, do tamanho de uma criança, mas mantêm algumas características da vegetação da floresta. Apesar de seu tamanho, eles podem se tornar ferozmente agressivos quando em bando."></Entry>
 		<Entry Key="DES_SUBRACE_FOREST_ELDERCONE" Val="Eldercone"></Entry>
@@ -873,13 +873,13 @@
 		<Entry Key="DES_SUBRACE_FOREST_DORMANT_LESHY" Val="Leshy Adormecido"></Entry>
 		<Entry Key="DES_SUBRACE_FOREST_DORMANT_LESHY_DES" Val="O leshy adormecido é o antigo pastor da floresta, mas este não está totalmente despertado de seu sono de árvore."></Entry>
 		<Entry Key="DES_SUBRACE_FOREST_LIGHT_SICK_VILY" Val="Vily doente de luz"></Entry>
-		<Entry Key="DES_SUBRACE_FOREST_LIGHT_SICK_VILY_DES" Val="Vily são demônios do vento, mas também guardiões leais das florestas, muitas vezes servindo ao leshy quando necessário. Eles podem aparecer durante, ou até mesmo causar uma tempestade."></Entry>
+		<Entry Key="DES_SUBRACE_FOREST_LIGHT_SICK_VILY_DES" Val="Vily são demônios do vento, mas também guardioes leais das florestas, muitas vezes servindo ao leshy quando necessário. Eles podem aparecer durante, ou até mesmo causar uma tempestade."></Entry>
 		<Entry Key="DES_SUBRACE_FOREST_VILY" Val="Vilas"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_FOREST_VILY" Val="Vilas Anciãs"></Entry>
-		<Entry Key="DES_SUBRACE_FOREST_VILY_DES" Val="Vily são demônios do vento, mas também guardiões leais das florestas, muitas vezes servindo ao leshy quando necessário. Eles podem aparecer durante, ou até mesmo causar uma tempestade."></Entry>
+		<Entry Key="DES_SUBRACE_FOREST_VILY_DES" Val="Vily são demônios do vento, mas também guardioes leais das florestas, muitas vezes servindo ao leshy quando necessário. Eles podem aparecer durante, ou até mesmo causar uma tempestade."></Entry>
 		<Entry Key="DES_SUBRACE_FOREST_VIATROVIEC" Val="Viatroviec"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_FOREST_VIATROVIEC" Val="Ancião Viatroviec"></Entry>
-		<Entry Key="DES_SUBRACE_FOREST_VIATROVIEC_DES" Val="Viatroviec são espíritos do vento e da natureza. Eles geralmente formam uma aliança com demônios da floresta e servem como guardiões ao lado de suas irmãs vis."></Entry>
+		<Entry Key="DES_SUBRACE_FOREST_VIATROVIEC_DES" Val="Viatroviec são espíritos do vento e da natureza. Eles geralmente formam uma aliança com demônios da floresta e servem como guardioes ao lado de suas irmãs vis."></Entry>
 		<Entry Key="DES_SUBRACE_NIGHT_WEREWOLF_WEAK" Val="Lobisomem Fraco"></Entry>
 		<Entry Key="DES_SUBRACE_NIGHT_WEREWOLF_WEAK_DES" Val="Também conhecidos como homens-lobo, os lobisomens são vistos como abençoados pelo senhor da lua e ainda amaldiçoados com a mácula da besta."></Entry>
 		<Entry Key="DES_SUBRACE_NIGHT_WEREWOLF" Val="Lobisomem"></Entry>
@@ -955,7 +955,7 @@
 		<Entry Key="DES_SUBRACE_UNLI_WRAITH" Val="Espectro"></Entry>
 		<Entry Key="DES_SUBRACE_UNLI_ELDER_WRAITH" Val="Aparição Anciã"></Entry>
 		<Entry Key="DES_SUBRACE_UNLI_ANCESTOR_WRAITH" Val="Aparição Ancestral"></Entry>
-		<Entry Key="DES_SUBRACE_UNLI_WRAITH_DES" Val="Alma atormentada que foi arrancada de seu corpo e deixada para vagar pela terra com raiva. Aparições são frequentemente ligadas a objetos ou lugares amaldiçoados."></Entry>
+		<Entry Key="DES_SUBRACE_UNLI_WRAITH_DES" Val="Alma atormentada que foi arrancada de seu corpo e deixada para vagar pela terra com raiva. Apariçoes são frequentemente ligadas a objetos ou lugares amaldiçoados."></Entry>
 		<Entry Key="DES_SUBRACE_UNLI_RAT" Val="Rato não-vivo"></Entry>
 		<Entry Key="DES_SUBRACE_UNLI_RAT_DES" Val="Chamados para a não-vida por magia vil, eles são cada vez mais vis e dominados por doenças do que seus parentes vivos."></Entry>
 		<Entry Key="DES_SUBRACE_UNLI_SPIDER" Val="Aranha morta"></Entry>
@@ -964,7 +964,7 @@
 		<Entry Key="DES_SUBRACE_UNLI_DRAGON_DES" Val="Uma vez um dragão majestoso, agora o cadáver não-vivo animado por alguma magia negra."></Entry>
 		<Entry Key="DES_SUBRACE_MYTHICAL_DRAGON" Val="Dragão"></Entry>
 		<Entry Key="DES_SUBRACE_MYTHICAL_BLUE_DRAGON" Val="Dragão azul"></Entry>
-		<Entry Key="DES_SUBRACE_MYTHICAL_DRAGON_DES" Val="Tão antigos quanto o próprio tempo, os dragões há muito são mestres dos céus e guardiões dos maiores tesouros. Alguns realmente gostam de virgens também."></Entry>
+		<Entry Key="DES_SUBRACE_MYTHICAL_DRAGON_DES" Val="Tão antigos quanto o próprio tempo, os dragoes há muito são mestres dos céus e guardioes dos maiores tesouros. Alguns realmente gostam de virgens também."></Entry>
 		<Entry Key="DES_SUBRACE_MYTHICAL_ZMEY" Val="Zmey"></Entry>
 		<Entry Key="DES_SUBRACE_MYTHICAL_ELDER_ZMEY" Val="Ancião Zmey"></Entry>
 		<Entry Key="DES_SUBRACE_MYTHICAL_ZMEY_DES" Val="O zmey é uma criatura antiga, um dragão, ainda mais parecido com uma cobra do que seus primos - as histórias falam de um zmey que é a encarnação do caos, alguns até sussurram de seus laços secretos com a árvore cósmica e o velho deus Veles. Os zmey comuns são seus descendentes ou avatares. Ao contrário de seus primos ardentes, que favorecem confrontos físicos, os zmey geralmente empregam sua inteligência e prata, línguas bifurcadas para atrair as pessoas para o mal e a miséria."></Entry>
@@ -985,11 +985,11 @@
 		<Entry Key="DES_SUBRACE_TROLL_YOUNG_SWAMP_DES" Val="Ainda não é bem um troll, mas não é mais um bebê, os jovens trolls do pântano podem ser muito voláteis e temperamentais. Sua timidez natural se torna ainda mais pronunciada, e eles se tornam hipersensíveis a qualquer forma de crítica, por isso é preciso ter cuidado redobrado ao lidar com eles."></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_SWAMP_DES" Val=""></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_YOUNG_ICE" Val="Troll do Gelo Jovem"></Entry>
-		<Entry Key="DES_SUBRACE_TROLL_YOUNG_ICE_DES" Val="Ainda não é bem um troll, mas não é mais um bebê, os jovens trolls do gelo são conhecidos por se tornarem mais gelados e mesquinhos durante esse período volátil. Propenso a explosões dramáticas, ou períodos excessivamente longos de isolamento e mau humor, é melhor deixar os jovens à sua própria sorte até a idade adulta."></Entry>
+		<Entry Key="DES_SUBRACE_TROLL_YOUNG_ICE_DES" Val="Ainda não é bem um troll, mas não é mais um bebê, os jovens trolls do gelo são conhecidos por se tornarem mais gelados e mesquinhos durante esse período volátil. Propenso a explosoes dramáticas, ou períodos excessivamente longos de isolamento e mau humor, é melhor deixar os jovens à sua própria sorte até a idade adulta."></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_ICE" Val="Troll do Gelo"></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_ICE_DES" Val="Criatura solitária vista principalmente nas planícies de gelo desoladas. Dizem que são governados pelo dziod mroz, como todas as outras criaturas das planícies de gelo."></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_YOUNG_LAVA" Val="Balancim de lava adolescente"></Entry>
-		<Entry Key="DES_SUBRACE_TROLL_YOUNG_LAVA" Val="Ainda não é um troll, mas não é mais um bebê, os roqueiros de lava adolescentes são conhecidos por suas mudanças de humor ardentes, seguidas por longos períodos de intensa reflexão, que podem acabar com explosões repentinas e quentes de agressão. Não há ninguém vivo que tenha inventado uma maneira de lidar com tudo isso, é preciso simplesmente sobreviver."></Entry>
+		<Entry Key="DES_SUBRACE_TROLL_YOUNG_LAVA" Val="Ainda não é um troll, mas não é mais um bebê, os roqueiros de lava adolescentes são conhecidos por suas mudanças de humor ardentes, seguidas por longos períodos de intensa reflexão, que podem acabar com explosoes repentinas e quentes de agressão. Não há ninguém vivo que tenha inventado uma maneira de lidar com tudo isso, é preciso simplesmente sobreviver."></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_LAVA" Val="Troll de lava"></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_LAVA_DES" Val="Ressuscitados dos poços quentes de lava derretida, esses trolls são extremamente agressivos e gostam de incinerar pessoas e desafiá-las para duelos injustos."></Entry>
 		<Entry Key="DES_SUBRACE_DARKNESS_MROKI" Val="marroquino"></Entry>
@@ -998,8 +998,8 @@
 		<Entry Key="DES_SUBRACE_ELDER_DARKNESS_MROKI_DES" Val="Disse ter sido um gigante durante o despertar, levado pela escuridão e torcido em uma criatura das sombras. Como um ancião de sua espécie, este mroki é especialmente perigoso."></Entry>
 		<Entry Key="DES_SUBRACE_BOSS" Val="Besta da Luz"></Entry>
 		<Entry Key="DES_SUBRACE_BOSS_DES" Val="O cadáver de um zmey, uma criatura anciã das trevas, levado pela besta da luz quando escapou do centro da terra."></Entry>
-		<Entry Key="DES_SUBRACE_DWARVEN_GUARDIAN_STATUE" Val="Estátua do Guardião dos Anões"></Entry>
-		<Entry Key="DES_SUBRACE_DWARVEN_GUARDIAN_STATUE_DES" Val="Antigos guardiões de tesouros anões e lugares sagrados nas profundezas da terra. Alguns dizem que eles são campeões anões reais transformados em pedra e metal para servir por toda a eternidade."></Entry>
+		<Entry Key="DES_SUBRACE_DWARVEN_GUARDIAN_STATUE" Val="Estátua do Guardião dos Anoes"></Entry>
+		<Entry Key="DES_SUBRACE_DWARVEN_GUARDIAN_STATUE_DES" Val="Antigos guardioes de tesouros anoes e lugares sagrados nas profundezas da terra. Alguns dizem que eles são campeoes anoes reais transformados em pedra e metal para servir por toda a eternidade."></Entry>
 		<Entry Key="DES_SUBRACE_FAIL_SUMMON" Val="Falha na convocação"></Entry>
 		<Entry Key="DES_SUBRACE_FAIL_SUMMON_DES" Val="Isso é o que você ganha quando tenta invocar algo que não consegue lidar."></Entry>
 		<Entry Key="DES_SUBRACE_KRAKEN_TENTACLE" Val="Tentáculo Kraken"></Entry>
@@ -1008,7 +1008,7 @@
 		<Entry Key="DES_SUBRACE_SEA_VINE_DES" Val="Sea Vines preenche todo o campo de batalha pela vontade de Mikolay."></Entry>
 		<Entry Key="DES_SUBRACE_DZIEVANNAS_FERAL_1" Val="Feral de Dzievanna"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_DZIEVANNAS_FERAL_1" Val="Feral do Ancião Dzievanna"></Entry>
-		<Entry Key="DES_SUBRACE_DZIEVANNAS_FERAL_1_DES" Val="Uma vez que eles eram um druida élfico, agora eles seguem o caminho da floresta totalmente eliminando quaisquer restrições da civilização em favor de se tornarem uma fera."></Entry>
+		<Entry Key="DES_SUBRACE_DZIEVANNAS_FERAL_1_DES" Val="Uma vez que eles eram um druida élfico, agora eles seguem o caminho da floresta totalmente eliminando quaisquer restriçoes da civilização em favor de se tornarem uma fera."></Entry>
 		<Entry Key="DES_SUBRACE_DZIEVANNAS_FERAL_2" Val="Feral de Dzievanna"></Entry>
 		<Entry Key="DES_SUBRACE_DZIEVANNAS_FERAL_2_DES" Val="O chamado da natureza levou esses druidas élficos a se tornarem verdadeiramente um com a natureza. Selvagens e livres vagam pela floresta sempre vigilantes e muito territoriais."></Entry>
 		<Entry Key="DES_SUBRACE_CRADLE_POSSUM" Val="Gambá de berço"></Entry>
@@ -1022,7 +1022,7 @@
 		<Entry Key="DES_SUBRACE_ENCHANTED_ROGGNYR" Val="Roggnyr encantado"></Entry>
 		<Entry Key="DES_SUBRACE_ENCHANTED_ROGGNYR_DES" Val="Este demônio da floresta tipicamente evasivo tomou posse de um cachimbo encantado que lhe permite atrair crianças para seu covil retorcido, onde ele drena seu sangue para obter poder."></Entry>
 		<Entry Key="DES_SUBRACE_WARRAX" Val="Sol"></Entry>
-		<Entry Key="DES_SUBRACE_WARRAX_DES" Val="Um guerreiro encapuzado vestido com armadura pesada e vagando pela terra em busca de vingança. Outrora um lendário senhor da guerra de Perun, sua alma foi roubada pelas maquinações dos mestres das runas anões e preso à servidão eterna."></Entry>
+		<Entry Key="DES_SUBRACE_WARRAX_DES" Val="Um guerreiro encapuzado vestido com armadura pesada e vagando pela terra em busca de vingança. Outrora um lendário senhor da guerra de Perun, sua alma foi roubada pelas maquinaçoes dos mestres das runas anoes e preso à servidão eterna."></Entry>
 		<Entry Key="DES_SUBRACE_MENAVCA" Val="Menavca"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_MENAVCA" Val="Ancião Menavca"></Entry>
 		<Entry Key="DES_SUBRACE_MENAVCA_DES" Val="Um demônio misterioso e raro que se diz ter a capacidade de imitar suas vítimas."></Entry>
@@ -1037,16 +1037,16 @@
 		<Entry Key="DES_SUBRACE_ORC_NECROMANCER" Val="Orc Necromante"></Entry>
 		<Entry Key="DES_SUBRACE_ORC_NECROMANCER_DES" Val="Uma criatura rara de fato, já que a maioria dos machos orcs com magia são mortos. Talvez sua profissão explique isso?"></Entry>
 		<Entry Key="DES_SUBRACE_NECROMANCER" Val="Necromante"></Entry>
-		<Entry Key="DES_SUBRACE_NECROMANCER_DES" Val="Necromantes se intrometem com as artes das trevas da vida e da morte e, ao fazê-lo, tendem a quebrar as leis da natureza para criar suas abominações sem vida."></Entry>
+		<Entry Key="DES_SUBRACE_NECROMANCER_DES" Val="Necromantes se intrometem com as artes das trevas da vida e da morte e, ao fazê-lo, tendem a quebrar as leis da natureza para criar suas abominaçoes sem vida."></Entry>
 		<Entry Key="DES_BEAST" Val="Fera"></Entry>
 		<Entry Key="DES_DEMON" Val="Demônio"></Entry>
 		<Entry Key="DES_SUBRACE_WARRAKUS" Val="Warrakus"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_WARRAKUS" Val="Ancião Warrakus"></Entry>
-		<Entry Key="DES_SUBRACE_WARRAKUS_DES" Val="A origem ou natureza do warrakus não é clara. É uma criatura de metal puro e, no entanto, é animada. Alguns chamam isso de trabalho demoníaco, maldição, outros sussurram sobre o trabalho dos anões."></Entry>
+		<Entry Key="DES_SUBRACE_WARRAKUS_DES" Val="A origem ou natureza do warrakus não é clara. É uma criatura de metal puro e, no entanto, é animada. Alguns chamam isso de trabalho demoníaco, maldição, outros sussurram sobre o trabalho dos anoes."></Entry>
 		<Entry Key="DES_SUBRACE_LIGHT_SICK_WARRAKUS" Val="Warrakus Enjoados"></Entry>
-		<Entry Key="DES_SUBRACE_LIGHT_SICK_WARRAKUS_DES" Val="A origem ou natureza do warrakus não é clara. É uma criatura de metal puro e, no entanto, é animada. Alguns chamam isso de trabalho demoníaco, maldição, outros sussurram sobre o trabalho dos anões. A luz parece incapaz de reivindicá-los, mas enfraquece o metal."></Entry>
+		<Entry Key="DES_SUBRACE_LIGHT_SICK_WARRAKUS_DES" Val="A origem ou natureza do warrakus não é clara. É uma criatura de metal puro e, no entanto, é animada. Alguns chamam isso de trabalho demoníaco, maldição, outros sussurram sobre o trabalho dos anoes. A luz parece incapaz de reivindicá-los, mas enfraquece o metal."></Entry>
 		<Entry Key="DES_SUBRACE_DWARF_WARRIOR_IRON_STORM" Val="Tempestade de Ferro"></Entry>
-		<Entry Key="DES_SUBRACE_DWARF_WARRIOR_IRON_STORM_DES" Val="Tempestade de Ferro é um jovem guerreiro de pedra e ferro que provou sua lealdade inabalável aos parentes anões várias vezes. Se ele concordar em se juntar a você, é para mostrar aos seus jovens deuses do que é feito um verdadeiro anão."></Entry>
+		<Entry Key="DES_SUBRACE_DWARF_WARRIOR_IRON_STORM_DES" Val="Tempestade de Ferro é um jovem guerreiro de pedra e ferro que provou sua lealdade inabalável aos parentes anoes várias vezes. Se ele concordar em se juntar a você, é para mostrar aos seus jovens deuses do que é feito um verdadeiro anão."></Entry>
 		<Entry Key="DES_SUBRACE_DARK_TOTEM" Val="Totem Negro"></Entry>
 		<Entry Key="DES_SUBRACE_DARK_TOTEM_DES" Val="Esta estátua de pedra esculpida contém espíritos de seus antepassados, ansiosos para ajudá-lo em um desafio."></Entry>
 		<Entry Key="DES_SUBRACE_NONE" Val="Sem aula"></Entry>
@@ -1060,7 +1060,7 @@
 		<Entry Key="DES_SUBRACE_DEMON_TREASURE" Val="Tomislav - Demônio do Tesouro"></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_TREASURE_DES" Val="Tomislav é o líder da Bear Village, um autoproclamado &amp;#39;chefe&amp;#39; que parece cuidar muito de sua casa. Ele também é um demônio tesoureiro, que normalmente seria encontrado em cavernas e masmorras, guardando algumas jóias perdidas há muito tempo. Este claramente encontrou um novo chamado."></Entry>
 		<Entry Key="DES_SUBRACE_FOREFATHER_SPIRITS" Val="Espíritos Antepassados"></Entry>
-		<Entry Key="DES_SUBRACE_FOREFATHER_SPIRITS_DES" Val="Os antepassados são as almas dos antepassados, também referidos como dziody. São almas velhas, sábias, mas orgulhosas e fáceis de se irritar. O povo de Slavya há muito honra os antepassados com todas as celebrações das almas, pedindo sua sabedoria e proteção em troca da veneração."></Entry>
+		<Entry Key="DES_SUBRACE_FOREFATHER_SPIRITS_DES" Val="Os antepassados são as almas dos antepassados, também referidos como dziody. São almas velhas, sábias, mas orgulhosas e fáceis de se irritar. O povo de Slavya há muito honra os antepassados com todas as celebraçoes das almas, pedindo sua sabedoria e proteção em troca da veneração."></Entry>
 		<Entry Key="DES_SUBRACE_POSSESSED_PUMPKIN" Val="Abóbora Possuída"></Entry>
 		<Entry Key="DES_SUBRACE_POSSESSED_ELDER_PUMPKIN" Val="Abóbora Anciã Possuída"></Entry>
 		<Entry Key="DES_SUBRACE_POSSESSED_ANCIENT_PUMPKIN" Val="Abóbora Antiga Possuída"></Entry>
@@ -1108,7 +1108,7 @@
 		<Entry Key="DES_RES_TOPAZ" Val="Topázio"></Entry>
 		<Entry Key="DES_RES_TOPAZ_DES" Val="Pedra preciosa de cristal brilhante. Pode vir em várias cores e é amplamente utilizado na criação.\n\nRecurso aprimorado ({ICON:ImprovedResourceIcon})."></Entry>
 		<Entry Key="DES_RES_RUBY" Val="Rubi"></Entry>
-		<Entry Key="DES_RES_RUBY_DES" Val="Muitas vezes referido como a pedra de sangue, o rubi é uma pedra preciosa muito procurada. Fable diz que os corações da striga poderosa se transformam em rubi após a morte.\n\nRecurso selvagem ({ICON:WildResourceIcon})."></Entry>
+		<Entry Key="DES_RES_RUBY_DES" Val="Muitas vezes referido como a pedra de sangue, o rubi é uma pedra preciosa muito procurada. Fable diz que os coraçoes da striga poderosa se transformam em rubi após a morte.\n\nRecurso selvagem ({ICON:WildResourceIcon})."></Entry>
 		<Entry Key="DES_RES_DIAMOND" Val="Diamante"></Entry>
 		<Entry Key="DES_RES_DIAMOND_DES" Val=""></Entry>
 		<Entry Key="DES_RES_BONE" Val="Osso"></Entry>
@@ -1134,7 +1134,7 @@
 		<Entry Key="DES_RES_IRON" Val="Ferro"></Entry>
 		<Entry Key="DES_RES_IRON_DES" Val="Comumente usado para artesanato."></Entry>
 		<Entry Key="DES_RES_GOLD" Val="Ouro"></Entry>
-		<Entry Key="DES_RES_GOLD_DES" Val="Não é tão durável quanto alguns metais, mas ainda é procurado especialmente para ornamentos, bijuterias e bijuterias. Bandidos e dragões adoram.\n\nRecurso selvagem ({ICON:WildResourceIcon})."></Entry>
+		<Entry Key="DES_RES_GOLD_DES" Val="Não é tão durável quanto alguns metais, mas ainda é procurado especialmente para ornamentos, bijuterias e bijuterias. Bandidos e dragoes adoram.\n\nRecurso selvagem ({ICON:WildResourceIcon})."></Entry>
 		<Entry Key="DES_RES_STEEL" Val="Aço"></Entry>
 		<Entry Key="DES_RES_STEEL_DES" Val="Como se costuma dizer, afiada como aço. Bom material de artesanato ao redor."></Entry>
 		<Entry Key="DES_RES_SILVER" Val="Prata"></Entry>
@@ -1150,7 +1150,7 @@
 		<Entry Key="DES_RES_GRANITE" Val="Granito"></Entry>
 		<Entry Key="DES_RES_GRANITE_DES" Val="Muito resistente e durável, frequentemente usado para lápides.\n\nRecurso selvagem ({ICON:WildResourceIcon})."></Entry>
 		<Entry Key="DES_RES_OBSIDIAN" Val="Obsidiana"></Entry>
-		<Entry Key="DES_RES_OBSIDIAN_DES" Val="Também conhecida como a pedra negra, é lendária que vem dos corações enegrecidos daqueles corrompidos pelas trevas."></Entry>
+		<Entry Key="DES_RES_OBSIDIAN_DES" Val="Também conhecida como a pedra negra, é lendária que vem dos coraçoes enegrecidos daqueles corrompidos pelas trevas."></Entry>
 		<Entry Key="DES_RES_PURE_STONE" Val="Pedra Pura"></Entry>
 		<Entry Key="DES_RES_PURE_STONE_DES" Val="Potência de pedra pura e não adulterada.\n\nEste composto se encaixa na categoria de material de pedra."></Entry>
 		<Entry Key="DES_RES_ARMOURED_STONE" Val="Pedra Blindada"></Entry>
@@ -1172,9 +1172,9 @@
 		<Entry Key="DES_RES_CRYSTAL_WOOD" Val="Madeira de Cristal"></Entry>
 		<Entry Key="DES_RES_CRYSTAL_WOOD_DES" Val="Criado usando técnicas élficas antigas, bonitas e extremamente resistentes para madeira.\n\nEste composto se encaixa nas categorias de materiais Gem e Madeira.\n\nRecurso selvagem ({ICON:WildResourceIcon})."></Entry>
 		<Entry Key="DES_RES_SACRED_WOOD" Val="Madeira Sagrada"></Entry>
-		<Entry Key="DES_RES_SACRED_WOOD_DES" Val="Feito usando técnicas transmitidas pelos guardiões da floresta, diz-se que guarda a bênção deles.\n\nEste composto se encaixa na categoria de material Madeira."></Entry>
+		<Entry Key="DES_RES_SACRED_WOOD_DES" Val="Feito usando técnicas transmitidas pelos guardioes da floresta, diz-se que guarda a bênção deles.\n\nEste composto se encaixa na categoria de material Madeira."></Entry>
 		<Entry Key="DES_RES_STONE_WOOD" Val="Madeira de Pedra"></Entry>
-		<Entry Key="DES_RES_STONE_WOOD_DES" Val="Combinado graças ao conhecimento de elfos e anões para criar uma mistura verdadeiramente única.\n\nEste composto se encaixa nas categorias de materiais Madeira e Pedra.\n\nRecurso aprimorado ({ICON:ImprovedResourceIcon})."></Entry>
+		<Entry Key="DES_RES_STONE_WOOD_DES" Val="Combinado graças ao conhecimento de elfos e anoes para criar uma mistura verdadeiramente única.\n\nEste composto se encaixa nas categorias de materiais Madeira e Pedra.\n\nRecurso aprimorado ({ICON:ImprovedResourceIcon})."></Entry>
 		<Entry Key="DES_RES_PRISTINE_MATTER" Val="Matéria primitiva"></Entry>
 		<Entry Key="DES_RES_PRISTINE_MATTER_DES" Val="A matéria primitiva foi desenvolvida por alquimistas antes que a escuridão destruísse a civilização.\n\nEste composto se encaixa nas categorias de materiais Madeira e Pedra.\n\nRecurso aprimorado ({ICON:ImprovedResourceIcon})."></Entry>
 		<Entry Key="DES_RES_MOONSTONE" Val="Moonstone"></Entry>
@@ -1194,7 +1194,7 @@
 		<Entry Key="DES_RES_VOID_SPARKLER" Val="Cintilante Void"></Entry>
 		<Entry Key="DES_RES_VOID_SPARKLER_DES" Val="Escuro como o vazio, brilhante como as estrelas.\n\nEste composto se encaixa nas categorias de materiais de Ossos e Gemas.\n\nRecurso aprimorado ({ICON:ImprovedResourceIcon})."></Entry>
 		<Entry Key="DES_RES_EARTH_CORE" Val="Núcleo da Terra"></Entry>
-		<Entry Key="DES_RES_EARTH_CORE_DES" Val="O antigo segredo de obter o Núcleo da Terra pertence aos anões. Alguns ainda se ressentem de seu uso fora das forjas dos anões.\n\nEste composto se encaixa nas categorias de materiais Gem e Madeira.\n\nRecurso selvagem ({ICON:WildResourceIcon})."></Entry>
+		<Entry Key="DES_RES_EARTH_CORE_DES" Val="O antigo segredo de obter o Núcleo da Terra pertence aos anoes. Alguns ainda se ressentem de seu uso fora das forjas dos anoes.\n\nEste composto se encaixa nas categorias de materiais Gem e Madeira.\n\nRecurso selvagem ({ICON:WildResourceIcon})."></Entry>
 		<Entry Key="DES_RES_LIFE_ROOT" Val="Raiz da Vida"></Entry>
 		<Entry Key="DES_RES_LIFE_ROOT_DES" Val="Os segredos da Raiz da Vida foram transmitidos pelo povo da floresta.\n\nEste composto se encaixa nas categorias de materiais Gem e Madeira.\n\nRecurso aprimorado ({ICON:ImprovedResourceIcon})."></Entry>
 		<Entry Key="DES_RES_GODS_BRANCH" Val="Ramo de Deus"></Entry>
@@ -1204,21 +1204,21 @@
 		<Entry Key="DES_RES_FISH" Val="Peixe"></Entry>
 		<Entry Key="DES_RES_FISH_DES" Val="O peixe tornou-se muito comum depois que o estilhaçamento inundou a terra com água do mar."></Entry>
 		<Entry Key="DES_RES_VEGGIES" Val="Vegetais"></Entry>
-		<Entry Key="DES_RES_VEGGIES_DES" Val="Os vegetais são a base de uma boa dieta, em conserva, ensopados, cozidos ou frescos. Melhores estações para reunir - Primavera {ICON:Spring} e verão {ICON:Summer}"></Entry>
+		<Entry Key="DES_RES_VEGGIES_DES" Val="Os vegetais são a base de uma boa dieta, em conserva, ensopados, cozidos ou frescos. Melhores estaçoes para reunir - Primavera {ICON:Spring} e verão {ICON:Summer}"></Entry>
 		<Entry Key="DES_RES_HERBS" Val="Ervas"></Entry>
-		<Entry Key="DES_RES_HERBS_DES" Val="As ervas são ótimas para cozinhar e fitoterapia. Melhores estações para reunir - Primavera {ICON:Spring} e verão {ICON:Summer}"></Entry>
+		<Entry Key="DES_RES_HERBS_DES" Val="As ervas são ótimas para cozinhar e fitoterapia. Melhores estaçoes para reunir - Primavera {ICON:Spring} e verão {ICON:Summer}"></Entry>
 		<Entry Key="DES_RES_FRUITS" Val="Fruta"></Entry>
-		<Entry Key="DES_RES_FRUITS_DES" Val="Frutas - tenho que comprar cinco por dia. Melhores estações para reunir - Primavera {ICON:Spring} e verão {ICON:Summer}"></Entry>
+		<Entry Key="DES_RES_FRUITS_DES" Val="Frutas - tenho que comprar cinco por dia. Melhores estaçoes para reunir - Primavera {ICON:Spring} e verão {ICON:Summer}"></Entry>
 		<Entry Key="DES_RES_GRAIN" Val="Grão"></Entry>
-		<Entry Key="DES_RES_GRAIN_DES" Val="O grão pode ser um pouco chato, mas é muito versátil na cozinha. Melhores estações para se reunir - verão {ICON:Summer} e outono {ICON:Autumn}"></Entry>
+		<Entry Key="DES_RES_GRAIN_DES" Val="O grão pode ser um pouco chato, mas é muito versátil na cozinha. Melhores estaçoes para se reunir - verão {ICON:Summer} e outono {ICON:Autumn}"></Entry>
 		<Entry Key="DES_RES_BEETLE_JELLY" Val="Geleia de Besouro"></Entry>
 		<Entry Key="DES_RES_BEETLE_JELLY_DES" Val="Geléia de Besouro - yum."></Entry>
 		<Entry Key="DES_RES_SPICES" Val="Especiarias"></Entry>
-		<Entry Key="DES_RES_SPICES_DES" Val="Especiarias - sempre há tempo para apimentar sua vida. Melhores estações para se reunir - verão {ICON:Summer} e outono {ICON:Autumn}"></Entry>
+		<Entry Key="DES_RES_SPICES_DES" Val="Especiarias - sempre há tempo para apimentar sua vida. Melhores estaçoes para se reunir - verão {ICON:Summer} e outono {ICON:Autumn}"></Entry>
 		<Entry Key="DES_RES_NUTS" Val="Nozes"></Entry>
-		<Entry Key="DES_RES_NUTS_DES" Val="Nozes, crocantes e saborosas, apenas esteja avisado dos esquilos tentando roubá-los de você. Melhores estações para se reunir - verão {ICON:Summer} e outono {ICON:Autumn}"></Entry>
+		<Entry Key="DES_RES_NUTS_DES" Val="Nozes, crocantes e saborosas, apenas esteja avisado dos esquilos tentando roubá-los de você. Melhores estaçoes para se reunir - verão {ICON:Summer} e outono {ICON:Autumn}"></Entry>
 		<Entry Key="DES_RES_MUSHROOMS" Val="Cogumelos"></Entry>
-		<Entry Key="DES_RES_MUSHROOMS_DES" Val="Cogumelos - selvagens ou cultivados, eles têm um gosto bom e podem lhe dar visões. Melhores estações para se reunir - verão {ICON:Summer} e outono {ICON:Autumn}"></Entry>
+		<Entry Key="DES_RES_MUSHROOMS_DES" Val="Cogumelos - selvagens ou cultivados, eles têm um gosto bom e podem lhe dar visoes. Melhores estaçoes para se reunir - verão {ICON:Summer} e outono {ICON:Autumn}"></Entry>
 		<Entry Key="DES_RES_EGGS" Val="Ovos"></Entry>
 		<Entry Key="DES_RES_EGGS_DES" Val="Ovos, mexidos, cozidos, escalfados - tudo gostoso."></Entry>
 		<Entry Key="DES_RES_COSMIC_SEED" Val="Semente Cósmica"></Entry>
@@ -1226,7 +1226,7 @@
 		<Entry Key="DES_RES_COAL" Val="Carvão"></Entry>
 		<Entry Key="DES_RES_COAL_DES" Val="Um tipo bastante estranho de rocha. Bastante inútil para artesanato, mas pelo menos queima bem."></Entry>
 		<Entry Key="DES_RES_SEAWEED" Val="Algas marinhas"></Entry>
-		<Entry Key="DES_RES_SEAWEED_DES" Val="Planta verde e um tanto viscosa que você tirou do mar. Cheira nojento, mas aparentemente é comestível. Melhores estações para se reunir - verão {ICON:Summer} e outono {ICON:Autumn}"></Entry>
+		<Entry Key="DES_RES_SEAWEED_DES" Val="Planta verde e um tanto viscosa que você tirou do mar. Cheira nojento, mas aparentemente é comestível. Melhores estaçoes para se reunir - verão {ICON:Summer} e outono {ICON:Autumn}"></Entry>
 		<Entry Key="DES_TERRAIN_ARTIFACT" Val="Artefato do Terreno"></Entry>
 		<Entry Key="DES_TERRAIN_ARTIFACT_DES" Val="Esses cristais flutuantes brilhantes parecem um pouco incomuns. Talvez eles tenham sido enviados pelos deuses para ajudá-lo? Reúna-os e descubra pedaços de conhecimento antigo armazenados neles."></Entry>
 		<Entry Key="DES_RESEARCH_GENERIC" Val="Um pouco de pesquisa"></Entry>
@@ -1956,7 +1956,7 @@
 		<Entry Key="DES_SCROLL_1H_PRISTINE_MATTER" Val="Pergaminho Impecável"></Entry>
 		<Entry Key="DES_SCROLL_1H_GODS_BRANCH" Val="Pergaminho dos Deuses"></Entry>
 		<Entry Key="DES_SCROLL_2H" Val="Códice"></Entry>
-		<Entry Key="DES_SCROLL_2H_DES" Val="Um livro construído de muitas páginas rabiscadas com informações importantes. Precisa de ambas as mãos para usar."></Entry>
+		<Entry Key="DES_SCROLL_2H_DES" Val="Um livro construído de muitas páginas rabiscadas com informaçoes importantes. Precisa de ambas as mãos para usar."></Entry>
 		<Entry Key="DES_SCROLL_2H_AMBER" Val="Códice Âmbar"></Entry>
 		<Entry Key="DES_SCROLL_2H_MALACHITE" Val="Códice Malaquita"></Entry>
 		<Entry Key="DES_SCROLL_2H_TOPAZ" Val="Códice de Topázio"></Entry>
@@ -2108,25 +2108,25 @@
 		<Entry Key="DES_SHIP_SMALL_STRIBOG" Val="Jangada do Stribog"></Entry>
 		<Entry Key="DES_SHIP_SMALL_STRIBOG_DES" Val="Uma embarcação abençoada que permitirá que você navegue, mas não pode ser usada para coleta ou criação."></Entry>
 		<Entry Key="DES_SHIP_MEDIUM" Val="Barco a vela"></Entry>
-		<Entry Key="DES_SHIP_MEDIUM_DES" Val="Um barco decente que lhe permitirá navegar e talvez levar alguns suprimentos também. Permite reunir recursos marinhos e embarcações enquanto navega."></Entry>
+		<Entry Key="DES_SHIP_MEDIUM_DES" Val="Um barco decente que lhe permitirá navegar e talvez levar alguns suprimentos também. Permite reunir recursos marinhos e embarcaçoes enquanto navega."></Entry>
 		<Entry Key="DES_SHIP_LARGE" Val="Navio"></Entry>
-		<Entry Key="DES_SHIP_LARGE_DES" Val="Se você leva a sério as viagens aquáticas, é isso que você quer. Permite reunir recursos marinhos e embarcações enquanto navega."></Entry>
+		<Entry Key="DES_SHIP_LARGE_DES" Val="Se você leva a sério as viagens aquáticas, é isso que você quer. Permite reunir recursos marinhos e embarcaçoes enquanto navega."></Entry>
 		<Entry Key="DES_PIRATE_SHIP1" Val="Drifter"></Entry>
-		<Entry Key="DES_PIRATE_SHIP1_DES" Val="Um navio pirata, mantido unido por cordas e bom humor de sua tripulação. Permite reunir recursos marinhos e embarcações enquanto navega."></Entry>
+		<Entry Key="DES_PIRATE_SHIP1_DES" Val="Um navio pirata, mantido unido por cordas e bom humor de sua tripulação. Permite reunir recursos marinhos e embarcaçoes enquanto navega."></Entry>
 		<Entry Key="DES_PIRATE_SHIP2" Val="Viajante"></Entry>
-		<Entry Key="DES_PIRATE_SHIP2_DES" Val="Um grande navio pirata, já viu dias melhores, mas ainda flutua. Permite reunir recursos marinhos e embarcações enquanto navega."></Entry>
+		<Entry Key="DES_PIRATE_SHIP2_DES" Val="Um grande navio pirata, já viu dias melhores, mas ainda flutua. Permite reunir recursos marinhos e embarcaçoes enquanto navega."></Entry>
 		<Entry Key="DES_COOKING" Val="Comida Cozida"></Entry>
 		<Entry Key="DES_COOKING_DES" Val="Hummm cheira bem!"></Entry>
 		<Entry Key="DES_COOKING_MEAT1" Val="Carne Doce"></Entry>
 		<Entry Key="DES_COOKING_MEAT1_DES" Val="Carne picante com frutas.\nIngredientes primários:\n{ÍCONE:Carne} {ÍCONE:Peixe} {ÍCONE:Geleia de Besouro} {ÍCONE:Ovos}\nIngredientes secundários:\n{ÍCONE:Frutas} {ÍCONE:Nozes} {ÍCONE: Especiarias} {ÍCONE:Ervas}"></Entry>
-		<Entry Key="DES_COOKING_MEAT2" Val="Refeições de carne"></Entry>
+		<Entry Key="DES_COOKING_MEAT2" Val="Refeiçoes de carne"></Entry>
 		<Entry Key="DES_COOKING_MEAT2_DES" Val="Receitas saudáveis de carne e legumes.\nIngredientes primários:\n{ICON:Carne} {ICON:Peixe} {ICON:BeetleJelly} {ICON:Ovos}\nIngredientes secundários:\n{ICON:Veggies} {ICON:Grain} {ICON :Algas} {ICON:Cogumelos} {ICON:Carne} {ICON:Peixe} {ICON:BeetleJelly} {ICON:Ovos}"></Entry>
 		<Entry Key="DES_COOKING_VEGGIES1" Val="Opção vegetariana"></Entry>
 		<Entry Key="DES_COOKING_VEGGIES1_DES" Val="Legumes picantes.\nIngredientes primários:\n{ICON:Veggies} {ICON:Grain} {ICON:Alga} {ICON:Cogumelos}\nIngredientes secundários:\n{ICON:Veggies} {ICON:Grain} {ICON:Seaweed} {ICON:Cogumelos} {ICON:Spices} {ICON:Ervas}"></Entry>
 		<Entry Key="DES_COOKING_VEGGIES2" Val="Menu Tradicional"></Entry>
 		<Entry Key="DES_COOKING_VEGGIES2_DES" Val="Pratos eslavos tradicionais.\nIngredientes primários:\n{ICON:Veggies} {ICON:Grain} {ICON:Algas} {ICON:Cogumelos}\nIngredientes secundários:\n{ICON:Carne} {ICON:Peixes} {ICON:BeetleJelly } {ÍCONE:Ovos} {ÍCONE:Frutas} {ÍCONE:Nozes}"></Entry>
 		<Entry Key="DES_COOKING_FRUITS1" Val="mimos da vovó"></Entry>
-		<Entry Key="DES_COOKING_FRUITS1_DES" Val="Guloseimas para ocasiões especiais.\nIngredientes primários:\n{ÍCONE:Frutas} {ÍCONE:Nozes}\nIngredientes secundários:\n{ÍCONE:Frutas} {ÍCONE:Nozes} {ÍCONE:Vegetais} {ÍCONE:Grãos} {ÍCONE: Alga} {ICON:Cogumelos}"></Entry>
+		<Entry Key="DES_COOKING_FRUITS1_DES" Val="Guloseimas para ocasioes especiais.\nIngredientes primários:\n{ÍCONE:Frutas} {ÍCONE:Nozes}\nIngredientes secundários:\n{ÍCONE:Frutas} {ÍCONE:Nozes} {ÍCONE:Vegetais} {ÍCONE:Grãos} {ÍCONE: Alga} {ICON:Cogumelos}"></Entry>
 		<Entry Key="DES_COOKING_FRUITS2" Val="Receitas de duendes"></Entry>
 		<Entry Key="DES_COOKING_FRUITS2_DES" Val="Pratos e bebidas do Livro Donoughteet dos Goblins.\nIngredientes primários:\n{ICON:Frutas} {ICON:Nozes}\nIngredientes secundários:\n{ICON:Carne} {ICON:Peixe} {ICON:BeetleJelly} {ICON:Ovos } {ÍCONE:Especiarias} {ÍCONE:Ervas}"></Entry>
 		<Entry Key="DES_PET_HORSE" Val="Cavalo"></Entry>
@@ -2186,7 +2186,7 @@
 		<Entry Key="DES_FORGE_STONE" Val="Forja de Pedra"></Entry>
 		<Entry Key="DES_FORGE_GEMS" Val="Forja de Gemas"></Entry>
 		<Entry Key="DES_ARMOURY" Val="Arsenal"></Entry>
-		<Entry Key="DES_ARMOURY_DES" Val="Para armazenamento e manutenção de equipamentos. Aumenta a blindagem dos aldeões."></Entry>
+		<Entry Key="DES_ARMOURY_DES" Val="Para armazenamento e manutenção de equipamentos. Aumenta a blindagem dos aldeoes."></Entry>
 		<Entry Key="DES_ARMOURY_METAL" Val="Armaria de Metal"></Entry>
 		<Entry Key="DES_ARMOURY_STONE" Val="Armaria de Pedra"></Entry>
 		<Entry Key="DES_ARMOURY_GEMS" Val="Arsenal de Gemas"></Entry>
@@ -2296,7 +2296,7 @@
 		<Entry Key="DES_COOKING_MUSHROOMS_MEAT" Val="Goulash de Cogumelo"></Entry>
 		<Entry Key="DES_COOKING_MUSHROOMS_MEAT_DES" Val="Mushroom Gulash, qualquer coisa que você tenha jogado em uma panela e cozido por horas até ficar gostoso."></Entry>
 		<Entry Key="DES_COOKING_MUSHROOMS_VEGGIES" Val="Cozido de Cogumelos"></Entry>
-		<Entry Key="DES_COOKING_MUSHROOMS_VEGGIES_DES" Val="Mushroom Bake, avisando, pode causar visões."></Entry>
+		<Entry Key="DES_COOKING_MUSHROOMS_VEGGIES_DES" Val="Mushroom Bake, avisando, pode causar visoes."></Entry>
 		<Entry Key="DES_COOKING_MUSHROOMS_FRUITS" Val="Salada de Cogumelos"></Entry>
 		<Entry Key="DES_COOKING_MUSHROOMS_FRUITS_DES" Val="Salada de Cogumelos, leve e simples."></Entry>
 		<Entry Key="DES_COOKING_MUSHROOMS_SPICES" Val="Cogumelo Frito"></Entry>
@@ -2350,7 +2350,7 @@
 		<Entry Key="DES_TECH_AXE_2H_2" Val="Machados de 2 mãos - Especialista"></Entry>
 		<Entry Key="DES_TECH_AXE_2H_2_DES" Val="Aumente ainda mais sua proficiência na fabricação de machados de 2 mãos. Você poderá usar um tipo de material primário e secundário adicional e receberá um bônus de {SCRIPT:UIS_GetEssenceGrow,ITEM_TECH-AXE_2H_2}% em Essence."></Entry>
 		<Entry Key="DES_TECH_CLUBS" Val="Clubes"></Entry>
-		<Entry Key="DES_TECH_CLUBS_DES" Val="Permite que você crie bastões de 1 e 2 mãos que também causam dano de área de efeito.\n\nClube ({ICON:Handed1}) - velocidade baixa, dano baixo.\n\nMallet ({ICON:Handed2}) - baixo velocidade, dano alto."></Entry>
+		<Entry Key="DES_TECH_CLUBS_DES" Val="Permite que você crie bastoes de 1 e 2 mãos que também causam dano de área de efeito.\n\nClube ({ICON:Handed1}) - velocidade baixa, dano baixo.\n\nMallet ({ICON:Handed2}) - baixo velocidade, dano alto."></Entry>
 		<Entry Key="DES_TECH_CLUB_1H_1" Val="Tacos de 1 mão - Avançado"></Entry>
 		<Entry Key="DES_TECH_CLUB_1H_1_DES" Val="Aumente sua proficiência na criação de tacos de 1 mão. Você poderá usar um tipo de material primário e secundário adicional e receberá um bônus de {SCRIPT:UIS_GetEssenceGrow,ITEM_TECH-CLUB_1H_1}% para Essence."></Entry>
 		<Entry Key="DES_TECH_CLUB_1H_2" Val="Paus de 1 mão - Especialista"></Entry>
@@ -2632,8 +2632,8 @@
 		<Entry Key="DES_SKILL_ANGRY_WAVES_DES" Val="É impossível, mas essas ondas parecem estar com raiva de você."></Entry>
 		<Entry Key="DES_SKILL_MUTATION_CURSE" Val="Mutação"></Entry>
 		<Entry Key="DES_SKILL_MUTATION_CURSE_DES" Val="A magia transformou um de seus amigos. Eles perdem alguns de seus pontos de vida, mas se tornam mais agressivos."></Entry>
-		<Entry Key="DES_SKILL_SUMMON_SEA_DRAGON" Val="Convocar Dragões do Mar"></Entry>
-		<Entry Key="DES_SKILL_SUMMON_SEA_DRAGON_DES" Val="Dragões do Mar? O que são aquelas criaturas engraçadas...? Ei, não coma minha armadura!"></Entry>
+		<Entry Key="DES_SKILL_SUMMON_SEA_DRAGON" Val="Convocar Dragoes do Mar"></Entry>
+		<Entry Key="DES_SKILL_SUMMON_SEA_DRAGON_DES" Val="Dragoes do Mar? O que são aquelas criaturas engraçadas...? Ei, não coma minha armadura!"></Entry>
 		<Entry Key="DES_SKILL_WAVE_SHOT" Val="Tiro de onda"></Entry>
 		<Entry Key="DES_SKILL_WAVE_SHOT_DES" Val="Projéteis de água também podem ser perigosos, especialmente se forem tão grandes."></Entry>
 		<Entry Key="DES_SKILL_SUMMON_SEA_VINES" Val="Invocar vinhas do mar"></Entry>
@@ -2677,11 +2677,11 @@
 		<Entry Key="DES_SKILL_ILLNESS" Val="Doença"></Entry>
 		<Entry Key="DES_SKILL_ILLNESS_DES" Val="Uma doença ataca e enfraquece você por um tempo. Reduz o movimento e todos os pontos de saúde."></Entry>
 		<Entry Key="DES_SKILL_CURSE_P" Val="Maldição Física"></Entry>
-		<Entry Key="DES_SKILL_CURSE_P_DES" Val="Uma maldição do corpo que enfraquece sua saúde máxima e retarda seu movimento. Maldições duram até serem removidas."></Entry>
+		<Entry Key="DES_SKILL_CURSE_P_DES" Val="Uma maldição do corpo que enfraquece sua saúde máxima e retarda seu movimento. Maldiçoes duram até serem removidas."></Entry>
 		<Entry Key="DES_SKILL_CURSE_M" Val="Maldição Mental"></Entry>
-		<Entry Key="DES_SKILL_CURSE_M_DES" Val="Uma maldição da mente que enfraquece sua inteligência e sabedoria. Maldições duram até serem removidas."></Entry>
+		<Entry Key="DES_SKILL_CURSE_M_DES" Val="Uma maldição da mente que enfraquece sua inteligência e sabedoria. Maldiçoes duram até serem removidas."></Entry>
 		<Entry Key="DES_SKILL_CURSE_S" Val="Maldição Espiritual"></Entry>
-		<Entry Key="DES_SKILL_CURSE_S_DES" Val="Uma maldição da alma que enfraquece seu misticismo e destino. Maldições duram até serem removidas."></Entry>
+		<Entry Key="DES_SKILL_CURSE_S_DES" Val="Uma maldição da alma que enfraquece seu misticismo e destino. Maldiçoes duram até serem removidas."></Entry>
 		<Entry Key="DES_SKILL_BLESS_P" Val="Bênção Física"></Entry>
 		<Entry Key="DES_SKILL_BLESS_P_DES" Val="Bênção do corpo, aumenta temporariamente sua saúde física e movimento máximos."></Entry>
 		<Entry Key="DES_SKILL_BLESS_M" Val="Bênção Mental"></Entry>
@@ -2801,9 +2801,9 @@
 		<Entry Key="DES_SKILL_FOREFATHER_STIGMA" Val="Estigma dos antepassados"></Entry>
 		<Entry Key="DES_SKILL_FOREFATHER_STIGMA_DES" Val="O estigma que você carrega é um fardo para sua mente e alma. Sua Inteligência, Sabedoria, Destino e Misticismo são reduzidos. Sobreviva a esta longa provação e liberte-se dela, ou pereça."></Entry>
 		<Entry Key="DES_SKILL_GREED" Val="Ambição"></Entry>
-		<Entry Key="DES_SKILL_GREED_DES" Val="Anões sem clã sofrem de uma forma estranha de fome - eles precisam ingerir uma barra de metal a cada turno. Toda vez que esse personagem ingere uma barra de metal, ele está mais perto de se livrar dessa fraqueza."></Entry>
+		<Entry Key="DES_SKILL_GREED_DES" Val="Anoes sem clã sofrem de uma forma estranha de fome - eles precisam ingerir uma barra de metal a cada turno. Toda vez que esse personagem ingere uma barra de metal, ele está mais perto de se livrar dessa fraqueza."></Entry>
 		<Entry Key="DES_SKILL_FOODIE" Val="Viciado em comida"></Entry>
-		<Entry Key="DES_SKILL_FOODIE_DES" Val="As pessoas comuns têm um ditado - &amp;#39;Nunca coma mais do que você pode levantar&amp;#39;. Mas os anões levantam muito e certamente não são pessoas comuns! Como anão, este personagem tem chance de comer 1 {ICON:FoodIcon} extra por turno."></Entry>
+		<Entry Key="DES_SKILL_FOODIE_DES" Val="As pessoas comuns têm um ditado - &amp;#39;Nunca coma mais do que você pode levantar&amp;#39;. Mas os anoes levantam muito e certamente não são pessoas comuns! Como anão, este personagem tem chance de comer 1 {ICON:FoodIcon} extra por turno."></Entry>
 		<Entry Key="DES_SKILL_SLAVE" Val="Marca de Escravo"></Entry>
 		<Entry Key="DES_SKILL_SLAVE_DES" Val="Cada escravo tem uma marca. Não apenas em seu corpo, mas também em sua mente e alma. Slave Mark é um símbolo terrível de seu passado, futuro e presente."></Entry>
 		<Entry Key="DES_SKILL_NATURE_PURITY" Val="Pureza Natural"></Entry>
@@ -2865,7 +2865,7 @@
 		<Entry Key="DES_SKILL_IMPROVISE_ARMOUR" Val="Capa improvisada"></Entry>
 		<Entry Key="DES_SKILL_IMPROVISE_ARMOUR_DES" Val="O personagem é capaz de se proteger usando qualquer coisa que possa segurar."></Entry>
 		<Entry Key="DES_SKILL_SPATIAL_AWARNESS" Val="Consciência Espacial"></Entry>
-		<Entry Key="DES_SKILL_SPATIAL_AWARNESS_DES" Val="Você sabe como usar o ambiente a seu favor e é capaz de assumir melhores posições durante os desafios."></Entry>
+		<Entry Key="DES_SKILL_SPATIAL_AWARNESS_DES" Val="Você sabe como usar o ambiente a seu favor e é capaz de assumir melhores posiçoes durante os desafios."></Entry>
 		<Entry Key="DES_SKILL_PERFECT_AIMING" Val="Mira Perfeita"></Entry>
 		<Entry Key="DES_SKILL_PERFECT_AIMING_DES" Val="Sua visão aguçada permite que você mire melhor e bata mais forte à distância."></Entry>
 		<Entry Key="DES_SKILL_I_TAKE_IT" Val="Eu vou levar"></Entry>
@@ -2912,17 +2912,17 @@
 		<Entry Key="DES_SKILL_PET_CRAB" Val="Caranguejo de estimação"></Entry>
 		<Entry Key="DES_SKILL_PET_CRAB_DES" Val="Caranguejo de estimação"></Entry>
 		<Entry Key="DES_SKILL_IDOL" Val="Ídolo"></Entry>
-		<Entry Key="DES_SKILL_IDOL_DES" Val="Cria uma vila e permite que os aldeões realizem tarefas de coleta dentro de seu alcance. A visibilidade da base e o alcance de coleta são de 1 hex."></Entry>
+		<Entry Key="DES_SKILL_IDOL_DES" Val="Cria uma vila e permite que os aldeoes realizem tarefas de coleta dentro de seu alcance. A visibilidade da base e o alcance de coleta são de 1 hex."></Entry>
 		<Entry Key="DES_SKILL_WAREHOUSE" Val="Armazém"></Entry>
 		<Entry Key="DES_SKILL_WAREHOUSE_DES" Val="Aumenta a habilidade de Coleta e fornece slots extras para tarefas de coleta."></Entry>
 		<Entry Key="DES_SKILL_FORGE" Val="Forja"></Entry>
 		<Entry Key="DES_SKILL_FORGE_DES" Val="Aumenta a habilidade de Criação e fornece slots extras para tarefas de criação."></Entry>
 		<Entry Key="DES_SKILL_ARMOURY" Val="Arsenal"></Entry>
-		<Entry Key="DES_SKILL_ARMOURY_DES" Val="Fornece bônus de Blindagem Física aos aldeões."></Entry>
+		<Entry Key="DES_SKILL_ARMOURY_DES" Val="Fornece bônus de Blindagem Física aos aldeoes."></Entry>
 		<Entry Key="DES_SKILL_SCHOOL" Val="Escola"></Entry>
 		<Entry Key="DES_SKILL_SCHOOL_DES" Val="Fornece Pontos de Pesquisa a cada turno."></Entry>
 		<Entry Key="DES_SKILL_DWELLING_BEDS" Val="Habitação"></Entry>
-		<Entry Key="DES_SKILL_DWELLING_BEDS_DES" Val="Fornece Moral em ou acima de certo nível para os aldeões."></Entry>
+		<Entry Key="DES_SKILL_DWELLING_BEDS_DES" Val="Fornece Moral em ou acima de certo nível para os aldeoes."></Entry>
 		<Entry Key="DES_SKILL_HERBALIST_HUT" Val="Cabana do Herbalista"></Entry>
 		<Entry Key="DES_SKILL_HERBALIST_HUT_DES" Val="Aumenta a taxa de regeneração de saúde e diminui a chance de morrer por ferimentos."></Entry>
 		<Entry Key="DES_SKILL_WISHING_WELL" Val="Bem dos desejos"></Entry>
@@ -3006,7 +3006,7 @@
 		<Entry Key="DES_SKILL_DARK_AURA" Val="Aura Negra"></Entry>
 		<Entry Key="DES_SKILL_DARK_AURA_DES" Val="Com a energia escura enchendo as veias, você pode materializar uma aura que parece ameaçadora para os espíritos."></Entry>
 		<Entry Key="DES_SKILL_DARK_HEART" Val="Coração Sombrio"></Entry>
-		<Entry Key="DES_SKILL_DARK_HEART_DES" Val="Aqueles que ousam abraçar a escuridão e deixá-la entrar em seus corações podem obter proteção no mundo dos espíritos."></Entry>
+		<Entry Key="DES_SKILL_DARK_HEART_DES" Val="Aqueles que ousam abraçar a escuridão e deixá-la entrar em seus coraçoes podem obter proteção no mundo dos espíritos."></Entry>
 		<Entry Key="DES_SKILL_DARK_KNOWLEDGE" Val="Conhecimento Sombrio"></Entry>
 		<Entry Key="DES_SKILL_DARK_KNOWLEDGE_DES" Val="Seu fascínio pela escuridão lhe dá uma melhor compreensão do mundo espiritual."></Entry>
 		<Entry Key="DES_SKILL_DARK_TOTEM" Val="Totem Negro"></Entry>
@@ -3081,13 +3081,13 @@
 		<Entry Key="DES_SUBSKILL_SHADOW_WHISPERS_DES" Val="Ataque da primeira fila causando dano de veneno ao inimigo alvo e até 3 inimigos próximos a eles."></Entry>
 		<Entry Key="DES_SUBSKILL_RANDOM_BLAST" Val="Explosão Aleatória"></Entry>
 		<Entry Key="DES_SUBSKILL_RANDOM_BLAST_DES" Val="Ataca aleatoriamente 1 alvo."></Entry>
-		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS" Val="Explosões Aleatórias 2"></Entry>
+		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS" Val="Explosoes Aleatórias 2"></Entry>
 		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS_DES" Val="Ataca aleatoriamente 1-2 alvos."></Entry>
-		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS3" Val="Explosões Aleatórias 3"></Entry>
+		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS3" Val="Explosoes Aleatórias 3"></Entry>
 		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS3_DES" Val="Ataca aleatoriamente 1-3 alvos."></Entry>
-		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS4" Val="Explosões Aleatórias 4"></Entry>
+		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS4" Val="Explosoes Aleatórias 4"></Entry>
 		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS4_DES" Val="Ataca aleatoriamente 1-4 alvos."></Entry>
-		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS5" Val="Explosões Aleatórias 5"></Entry>
+		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS5" Val="Explosoes Aleatórias 5"></Entry>
 		<Entry Key="DES_SUBSKILL_RANDOM_BLASTS5_DES" Val="Ataca aleatoriamente 1-5 alvos."></Entry>
 		<Entry Key="DES_SUBSKILL_DARKNESS_VORTEX" Val="Vórtice da Escuridão"></Entry>
 		<Entry Key="DES_SUBSKILL_DARKNESS_VORTEX_DES" Val="Ataca aleatoriamente 1 alvo."></Entry>
@@ -3352,8 +3352,8 @@
 		<Entry Key="DES_SUBSKILL_NIGHT_PREDATOR_PER_DEST_DES" Val="Aumente os atributos de Percepção e Destino do personagem durante os turnos noturnos."></Entry>
 		<Entry Key="DES_SUBSKILL_CONST_ADD_DAY_HEAL" Val="Cura do dia"></Entry>
 		<Entry Key="DES_SUBSKILL_CONST_ADD_DAY_HEAL_DES" Val="Regeneração de saúde aumentada durante os turnos do dia."></Entry>
-		<Entry Key="DES_SUBSKILL_CONST_SUB_NIGHT_MENTAL_INJURIES" Val="Lesões mentais noturnas"></Entry>
-		<Entry Key="DES_SUBSKILL_CONST_SUB_NIGHT_MENTAL_INJURIES_DES" Val="Lesões mentais durante os turnos da noite."></Entry>
+		<Entry Key="DES_SUBSKILL_CONST_SUB_NIGHT_MENTAL_INJURIES" Val="Lesoes mentais noturnas"></Entry>
+		<Entry Key="DES_SUBSKILL_CONST_SUB_NIGHT_MENTAL_INJURIES_DES" Val="Lesoes mentais durante os turnos da noite."></Entry>
 		<Entry Key="DES_SUBSKILL_DAY_WEAKNESS" Val="Fraqueza do dia"></Entry>
 		<Entry Key="DES_SUBSKILL_DAY_WEAKNESS_DES" Val="Diminua os principais atributos do personagem (Raciocínio, Força, Percepção, Inteligência, Sabedoria, Misticismo e Destino) durante os turnos do dia."></Entry>
 		<Entry Key="DES_SUBSKILL_MIND_SPIRIT_WEAKNESS" Val="Fraqueza da mente-espírito"></Entry>
@@ -3562,7 +3562,7 @@
 		<Entry Key="DES_SUBSKILL_BUILDING_SIGHT_RANGE" Val="Aumentar o Alcance de Visão da Aldeia"></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_SIGHT_RANGE_DES" Val="Aumente o alcance de visão da vila."></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_GATHERING_RANGE" Val="Aumentar o Alcance de Coleta da Aldeia"></Entry>
-		<Entry Key="DES_SUBSKILL_BUILDING_GATHERING_RANGE_DES" Val="Aumente o Alcance de Coleta da Aldeia, para que seus aldeões possam coletar recursos de ladrilhos mais distantes."></Entry>
+		<Entry Key="DES_SUBSKILL_BUILDING_GATHERING_RANGE_DES" Val="Aumente o Alcance de Coleta da Aldeia, para que seus aldeoes possam coletar recursos de ladrilhos mais distantes."></Entry>
 		<Entry Key="DES_SUBSKILL_CAMP_GATHERING_RANGE" Val="Aumentar o alcance de reunião do acampamento"></Entry>
 		<Entry Key="DES_SUBSKILL_CAMP_GATHERING_RANGE_DES" Val="Aumente o alcance de coleta do acampamento, para que seus seguidores possam coletar recursos de blocos mais distantes."></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_ADD_MAX_HEALTH_P" Val="Aumentar a saúde máxima"></Entry>
@@ -3593,7 +3593,7 @@
 		<Entry Key="DES_SUBSKILL_BUILDING_ADD_RESEARCH_SLOTS_DES" Val="Aumente o número de slots de pesquisa para que mais pessoas possam ser atribuídas a cada tarefa de pesquisa."></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_ADD_STRONG_RESEARCH_SLOTS" Val="Espaços de pesquisa extras"></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_THRESHOLD_MORALE" Val="Limiar de Moral"></Entry>
-		<Entry Key="DES_SUBSKILL_BUILDING_THRESHOLD_MORALE_DES" Val="Impede que o Moral de todos os aldeões caia abaixo do limite especificado."></Entry>
+		<Entry Key="DES_SUBSKILL_BUILDING_THRESHOLD_MORALE_DES" Val="Impede que o Moral de todos os aldeoes caia abaixo do limite especificado."></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_MEDICINE" Val="Aumentar a taxa de cura"></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_MEDICINE_DES" Val="Aumente a taxa de cura de todos os personagens dentro e ao redor da vila."></Entry>
 		<Entry Key="DES_SUBSKILL_BUILDING_LOWER_DEATH_CHANCE" Val="Diminuir a chance de morrer"></Entry>
@@ -3832,11 +3832,11 @@
 		<Entry Key="DES_TRAIT_ADD_BASIC_PACK_FOOD" Val="Despensa da vovó"></Entry>
 		<Entry Key="DES_TRAIT_ADD_BASIC_PACK_FOOD_DES" Val="Comece com 10-15x de alimentos básicos e 1 equipamento."></Entry>
 		<Entry Key="DES_TRAIT_FRIENDLY_FACE" Val="Bênção de Lada - Cara Amigável"></Entry>
-		<Entry Key="DES_TRAIT_FRIENDLY_FACE_DES" Val="Você começa com 5 pontos de lealdade para todas as facções, exceto para Orcs e Night/Light Demons."></Entry>
+		<Entry Key="DES_TRAIT_FRIENDLY_FACE_DES" Val="Você começa com 5 pontos de lealdade para todas as facçoes, exceto para Orcs e Night/Light Demons."></Entry>
 		<Entry Key="DES_TRAIT_FRIEND_OF_THE_FOREST" Val="Bênção de Dzievanna - Interesse dos Elfos"></Entry>
 		<Entry Key="DES_TRAIT_FRIEND_OF_THE_FOREST_DES" Val="Você começa com 18 pontos de lealdade para com os Elfos."></Entry>
 		<Entry Key="DES_TRAIT_START_LOYALTY_DEMONS" Val="Lealdade Demoníaca"></Entry>
-		<Entry Key="DES_TRAIT_START_LOYALTY_DEMONS_DES" Val="A lealdade de facção inicial para todas as facções de demônios aumenta para 10."></Entry>
+		<Entry Key="DES_TRAIT_START_LOYALTY_DEMONS_DES" Val="A lealdade de facção inicial para todas as facçoes de demônios aumenta para 10."></Entry>
 		<Entry Key="DES_TRAIT_LOGIC_WALL" Val="Parede lógica"></Entry>
 		<Entry Key="DES_TRAIT_LOGIC_WALL_DES" Val="Todos os seus seguidores recebem +4 de blindagem mental e espiritual."></Entry>
 		<Entry Key="DES_TRAIT_SEAL_OF_STRENGTH" Val="Bênção de Zorya - Selo de Força"></Entry>
@@ -3960,7 +3960,7 @@
 		<Entry Key="DES_TOOLTIP_LOW_FAITH" Val="Alerta de baixa fé"></Entry>
 		<Entry Key="DES_TOOLTIP_LOW_FAITH_DES" Val="Um ou mais personagens com menos de 30% de Fé e são envenenados por magia. Eles receberão dano igual à parte de sua saúde a cada turno. Se a Fé cair para 0, o personagem não participará de nenhum desafio. Realize o ritual de Cura Espiritual e/ou melhore o Moral para regenerar a Fé.\n\nClique para abrir o inventário do grupo afetado."></Entry>
 		<Entry Key="DES_TOOLTIP_LOW_MORALE" Val="Alerta de moral baixa"></Entry>
-		<Entry Key="DES_TOOLTIP_LOW_MORALE_DES" Val="Um ou mais personagens sentem que sua moral está muito baixa pode deixar de procurar um futuro melhor longe de você. Forneça refeições variadas, deixe-os descansar e mantenha sua Sanidade alta para recuperar o Moral.\n\nClique para abrir o inventário do grupo afetado."></Entry>
+		<Entry Key="DES_TOOLTIP_LOW_MORALE_DES" Val="Um ou mais personagens sentem que sua moral está muito baixa pode deixar de procurar um futuro melhor longe de você. Forneça refeiçoes variadas, deixe-os descansar e mantenha sua Sanidade alta para recuperar o Moral.\n\nClique para abrir o inventário do grupo afetado."></Entry>
 		<Entry Key="DES_TOOLTIP_OVERBURDENED_CHAR" Val="Alerta de personagem sobrecarregado"></Entry>
 		<Entry Key="DES_TOOLTIP_OVERBURDENED_CHAR_DES" Val="Um ou mais personagens equipou itens que pesam mais do que podem manipular. Se você não agir e equilibrar os limites de carregamento do personagem, algumas coisas do personagem serão retiradas aleatoriamente e colocadas no inventário.\n\nClique para abrir a tela de equipamento do personagem afetado."></Entry>
 		<Entry Key="DES_TOOLTIP_OVERBURDENED_GROUP" Val="Alerta de grupo sobrecarregado"></Entry>
@@ -3980,7 +3980,7 @@
 		<Entry Key="DES_TOOLTIP_XP" Val="Pontos de experiência"></Entry>
 		<Entry Key="DES_TOOLTIP_XP_DES" Val="Coletá-los permitirá que seus personagens subam de nível, melhorando seus atributos e habilidades. Os Pontos de Experiência são divididos igualmente entre todos os membros do grupo que participam de um evento ou desafio."></Entry>
 		<Entry Key="DES_TOOLTIP_RP" Val="Pontos de Pesquisa"></Entry>
-		<Entry Key="DES_TOOLTIP_RP_DES" Val="Reúna o suficiente e você ganhará um Ponto de Avanço, que pode ser usado para desbloquear novos recursos, receitas de equipamentos, construções ou rituais."></Entry>
+		<Entry Key="DES_TOOLTIP_RP_DES" Val="Reúna o suficiente e você ganhará um Ponto de Avanço, que pode ser usado para desbloquear novos recursos, receitas de equipamentos, construçoes ou rituais."></Entry>
 		<Entry Key="DES_TOOLTIP_DAY" Val="Dia"></Entry>
 		<Entry Key="DES_TOOLTIP_DAY_DES" Val="Turnos diurnos proporcionam melhor visibilidade e monstros em roaming são menos agressivos."></Entry>
 		<Entry Key="DES_TOOLTIP_NIGHT" Val="Noite"></Entry>
@@ -4023,8 +4023,8 @@
 		<Entry Key="DES_TOOLTIP_TRADE_DES" Val="Negocie com o grupo de outro jogador."></Entry>
 		<Entry Key="DES_TOOLTIP_OVERVIEW" Val="Visão geral"></Entry>
 		<Entry Key="DES_TOOLTIP_OVERVIEW_DES" Val="Abre a visão geral do acampamento/aldeia."></Entry>
-		<Entry Key="DES_TOOLTIP_GROUP_INFO" Val="Informações do Grupo (O)"></Entry>
-		<Entry Key="DES_TOOLTIP_GROUP_INFO_DES" Val="Abre a tela de Informações do Grupo, onde você pode gerenciar o uso de alimentos e combustível e ver uma visão geral do moral dos membros do grupo."></Entry>
+		<Entry Key="DES_TOOLTIP_GROUP_INFO" Val="Informaçoes do Grupo (O)"></Entry>
+		<Entry Key="DES_TOOLTIP_GROUP_INFO_DES" Val="Abre a tela de Informaçoes do Grupo, onde você pode gerenciar o uso de alimentos e combustível e ver uma visão geral do moral dos membros do grupo."></Entry>
 		<Entry Key="DES_TOOLTIP_ALWAYS_CONFIRM_DISMANTLE" Val="Sempre confirme a desmontagem"></Entry>
 		<Entry Key="DES_TOOLTIP_ALWAYS_CONFIRM_DISMANTLE_DES" Val="Quando ativado, a desmontagem sempre exigirá confirmação."></Entry>
 		<Entry Key="DES_TOOLTIP_PLAY_INTRO" Val="Reproduzir introdução"></Entry>
@@ -4048,7 +4048,7 @@
 		<Entry Key="DES_TOOLTIP_SHOW_BUSY" Val="Mostrar personagens ocupados"></Entry>
 		<Entry Key="DES_TOOLTIP_SHOW_BUSY_DES" Val="Ative para ver todos os personagens, independentemente de serem atribuídos a outra tarefa ou não."></Entry>
 		<Entry Key="DES_TOOLTIP_FORCE_OLD_CACHE" Val="Forçar cache antigo"></Entry>
-		<Entry Key="DES_TOOLTIP_FORCE_OLD_CACHE_DES" Val="Alterações em alguns dos arquivos XML do jogo exigem que o cache de itens seja reconstruído, caso contrário, ocorrerão falhas. Quando esta alternância está desativada, o jogo reconstruirá o cache de itens toda vez que houver uma alteração nos arquivos XML.\n\nAlgumas alterações, no entanto, são seguras (por exemplo, arquivos de localização) e não requerem um novo cache de itens. Ative a alternância para forçar o jogo a usar o cache de itens antigos, se puder ser carregado."></Entry>
+		<Entry Key="DES_TOOLTIP_FORCE_OLD_CACHE_DES" Val="Alteraçoes em alguns dos arquivos XML do jogo exigem que o cache de itens seja reconstruído, caso contrário, ocorrerão falhas. Quando esta alternância está desativada, o jogo reconstruirá o cache de itens toda vez que houver uma alteração nos arquivos XML.\n\nAlgumas alteraçoes, no entanto, são seguras (por exemplo, arquivos de localização) e não requerem um novo cache de itens. Ative a alternância para forçar o jogo a usar o cache de itens antigos, se puder ser carregado."></Entry>
 		<Entry Key="DES_TOOLTIP_DEV_CONSOLE" Val="Ativar console de desenvolvimento"></Entry>
 		<Entry Key="DES_TOOLTIP_DEV_CONSOLE_DES" Val="Permita o acesso ao console de desenvolvimento no jogo pressionando F2. O console pode ser usado para acionar eventos e scripts em um jogo para um jogador.\n\nObservação: alguns eventos podem exigir que o grupo do jogador seja selecionado ou precisam ser anexados a um grupo de roaming para funcionar."></Entry>
 		<Entry Key="DES_TOOLTIP_AUTORESOLVE_OUTCOME1" Val="Derrota Total"></Entry>
@@ -4057,7 +4057,7 @@
 		<Entry Key="DES_TOOLTIP_AUTORESOLVE_OUTCOME2_DES" Val="Esta foi uma vitória custosa. Se você lutou contra outro grupo, pelo menos um de seus personagens acabou com menos de 0 pontos de vida."></Entry>
 		<Entry Key="DES_TOOLTIP_AUTORESOLVE_OUTCOME3" Val="Vitória com ferimentos graves"></Entry>
 		<Entry Key="DES_TOOLTIP_AUTORESOLVE_OUTCOME3_DES" Val="Você venceu, mas, se lutou contra outro grupo, pelo menos um de seus personagens perdeu metade ou mais de seus pontos de vida."></Entry>
-		<Entry Key="DES_TOOLTIP_AUTORESOLVE_OUTCOME4" Val="Vitória com lesões"></Entry>
+		<Entry Key="DES_TOOLTIP_AUTORESOLVE_OUTCOME4" Val="Vitória com lesoes"></Entry>
 		<Entry Key="DES_TOOLTIP_AUTORESOLVE_OUTCOME4_DES" Val="Você é vitorioso, mas, se lutou contra outro grupo, pelo menos um de seus personagens perdeu até metade de seus pontos de vida."></Entry>
 		<Entry Key="DES_TOOLTIP_AUTORESOLVE_OUTCOME5" Val="Vitória Perfeita"></Entry>
 		<Entry Key="DES_TOOLTIP_AUTORESOLVE_OUTCOME5_DES" Val="Seu povo venceu este desafio sem perder nenhum ponto de vida."></Entry>
@@ -4068,11 +4068,11 @@
 		<Entry Key="DES_TOOLTIP_MODULE_RENAME" Val="Renomear módulo"></Entry>
 		<Entry Key="DES_TOOLTIP_MODULE_RENAME_DES" Val="Altere o nome do módulo selecionado."></Entry>
 		<Entry Key="DES_TOOLTIP_MODULE_IMPORT" Val="Módulo de importação"></Entry>
-		<Entry Key="DES_TOOLTIP_MODULE_IMPORT_DES" Val="Importar texto para módulos. Clique para ver opções adicionais."></Entry>
+		<Entry Key="DES_TOOLTIP_MODULE_IMPORT_DES" Val="Importar texto para módulos. Clique para ver opçoes adicionais."></Entry>
 		<Entry Key="DES_TOOLTIP_MODULE_EXPORT" Val="Módulo de exportação"></Entry>
-		<Entry Key="DES_TOOLTIP_MODULE_EXPORT_DES" Val="Exportar texto de módulos. Clique para ver opções adicionais."></Entry>
+		<Entry Key="DES_TOOLTIP_MODULE_EXPORT_DES" Val="Exportar texto de módulos. Clique para ver opçoes adicionais."></Entry>
 		<Entry Key="DES_TOOLTIP_MODULE_TEST" Val="Módulo de teste"></Entry>
-		<Entry Key="DES_TOOLTIP_MODULE_TEST_DES" Val="Teste o módulo selecionado. As informações de saída serão salvas no arquivo GameLog.txt."></Entry>
+		<Entry Key="DES_TOOLTIP_MODULE_TEST_DES" Val="Teste o módulo selecionado. As informaçoes de saída serão salvas no arquivo GameLog.txt."></Entry>
 		<Entry Key="DES_TOOLTIP_MODULE_DELETE" Val="Excluir módulo"></Entry>
 		<Entry Key="DES_TOOLTIP_MODULE_DELETE_DES" Val="Remove o módulo selecionado."></Entry>
 		<Entry Key="DES_TOOLTIP_MODULE_ACTIVATE" Val="Ativar Módulo"></Entry>
@@ -4093,7 +4093,7 @@
 		<Entry Key="DES_TOOLTIP_EVENT_SAVE_DES" Val="Salve o estado atual deste módulo."></Entry>
 		<Entry Key="DES_TOOLTIP_VERSION_WARNING" Val="Incompatibilidade de versão"></Entry>
 		<Entry Key="DES_TOOLTIP_VERSION_WARNING_DES" Val="A versão do jogo deste jogador não corresponde à versão usada pelo servidor. Certifique-se de que todos os jogadores tenham o mesmo número de compilação, versão do banco de dados e módulos. Você ainda pode tentar se conectar, mas espere erros."></Entry>
-		<Entry Key="DES_TOOLTIP_VERSION_OK" Val="Correspondência de versões"></Entry>
+		<Entry Key="DES_TOOLTIP_VERSION_OK" Val="Correspondência de versoes"></Entry>
 		<Entry Key="DES_TOOLTIP_VERSION_OK_DES" Val="Todos os jogadores têm o mesmo número de compilação, versão do banco de dados e módulos. Incrível!"></Entry>
 		<Entry Key="DES_TOOLTIP_OPEN_ADVANCEMENT" Val="Avanço (R)"></Entry>
 		<Entry Key="DES_TOOLTIP_OPEN_ADVANCEMENT_DES" Val="Aqui você pode gastar seus pontos de avanço conquistados com muito esforço para desbloquear novos materiais e receitas."></Entry>
@@ -4118,7 +4118,7 @@
 		<Entry Key="DES_TOOLTIP_VIEW_GROUPS" Val="Mostrar grupos participantes"></Entry>
 		<Entry Key="DES_TOOLTIP_VIEW_GROUPS_DES" Val="Mostrar/ocultar nomes de todos os grupos que participam deste evento."></Entry>
 		<Entry Key="DES_TOOLTIP_CHALLENGE_TYPE" Val="Tipo de desafio"></Entry>
-		<Entry Key="DES_TOOLTIP_CHALLENGE_TYPE_DES" Val="Estes cartões mostram em qual tipo de desafio esta subhabilidade pode ser usada:\n\n{ICON:ChallengePhysical} - Physical Challenge\n{ICON:ChallengeMental} - Mental Challenge\n{ICON:ChallengeSpiritual} - Spiritual Challenge\n\nAlgumas habilidades pode ser usado em mais de um tipo de desafio."></Entry>
+		<Entry Key="DES_TOOLTIP_CHALLENGE_TYPE_DES" Val="Estes cartoes mostram em qual tipo de desafio esta subhabilidade pode ser usada:\n\n{ICON:ChallengePhysical} - Physical Challenge\n{ICON:ChallengeMental} - Mental Challenge\n{ICON:ChallengeSpiritual} - Spiritual Challenge\n\nAlgumas habilidades pode ser usado em mais de um tipo de desafio."></Entry>
 		<Entry Key="DES_TOOLTIP_ONE_HANDED" Val="Item de 1 mão"></Entry>
 		<Entry Key="DES_TOOLTIP_ONE_HANDED_DES" Val="Este item ocupa o slot de equipamento de mão principal."></Entry>
 		<Entry Key="DES_TOOLTIP_TWO_HANDED" Val="Item de 2 mãos"></Entry>
@@ -4138,11 +4138,11 @@
 		<Entry Key="DES_TOOLTIP_DARKNESS" Val="Trevas"></Entry>
 		<Entry Key="DES_TOOLTIP_DARKNESS_DES" Val="Os personagens perdem entre 1 e 5 de Fé a cada turno quando estão fora da aldeia. Personagens com baixa Fé podem receber uma maldição espiritual. A escuridão dura dois turnos."></Entry>
 		<Entry Key="DES_TOOLTIP_SEASONS" Val="Temporadas"></Entry>
-		<Entry Key="DES_TOOLTIP_SEASONS_DES" Val="Clique para abrir as informações da temporada atual."></Entry>
+		<Entry Key="DES_TOOLTIP_SEASONS_DES" Val="Clique para abrir as informaçoes da temporada atual."></Entry>
 		<Entry Key="DES_TOOLTIP_THEOPEDIA" Val="Teopedia (P)"></Entry>
-		<Entry Key="DES_TOOLTIP_THEOPEDIA_DES" Val="Theopedia contém informações sobre todas as criaturas e terrenos que você encontrou."></Entry>
-		<Entry Key="DES_TOOLTIP_LOYALTY" Val="Facções e Lealdade (F)"></Entry>
-		<Entry Key="DES_TOOLTIP_LOYALTY_DES" Val="Lista todas as facções e sua posição em relação a você."></Entry>
+		<Entry Key="DES_TOOLTIP_THEOPEDIA_DES" Val="Theopedia contém informaçoes sobre todas as criaturas e terrenos que você encontrou."></Entry>
+		<Entry Key="DES_TOOLTIP_LOYALTY" Val="Facçoes e Lealdade (F)"></Entry>
+		<Entry Key="DES_TOOLTIP_LOYALTY_DES" Val="Lista todas as facçoes e sua posição em relação a você."></Entry>
 		<Entry Key="DES_TOOLTIP_GOD_TRAITS" Val="Características de Deus (G)"></Entry>
 		<Entry Key="DES_TOOLTIP_GOD_TRAITS_DES" Val="O deus e as características que você escolheu para esta jogada."></Entry>
 		<Entry Key="DES_TOOLTIP_CANNOT_BUILD" Val="Construção não permitida"></Entry>
@@ -4164,7 +4164,7 @@
 		<Entry Key="DES_TOOLTIP_SPIRITUAL_VS_CONCEPT" Val="Espiritual vs Conceito"></Entry>
 		<Entry Key="DES_TOOLTIP_SPIRITUAL_VS_CONCEPT_DES" Val="Em um desafio espiritual contra o conceito, você só pode usar habilidades inatas. Quaisquer ferimentos de Fé sofridos durante o desafio serão desconsiderados assim que o desafio terminar."></Entry>
 		<Entry Key="DES_TOOLTIP_MINIMAP_MODE" Val="Mundo/Ilha Atual (N)"></Entry>
-		<Entry Key="DES_TOOLTIP_MINIMAP_MODE_DES" Val="Alterne o minimapa entre as visualizações do mundo e da ilha."></Entry>
+		<Entry Key="DES_TOOLTIP_MINIMAP_MODE_DES" Val="Alterne o minimapa entre as visualizaçoes do mundo e da ilha."></Entry>
 		<Entry Key="DES_TOOLTIP_DOMINATION_VICTORY" Val="Vitória de Dominação (X)"></Entry>
 		<Entry Key="DES_TOOLTIP_DOMINATION_VICTORY_DES" Val="Abre o painel Domination Victory, onde você pode verificar quais requisitos de vitória você atende."></Entry>
 		<Entry Key="DES_TOOLTIP_TASK_NO_FUEL" Val="Sem combustível"></Entry>
@@ -4188,7 +4188,7 @@
 		<Entry Key="DES_TOOLTIP_TRASH_QUALITY" Val="Qualidade do lixo"></Entry>
 		<Entry Key="DES_TOOLTIP_TRASH_QUALITY_DES" Val="Este item é de qualidade Lixo e tem atributos piores do que um item normal desse tipo."></Entry>
 		<Entry Key="DES_TOOLTIP_LOGBOOK" Val="Diário de bordo (L)"></Entry>
-		<Entry Key="DES_TOOLTIP_LOGBOOK_DES" Val="Mostra missões atuais e concluídas."></Entry>
+		<Entry Key="DES_TOOLTIP_LOGBOOK_DES" Val="Mostra missoes atuais e concluídas."></Entry>
 		<Entry Key="DES_TOOLTIP_FAV_SHOW_POSSIBLE" Val="Mostrar possível"></Entry>
 		<Entry Key="DES_TOOLTIP_FAV_SHOW_POSSIBLE_DES" Val="Alterne entre todas as receitas e apenas aquelas para as quais você tem materiais suficientes."></Entry>
 		<Entry Key="DES_TOOLTIP_TRAIT_COST" Val="Custo da Característica"></Entry>
@@ -4217,8 +4217,8 @@
 		<Entry Key="DES_TOOLTIP_REPLAY_VO_DES" Val="Repetir a narração do parágrafo atual."></Entry>
 		<Entry Key="DES_TOOLTIP_MORALE" Val="Ganho de moral"></Entry>
 		<Entry Key="DES_TOOLTIP_MORALE_DES" Val="A quantidade de Moral ganha de comida a cada turno. Cada personagem recebe +1 de Moral por turno para cada tipo de alimento presente no inventário do grupo."></Entry>
-		<Entry Key="DES_TOOLTIP_VILLAGE_INFO" Val="Informações da Aldeia (V)"></Entry>
-		<Entry Key="DES_TOOLTIP_VILLAGE_INFO_DES" Val="Abre a tela de Informações da Aldeia, onde você pode ver todas as tarefas de produção rapidamente, junto com quaisquer construções e navios em seu assentamento."></Entry>
+		<Entry Key="DES_TOOLTIP_VILLAGE_INFO" Val="Informaçoes da Aldeia (V)"></Entry>
+		<Entry Key="DES_TOOLTIP_VILLAGE_INFO_DES" Val="Abre a tela de Informaçoes da Aldeia, onde você pode ver todas as tarefas de produção rapidamente, junto com quaisquer construçoes e navios em seu assentamento."></Entry>
 		<Entry Key="DES_TOOLTIP_ISLANDS" Val="Ilhas"></Entry>
 		<Entry Key="DES_TOOLTIP_ISLANDS_DES" Val="O mundo será composto por um conjunto de ilhas. Cada ilha será um único bioma e criaturas de áreas mais difíceis não passarão."></Entry>
 		<Entry Key="DES_TOOLTIP_PANGEA" Val="Pangeia"></Entry>
@@ -4232,7 +4232,7 @@
 		<Entry Key="DES_TOOLTIP_CURRENT_TASK" Val="Tarefa atual"></Entry>
 		<Entry Key="DES_TOOLTIP_CURRENT_TASK_DES" Val="Este personagem está atualmente atribuído a uma tarefa."></Entry>
 		<Entry Key="DES_TOOLTIP_CHARACTERS_LIST" Val="Lista de caracteres (F1)"></Entry>
-		<Entry Key="DES_TOOLTIP_CHARACTERS_LIST_DES" Val="Uma lista global de caracteres com as informações mais importantes disponíveis de relance. Pode ser aberto de qualquer lugar."></Entry>
+		<Entry Key="DES_TOOLTIP_CHARACTERS_LIST_DES" Val="Uma lista global de caracteres com as informaçoes mais importantes disponíveis de relance. Pode ser aberto de qualquer lugar."></Entry>
 		<Entry Key="DES_TOOLTIP_MATERIAL_ESSENCE" Val="Essência do Material"></Entry>
 		<Entry Key="DES_TOOLTIP_MATERIAL_ESSENCE_DES" Val="Mostra toda a Essência que vem do material selecionado e a quantidade necessária para a elaboração. Materiais melhores garantem mais Essência."></Entry>
 		<Entry Key="DES_TOOLTIP_CURRENT_ESSENCE" Val="Essência Atual"></Entry>
@@ -4254,7 +4254,7 @@
 		<Entry Key="DES_GROUP_ORCS" Val="Orcs"></Entry>
 		<Entry Key="DES_GROUP_BLOODTRACKERS" Val="Rastreadores de sangue"></Entry>
 		<Entry Key="DES_GROUP_GOBLINS" Val="Goblins"></Entry>
-		<Entry Key="DES_GROUP_DWARVES" Val="Anões"></Entry>
+		<Entry Key="DES_GROUP_DWARVES" Val="Anoes"></Entry>
 		<Entry Key="DES_GROUP_PIRATES" Val="Piratas"></Entry>
 		<Entry Key="DES_GROUP_STINGERS" Val="Ferrão"></Entry>
 		<Entry Key="DES_GROUP_SPIDERS" Val="Aranhas"></Entry>
@@ -4279,11 +4279,11 @@
 		<Entry Key="DES_GROUP_UNLIVING" Val="Não-vivo"></Entry>
 		<Entry Key="DES_GROUP_SPIRITS" Val="Espíritos"></Entry>
 		<Entry Key="DES_GROUP_DRAGON" Val="Dragão"></Entry>
-		<Entry Key="DES_GROUP_DRAGONS" Val="Dragões"></Entry>
+		<Entry Key="DES_GROUP_DRAGONS" Val="Dragoes"></Entry>
 		<Entry Key="DES_GROUP_ZMEY" Val="Zmey"></Entry>
 		<Entry Key="DES_GROUP_ZMEYS" Val="Zmeys"></Entry>
 		<Entry Key="DES_GROUP_DRAGON_ZMEYS" Val="Dragão e Zmeys"></Entry>
-		<Entry Key="DES_GROUP_ZMEY_DRAGONS" Val="Zmey e dragões"></Entry>
+		<Entry Key="DES_GROUP_ZMEY_DRAGONS" Val="Zmey e dragoes"></Entry>
 		<Entry Key="DES_GROUP_TROLLS" Val="Trolls"></Entry>
 		<Entry Key="DES_GROUP_BEASTS_OF_DARKNESS" Val="Bestas da Escuridão"></Entry>
 		<Entry Key="DES_GROUP_GUARDIAN_STATUES" Val="Estátuas do Guardião"></Entry>
@@ -4312,7 +4312,7 @@
 		<Entry Key="DES_FACTIONS_ELVES" Val="Elfos"></Entry>
 		<Entry Key="DES_FACTIONS_ORCS" Val="Orcs"></Entry>
 		<Entry Key="DES_FACTIONS_GOBLINS" Val="Goblins"></Entry>
-		<Entry Key="DES_FACTIONS_DWARVES" Val="Anões"></Entry>
+		<Entry Key="DES_FACTIONS_DWARVES" Val="Anoes"></Entry>
 		<Entry Key="DES_FACTIONS_SPIRITS" Val="Espíritos"></Entry>
 		<Entry Key="DES_FACTIONS_MYTHICAL" Val="Mítico"></Entry>
 		<Entry Key="DES_FACTIONS_MROKI" Val="marroquino"></Entry>
@@ -4368,9 +4368,9 @@
 		<Entry Key="DES_SET_ELVEN_GUARD_POST" Val="Posto de Guarda Élfico"></Entry>
 		<Entry Key="DES_SET_SACRED_GROVE" Val="Bosque sagrado"></Entry>
 		<Entry Key="DES_SET_ELVEN_VILLAGE" Val="Vila Élfica"></Entry>
-		<Entry Key="DES_SET_DWARVEN_RUNEFORGE" Val="Forja Rúnica dos Anões"></Entry>
-		<Entry Key="DES_SET_DWARVEN_BEER_HALL" Val="Cervejaria dos Anões"></Entry>
-		<Entry Key="DES_SET_DWARVEN_VILLAGE" Val="Vila dos Anões"></Entry>
+		<Entry Key="DES_SET_DWARVEN_RUNEFORGE" Val="Forja Rúnica dos Anoes"></Entry>
+		<Entry Key="DES_SET_DWARVEN_BEER_HALL" Val="Cervejaria dos Anoes"></Entry>
+		<Entry Key="DES_SET_DWARVEN_VILLAGE" Val="Vila dos Anoes"></Entry>
 		<Entry Key="DES_SET_LIGHT_VILLAGE" Val="Vila Envolvida pela Luz"></Entry>
 		<Entry Key="DES_SET_FOREST_DEMONS_VILLAGE" Val="Covil dos Demônios da Floresta"></Entry>
 		<Entry Key="DES_SET_NIGHT_DEMONS_VILLAGE" Val="Mansão dos Demônios da Noite"></Entry>
@@ -4381,10 +4381,10 @@
 		<Entry Key="DES_SET_ICE_CAVE" Val="Caverna de Gelo"></Entry>
 		<Entry Key="DES_SET_CRASHED_SHIP" Val="Navio Acidentado"></Entry>
 		<Entry Key="DES_HUM_VILLAGE_HALLOWEEN" Val="Aldeia assustadora"></Entry>
-		<Entry Key="DES_SET_UNLI_DRAGON_NEST" Val="Covil dos Dragões Vivos"></Entry>
-		<Entry Key="DES_SET_DRAGON_NEST" Val="Covil dos Dragões"></Entry>
-		<Entry Key="DES_SET_DRAGON_ZMEY_NEST" Val="Covil dos Dragões e Zmay"></Entry>
-		<Entry Key="DES_SET_ZMEY_DRAGON_NEST" Val="Zmay&amp;#39; e Covil dos Dragões"></Entry>
+		<Entry Key="DES_SET_UNLI_DRAGON_NEST" Val="Covil dos Dragoes Vivos"></Entry>
+		<Entry Key="DES_SET_DRAGON_NEST" Val="Covil dos Dragoes"></Entry>
+		<Entry Key="DES_SET_DRAGON_ZMEY_NEST" Val="Covil dos Dragoes e Zmay"></Entry>
+		<Entry Key="DES_SET_ZMEY_DRAGON_NEST" Val="Zmay&amp;#39; e Covil dos Dragoes"></Entry>
 		<Entry Key="DES_SET_WATER_WHIRLPOOL" Val="Hidromassagem"></Entry>
 		<Entry Key="DES_SET_WATER_FLOATING_CRATES" Val="Caixas Flutuantes"></Entry>
 		<Entry Key="DES_SET_WATER_SEA_CAVE" Val="Caverna do Mar"></Entry>
@@ -4404,7 +4404,7 @@
 		<Entry Key="DES_DEFAULT_DESERT" Val="Terra seca"></Entry>
 		<Entry Key="DES_DEFAULT_DESERT_DES" Val="A terra seca é muitas vezes o remanescente da luz queimando tudo o que estava em seu caminho. É tipicamente um terreno árido, desertos cheios de nada além de areia, embora ruínas ou cemitérios abandonados não sejam incomuns. Cuidado com tempestades de terra ou areia movediça."></Entry>
 		<Entry Key="DES_DEFAULT_FOREST" Val="Floresta"></Entry>
-		<Entry Key="DES_DEFAULT_FOREST_DES" Val="As florestas estão recuperando lentamente sua força após a escuridão há muitas eras. Eles podem ser a fonte de madeira que salva vidas, mas cuidado com os guardiões da floresta que podem não gostar da sua presença."></Entry>
+		<Entry Key="DES_DEFAULT_FOREST_DES" Val="As florestas estão recuperando lentamente sua força após a escuridão há muitas eras. Eles podem ser a fonte de madeira que salva vidas, mas cuidado com os guardioes da floresta que podem não gostar da sua presença."></Entry>
 		<Entry Key="DES_DARKNESS_MOUNTAIN" Val="Montanhas da Escuridão"></Entry>
 		<Entry Key="DES_DARKNESS_MOUNTAIN_DES" Val="As cadeias de montanhas nas terras das trevas são muitas vezes locais de refúgio da névoa negra que assola as terras baixas, ou tantas esperanças. Essa esperança muitas vezes se mostra fútil quando nos deparamos com os mroki, que têm afinidade com os topos das montanhas."></Entry>
 		<Entry Key="DES_DARKNESS_HILL" Val="Colinas da Escuridão"></Entry>
@@ -4412,7 +4412,7 @@
 		<Entry Key="DES_DARKNESS_SWAMP" Val="Pântanos da Escuridão"></Entry>
 		<Entry Key="DES_DARKNESS_SWAMP_DES" Val=""></Entry>
 		<Entry Key="DES_DARKNESS_PLAINS" Val="Planícies das Trevas"></Entry>
-		<Entry Key="DES_DARKNESS_PLAINS_DES" Val="Planícies da Escuridão estão cheias de ossos de criaturas que caíram no pavor da névoa negra. Por razões desconhecidas, a força das trevas permanece aqui e continua a diminuir qualquer chance dessas planícies florescerem novamente."></Entry>
+		<Entry Key="DES_DARKNESS_PLAINS_DES" Val="Planícies da Escuridão estão cheias de ossos de criaturas que caíram no pavor da névoa negra. Por razoes desconhecidas, a força das trevas permanece aqui e continua a diminuir qualquer chance dessas planícies florescerem novamente."></Entry>
 		<Entry Key="DES_DARKNESS_DESERT" Val="Terra Seca da Escuridão"></Entry>
 		<Entry Key="DES_DARKNESS_DESERT_DES" Val="Nas terras devastadas pela escuridão, a terra seca permanece como um lembrete de sua força destrutiva. Nenhuma vida pode realmente prosperar aqui, pelo menos não uma que não seja preenchida com a força perigosa. Talvez seja a razão para os elfos das sombras banidos e seus novos parentes, os mroki, preferirem tal terreno e chamá-lo de seu."></Entry>
 		<Entry Key="DES_DARKNESS_FOREST" Val="Floresta das Trevas"></Entry>
@@ -4422,15 +4422,15 @@
 		<Entry Key="DES_ICY_HILL" Val="Colinas de Gelo"></Entry>
 		<Entry Key="DES_ICY_HILL_DES" Val="As encostas geladas podem parecer bonitas com o manto calmo de neve enrolado em cada curva. Mas cuidado com as ruínas antigas, cavernas abandonadas onde apenas as criaturas sem coração do gelo, ou espíritos esquecidos há muito tempo, habitam."></Entry>
 		<Entry Key="DES_ICY_SWAMP" Val="Pântanos de Gelo"></Entry>
-		<Entry Key="DES_ICY_SWAMP_DES" Val="Os pântanos de gelo são um fenômeno estranho. Apesar da temperatura cada vez mais baixa, a terra aqui permanece quente e, assim, cria esses bolsões de areia movediça e lama escondidos sob o gelo. Cuidado, os trolls do gelo são tão propensos a morar aqui quanto seus primos mais gentis da lama."></Entry>
+		<Entry Key="DES_ICY_SWAMP_DES" Val="Os pântanos de gelo são um fenômeno estranho. Apesar da temperatura cada vez mais baixa, a terra aqui permanece quente e, assim, cria esses bolsoes de areia movediça e lama escondidos sob o gelo. Cuidado, os trolls do gelo são tão propensos a morar aqui quanto seus primos mais gentis da lama."></Entry>
 		<Entry Key="DES_ICY_PLAINS" Val="Planícies de Gelo"></Entry>
 		<Entry Key="DES_ICY_PLAINS_DES" Val="Nessas terras tranquilas e solitárias, as planícies de gelo podem se estender por quilômetros. Ocasionalmente, pode-se encontrar ruínas de cidades antigas, congeladas no tempo e muitas vezes guardadas pelos espíritos perdidos de seus habitantes."></Entry>
 		<Entry Key="DES_ICY_DESERT" Val="Terras Secas de Gelo"></Entry>
 		<Entry Key="DES_ICY_DESERT_DES" Val="Terras secas geladas, como as planícies de gelo, podem se estender até o horizonte. Embora esta terra seja desprovida de vida, você ainda pode encontrar feras perdidas aqui e elas certamente estarão procurando sua próxima refeição, qualquer refeição."></Entry>
 		<Entry Key="DES_ICY_FOREST" Val="Floresta de Gelo"></Entry>
-		<Entry Key="DES_ICY_FOREST_DES" Val="As florestas congeladas da terra gelada são lindas por si só. Demônios do gelo, governados pelo dziad mroz, às vezes escolhem as florestas como seu lar congelado. Deve-se ter muito cuidado ao visitar tais habitações, pois criaturas do gelo não gostam muito de sangue quente."></Entry>
+		<Entry Key="DES_ICY_FOREST_DES" Val="As florestas congeladas da terra gelada são lindas por si só. Demônios do gelo, governados pelo dziad mroz, às vezes escolhem as florestas como seu lar congelado. Deve-se ter muito cuidado ao visitar tais habitaçoes, pois criaturas do gelo não gostam muito de sangue quente."></Entry>
 		<Entry Key="DES_VOLCANIC_MOUNTAIN" Val="Montanhas vulcânicas"></Entry>
-		<Entry Key="DES_VOLCANIC_MOUNTAIN_DES" Val="Montanhas vulcânicas se projetam da terra como garras negras salientes de uma besta de fogo. Nuvens de cinzas, poços de lava e erupções são apenas a ponta do monte de fogo. Os trolls da lava preferem as montanhas como seu domínio e estão entre os mais agressivos de sua espécie."></Entry>
+		<Entry Key="DES_VOLCANIC_MOUNTAIN_DES" Val="Montanhas vulcânicas se projetam da terra como garras negras salientes de uma besta de fogo. Nuvens de cinzas, poços de lava e erupçoes são apenas a ponta do monte de fogo. Os trolls da lava preferem as montanhas como seu domínio e estão entre os mais agressivos de sua espécie."></Entry>
 		<Entry Key="DES_VOLCANIC_HILL" Val="Montes Vulcânicos"></Entry>
 		<Entry Key="DES_VOLCANIC_HILL_DES" Val="As encostas vulcânicas são montes cobertos de cinzas cheios de poços de lava traiçoeiros e bandos de bandidos orcs."></Entry>
 		<Entry Key="DES_VOLCANIC_SWAMP" Val="Pântanos Vulcânicos"></Entry>
@@ -4454,9 +4454,9 @@
 		<Entry Key="DES_ANCIENT_FOREST" Val="Floresta Antiga"></Entry>
 		<Entry Key="DES_ANCIENT_FOREST_DES" Val="A floresta é, obviamente, o coração e a alma da floresta antiga. Linhas de árvores que se elevam nas alturas tornam anão qualquer um que ande entre elas. Essas antigas florestas são o lar não apenas do povo élfico, mas também dos mais reverenciados demônios da floresta que permanecem vigilantes para proteger este último verdadeiro refúgio da natureza."></Entry>
 		<Entry Key="DES_METALLIC_MOUNTAIN" Val="Montanhas Metálicas"></Entry>
-		<Entry Key="DES_METALLIC_MOUNTAIN_DES" Val="As Montanhas Metálicas são o novo lar da superfície dos anões, que agora se chamam Earthbound, para lembrar que um dia eles devem retornar à sua verdadeira morada. Estas montanhas são íngremes e recortadas por túneis e cavernas. Trolls de pedra e dragões também os favorecem como seu covil."></Entry>
+		<Entry Key="DES_METALLIC_MOUNTAIN_DES" Val="As Montanhas Metálicas são o novo lar da superfície dos anoes, que agora se chamam Earthbound, para lembrar que um dia eles devem retornar à sua verdadeira morada. Estas montanhas são íngremes e recortadas por túneis e cavernas. Trolls de pedra e dragoes também os favorecem como seu covil."></Entry>
 		<Entry Key="DES_METALLIC_HILL" Val="Colinas Metálicas"></Entry>
-		<Entry Key="DES_METALLIC_HILL_DES" Val="As terras metálicas surgiram depois que a Destruição jogou a casa dos anões na superfície. Como tal, as colinas aqui são uma estranha amálgama de pedra e metal. Você pode encontrar ruínas das cidades anãs que caíram há muito tempo, ou os cemitérios sagrados cuspidos na superfície."></Entry>
+		<Entry Key="DES_METALLIC_HILL_DES" Val="As terras metálicas surgiram depois que a Destruição jogou a casa dos anoes na superfície. Como tal, as colinas aqui são uma estranha amálgama de pedra e metal. Você pode encontrar ruínas das cidades anãs que caíram há muito tempo, ou os cemitérios sagrados cuspidos na superfície."></Entry>
 		<Entry Key="DES_METALLIC_SWAMP" Val="Pântanos Metálicos"></Entry>
 		<Entry Key="DES_METALLIC_SWAMP_DES" Val="Pântanos e areia movediça são sempre lugares perigosos para andarilhos, mas nas terras de metal e pedra podem ser uma visão interessante, com superfícies metálicas de água e arbustos de pedra."></Entry>
 		<Entry Key="DES_METALLIC_PLAINS" Val="Planícies Metálicas"></Entry>
@@ -4464,7 +4464,7 @@
 		<Entry Key="DES_METALLIC_DESERT" Val="Terras Secas Metálicas"></Entry>
 		<Entry Key="DES_METALLIC_DESERT_DES" Val="Enquanto terras secas e estepes em outras terras são frequentemente vistas como terrenos baldios, aqui elas são valorizadas por sua fonte ocasional de boa pedra."></Entry>
 		<Entry Key="DES_METALLIC_FOREST" Val="Floresta Metálica"></Entry>
-		<Entry Key="DES_METALLIC_FOREST_DES" Val="Anões não gostam de florestas e sua terra natal parece compartilhar esse sentimento. As árvores aqui são escassas e, na maioria das vezes, sua casca fica infestada com um tom metálico ou uma doença de pedra que impede o crescimento."></Entry>
+		<Entry Key="DES_METALLIC_FOREST_DES" Val="Anoes não gostam de florestas e sua terra natal parece compartilhar esse sentimento. As árvores aqui são escassas e, na maioria das vezes, sua casca fica infestada com um tom metálico ou uma doença de pedra que impede o crescimento."></Entry>
 		<Entry Key="DES_GROUP" Val="Grupo"></Entry>
 		<Entry Key="DES_SPACE" Val=""></Entry>
 		<Entry Key="DES_ELEMENTAL" Val="Elementar"></Entry>
