@@ -173,7 +173,7 @@
 		<Entry Key="UI_BONUSES" Val="Bônus"></Entry>
 		<Entry Key="UI_BUILDINGS" Val="Edifícios"></Entry>
 		<Entry Key="UI_TASKS" Val="Tarefas"></Entry>
-		<Entry Key="UI_CLOSE" Val="Perto"></Entry>
+		<Entry Key="UI_CLOSE" Val="Fechar"></Entry>
 		<Entry Key="UI_MANAGE_EQUIPMENT" Val="Gerenciar equipamentos"></Entry>
 		<Entry Key="UI_ATTRIBUTES" Val="Atributos"></Entry>
 		<Entry Key="UI_SKILLS" Val="Habilidades"></Entry>
