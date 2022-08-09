@@ -39,7 +39,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Cerque os anoes e faça sua presença ser conhecida." ownerID="3" targetID="26" fromX="1227" fromY="709" />
-      <outputs name="Você tem a vantagem, ataque!" ownerID="3" targetID="7" fromX="1227" fromY="629" />You track the dwarves and find them working on an entrance to an underground structure. They have not spotted you.</nodes>
+      <outputs name="Você tem a vantagem, ataque!" ownerID="3" targetID="7" fromX="1227" fromY="629" />Você rastreia os anões e os encontra trabalhando na entrada de uma estrutura subterrânea. Eles não te viram.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1676" positionY="309" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -49,12 +49,12 @@
         </FilterBlock>
       </logic>
       <outputs name="Lutar!" ownerID="4" targetID="6" fromX="2001" fromY="-182" />
-      <outputs name="Tente fugir." ownerID="4" targetID="49" fromX="2001" fromY="-262" />You are ambushed by the dwarves!</nodes>
+      <outputs name="Tente fugir." ownerID="4" targetID="49" fromX="2001" fromY="-262" />Você está emboscado pelos anões!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1335" positionY="-662" width="350" height="966">
       <outputs name="Pare, jogue as mãos para o alto e diga que você não quer lutar, apenas para dizer a eles que precisam sair. Os orcs não os querem aqui, e eles estão vindo em força!" ownerID="5" targetID="50" fromX="1660" fromY="-1153" />
       <outputs name="Tente parecer intimidante e diga para eles irem embora agora." ownerID="5" targetID="51" fromX="1660" fromY="-1233" />
       <outputs name="Ataque!" ownerID="5" targetID="6" fromX="1660" fromY="-1313" />
-      <outputs name="[Anão] Pergunte o que eles estão fazendo aqui, tão profundamente no território orc." ownerID="5" targetID="47" fromX="1660" fromY="-1393" />You search the place and finally spot some dwarves. Alas, they spot you too, so you haven't got much time to decide what to do.</nodes>
+      <outputs name="[Anão] Pergunte o que eles estão fazendo aqui, tão profundamente no território orc." ownerID="5" targetID="47" fromX="1660" fromY="-1393" />Você vasculha o local e finalmente avista alguns anões. Infelizmente, eles também o localizam, então você não tem muito tempo para decidir o que fazer.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="3070" positionY="-150" width="500" height="689" challengeType="TypePhysical" versusGroup="GROUP-DWARVES_7P_6M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="43" fromX="3511" fromY="-608" />
       <outputs name="Lose" ownerID="6" targetID="16" fromX="3511" fromY="-688" />
@@ -71,7 +71,7 @@
       <outputs name="Surrender" ownerID="8" targetID="41" fromX="2886" fromY="955" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="3874" positionY="-927" width="350" height="681">
-      <outputs name="Sair." ownerID="16" targetID="24" fromX="4199" fromY="-1374" />You are badly beaten and the orcs have to come to your rescue. They are unimpressed with your 'help.'</nodes>
+      <outputs name="Sair." ownerID="16" targetID="24" fromX="4199" fromY="-1374" />Você está muito espancado e os orcs têm que vir em seu socorro. Eles não se impressionam com sua 'ajuda'.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="3092" positionY="1943" width="350" height="841" image="Event152">
       <logic>
         <ModifierBlock>
@@ -85,7 +85,7 @@
       </logic>
       <outputs name="[Crafter or tools]Ofereça ajuda." ownerID="19" targetID="20" group="G2" fromX="3417" fromY="1495" />
       <outputs name="Diga que você os ajudará a torná-lo mais rápido para que possam evitar os orcs." ownerID="19" targetID="37" group="G2" fromX="3417" fromY="1415" />
-      <outputs name="Insista para que eles partam agora se valorizam suas vidas." ownerID="19" targetID="48" fromX="3417" fromY="1335" />'Ah, laddie, it is a tough nugget. We learnt that an old anvil from a renowned smith lies buried here. It is an heirloom, as ya know. We must get it out before those skunks get their green hands on it. Will ya help?'</nodes>
+      <outputs name="Insista para que eles partam agora se valorizam suas vidas." ownerID="19" targetID="48" fromX="3417" fromY="1335" />'Ah, rapaz, é uma pepita dura. Aprendemos que uma velha bigorna de um renomado ferreiro está enterrada aqui. É uma herança, como você sabe. Devemos tirá-lo antes que aqueles gambás coloquem suas mãos verdes nele. Você vai ajudar?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3591" positionY="2528" width="350" height="681">
       <logic>
         <FilterBlock>
@@ -129,7 +129,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="3031.6582" positionY="926.0601" width="350" height="761">
       <outputs name="Deixe-os ser." ownerID="23" targetID="42" fromX="3357" fromY="478" />
-      <outputs name="Ataque!" ownerID="23" targetID="7" fromX="3357" fromY="398" />'You lassies just skip along and play with yer green fellas. Us here, we got a job to do, and we'll serve up a good beatin' to anyone who interferes.'</nodes>
+      <outputs name="Ataque!" ownerID="23" targetID="7" fromX="3357" fromY="398" />'Vocês, moças, pulem e brinquem com seus caras verdes. Nós aqui, temos um trabalho a fazer, e vamos dar uma boa surra em quem interferir.'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="24" positionX="4082.62646" positionY="623.4758" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="24" targetID="25" fromX="4531" fromY="191" />
     </nodes>
@@ -196,7 +196,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="36" targetID="44" fromX="4345" fromY="1977" />The orcs don't realize that you helped the dwarves, so they are pleased that you got rid of them. However, they complain that there are no dwarven bodies, which means you did not choose the warrior's path. Still, they leave you a payment.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="36" targetID="44" fromX="4345" fromY="1977" />Os orcs não percebem que você ajudou os anões, então eles estão satisfeitos por você ter se livrado deles. No entanto, eles reclamam que não há corpos anões, o que significa que você não escolheu o caminho do guerreiro. Ainda assim, eles deixam um pagamento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="3623" positionY="1710" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -211,7 +211,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Acene com a cabeça e deseje-lhes bem." ownerID="37" targetID="38" fromX="3948" fromY="1262" />The dwarves are grateful for your help. They stay to recover the anvil, which may take some time.
+      <outputs name="Acene com a cabeça e deseje-lhes bem." ownerID="37" targetID="38" fromX="3948" fromY="1262" />Os anões agradecem sua ajuda. Eles ficam para recuperar a bigorna, o que pode levar algum tempo.
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="38" positionX="5148" positionY="1687" width="460" height="509">
       <outputs ownerID="38" targetID="39" group="G1" fromX="5578" fromY="1328" />
@@ -230,7 +230,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="39" targetID="44" fromX="6072" fromY="1416" />The orcs are not happy with your results. They send their own forces to kill the dwarves, and they tell you not to offer help when you do not mean it.</nodes>
+      <outputs name="Sair." ownerID="39" targetID="44" fromX="6072" fromY="1416" />Os orcs não estão felizes com seus resultados. Eles enviam suas próprias forças para matar os anões, e eles dizem para você não oferecer ajuda quando não quiser.</nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="6233" positionY="1555" width="350" height="681" image="Event144">
       <logic>
         <ModifierBlock>
@@ -247,7 +247,7 @@
       <outputs ownerID="41" targetID="23" fromX="2857" fromY="463" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="3491.369" positionY="695.450867" width="350" height="681">
-      <outputs name="Sair." ownerID="42" targetID="24" fromX="3817" fromY="248" />When you inform the orcs of your failure, they are disappointed in your efforts. </nodes>
+      <outputs name="Sair." ownerID="42" targetID="24" fromX="3817" fromY="248" />Quando você informa os orcs de seu fracasso, eles ficam desapontados com seus esforços. </nodes>
     <nodes xsi:type="NodeAdventure" ID="43" positionX="3688" positionY="-60" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -288,7 +288,7 @@
       <outputs name="[Crafter or tools]Ofereça ajuda." ownerID="47" targetID="20" group="G2" fromX="2245" fromY="1986" />
       <outputs name="Diga que você os ajudará a torná-lo mais rápido para que possam evitar os orcs." ownerID="47" targetID="57" group="G2" fromX="2245" fromY="1906" />
       <outputs name="Insista para que eles partam agora se valorizam suas vidas." ownerID="47" targetID="48" fromX="2245" fromY="1826" />
-      <outputs name="[Orc]Show them what those skunk green hands can do. Ataque!" ownerID="47" targetID="54" fromX="2245" fromY="1746" />'Ah, laddie, it is a tough nugget. We learnt that an old anvil from a renowned smith lies buried here. It is an heirloom, as ya know. We must get it out before those skunks get their green hands on it. Will ya help?'</nodes>
+      <outputs name="[Orc]Show them what those skunk green hands can do. Ataque!" ownerID="47" targetID="54" fromX="2245" fromY="1746" />'Ah, rapaz, é uma pepita dura. Aprendemos que uma velha bigorna de um renomado ferreiro está enterrada aqui. É uma herança, como você sabe. Devemos tirá-lo antes que aqueles gambás coloquem suas mãos verdes nele. Você vai ajudar?'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="48" positionX="4010" positionY="1458" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="30" maxDamage="70" useCountInPercent="true" targetGroup="dwarf">
       <outputs ownerID="48" targetID="35" fromX="4439" fromY="1069" />
     </nodes>
@@ -385,7 +385,7 @@
       <outputs name="[Mestre ou amante da Striga] Você sente um lacaio da noite aqui. Chame por eles e faça com que eles atendam ao seu comando!" ownerID="2" targetID="50" fromX="172" fromY="-670" />
       <outputs name="Ataque!" ownerID="2" targetID="24" fromX="172" fromY="-750" />
       <outputs name="Use carne para tentar atrair alguns filhotes para a vila dos orcs." ownerID="2" targetID="15" fromX="172" fromY="-831" />
-      <outputs name="Volte mais tarde." ownerID="2" targetID="31" fromX="172" fromY="-911" />The alpha clan sent you to get a wolf pack, and you track down the cave where it sleeps. </nodes>
+      <outputs name="Volte mais tarde." ownerID="2" targetID="31" fromX="172" fromY="-911" />O clã alfa enviou você para pegar um bando de lobos e você rastreia a caverna onde ele dorme. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="-575" positionY="1787" width="350" height="1046" image="Event105">
       <logic>
         <FilterBlock>
@@ -416,7 +416,7 @@
       <outputs name="[Lobisomem] Corra com a matilha, fale com o alfa e veja se ele enviará alguns de seus lobos para servir os orcs." ownerID="3" targetID="42" group="G1" fromX="-249" fromY="1295" />
       <outputs name="Fale com o lobisomem alfa e convença-o de que seu pequeno bando será melhor servido se ele deixar alguns lobos irem para os orcs." ownerID="3" targetID="5" group="G1" fromX="-249" fromY="1295" />
       <outputs name="[Demônio da noite ou força] Tente reivindicar este território para si mesmo. Talvez eles recuem se julgarem que você é mais forte." ownerID="3" targetID="6" fromX="-249" fromY="1295" />
-      <outputs name="Ataque!" ownerID="3" targetID="30" fromX="-249" fromY="1295" />You observe the pack and quickly notice they are not mere wolves. They act with irregularities known only to humans -- all, or at least some, here are werewolves.</nodes>
+      <outputs name="Ataque!" ownerID="3" targetID="30" fromX="-249" fromY="1295" />Você observa a matilha e rapidamente percebe que eles não são meros lobos. Eles agem com irregularidades conhecidas apenas pelos humanos - todos, ou pelo menos alguns, aqui são lobisomens.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1023" positionY="160" width="350" height="1046" image="Event105">
       <logic>
         <FilterBlock>
@@ -435,7 +435,7 @@
       <outputs name="Basta matá-los à moda antiga." ownerID="4" targetID="24" fromX="1348" fromY="-411" />
       <outputs name="Você sabe como lidar com lobos. Tente descobrir." ownerID="4" targetID="3" fromX="1348" fromY="-491" />
       <outputs name="[Natureza] Tente alcançar o espírito interior dos lobos para acalmá-los em nome da natureza." ownerID="4" targetID="16" fromX="1348" fromY="-571" />
-      <outputs name="[Mestre ou amante da Striga] Você sente um lacaio da noite aqui. Chame por eles e faça com que eles atendam ao seu comando!" ownerID="4" targetID="50" fromX="1348" fromY="-651" />Você observa a matilha e rapidamente percebe que eles não são meros lobos. Eles agem com irregularidades conhecidas apenas pelos humanos - todos, ou pelo menos alguns, aqui são lobisomens.catch you, it may prove lethal.</nodes>
+      <outputs name="[Mestre ou amante da Striga] Você sente um lacaio da noite aqui. Chame por eles e faça com que eles atendam ao seu comando!" ownerID="4" targetID="50" fromX="1348" fromY="-651" />Você observa a matilha e rapidamente percebe que eles não são meros lobos. Eles agem com irregularidades conhecidas apenas pelos humanos - todos, ou pelo menos alguns, aqui são lobisomens. Você pode tentar montar armadilhas para capturar alguns lobos, mas se os lobisomens o pegarem, pode ser letal.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="259" positionY="2129" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-WEREWOLF_MIX_6P_3M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="34" fromX="700" fromY="1633" />
       <outputs name="Lose" ownerID="5" targetID="32" fromX="700" fromY="1553" />
@@ -581,7 +581,7 @@
       <outputs name="Sair." ownerID="18" targetID="55" fromX="3155" fromY="-319" />Você consegue vários filhotes para os orcs e prende alguns adultos também. Felizmente para você, apenas os lobos adultos mordem um pouco. Os orcs estão impressionados com sua competência.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="378" positionY="-1620" width="350" height="761">
       <outputs name="Bom." ownerID="20" targetID="21" group="G1" fromX="703" fromY="-2067" />
-      <outputs name="Bom." ownerID="20" targetID="22" group="G1" fromX="703" fromY="-2147" />You give the meat away and lead the animals to the orc village. </nodes>
+      <outputs name="Bom." ownerID="20" targetID="22" group="G1" fromX="703" fromY="-2147" />Você dá a carne e leva os animais para a vila dos orcs. </nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="899.831665" positionY="-1811.99536" width="350" height="681">
       <logic>
         <FilterBlock>
@@ -610,7 +610,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="22" targetID="23" fromX="734" fromY="-2935" />You lure some pups to the orc village and the alpha clan is happy with your work, although they say that you chose the cowardly way.
+      <outputs name="Sair." ownerID="22" targetID="23" fromX="734" fromY="-2935" />Você atrai alguns filhotes para a vila orc e o clã alfa está feliz com seu trabalho, embora digam que você escolheu o caminho covarde.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="23" positionX="1361" positionY="-2385" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="23" targetID="14" fromX="1809" fromY="-2817" />
@@ -652,7 +652,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="26" targetID="27" fromX="3576" fromY="-2035" />You are defeated and eventually the folk who asked for your help deal with the problem themselves, so you do not gain any friendship.</nodes>
+      <outputs name="Sair." ownerID="26" targetID="27" fromX="3576" fromY="-2035" />Você é derrotado e, eventualmente, as pessoas que pediram sua ajuda lidam com o problema, então você não ganha nenhuma amizade.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="27" positionX="3848" positionY="-1950" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="27" targetID="48" fromX="4296" fromY="-2382" />
     </nodes>
@@ -674,7 +674,8 @@
     <nodes xsi:type="NodeAdventure" ID="32" positionX="968" positionY="2033" width="350" height="885">
       <outputs name="Desistir." ownerID="32" targetID="37" fromX="1293" fromY="1541" />
       <outputs name="Use carne para tentar atrair alguns filhotes para a vila dos orcs." ownerID="32" targetID="15" fromX="1293" fromY="1461" />
-      <outputs name="Ataque!" ownerID="32" targetID="30" fromX="1293" fromY="1381" />&#39;Argh, palavras, palavras humanas. Somos livres, continuamos livres!&#39; O pacote começa a circular sua posição.="857" width="350" height="725">
+      <outputs name="Ataque!" ownerID="32" targetID="30" fromX="1293" fromY="1381" />'Argh, palavras, palavras humanas. Somos livres, continuamos livres!' O pacote começa a circular sua posição.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="33" positionX="2317" positionY="857" width="350" height="725">
       <logic>
         <ModifierBlock>
           <LogicModifiers>
@@ -682,7 +683,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="33" targetID="47" fromX="2642" fromY="365" />Your scheming fails. You are assailed by the werewolves and the orcs have to save your skin. They laugh at your failure.</nodes>
+      <outputs name="Sair." ownerID="33" targetID="47" fromX="2642" fromY="365" />Seu esquema falha. Você é assaltado pelos lobisomens e os orcs precisam salvar sua pele. Eles riem do seu fracasso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="1650" positionY="2503" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -703,11 +704,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="34" targetID="36" group="G1" fromX="1975" fromY="2011" />'There is wisdom in growing the pack.'
-
-The alpha werewolf howls in agreement and vows to take some young wolves to serve with the orcs. 
-
-The orcs are impressed with your results - an alliance with a werewolf pack is a great boon for them. They honour you and leave gifts.</nodes>
+      <outputs name="Sair." ownerID="34" targetID="36" group="G1" fromX="1975" fromY="2011" />'Há sabedoria em aumentar a matilha.' O lobisomem alfa uiva em concordância e promete levar alguns lobos jovens para servir com os orcs. Os orcs estão impressionados com seus resultados - uma aliança com um bando de lobisomens é um grande benefício para eles. Eles te honram e deixam presentes.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="36" positionX="2484" positionY="2157" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="36" targetID="39" fromX="2932" fromY="1724" />
     </nodes>
@@ -719,7 +716,7 @@ The orcs are impressed with your results - an alliance with a werewolf pack is a
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="37" targetID="53" fromX="2206" fromY="1017" />The orcs laugh at your incompetence and you lose their respect. </nodes>
+      <outputs name="Sair." ownerID="37" targetID="53" fromX="2206" fromY="1017" />Os orcs riem de sua incompetência e você perde o respeito deles. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="39" positionX="2936.88281" positionY="1623.93677" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -857,11 +854,7 @@ The orcs are impressed with your results - an alliance with a werewolf pack is a
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="54" targetID="27" fromX="3104" fromY="2448" />Just as you depart, one of the werewolves howls and whispers your way: 
-
-'One of you is of our blood, and now that you hear my call, you shall awaken. 
-
-If you wish, come seek us, pup. If not, good hunting to you.'</nodes>
+      <outputs name="Sair." ownerID="54" targetID="27" fromX="3104" fromY="2448" />Assim que você parte, um dos lobisomens uiva e sussurra em sua direção: '— Um de vocês é do nosso sangue, e agora que você ouve meu chamado, você deve acordar. Se desejar, venha nos procurar, filhote. Se não, boa caça para você.'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="55" positionX="3317" positionY="-215" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="55" targetID="10" fromX="3765" fromY="-647" />
     </nodes>
@@ -915,7 +908,7 @@ If you wish, come seek us, pup. If not, good hunting to you.'</nodes>
       <outputs name="Troca." ownerID="2" targetID="7" group="G1" fromX="804" fromY="-621" />
       <outputs name="Troca." ownerID="2" targetID="5" group="G1" fromX="804" fromY="-702" />
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />
-      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />The trader's stalls stand open for you. 
+      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />As bancas do comerciante estão abertas para você. 
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-ALPHA_CLANS_SMALL" playerInventory="sell">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
@@ -956,9 +949,9 @@ If you wish, come seek us, pup. If not, good hunting to you.'</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1550" fromY="-875" />
-      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1550" fromY="-955" />'You are no friends of ours, so we won't take food as payment and you'll have to pay us extra first.'</nodes>
+      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1550" fromY="-955" />'Vocês não são nossos amigos, então não aceitamos comida como pagamento e você terá que nos pagar um extra primeiro.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1789.41174" positionY="355.919952" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Good trading. Now go, fight your enemies!'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Boa negociação. Agora vá, lute contra seus inimigos!'</nodes>
   </Adventure>
   <Adventure name="AlphaclansTrademedium" uniqueID="30" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event205">
@@ -990,7 +983,7 @@ If you wish, come seek us, pup. If not, good hunting to you.'</nodes>
       <outputs name="Troca." ownerID="2" targetID="7" group="G1" fromX="785" fromY="-817" />
       <outputs name="Troca." ownerID="2" targetID="5" group="G1" fromX="785" fromY="-897" />
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="785" fromY="-977" />
-      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="785" fromY="-1057" />The trader's stalls stand open for you. 
+      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="785" fromY="-1057" />As bancas do comerciante estão abertas para você. 
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="888" positionY="409" width="460" height="479" traderProfile="TRADER-ALPHA_CLANS" playerInventory="sell">
       <outputs name="confirme" ownerID="3" targetID="11" fromX="1318" fromY="80" />
@@ -1031,9 +1024,9 @@ If you wish, come seek us, pup. If not, good hunting to you.'</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1506" fromY="-608" />
-      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1506" fromY="-688" />'You are no friends of ours, so you'll have to pay us extra first.'</nodes>
+      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1506" fromY="-688" />'Vocês não são nossos amigos, então terão que nos pagar um extra primeiro.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1789.41174" positionY="355.919952" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Good trading. Now go, fight your enemies!'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Boa negociação. Agora vá, lute contra seus inimigos!'</nodes>
   </Adventure>
   <Adventure name="AlphaclansTradeadv" uniqueID="31" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event205">
@@ -1065,7 +1058,7 @@ If you wish, come seek us, pup. If not, good hunting to you.'</nodes>
       <outputs name="Troca." ownerID="2" targetID="7" group="G1" fromX="883" fromY="-620" />
       <outputs name="Troca." ownerID="2" targetID="5" group="G1" fromX="883" fromY="-700" />
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="883" fromY="-780" />
-      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="883" fromY="-860" />The trader's stalls stand open for you. 
+      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="883" fromY="-860" />As bancas do comerciante estão abertas para você. 
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-ALPHA_CLANS_LARGE" playerInventory="sell">
       <outputs name="confirme" ownerID="3" targetID="11" fromX="1451" fromY="-196" />
@@ -1106,9 +1099,9 @@ If you wish, come seek us, pup. If not, good hunting to you.'</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1445" fromY="-908" />
-      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />'You are no friends of ours, so we won't take food as payment and you'll have to pay us extra first.'</nodes>
+      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />'Vocês não são nossos amigos, então não aceitaremos comida como pagamento e você terá que nos pagar um extra primeiro.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1789.41174" positionY="355.919952" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Good trading. Now go, fight your enemies!'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Boa negociação. Agora vá, lute contra seus inimigos!'</nodes>
   </Adventure>
   <Adventure name="AlphaclansVillageSmall" uniqueID="32" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="83" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="-18" positionY="245" width="347" height="902" image="Event219">
@@ -1146,11 +1139,7 @@ If you wish, come seek us, pup. If not, good hunting to you.'</nodes>
       <outputs name="Pergunte se você pode comprar alguns lobos." ownerID="2" targetID="40" fromX="789" fromY="-963" />
       <outputs name="Troca." ownerID="2" targetID="35" fromX="789" fromY="-1043" />
       <outputs name="Sair." ownerID="2" targetID="3" fromX="789" fromY="-1123" />
-      <outputs name="Ataque!" ownerID="2" targetID="7" fromX="789" fromY="-1204" />'If you value your skins, speak fast, or die faster! Why are you here?'
-
-Some village activities will only be available when you are friends with its people and some are restricted to chance, so coming back from time to time may be worth it.
-
-This village is small, as such, it will not offer recruitment and may have other options limited.</nodes>
+      <outputs name="Ataque!" ownerID="2" targetID="7" fromX="789" fromY="-1204" />'Se você valoriza suas peles, fale rápido ou morra mais rápido! Por quê você está aqui?' Algumas atividades da vila só estarão disponíveis quando você for amigo de seu povo e algumas são restritas ao acaso, então voltar de vez em quando pode valer a pena. Esta aldeia é pequena, como tal, não oferecerá recrutamento e poderá ter outras opções limitadas.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1539" positionY="-1057" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="3093" positionY="-1995" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="5" positionX="471" positionY="1055" width="350" height="885">
@@ -1190,7 +1179,7 @@ This village is small, as such, it will not offer recruitment and may have other
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="15" fromX="1765" fromY="547" />The village lies destroyed, and the spoils are yours.</nodes>
+      <outputs name="Sair." ownerID="6" targetID="15" fromX="1765" fromY="547" />A aldeia está destruída e os despojos são seus.</nodes>
     <nodes xsi:type="NodeChallenge" ID="7" positionX="869" positionY="909" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-LOTS_ORCS_7P_6M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="7" targetID="83" group="G1" fromX="1310" fromY="413" />
       <outputs name="Lose" ownerID="7" targetID="16" fromX="1310" fromY="333" />
@@ -1209,7 +1198,7 @@ This village is small, as such, it will not offer recruitment and may have other
     </nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="10" positionX="1576" positionY="20" width="350" height="805">
       <outputs name="Aceita." ownerID="10" targetID="17" fromX="1901" fromY="-471" />
-      <outputs name="Recusar e sair." ownerID="10" targetID="3" fromX="1901" fromY="-551" />'Some of our folk have gone missing, and we think a pack of wolves may have become too arrogant. We'd send our bloodtrackers, obviously, but since you want to play for us, maybe you should go.'</nodes>
+      <outputs name="Recusar e sair." ownerID="10" targetID="3" fromX="1901" fromY="-551" />'Alguns de nosso povo desapareceram, e achamos que uma matilha de lobos pode ter se tornado arrogante demais. Mandaríamos nossos rastreadores de sangue, obviamente, mas já que você quer tocar para nós, talvez devesse ir.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="-103" positionY="-2009" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -1226,7 +1215,7 @@ This village is small, as such, it will not offer recruitment and may have other
       <outputs name="Pague para remover o veneno." ownerID="11" targetID="70" fromX="222" fromY="-2660" />
       <outputs name="Pergunte se há uma bruxa orc que pode curar doenças espirituais." ownerID="11" targetID="26" fromX="222" fromY="-2740" />
       <outputs name="Um rastreador de sangue está demonstrando suas proezas. Junte-se a eles e talvez você possa aprender um truque ou dois." ownerID="11" targetID="76" fromX="222" fromY="-2820" />
-      <outputs name="Volte outro dia." ownerID="11" targetID="3" fromX="222" fromY="-2901" />'Come, sit by the fires, train with us, or see the medicine woman if you dare! There are also men who will serve your needs, if you like?'</nodes>
+      <outputs name="Volte outro dia." ownerID="11" targetID="3" fromX="222" fromY="-2901" />'Venha, sente-se perto das fogueiras, treine conosco ou consulte a curandeira, se tiver coragem! Há também homens que atenderão às suas necessidades, se você quiser?'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="923" positionY="-1581" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1261,16 +1250,16 @@ This village is small, as such, it will not offer recruitment and may have other
     </nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="19" positionX="2565" positionY="25" width="350" height="805">
       <outputs name="Aceita." ownerID="19" targetID="74" fromX="2890" fromY="-466" />
-      <outputs name="Recusar e sair." ownerID="19" targetID="3" fromX="2890" fromY="-546" />'There is a small lava pit not too far. Many of our warrior women went to pay respects to the fires, but none returned. We've got a lot of trouble setting up this small settlement, so if you really want to help, go see where our warriors went.'</nodes>
+      <outputs name="Recusar e sair." ownerID="19" targetID="3" fromX="2890" fromY="-546" />'Há um pequeno poço de lava não muito longe. Muitas de nossas mulheres guerreiras foram prestar homenagem às fogueiras, mas nenhuma voltou. Temos muitos problemas para montar este pequeno assentamento, então se você realmente quer ajudar, vá ver onde nossos guerreiros foram.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="2016" positionY="-863" width="350" height="1046">
       <outputs name="Pergunte se algo precisa ser morto." ownerID="21" targetID="14" group="G1" fromX="2341" fromY="-1354" />
       <outputs name="Você tem um monte de madeira em você. Pergunte se eles precisam de algum." ownerID="21" targetID="39" fromX="2341" fromY="-1434" />
       <outputs name="Você vê que eles estão precisando de metal. Diga a eles que você está disposto a doar alguns dos seus." ownerID="21" targetID="38" fromX="2341" fromY="-1514" />
       <outputs name="There is nothing to do here for now. Volte outro dia." ownerID="21" targetID="3" fromX="2341" fromY="-1594" />
-      <outputs name="Pergunte se algo precisa ser morto." ownerID="21" targetID="75" group="G1" fromX="2341" fromY="-1674" />'You want to prove yourselves? Bom. Do it!'</nodes>
+      <outputs name="Pergunte se algo precisa ser morto." ownerID="21" targetID="75" group="G1" fromX="2341" fromY="-1674" />'Você quer provar a si mesmo? Bom. Faça isso!'</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="22" positionX="3492" positionY="127" width="350" height="805">
       <outputs name="Aceita." ownerID="22" targetID="23" fromX="3817" fromY="-364" />
-      <outputs name="Recusar e sair." ownerID="22" targetID="3" fromX="3817" fromY="-444" />'Some pointy ears are hanging around our woods, and we want them gone. You prove yourself to us that way.'</nodes>
+      <outputs name="Recusar e sair." ownerID="22" targetID="3" fromX="3817" fromY="-444" />'Algumas orelhas pontudas estão penduradas em nossa floresta, e queremos que elas desapareçam. Você prova a si mesmo para nós dessa maneira.'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="23" positionX="3899" positionY="51" width="480" height="503" radius="7" settlementID="SET-WOODS" destroyOwner="false" linkedEventUniqueID="56">
       <outputs ownerID="23" targetID="57" fromX="4347" fromY="-381" />
     </nodes>
@@ -1304,7 +1293,7 @@ This village is small, as such, it will not offer recruitment and may have other
       <outputs name="Concorde em pagar o preço para remover maldiçoes." ownerID="26" targetID="73" fromX="2344" fromY="-2503" />
       <outputs name="Peça para curar suas feridas espirituais." ownerID="26" targetID="72" fromX="2344" fromY="-2583" />
       <outputs name="[Orc] Peça a ela a tradicional cura espiritual orc para maldiçoes e feridas espirituais." ownerID="26" targetID="71" fromX="2344" fromY="-2663" />
-      <outputs name="Sair." ownerID="26" targetID="4" fromX="2344" fromY="-2743" />'I can take the darkness away from you, but you must pay. Magic comes at a price. Healing the spirit is easier, but curses, well, they are nasty things, and they'll cost you more -- it will cost you blood. Oh, and I do not heal males.'</nodes>
+      <outputs name="Sair." ownerID="26" targetID="4" fromX="2344" fromY="-2743" />'Eu posso tirar a escuridão de você, mas você deve pagar. A magia tem um preço. Curar o espírito é mais fácil, mas maldições, bem, são coisas desagradáveis, e vão te custar mais – vai te custar sangue. Ah, e eu não curo machos.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="1470" positionY="-2792" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1451,7 +1440,7 @@ This village is small, as such, it will not offer recruitment and may have other
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Compre um lobo." ownerID="40" targetID="41" fromX="-192" fromY="-869" />'We have some good wolves, but be sure you can tame them -- they are no pets. They are beasts that may become your companion!'</nodes>
+      <outputs name="Compre um lobo." ownerID="40" targetID="41" fromX="-192" fromY="-869" />'Temos alguns lobos bons, mas certifique-se de que você pode domá-los - eles não são animais de estimação. Eles são feras que podem se tornar seu companheiro!'</nodes>
     <nodes xsi:type="NodeTrade" ID="41" positionX="-1107" positionY="-244" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="sell" startingBalance="-235">
       <logic>
         <FilterBlock>
@@ -1502,7 +1491,7 @@ This village is small, as such, it will not offer recruitment and may have other
     </nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="47" positionX="4515" positionY="102" width="350" height="805">
       <outputs name="Aceita." ownerID="47" targetID="48" fromX="4840" fromY="-389" />
-      <outputs name="Recusar e sair." ownerID="47" targetID="3" fromX="4840" fromY="-469" />'Yeah, we do have a task for your type. Go to the old ruins, where we used to live, before the Shattering broke it all. Dig up an iron idol. It's important to us, but we haven't had time to go ourselves. Prove yourself.'</nodes>
+      <outputs name="Recusar e sair." ownerID="47" targetID="3" fromX="4840" fromY="-469" />'Sim, temos uma tarefa para o seu tipo. Vá para as antigas ruínas, onde costumávamos morar, antes que a Destruição destruísse tudo. Desenterrar um ídolo de ferro. É importante para nós, mas não tivemos tempo de ir nós mesmos. Prove a si mesmo.'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="48" positionX="5031" positionY="28" width="480" height="503" radius="7" settlementID="SET-RUINS" destroyOwner="false" linkedEventUniqueID="52">
       <outputs ownerID="48" targetID="57" fromX="5479" fromY="-404" />
     </nodes>
@@ -1521,7 +1510,7 @@ This village is small, as such, it will not offer recruitment and may have other
       </logic>
       <outputs name="Peça para negociar." ownerID="50" targetID="51" fromX="-182" fromY="829" />
       <outputs name="Ofereça-se para fazer algo por eles para provar sua boa vontade." ownerID="50" targetID="14" group="G1" fromX="-182" fromY="749" />
-      <outputs name="Ofereça-se para fazer algo por eles para provar sua boa vontade." ownerID="50" targetID="75" group="G1" fromX="-182" fromY="669" />'Ha! You sure are tough bastards. Fine, come along, but we're watching you!'</nodes>
+      <outputs name="Ofereça-se para fazer algo por eles para provar sua boa vontade." ownerID="50" targetID="75" group="G1" fromX="-182" fromY="669" />'Ah! Vocês com certeza são uns bastardos durões. Tudo bem, venha, mas estamos de olho em você!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="51" positionX="-41" positionY="1264" width="350" height="530" linkedEventUniqueID="30" />
     <nodes xsi:type="NodeDealDamage" ID="52" positionX="-2112" positionY="735" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="52" targetID="53" fromX="-1682" fromY="346" />
@@ -1822,7 +1811,7 @@ This village is small, as such, it will not offer recruitment and may have other
       <outputs ownerID="74" targetID="57" fromX="3415" fromY="-436" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="75" positionX="-516" positionY="386" width="350" height="725">
-      <outputs name="Sair." ownerID="75" targetID="3" fromX="-190" fromY="-105" />'Either we do not have any work for you, or you or your kin are already set on a path to aid us. Finish that path before you ask for new tasks.'</nodes>
+      <outputs name="Sair." ownerID="75" targetID="3" fromX="-190" fromY="-105" />'Ou não temos nenhum trabalho para você, ou você ou seus parentes já estão no caminho para nos ajudar. Conclua esse caminho antes de solicitar novas tarefas.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="76" positionX="-566" positionY="-3275" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1952,11 +1941,11 @@ This village is small, as such, it will not offer recruitment and may have other
       <outputs name="Veja se você pode ter seu animal de estimação treinado aqui." ownerID="2" targetID="100" fromX="769" fromY="-1420" />
       <outputs name="Ataque!" ownerID="2" targetID="7" fromX="769" fromY="-1500" />
       <outputs name="Peça para ir assistir aos boxes de combate para ter a chance de recrutar." ownerID="2" targetID="105" group="G1" fromX="769" fromY="-1580" />
-      <outputs name="Você vê um rosto familiar, aproxime-se." ownerID="2" targetID="106" fromX="769" fromY="-1660" />'Halt? Oh, you, you may enter.'
+      <outputs name="Você vê um rosto familiar, aproxime-se." ownerID="2" targetID="106" fromX="769" fromY="-1660" />'Parar? Oh, você, você pode entrar.
 
-Some village activities will only be available when you are friends with its people and some are restricted to chance, so coming back from time to time may be worth it.
+Algumas atividades da vila só estarão disponíveis quando você for amigo de seu povo e algumas são restritas ao acaso, então voltar de vez em quando pode valer a pena.
 
-Once you become friends, you will get the chance to recruit.</nodes>
+Uma vez que você se tornar amigo, você terá a chance de recrutar.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="6209" positionY="1941" width="350" height="530" logBookName="QUEST_ALPHACLANS" logBookDescription="QUEST_ALPHACLANS_DES" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="3232" positionY="-2235" width="350" height="530" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventure" ID="5" positionX="425" positionY="1218" width="350" height="885">
@@ -1996,7 +1985,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="15" fromX="1765" fromY="547" />The village lies destroyed, and the spoils are yours.</nodes>
+      <outputs name="Sair." ownerID="6" targetID="15" fromX="1765" fromY="547" />A aldeia está destruída e os despojos são seus.</nodes>
     <nodes xsi:type="NodeChallenge" ID="7" positionX="869" positionY="909" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-HORDE_ORCS_8P_7M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="7" targetID="107" group="G1" fromX="1310" fromY="413" />
       <outputs name="Lose" ownerID="7" targetID="16" fromX="1310" fromY="333" />
@@ -2037,7 +2026,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
       <outputs name="Um rastreador de sangue está demonstrando suas proezas. Junte-se a eles e talvez você possa aprender um truque ou dois." ownerID="11" targetID="34" fromX="-86" fromY="-2814" />
       <outputs name="Volte outro dia." ownerID="11" targetID="3" fromX="-86" fromY="-2895" />
       <outputs name="[Female]Diga que você gostaria desses serviços masculinos que eles mencionaram." ownerID="11" targetID="88" fromX="-86" fromY="-2975" />
-      <outputs name="[Masculino]Diga que você gostaria desses serviços viris que eles mencionaram." ownerID="11" targetID="87" fromX="-86" fromY="-3055" />'Come, sit by the fires, train with us, or see the medicine woman if you dare! There are also men who will serve your needs, if you like?'</nodes>
+      <outputs name="[Masculino]Diga que você gostaria desses serviços viris que eles mencionaram." ownerID="11" targetID="87" fromX="-86" fromY="-3055" />'Venha, sente-se perto das fogueiras, treine conosco ou consulte a curandeira, se tiver coragem! Há também homens que atenderão às suas necessidades, se você quiser?'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="1496" positionY="-2713" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2084,7 +2073,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
       <outputs name="Você vê que eles estão precisando de metal. Diga a eles que você está disposto a doar alguns dos seus." ownerID="21" targetID="38" fromX="2251" fromY="-1252" />
       <outputs name="There is nothing to do here for now. Volte outro dia." ownerID="21" targetID="3" fromX="2251" fromY="-1332" />
       <outputs name="Existem locais de interesse por aqui?" ownerID="21" targetID="74" fromX="2251" fromY="-1412" />
-      <outputs name="Pergunte se algo precisa ser morto." ownerID="21" targetID="94" group="G1" fromX="2251" fromY="-1493" />'You want to prove yourselves? Bom. Do it!'</nodes>
+      <outputs name="Pergunte se algo precisa ser morto." ownerID="21" targetID="94" group="G1" fromX="2251" fromY="-1493" />'Você quer provar a si mesmo? Bom. Faça isso!'</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="22" positionX="3379" positionY="-141" width="350" height="805" image="Event144">
       <outputs name="Aceita." ownerID="22" targetID="76" fromX="3704" fromY="-632" />
       <outputs name="Recusar e sair." ownerID="22" targetID="3" fromX="3704" fromY="-712" />'There are some clan-less orcs not too far from here - stubborn lot, won't leave. You make them go, yes? They are . . . a problem for me. Perhaps outsider presence will help matters.'</nodes>
@@ -2378,7 +2367,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
       </logic>
       <outputs name="Peça para negociar." ownerID="50" targetID="51" fromX="-135" fromY="1042" />
       <outputs name="Ofereça-se para fazer algo por eles para provar sua boa vontade." ownerID="50" targetID="14" group="G1" fromX="-135" fromY="962" />
-      <outputs name="Ofereça-se para fazer algo por eles para provar sua boa vontade." ownerID="50" targetID="94" group="G1" fromX="-135" fromY="882" />'Ha! You sure are tough bastards. Fine, come along, but we're watching you!'</nodes>
+      <outputs name="Ofereça-se para fazer algo por eles para provar sua boa vontade." ownerID="50" targetID="94" group="G1" fromX="-135" fromY="882" />'Ah! Vocês com certeza são uns bastardos durões. Tudo bem, venha, mas estamos de olho em você!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="51" positionX="-44" positionY="1243" width="350" height="530" logBookName="QUEST_ALPHACLANS" logBookDescription="QUEST_ALPHACLANS_DES" linkedEventUniqueID="31" endOfQuest="true" />
     <nodes xsi:type="NodeDealDamage" ID="52" positionX="-1899" positionY="743" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="52" targetID="53" fromX="-1469" fromY="354" />
@@ -2392,7 +2381,7 @@ Once you become friends, you will get the chance to recruit.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Ataque!" ownerID="53" targetID="7" fromX="-893" fromY="86" />
-      <outputs name="Sair." ownerID="53" targetID="3" fromX="-893" fromY="6" />'You are weaklings, do not waste our time. Leave!'</nodes>
+      <outputs name="Sair." ownerID="53" targetID="3" fromX="-893" fromY="6" />'Vocês são fracos, não percam nosso tempo. Saia!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="54" positionX="-2266" positionY="-750" width="350" height="530" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
         <FilterBlock>
@@ -2873,7 +2862,7 @@ Steaming sex is not just a metaphor for orcs, as you make love atop a bed of hot
       <outputs ownerID="93" targetID="25" fromX="2181" fromY="-2073" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="94" positionX="-815" positionY="660" width="350" height="725">
-      <outputs name="Sair." ownerID="94" targetID="3" fromX="-489" fromY="168" />'Either we do not have any work for you, or you or your kin are already set on a path to aid us. Finish that path before you ask for new tasks.'</nodes>
+      <outputs name="Sair." ownerID="94" targetID="3" fromX="-489" fromY="168" />'Ou não temos nenhum trabalho para você, ou você ou seus parentes já estão no caminho para nos ajudar. Conclua esse caminho antes de solicitar novas tarefas.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" allowOnce="true" ID="96" positionX="-41" positionY="-854" width="350" height="530" linkedEventUniqueID="74">
       <logic>
         <FilterBlock>
@@ -6417,7 +6406,7 @@ Os orcs são derrotados e a matriarca fala com seu último suspiro: &#39;Por san
       <outputs name="Surrender" ownerID="8" targetID="41" fromX="2525" fromY="1374" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="3844.47437" positionY="-913.422363" width="350" height="681">
-      <outputs name="Sair." ownerID="16" targetID="24" fromX="4170" fromY="-1360" />You are badly beaten and the orcs have to come to your rescue. They are unimpressed with your 'help.' 
+      <outputs name="Sair." ownerID="16" targetID="24" fromX="4170" fromY="-1360" />Você está muito espancado e os orcs têm que vir em seu socorro. Eles não se impressionam com sua 'ajuda'. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2814" positionY="1895" width="350" height="841" image="Event160">
       <logic>
@@ -6491,7 +6480,7 @@ Os orcs são derrotados e a matriarca fala com seu último suspiro: &#39;Por san
       <outputs ownerID="41" targetID="23" fromX="2768" fromY="648" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="3459" positionY="902" width="350" height="681">
-      <outputs name="Sair." ownerID="42" targetID="24" fromX="3784" fromY="454" />When you inform the orcs of your failure, they are disappointed in your efforts. </nodes>
+      <outputs name="Sair." ownerID="42" targetID="24" fromX="3784" fromY="454" />Quando você informa os orcs de seu fracasso, eles ficam desapontados com seus esforços. </nodes>
     <nodes xsi:type="NodeAdventure" ID="43" positionX="3632" positionY="-21" width="350" height="681">
       <logic>
         <ModifierBlock>
