@@ -1,5 +1,5 @@
 # thea2-pt_BR
-Portuguese translation of game Thea2 The Shattering
+Portuguese translation of Thea2 The Shattering game.
 
 ### Contribute
 You liked this initiative? Fell free to start translating and open a PR.
