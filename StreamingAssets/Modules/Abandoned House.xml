@@ -1149,9 +1149,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="56" targetID="64" group="G1" fromX="3250" fromY="-37" />The creature trembles at your words. Its eyes fill with tears and it bursts into uncontrollable laughter.
-
-A criatura treme com suas palavras. Seus olhos se enchem de lágrimas e ele explode em gargalhadas incontroláveis. A criatura está tão louca quanto possível, então deixe estar. Na saída, você descobre um pacote deixado em sua mochila. </nodes>
+      <outputs name="Sair." ownerID="56" targetID="64" group="G1" fromX="3250" fromY="-37" />A criatura treme com suas palavras. Seus olhos se enchem de lágrimas e ele explode em gargalhadas incontroláveis. A criatura está tão louca quanto possível, então deixe estar. Na saída, você descobre um pacote deixado em sua mochila. </nodes>
     <nodes xsi:type="NodeAdventure" ID="57" positionX="5273.66064" positionY="-1557.65747" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1171,7 +1169,7 @@ A criatura treme com suas palavras. Seus olhos se enchem de lágrimas e ele expl
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="57" targetID="64" fromX="5599" fromY="-2048" />A criatura treme com suas palavras. Seus olhos se enchem de lágrimas e ele cai em um desespero incontrolável. Em poucos minutos, está morto. A sala de repente parece desconfortável e hostil, e seu conteúdo começa a apodrecer.before your eyes. On your way out, you discover a package left in your backpack. </nodes>
+      <outputs name="Sair." ownerID="57" targetID="64" fromX="5599" fromY="-2048" />A criatura aceita a comida e, fiel às suas obrigações demoníacas, é liberada de seus deveres anteriores. Ele sorri para você e desaparece, e a casa começa a apodrecer diante de seus olhos. Na saída, você descobre um pacote deixado em sua mochila. </nodes>
     <nodes xsi:type="NodeAdventure" ID="58" positionX="4576.22" positionY="-1599.46606" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1818,9 +1816,7 @@ A criatura treme com suas palavras. Seus olhos se enchem de lágrimas e ele expl
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Reúna o que puder e suba de volta." ownerID="17" targetID="69" fromX="3129" fromY="-947" />You light your torches to burn the webs and direct the smoke deeper into the tunnel towards the spiders.
-
-As aranhas estão mortas, mas podem vir mais. Você encontra os restos de outras vítimas presos nas teias.</nodes>
+      <outputs name="Reúna o que puder e suba de volta." ownerID="17" targetID="69" fromX="3129" fromY="-947" />Você acende suas tochas para queimar as teias e direcionar a fumaça mais para dentro do túnel em direção às aranhas. As aranhas ficam longe de você, mas mais podem estar vindo. Você encontra os restos de outras vítimas presos nas teias.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="1936.152" positionY="-541.9139" width="350" height="725">
       <outputs name="Run.&#xD;&#xA;" ownerID="19" targetID="59" fromX="2261" fromY="-1033" />Você tenta pensar em algo rápido, mas as aranhas são mais rápidas. Eles o cercam com raiva, e tudo o que você pode fazer é subir para a segurança o mais rápido possível. 
 </nodes>
