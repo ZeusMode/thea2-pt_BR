@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Thea2-pt_BR" Graphic="brasil.png" Visibility="2">  
+	<DB>DATABASE_DES_LOCALIZATION.xml</DB>
+	<DB>DATABASE_QUEST_LOCALIZATION.xml</DB>
+	<DB>DATABASE_UI_LOCALIZATION.xml</DB>
+	<STORY_MODULE>Abandoned House.xml</STORY_MODULE>
+	<STORY_MODULE>Alphaclan.xml</STORY_MODULE>
+	<STORY_MODULE>Animal attack.xml</STORY_MODULE>
+	<STORY_MODULE>Awakening DLC.xml</STORY_MODULE>
+	<STORY_MODULE>Bandits attack.xml</STORY_MODULE>
+	<STORY_MODULE>CampEncounters.xml</STORY_MODULE>
+	<STORY_MODULE>Cave.xml</STORY_MODULE>
+	<STORY_MODULE>Cemetery.xml</STORY_MODULE>
+	<STORY_MODULE>ChallengeTutorials.xml</STORY_MODULE>
+	<STORY_MODULE>Children.xml</STORY_MODULE>
+	<STORY_MODULE>Death.xml</STORY_MODULE>
+	<STORY_MODULE>demon encounters.xml</STORY_MODULE>
+	<STORY_MODULE>Divine.xml</STORY_MODULE>
+	<STORY_MODULE>Earthbound.xml</STORY_MODULE>
+	<STORY_MODULE>Encounter races.xml</STORY_MODULE>
+	<STORY_MODULE>Forestdemons.xml</STORY_MODULE>
+	<STORY_MODULE>Generic.xml</STORY_MODULE>
+	<STORY_MODULE>Haloween DLC.xml</STORY_MODULE>
+	<STORY_MODULE>Icedemons.xml</STORY_MODULE>
+	<STORY_MODULE>KS Events.xml</STORY_MODULE>
+	<STORY_MODULE>Lightbringers.xml</STORY_MODULE>
+	<STORY_MODULE>mChapter 1.xml</STORY_MODULE>
+	<STORY_MODULE>Misc Encounters 2.xml</STORY_MODULE>
+	<STORY_MODULE>Misc Encounters.xml</STORY_MODULE>
+	<STORY_MODULE>Misc Encounters 3.xml</STORY_MODULE>
+	<STORY_MODULE>Natural disaster.xml</STORY_MODULE>
+	<STORY_MODULE>Nest.xml</STORY_MODULE>
+	<STORY_MODULE>Nightdemins.xml</STORY_MODULE>
+	<STORY_MODULE>Post Water Stuff.xml</STORY_MODULE>
+	<STORY_MODULE>Quarry.xml</STORY_MODULE>
+	<STORY_MODULE>Ruins Basic.xml</STORY_MODULE>
+	<STORY_MODULE>Scavengers.xml</STORY_MODULE>
+	<STORY_MODULE>Sea Encounters.xml</STORY_MODULE>
+	<STORY_MODULE>Sea Ruins.xml</STORY_MODULE>
+	<STORY_MODULE>Shadowkin.xml</STORY_MODULE>
+	<STORY_MODULE>Slavyan.xml</STORY_MODULE>
+	<STORY_MODULE>SpiritTalkers.xml</STORY_MODULE>
+	Thea2 - pt_BR
+
+	Autor: Wesley Cintra do Nascimento (ZeusMode)
+
+	Colabore com a tradução em:
+	https://github.com/ZeusMode/thea2-pt_BR
+</ModInfo>
