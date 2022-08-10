@@ -14,16 +14,12 @@
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Não, diga a eles que você veio para conversar e talvez estabelecer uma amizade." ownerID="2" targetID="3" fromX="735" fromY="-688" />You come to a settlement claimed by the light. Its folk roam the streets in unison, working, crafting, ploughing the fields, all in silence, all together. 
-
-When they spot you, they approach:
-
-'You have come to join us?'</nodes>
+      <outputs name="Não, diga a eles que você veio para conversar e talvez estabelecer uma amizade." ownerID="2" targetID="3" fromX="735" fromY="-688" />Você chega a um assentamento reivindicado pela luz. Seu povo percorre as ruas em uníssono, trabalhando, fabricando, arando os campos, todos em silêncio, todos juntos. Quando o avistam, eles se aproximam: 'Você veio se juntar a nós?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="835" positionY="-54" width="350" height="966" image="Event056">
       <outputs name="Recusar e sair rapidamente." ownerID="3" targetID="5" fromX="1160" fromY="-545" />
       <outputs name="[Turmoil or Light] Esta é uma abominação que desafia tanto a turbulência (procurando domá-la) quanto a luz (abusando de seu poder). Ataque de frente!" ownerID="3" targetID="4" fromX="1160" fromY="-625" />
       <outputs name="[Magia ou Natureza] Essa força parece imaterial. Invoque seu domínio e enfrente esses demônios com seu espírito!" ownerID="3" targetID="11" fromX="1160" fromY="-705" />
-      <outputs name="[Harmonia ou Intelecto] Mostre-lhes a força de sua mente, uma vontade que não será dobrada." ownerID="3" targetID="12" fromX="1160" fromY="-785" />— Ou você é um de nós, ou não é. Venha . . .&#39; Fios de luz começam a circundar você, seu calor frio em sua pele e pingentes de gelo em chamas tocando suas entranhas em uma tentativa de se unir.</nodes>
+      <outputs name="[Harmonia ou Intelecto] Mostre-lhes a força de sua mente, uma vontade que não será dobrada." ownerID="3" targetID="12" fromX="1160" fromY="-785" />— Ou você é um de nós, ou não é. Venha . . .' Fios de luz começam a circundar você, seu calor frio em sua pele e pingentes de gelo em chamas tocando suas entranhas em uma tentativa de se unir.</nodes>
     <nodes xsi:type="NodeChallenge" ID="4" positionX="1316" positionY="-476" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LIGHT_7P_7M_7S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -51,7 +47,7 @@ When they spot you, they approach:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="9" fromX="2437" fromY="-799" />You destroy the lightbringers and the village burns, as if the light will not allow you a full victory. </nodes>
+      <outputs name="Sair." ownerID="6" targetID="9" fromX="2437" fromY="-799" />Você destrói os portadores da luz e a vila queima, como se a luz não lhe permitisse uma vitória completa. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="2021" positionY="-1295" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="7" targetID="8" fromX="2450" fromY="-1683" />
     </nodes>
@@ -69,7 +65,7 @@ When they spot you, they approach:
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="14" fromX="2915" fromY="-1491" />You are badly beaten and forced to flee. One or more of your folk could fall under their dominion . . .</nodes>
+      <outputs name="Sair." ownerID="8" targetID="14" fromX="2915" fromY="-1491" />Você é espancado e forçado a fugir. Um ou mais de seu povo podem cair sob seu domínio. . .</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="9" positionX="2748" positionY="-340" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="9" targetID="10" fromX="3196" fromY="-772" />
     </nodes>
@@ -167,7 +163,7 @@ When they spot you, they approach:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Veja a vila da luz." ownerID="18" targetID="19" fromX="-154" fromY="-878" />'Bringer of light, come, see us. One day you will join. For now some us may wish to travel with you.'</nodes>
+      <outputs name="Veja a vila da luz." ownerID="18" targetID="19" fromX="-154" fromY="-878" />'Portador da luz, venha nos ver. Um dia você vai participar. Por enquanto, alguns de nós podem querer viajar com você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="-1000" positionY="-361" width="350" height="1046">
       <logic>
         <FilterBlock>
@@ -195,9 +191,7 @@ When they spot you, they approach:
       <outputs name="Cure sua saúde mental." ownerID="19" targetID="22" fromX="-674" fromY="-932" />
       <outputs name="Remova maldiçoes." ownerID="19" targetID="25" fromX="-674" fromY="-1012" />
       <outputs name="Recrute portadores de luz." ownerID="19" targetID="26" fromX="-674" fromY="-1092" />
-      <outputs name="Nada a fazer por enquanto, vá embora." ownerID="19" targetID="31" fromX="-674" fromY="-1172" />The village seems frozen in time. The people move so slowly you can barely see it. Yet they all seem really happy. 
-
-</nodes>
+      <outputs name="Nada a fazer por enquanto, vá embora." ownerID="19" targetID="31" fromX="-674" fromY="-1172" />A aldeia parece congelada no tempo. As pessoas se movem tão devagar que você mal consegue ver. No entanto, todos parecem muito felizes.  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="-1513" positionY="-325" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -339,7 +333,7 @@ When they spot you, they approach:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="32" targetID="33" fromX="-102" fromY="-9" />The lightbringers turn to you in anger, but they suddenly simply collapse. The destruction of the light-beast is working.</nodes>
+      <outputs name="Sair." ownerID="32" targetID="33" fromX="-102" fromY="-9" />Os portadores da luz se voltam para você com raiva, mas de repente eles simplesmente desmoronam. A destruição da besta de luz está funcionando.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="33" positionX="-1007" positionY="322" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="33" targetID="31" fromX="-558" fromY="-110" />
     </nodes>
@@ -414,7 +408,7 @@ When they spot you, they approach:
       <outputs ownerID="16" targetID="17" fromX="2019" fromY="-1546" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2275" positionY="-1007" width="350" height="725">
-      <outputs name="Pegue suas coisas e vá embora." ownerID="17" targetID="22" fromX="2600" fromY="-1498" />You destroy the lightbringers and their bodies turn to ash. </nodes>
+      <outputs name="Pegue suas coisas e vá embora." ownerID="17" targetID="22" fromX="2600" fromY="-1498" />Você destrói os portadores da luz e seus corpos se transformam em cinzas. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="3575.53" positionY="-1343.55945" width="350" height="530" allPlayersXP="-1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -425,7 +419,7 @@ When they spot you, they approach:
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="1656" positionY="-1920" width="350" height="725">
-      <outputs name="Corre." ownerID="19" targetID="25" fromX="1981" fromY="-2411" />Your spirit is too weak. The lightbringers assail you, and you barely escape - and perhaps some of you do not . . .</nodes>
+      <outputs name="Corre." ownerID="19" targetID="25" fromX="1981" fromY="-2411" />Seu espírito é muito fraco. Os portadores da luz os atacam, e você mal escapa - e talvez alguns de vocês não. . .</nodes>
     <nodes xsi:type="NodeDealDamage" ID="20" positionX="1018" positionY="-2061" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="20" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="20" targetID="19" fromX="1447" fromY="-2449" />
     </nodes>
@@ -454,7 +448,7 @@ When they spot you, they approach:
         </FilterBlock>
       </logic>
       <outputs name="Ataque!" ownerID="27" targetID="28" fromX="1191" fromY="67" />
-      <outputs name="Sair." ownerID="27" targetID="29" fromX="1191" fromY="-12" />&#39;Você, você deu mais luz. Você se juntará quando estiver pronto...&#39; Eles se afastam.</nodes>
+      <outputs name="Sair." ownerID="27" targetID="29" fromX="1191" fromY="-12" />'Você, você deu mais luz. Você se juntará quando estiver pronto...' Eles se afastam.</nodes>
     <nodes xsi:type="NodeChallenge" ID="28" positionX="1925" positionY="-147" width="500" height="726" challengeType="TypePhysical" versusEventOwner="true" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="28" targetID="17" fromX="2366" fromY="-642" />
       <outputs name="Lose" ownerID="28" targetID="25" fromX="2366" fromY="-722" />
@@ -475,7 +469,7 @@ When they spot you, they approach:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="30" targetID="31" fromX="-200" fromY="-764" />A group of the lightbringers approaches, but they suddenly simply collapse. The destruction of the light-beast is working.</nodes>
+      <outputs name="Sair." ownerID="30" targetID="31" fromX="-200" fromY="-764" />Um grupo de portadores da luz se aproxima, mas de repente eles simplesmente desmoronam. A destruição da besta de luz está funcionando.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="31" positionX="-1141" positionY="-362" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="31" targetID="32" fromX="-692" fromY="-794" />
     </nodes>
@@ -494,16 +488,12 @@ When they spot you, they approach:
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Não, diga a eles que você veio para conversar e talvez estabelecer uma amizade." ownerID="2" targetID="3" fromX="735" fromY="-688" />You come to a settlement claimed by the light. Its folk roam the streets in unison, working, crafting, ploughing the fields, all in silence, all together. 
-
-When they spot you, they approach:
-
-'You have come to join us?'</nodes>
+      <outputs name="Não, diga a eles que você veio para conversar e talvez estabelecer uma amizade." ownerID="2" targetID="3" fromX="735" fromY="-688" />Você chega a um assentamento reivindicado pela luz. Seu povo percorre as ruas em uníssono, trabalhando, fabricando, arando os campos, todos em silêncio, todos juntos. Quando o avistam, eles se aproximam: 'Você veio se juntar a nós?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="835" positionY="-54" width="350" height="966" image="Event056">
       <outputs name="Recusar e sair rapidamente." ownerID="3" targetID="5" fromX="1160" fromY="-545" />
       <outputs name="[Turmoil or Light] Esta é uma abominação que desafia tanto a turbulência (procurando domá-la) quanto a luz (abusando de seu poder). Ataque de frente!" ownerID="3" targetID="4" fromX="1160" fromY="-625" />
       <outputs name="[Magia ou Natureza] Essa força parece imaterial. Invoque seu domínio e enfrente esses demônios com seu espírito!" ownerID="3" targetID="11" fromX="1160" fromY="-705" />
-      <outputs name="[Harmonia ou Intelecto] Mostre-lhes a força de sua mente, uma vontade que não será dobrada." ownerID="3" targetID="12" fromX="1160" fromY="-785" />— Ou você é um de nós, ou não é. Venha . . .&#39; Fios de luz começam a circundar você, seu calor frio em sua pele e pingentes de gelo em chamas tocando suas entranhas em uma tentativa de se unir.</nodes>
+      <outputs name="[Harmonia ou Intelecto] Mostre-lhes a força de sua mente, uma vontade que não será dobrada." ownerID="3" targetID="12" fromX="1160" fromY="-785" />— Ou você é um de nós, ou não é. Venha . . .' Fios de luz começam a circundar você, seu calor frio em sua pele e pingentes de gelo em chamas tocando suas entranhas em uma tentativa de se unir.</nodes>
     <nodes xsi:type="NodeChallenge" ID="4" positionX="1316" positionY="-476" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LIGHT_9P_9M_9S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -531,7 +521,7 @@ When they spot you, they approach:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="9" fromX="2323" fromY="-841" />You destroy the lightbringers and the village burns, as if the light will not allow you a full victory. </nodes>
+      <outputs name="Sair." ownerID="6" targetID="9" fromX="2323" fromY="-841" />Você destrói os portadores da luz e a vila queima, como se a luz não lhe permitisse uma vitória completa. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="2021" positionY="-1295" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="7" targetID="8" fromX="2450" fromY="-1683" />
     </nodes>
@@ -549,7 +539,7 @@ When they spot you, they approach:
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="14" fromX="2915" fromY="-1491" />You are badly beaten and forced to flee. One or more of your folk could fall under their dominion . . .</nodes>
+      <outputs name="Sair." ownerID="8" targetID="14" fromX="2915" fromY="-1491" />Você é espancado e forçado a fugir. Um ou mais de seu povo podem cair sob seu domínio. . .</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="9" positionX="2748" positionY="-340" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="9" targetID="10" fromX="3196" fromY="-772" />
     </nodes>
@@ -668,7 +658,7 @@ When they spot you, they approach:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Veja a vila da luz." ownerID="18" targetID="19" fromX="-154" fromY="-878" />'Bringer of light, come, see us. One day you will join. For now some us may wish to travel with you.'</nodes>
+      <outputs name="Veja a vila da luz." ownerID="18" targetID="19" fromX="-154" fromY="-878" />'Portador da luz, venha nos ver. Um dia você vai participar. Por enquanto, alguns de nós podem querer viajar com você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="-1000" positionY="-361" width="350" height="1046">
       <logic>
         <FilterBlock>
@@ -696,9 +686,7 @@ When they spot you, they approach:
       <outputs name="Cure sua saúde mental." ownerID="19" targetID="22" fromX="-674" fromY="-932" />
       <outputs name="Remova maldiçoes." ownerID="19" targetID="25" fromX="-674" fromY="-1012" />
       <outputs name="Recrute portadores de luz." ownerID="19" targetID="26" fromX="-674" fromY="-1092" />
-      <outputs name="Nada a fazer por enquanto, vá embora." ownerID="19" targetID="31" fromX="-674" fromY="-1172" />The village seems frozen in time. The people move so slowly you can barely see it. Yet they all seem really happy. 
-
-</nodes>
+      <outputs name="Nada a fazer por enquanto, vá embora." ownerID="19" targetID="31" fromX="-674" fromY="-1172" />A aldeia parece congelada no tempo. As pessoas se movem tão devagar que você mal consegue ver. No entanto, todos parecem muito felizes.  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="-1513" positionY="-325" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -841,16 +829,12 @@ When they spot you, they approach:
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Não, diga a eles que você veio para conversar e talvez estabelecer uma amizade." ownerID="2" targetID="3" fromX="735" fromY="-688" />You come to a settlement claimed by the light. Its folk roam the streets in unison, working, crafting, ploughing the fields, all in silence, all together. 
-
-When they spot you, they approach:
-
-'You have come to join us?'</nodes>
+      <outputs name="Não, diga a eles que você veio para conversar e talvez estabelecer uma amizade." ownerID="2" targetID="3" fromX="735" fromY="-688" />Você chega a um assentamento reivindicado pela luz. Seu povo percorre as ruas em uníssono, trabalhando, fabricando, arando os campos, todos em silêncio, todos juntos. Quando o avistam, eles se aproximam: 'Você veio se juntar a nós?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="835" positionY="-54" width="350" height="966" image="Event056">
       <outputs name="Recusar e sair rapidamente." ownerID="3" targetID="5" fromX="1160" fromY="-545" />
       <outputs name="[Turmoil or Light] Esta é uma abominação que desafia tanto a turbulência (procurando domá-la) quanto a luz (abusando de seu poder). Ataque de frente!" ownerID="3" targetID="4" fromX="1160" fromY="-625" />
       <outputs name="[Magia ou Natureza] Essa força parece imaterial. Invoque seu domínio e enfrente esses demônios com seu espírito!" ownerID="3" targetID="11" fromX="1160" fromY="-705" />
-      <outputs name="[Harmonia ou Intelecto] Mostre-lhes a força de sua mente, uma vontade que não será dobrada." ownerID="3" targetID="12" fromX="1160" fromY="-785" />— Ou você é um de nós, ou não é. Venha . . .&#39; Fios de luz começam a circundar você, seu calor frio em sua pele e pingentes de gelo em chamas tocando suas entranhas em uma tentativa de se unir.</nodes>
+      <outputs name="[Harmonia ou Intelecto] Mostre-lhes a força de sua mente, uma vontade que não será dobrada." ownerID="3" targetID="12" fromX="1160" fromY="-785" />— Ou você é um de nós, ou não é. Venha . . .' Fios de luz começam a circundar você, seu calor frio em sua pele e pingentes de gelo em chamas tocando suas entranhas em uma tentativa de se unir.</nodes>
     <nodes xsi:type="NodeChallenge" ID="4" positionX="1316" positionY="-476" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LIGHT_5P_5M_5S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -878,7 +862,7 @@ When they spot you, they approach:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="9" fromX="2437" fromY="-799" />You destroy the lightbringers and the village burns, as if the light will not allow you a full victory. </nodes>
+      <outputs name="Sair." ownerID="6" targetID="9" fromX="2437" fromY="-799" />Você destrói os portadores da luz e a vila queima, como se a luz não lhe permitisse uma vitória completa. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="2021" positionY="-1295" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="7" targetID="8" fromX="2450" fromY="-1683" />
     </nodes>
@@ -896,7 +880,7 @@ When they spot you, they approach:
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="14" fromX="2915" fromY="-1491" />You are badly beaten and forced to flee. One or more of your folk could fall under their dominion . . .</nodes>
+      <outputs name="Sair." ownerID="8" targetID="14" fromX="2915" fromY="-1491" />Você é espancado e forçado a fugir. Um ou mais de seu povo podem cair sob seu domínio. . .</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="9" positionX="2748" positionY="-340" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="9" targetID="10" fromX="3196" fromY="-772" />
     </nodes>
@@ -994,7 +978,7 @@ When they spot you, they approach:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Veja a vila da luz." ownerID="18" targetID="19" fromX="-154" fromY="-878" />'Bringer of light, come, see us. One day you will join. For now some us may wish to travel with you.'</nodes>
+      <outputs name="Veja a vila da luz." ownerID="18" targetID="19" fromX="-154" fromY="-878" />'Portador da luz, venha nos ver. Um dia você vai participar. Por enquanto, alguns de nós podem querer viajar com você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="-1000" positionY="-361" width="350" height="1046">
       <logic>
         <FilterBlock>
@@ -1022,9 +1006,7 @@ When they spot you, they approach:
       <outputs name="Cure sua saúde mental." ownerID="19" targetID="22" fromX="-674" fromY="-932" />
       <outputs name="Remova maldiçoes." ownerID="19" targetID="25" fromX="-674" fromY="-1012" />
       <outputs name="Recrute portadores de luz." ownerID="19" targetID="26" fromX="-674" fromY="-1092" />
-      <outputs name="Nada a fazer por enquanto, vá embora." ownerID="19" targetID="31" fromX="-674" fromY="-1172" />The village seems frozen in time. The people move so slowly you can barely see it. Yet they all seem really happy. 
-
-</nodes>
+      <outputs name="Nada a fazer por enquanto, vá embora." ownerID="19" targetID="31" fromX="-674" fromY="-1172" />A aldeia parece congelada no tempo. As pessoas se movem tão devagar que você mal consegue ver. No entanto, todos parecem muito felizes.  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="-1513" positionY="-325" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1166,7 +1148,7 @@ When they spot you, they approach:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="32" targetID="33" fromX="-568" fromY="18" />The lightbringers turn to you in anger, but they suddenly simply collapse. The destruction of the light-beast is working.</nodes>
+      <outputs name="Sair." ownerID="32" targetID="33" fromX="-568" fromY="18" />Os portadores da luz se voltam para você com raiva, mas de repente eles simplesmente desmoronam. A destruição da besta de luz está funcionando.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="33" positionX="-1466" positionY="225" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="33" targetID="31" fromX="-1017" fromY="-207" />
     </nodes>
@@ -1185,16 +1167,12 @@ When they spot you, they approach:
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Não, diga a eles que você veio para conversar e talvez estabelecer uma amizade." ownerID="2" targetID="3" fromX="735" fromY="-688" />You come to a place claimed by the light. There are creatures and people here, all standing together, staring into space.
-
-When they spot you, they approach:
-
-'You have come to join us?'</nodes>
+      <outputs name="Não, diga a eles que você veio para conversar e talvez estabelecer uma amizade." ownerID="2" targetID="3" fromX="735" fromY="-688" />Você chega a um lugar reivindicado pela luz. Há criaturas e pessoas aqui, todas juntas, olhando para o espaço. Quando o avistam, eles se aproximam: 'Você veio se juntar a nós?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="835" positionY="-54" width="350" height="966" image="Event056">
       <outputs name="Recusar e sair rapidamente." ownerID="3" targetID="5" fromX="1160" fromY="-545" />
       <outputs name="[Turmoil or Light] Esta é uma abominação que desafia tanto a turbulência (procurando domá-la) quanto a luz (abusando de seu poder). Ataque de frente!" ownerID="3" targetID="4" fromX="1160" fromY="-625" />
       <outputs name="[Magia ou Natureza] Essa força parece imaterial. Invoque seu domínio e enfrente esses demônios com seu espírito!" ownerID="3" targetID="11" fromX="1160" fromY="-705" />
-      <outputs name="[Harmonia ou Intelecto] Mostre-lhes a força de sua mente, uma vontade que não será dobrada." ownerID="3" targetID="12" fromX="1160" fromY="-785" />— Ou você é um de nós, ou não é. Venha . . .&#39; Fios de luz começam a circundar você, seu calor frio em sua pele e pingentes de gelo em chamas tocando suas entranhas em uma tentativa de se unir.</nodes>
+      <outputs name="[Harmonia ou Intelecto] Mostre-lhes a força de sua mente, uma vontade que não será dobrada." ownerID="3" targetID="12" fromX="1160" fromY="-785" />— Ou você é um de nós, ou não é. Venha . . .' Fios de luz começam a circundar você, seu calor frio em sua pele e pingentes de gelo em chamas tocando suas entranhas em uma tentativa de se unir.</nodes>
     <nodes xsi:type="NodeChallenge" ID="4" positionX="1316" positionY="-476" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1222,7 +1200,7 @@ When they spot you, they approach:
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="9" fromX="2437" fromY="-799" />You destroy the lightbringers and the nest burns, as if the light will not allow you a full victory. </nodes>
+      <outputs name="Sair." ownerID="6" targetID="9" fromX="2437" fromY="-799" />Você destrói os portadores da luz e o ninho queima, como se a luz não lhe permitisse uma vitória completa. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="2021" positionY="-1295" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="7" targetID="8" fromX="2450" fromY="-1683" />
     </nodes>
@@ -1240,7 +1218,7 @@ When they spot you, they approach:
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="14" fromX="2915" fromY="-1491" />You are badly beaten and forced to flee. One or more of your folk could fall under their dominion . . .</nodes>
+      <outputs name="Sair." ownerID="8" targetID="14" fromX="2915" fromY="-1491" />Você é espancado e forçado a fugir. Um ou mais de seu povo podem cair sob seu domínio. . .</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="9" positionX="2748" positionY="-340" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="9" targetID="10" fromX="3196" fromY="-772" />
     </nodes>
@@ -1339,7 +1317,7 @@ When they spot you, they approach:
         </FilterBlock>
       </logic>
       <outputs name="Deixe-os em paz." ownerID="18" targetID="31" fromX="-263" fromY="-843" />
-      <outputs name="Ataque!" ownerID="18" targetID="33" fromX="-263" fromY="-923" />'Bringer of light, come, see us. One day you will join. For now we thank you for your aid.'</nodes>
+      <outputs name="Ataque!" ownerID="18" targetID="33" fromX="-263" fromY="-923" />'Portador da luz, venha nos ver. Um dia você vai participar. Por enquanto, agradecemos sua ajuda.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="31" positionX="-1041" positionY="-897" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="32" positionX="-965" positionY="430" width="350" height="725">
       <logic>
@@ -1355,7 +1333,7 @@ When they spot you, they approach:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="32" targetID="34" fromX="-639" fromY="-61" />A group of the lightbringers approaches, but they suddenly simply collapse. The destruction of the light-beast is working.</nodes>
+      <outputs name="Sair." ownerID="32" targetID="34" fromX="-639" fromY="-61" />Um grupo de portadores da luz se aproxima, mas de repente eles simplesmente desmoronam. A destruição da besta de luz está funcionando.</nodes>
     <nodes xsi:type="NodeChallenge" ID="33" positionX="-153" positionY="-1072" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="33" targetID="6" fromX="288" fromY="-1567" />
       <outputs name="Lose" ownerID="33" targetID="8" fromX="288" fromY="-1647" />

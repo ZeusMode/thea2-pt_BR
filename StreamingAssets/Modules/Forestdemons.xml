@@ -54,7 +54,7 @@
       <outputs name="Troca." ownerID="2" targetID="7" group="G1" fromX="804" fromY="-621" />
       <outputs name="Troca." ownerID="2" targetID="5" group="G1" fromX="804" fromY="-702" />
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />
-      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />The forest demons bring out various items they 'acquired' from those who trespass on their land.</nodes>
+      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />Os demônios da floresta trazem vários itens que 'adquiriram' daqueles que invadiram suas terras.</nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-FOREST_DEMONS_LARGE" playerInventory="sell">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
       <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
@@ -97,9 +97,9 @@
         </FilterBlock>
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1445" fromY="-908" />
-      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />'You are no friends of ours, we do not like this exchange, so you will give more.'</nodes>
+      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />'Vocês não são nossos amigos, não gostamos dessa troca, então você vai dar mais.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1677.34949" positionY="245.258484" width="350" height="725" image="Event247">
-      <outputs name="Sair." ownerID="11" targetID="6" fromX="2003" fromY="-245" />'Now, begone from our land.'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="6" fromX="2003" fromY="-245" />'Agora, vá embora de nossa terra.'</nodes>
   </Adventure>
   <Adventure name="ForestDemonVillage" uniqueID="32" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="45" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="741" image="Event262">
@@ -131,7 +131,7 @@
       </logic>
       <outputs name="[Povo da floresta ou sabedoria ou amigo] Ofereça aos guardioes da floresta um tributo para aplacar sua raiva." ownerID="2" targetID="7" fromX="859" fromY="-1064" />
       <outputs name="Pergunte se você pode entrar e explorar?" ownerID="2" targetID="5" fromX="859" fromY="-1144" />
-      <outputs name="Sair." ownerID="2" targetID="25" fromX="859" fromY="-1224" />Você entra no território reivindicado pelos demônios da floresta. Você sente muitos olhos sobre você. &#39;O que te procura aqui, estranho? Não gostamos de estranhos à espreita aqui.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="25" fromX="859" fromY="-1224" />Você entra no território reivindicado pelos demônios da floresta. Você sente muitos olhos sobre você. 'O que te procura aqui, estranho? Não gostamos de estranhos à espreita aqui.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="541" positionY="517" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -148,9 +148,7 @@
       </logic>
       <outputs name="Ataque!" ownerID="3" targetID="26" group="G1" fromX="866" fromY="25" />
       <outputs name="Ataque!" ownerID="3" targetID="35" group="G1" fromX="866" fromY="-54" />
-      <outputs name="Sair." ownerID="3" targetID="25" fromX="866" fromY="-134" />Você entra no território reivindicado pelos demônios da floresta. Você sente muitos olhos sobre você. &#39;Deixe nossa terra antes que a raiva da floresta o devora, forasteiro!
-
-</nodes>
+      <outputs name="Sair." ownerID="3" targetID="25" fromX="866" fromY="-134" />Você entra no território reivindicado pelos demônios da floresta. Você sente muitos olhos sobre você. 'Deixe nossa terra antes que a raiva da floresta o devora, forasteiro! </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1643" positionY="-152" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -172,9 +170,7 @@
       </logic>
       <outputs name="Melhor ir embora." ownerID="4" targetID="25" fromX="1968" fromY="-643" />
       <outputs name="Ataque!" ownerID="4" targetID="26" group="G1" fromX="1968" fromY="-723" />
-      <outputs name="Ataque!" ownerID="4" targetID="35" group="G1" fromX="1968" fromY="-803" />The longer you linger here, the more you feel the forest's heavy toll upon your morale.
-
-'You come here carrying so much old wood! You dare ask our favour. Sair.'</nodes>
+      <outputs name="Ataque!" ownerID="4" targetID="35" group="G1" fromX="1968" fromY="-803" />Quanto mais você ficar aqui, mais você sentirá o pesado pedágio da floresta em seu moral. 'Você vem aqui carregando tanta madeira velha! Você ousa pedir nosso favor. Sair.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="5" positionX="1110" positionY="-517" width="460" height="780" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="20" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="5" targetID="4" group="G1" fromX="1539" fromY="-905" />
       <outputs ownerID="5" targetID="6" group="G1" fromX="1539" fromY="-985" />
@@ -209,7 +205,7 @@
       </logic>
       <outputs name="Melhor ir embora." ownerID="6" targetID="25" fromX="2354" fromY="-696" />
       <outputs name="Ataque!" ownerID="6" targetID="26" group="G1" fromX="2354" fromY="-776" />
-      <outputs name="Ataque!" ownerID="6" targetID="35" group="G1" fromX="2354" fromY="-856" />Quanto mais você ficar aqui, mais você sentirá o pesado pedágio da floresta em seu moral. &#39;Você, você e sua espécie sempre vêm com machados imundos, sempre queimam e cortam! Vá embora e que seus corpos apodreçam.</nodes>
+      <outputs name="Ataque!" ownerID="6" targetID="35" group="G1" fromX="2354" fromY="-856" />Quanto mais você ficar aqui, mais você sentirá o pesado pedágio da floresta em seu moral. 'Você, você e sua espécie sempre vêm com machados imundos, sempre queimam e cortam! Vá embora e que seus corpos apodreçam.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="953" positionY="-1557" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -262,7 +258,7 @@
       <outputs name="Eixos para mostrar que você não pretende contaminar a floresta com eles." ownerID="7" targetID="10" fromX="1278" fromY="-2208" />
       <outputs name="Ataque!" ownerID="7" targetID="26" group="G1" fromX="1278" fromY="-2288" />
       <outputs name="Ataque!" ownerID="7" targetID="35" group="G1" fromX="1278" fromY="-2368" />
-      <outputs name="Sair." ownerID="7" targetID="25" fromX="1278" fromY="-2449" />'What will you offer?'</nodes>
+      <outputs name="Sair." ownerID="7" targetID="25" fromX="1278" fromY="-2449" />'O que você vai oferecer?'</nodes>
     <nodes xsi:type="NodeTrade" ID="8" positionX="1780" positionY="-1927" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="food" startingBalance="-100">
       <outputs name="confirme" ownerID="8" targetID="11" fromX="2210" fromY="-2255" />
       <outputs name="Cancelar" ownerID="8" targetID="7" fromX="2210" fromY="-2335" />
@@ -285,7 +281,7 @@
       </logic>
       <outputs name="Pergunte se eles negociariam com você?" ownerID="11" targetID="12" fromX="2719" fromY="-2292" />
       <outputs name="Aguarde para ver se os espíritos vão abençoá-lo de alguma forma." ownerID="11" targetID="17" fromX="2719" fromY="-2372" />
-      <outputs name="Pergunte se eles podem treinar seus animais de estimação demoníacos." ownerID="11" targetID="44" fromX="2719" fromY="-2452" />'We accept your offering. You may enter and if any of my spirits wish it, they may bestow blessings on you.'</nodes>
+      <outputs name="Pergunte se eles podem treinar seus animais de estimação demoníacos." ownerID="11" targetID="44" fromX="2719" fromY="-2452" />— Aceitamos sua oferta. Você pode entrar e, se algum dos meus espíritos desejar, poderá conceder-lhe bênçãos.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2911" positionY="-1750" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -299,7 +295,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Troca." ownerID="12" targetID="14" fromX="3236" fromY="-2241" />'You have proven friends to us so far, yes, we will trade with you.'</nodes>
+      <outputs name="Troca." ownerID="12" targetID="14" fromX="3236" fromY="-2241" />'Você provou ser nosso amigo até agora, sim, vamos negociar com você.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="3331" positionY="-1852" width="350" height="455" linkedEventUniqueID="31" />
     <nodes xsi:type="NodeAdventure" ID="15" positionX="2407" positionY="-2719" width="350" height="966">
       <logic>
@@ -312,7 +308,7 @@
       <outputs name="Pergunte se eles negociariam com você?" ownerID="15" targetID="12" fromX="2732" fromY="-3210" />
       <outputs name="Aguarde para ver se os espíritos vão abençoá-lo de alguma forma." ownerID="15" targetID="17" fromX="2732" fromY="-3290" />
       <outputs name="Uma voz acena para você, vá ver o que eles querem?" ownerID="15" targetID="38" fromX="2732" fromY="-3370" />
-      <outputs name="Pergunte se eles podem treinar seus animais de estimação demoníacos." ownerID="15" targetID="44" fromX="2732" fromY="-3450" />'We accept your offering. You may enter and if any of my spirits wish it, they may bestow blessings on you.'</nodes>
+      <outputs name="Pergunte se eles podem treinar seus animais de estimação demoníacos." ownerID="15" targetID="44" fromX="2732" fromY="-3450" />— Aceitamos sua oferta. Você pode entrar e, se algum dos meus espíritos desejar, poderá conceder-lhe bênçãos.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="2410" positionY="-366" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -333,7 +329,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Pergunte se eles negociariam com você?" ownerID="16" targetID="12" fromX="2735" fromY="-857" />
-      <outputs name="Aguarde para ver se os espíritos vão abençoá-lo de alguma forma." ownerID="16" targetID="17" fromX="2735" fromY="-937" />'We accept your presence here. You may enter and if any of my spirits wish it, they may bestow blessings on you.'</nodes>
+      <outputs name="Aguarde para ver se os espíritos vão abençoá-lo de alguma forma." ownerID="16" targetID="17" fromX="2735" fromY="-937" />— Aceitamos sua presença aqui. Você pode entrar e, se algum dos meus espíritos desejar, poderá conceder-lhe bênçãos.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="2986" positionY="-2623" width="460" height="780" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="17" targetID="18" group="G1" fromX="3415" fromY="-3011" />
       <outputs ownerID="17" targetID="19" group="G1" fromX="3415" fromY="-3091" />
@@ -360,7 +356,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça, descanse e vá embora." ownerID="18" targetID="23" fromX="3933" fromY="-2943" />'Your spirit is ailing, we will take this taint from you.'</nodes>
+      <outputs name="Agradeça, descanse e vá embora." ownerID="18" targetID="23" fromX="3933" fromY="-2943" />'Seu espírito está doente, vamos tirar essa mácula de você.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="4045" positionY="-2565" width="350" height="725" image="Event241">
       <logic>
         <FilterBlock>
@@ -383,7 +379,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça, descanse e vá embora." ownerID="19" targetID="23" fromX="4370" fromY="-3056" />'Your body is ailing, we will take this taint from you.'</nodes>
+      <outputs name="Agradeça, descanse e vá embora." ownerID="19" targetID="23" fromX="4370" fromY="-3056" />'Seu corpo está doente, vamos tirar essa mácula de você.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3950" positionY="-3531" width="350" height="725" image="Event214">
       <logic>
         <FilterBlock>
@@ -397,7 +393,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça, descanse e vá embora." ownerID="20" targetID="23" fromX="4275" fromY="-4022" />Você senta e observa a floresta enquanto ela se agita com a vida e é muito relaxante. A floresta sussurra em seu ouvido: &#39;Leshy, Borowy, nosso guardião, pode assumir muitas formas, suportar ser apenas uma. Este vai acompanhá-lo, talvez ensiná-lo os caminhos da floresta, amigo. </nodes>
+      <outputs name="Agradeça, descanse e vá embora." ownerID="20" targetID="23" fromX="4275" fromY="-4022" />Você senta e observa a floresta enquanto ela se agita com a vida e é muito relaxante. A floresta sussurra em seu ouvido: 'Leshy, Borowy, nosso guardião, pode assumir muitas formas, suportar ser apenas uma. Este vai acompanhá-lo, talvez ensiná-lo os caminhos da floresta, amigo. </nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="4471" positionY="-2854" width="350" height="725" image="Event200">
       <logic>
         <FilterBlock>
@@ -423,7 +419,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça, descanse e vá embora." ownerID="21" targetID="23" fromX="4796" fromY="-3345" />You sit and watch the forest as it bustles with life and it is very relaxing.</nodes>
+      <outputs name="Agradeça, descanse e vá embora." ownerID="21" targetID="23" fromX="4796" fromY="-3345" />Você senta e observa a floresta enquanto ela se agita com a vida e é muito relaxante.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="3377" positionY="-3536" width="350" height="725" image="Event200">
       <logic>
         <ModifierBlock>
@@ -438,7 +434,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça, descanse e vá embora." ownerID="22" targetID="23" fromX="3702" fromY="-4027" />You sit and watch the forest as it bustles with life and it is very relaxing.</nodes>
+      <outputs name="Agradeça, descanse e vá embora." ownerID="22" targetID="23" fromX="3702" fromY="-4027" />Você senta e observa a floresta enquanto ela se agita com a vida e é muito relaxante.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="23" positionX="4925" positionY="-3135" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="1854" positionY="-1297" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="26" positionX="-1542" positionY="-881" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-LOTS_FOREST_D_10P_9M_10S" challengeScale="101" challengedList="ppl">
@@ -468,7 +464,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="28" targetID="33" fromX="-6" fromY="-1379" />The forest demons are slain and you hear a dreadful whisper of the woodland around you...</nodes>
+      <outputs name="Sair." ownerID="28" targetID="33" fromX="-6" fromY="-1379" />Os demônios da floresta são mortos e você ouve um sussurro terrível da floresta ao seu redor...</nodes>
     <nodes xsi:type="NodeDealDamage" ID="29" positionX="-982" positionY="-1871" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="woodfolk">
       <outputs ownerID="29" targetID="31" fromX="-552" fromY="-2259" />
     </nodes>
@@ -497,7 +493,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="31" targetID="32" fromX="-121" fromY="-2338" />The forest defeats you and you barely escape with your lives as the trees and creatures tear into your flesh.</nodes>
+      <outputs name="Sair." ownerID="31" targetID="32" fromX="-121" fromY="-2338" />A floresta o derrota e você mal escapa com vida enquanto as árvores e criaturas rasgam sua carne.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="32" positionX="-18" positionY="-2176" width="350" height="455" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeSpawnOnMap" ID="33" positionX="-884" positionY="-1346" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="33" targetID="34" fromX="-435" fromY="-1778" />
@@ -512,7 +508,7 @@
     <nodes xsi:type="NodeAdventure" ID="36" positionX="2908" positionY="-173" width="350" height="885">
       <outputs name="Melhor ir embora." ownerID="36" targetID="25" fromX="3233" fromY="-664" />
       <outputs name="Ataque!" ownerID="36" targetID="26" group="G1" fromX="3233" fromY="-744" />
-      <outputs name="Ataque!" ownerID="36" targetID="35" group="G1" fromX="3233" fromY="-824" />Quanto mais você ficar aqui, mais você sentirá o pesado pedágio da floresta em seu moral. — Não, vá. Volte com aqueles que conhecem a floresta, talvez então vamos ouvir.&#39;</nodes>
+      <outputs name="Ataque!" ownerID="36" targetID="35" group="G1" fromX="3233" fromY="-824" />Quanto mais você ficar aqui, mais você sentirá o pesado pedágio da floresta em seu moral. — Não, vá. Volte com aqueles que conhecem a floresta, talvez então vamos ouvir.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="3354" positionY="-441" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -533,7 +529,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Pergunte se eles negociariam com você?" ownerID="37" targetID="12" fromX="3679" fromY="-932" />
-      <outputs name="Aguarde para ver se os espíritos vão abençoá-lo de alguma forma." ownerID="37" targetID="17" fromX="3679" fromY="-1012" />'We accept your presence here. You may enter and if any of my spirits wish it, they may bestow blessings on you.'</nodes>
+      <outputs name="Aguarde para ver se os espíritos vão abençoá-lo de alguma forma." ownerID="37" targetID="17" fromX="3679" fromY="-1012" />— Aceitamos sua presença aqui. Você pode entrar e, se algum dos meus espíritos desejar, poderá conceder-lhe bênçãos.'</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="38" positionX="1574" positionY="-3506" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -554,7 +550,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Aceite quem quer que seja que queira se juntar." ownerID="38" targetID="39" fromX="1899" fromY="-3997" />
-      <outputs name="Recuse educadamente." ownerID="38" targetID="25" fromX="1899" fromY="-4077" />De dentro da floresta eles falam com você: &#39;Seu panteão chama Dievanna sua filha, e a natureza é um de seus domínios. Desejo entrar em seu caminho e aprender mais sobre esses deuses que os tornaram amigos da floresta.&#39;</nodes>
+      <outputs name="Recuse educadamente." ownerID="38" targetID="25" fromX="1899" fromY="-4077" />De dentro da floresta eles falam com você: 'Seu panteão chama Dievanna sua filha, e a natureza é um de seus domínios. Desejo entrar em seu caminho e aprender mais sobre esses deuses que os tornaram amigos da floresta.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="39" positionX="2050" positionY="-3943" width="460" height="699" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="39" targetID="41" group="G1" fromX="2479" fromY="-4331" />
       <outputs ownerID="39" targetID="40" group="G1" fromX="2479" fromY="-4411" />
@@ -657,7 +653,7 @@
       <outputs name="Fique cauteloso, mas fale com eles." ownerID="2" targetID="11" fromX="729" fromY="-757" />
       <outputs name="Lutar!" ownerID="2" targetID="12" fromX="729" fromY="-837" />
       <outputs name="Defenda seu espírito!" ownerID="2" targetID="15" fromX="729" fromY="-917" />
-      <outputs name="Afastar." ownerID="2" targetID="10" fromX="729" fromY="-998" />The forest is moving towards you and it doesn't look too happy, you feel your spirit assailed by them.</nodes>
+      <outputs name="Afastar." ownerID="2" targetID="10" fromX="729" fromY="-998" />A floresta está se movendo em sua direção e não parece muito feliz, você sente seu espírito assaltado por elas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="813" positionY="717" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -667,7 +663,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Pergunte se eles querem negociar." ownerID="3" targetID="4" fromX="1138" fromY="225" />
-      <outputs name="Meditem juntos." ownerID="3" targetID="26" fromX="1138" fromY="145" />'Apologies, friends. We did not recognise you. Greetings and well wishes.'</nodes>
+      <outputs name="Meditem juntos." ownerID="3" targetID="26" fromX="1138" fromY="145" />— Desculpe, amigos. Não te reconhecemos. Saudaçoes e votos de melhoras.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="1238" positionY="746" width="350" height="530" linkedEventUniqueID="31" />
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="-62.93344" positionY="-823.593567" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -691,7 +687,7 @@
       </logic>
       <outputs name="Sair." ownerID="11" targetID="10" fromX="1218" fromY="-714" />
       <outputs name="Lutar!" ownerID="11" targetID="12" fromX="1218" fromY="-794" />
-      <outputs name="Defenda seu espírito!" ownerID="11" targetID="15" fromX="1218" fromY="-874" />They do not answer, they keep coming towards you.</nodes>
+      <outputs name="Defenda seu espírito!" ownerID="11" targetID="15" fromX="1218" fromY="-874" />Eles não respondem, continuam vindo em sua direção.</nodes>
     <nodes xsi:type="NodeChallenge" ID="12" positionX="1584" positionY="-377" width="500" height="726" challengeType="TypePhysical" versusEventOwner="true" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -722,7 +718,7 @@
       <outputs ownerID="16" targetID="17" fromX="2012" fromY="-1687" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2234" positionY="-1419" width="350" height="725">
-      <outputs name="Sair." ownerID="17" targetID="22" fromX="2559" fromY="-1910" />You destroy the forest demons and their bodies shatter.
+      <outputs name="Sair." ownerID="17" targetID="22" fromX="2559" fromY="-1910" />Você destrói os demônios da floresta e seus corpos se despedaçam.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="3337.90649" positionY="-1385.14355" width="350" height="530" allPlayersXP="-1" linkedEventUniqueID="0">
       <logic>
@@ -734,7 +730,7 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="1579.68909" positionY="-1842.37109" width="350" height="725">
-      <outputs name="Corre." ownerID="19" targetID="24" fromX="1905" fromY="-2333" />The forest drains your spirit but allows you to run. You lose some of your things on the way.</nodes>
+      <outputs name="Corre." ownerID="19" targetID="24" fromX="1905" fromY="-2333" />A floresta drena seu espírito, mas permite que você corra. Você perde algumas de suas coisas no caminho.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="20" positionX="1021.27332" positionY="-1870.886" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="60" maxDamage="80" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="20" targetID="19" fromX="1450" fromY="-2259" />
     </nodes>
@@ -766,7 +762,7 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="2189" positionY="-200" width="350" height="725">
-      <outputs name="Sair." ownerID="25" targetID="21" fromX="2514" fromY="-691" />You defeat the forest demons.</nodes>
+      <outputs name="Sair." ownerID="25" targetID="21" fromX="2514" fromY="-691" />Você derrota os demônios da floresta.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="1463" positionY="177" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -819,7 +815,7 @@
       <outputs name="Não, vá embora." ownerID="3" targetID="10" fromX="719" fromY="-417" />
       <outputs name="Sim, dê um jeitinho para ser treinado." ownerID="3" targetID="27" fromX="719" fromY="-497" />
       <outputs name="Pague com seu espírito para treinar o gato." ownerID="3" targetID="31" fromX="719" fromY="-577" />
-      <outputs name="Pague com seu espírito para treinar o cmuch." ownerID="3" targetID="33" fromX="719" fromY="-657" />&#39;Você tem companheiros demoníacos, mas seu potencial total pode não ser desbloqueado ainda. Por uma taxa, coloque-os na pedra e nós lhes daremos poder.&#39; [Treinar seu animal de estimação só o elevará para a quarta posição, não mais alto]</nodes>
+      <outputs name="Pague com seu espírito para treinar o cmuch." ownerID="3" targetID="33" fromX="719" fromY="-657" />'Você tem companheiros demoníacos, mas seu potencial total pode não ser desbloqueado ainda. Por uma taxa, coloque-os na pedra e nós lhes daremos poder.' [Treinar seu animal de estimação só o elevará para a quarta posição, não mais alto]</nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="835" positionY="161" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="stuff" startingBalance="-70">
       <logic>
         <FilterBlock>
@@ -832,7 +828,7 @@
       <outputs name="Cancelar" ownerID="5" targetID="3" fromX="1265" fromY="-247" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1344" positionY="474" width="350" height="725">
-      <outputs name="Entregue o animal de estimação." ownerID="7" targetID="8" fromX="1669" fromY="-17" />'Fee paid, good, now I take your familiar and teach it some new tricks.'</nodes>
+      <outputs name="Entregue o animal de estimação." ownerID="7" targetID="8" fromX="1669" fromY="-17" />'Taxa paga, bom, agora eu pego seu familiar e ensino alguns truques novos.'</nodes>
     <nodes xsi:type="NodeTrade" ID="8" positionX="1745" positionY="516" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ghost" startingBalance="-1">
       <outputs name="confirme" ownerID="8" targetID="9" fromX="2175" fromY="187" />
       <outputs name="Cancelar" ownerID="8" targetID="3" fromX="2175" fromY="107" />
@@ -845,7 +841,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça ao treinador e vá embora." ownerID="9" targetID="10" fromX="2607" fromY="432" />Your pet returns after a while and it seems much better behaved.</nodes>
+      <outputs name="Agradeça ao treinador e vá embora." ownerID="9" targetID="10" fromX="2607" fromY="432" />Seu animal de estimação retorna depois de um tempo e parece muito melhor comportado.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="3121" positionY="884" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="27" positionX="1154" positionY="-418" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="stuff" startingBalance="-70">
       <logic>
@@ -859,7 +855,7 @@
       <outputs name="Cancelar" ownerID="27" targetID="3" fromX="1584" fromY="-826" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="1349" positionY="-1083" width="350" height="725">
-      <outputs name="Entregue o animal de estimação." ownerID="28" targetID="29" fromX="1674" fromY="-1574" />'Fee paid, good, now I take your familiar and teach it some new tricks.'</nodes>
+      <outputs name="Entregue o animal de estimação." ownerID="28" targetID="29" fromX="1674" fromY="-1574" />'Taxa paga, bom, agora eu pego seu familiar e ensino alguns truques novos.'</nodes>
     <nodes xsi:type="NodeTrade" ID="29" positionX="1773" positionY="-1106" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="cmuch" startingBalance="-1">
       <outputs name="confirme" ownerID="29" targetID="30" fromX="2203" fromY="-1434" />
       <outputs name="Cancelar" ownerID="29" targetID="3" fromX="2203" fromY="-1514" />
@@ -872,7 +868,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça ao treinador e vá embora." ownerID="30" targetID="10" fromX="2758" fromY="-1298" />Your pet returns after a while and it seems much better behaved.</nodes>
+      <outputs name="Agradeça ao treinador e vá embora." ownerID="30" targetID="10" fromX="2758" fromY="-1298" />Seu animal de estimação retorna depois de um tempo e parece muito melhor comportado.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="31" positionX="1661" positionY="-415" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="40" maxDamage="70" useCountInPercent="true" targetGroup="ppl">
       <logic>
         <FilterBlock>
@@ -894,7 +890,7 @@
       <outputs ownerID="33" targetID="28" fromX="214" fromY="-1748" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="2463" positionY="137" width="350" height="725">
-      <outputs name="Entregue o animal de estimação." ownerID="34" targetID="35" fromX="2788" fromY="-354" />'Fee paid, good, now I take your familiar and teach it some new tricks.'</nodes>
+      <outputs name="Entregue o animal de estimação." ownerID="34" targetID="35" fromX="2788" fromY="-354" />'Taxa paga, bom, agora eu pego seu familiar e ensino alguns truques novos.'</nodes>
     <nodes xsi:type="NodeTrade" ID="35" positionX="2929" positionY="85" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="cat" startingBalance="-1">
       <outputs name="confirme" ownerID="35" targetID="36" fromX="3359" fromY="-243" />
       <outputs name="Cancelar" ownerID="35" targetID="3" fromX="3359" fromY="-323" />
@@ -907,6 +903,6 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça ao treinador e vá embora." ownerID="36" targetID="10" fromX="4036" fromY="-121" />Your pet returns after a while and it seems much better behaved.</nodes>
+      <outputs name="Agradeça ao treinador e vá embora." ownerID="36" targetID="10" fromX="4036" fromY="-121" />Seu animal de estimação retorna depois de um tempo e parece muito melhor comportado.</nodes>
   </Adventure>
 </MODULE>

@@ -24,7 +24,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="412" positionY="-82" width="350" height="805">
       <outputs name="Partir." ownerID="2" targetID="4" group="G1" fromX="737" fromY="-573" />
-      <outputs name="Partir." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-653" />Your wounds were too grave and so the gates to the underwolds open to take your soul.</nodes>
+      <outputs name="Partir." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-653" />Suas feridas eram muito graves e assim os portoes do submundo se abrem para levar sua alma.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="886" positionY="-578" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -56,7 +56,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="1214" fromY="-205" />&#39;VOCÊ É MEU ESCOLHIDO COMO OUSA MORRER!&#39; A dama da morte agarra um cadáver e enfia sua alma nele, ordenando que você continue.</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="1214" fromY="-205" />'VOCÊ É MEU ESCOLHIDO COMO OUSA MORRER!' A dama da morte agarra um cadáver e enfia sua alma nele, ordenando que você continue.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="1302" positionY="12" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="Death_" uniqueID="7" typeGeneric="true" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="6" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
@@ -84,7 +84,7 @@
     <nodes xsi:type="NodeAdventure" ID="2" positionX="412" positionY="-82" width="350" height="885">
       <outputs name="Partir." ownerID="2" targetID="4" group="G1" fromX="737" fromY="-573" />
       <outputs name="Partir." ownerID="2" targetID="6" group="G1" fromX="737" fromY="-653" />
-      <outputs name="Partir." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-733" />Your wounds were too grave and so the gates to the underwolds open to take your soul.</nodes>
+      <outputs name="Partir." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-733" />Suas feridas eram muito graves e assim os portoes do submundo se abrem para levar sua alma.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="890" positionY="-795" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -122,7 +122,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="1214" fromY="-205" />&#39;VOCÊ É MEU ESCOLHIDO COMO OUSA MORRER!&#39; A dama da morte agarra um cadáver e enfia sua alma nele, ordenando que você continue.</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="1214" fromY="-205" />'VOCÊ É MEU ESCOLHIDO COMO OUSA MORRER!' A dama da morte agarra um cadáver e enfia sua alma nele, ordenando que você continue.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="1302" positionY="12" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1369" positionY="-560" width="350" height="530" linkedEventUniqueID="10">
       <logic>
@@ -165,11 +165,7 @@
       <outputs name="Pague com quinze vidas para devolver uma." ownerID="2" targetID="16" fromX="437" fromY="-811" />
       <outputs name="Pague com vinte vidas para devolver uma." ownerID="2" targetID="17" fromX="437" fromY="-891" />
       <outputs name="Você não pode ou não vai pagar. É hora de encerrar esta jornada." ownerID="2" targetID="11" fromX="437" fromY="-971" />
-      <outputs name="Use o poder divino da semente cósmica para devolver o seu escolhido!" ownerID="2" targetID="19" fromX="437" fromY="-1051" />You allowed your chosen to die! Without the divine bond, you will no longer have any power or influence over the world, thus your reign will end.
-
-Thankfully, you have one more chance to remain in the game. Call upon the spirit of the Cosmic Tree itself and ask for the soul of your chosen to be returned to you. 
-
-Remember, the price is high and it will get higher every time you abuse your divine power like this. </nodes>
+      <outputs name="Use o poder divino da semente cósmica para devolver o seu escolhido!" ownerID="2" targetID="19" fromX="437" fromY="-1051" />Você permitiu que seu escolhido morresse! Sem o vínculo divino, você não terá mais poder ou influência sobre o mundo, assim seu reinado terminará. Felizmente, você tem mais uma chance de permanecer no jogo. Invoque o espírito da própria Árvore Cósmica e peça que a alma de seu escolhido seja devolvida a você. Lembre-se, o preço é alto e aumentará cada vez que você abusar de seu poder divino assim. </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="713" positionY="126" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-2">
       <logic>
         <FilterBlock>
@@ -182,7 +178,7 @@ Remember, the price is high and it will get higher every time you abuse your div
       <outputs name="Cancelar" ownerID="3" targetID="2" fromX="1143" fromY="-282" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1353" positionY="49" width="350" height="725">
-      <outputs name="Aguarde seu escolhido." ownerID="4" targetID="5" fromX="1678" fromY="-442" />You paid your bloody dues and the spirit of your chosen is returned, now pray that it comes back in the right flesh...</nodes>
+      <outputs name="Aguarde seu escolhido." ownerID="4" targetID="5" fromX="1678" fromY="-442" />Você pagou suas dívidas sangrentas e o espírito do seu escolhido é devolvido, agora ore para que ele volte na carne certa...</nodes>
     <nodes xsi:type="NodeDealDamage" ID="5" positionX="1913" positionY="134" width="460" height="699" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -439,11 +435,7 @@ Remember, the price is high and it will get higher every time you abuse your div
       <outputs name="Pague com quinze vidas para devolver uma." ownerID="2" targetID="16" fromX="452" fromY="-834" />
       <outputs name="Pague com vinte vidas para devolver uma." ownerID="2" targetID="17" fromX="452" fromY="-914" />
       <outputs name="Você não pode ou não vai pagar. É hora de encerrar esta jornada." ownerID="2" targetID="11" fromX="452" fromY="-994" />
-      <outputs name="Use o poder divino da semente cósmica para devolver o seu escolhido!" ownerID="2" targetID="19" fromX="452" fromY="-1074" />You allowed your chosen to die! Without the divine bond, you will no longer have any power or influence over the world, thus your reign will end.
-
-Thankfully, you have one more chance to remain in the game. Call upon the spirit of the Cosmic Tree itself and ask for the soul of your chosen to be returned to you. 
-
-Remember, the price is high and it will get higher every time you abuse your divine power like this. </nodes>
+      <outputs name="Use o poder divino da semente cósmica para devolver o seu escolhido!" ownerID="2" targetID="19" fromX="452" fromY="-1074" />Você permitiu que seu escolhido morresse! Sem o vínculo divino, você não terá mais poder ou influência sobre o mundo, assim seu reinado terminará. Felizmente, você tem mais uma chance de permanecer no jogo. Invoque o espírito da própria Árvore Cósmica e peça que a alma de seu escolhido seja devolvida a você. Lembre-se, o preço é alto e aumentará cada vez que você abusar de seu poder divino assim. </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="721" positionY="121" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-2">
       <logic>
         <FilterBlock>
@@ -456,7 +448,7 @@ Remember, the price is high and it will get higher every time you abuse your div
       <outputs name="Cancelar" ownerID="3" targetID="2" fromX="1151" fromY="-287" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1357" positionY="133" width="350" height="725">
-      <outputs name="Aguarde seu escolhido." ownerID="4" targetID="5" fromX="1682" fromY="-358" />You paid your bloody dues and the spirit of your chosen is returned, now pray that it comes back in the right flesh...</nodes>
+      <outputs name="Aguarde seu escolhido." ownerID="4" targetID="5" fromX="1682" fromY="-358" />Você pagou suas dívidas sangrentas e o espírito do seu escolhido é devolvido, agora ore para que ele volte na carne certa...</nodes>
     <nodes xsi:type="NodeDealDamage" ID="5" positionX="1902" positionY="184" width="460" height="699" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -698,7 +690,7 @@ Remember, the price is high and it will get higher every time you abuse your div
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Partir." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-573" />Damn the gods and their divine games! The strain of this dark world is too much and so you have abandoned your duties in search for a more peaceful life. </nodes>
+      <outputs name="Partir." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-573" />Malditos deuses e seus jogos divinos! A tensão deste mundo sombrio é demais e por isso você abandonou seus deveres em busca de uma vida mais pacífica. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="843" positionY="-280" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -734,7 +726,7 @@ Remember, the price is high and it will get higher every time you abuse your div
     <nodes xsi:type="NodeAdventure" ID="2" positionX="412" positionY="-82" width="350" height="885">
       <outputs name="Partir." ownerID="2" targetID="4" group="G1" fromX="737" fromY="-573" />
       <outputs name="Partir." ownerID="2" targetID="6" group="G1" fromX="737" fromY="-653" />
-      <outputs name="Partir." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-733" />Your wounds were too grave and so the gates to the underwolds open to take your soul.</nodes>
+      <outputs name="Partir." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-733" />Suas feridas eram muito graves e assim os portoes do submundo se abrem para levar sua alma.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="890" positionY="-795" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -769,7 +761,7 @@ Remember, the price is high and it will get higher every time you abuse your div
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="1214" fromY="-205" />&#39;VOCÊ É MEU ESCOLHIDO COMO OUSA MORRER!&#39; A dama da morte agarra um cadáver e enfia sua alma nele, ordenando que você continue.</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="1214" fromY="-205" />'VOCÊ É MEU ESCOLHIDO COMO OUSA MORRER!' A dama da morte agarra um cadáver e enfia sua alma nele, ordenando que você continue.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="1302" positionY="12" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1369" positionY="-560" width="350" height="530" linkedEventUniqueID="10">
       <logic>
@@ -824,11 +816,7 @@ Remember, the price is high and it will get higher every time you abuse your div
       <outputs name="Pague com dez vidas para devolver uma." ownerID="2" targetID="10" fromX="452" fromY="-753" />
       <outputs name="Pague com quinze vidas para devolver uma." ownerID="2" targetID="16" fromX="452" fromY="-834" />
       <outputs name="Pague com vinte vidas para devolver uma." ownerID="2" targetID="17" fromX="452" fromY="-914" />
-      <outputs name="Você não pode ou não vai pagar. É hora de encerrar esta jornada." ownerID="2" targetID="11" fromX="452" fromY="-994" />You allowed your chosen to die! Without the divine bond, you will no longer have any power or influence over the world, thus your reign will end.
-
-Thankfully, you have one more chance to remain in the game. Call upon the spirit of the Cosmic Tree itself and ask for the soul of your chosen to be returned to you. 
-
-Remember, the price is high and it will get higher every time you abuse your divine power like this. </nodes>
+      <outputs name="Você não pode ou não vai pagar. É hora de encerrar esta jornada." ownerID="2" targetID="11" fromX="452" fromY="-994" />Você permitiu que seu escolhido morresse! Sem o vínculo divino, você não terá mais poder ou influência sobre o mundo, assim seu reinado terminará. Felizmente, você tem mais uma chance de permanecer no jogo. Invoque o espírito da própria Árvore Cósmica e peça que a alma de seu escolhido seja devolvida a você. Lembre-se, o preço é alto e aumentará cada vez que você abusar de seu poder divino assim. </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="721" positionY="121" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-2">
       <logic>
         <FilterBlock>
@@ -841,7 +829,7 @@ Remember, the price is high and it will get higher every time you abuse your div
       <outputs name="Cancelar" ownerID="3" targetID="2" fromX="1151" fromY="-287" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1357" positionY="133" width="350" height="725">
-      <outputs name="Aguarde seu escolhido." ownerID="4" targetID="5" fromX="1682" fromY="-358" />You paid your bloody dues and the spirit of your chosen is returned, now pray that it comes back in the right flesh...</nodes>
+      <outputs name="Aguarde seu escolhido." ownerID="4" targetID="5" fromX="1682" fromY="-358" />Você pagou suas dívidas sangrentas e o espírito do seu escolhido é devolvido, agora ore para que ele volte na carne certa...</nodes>
     <nodes xsi:type="NodeDealDamage" ID="5" positionX="1902" positionY="184" width="460" height="699" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -1043,7 +1031,7 @@ Remember, the price is high and it will get higher every time you abuse your div
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="412" positionY="-82" width="350" height="725">
-      <outputs name="Partir." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-573" />Damn the gods and their divine games! The strain of this dark world is too much and so you have abandoned your duties in search for a more peaceful life. </nodes>
+      <outputs name="Partir." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-573" />Malditos deuses e seus jogos divinos! A tensão deste mundo sombrio é demais e por isso você abandonou seus deveres em busca de uma vida mais pacífica. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="843" positionY="-280" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>

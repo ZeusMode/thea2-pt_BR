@@ -20,9 +20,7 @@
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />
       <outputs name="Comércio de crianças." ownerID="2" targetID="18" group="G2" fromX="804" fromY="-942" />
-      <outputs name="Comércio de crianças." ownerID="2" targetID="13" group="G2" fromX="804" fromY="-1022" />The trader's stalls stand open for you but we trade in stone, unless you have children, we accept those too.
-
-</nodes>
+      <outputs name="Comércio de crianças." ownerID="2" targetID="13" group="G2" fromX="804" fromY="-1022" />As bancas do comerciante estão abertas para você, mas negociamos em pedra, a menos que você tenha filhos, também aceitamos. </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1081" positionY="215" width="460" height="479" traderProfile="TRADER-ICE_DEMONS_SMALL" playerInventory="stone">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1511" fromY="-113" />
       <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1511" fromY="-193" />
@@ -53,9 +51,9 @@
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1445" fromY="-908" />
       <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />
-      <outputs name="Comércio de crianças." ownerID="7" targetID="17" fromX="1445" fromY="-1069" />'You are no friends of ours, so  you'll have to pay us extra first.'</nodes>
+      <outputs name="Comércio de crianças." ownerID="7" targetID="17" fromX="1445" fromY="-1069" />— Vocês não são nossos amigos, então terão que nos pagar mais primeiro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1789.41174" positionY="355.919952" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Good trading with you. Gods be with you.'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Boa negociação com você. Deuses estejam com você.</nodes>
     <nodes xsi:type="NodeTrade" ID="13" positionX="-31" positionY="-1973" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="child" startingBalance="-1">
       <outputs name="confirme" ownerID="13" targetID="15" fromX="399" fromY="-2301" />
       <outputs name="Cancelar" ownerID="13" targetID="11" fromX="399" fromY="-2381" />
@@ -117,7 +115,7 @@
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />
       <outputs name="Comércio de crianças." ownerID="2" targetID="18" group="G2" fromX="804" fromY="-942" />
-      <outputs name="Comércio de crianças." ownerID="2" targetID="13" group="G2" fromX="804" fromY="-1022" />The trader's stalls stand open for you but we trade in stone, unless you have children, we accept those too.
+      <outputs name="Comércio de crianças." ownerID="2" targetID="13" group="G2" fromX="804" fromY="-1022" />As bancas do comerciante estão abertas para você, mas negociamos em pedra, a menos que você tenha filhos, também aceitamos.
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-ICE_DEMONS" playerInventory="stone">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
@@ -149,9 +147,9 @@
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1445" fromY="-908" />
       <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />
-      <outputs name="Comércio de crianças." ownerID="7" targetID="15" fromX="1445" fromY="-1069" />'You are no friends of ours, so  you'll have to pay us extra first.'</nodes>
+      <outputs name="Comércio de crianças." ownerID="7" targetID="15" fromX="1445" fromY="-1069" />— Vocês não são nossos amigos, então terão que nos pagar mais primeiro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1789.41174" positionY="355.919952" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'You leave now.'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Você sai agora.'</nodes>
     <nodes xsi:type="NodeTrade" ID="13" positionX="106" positionY="-1632" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="child" startingBalance="-1">
       <outputs name="confirme" ownerID="13" targetID="14" fromX="536" fromY="-1960" />
       <outputs name="Cancelar" ownerID="13" targetID="11" fromX="536" fromY="-2040" />
@@ -219,7 +217,7 @@
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />
       <outputs name="Comércio de crianças." ownerID="2" targetID="16" group="G2" fromX="804" fromY="-942" />
-      <outputs name="Comércio de crianças." ownerID="2" targetID="14" group="G2" fromX="804" fromY="-1022" />The trader's stalls stand open for you but we trade in stone, unless you have children, we accept those too.
+      <outputs name="Comércio de crianças." ownerID="2" targetID="14" group="G2" fromX="804" fromY="-1022" />As bancas do comerciante estão abertas para você, mas negociamos em pedra, a menos que você tenha filhos, também aceitamos.
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-ICE_DEMONS_LARGE" playerInventory="stone">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
@@ -251,9 +249,9 @@
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1445" fromY="-908" />
       <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />
-      <outputs name="Comércio de crianças." ownerID="7" targetID="15" fromX="1445" fromY="-1069" />'You are no friends of ours, so  you'll have to pay us extra first.'</nodes>
+      <outputs name="Comércio de crianças." ownerID="7" targetID="15" fromX="1445" fromY="-1069" />— Vocês não são nossos amigos, então terão que nos pagar mais primeiro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1771" positionY="332" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="6" fromX="2096" fromY="-159" />'You leave now.'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="6" fromX="2096" fromY="-159" />'Você sai agora.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="1353" positionY="-2554" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -363,7 +361,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="9" fromX="3436" fromY="-416" />The ice city is destroyed. Its inhabitants shatter into icicles.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="9" fromX="3436" fromY="-416" />A cidade de gelo é destruída. Seus habitantes se quebram em pingentes de gelo.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="9" positionX="2574" positionY="-697" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="9" targetID="10" fromX="3022" fromY="-1129" />
     </nodes>
@@ -382,7 +380,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="11" targetID="12" fromX="2116" fromY="-2860" />The ice demons defeat you and take a life as payment for your attack.</nodes>
+      <outputs name="Sair." ownerID="11" targetID="12" fromX="2116" fromY="-2860" />Os demônios do gelo derrotam você e tiram uma vida como pagamento pelo seu ataque.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="12" positionX="2287" positionY="-2172" width="480" height="503" radius="0" destroyOwner="false" linkedEventUniqueID="0">
       <outputs ownerID="12" targetID="13" fromX="2735" fromY="-2604" />
     </nodes>
@@ -483,11 +481,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Sim, aceite." ownerID="21" targetID="23" fromX="1307" fromY="-1459" />
-      <outputs name="Recusar educadamente." ownerID="21" targetID="16" fromX="1307" fromY="-1539" />A dziad mroz sits in the centre, his body half submerged into the ice floor:
-
-'You have proven yourself sturdy. I am interested to learn more. One of my grandchildren, a sniezynka, will join you, and one of yours will become ice. Thus we can both learn of each other. Just do not give me your chosen one, for the gods would not be happy with me. Agreed?'
-
-</nodes>
+      <outputs name="Recusar educadamente." ownerID="21" targetID="16" fromX="1307" fromY="-1539" />A dziad mroz está sentado no centro, seu corpo meio submerso no chão de gelo: “Você provou ser forte. Estou interessado em aprender mais. Um dos meus netos, um sniezynka, se juntará a você, e um dos seus se tornará gelo. Assim, ambos podemos aprender um com o outro. Só não me dê o seu escolhido, pois os deuses não ficariam felizes comigo. Concordou?' </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="22" positionX="1938" positionY="-1077" width="460" height="429">
       <logic>
         <ModifierBlock>
@@ -517,9 +511,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="2497" positionY="-1255" width="350" height="805">
       <outputs name="Sim, aceite." ownerID="24" targetID="23" fromX="2822" fromY="-1746" />
-      <outputs name="Recusar educadamente." ownerID="24" targetID="16" fromX="2822" fromY="-1826" />A dziad mroz sits in the centre, his body half submerged into the ice floor:
-
-'You have proven yourself sturdy. I am interested to learn more. One of my grandchildren, a sniezynka, will join you, and one of yours will become ice. Thus we can both learn of each other. Agreed?'
+      <outputs name="Recusar educadamente." ownerID="24" targetID="16" fromX="2822" fromY="-1826" />A dziad mroz está sentado no centro, com o corpo meio submerso no chão de gelo: “Você provou ser forte. Estou interessado em aprender mais. Um dos meus netos, um sniezynka, se juntará a você, e um dos seus se tornará gelo. Assim podemos aprender um com o outro. Concordou?'
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="25" positionX="2587" positionY="348" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
@@ -551,7 +543,7 @@
       <outputs name="Fique cauteloso, mas fale com eles." ownerID="2" targetID="11" fromX="729" fromY="-757" />
       <outputs name="Lute com espírito, eles respeitam mais." ownerID="2" targetID="12" fromX="729" fromY="-837" />
       <outputs name="Lutar!" ownerID="2" targetID="15" fromX="729" fromY="-917" />
-      <outputs name="Afastar." ownerID="2" targetID="10" fromX="729" fromY="-998" />Ice demons are stalking you!</nodes>
+      <outputs name="Afastar." ownerID="2" targetID="10" fromX="729" fromY="-998" />Demônios de gelo estão perseguindo você!</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="813" positionY="717" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -561,7 +553,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Pergunte se eles querem negociar." ownerID="3" targetID="4" fromX="1138" fromY="225" />
-      <outputs name="Sair." ownerID="3" targetID="26" fromX="1138" fromY="145" />'Apologies, friends. We did not recognise you. Greetings and well wishes.'</nodes>
+      <outputs name="Sair." ownerID="3" targetID="26" fromX="1138" fromY="145" />— Desculpe, amigos. Não te reconhecemos. Saudaçoes e votos de melhoras.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="1247" positionY="844" width="350" height="530" linkedEventUniqueID="30" />
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="-62.93344" positionY="-823.593567" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -582,7 +574,7 @@
       </logic>
       <outputs name="Sair." ownerID="11" targetID="10" fromX="1198" fromY="-675" />
       <outputs name="Lute com espírito." ownerID="11" targetID="12" fromX="1198" fromY="-755" />
-      <outputs name="Lutar!" ownerID="11" targetID="15" fromX="1198" fromY="-835" />They do not answer, they keep coming towards you.</nodes>
+      <outputs name="Lutar!" ownerID="11" targetID="15" fromX="1198" fromY="-835" />Eles não respondem, continuam vindo em sua direção.</nodes>
     <nodes xsi:type="NodeChallenge" ID="12" positionX="1416" positionY="-259" width="500" height="726" challengeType="TypeSpirit" versusEventOwner="true" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -616,7 +608,7 @@
       <outputs ownerID="16" targetID="25" fromX="2433" fromY="-680" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2234" positionY="-1419" width="350" height="725">
-      <outputs name="Sair." ownerID="17" targetID="22" fromX="2559" fromY="-1910" />You defeat the ice demons.
+      <outputs name="Sair." ownerID="17" targetID="22" fromX="2559" fromY="-1910" />Você derrota os demônios de gelo.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="3337.90649" positionY="-1385.14355" width="350" height="530" allPlayersXP="-1" linkedEventUniqueID="0">
       <logic>
@@ -635,7 +627,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Corre." ownerID="19" targetID="24" fromX="1905" fromY="-2333" />The ice demons defeat you and feast on your blood and life essence before you manage to escape.</nodes>
+      <outputs name="Corre." ownerID="19" targetID="24" fromX="1905" fromY="-2333" />Os demônios do gelo derrotam você e se deleitam com seu sangue e essência de vida antes que você consiga escapar.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="20" positionX="1018" positionY="-2116" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="20" targetID="19" fromX="1447" fromY="-2504" />
     </nodes>
@@ -661,7 +653,7 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="2513" positionY="-174" width="350" height="725">
-      <outputs name="Sair." ownerID="25" targetID="21" fromX="2838" fromY="-665" />Your spirit was stronger. The demons perish.</nodes>
+      <outputs name="Sair." ownerID="25" targetID="21" fromX="2838" fromY="-665" />Seu espírito era mais forte. Os demônios perecem.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="1253" positionY="303" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
 </MODULE>

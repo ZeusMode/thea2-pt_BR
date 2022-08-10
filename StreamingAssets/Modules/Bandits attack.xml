@@ -45,7 +45,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="6" targetID="7" fromX="1794" fromY="-1999" />The bandits seem satisfied with free loot. They do not pursue.
+      <outputs name="Leave." ownerID="6" targetID="7" fromX="1794" fromY="-1999" />Os bandidos parecem satisfeitos com o saque grátis. Eles não perseguem.
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="1924.91614" positionY="-1718.44421" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="583.5251" positionY="-1510.14307" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
@@ -57,7 +57,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Drop some of your bags and run away. " ownerID="9" targetID="6" fromX="1360" fromY="-1977" />You try running, but they are gaining on you fast.
+      <outputs name="Drop some of your bags and run away. " ownerID="9" targetID="6" fromX="1360" fromY="-1977" />Você tenta correr, mas eles estão ganhando em você rapidamente.
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="11" positionX="517" positionY="-2013" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-ORCS_4P_3M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="11" targetID="13" fromX="958" fromY="-2508" />
@@ -72,7 +72,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="13" targetID="14" fromX="3411" fromY="132" />The orcs are dead, and their loot is yours.
+      <outputs name="Leave." ownerID="13" targetID="14" fromX="3411" fromY="132" />Os orcs estão mortos, e o saque deles é seu.
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="4950" positionY="39" width="350" height="530" allPlayersXP="5" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -103,7 +103,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="15" targetID="16" fromX="3308" fromY="-1105" />The orcs take much of your belongings but leave you alive.
+      <outputs name="Leave." ownerID="15" targetID="16" fromX="3308" fromY="-1105" />Os orcs levam muitos de seus pertences, mas deixam você vivo.
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="3609.2417" positionY="-832.736" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="17" positionX="3207.91064" positionY="-1595.409" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0" />
@@ -143,11 +143,7 @@
       </logic>
       <outputs name="Agree." ownerID="21" targetID="38" fromX="2252" fromY="-339" />
       <outputs name="Decline." ownerID="21" targetID="37" fromX="2252" fromY="-419" />
-      <outputs name="Attack!" ownerID="21" targetID="3" fromX="2252" fromY="-499" />The matriarch watches you with an uncomfortable intensity.
-
-'You - you are so nasty-looking. I like it.
-
-Mate with me, and you will not regret it.'
+      <outputs name="Attack!" ownerID="21" targetID="3" fromX="2252" fromY="-499" />A matriarca observa você com uma intensidade desconfortável. — Você... você tem uma aparência tão desagradável. Eu gosto disso. Acasale-se comigo e você não vai se arrepender.
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="517.343933" positionY="251.820419" width="350" height="1367">
       <logic>
@@ -174,7 +170,7 @@ Mate with me, and you will not regret it.'
       <outputs name="Try to parley with them." ownerID="24" targetID="4" fromX="843" fromY="-640" />
       <outputs name="Drop some of your bags and run away. " ownerID="24" targetID="6" fromX="843" fromY="-720" />
       <outputs name="Run away!" ownerID="24" targetID="29" group="G3" fromX="843" fromY="-800" />
-      <outputs name="Run away!" ownerID="24" targetID="9" group="G3" fromX="843" fromY="-880" />You are ambushed by orc bandits!
+      <outputs name="Run away!" ownerID="24" targetID="9" group="G3" fromX="843" fromY="-880" />Você está emboscado por bandidos orcs!
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="-797.8079" positionY="-446.649841" width="350" height="725">
       <logic>
@@ -187,9 +183,7 @@ Mate with me, and you will not regret it.'
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Fight!" ownerID="25" targetID="3" fromX="-472" fromY="-937" />'We are free from your tyranny, matriarch! We are the clanless, and we will never heel again!'
-
-They attack with greater ferocity!
+      <outputs name="Fight!" ownerID="25" targetID="3" fromX="-472" fromY="-937" />— Estamos livres de sua tirania, matriarca! Nós somos os sem clã, e nunca mais seremos nós!' Eles atacam com maior ferocidade!
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="-493.066223" positionY="288.791565" width="350" height="725">
       <logic>
@@ -199,9 +193,7 @@ They attack with greater ferocity!
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Leave." ownerID="26" targetID="19" fromX="-167" fromY="-202" />'Argh... even out here, even though we're clanless, we still have honour. We bow to your rank, matriarch.'
-
-The orcs leave, each dropping something as penance for their dishonour.
+      <outputs name="Leave." ownerID="26" targetID="19" fromX="-167" fromY="-202" />'Argh... mesmo aqui, mesmo sem clã, ainda temos honra. Nós nos curvamos à sua posição, matriarca. Os orcs vão embora, cada um deixando algo como penitência por sua desonra.
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="140.19809" positionY="-1443.56445" width="350" height="805">
       <logic>
@@ -212,9 +204,7 @@ The orcs leave, each dropping something as penance for their dishonour.
         </FilterBlock>
       </logic>
       <outputs name="In the name of Zorya, attack them!" ownerID="27" targetID="11" fromX="465" fromY="-1934" />
-      <outputs name="Use this chance to flee." ownerID="27" targetID="28" fromX="465" fromY="-2014" />You see the orcs hesitate when you invoke Zorya's name.
-
-But you also know that your goddess is one of combat and valour, so they are unlikely to stop and talk on her account.
+      <outputs name="Use this chance to flee." ownerID="27" targetID="28" fromX="465" fromY="-2014" />Você vê os orcs hesitarem ao invocar o nome de Zorya. Mas você também sabe que sua deusa é de combate e valor, então é improvável que eles parem e falem por causa dela.
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="28" positionX="-414.6535" positionY="-1372.27747" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="40" maxDamage="60" useCountInPercent="true" targetGroup="orc">
       <logic>
@@ -246,13 +236,11 @@ But you also know that your goddess is one of combat and valour, so they are unl
       <outputs name="Cancel" ownerID="30" targetID="32" fromX="4289" fromY="-523" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="4396.71826" positionY="-410.688416" width="350" height="725">
-      <outputs name="Leave." ownerID="31" targetID="14" fromX="4722" fromY="-901" />'Good tradin' with you. Fire in your hearts!'
-
-They walk off.
+      <outputs name="Leave." ownerID="31" targetID="14" fromX="4722" fromY="-901" />'Boa negociação' com você. Fogo em seus coraçoes!' Eles vão embora.
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="2032" positionY="-914" width="350" height="805">
       <outputs name="Say that you do not have enough for the fee. [Lose 10% equipment]" ownerID="32" targetID="33" fromX="2357" fromY="-1405" />
-      <outputs name="Attack!" ownerID="32" targetID="3" fromX="2357" fromY="-1485" />'We're not a charity, so drop some of your shit or get beaten.'
+      <outputs name="Attack!" ownerID="32" targetID="3" fromX="2357" fromY="-1485" />'Nós não somos uma instituição de caridade, então largue um pouco de sua merda ou seja espancado.'
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="33" positionX="2635.92651" positionY="-1015.44104" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
@@ -308,7 +296,7 @@ They walk off.
       </logic>
       <outputs name="Agree." ownerID="37" targetID="30" fromX="1816" fromY="-681" />
       <outputs name="Say that you do not have enough for the fee. [Lose 10% equipment]" ownerID="37" targetID="33" fromX="1816" fromY="-761" />
-      <outputs name="Attack!" ownerID="37" targetID="3" fromX="1816" fromY="-841" />'Your tongues wag well. Pay us a small fee, and we can trade with you.'
+      <outputs name="Attack!" ownerID="37" targetID="3" fromX="1816" fromY="-841" />— Suas línguas balançam bem. Pague-nos uma pequena taxa e podemos negociar com você.
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="38" positionX="2373.35132" positionY="83.56932" width="350" height="725">
       <logic>
@@ -327,9 +315,7 @@ They walk off.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="38" targetID="39" fromX="2699" fromY="-407" />You are now painfully aware of orc mating rituals, yet you are also pleasantly surprised by the matriarch's predatory prowess.
-
-The bandits depart.
+      <outputs name="Leave." ownerID="38" targetID="39" fromX="2699" fromY="-407" />Você agora está dolorosamente ciente dos rituais de acasalamento dos orcs, mas também está agradavelmente surpreso com as proezas predatórias da matriarca. Os bandidos partem.
     </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="39" positionX="2805" positionY="39" width="480" height="503" radius="7" groupID="GROUP-ORC_MATRIARCH_ONE_5P_4M_2S" destroyOwner="false" linkedEventUniqueID="11">
       <outputs ownerID="39" targetID="40" fromX="3253" fromY="-393" />
@@ -395,9 +381,7 @@ The bandits depart.
       <outputs name="Try to break through their lines and run away!" ownerID="2" targetID="4" fromX="767" fromY="-696" />
       <outputs name="Attack!" ownerID="2" targetID="3" fromX="767" fromY="-776" />
       <outputs name="Try reasoning with them. " ownerID="2" targetID="18" fromX="767" fromY="-857" />
-      <outputs name="Attempt to use your charm on them." ownerID="2" targetID="19" fromX="767" fromY="-937" />You are ambushed by grisly looking bandits who circle you like vultures:
-
-'So what do we have here? Healthy-looking bunch. Fetch us a good price.'</nodes>
+      <outputs name="Attempt to use your charm on them." ownerID="2" targetID="19" fromX="767" fromY="-937" />Você é emboscado por bandidos de aparência horrível que o cercam como abutres: 'Então, o que temos aqui? Bando de aparência saudável. Traga-nos um bom preço.</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="1005" positionY="-428" width="500" height="887" challengeType="TypePhysical" versusGroup="GROUP-BANDITS_4P_3M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="8" group="G2" fromX="1446" fromY="-923" />
       <outputs name="Lose" ownerID="3" targetID="21" group="G1" fromX="1446" fromY="-1003" />
@@ -421,7 +405,7 @@ The bandits depart.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="6" targetID="7" fromX="1974" fromY="389" />You run away and leave the scoundrels behind.</nodes>
+      <outputs name="Leave." ownerID="6" targetID="7" fromX="1974" fromY="389" />Você foge e deixa os canalhas para trás.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="2466" positionY="1232" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2768" positionY="-202" width="350" height="1046">
       <logic>
@@ -440,11 +424,9 @@ The bandits depart.
       <outputs name="Search for anyone who may still be here, then leave." ownerID="8" targetID="23" group="G1" fromX="3093" fromY="-773" />
       <outputs name="Search for anyone who may still be here, then leave." ownerID="8" targetID="24" group="G1" fromX="3093" fromY="-853" />
       <outputs name="Search for anyone who may still be here, then leave." ownerID="8" targetID="25" group="G1" fromX="3093" fromY="-933" />
-      <outputs name="Search for anyone who may still be here, then leave." ownerID="8" targetID="26" group="G1" fromX="3093" fromY="-1013" />You kill the slavers and search for any captives, but you find that some people must have escaped during the fighting. 
-
-Still, some may decide to join you.</nodes>
+      <outputs name="Search for anyone who may still be here, then leave." ownerID="8" targetID="26" group="G1" fromX="3093" fromY="-1013" />Você mata os traficantes de escravos e procura por quaisquer cativos, mas descobre que algumas pessoas devem ter escapado durante a luta. Ainda assim, alguns podem decidir se juntar a você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="2193" positionY="216" width="350" height="725">
-      <outputs name="Leave." ownerID="13" targetID="14" fromX="2518" fromY="-275" />You barely get away, but not without bruises and having to abandon some bags.</nodes>
+      <outputs name="Leave." ownerID="13" targetID="14" fromX="2518" fromY="-275" />Você mal consegue escapar, mas não sem contusoes e ter que abandonar algumas malas.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="2881" positionY="463" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -480,7 +462,7 @@ Still, some may decide to join you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Stay down and wait for them to leave." ownerID="15" targetID="16" fromX="2477" fromY="-1168" />'Grown-ups make more trouble than they're worth. Stay down and thank your gods we're not in a killin' mood today.'</nodes>
+      <outputs name="Stay down and wait for them to leave." ownerID="15" targetID="16" fromX="2477" fromY="-1168" />— Os adultos causam mais problemas do que valem. Fique abaixado e agradeça aos seus deuses que não estamos com um clima de matar hoje.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="2538" positionY="-730" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="1614" positionY="40" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="17" targetID="13" fromX="2043" fromY="-348" />
@@ -510,9 +492,7 @@ Still, some may decide to join you.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Try to break through their lines and run away!" ownerID="19" targetID="20" fromX="391" fromY="-1322" />
-      <outputs name="Attack!" ownerID="19" targetID="3" fromX="394" fromY="-1402" />'Oi, this one will bring an extra good price. Yeah, yeah, fuck the young ones, let's take this one!'
-
-They draw in closer.</nodes>
+      <outputs name="Attack!" ownerID="19" targetID="3" fromX="394" fromY="-1402" />'Oi, este vai trazer um bom preço extra. Sim, sim, fodam-se os jovens, vamos pegar este!' Eles se aproximam.</nodes>
     <nodes xsi:type="NodeChallenge" ID="20" positionX="485" positionY="-1294" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_5P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="20" targetID="6" fromX="926" fromY="-1789" />
       <outputs name="Lose" ownerID="20" targetID="17" fromX="926" fromY="-1869" />
@@ -543,7 +523,7 @@ They draw in closer.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Stay down and wait for them to leave." ownerID="21" targetID="47" fromX="2056" fromY="-1015" />'Your lucky day, pretty face. You're coming with us. The rest of you, stay down, or we'll skin you.'
+      <outputs name="Stay down and wait for them to leave." ownerID="21" targetID="47" fromX="2056" fromY="-1015" />— Seu dia de sorte, rostinho bonito. Você vem conosco. O resto de vocês, fiquem abaixados, ou vamos esfolá-los.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="22" positionX="3288" positionY="-104" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
@@ -633,9 +613,7 @@ They draw in closer.</nodes>
       <outputs name="Decline and offer to pay them to go away." ownerID="27" targetID="28" fromX="1951" fromY="-2013" />
       <outputs name="Use this distraction as an opportunity to make a run for it!" ownerID="27" targetID="31" group="G1" fromX="1951" fromY="-2093" />
       <outputs name="Use this distraction as an opportunity to make a run for it!" ownerID="27" targetID="6" group="G1" fromX="1951" fromY="-2173" />
-      <outputs name="Now that they don't expect it, attack!" ownerID="27" targetID="30" fromX="1951" fromY="-2253" />'Guess we've been known to do honest business of this. How about you sell us a kid, eh? We'll pay good gold and add this here mangy dog.'
-
-He points to a wolf by his side.</nodes>
+      <outputs name="Now that they don't expect it, attack!" ownerID="27" targetID="30" fromX="1951" fromY="-2253" />— Acho que somos conhecidos por fazer negócios honestos com isso. Que tal você nos vender uma criança, hein? Pagaremos um bom ouro e adicionaremos este cachorro sarnento aqui. Ele aponta para um lobo ao seu lado.</nodes>
     <nodes xsi:type="NodeTrade" ID="28" positionX="2773.74829" positionY="-2362.76758" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="things" startingBalance="-60">
       <outputs name="Confirm" ownerID="28" targetID="32" fromX="3204" fromY="-2691" />
       <outputs name="Cancel" ownerID="28" targetID="45" fromX="3204" fromY="-2771" />
@@ -691,7 +669,7 @@ He points to a wolf by his side.</nodes>
       <outputs name="Decline and offer to pay them to go away." ownerID="33" targetID="28" fromX="1387" fromY="-2764" />
       <outputs name="Use this distraction as an opportunity to make a run for it!" ownerID="33" targetID="31" group="G1" fromX="1387" fromY="-2844" />
       <outputs name="Use this distraction as an opportunity to make a run for it!" ownerID="33" targetID="6" group="G1" fromX="1387" fromY="-2924" />
-      <outputs name="Now that they don't expect it, attack!" ownerID="33" targetID="30" fromX="1387" fromY="-3005" />'Guess we've been a bit overburdened as it is. Tell ya what, how about you become customers instead? You pay us, we give you a child -- healthy, obedient, good as new.'
+      <outputs name="Now that they don't expect it, attack!" ownerID="33" targetID="30" fromX="1387" fromY="-3005" />— Acho que estamos um pouco sobrecarregados. Diga-lhe o que, que tal você se tornar cliente em vez disso? Você nos paga, nós lhe damos um filho... saudável, obediente, novinho em folha.'
 </nodes>
     <nodes xsi:type="NodeTrade" ID="34" positionX="1488" positionY="-2293" width="460" height="639" traderProfile="TRADER-BANDIT" playerInventory="things" startingBalance="-300">
       <outputs name="Confirm" ownerID="34" targetID="36" group="G1" fromX="2066" fromY="-2887" />
@@ -737,9 +715,7 @@ He points to a wolf by his side.</nodes>
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="39" positionX="-560.9348" positionY="-1415.43591" width="350" height="725">
-      <outputs name="Search them, get what you can, and leave." ownerID="39" targetID="40" fromX="-235" fromY="-1906" />You slaughter the slavers, and those who survived flee. 
-
-Their cages look mostly empty, but maybe you can still find and free some folk.</nodes>
+      <outputs name="Search them, get what you can, and leave." ownerID="39" targetID="40" fromX="-235" fromY="-1906" />Você massacra os traficantes de escravos, e aqueles que sobreviveram fogem. Suas gaiolas parecem quase vazias, mas talvez você ainda possa encontrar e libertar algumas pessoas.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="40" positionX="-640" positionY="-2228" width="460" height="589">
       <logic>
         <ModifierBlock>
@@ -814,13 +790,9 @@ Their cages look mostly empty, but maybe you can still find and free some folk.<
       <outputs name="Decline and offer to pay them to go away." ownerID="45" targetID="28" fromX="3669" fromY="-3531" />
       <outputs name="Use this distraction as an opportunity to make a run for it!" ownerID="45" targetID="31" group="G1" fromX="3669" fromY="-3611" />
       <outputs name="Use this distraction as an opportunity to make a run for it!" ownerID="45" targetID="6" group="G1" fromX="3669" fromY="-3691" />
-      <outputs name="Now that they don't expect it, attack!" ownerID="45" targetID="30" fromX="3669" fromY="-3771" />'Guess we've been known to do honest business of this. How about you sell us a kid, eh? We'll pay good gold and add this here mangy dog.'
-
-He points to a wolf by his side.</nodes>
+      <outputs name="Now that they don't expect it, attack!" ownerID="45" targetID="30" fromX="3669" fromY="-3771" />— Acho que somos conhecidos por fazer negócios honestos com isso. Que tal você nos vender uma criança, hein? Pagaremos um bom ouro e adicionaremos este cachorro sarnento aqui. Ele aponta para um lobo ao seu lado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="46" positionX="-82" positionY="-1817" width="350" height="725">
-      <outputs name="Run away!" ownerID="46" targetID="17" fromX="243" fromY="-2308" />'And we ain't in the kindly mood. We'll take ya by the skin, we will...'
-
-The slavers become agitated with excitement as they threaten you, and you have a slim chance to escape.</nodes>
+      <outputs name="Run away!" ownerID="46" targetID="17" fromX="243" fromY="-2308" />— E não estamos de bom humor. Nós vamos pegá-lo pela pele, nós vamos... Os traficantes de escravos ficam agitados de excitação quando eles o ameaçam, e você tem uma pequena chance de escapar.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="47" positionX="3231" positionY="-1289" width="480" height="503" radius="7" groupID="GROUP-BANDITS_4P_3M_1S" destroyOwner="false" linkedEventUniqueID="14">
       <outputs ownerID="47" targetID="16" fromX="3679" fromY="-1721" />
     </nodes>
@@ -863,7 +835,7 @@ The slavers become agitated with excitement as they threaten you, and you have a
       <outputs name="Agree to give up some of your things.  " ownerID="2" targetID="29" fromX="962" fromY="-307" />
       <outputs name="[Goblin]Try to parley with the bandits." ownerID="2" targetID="6" group="G1" fromX="962" fromY="-387" />
       <outputs name="[Magic or Intellect] In Marovit's name, and that of your domain, compel them to leave you alone." ownerID="2" targetID="12" fromX="962" fromY="-467" />
-      <outputs name="Try to talk them out of it." ownerID="2" targetID="7" group="G1" fromX="962" fromY="-547" />You're ambushed by goblin bandits!
+      <outputs name="Try to talk them out of it." ownerID="2" targetID="7" group="G1" fromX="962" fromY="-547" />Você está emboscado por bandidos goblin!
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="2167.248" positionY="297.047577" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-GOBS_3P_2M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="16" fromX="2608" fromY="-198" />
@@ -889,7 +861,7 @@ The slavers become agitated with excitement as they threaten you, and you have a
       </logic>
       <outputs name="Use this distraction as an opportunity to attack!" ownerID="6" targetID="32" fromX="2293" fromY="-1795" />
       <outputs name="Offer to throw them a party with good food, drink, and rest to fuel them for future banditry." ownerID="6" targetID="8" group="G1" fromX="2293" fromY="-1875" />
-      <outputs name="Convince them that the bandit life is unwise in the eyes of the goblin gonefathers." ownerID="6" targetID="7" group="G1" fromX="2293" fromY="-1955" />'Eh, me think it is never good to crap on your own. What can you offer?'
+      <outputs name="Convince them that the bandit life is unwise in the eyes of the goblin gonefathers." ownerID="6" targetID="7" group="G1" fromX="2293" fromY="-1955" />'Eh, eu acho que nunca é bom cagar sozinho. O que você pode oferecer?'
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="7" positionX="2424.79248" positionY="-1961.41626" width="500" height="807" challengeType="TypeMental" versusGroup="GROUP-GOBS_3P_2M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="7" targetID="13" group="G1" fromX="2865" fromY="-2456" />
@@ -925,7 +897,7 @@ The slavers become agitated with excitement as they threaten you, and you have a
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Party with the goblins." ownerID="8" targetID="11" fromX="2761" fromY="-1669" />'Oh, why not, let us gobbos break bread. Here, have some herbs to make the party better.'
+      <outputs name="Party with the goblins." ownerID="8" targetID="11" fromX="2761" fromY="-1669" />'Oh, por que não, vamos gobbos partir o pão. Aqui, tome algumas ervas para tornar a festa melhor.
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="11" positionX="2851" positionY="-1407" width="350" height="530" allPlayersXP="3" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="12" positionX="630.616943" positionY="-978.387634" width="350" height="1126">
@@ -941,9 +913,7 @@ The slavers become agitated with excitement as they threaten you, and you have a
       <outputs name="[Orc]Growl at them and say that if they don't respect Marovit, you will make them eat their own green guts." ownerID="12" targetID="26" group="G1" fromX="956" fromY="-1629" />
       <outputs name="Agree to give up some of your things. " ownerID="12" targetID="29" group="G1" fromX="956" fromY="-1710" />
       <outputs name="Fight!" ownerID="12" targetID="3" fromX="956" fromY="-1790" />
-      <outputs name="Try to talk them out of it." ownerID="12" targetID="7" fromX="956" fromY="-1870" />'Bah, why we care about your gods? Even if they're gobbos, we ain't bothered.
-
-Now shell out or get beat!'
+      <outputs name="Try to talk them out of it." ownerID="12" targetID="7" fromX="956" fromY="-1870" />'Bah, por que nos importamos com seus deuses? Mesmo que sejam gobbos, não nos importamos. Agora desembolsar ou ser derrotado!'
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="3069.21362" positionY="-1949.484" width="350" height="885">
       <logic>
@@ -972,17 +942,9 @@ Now shell out or get beat!'
       </logic>
       <outputs name="Invite them to eat and drink before they depart." ownerID="13" targetID="20" group="G1" fromX="3394" fromY="-2440" />
       <outputs name="Invite them to eat and drink before they depart." ownerID="13" targetID="21" group="G1" fromX="3394" fromY="-2520" />
-      <outputs name="Ask them to trade." ownerID="13" targetID="33" fromX="3394" fromY="-2601" />'Ah, you so right, man, we go do this thing, but we're not happy. 
-
-You shame us. We go back to our tribe.'
-   
-Before they depart, they leave some of their stolen loot for you. </nodes>
+      <outputs name="Ask them to trade." ownerID="13" targetID="33" fromX="3394" fromY="-2601" />'Ah, você está certo, cara, vamos fazer isso, mas não estamos felizes. Você nos envergonha. Voltamos para nossa tribo. Antes de partirem, eles deixam alguns de seus saques roubados para você. </nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="3460.152" positionY="-3110.66943" width="350" height="725">
-      <outputs name="Damn it." ownerID="14" targetID="15" fromX="3785" fromY="-3601" />The goblins nod and listen, then nod more...
-
-'Yeah, yeah, we bad, we go away now.'
-
-They leave, but you realise too late that they robbed you while you were talking!
+      <outputs name="Damn it." ownerID="14" targetID="15" fromX="3785" fromY="-3601" />Os goblins acenam e escutam, depois acenam mais... 'Sim, sim, somos maus, vamos embora agora.' Eles vão embora, mas você percebe tarde demais que eles roubaram você enquanto você estava falando!
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="15" positionX="3870.25244" positionY="-3317.409" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -1004,7 +966,7 @@ They leave, but you realise too late that they robbed you while you were talking
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="2762.91943" positionY="370.547546" width="350" height="805">
       <outputs name="A boar decides to stay with you. " ownerID="16" targetID="40" group="G1" fromX="3088" fromY="-120" />
-      <outputs name="Leave." ownerID="16" targetID="18" group="G1" fromX="3088" fromY="-200" />You kill the bandits and are free to loot their bodies.
+      <outputs name="Leave." ownerID="16" targetID="18" group="G1" fromX="3088" fromY="-200" />Você mata os bandidos e fica livre para saquear seus corpos.
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="3473.58057" positionY="-602.020935" width="350" height="725">
       <logic>
@@ -1023,7 +985,7 @@ They leave, but you realise too late that they robbed you while you were talking
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="17" targetID="19" fromX="3799" fromY="-1093" />The goblins beat you badly and take most of your bags of equipment. 
+      <outputs name="Leave." ownerID="17" targetID="19" fromX="3799" fromY="-1093" />Os goblins batem em você e levam a maior parte de suas malas de equipamentos. 
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="3195.562" positionY="-31.72985" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="19" positionX="3943.981" positionY="-864.973755" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
@@ -1040,7 +1002,7 @@ They leave, but you realise too late that they robbed you while you were talking
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bid them farewell." ownerID="20" targetID="21" fromX="4858" fromY="-2720" />'You show us good times, you show us wisdom. Our boar will stay and serve you for a bit. Be well, and may gonefathers watch over you.'
+      <outputs name="Bid them farewell." ownerID="20" targetID="21" fromX="4858" fromY="-2720" />'Você nos mostra bons momentos, você nos mostra sabedoria. Nosso javali vai ficar e servir você um pouco. Fique bem, e que pais falecidos cuidem de você.
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="21" positionX="4132" positionY="-2489" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
@@ -1075,9 +1037,7 @@ They leave, but you realise too late that they robbed you while you were talking
         </FilterBlock>
       </logic>
       <outputs name="Let them leave." ownerID="24" targetID="28" fromX="1438" fromY="-1325" />
-      <outputs name="Use this distraction as an opportunity to attack!" ownerID="24" targetID="32" fromX="1438" fromY="-1405" />'Eh, maybe you're right, like. Yeah.
-
-We'll just go...'
+      <outputs name="Use this distraction as an opportunity to attack!" ownerID="24" targetID="32" fromX="1438" fromY="-1405" />'Eh, talvez você esteja certo, tipo. Sim. Nós vamos...'
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="1136.85461" positionY="-1738.77808" width="350" height="805">
       <logic>
@@ -1091,9 +1051,7 @@ We'll just go...'
         </FilterBlock>
       </logic>
       <outputs name="Let them leave." ownerID="25" targetID="28" fromX="1462" fromY="-2229" />
-      <outputs name="Use this distraction as an opportunity to attack!" ownerID="25" targetID="32" fromX="1462" fromY="-2310" />'Eh, maybe you're right, like. Yeah.
-
-We'll just go...'
+      <outputs name="Use this distraction as an opportunity to attack!" ownerID="25" targetID="32" fromX="1462" fromY="-2310" />'Eh, talvez você esteja certo, tipo. Sim. Nós vamos...'
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="1204.385" positionY="-2629.489" width="350" height="725">
       <logic>
@@ -1111,7 +1069,7 @@ We'll just go...'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Fight!" ownerID="26" targetID="3" fromX="1530" fromY="-3120" />'You fucking barbarian pigs! Always bullying us. Die!'
+      <outputs name="Fight!" ownerID="26" targetID="3" fromX="1530" fromY="-3120" />— Seus porcos bárbaros! Sempre nos intimidando. Morrer!'
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="1813" positionY="-2865" width="350" height="885">
       <logic>
@@ -1131,9 +1089,7 @@ We'll just go...'
       </logic>
       <outputs name="Agree to give up some of your chosen things.  " ownerID="27" targetID="34" fromX="2138" fromY="-3356" />
       <outputs name="Agree to lose 10% of your food." ownerID="27" targetID="38" fromX="2138" fromY="-3436" />
-      <outputs name="Use this distraction as an opportunity to attack!" ownerID="27" targetID="32" fromX="2138" fromY="-3516" />'Bah, you do talk so well. Our bandit code won't let us just leave, but if you give us some of your food, or stuff of your choosing, we will go and not bother you anymore.'
-
-Share some food and drink to mark this truce.</nodes>
+      <outputs name="Use this distraction as an opportunity to attack!" ownerID="27" targetID="32" fromX="2138" fromY="-3516" />— Bah, você fala tão bem. Nosso código de bandido não nos deixa ir embora, mas se você nos der um pouco de sua comida, ou coisas de sua escolha, nós iremos e não o incomodaremos mais.' Compartilhe um pouco de comida e bebida para marcar essa trégua.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="1839.95081" positionY="-2266.67725" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1175,7 +1131,7 @@ Share some food and drink to mark this truce.</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="1662" positionY="-384" width="350" height="885">
       <outputs name="Lose some equipment." ownerID="31" targetID="30" fromX="1987" fromY="-875" />
       <outputs name="Go back to trade." ownerID="31" targetID="29" fromX="1987" fromY="-955" />
-      <outputs name="Fight!" ownerID="31" targetID="3" fromX="1987" fromY="-1035" />'What, changed your minds, eh? We'll just take what we like, then!'
+      <outputs name="Fight!" ownerID="31" targetID="3" fromX="1987" fromY="-1035" />'O que, mudou de idéia, hein? Vamos pegar o que quisermos, então!
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="32" positionX="2827.6438" positionY="-625.130432" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-GOBS_2P_4M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="32" targetID="16" fromX="3268" fromY="-1120" />
@@ -1215,7 +1171,7 @@ Share some food and drink to mark this truce.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bid them farewell." ownerID="35" targetID="36" fromX="3327" fromY="-3554" />'You show us good times, you show us wisdom. Our boar will stay and serve you for a bit. Be well, and may gonefathers watch over you.'
+      <outputs name="Bid them farewell." ownerID="35" targetID="36" fromX="3327" fromY="-3554" />'Você nos mostra bons momentos, você nos mostra sabedoria. Nosso javali vai ficar e servir você um pouco. Fique bem, e que pais falecidos cuidem de você.
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="36" positionX="2865" positionY="-3978" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
@@ -1266,7 +1222,7 @@ Share some food and drink to mark this truce.</nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="1401" positionY="-3385" width="350" height="885">
       <outputs name="Lose some equipment." ownerID="41" targetID="30" fromX="1726" fromY="-3876" />
       <outputs name="Go back to trade." ownerID="41" targetID="34" fromX="1726" fromY="-3956" />
-      <outputs name="Fight!" ownerID="41" targetID="3" fromX="1726" fromY="-4036" />'What, changed your minds, eh? We'll just take what we like, then!'
+      <outputs name="Fight!" ownerID="41" targetID="3" fromX="1726" fromY="-4036" />'O que, mudou de idéia, hein? Vamos pegar o que quisermos, então!
     </nodes>
   </Adventure>
   <Adventure name="Dwarven bandits" uniqueID="4" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="true" typeVillage="false" difficulty="7" nodeIdMax="48" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -1307,11 +1263,7 @@ Share some food and drink to mark this truce.</nodes>
       <outputs name="Attack!" ownerID="2" targetID="6" fromX="781" fromY="-978" />
       <outputs name="They don't seem too committed to this. Try talking them out of it." ownerID="2" targetID="20" fromX="781" fromY="-1058" />
       <outputs name="[Bandit]Question their bandit ways if all they take is food." ownerID="2" targetID="33" fromX="781" fromY="-1138" />
-      <outputs name="Give up the food." ownerID="2" targetID="24" fromX="781" fromY="-1218" />A band of dwarven bandits stands in your way:
-
-'Halt! This bit of road here is ours, but you're in luck -- all we need today's your food. 
-
-Drop it and yer free to go.'</nodes>
+      <outputs name="Give up the food." ownerID="2" targetID="24" fromX="781" fromY="-1218" />Um bando de bandidos anoes está no seu caminho: 'Pare! Este pedaço de estrada aqui é nosso, mas você está com sorte - tudo o que precisamos hoje é sua comida. Largue isso e você estará livre para ir.</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="904" positionY="744" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="dwarf">
       <logic>
         <FilterBlock>
@@ -1343,9 +1295,7 @@ Drop it and yer free to go.'</nodes>
       </logic>
       <outputs name="Attack!" ownerID="4" targetID="6" fromX="1363" fromY="-696" />
       <outputs name="[Bandit]Question their bandit ways if all they take is food." ownerID="4" targetID="33" fromX="1363" fromY="-777" />
-      <outputs name="Give up the food." ownerID="4" targetID="24" fromX="1363" fromY="-857" />'Aye, I see the mark of the great blacksmith upon you. Shite land on my head if I care for that shit. 
-
-You give us the food, laddies, or get a beatin', Svarog or no Svarog.'</nodes>
+      <outputs name="Give up the food." ownerID="4" targetID="24" fromX="1363" fromY="-857" />— Sim, vejo a marca do grande ferreiro em você. Merda cai na minha cabeça se eu me importo com essa merda. Vocês nos dão a comida, rapazes, ou levam uma surra, Svarog ou não Svarog.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1745.49731" positionY="-753.2208" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-DWARVES_6P_5M_2S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1380,11 +1330,7 @@ You give us the food, laddies, or get a beatin', Svarog or no Svarog.'</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="8" targetID="48" fromX="1785" fromY="461" />'Haugh... yes, you are one tough son of the stone!'
-
-The other bandits nod in agreement, pat you on the back, and let you be on your way.
-
-'Aye, I see the mark of the great blacksmith god upon you. Shite. We'd rather eat dirt than dishonour one human-god who knows his smithing.'
+      <outputs name="Leave." ownerID="8" targetID="48" fromX="1785" fromY="461" />'Haugh... sim, você é um filho duro da pedra!' Os outros bandidos concordam com a cabeça, dão tapinhas nas costas e deixam você seguir seu caminho. — Sim, vejo a marca do grande deus ferreiro em você. Merda. Preferimos comer terra do que desonrar um deus humano que conhece sua ferraria.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2029" positionY="213" width="350" height="725">
       <logic>
@@ -1397,9 +1343,7 @@ The other bandits nod in agreement, pat you on the back, and let you be on your 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave the food and go." ownerID="9" targetID="10" fromX="2354" fromY="-278" />'Bah, ya drink well, but not well enough, eh? Ha!
-
-Deal's a deal, so we'll have some of that food before ya be on your way, laddies.'</nodes>
+      <outputs name="Leave the food and go." ownerID="9" targetID="10" fromX="2354" fromY="-278" />'Bah, você bebe bem, mas não o suficiente, hein? Ah! O acordo é um acordo, então vamos comer um pouco dessa comida antes de vocês partirem, rapazes.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="1589.53284" positionY="-69.6056061" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1440,9 +1384,9 @@ Deal's a deal, so we'll have some of that food before ya be on your way, laddies
         </ModifierBlock>
       </logic>
       <outputs name="Leave." ownerID="15" targetID="18" group="G1" fromX="2984" fromY="-1765" />
-      <outputs name="Leave." ownerID="15" targetID="12" group="G1" fromX="2984" fromY="-1845" />You kill the bandits and take their loot. </nodes>
+      <outputs name="Leave." ownerID="15" targetID="12" group="G1" fromX="2984" fromY="-1845" />Você mata os bandidos e pega o saque deles. </nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="2162" positionY="-1681" width="350" height="725">
-      <outputs name="Leave." ownerID="16" targetID="19" fromX="2487" fromY="-2172" />The bandits beat you badly and take your food and equipment, but at least they leave you breathing.</nodes>
+      <outputs name="Leave." ownerID="16" targetID="19" fromX="2487" fromY="-2172" />Os bandidos batem em você e levam sua comida e equipamentos, mas pelo menos deixam você respirando.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="3484" positionY="-1321" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1514,14 +1458,10 @@ Deal's a deal, so we'll have some of that food before ya be on your way, laddies
         </ModifierBlock>
       </logic>
       <outputs name="Agree to trade." ownerID="21" targetID="30" fromX="1958" fromY="-2579" />
-      <outputs name="Talk, drink, and leave." ownerID="21" targetID="31" fromX="1958" fromY="-2659" />'Aye, ya got us. We ain't cut out to be beatin' folk for no reason. We're banished, but we still have our honour. Thank ya for reminding us.
-
-If you like, we'll trade with ya, eh?'
-
-The dwarves also leave a small gift in thanks.</nodes>
+      <outputs name="Talk, drink, and leave." ownerID="21" targetID="31" fromX="1958" fromY="-2659" />— Sim, você nos pegou. Não fomos feitos para bater nas pessoas sem motivo. Estamos banidos, mas ainda temos nossa honra. Obrigado por nos lembrar. Se quiser, negociamos com você, hein? Os anoes também deixam um pequeno presente em agradecimento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="1104.29407" positionY="-2580.42" width="350" height="805">
       <outputs name="Give up the food." ownerID="22" targetID="24" fromX="1430" fromY="-3071" />
-      <outputs name="Attack!" ownerID="22" targetID="6" fromX="1430" fromY="-3151" />'Enough talkin' - we're takin the food, now!'</nodes>
+      <outputs name="Attack!" ownerID="22" targetID="6" fromX="1430" fromY="-3151" />'Chega de conversa - estamos levando a comida, agora!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="24" positionX="365" positionY="-1498" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1560,7 +1500,7 @@ The dwarves also leave a small gift in thanks.</nodes>
       </logic>
       <outputs name="Assert that it is certainly not the right way and that you can in fact school them, for a fee." ownerID="33" targetID="42" fromX="-195" fromY="-2271" />
       <outputs name="Attack!" ownerID="33" targetID="6" fromX="-195" fromY="-2351" />
-      <outputs name="Give up the food." ownerID="33" targetID="24" fromX="-195" fromY="-2432" />'Hold on there, laddie, what in the bearded sage's sake gives you the right to judge? We do our banditin' as we bloody well like!'</nodes>
+      <outputs name="Give up the food." ownerID="33" targetID="24" fromX="-195" fromY="-2432" />— Espere aí, rapaz, o que, por amor do sábio barbudo, lhe dá o direito de julgar? Nós fazemos nossa bandidagem como nós gostamos!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="2345.17236" positionY="-508.207764" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -1574,12 +1514,10 @@ The dwarves also leave a small gift in thanks.</nodes>
       </logic>
       <outputs name="Say that Svarog is the god of fires and light, not a human." ownerID="34" targetID="35" fromX="2670" fromY="-999" />
       <outputs name="Say that you will give them some food." ownerID="34" targetID="36" fromX="2670" fromY="-1079" />
-      <outputs name="Nod and leave." ownerID="34" targetID="14" fromX="2670" fromY="-1159" />'Aye, I see the mark of the great blacksmith upon you. Shite. We'd rather eat dirt than dishonour one human who knows his smithing.'
-
-</nodes>
+      <outputs name="Nod and leave." ownerID="34" targetID="14" fromX="2670" fromY="-1159" />— Sim, vejo a marca do grande ferreiro em você. Merda. Preferimos comer terra a desonrar um humano que conhece sua ferraria. </nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="2773.74829" positionY="89.51063" width="350" height="805">
       <outputs name="Say that you will give them some food." ownerID="35" targetID="36" fromX="3099" fromY="-401" />
-      <outputs name="Nod and leave." ownerID="35" targetID="14" fromX="3099" fromY="-481" />'Oi, don't get yer undies in a twist, story goes that he was once human, that's all I am sayin'.'
+      <outputs name="Nod and leave." ownerID="35" targetID="14" fromX="3099" fromY="-481" />'Oi, não brinque com sua calcinha, a história diz que ele já foi humano, é tudo o que estou dizendo.'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="3171.767" positionY="120.401688" width="350" height="805">
       <logic>
@@ -1601,14 +1539,10 @@ The dwarves also leave a small gift in thanks.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Ask more about the light-wraiths." ownerID="36" targetID="37" fromX="3497" fromY="-370" />
-      <outputs name="Nod and leave." ownerID="36" targetID="38" fromX="3497" fromY="-450" />'Ah, the shame of it all! I spit on those blasted light-wraiths five times over for taking our homes and forcin' us into a life like this.'
-
-They accept your gift with humility and leave a small token of their thanks in exchange.</nodes>
+      <outputs name="Nod and leave." ownerID="36" targetID="38" fromX="3497" fromY="-450" />'Ah, a vergonha de tudo isso! Eu cuspi naqueles malditos espectros da luz cinco vezes por tomar nossas casas e nos forçar a uma vida como esta. Eles aceitam seu presente com humildade e deixam um pequeno sinal de agradecimento em troca.</nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="3591.17358" positionY="845.1542" width="350" height="805">
       <outputs name="Ask them where their hamlet used to be. Maybe you'll investigate one day." ownerID="37" targetID="47" fromX="3916" fromY="354" />
-      <outputs name="Nod and leave." ownerID="37" targetID="38" fromX="3916" fromY="273" />'No idea, laddies, no idea. Came when the sun was as bright as ever and scorched our small hamlet, that they did. Took some of our kin, put a strange kind of spell on them. Others just burned from inside and died when the wraiths touched them.
-
-Nasty business, I tell ya. So we ran, and we're banished now.'</nodes>
+      <outputs name="Nod and leave." ownerID="37" targetID="38" fromX="3916" fromY="273" />— Não faço ideia, rapazes, não faço ideia. Veio quando o sol estava mais brilhante do que nunca e queimou nosso pequeno vilarejo, foi o que aconteceu. Pegou alguns de nossos parentes, colocou um tipo estranho de feitiço neles. Outros simplesmente queimaram por dentro e morreram quando os espectros os tocaram. Negócio desagradável, eu lhe digo. Então fugimos e agora estamos banidos.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="38" positionX="3612.56055" positionY="-111.281509" width="460" height="509" sourceGroup="GROUP-DWARVES_7P_6M_2S" cargoPercentage="100">
       <outputs ownerID="38" targetID="40" group="G1" fromX="4042" fromY="-469" />
       <outputs ownerID="38" targetID="41" group="G1" fromX="4042" fromY="-549" />
@@ -1645,14 +1579,10 @@ Nasty business, I tell ya. So we ran, and we're banished now.'</nodes>
       <outputs name="Surrender" ownerID="42" targetID="44" fromX="304" fromY="-2589" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="43" positionX="437.906616" positionY="-1999.2019" width="350" height="725">
-      <outputs name="Nod and teach them the ways of assertiveness, intimidation, and brutality." ownerID="43" targetID="46" fromX="763" fromY="-2490" />'Ya make a bloody good point there, laddie. We ain't used to this. We were honest folk till our homes got burnt and, well, we are banished now, and banditry's our lot. 
-
-Here, take this payment, and teach us to do it right!'</nodes>
+      <outputs name="Nod and teach them the ways of assertiveness, intimidation, and brutality." ownerID="43" targetID="46" fromX="763" fromY="-2490" />— Você faz um bom argumento aí, rapaz. Não estamos acostumados com isso. Nós éramos pessoas honestas até nossas casas serem queimadas e, bem, estamos banidos agora, e o banditismo é nosso destino. Aqui, pegue este pagamento e nos ensine a fazer direito!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="44" positionX="-11.2022171" positionY="-2722.76563" width="350" height="805">
       <outputs name="Give up the food." ownerID="44" targetID="24" fromX="314" fromY="-3213" />
-      <outputs name="Attack!" ownerID="44" targetID="6" fromX="314" fromY="-3294" />'Yeah, yeah, right you are, too soft -- that's what we've been! 
-
-The food, now!'</nodes>
+      <outputs name="Attack!" ownerID="44" targetID="6" fromX="314" fromY="-3294" />'Sim, sim, você é muito mole - é o que temos sido! A comida, agora!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="45" positionX="561.4712" positionY="-3181.379" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1666,7 +1596,7 @@ The food, now!'</nodes>
       <outputs ownerID="46" targetID="45" fromX="934" fromY="-3101" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="47" positionX="3997.51172" positionY="824.957031" width="350" height="725">
-      <outputs name="Nod and leave." ownerID="47" targetID="39" fromX="4323" fromY="333" />'Nothin left of it now, but be wary -- you may come across those light-wraiths if you go that way.'
+      <outputs name="Nod and leave." ownerID="47" targetID="39" fromX="4323" fromY="333" />'Nada resta dele agora, mas seja cauteloso - você pode encontrar esses espectros de luz se você for por esse caminho.'
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="48" positionX="1834" positionY="889" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0" />
   </Adventure>
@@ -1704,7 +1634,7 @@ The food, now!'</nodes>
       <outputs name="Abandon some of your packs and run for it." ownerID="2" targetID="7" group="G2" fromX="631" fromY="-865" />
       <outputs name="Abandon some of your packs and run for it." ownerID="2" targetID="6" group="G2" fromX="631" fromY="-945" />
       <outputs name="Try reasoning with the bandits." ownerID="2" targetID="42" fromX="631" fromY="-1025" />
-      <outputs name="Attack!" ownerID="2" targetID="3" fromX="631" fromY="-1105" />You are ambushed by elven bandits!</nodes>
+      <outputs name="Attack!" ownerID="2" targetID="3" fromX="631" fromY="-1105" />Você está emboscado por bandidos élficos!</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="1516" positionY="407" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_ELVES_8P_8M_7S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="8" fromX="1957" fromY="-88" />
       <outputs name="Lose" ownerID="3" targetID="9" fromX="1957" fromY="-168" />
@@ -1725,9 +1655,7 @@ The food, now!'</nodes>
       <outputs name="Scorn them for losing honour and soul for greed. " ownerID="4" targetID="26" fromX="565" fromY="725" />
       <outputs name="Agree to give them some food, but nothing more. " ownerID="4" targetID="33" fromX="565" fromY="645" />
       <outputs name="Use this opportunity to try talking sense into them." ownerID="4" targetID="18" fromX="565" fromY="565" />
-      <outputs name="Attack!" ownerID="4" targetID="3" fromX="565" fromY="484" />'This world has shattered many ancient laws. Our woodland was tarnished by the human blight, burned, harvested, and left in tatters. 
-
-We now take what we desire from those who are weak. It is... refreshing.'</nodes>
+      <outputs name="Attack!" ownerID="4" targetID="3" fromX="565" fromY="484" />'Este mundo quebrou muitas leis antigas. Nossa floresta foi manchada pela praga humana, queimada, colhida e deixada em farrapos. Agora tomamos o que desejamos daqueles que são fracos. É... refrescante.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1177" positionY="-1889" width="350" height="455" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1754,7 +1682,7 @@ We now take what we desire from those who are weak. It is... refreshing.'</nodes
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Keep running." ownerID="7" targetID="43" fromX="462" fromY="-1857" />You abandon the packs, but the elves fire a few arrows at you.
+      <outputs name="Keep running." ownerID="7" targetID="43" fromX="462" fromY="-1857" />Você abandona os bandos, mas os elfos disparam algumas flechas em você.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2479.115" positionY="1074.84021" width="350" height="805">
       <logic>
@@ -1765,9 +1693,9 @@ We now take what we desire from those who are weak. It is... refreshing.'</nodes
         </ModifierBlock>
       </logic>
       <outputs name="Gather the loot and leave." ownerID="8" targetID="17" group="G1" fromX="2804" fromY="583" />
-      <outputs name="Gather the loot and leave." ownerID="8" targetID="11" group="G1" fromX="2804" fromY="503" />You kill the elves.</nodes>
+      <outputs name="Gather the loot and leave." ownerID="8" targetID="11" group="G1" fromX="2804" fromY="503" />Você mata os elfos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2407" positionY="232" width="350" height="725">
-      <outputs name="Leave." ownerID="9" targetID="39" fromX="2732" fromY="-259" />The elven bandits beat you badly and take some of your belongings. Luckily, they leave you alive.</nodes>
+      <outputs name="Leave." ownerID="9" targetID="39" fromX="2732" fromY="-259" />Os bandidos élficos bateram em você e levaram alguns de seus pertences. Felizmente, eles deixam você vivo.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="11" positionX="2934.16772" positionY="572.5499" width="350" height="455" allPlayersXP="6" allPlayersRP="3" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1813,18 +1741,14 @@ We now take what we desire from those who are weak. It is... refreshing.'</nodes
         </ModifierBlock>
       </logic>
       <outputs name="Agree to the fee and trade." ownerID="19" targetID="40" fromX="2213" fromY="-1674" />
-      <outputs name="Change your mind and attack!" ownerID="19" targetID="3" fromX="2213" fromY="-1755" />'Perhaps we can come to a more amicable arrangement. We may have strayed from our path thus far, yet it is no reason to abandon all civility.
-
-You will pay us a small fee, and in exchange, you may trade with us.'</nodes>
+      <outputs name="Change your mind and attack!" ownerID="19" targetID="3" fromX="2213" fromY="-1755" />— Talvez possamos chegar a um acordo mais amigável. Podemos ter nos desviado de nosso caminho até agora, mas não é motivo para abandonar toda a civilidade. Você nos pagará uma pequena taxa e, em troca, poderá negociar conosco.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="2856.75439" positionY="-1584.746" width="350" height="805">
       <outputs name="Agree and lose some items." ownerID="21" targetID="44" fromX="3182" fromY="-2075" />
-      <outputs name="Change your mind and attack!" ownerID="21" targetID="3" fromX="3182" fromY="-2156" />'The offer has now expired. We shall take a reasonable ransom but leave you intact. I advise you to take this offering.'</nodes>
+      <outputs name="Change your mind and attack!" ownerID="21" targetID="3" fromX="3182" fromY="-2156" />'A oferta já expirou. Aceitaremos um resgate razoável, mas deixaremos você intacto. Aconselho-o a aceitar esta oferenda.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="22" positionX="2889" positionY="-1087" width="350" height="455" allPlayersXP="6" allPlayersRP="3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="23" positionX="1782.281" positionY="-1990.55054" width="350" height="805">
       <outputs name="Damn it." ownerID="23" targetID="6" fromX="2108" fromY="-2481" />
-      <outputs name="Try to catch them!" ownerID="23" targetID="37" fromX="2108" fromY="-2561" />'Your words are as empty as our souls, and your wits as dull as a mortal's life.'
-
-The elves disappear into the woods, and you realise they robbed you blind!</nodes>
+      <outputs name="Try to catch them!" ownerID="23" targetID="37" fromX="2108" fromY="-2561" />'Suas palavras são tão vazias quanto nossas almas, e sua inteligência tão estúpida quanto a vida de um mortal.' Os elfos desaparecem na floresta e você percebe que eles roubaram você às cegas!</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="706" positionY="1926" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -1841,9 +1765,7 @@ The elves disappear into the woods, and you realise they robbed you blind!</node
       </logic>
       <outputs name="Tell them it is time to return to the right path." ownerID="24" targetID="25" fromX="1031" fromY="1434" />
       <outputs name="Scorn them for losing honour and soul for greed. " ownerID="24" targetID="26" fromX="1031" fromY="1354" />
-      <outputs name="Attack!" ownerID="24" targetID="3" fromX="1031" fromY="1274" />'You shame us. For the child deities to look down upon us with such righteous disdain... This is painful.
-
-You have not broken our laws, you have not trespassed on our sacred land, yet we seek violence like common orcs.'</nodes>
+      <outputs name="Attack!" ownerID="24" targetID="3" fromX="1031" fromY="1274" />— Você nos envergonha. Para as divindades infantis olharem para nós com tão justo desdém... Isso é doloroso. Você não infringiu nossas leis, não invadiu nossa terra sagrada, mas buscamos a violência como orcs comuns.</nodes>
     <nodes xsi:type="NodeChallenge" ID="25" positionX="1219.7666" positionY="2186.06177" width="500" height="807" challengeType="TypeMental" versusGroup="GROUP-ELVES_6P_6M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="25" targetID="36" group="G1" fromX="1660" fromY="1690" />
       <outputs name="Lose" ownerID="25" targetID="32" fromX="1660" fromY="1610" />
@@ -1863,7 +1785,7 @@ You have not broken our laws, you have not trespassed on our sacred land, yet we
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Gather what they left and leave." ownerID="26" targetID="27" fromX="1586" fromY="750" />You see great despair in their eyes. Some simply drop their weapons to the ground and walk off. 
+      <outputs name="Gather what they left and leave." ownerID="26" targetID="27" fromX="1586" fromY="750" />Você vê um grande desespero em seus olhos. Alguns simplesmente largam suas armas no chão e vão embora. 
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="27" positionX="1844.07739" positionY="1314.47461" width="460" height="429" sourceGroup="GROUP-ELVES_6P_6M_5S" cargoPercentage="100" targetGroup="ppl">
       <outputs ownerID="27" targetID="28" fromX="2274" fromY="956" />
@@ -1890,11 +1812,7 @@ You have not broken our laws, you have not trespassed on our sacred land, yet we
         </ModifierBlock>
       </logic>
       <outputs name="Bid them farewell. " ownerID="29" targetID="30" group="G1" fromX="2176" fromY="1743" />
-      <outputs name="Bid them farewell. " ownerID="29" targetID="31" group="G1" fromX="2176" fromY="1662" />'We thank thee, brethren, for you have restored harmony to our lost souls. 
-
-We must now find our way back to the light. May the grace of your pantheon fall upon you.'
-
-The elves leave you a gift and depart.</nodes>
+      <outputs name="Bid them farewell. " ownerID="29" targetID="31" group="G1" fromX="2176" fromY="1662" />'Nós te agradecemos, irmãos, porque você restaurou a harmonia em nossas almas perdidas. Devemos agora encontrar nosso caminho de volta para a luz. Que a graça de seu panteão caia sobre você. Os elfos deixam um presente para você e partem.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="30" positionX="2421" positionY="2841" width="350" height="455" allPlayersXP="6" allPlayersRP="3" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1943,7 +1861,7 @@ The elves leave you a gift and depart.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="33" targetID="28" fromX="1042" fromY="190" />The elven bandits waver in their violent resolve. They nod in agreement.
+      <outputs name="Leave." ownerID="33" targetID="28" fromX="1042" fromY="190" />Os bandidos élficos vacilam em sua determinação violenta. Eles acenam em concordância.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="1135" positionY="-66" width="350" height="885">
       <logic>
@@ -1958,7 +1876,7 @@ The elves leave you a gift and depart.</nodes>
       </logic>
       <outputs name="Insist that this is not the way of harmony nor the path of light and nature, all of which they should respect!" ownerID="34" targetID="24" fromX="1460" fromY="-557" />
       <outputs name="Use this opportunity to try talking sense into them." ownerID="34" targetID="18" fromX="1460" fromY="-637" />
-      <outputs name="They are distracted - attack!" ownerID="34" targetID="38" fromX="1460" fromY="-717" />The elves are mesmerized by your beauty. 
+      <outputs name="They are distracted - attack!" ownerID="34" targetID="38" fromX="1460" fromY="-717" />Os elfos estão hipnotizados por sua beleza. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="713.578247" positionY="-38.8714523" width="350" height="885">
       <logic>
@@ -1973,7 +1891,7 @@ The elves leave you a gift and depart.</nodes>
       </logic>
       <outputs name="Insist that this is not the way of harmony nor the path of light and nature, all of which they should respect!" ownerID="35" targetID="24" fromX="1039" fromY="-530" />
       <outputs name="Use this opportunity to try talking sense into them." ownerID="35" targetID="18" fromX="1039" fromY="-610" />
-      <outputs name="They are distracted -- attack!" ownerID="35" targetID="38" fromX="1039" fromY="-690" />The elves stop in their tracks, taken aback by your strong words.</nodes>
+      <outputs name="They are distracted -- attack!" ownerID="35" targetID="38" fromX="1039" fromY="-690" />Os elfos param em suas trilhas, surpresos com suas palavras fortes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="1770.70654" positionY="3181.30859" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -2000,9 +1918,7 @@ The elves leave you a gift and depart.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Bid them farewell. " ownerID="36" targetID="30" group="G1" fromX="2096" fromY="2690" />
-      <outputs name="Bid them farewell. " ownerID="36" targetID="31" group="G1" fromX="2096" fromY="2609" />'Your beauty soothed our souls and reminded us of the folly of our ways, for this life may be fleeting and wrought with despair, yet such delicate flowers endure and bloom in the dirt. We thank thee.'
-
-The elves leave you a gift and depart.</nodes>
+      <outputs name="Bid them farewell. " ownerID="36" targetID="31" group="G1" fromX="2096" fromY="2609" />'Sua beleza acalmou nossas almas e nos lembrou da loucura de nossos caminhos, pois esta vida pode ser passageira e forjada pelo desespero, mas essas flores delicadas resistem e florescem na sujeira. Nós te agradecemos.' Os elfos deixam um presente para você e partem.</nodes>
     <nodes xsi:type="NodeChallenge" ID="37" positionX="1602" positionY="-340" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_ELVES_8P_8M_7S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -2053,11 +1969,7 @@ The elves leave you a gift and depart.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="41" targetID="28" fromX="3675" fromY="1600" />Instead of inspiring change, you have broken their spirit. You see great despair in their eyes. Some simply drop their weapons to the ground and walk off. 
-
-You feel the weight of their despair fall upon you, and this failure cuts your elven soul deeply.
-
-But they do leave you alone.
+      <outputs name="Leave." ownerID="41" targetID="28" fromX="3675" fromY="1600" />Instead of inspiring change, you have broken their spirit. Você vê um grande desespero em seus olhos. Alguns simplesmente largam suas armas no chão e vão embora.  You feel the weight of their despair fall upon you, and this failure cuts your elven soul deeply. But they do leave you alone.
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="42" positionX="735.327759" positionY="-1080.91943" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-LOTS_ELVES_8P_8M_7S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="42" targetID="19" fromX="1176" fromY="-1576" />
@@ -2101,7 +2013,7 @@ But they do leave you alone.
       <outputs name="Fight!" ownerID="2" targetID="4" fromX="744" fromY="-625" />
       <outputs name="Try to run away." ownerID="2" targetID="24" fromX="744" fromY="-705" />
       <outputs name="Stand firm and intimidate them with your brawny muscle." ownerID="2" targetID="6" group="G1" fromX="744" fromY="-785" />
-      <outputs name="Drop some of your equipment and run away." ownerID="2" targetID="30" group="G1" fromX="744" fromY="-865" />You are ambushed by a band of crazed scavengers, clearly driven to take more risk than usual.</nodes>
+      <outputs name="Drop some of your equipment and run away." ownerID="2" targetID="30" group="G1" fromX="744" fromY="-865" />Você é emboscado por um bando de catadores enlouquecidos, claramente levados a correr mais riscos do que o normal.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="2356.44653" positionY="-1161.87134" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2154,9 +2066,7 @@ But they do leave you alone.
         </ModifierBlock>
       </logic>
       <outputs name="Use this chance to attack them." ownerID="6" targetID="8" fromX="1161" fromY="-1792" />
-      <outputs name="Convince them it is best if they leave, now." ownerID="6" targetID="9" fromX="1161" fromY="-1872" />You face them head on, raise your weapons, and flex your muscles.
-
-The scavengers look very unsure of themselves now. Some even leave.</nodes>
+      <outputs name="Convince them it is best if they leave, now." ownerID="6" targetID="9" fromX="1161" fromY="-1872" />Você os encara de frente, levanta suas armas e flexiona seus músculos. Os catadores parecem muito inseguros agora. Alguns até vão embora.</nodes>
     <nodes xsi:type="NodeChallenge" ID="8" positionX="3332.21631" positionY="-922.3396" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-SCAVENGER_1P_1M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="8" targetID="14" group="G1" fromX="3773" fromY="-1417" />
       <outputs name="Lose" ownerID="8" targetID="17" fromX="3773" fromY="-1497" />
@@ -2192,7 +2102,7 @@ The scavengers look very unsure of themselves now. Some even leave.</nodes>
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2396.54663" positionY="-332.720337" width="350" height="725">
-      <outputs name="Leave." ownerID="17" targetID="29" fromX="2722" fromY="-823" />The scavengers beat you badly, and you barely escape their savagery as they try to rip anything you have off you.</nodes>
+      <outputs name="Leave." ownerID="17" targetID="29" fromX="2722" fromY="-823" />Os necrófagos batem em você, e você mal escapa de sua selvageria enquanto eles tentam arrancar qualquer coisa que você tenha de você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2169.4502" positionY="-1745.26123" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -2202,9 +2112,7 @@ The scavengers look very unsure of themselves now. Some even leave.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Leave. " ownerID="18" targetID="20" fromX="2495" fromY="-2236" />
-      <outputs name="Use this opportunity to attack a smaller pack!" ownerID="18" targetID="8" fromX="2495" fromY="-2316" />'Right, right, right, you big, big, scary, we leave you, leave you, yeah, look, we leave our things, you take, you go, you leave us be...'
-
-They back away and even drop some things.</nodes>
+      <outputs name="Use this opportunity to attack a smaller pack!" ownerID="18" targetID="8" fromX="2495" fromY="-2316" />'Certo, certo, certo, seu grande, grande, assustador, nós te deixamos, te deixamos, sim, olhe, nós deixamos nossas coisas, você pega, você vai, você nos deixa em paz...' Eles se afastam e até caem algumas coisas.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="20" positionX="2834.573" positionY="-1977.24976" width="460" height="509" sourceGroup="GROUP-SCAVENGER_2P_2M_2S" cargoPercentage="100">
       <outputs ownerID="20" targetID="21" group="G1" fromX="3264" fromY="-2335" />
       <outputs ownerID="20" targetID="31" group="G1" fromX="3264" fromY="-2415" />
@@ -2227,9 +2135,7 @@ They back away and even drop some things.</nodes>
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="2686.99121" positionY="-2727.3042" width="350" height="725">
-      <outputs name="Leave." ownerID="22" targetID="3" fromX="3012" fromY="-3218" />'You give us your stuff, give it, give it, give it!'
-
-While they talk, you use the opportunity to run from the crazed pack, but not without losing a few bags. </nodes>
+      <outputs name="Leave." ownerID="22" targetID="3" fromX="3012" fromY="-3218" />'Você nos dá suas coisas, dá, dá, dá!' Enquanto eles conversam, você aproveita a oportunidade para fugir do bando enlouquecido, mas não sem perder algumas malas. </nodes>
     <nodes xsi:type="NodeChallenge" ID="24" positionX="864.33905" positionY="-377.443878" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_2P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="24" targetID="27" fromX="1305" fromY="-872" />
       <outputs name="Lose" ownerID="24" targetID="25" fromX="1305" fromY="-953" />
@@ -2239,9 +2145,9 @@ While they talk, you use the opportunity to run from the crazed pack, but not wi
       <outputs ownerID="25" targetID="26" fromX="1875" fromY="-1172" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="1975.33179" positionY="-613.8562" width="350" height="725">
-      <outputs name="Leave." ownerID="26" targetID="3" fromX="2301" fromY="-1105" />You barely got away, not without bruises and not without losing a few bags. </nodes>
+      <outputs name="Leave." ownerID="26" targetID="3" fromX="2301" fromY="-1105" />Você mal escapou, não sem hematomas e não sem perder alguns sacos. </nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="1648.9884" positionY="107.065094" width="350" height="725">
-      <outputs name="Leave." ownerID="27" targetID="28" fromX="1974" fromY="-384" />You run away without trouble. </nodes>
+      <outputs name="Leave." ownerID="27" targetID="28" fromX="1974" fromY="-384" />Você foge sem problemas. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="2150.25464" positionY="307.531342" width="350" height="455" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="29" positionX="2931.29736" positionY="-429.000275" width="350" height="455" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -2300,7 +2206,7 @@ While they talk, you use the opportunity to run from the crazed pack, but not wi
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="32" targetID="33" fromX="1914" fromY="943" />You defeat the scavengers.</nodes>
+      <outputs name="Leave." ownerID="32" targetID="33" fromX="1914" fromY="943" />Você derrota os catadores.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="33" positionX="2062" positionY="938" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="33" targetID="14" group="G1" fromX="2491" fromY="549" />
       <outputs ownerID="33" targetID="15" group="G1" fromX="2491" fromY="469" />
@@ -2332,9 +2238,7 @@ While they talk, you use the opportunity to run from the crazed pack, but not wi
       <outputs name="Stay calm and listen to what they have to say." ownerID="2" targetID="14" fromX="922" fromY="-647" />
       <outputs name="[Night demons]Tell the strigas to come out and speak plainly." ownerID="2" targetID="15" fromX="922" fromY="-727" />
       <outputs name="Run away!" ownerID="2" targetID="33" group="G1" fromX="922" fromY="-808" />
-      <outputs name="Run away!" ownerID="2" targetID="8" group="G1" fromX="922" fromY="-888" />Your camp is besieged by a group of humanoids lurking in the darkness. 
-
-'Keep calm and we shall all get what we want tonight.'</nodes>
+      <outputs name="Run away!" ownerID="2" targetID="8" group="G1" fromX="922" fromY="-888" />Seu acampamento está cercado por um grupo de humanóides à espreita na escuridão. 'Mantenha a calma e todos nós vamos conseguir o que queremos esta noite.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="1692.72546" positionY="407.420837" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-STRIGA_MASTER_ONE_4P_4M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="10" fromX="2133" fromY="-88" />
       <outputs name="Lose" ownerID="3" targetID="12" fromX="2133" fromY="-168" />
@@ -2349,9 +2253,7 @@ While they talk, you use the opportunity to run from the crazed pack, but not wi
         </ModifierBlock>
       </logic>
       <outputs name="Leave." ownerID="4" targetID="31" group="G1" fromX="2309" fromY="-851" />
-      <outputs name="Leave." ownerID="4" targetID="32" group="G1" fromX="2309" fromY="-931" />The night demons take your blood, but as agreed, not enough to kill you. 
-
-You may suffer weakness from this, but they leave you be.</nodes>
+      <outputs name="Leave." ownerID="4" targetID="32" group="G1" fromX="2309" fromY="-931" />Os demônios da noite tomam seu sangue, mas como combinado, não o suficiente para matá-lo. Você pode sofrer fraqueza com isso, mas eles o deixam em paz.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="2822.21" positionY="-712.99884" width="500" height="807" challengeType="TypeMental" versusGroup="GROUP-STRIGA_MASTER_ONE_4P_4M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="24" group="G1" fromX="3263" fromY="-1208" />
       <outputs name="Lose" ownerID="5" targetID="36" fromX="3263" fromY="-1288" />
@@ -2378,9 +2280,7 @@ You may suffer weakness from this, but they leave you be.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Leave." ownerID="6" targetID="9" fromX="3184" fromY="-2105" />
-      <outputs name="Apologise for the outburst and ask what exchange he meant earlier." ownerID="6" targetID="16" fromX="3184" fromY="-2185" />The lesser strigas shudder and step back. The other one speaks from the dark again:
-
-'Such malice from one of our own. How sad. We leave you be, then, servants of light...'</nodes>
+      <outputs name="Apologise for the outburst and ask what exchange he meant earlier." ownerID="6" targetID="16" fromX="3184" fromY="-2185" />As strigas menores estremecem e recuam. O outro fala do escuro novamente: 'Tanta malícia de um dos nossos. Que triste. Nós os deixamos, então, servos da luz...'</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="-320.640137" positionY="-838.7032" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2389,7 +2289,7 @@ You may suffer weakness from this, but they leave you be.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="7" targetID="8" fromX="5" fromY="-1329" />You run away, but not without severe blood loss. The creatures were fast and agile in their feasting. </nodes>
+      <outputs name="Leave." ownerID="7" targetID="8" fromX="5" fromY="-1329" />Você foge, mas não sem perda severa de sangue. As criaturas eram rápidas e ágeis em seu banquete. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="538.623047" positionY="-1246.3252" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="3280.52832" positionY="-1871.64624" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2415.46167" positionY="512.1682" width="350" height="725">
@@ -2403,7 +2303,7 @@ You may suffer weakness from this, but they leave you be.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="10" targetID="11" fromX="2741" fromY="21" />You kill the strigas and loot their bodies.</nodes>
+      <outputs name="Leave." ownerID="10" targetID="11" fromX="2741" fromY="21" />Você mata as strigas e saqueia seus corpos.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="11" positionX="3201.96777" positionY="220.166733" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="12" positionX="4150.9917" positionY="-1621.77124" width="350" height="725">
       <logic>
@@ -2413,18 +2313,12 @@ You may suffer weakness from this, but they leave you be.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="12" targetID="35" fromX="4476" fromY="-2112" />The strigas assault you angrily after you fail to comply with their demands. 
-
-You hear whispers of 'Horz's pack' and, despite their threats, they do not drain you to death.</nodes>
+      <outputs name="Leave." ownerID="12" targetID="35" fromX="4476" fromY="-2112" />As strigas o atacam furiosamente depois que você não cumpre suas exigências. Você ouve sussurros do 'pacote de Horz' e, apesar de suas ameaças, eles não o drenam até a morte.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="5089.82031" positionY="-1648.26038" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="14" positionX="1058.10461" positionY="-28.1138153" width="350" height="885" image="Event176">
       <outputs name="Attack!" ownerID="14" targetID="3" fromX="1383" fromY="-519" />
       <outputs name="Assert that you are no mere traveller, but a servant of the pantheon who are Horz's pack after all, so they should step away." ownerID="14" targetID="5" fromX="1383" fromY="-599" />
-      <outputs name="Agree to give some blood." ownerID="14" targetID="30" fromX="1383" fromY="-679" />A figure steps into the light for only the briefest moment. He is tall, foreboding, and bestially alluring. 
-
-'You will give us some of your blood, and we will not harm you beyond that. Resist, and we shall devour you whole.'
-
-He steps back into darkness, and his minions step forwards, baring their fangs.</nodes>
+      <outputs name="Agree to give some blood." ownerID="14" targetID="30" fromX="1383" fromY="-679" />Uma figura entra na luz apenas por um breve momento. Ele é alto, agourento e bestialmente sedutor. — Você vai nos dar um pouco do seu sangue, e não vamos machucá-lo além disso. Resista, e nós o devoraremos inteiro.' Ele recua para a escuridão, e seus lacaios avançam, mostrando suas presas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="1188.79712" positionY="-1173.46021" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -2438,18 +2332,14 @@ He steps back into darkness, and his minions step forwards, baring their fangs.<
       </logic>
       <outputs name="Ask what exchange." ownerID="15" targetID="16" fromX="1514" fromY="-1664" />
       <outputs name="Tell him to back off or die." ownerID="15" targetID="5" fromX="1514" fromY="-1744" />
-      <outputs name="[Light] In the name of Light, tell the striga to leave." ownerID="15" targetID="6" fromX="1514" fromY="-1825" />A figure steps into the light for only the briefest moment. He is tall, foreboding, and bestially alluring. 
-
-'Ah, a fellow night walker. Hmm, perhaps we can make this exchange even more civil, then?'</nodes>
+      <outputs name="[Light] In the name of Light, tell the striga to leave." ownerID="15" targetID="6" fromX="1514" fromY="-1825" />Uma figura entra na luz apenas por um breve momento. Ele é alto, agourento e bestialmente sedutor. — Ah, um companheiro noturno. Hmm, talvez possamos tornar essa troca ainda mais civilizada, então?</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="1616.5199" positionY="-1363.55908" width="350" height="725">
-      <outputs name="Nod and listen." ownerID="16" targetID="17" fromX="1942" fromY="-1854" />'I concluded that my cattle are wearing thin. First darkness spoilt the lot, and now this wretched Shattering with its light-wraiths is destroying your fragile societies.'</nodes>
+      <outputs name="Nod and listen." ownerID="16" targetID="17" fromX="1942" fromY="-1854" />“Concluí que meu gado está se esgotando. A primeira escuridão estragou tudo, e agora esta mísera Destruição com seus espectros de luz está destruindo suas frágeis sociedades.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2006.22278" positionY="-1525.14343" width="350" height="966">
       <outputs name="Beautiful and female] Approve of their practical approach and state that your own ways have become tame to help you survive with people." ownerID="17" targetID="24" group="G1" fromX="2331" fromY="-2016" />
       <outputs name="Question the truth of his words." ownerID="17" targetID="19" fromX="2331" fromY="-2096" />
       <outputs name="[Horz]Affirm that Horz would approve of such measured control." ownerID="17" targetID="18" fromX="2331" fromY="-2176" />
-      <outputs name="[Night demon] Approve of their practical approach and state that your own ways have become tame to help you survive with people." ownerID="17" targetID="37" group="G1" fromX="2331" fromY="-2256" />'And so, I have decided a measured approach is more sustainable. I have trained my feral pack to obey. 
-
-We ambush warm-blooded folk, taking only the blood we need. We feast on their flesh only if they resist - leaving it up to fate, if you will.'</nodes>
+      <outputs name="[Night demon] Approve of their practical approach and state that your own ways have become tame to help you survive with people." ownerID="17" targetID="37" group="G1" fromX="2331" fromY="-2256" />“E assim, decidi que uma abordagem medida é mais sustentável. Eu treinei minha matilha selvagem para obedecer. Emboscamos pessoas de sangue quente, levando apenas o sangue de que precisamos. Nós nos banqueteamos com a carne deles apenas se eles resistirem, deixando isso para o destino, se você quiser.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2427" positionY="-1659" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -2459,16 +2349,10 @@ We ambush warm-blooded folk, taking only the blood we need. We feast on their fl
         </FilterBlock>
       </logic>
       <outputs name="Agree to give blood and trade." ownerID="18" targetID="20" fromX="2752" fromY="-2150" />
-      <outputs name="Decline giving blood, but part on good terms." ownerID="18" targetID="23" fromX="2752" fromY="-2230" />'Yes, you smell of the human gods. The lord of night is our master too, of course.
-
-So how about you let us have some blood, and perhaps some meat, if you have any? And we will offer a trade.'</nodes>
+      <outputs name="Decline giving blood, but part on good terms." ownerID="18" targetID="23" fromX="2752" fromY="-2230" />— Sim, você cheira a deuses humanos. O senhor da noite também é nosso mestre, é claro. Então, que tal você nos dar um pouco de sangue, e talvez um pouco de carne, se você tiver alguma? E vamos oferecer uma troca.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="1313.73438" positionY="-2119.60938" width="350" height="805">
       <outputs name="Agree to give blood and trade." ownerID="19" targetID="20" fromX="1639" fromY="-2610" />
-      <outputs name="Decline giving blood, but part on good terms." ownerID="19" targetID="23" fromX="1639" fromY="-2690" />'Think what you like, but from what I smell, you too follow a less savage way, for you serve the human pantheon. 
-
-The lord of night is our master too, of course. In that, at least, we can find common ground.
-
-So how about you let us have some blood, and perhaps some meat, if you have any? And we will offer a trade.'</nodes>
+      <outputs name="Decline giving blood, but part on good terms." ownerID="19" targetID="23" fromX="1639" fromY="-2690" />— Pense o que quiser, mas pelo que sinto, você também segue um caminho menos selvagem, pois serve ao panteão humano. O senhor da noite também é nosso mestre, é claro. Nisso, pelo menos, podemos encontrar um terreno comum. Então, que tal você nos dar um pouco de sangue, e talvez um pouco de carne, se você tiver alguma? E vamos oferecer uma troca.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="20" positionX="2950" positionY="-2497" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <logic>
         <FilterBlock>
@@ -2493,9 +2377,7 @@ So how about you let us have some blood, and perhaps some meat, if you have any?
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="1979.48218" positionY="-2830.88525" width="350" height="725">
-      <outputs name="Leave." ownerID="23" targetID="22" fromX="2305" fromY="-3322" />'As you wish. May the moon strengthen you.'
-
-The strigas disappear into the night, and you feel the night lord's blessing upon you.</nodes>
+      <outputs name="Leave." ownerID="23" targetID="22" fromX="2305" fromY="-3322" />'Como quiser. Que a lua te fortaleça.' As strigas desaparecem na noite e você sente a bênção do senhor da noite sobre você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="3374.93555" positionY="-607.9154" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -2517,9 +2399,7 @@ The strigas disappear into the night, and you feel the night lord's blessing upo
       </logic>
       <outputs name="Agree." ownerID="24" targetID="27" group="G1" fromX="3700" fromY="-1099" />
       <outputs name="Agree." ownerID="24" targetID="25" group="G1" fromX="3700" fromY="-1179" />
-      <outputs name="Decline and tell him to leave. " ownerID="24" targetID="29" fromX="3700" fromY="-1259" />'Such raw, bestial power in your words. Such beauty in your every move.
-
-I will be yours to command if you let me taste you, just once...' </nodes>
+      <outputs name="Decline and tell him to leave. " ownerID="24" targetID="29" fromX="3700" fromY="-1259" />'Tanto poder bruto e bestial em suas palavras. Quanta beleza em cada movimento seu. Eu serei seu para comandar se você me deixar provar você, apenas uma vez...' </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="4266.43457" positionY="-850.059" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2531,11 +2411,7 @@ I will be yours to command if you let me taste you, just once...' </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bid him farewell and leave." ownerID="25" targetID="11" fromX="4592" fromY="-1341" />'You taste like the moon itself. Clearly you serve our master's pack. 
-
-Until we meet again, my love...'
-
-You feel changed by the embrace of the striga master. You feel his presence at every full moon from now on.</nodes>
+      <outputs name="Bid him farewell and leave." ownerID="25" targetID="11" fromX="4592" fromY="-1341" />— Você tem gosto da própria lua. Claramente você serve a matilha do nosso mestre. Até nos encontrarmos novamente, meu amor...' Você se sente mudado pelo abraço do mestre da striga. Você sente a presença dele a cada lua cheia a partir de agora.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="4266" positionY="34" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -2559,9 +2435,7 @@ You feel changed by the embrace of the striga master. You feel his presence at e
         </FilterBlock>
       </logic>
       <outputs name="Bid him farewell and leave." ownerID="27" targetID="26" group="G1" fromX="4174" fromY="-469" />
-      <outputs name="Bid him farewell and leave." ownerID="27" targetID="28" group="G1" fromX="4174" fromY="-549" />'You taste like the moon itself. Clearly you serve our master's pack. 
-
-I will follow that path also. My servant will keep you safe until we meet again, my love...'</nodes>
+      <outputs name="Bid him farewell and leave." ownerID="27" targetID="28" group="G1" fromX="4174" fromY="-549" />— Você tem gosto da própria lua. Claramente você serve a matilha do nosso mestre. Vou seguir esse caminho também. Meu servo irá mantê-lo seguro até que nos encontremos novamente, meu amor...'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="4710" positionY="-187" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2588,9 +2462,7 @@ I will follow that path also. My servant will keep you safe until we meet again,
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="29" targetID="11" fromX="4152" fromY="-1418" />'As you wish...'
-
-The striga disappear, but you feel watched at every full moon thereafter.</nodes>
+      <outputs name="Leave." ownerID="29" targetID="11" fromX="4152" fromY="-1418" />'Como você quiser...' A striga desaparece, mas você se sente observado a cada lua cheia depois disso.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="1473.34814" positionY="-670.342163" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="30" targetID="4" fromX="1902" fromY="-1058" />
     </nodes>
@@ -2633,7 +2505,7 @@ The striga disappear, but you feel watched at every full moon thereafter.</nodes
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="34" targetID="11" fromX="5317" fromY="-1226" />The strigas listen to your words and back away quietly into the night.</nodes>
+      <outputs name="Leave." ownerID="34" targetID="11" fromX="5317" fromY="-1226" />As strigas ouvem suas palavras e se afastam silenciosamente na noite.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="35" positionX="4542.85742" positionY="-1695.04358" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="20" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="35" targetID="13" fromX="4972" fromY="-2083" />
     </nodes>
@@ -2649,9 +2521,7 @@ The striga disappear, but you feel watched at every full moon thereafter.</nodes
         </FilterBlock>
       </logic>
       <outputs name="Agree to give blood and trade." ownerID="37" targetID="20" fromX="2754" fromY="-2977" />
-      <outputs name="Decline giving blood, but part on good terms." ownerID="37" targetID="23" fromX="2754" fromY="-3057" />'Yes, you smell of the human gods. The lord of night is our master too, of course.
-
-So how about you let us have some blood, and perhaps some meat, if you have any? And we will offer a trade.'</nodes>
+      <outputs name="Decline giving blood, but part on good terms." ownerID="37" targetID="23" fromX="2754" fromY="-3057" />— Sim, você cheira a deuses humanos. O senhor da noite também é nosso mestre, é claro. Então, que tal você nos dar um pouco de sangue, e talvez um pouco de carne, se você tiver alguma? E vamos oferecer uma troca.</nodes>
   </Adventure>
   <Adventure name="Human bandits" uniqueID="8" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="true" typeVillage="false" difficulty="5" nodeIdMax="47" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event190">
@@ -2689,9 +2559,7 @@ So how about you let us have some blood, and perhaps some meat, if you have any?
       <outputs name="[Attractive] Give the captain your best smile." ownerID="2" targetID="5" fromX="748" fromY="-840" />
       <outputs name="Try to parley with them. " ownerID="2" targetID="39" fromX="748" fromY="-921" />
       <outputs name="Run away!" ownerID="2" targetID="8" group="G1" fromX="748" fromY="-1001" />
-      <outputs name="Run away!" ownerID="2" targetID="44" group="G1" fromX="748" fromY="-1081" />You are ambushed by bandits:
-
-'Your goods or your lives!'</nodes>
+      <outputs name="Run away!" ownerID="2" targetID="44" group="G1" fromX="748" fromY="-1081" />Você é emboscado por bandidos: 'Seus bens ou suas vidas!'</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="2870" positionY="-676" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-BANDITS_5P_4M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="9" group="G1" fromX="3311" fromY="-1171" />
       <outputs name="Lose" ownerID="3" targetID="13" fromX="3311" fromY="-1251" />
@@ -2717,7 +2585,7 @@ So how about you let us have some blood, and perhaps some meat, if you have any?
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Trade." ownerID="4" targetID="15" fromX="1588" fromY="-364" />'Heh, I guess it won't do us no harm, so why not?'</nodes>
+      <outputs name="Trade." ownerID="4" targetID="15" fromX="1588" fromY="-364" />'Heh, eu acho que não vai nos fazer mal nenhum, então por que não?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="856" positionY="-391" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -2739,7 +2607,7 @@ So how about you let us have some blood, and perhaps some meat, if you have any?
       </logic>
       <outputs name="Agree to go with the captain." ownerID="5" targetID="26" fromX="1181" fromY="-882" />
       <outputs name="Play the damsel in distress who does not want to succumb to such base behaviours. " ownerID="5" targetID="19" fromX="1181" fromY="-962" />
-      <outputs name="Say that perhaps one day you might, but for now how about the two of you just trade goods instead of spilling blood?" ownerID="5" targetID="21" fromX="1181" fromY="-1042" />'Huh, yeah, well, I mean, you're kind of cute, so what do you have in mind? I mean, if you fancy a little time to ourselves on the side, my men will leave you be, sure.'</nodes>
+      <outputs name="Say that perhaps one day you might, but for now how about the two of you just trade goods instead of spilling blood?" ownerID="5" targetID="21" fromX="1181" fromY="-1042" />'Huh, sim, bem, quero dizer, você é meio fofo, então o que você tem em mente? Quero dizer, se você quiser um pouco de tempo para nós, meus homens vão deixar você em paz, com certeza.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1915.564" positionY="-1503.75842" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -2752,7 +2620,7 @@ So how about you let us have some blood, and perhaps some meat, if you have any?
         </ModifierBlock>
       </logic>
       <outputs name="Agree to the trade." ownerID="6" targetID="40" fromX="2241" fromY="-1994" />
-      <outputs name="Attack!" ownerID="6" targetID="3" fromX="2241" fromY="-2075" />'Well, I guess I can be convinced to let you pay a smaller fee, and we can even do some trading. Best I can do.'</nodes>
+      <outputs name="Attack!" ownerID="6" targetID="3" fromX="2241" fromY="-2075" />— Bem, acho que posso ser convencido a deixar você pagar uma taxa menor, e podemos até negociar. O melhor que posso fazer.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="41.2384377" positionY="-1993.52771" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="8" positionX="-462.188354" positionY="-1194.49817" width="350" height="725">
       <logic>
@@ -2773,7 +2641,7 @@ So how about you let us have some blood, and perhaps some meat, if you have any?
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="8" targetID="44" fromX="-136" fromY="-1685" />You manage to run, but not without bruises and lost bags as the bandits chase you.</nodes>
+      <outputs name="Leave." ownerID="8" targetID="44" fromX="-136" fromY="-1685" />Você consegue correr, mas não sem hematomas e bolsas perdidas enquanto os bandidos o perseguem.</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3516" positionY="-660" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2793,9 +2661,7 @@ So how about you let us have some blood, and perhaps some meat, if you have any?
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Take the youth with you." ownerID="9" targetID="12" group="G1" fromX="3841" fromY="-1151" />You kill the bandits and loot their bodies when you discover not only that one is still alive, but it is a child of yours that was once lost to the bandit trials. 
-
-They plead with you to take them back, saying the bandits made them stay.</nodes>
+      <outputs name="Take the youth with you." ownerID="9" targetID="12" group="G1" fromX="3841" fromY="-1151" />Você mata os bandidos e saqueia seus corpos quando descobre que não apenas um ainda está vivo, mas é um filho seu que uma vez foi perdido nos julgamentos dos bandidos. Eles imploram para você levá-los de volta, dizendo que os bandidos os fizeram ficar.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="5088.439" positionY="-1155.46362" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="11" positionX="4662.91846" positionY="-362.400574" width="350" height="725">
       <logic>
@@ -2805,7 +2671,7 @@ They plead with you to take them back, saying the bandits made them stay.</nodes
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Take it." ownerID="11" targetID="43" fromX="4988" fromY="-853" />Among other things, you find a treasure map.</nodes>
+      <outputs name="Take it." ownerID="11" targetID="43" fromX="4988" fromY="-853" />Entre outras coisas, você encontra um mapa do tesouro.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="12" positionX="4090.88647" positionY="-599.2289" width="460" height="509" sourceGroup="GROUP-BANDITS_3P_3M_1S" cargoPercentage="100">
       <outputs ownerID="12" targetID="11" group="G1" fromX="4521" fromY="-957" />
       <outputs ownerID="12" targetID="10" group="G1" fromX="4521" fromY="-1037" />
@@ -2821,7 +2687,7 @@ They plead with you to take them back, saying the bandits made them stay.</nodes
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="13" targetID="14" fromX="5058" fromY="-2935" />You are beaten badly and forced to flee to tend to your poisoned wounds. </nodes>
+      <outputs name="Leave." ownerID="13" targetID="14" fromX="5058" fromY="-2935" />Você é espancado e forçado a fugir para cuidar de suas feridas envenenadas. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="5227.00146" positionY="-2713.43848" width="350" height="455" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="15" positionX="1675" positionY="162" width="460" height="479" traderProfile="TRADER-SLAVYAN" playerInventory="stuff" startingBalance="-30">
       <outputs name="Confirm" ownerID="15" targetID="18" fromX="2105" fromY="-166" />
@@ -2844,7 +2710,7 @@ They plead with you to take them back, saying the bandits made them stay.</nodes
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2523.05469" positionY="97.8265839" width="350" height="805">
       <outputs name="Agree." ownerID="17" targetID="16" fromX="2848" fromY="-393" />
-      <outputs name="Attack!" ownerID="17" targetID="3" fromX="2848" fromY="-473" />'What, no tradin'? In that case, we will take a bit of what we like and let you go scot-free, deal?'</nodes>
+      <outputs name="Attack!" ownerID="17" targetID="3" fromX="2848" fromY="-473" />'O que, sem troca'? Nesse caso, vamos pegar um pouco do que gostamos e deixar você impune, combinado?</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="3352.362" positionY="-114.8468" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="19" positionX="1299" positionY="-836" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-BANDITS_5P_4M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="19" targetID="20" fromX="1740" fromY="-1331" />
@@ -2859,25 +2725,19 @@ They plead with you to take them back, saying the bandits made them stay.</nodes
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Smile, nod, take his stuff, and leave." ownerID="20" targetID="25" fromX="2285" fromY="-1128" />'Oh, right, yes, I mean no, I'd never! Well, here, this is for you and maybe, you know, maybe we could find each other sometime soon, go out for a dinner?'</nodes>
+      <outputs name="Smile, nod, take his stuff, and leave." ownerID="20" targetID="25" fromX="2285" fromY="-1128" />'Ah, certo, sim, quero dizer, não, eu nunca! Bem, aqui, isso é para você e talvez, você sabe, talvez possamos nos encontrar em breve, sair para jantar?</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="700.2836" positionY="-2043.36194" width="350" height="966">
       <outputs name="Smile and agree to the trade." ownerID="21" targetID="22" fromX="1026" fromY="-2534" />
       <outputs name="Agree to go with the captain." ownerID="21" targetID="26" fromX="1026" fromY="-2614" />
       <outputs name="Play the damsel in distress who does not want to succumb to such base behaviours. " ownerID="21" targetID="19" fromX="1026" fromY="-2694" />
-      <outputs name="Attack!" ownerID="21" targetID="3" fromX="1026" fromY="-2775" />'Oh, right, yes, I mean, will you promise to see me again soon?
-
-Anyway, for banditry's sake, I can't just let you go. I mean, my reputation and all. 
-
-But you pay us extra and we'll trade. This way we're both happy. Well, sort of -- I'd be happier if you came to the side with me.'</nodes>
+      <outputs name="Attack!" ownerID="21" targetID="3" fromX="1026" fromY="-2775" />'Ah, certo, sim, quero dizer, você promete me ver novamente em breve? De qualquer forma, pelo bem do banditismo, não posso simplesmente deixar você ir. Quero dizer, minha reputação e tudo. Mas você nos paga mais e nós trocamos. Assim nós dois estamos felizes. Bem, mais ou menos... eu ficaria mais feliz se você ficasse do meu lado.</nodes>
     <nodes xsi:type="NodeTrade" ID="22" positionX="2813" positionY="-1534" width="460" height="479" traderProfile="TRADER-SCAVENGERS" playerInventory="stuff" startingBalance="-40">
       <outputs name="Confirm" ownerID="22" targetID="30" fromX="3243" fromY="-1862" />
       <outputs name="Cancel" ownerID="22" targetID="23" fromX="3243" fromY="-1942" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="3329" positionY="-1541" width="350" height="805">
       <outputs name="Give away the stuff." ownerID="23" targetID="24" fromX="3654" fromY="-2032" />
-      <outputs name="Attack!" ownerID="23" targetID="3" fromX="3654" fromY="-2112" />'Sorry, babe, but you gotta pay up, or I gotta do my rough thing. We'll take some of those bags of yours and you can go, just 'cause your pretty face... made my day shine and all.'
-
-He looks slightly embarrassed, and his men snicker at him. </nodes>
+      <outputs name="Attack!" ownerID="23" targetID="3" fromX="3654" fromY="-2112" />'Desculpe, querida, mas você tem que pagar, ou eu tenho que fazer o meu trabalho duro. Vamos pegar algumas dessas suas sacolas e você pode ir, só porque seu lindo rosto... fez meu dia brilhar e tudo mais. Ele parece um pouco envergonhado, e seus homens riem dele. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="24" positionX="4539" positionY="-1811" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2899,19 +2759,17 @@ He looks slightly embarrassed, and his men snicker at him. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="2341" positionY="-603" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="26" positionX="1173.287" positionY="-2156.41333" width="350" height="805">
       <outputs name="Kiss the captain passionately and have some fun." ownerID="26" targetID="31" fromX="1499" fromY="-2647" />
-      <outputs name="Say you appreciate the candour, and play pretend as he said." ownerID="26" targetID="27" fromX="1499" fromY="-2727" />You go into some tall shrubbery, and the captain makes sure the men are out of sight:
-
-'Right, listen, I have a reputation, you know, one has to be the alpha in these packs. But I ain't no rapey person. So if you like, we can just sit here, moan a bit, pretend we did the deed, and part ways.'</nodes>
+      <outputs name="Say you appreciate the candour, and play pretend as he said." ownerID="26" targetID="27" fromX="1499" fromY="-2727" />Você entra em algum arbusto alto, e o capitão garante que os homens estejam fora de vista: 'Certo, escute, eu tenho uma reputação, você sabe, um tem que ser o alfa nestes bandos. Mas eu não sou uma pessoa estuprada. Então, se você quiser, podemos apenas sentar aqui, gemer um pouco, fingir que fizemos a ação e nos separar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="1049.69983" positionY="-3113.65356" width="350" height="805">
       <outputs name="Trade." ownerID="27" targetID="28" fromX="1375" fromY="-3604" />
-      <outputs name="Decline, wait out the appropriate time for the ruse to work, and leave." ownerID="27" targetID="29" fromX="1375" fromY="-3685" />'Bit awkward, isn't it... tell ya what, want to trade while we sit here?' 
+      <outputs name="Decline, wait out the appropriate time for the ruse to work, and leave." ownerID="27" targetID="29" fromX="1375" fromY="-3685" />'Um pouco estranho, não é... te digo uma coisa, quer negociar enquanto estamos sentados aqui?' 
 </nodes>
     <nodes xsi:type="NodeTrade" ID="28" positionX="1630.5802" positionY="-2648.11377" width="460" height="479" traderProfile="TRADER-SLAVYAN" playerInventory="stuff">
       <outputs name="Confirm" ownerID="28" targetID="29" fromX="2060" fromY="-2976" />
       <outputs name="Cancel" ownerID="28" targetID="29" fromX="2060" fromY="-3056" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="1700.59448" positionY="-3290.67822" width="350" height="725">
-      <outputs name="Leave." ownerID="29" targetID="30" fromX="2026" fromY="-3781" />The captain returns to the crew, looking pleased and raunchy. They make some crude jokes, but they walk away as promised.</nodes>
+      <outputs name="Leave." ownerID="29" targetID="30" fromX="2026" fromY="-3781" />O capitão volta para a tripulação, parecendo satisfeito e atrevido. Eles fazem algumas piadas grosseiras, mas vão embora como prometido.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="30" positionX="2239.09424" positionY="-3497.42017" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2939,11 +2797,7 @@ He looks slightly embarrassed, and his men snicker at him. </nodes>
       <outputs name="[Beautiful] Say that you hope so as well." ownerID="31" targetID="34" group="G1" fromX="2482" fromY="-2874" />
       <outputs name="Say that you hope so as well." ownerID="31" targetID="36" group="G1" fromX="2482" fromY="-2954" />
       <outputs name="Say that you hope so as well." ownerID="31" targetID="37" group="G1" fromX="2482" fromY="-3035" />
-      <outputs name="Say that you hope so as well." ownerID="31" targetID="32" group="G1" fromX="2482" fromY="-3115" />The captain is pleasantly taken aback by your advances and willingly lets you take charge. You spend a passionate hour together until the bored bandits start to complain loudly. 
-
-The captain turns to you.
-
-'Well, as promised, you're free to go... and, eh, maybe we'll meet again, soon?'</nodes>
+      <outputs name="Say that you hope so as well." ownerID="31" targetID="32" group="G1" fromX="2482" fromY="-3115" />O capitão fica agradavelmente surpreso com seus avanços e de bom grado permite que você assuma o comando. Vocês passam uma hora apaixonada juntos até que os bandidos entediados começam a reclamar alto. O capitão se volta para você. 'Bem, como prometido, você está livre para ir... e, eh, talvez nos encontremos novamente, em breve?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="2737" positionY="-2727" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -2953,9 +2807,7 @@ The captain turns to you.
         </ModifierBlock>
       </logic>
       <outputs name="Leave." ownerID="32" targetID="45" group="G1" fromX="3062" fromY="-3218" />
-      <outputs name="Leave." ownerID="32" targetID="33" group="G1" fromX="3062" fromY="-3298" />The captain nods, his face saddened.
-
-The bandits depart as promised, and you find a small gift left for you.</nodes>
+      <outputs name="Leave." ownerID="32" targetID="33" group="G1" fromX="3062" fromY="-3298" />O capitão acena com a cabeça, seu rosto triste. Os bandidos partem como prometido, e você encontra um pequeno presente deixado para você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="33" positionX="4041.46973" positionY="-2823.758" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="34" positionX="3306" positionY="-2656" width="350" height="725">
       <logic>
@@ -2976,13 +2828,11 @@ The bandits depart as promised, and you find a small gift left for you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave together." ownerID="34" targetID="33" fromX="3631" fromY="-3147" />You are about to part ways when the captain turns to you:
-
-'I cannot leave. You, you are like a ray of sunshine gleaming onto precious gems, making them even prettier, making everything better! I will stay by your side, so help me the gods.'
+      <outputs name="Leave together." ownerID="34" targetID="33" fromX="3631" fromY="-3147" />Você está prestes a se separar quando o capitão se vira para você: 'Não posso sair. Você, você é como um raio de sol brilhando em pedras preciosas, tornando-as ainda mais bonitas, tornando tudo melhor! Eu ficarei ao seu lado, então me ajudem os deuses.'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="2384" positionY="-1158" width="350" height="805">
       <outputs name="Allow the bandits to take some of your things." ownerID="35" targetID="24" fromX="2709" fromY="-1649" />
-      <outputs name="Attack!" ownerID="35" targetID="3" fromX="2709" fromY="-1729" />'You have the gift of the gab, I'll give you that, but I am not buying it, pretty. Shell out or take a beating.?</nodes>
+      <outputs name="Attack!" ownerID="35" targetID="3" fromX="2709" fromY="-1729" />— Você tem o dom da tagarelice, eu te dou isso, mas não vou comprar, linda. Descasque ou leve uma surra.?</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="3296" positionY="-3456" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -3003,9 +2853,7 @@ The bandits depart as promised, and you find a small gift left for you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Decline." ownerID="36" targetID="32" fromX="3621" fromY="-3947" />
-      <outputs name="Agree to the switch. Run into the captain's arms and walk off towards your new adventure." ownerID="36" targetID="38" fromX="3621" fromY="-4027" />You are about to part ways when the captain turns to you:
-
-'I just can't get you out my head, pretty. What say you to comin' with us? Can't offer much, but we'll have us some good fun and sharp eyes here, they always wanted to stay, settle down, so you'll get them to do that good work of yours, a swap, eh?'
+      <outputs name="Agree to the switch. Run into the captain's arms and walk off towards your new adventure." ownerID="36" targetID="38" fromX="3621" fromY="-4027" />Você está prestes a se separar quando o capitão se vira para você: 'Eu simplesmente não consigo tirar você da minha cabeça, linda. O que você diz para vir com a gente? Não posso oferecer muito, mas vamos ter uma boa diversão e olhos afiados aqui, eles sempre quiseram ficar, sossegar, então você vai conseguir que eles façam aquele seu bom trabalho, uma troca, hein?
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="2769" positionY="-3591" width="350" height="805">
       <logic>
@@ -3024,9 +2872,7 @@ The bandits depart as promised, and you find a small gift left for you.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Leave." ownerID="37" targetID="45" group="G1" fromX="3094" fromY="-4082" />
-      <outputs name="Leave. " ownerID="37" targetID="30" group="G1" fromX="3094" fromY="-4162" />The captain nods, his face saddened.
-
-The bandits depart as promised, and you find a small gift left for you, carried by a faithful dog.</nodes>
+      <outputs name="Leave. " ownerID="37" targetID="30" group="G1" fromX="3094" fromY="-4162" />O capitão acena com a cabeça, seu rosto triste. Os bandidos partem como prometido, e você encontra um pequeno presente deixado para você, carregado por um cão fiel.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="38" positionX="3877" positionY="-3394" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -3050,7 +2896,7 @@ The bandits depart as promised, and you find a small gift left for you, carried 
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="3763.25366" positionY="-1989.89575" width="350" height="805">
       <outputs name="Give away the stuff." ownerID="41" targetID="42" fromX="4089" fromY="-2481" />
-      <outputs name="Attack!" ownerID="41" targetID="3" fromX="4089" fromY="-2561" />'Sorry, mate, but you gotta pay up, or I gotta do my rough thing. We'll take some of those bags of yours now.'
+      <outputs name="Attack!" ownerID="41" targetID="3" fromX="4089" fromY="-2561" />'Desculpe, cara, mas você tem que pagar, ou eu tenho que fazer o meu trabalho duro. Vamos pegar algumas dessas suas sacolas agora.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="42" positionX="4218" positionY="-2278" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
@@ -3093,7 +2939,7 @@ The bandits depart as promised, and you find a small gift left for you, carried 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Celebrate." ownerID="45" targetID="46" fromX="4212" fromY="-4453" />You never did see your lover boy again, but some months later, as your child arrives, you realise that you will never forget the scoundrel.</nodes>
+      <outputs name="Celebrate." ownerID="45" targetID="46" fromX="4212" fromY="-4453" />Você nunca mais viu seu amante, mas alguns meses depois, quando seu filho chega, você percebe que nunca esquecerá o canalha.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="46" positionX="4371.413" positionY="-3666.74756" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -3104,7 +2950,7 @@ The bandits depart as promised, and you find a small gift left for you, carried 
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="47" positionX="4088" positionY="-1140" width="350" height="725">
-      <outputs name="Gather what you find." ownerID="47" targetID="12" group="G1" fromX="4413" fromY="-1631" />You kill the bandits and loot their bodies. </nodes>
+      <outputs name="Gather what you find." ownerID="47" targetID="12" group="G1" fromX="4413" fromY="-1631" />Você mata os bandidos e saqueia seus corpos. </nodes>
   </Adventure>
   <Adventure name="Bandits attack" uniqueID="9" allowToUse="false" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="5" nodeIdMax="10" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="902" image="Event016">
@@ -3162,9 +3008,7 @@ The bandits depart as promised, and you find a small gift left for you, carried 
         </FilterBlock>
       </logic>
       <outputs name="Say that the one who mated with the orc is not here." ownerID="2" targetID="3" fromX="761" fromY="-654" />
-      <outputs name="Acknowledge that it was you." ownerID="2" targetID="3" fromX="761" fromY="-734" />You see an orc female approaching with a child.
-
-'Ah you, the god followers. I come with a message from my sister, who bedded one of you several months ago.'
+      <outputs name="Acknowledge that it was you." ownerID="2" targetID="3" fromX="761" fromY="-734" />Você vê uma fêmea orc se aproximando com uma criança. 'Ah vocês, os seguidores de deuses. Venho com uma mensagem de minha irmã, que se deitou com um de vocês há vários meses.
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="909.589233" positionY="6.34161" width="350" height="885">
       <logic>
@@ -3176,15 +3020,11 @@ The bandits depart as promised, and you find a small gift left for you, carried 
       </logic>
       <outputs name="[Orc]Give the father blessing and ask what gender the child is." ownerID="3" targetID="7" group="G1" fromX="1235" fromY="-484" />
       <outputs name="[Orc]Give the father blessing and ask what gender the child is." ownerID="3" targetID="8" group="G1" fromX="1235" fromY="-565" />
-      <outputs name="Agree." ownerID="3" targetID="4" fromX="1235" fromY="-645" />'I do not care. My sister sent me to show you the pup. It is custom that the father or his kin should bless it.'
+      <outputs name="Agree." ownerID="3" targetID="4" fromX="1235" fromY="-645" />'Não me importo. A minha irmã mandou-me mostrar-te o cachorrinho. É costume que o pai ou seus parentes o abençoem.'
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1328.99524" positionY="56.2425766" width="350" height="805">
       <outputs name="Ask what happens now." ownerID="4" targetID="5" group="G1" fromX="1654" fromY="-434" />
-      <outputs name="Ask what happens now." ownerID="4" targetID="6" group="G1" fromX="1654" fromY="-515" />The orc shows you an orc child, grown far beyond what you'd expect from its age.
-
-You make the gesture of a blessing, as directed by the female. She nods:
-
-'Good.'
+      <outputs name="Ask what happens now." ownerID="4" targetID="6" group="G1" fromX="1654" fromY="-515" />O orc mostra uma criança orc, crescida muito além do que você esperaria de sua idade. Você faz o gesto de uma bênção, conforme indicado pela fêmea. Ela acena com a cabeça: 'Bom.'
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1734.14368" positionY="298.618835" width="350" height="805">
       <logic>
@@ -3195,11 +3035,7 @@ You make the gesture of a blessing, as directed by the female. She nods:
         </FilterBlock>
       </logic>
       <outputs name="Fire and steel." ownerID="5" targetID="14" group="G1" fromX="2059" fromY="-192" />
-      <outputs name="Fire and steel." ownerID="5" targetID="15" group="G1" fromX="2059" fromY="-272" />'Now you take the brat and do with it as you like. Its mongrel blood would have served well, but it looks too human and likely may turn out male.
-
-We have no use for such a pup.
-
-Fire and steel!'
+      <outputs name="Fire and steel." ownerID="5" targetID="15" group="G1" fromX="2059" fromY="-272" />— Agora você pega o pirralho e faz com ele como quiser. Seu sangue mestiço teria servido bem, mas parece muito humano e provavelmente pode se tornar um macho. Não temos utilidade para um filhote assim. Fogo e aço!
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1766.22266" positionY="-584.153564" width="350" height="805">
       <logic>
@@ -3210,11 +3046,7 @@ Fire and steel!'
         </ModifierBlock>
       </logic>
       <outputs name="Fire and steel." ownerID="6" targetID="11" fromX="2091" fromY="-1075" />
-      <outputs name="Object and fight for the child!" ownerID="6" targetID="10" fromX="2091" fromY="-1155" />'A mongrel child she may be, but she is a girl, so she will be a sister. Who knows, she may prove your blood proud one day.
-
-And for this, we bring you the father-price. It is custom. Take it.
-
-Fire and steel!'
+      <outputs name="Object and fight for the child!" ownerID="6" targetID="10" fromX="2091" fromY="-1155" />'Ela pode ser uma criança mestiça, mas ela é uma menina, então ela será uma irmã. Quem sabe, ela pode provar seu sangue orgulhoso um dia. E para isso, trazemos-lhe o preço-pai. É costume. Pegue. Fogo e aço!
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1327.80713" positionY="-809.8961" width="350" height="725">
       <logic>
@@ -3232,9 +3064,7 @@ Fire and steel!'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Nod in agreement, as is custom." ownerID="7" targetID="13" fromX="1653" fromY="-1301" />'Although it is strangely unclear still, the mongrel is most likely a boy, so you will take him now.'
-
-She hands you the child and walks off.
+      <outputs name="Nod in agreement, as is custom." ownerID="7" targetID="13" fromX="1653" fromY="-1301" />'Embora ainda esteja estranhamente claro, o vira-lata provavelmente é um menino, então você vai levá-lo agora.' Ela lhe entrega a criança e vai embora.
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="913.153748" positionY="-1123.55957" width="350" height="805">
       <logic>
@@ -3250,17 +3080,11 @@ She hands you the child and walks off.
         </ModifierBlock>
       </logic>
       <outputs name="Fire and steel." ownerID="8" targetID="11" fromX="1238" fromY="-1614" />
-      <outputs name="Object and fight for the child!" ownerID="8" targetID="10" fromX="1238" fromY="-1694" />'It is a strong girl. She will make her mother proud and thus the father's blood will bring honour to our clan.
-
-Take this father-price as a mark of a father's duty done well.
-
-Fire and steel!'
+      <outputs name="Object and fight for the child!" ownerID="8" targetID="10" fromX="1238" fromY="-1694" />'É uma garota forte. Ela deixará sua mãe orgulhosa e assim o sangue do pai trará honra ao nosso clã. Tome este preço paterno como uma marca do dever de um pai bem feito. Fogo e aço!
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="3500.87671" positionY="71.68806" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="10" positionX="1667.854" positionY="-1765.76318" width="350" height="725">
-      <outputs name="Let her go." ownerID="10" targetID="11" fromX="1993" fromY="-2256" />'Customs must be obeyed. You will risk the child's life in combat?'
-
-She gestures to the child she carries, showing no signs of cutting it down for combat.
+      <outputs name="Let her go." ownerID="10" targetID="11" fromX="1993" fromY="-2256" />'Os costumes devem ser obedecidos. Você vai arriscar a vida da criança em combate? Ela gesticula para a criança que carrega, não mostrando sinais de cortá-la para o combate.
     </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="11" positionX="2304.44043" positionY="-1610.688" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="11" targetID="12" fromX="2753" fromY="-2042" />
@@ -3336,9 +3160,7 @@ She gestures to the child she carries, showing no signs of cutting it down for c
       <outputs name="Bury the bodies out of respect first. " ownerID="2" targetID="10" group="G2" fromX="829" fromY="-922" />
       <outputs name="[Magic and Magic user] The unnatural forces binding these unliving are still weak. Try to break this bond and thus free their souls." ownerID="2" targetID="3" fromX="829" fromY="-1002" />
       <outputs name="Leave the bones be and continue searching for loot. " ownerID="2" targetID="42" group="G3" fromX="829" fromY="-1082" />
-      <outputs name="Leave this place." ownerID="2" targetID="17" fromX="829" fromY="-1162" />As you explore, you notice long-dead humanoid remains scattered all over the place. 
-
-They look larger than human, possibly orcish. </nodes>
+      <outputs name="Leave this place." ownerID="2" targetID="17" fromX="829" fromY="-1162" />À medida que você explora, você percebe restos humanóides mortos há muito tempo espalhados por todo o lugar. Eles parecem maiores que humanos, possivelmente orcs. </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="2018" positionY="-404" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-CORPSE_3P_2M_2S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -3375,7 +3197,7 @@ They look larger than human, possibly orcish. </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Search the ruins." ownerID="4" targetID="27" group="G1" fromX="3508" fromY="-1171" />
-      <outputs name="Search the ruins." ownerID="4" targetID="60" group="G1" fromX="3508" fromY="-1251" />The ritual works, and you free the unliving souls. </nodes>
+      <outputs name="Search the ruins." ownerID="4" targetID="60" group="G1" fromX="3508" fromY="-1251" />O ritual funciona, e você liberta as almas sem vida. </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1107.1106" positionY="380.999481" width="350" height="805" image="Event020">
       <logic>
         <FilterBlock>
@@ -3399,9 +3221,7 @@ They look larger than human, possibly orcish. </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Good. Continue checking the ruins for any usable loot." ownerID="5" targetID="21" group="G1" fromX="1432" fromY="-110" />
-      <outputs name="Good. Continue checking the ruins for any usable loot." ownerID="5" targetID="59" group="G1" fromX="1432" fromY="-190" />The funeral pyres burn high, and you utter the guttural charge command so the souls of the fallen may rise up in their final call to battle. 
-
-Your spirits are lifted as you feel the presence of the fallen now at peace. </nodes>
+      <outputs name="Good. Continue checking the ruins for any usable loot." ownerID="5" targetID="59" group="G1" fromX="1432" fromY="-190" />As piras funerárias queimam alto, e você pronuncia o comando de carga gutural para que as almas dos caídos possam se levantar em seu chamado final para a batalha. Seus espíritos são elevados ao sentir a presença dos caídos agora em paz. </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1589.5658" positionY="340.100342" width="350" height="805" image="Event020">
       <logic>
         <FilterBlock>
@@ -3414,7 +3234,7 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
         </FilterBlock>
       </logic>
       <outputs name="Good. Continue checking the ruins for any usable loot." ownerID="7" targetID="21" group="G1" fromX="1915" fromY="-151" />
-      <outputs name="Good. Continue checking the ruins for any usable loot." ownerID="7" targetID="59" group="G1" fromX="1915" fromY="-231" />The funeral pyres burn high, and you utter the guttural charge command so the souls of the fallen may rise up in their final call to battle. </nodes>
+      <outputs name="Good. Continue checking the ruins for any usable loot." ownerID="7" targetID="59" group="G1" fromX="1915" fromY="-231" />As piras funerárias queimam alto, e você pronuncia o comando de carga gutural para que as almas dos caídos possam se levantar em seu chamado final para a batalha. </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="-588.898" positionY="-574.9925" width="350" height="805" image="Event019">
       <logic>
         <FilterBlock>
@@ -3432,7 +3252,7 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
         </ModifierBlock>
       </logic>
       <outputs name="Continue searching the ruins. " ownerID="8" targetID="33" group="G1" fromX="-263" fromY="-1066" />
-      <outputs name="Continue to search for anything useful." ownerID="8" targetID="60" group="G1" fromX="-263" fromY="-1146" />You bury the bodies according to your custom, but alas, the air is heavy with the unrest of the spirits, and your own souls feel burdened by it. 
+      <outputs name="Continue to search for anything useful." ownerID="8" targetID="60" group="G1" fromX="-263" fromY="-1146" />Você enterra os corpos de acordo com seu costume, mas, infelizmente, o ar está pesado com a agitação dos espíritos, e suas próprias almas se sentem sobrecarregadas por isso. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1451.19836" positionY="-525.181335" width="350" height="966" image="Event012">
       <logic>
@@ -3445,10 +3265,10 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
       <outputs name="Fight!" ownerID="9" targetID="16" fromX="1776" fromY="-1016" />
       <outputs name="Run away!" ownerID="9" targetID="17" fromX="1776" fromY="-1096" />
       <outputs name="[Unliving]Speak to your unliving kin to calm their anger and offer aid." ownerID="9" targetID="12" fromX="1776" fromY="-1176" />
-      <outputs name="[Nature or Harmony] As nature and harmony sway your soul, use your domain to weaken these unliving before killing them for good!" ownerID="9" targetID="54" fromX="1776" fromY="-1256" />You bury the bodies according to your custom, but perhaps the fallen orcs did not like it, as they rise up to attack you!</nodes>
+      <outputs name="[Nature or Harmony] As nature and harmony sway your soul, use your domain to weaken these unliving before killing them for good!" ownerID="9" targetID="54" fromX="1776" fromY="-1256" />Você enterra os corpos de acordo com seu costume, mas talvez os orcs caídos não tenham gostado, pois eles se levantam para atacá-lo!</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="-46.1472359" positionY="-841.909668" width="350" height="805" image="Event019">
       <outputs name="Continue to search for anything useful." ownerID="10" targetID="33" group="G1" fromX="279" fromY="-1333" />
-      <outputs name="Continue to search for anything useful." ownerID="10" targetID="60" group="G1" fromX="279" fromY="-1413" />You bury the bodies according to your custom and no unliving rise to kill you, so you likely did well.</nodes>
+      <outputs name="Continue to search for anything useful." ownerID="10" targetID="60" group="G1" fromX="279" fromY="-1413" />Você enterra os corpos de acordo com o seu costume e nenhum morto-vivo se levanta para matá-lo, então você provavelmente se saiu bem.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="1553.3446" positionY="-1525.7207" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -3466,9 +3286,7 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
       <outputs name="Create a funeral pyre and lead the unliving to it, as is their wish." ownerID="12" targetID="55" fromX="1879" fromY="-2016" />
       <outputs name="[Nature or Harmony] As nature and harmony sway your soul, use your domain to weaken these unliving before killing them for good!" ownerID="12" targetID="56" group="G1" fromX="1879" fromY="-2097" />
       <outputs name="[Nature or Harmony] As nature and harmony sway your soul, use your domain to weaken these unliving before killing them for good!" ownerID="12" targetID="14" group="G1" fromX="1879" fromY="-2177" />
-      <outputs name="Just kill the unliving." ownerID="12" targetID="16" fromX="1879" fromY="-2257" />'We... we cannot rest. The dark pulls at us, keeps us here... fire, fire to our bones!'
-
-One of the unliving connects with your mind, and suddenly you know the proper orcish way to lay them to rest.</nodes>
+      <outputs name="Just kill the unliving." ownerID="12" targetID="16" fromX="1879" fromY="-2257" />— Nós... não podemos descansar. A escuridão nos puxa, nos mantém aqui... fogo, fogo até nossos ossos! Um dos mortos-vivos se conecta com sua mente e, de repente, você conhece a maneira correta dos orcs de colocá-los para descansar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="2010.97925" positionY="-2222.141" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -3489,7 +3307,7 @@ One of the unliving connects with your mind, and suddenly you know the proper or
         </ModifierBlock>
       </logic>
       <outputs name="Damn. Keep searching the ruins for loot." ownerID="14" targetID="27" group="G1" fromX="2336" fromY="-2713" />
-      <outputs name="Damn. Keep searching the ruins for loot." ownerID="14" targetID="63" group="G1" fromX="2336" fromY="-2793" />You defeat the unliving after they were weakened by your domain's intervention. However, it dawns on you that you had a peaceful way of resolving this, so your spirits suffer for this act of violence. </nodes>
+      <outputs name="Damn. Keep searching the ruins for loot." ownerID="14" targetID="63" group="G1" fromX="2336" fromY="-2793" />Você derrota os mortos-vivos depois que eles foram enfraquecidos pela intervenção do seu domínio. No entanto, você percebe que teve uma maneira pacífica de resolver isso, então seus espíritos sofrem por esse ato de violência. </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="2517" positionY="-1287" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -3502,7 +3320,7 @@ One of the unliving connects with your mind, and suddenly you know the proper or
         </ModifierBlock>
       </logic>
       <outputs name="Fight!" ownerID="15" targetID="16" fromX="2842" fromY="-1778" />
-      <outputs name="Run away." ownerID="15" targetID="17" fromX="2842" fromY="-1858" />Your efforts are futile and the unliving attack!</nodes>
+      <outputs name="Run away." ownerID="15" targetID="17" fromX="2842" fromY="-1858" />Seus esforços são inúteis e o ataque sem vida!</nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="2948.852" positionY="-1565.96875" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-ORC_SKELETON_3P_0M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="16" targetID="18" fromX="3389" fromY="-2061" />
       <outputs name="Lose" ownerID="16" targetID="19" fromX="3389" fromY="-2141" />
@@ -3511,9 +3329,9 @@ One of the unliving connects with your mind, and suddenly you know the proper or
     <nodes xsi:type="NodeAdventureEnd" ID="17" positionX="553.95166" positionY="-1558.30322" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="18" positionX="3608.67358" positionY="-1728.8877" width="350" height="805">
       <outputs name="Gather up what you can and leave." ownerID="18" targetID="26" group="G1" fromX="3934" fromY="-2220" />
-      <outputs name="Gather up what you can and leave." ownerID="18" targetID="61" group="G1" fromX="3934" fromY="-2300" />With the dead, well, dead again, you can now search the ruins in peace.</nodes>
+      <outputs name="Gather up what you can and leave." ownerID="18" targetID="61" group="G1" fromX="3934" fromY="-2300" />Com os mortos, bem, mortos de novo, agora você pode vasculhar as ruínas em paz.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2998.61133" positionY="-2566.032" width="350" height="725">
-      <outputs name="Run.&#xD;&#xA;" ownerID="19" targetID="62" fromX="3324" fromY="-3057" />The unliving overwhelm you and force you to run for your lives.</nodes>
+      <outputs name="Run.&#xD;&#xA;" ownerID="19" targetID="62" fromX="3324" fromY="-3057" />Os mortos-vivos o oprimem e o forçam a correr para salvar suas vidas.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="20" positionX="2601.79346" positionY="-708.003967" width="460" height="429" sourceGroup="GROUP-ORCS_4P_3M_1S" cargoPercentage="100" dropPercentage="100" targetGroup="ppl">
       <outputs ownerID="20" targetID="4" fromX="3032" fromY="-1066" />
     </nodes>
@@ -3542,9 +3360,7 @@ One of the unliving connects with your mind, and suddenly you know the proper or
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pound your chest in thanks and bid them farewell. Finish checking the ruins and leave." ownerID="21" targetID="59" fromX="2571" fromY="559" />As you search the old rubble, you hear the voice of a female orc:
-
-'We witnessed from afar your honourable deed, as expected from a sister, of course. Here, we found some loot that we cannot carry on the long road ahead. Take it and serve the gods well!'</nodes>
+      <outputs name="Pound your chest in thanks and bid them farewell. Finish checking the ruins and leave." ownerID="21" targetID="59" fromX="2571" fromY="559" />Enquanto você vasculha os velhos escombros, você ouve a voz de uma orc fêmea: 'Nós testemunhamos de longe seu ato honroso, como esperado de uma irmã, é claro. Aqui, encontramos alguns saques que não podemos carregar no longo caminho pela frente. Pegue e sirva bem aos deuses!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="22" positionX="3314.0293" positionY="586.775635" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -3596,9 +3412,7 @@ One of the unliving connects with your mind, and suddenly you know the proper or
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Thank them and depart." ownerID="26" targetID="59" fromX="4402" fromY="-1218" />As you are about to depart, you hear the roaring voice of an orc warrior bellowing at you:
-
-'You showed our warriors respect and did not let their defiled bodies walk as unliving scourges. Here, have this as our thanks.'</nodes>
+      <outputs name="Thank them and depart." ownerID="26" targetID="59" fromX="4402" fromY="-1218" />Quando você está prestes a partir, você ouve a voz rugindo de um guerreiro orc gritando para você: 'Você mostrou respeito aos nossos guerreiros e não deixou seus corpos contaminados andarem como flagelos inanimados. Aqui, tenha isto como nosso agradecimento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="1504.3291" positionY="-2913.01" width="350" height="725" image="Event143">
       <logic>
         <FilterBlock>
@@ -3615,9 +3429,7 @@ One of the unliving connects with your mind, and suddenly you know the proper or
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Gather up what you can and leave." ownerID="27" targetID="63" group="G1" fromX="1830" fromY="-3404" />As you are about to depart, you hear the roaring voice of an orc warrior bellowing at you:
-
-'You showed our warriors respect and did not let their defiled bodies walk as unliving scourges. Here, have this as our thanks.'</nodes>
+      <outputs name="Gather up what you can and leave." ownerID="27" targetID="63" group="G1" fromX="1830" fromY="-3404" />Quando você está prestes a partir, você ouve a voz rugindo de um guerreiro orc gritando para você: 'Você mostrou respeito aos nossos guerreiros e não deixou seus corpos contaminados andarem como flagelos inanimados. Aqui, tenha isto como nosso agradecimento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="-476.8266" positionY="-1517.80872" width="350" height="725" image="Event143">
       <logic>
         <FilterBlock>
@@ -3626,12 +3438,10 @@ One of the unliving connects with your mind, and suddenly you know the proper or
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Keep listening. Best not to further enrage an already angry orc." ownerID="33" targetID="43" fromX="-151" fromY="-2008" />Before you can take your treasure, you hear an orc warrior bellowing at you:
-
-'We claim this ruin as our turf, as marked by our fallen kin!'
+      <outputs name="Keep listening. Best not to further enrage an already angry orc." ownerID="33" targetID="43" fromX="-151" fromY="-2008" />Antes que você possa pegar seu tesouro, você ouve um guerreiro orc berrando para você: 'Reivindicamos esta ruína como nosso território, conforme marcado por nossos parentes caídos!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="-991.3109" positionY="-2350.2688" width="350" height="725">
-      <outputs name="Good. Take your loot and leave." ownerID="35" targetID="67" fromX="-665" fromY="-2841" />You help dig out the bodies and make proper funeral pyres in accordance with orc customs.</nodes>
+      <outputs name="Good. Take your loot and leave." ownerID="35" targetID="67" fromX="-665" fromY="-2841" />Você ajuda a desenterrar os corpos e fazer piras funerárias apropriadas de acordo com os costumes dos orcs.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="-1180.947" positionY="-1462.71777" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -3645,9 +3455,7 @@ One of the unliving connects with your mind, and suddenly you know the proper or
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Good. Take your loot and leave." ownerID="36" targetID="67" group="G1" fromX="-855" fromY="-1953" />You help dig out the bodies and make proper funeral pyres in accordance with orc customs.
-
-The orcs appreciate your aid and add some metals as reward before they bid you farewell.
+      <outputs name="Good. Take your loot and leave." ownerID="36" targetID="67" group="G1" fromX="-855" fromY="-1953" />Você ajuda a desenterrar os corpos e fazer piras funerárias apropriadas de acordo com os costumes dos orcs. The orcs appreciate your aid and add some metals as reward before they bid you farewell.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="37" positionX="-2207.62134" positionY="-1885.46851" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -3692,9 +3500,7 @@ The orcs appreciate your aid and add some metals as reward before they bid you f
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Wish them well too and leave." ownerID="39" targetID="66" fromX="-208" fromY="-3505" />The orc warrior growls, her sharp, exposed teeth glimmering at you, but then she laughs: 
-
-'Ha! You have a warrior heart and you respected our fallen. You may leave, and may your path be filled with good enemies and strong friends.'</nodes>
+      <outputs name="Wish them well too and leave." ownerID="39" targetID="66" fromX="-208" fromY="-3505" />A guerreira orc rosna, seus dentes afiados e expostos brilhando para você, mas então ela ri: 'Ha! Você tem um coração guerreiro e respeitou nossos caídos. Você pode partir, e que seu caminho esteja cheio de bons inimigos e amigos fortes.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="484.3113" positionY="-3846.658" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -3713,9 +3519,7 @@ The orcs appreciate your aid and add some metals as reward before they bid you f
         </ModifierBlock>
       </logic>
       <outputs name="Praise their honour and leave." ownerID="40" targetID="51" fromX="810" fromY="-4337" />
-      <outputs name="Leave." ownerID="40" targetID="65" fromX="810" fromY="-4418" />'You fought well for weakling fleshies. You have tits! Good.
-
-All this fighting got me hungry. Leave your food, leave the loot, and you're free to go.'</nodes>
+      <outputs name="Leave." ownerID="40" targetID="65" fromX="810" fromY="-4418" />— Você lutou bem por carnudos fracos. Você tem peitos! Bom. Toda essa luta me deixou com fome. Deixe sua comida, deixe o saque e você está livre para ir.</nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="620.22644" positionY="919.7574" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -3724,17 +3528,17 @@ All this fighting got me hungry. Leave your food, leave the loot, and you're fre
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Take the stuff and leave." ownerID="41" targetID="59" fromX="945" fromY="428" />Whoever these dead folks were, their killers took off with much of what was usable here, but you still see some salvageable resources and a few scattered weapons that may be good.</nodes>
+      <outputs name="Take the stuff and leave." ownerID="41" targetID="59" fromX="945" fromY="428" />Quem quer que fossem esses mortos, seus assassinos fugiram com muito do que era utilizável aqui, mas você ainda vê alguns recursos recuperáveis e algumas armas espalhadas que podem ser boas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="970.7794" positionY="-592.785645" width="350" height="966" image="Event012">
       <outputs name="Fight!" ownerID="42" targetID="16" fromX="1296" fromY="-1083" />
       <outputs name="Run away!" ownerID="42" targetID="17" fromX="1296" fromY="-1164" />
       <outputs name="[Unliving]Speak to your unliving kin to calm their anger and offer aid." ownerID="42" targetID="12" fromX="1296" fromY="-1244" />
-      <outputs name="[Nature or Harmony] As nature and harmony sway your soul, use your domain to weaken these unliving before killing them for good!" ownerID="42" targetID="54" fromX="1296" fromY="-1324" />You gather up what little is left in the ruins, but you hear footsteps behind you and see some of the unliving rising!</nodes>
+      <outputs name="[Nature or Harmony] As nature and harmony sway your soul, use your domain to weaken these unliving before killing them for good!" ownerID="42" targetID="54" fromX="1296" fromY="-1324" />Você recolhe o pouco que resta nas ruínas, mas ouve passos atrás de você e vê alguns dos mortos-vivos subindo!</nodes>
     <nodes xsi:type="NodeAdventure" ID="43" positionX="100.733124" positionY="-1670.253" width="350" height="966">
       <outputs name="Agree to help with the bodies. " ownerID="43" targetID="36" group="G1" fromX="426" fromY="-2161" />
       <outputs name="Agree to help with the bodies. " ownerID="43" targetID="35" group="G1" fromX="426" fromY="-2241" />
       <outputs name="[Turmoil] As turmoil is your path, stand firm and say you will not yield to their demands. The loot is yours, and if they think otherwise, they can fight you for it." ownerID="43" targetID="39" group="G2" fromX="426" fromY="-2321" />
-      <outputs name="[Turmoil] As turmoil is your path, stand firm and say you will not yield to their demands. The loot is yours, and if they think otherwise, they can fight you for it." ownerID="43" targetID="44" group="G2" fromX="426" fromY="-2402" />'But I tell you what, you showed respect to the dead, even though you buried them instead of burnin'... So help us dig them out and make funeral pyres and you can keep half of the loot.'</nodes>
+      <outputs name="[Turmoil] As turmoil is your path, stand firm and say you will not yield to their demands. The loot is yours, and if they think otherwise, they can fight you for it." ownerID="43" targetID="44" group="G2" fromX="426" fromY="-2402" />— Mas vou lhe dizer uma coisa, você mostrou respeito pelos mortos, embora os enterrasse em vez de queimá-los... Então, ajude-nos a desenterrá-los e fazer piras funerárias e você pode ficar com metade do saque.</nodes>
     <nodes xsi:type="NodeChallenge" ID="44" positionX="-54.8923531" positionY="-2853.586" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-ORCS_4P_3M_1S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -3755,12 +3559,10 @@ All this fighting got me hungry. Leave your food, leave the loot, and you're fre
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="45" targetID="65" fromX="336" fromY="-4114" />'So you surrender... weak, cowardly, and you claim to follow the path of turmoil, do you? Pathetic.'
-
-The warrior spits in your face and her men kick you out of the ruins, taking away your loot but, surprisingly, not your equipment.</nodes>
+      <outputs name="Leave." ownerID="45" targetID="65" fromX="336" fromY="-4114" />— Então você se rende... fraco, covarde, e afirma seguir o caminho da turbulência, não é? Patético.' A guerreira cospe em seu rosto e seus homens o expulsam das ruínas, tirando seu saque, mas, surpreendentemente, não seu equipamento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="46" positionX="508.832123" positionY="-2875.072" width="350" height="805">
       <outputs name="Kill them all and take their stuff." ownerID="46" targetID="68" fromX="834" fromY="-3366" />
-      <outputs name="Take only the loot you found in the ruins, and leave the orcs be.&#xD;" ownerID="46" targetID="48" fromX="834" fromY="-3446" />'Ah, true warriors, good! Do with us as you will. We yield to your swords!'</nodes>
+      <outputs name="Take only the loot you found in the ruins, and leave the orcs be.&#xD;" ownerID="46" targetID="48" fromX="834" fromY="-3446" />'Ah, verdadeiros guerreiros, que bom! Faça conosco como quiser. Nós cedemos às suas espadas!'</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="47" positionX="1552" positionY="-3673" width="460" height="429" sourceGroup="GROUP-ORCS_4P_3M_1S" cargoPercentage="100" targetGroup="ppl">
       <logic>
         <ModifierBlock>
@@ -3882,9 +3684,7 @@ The warrior spits in your face and her men kick you out of the ruins, taking awa
         </ModifierBlock>
       </logic>
       <outputs name="Good. Continue checking the ruins for any usable loot." ownerID="55" targetID="21" group="G1" fromX="2287" fromY="-1727" />
-      <outputs name="Good. Continue checking the ruins for any usable loot." ownerID="55" targetID="60" group="G1" fromX="2287" fromY="-1807" />The funeral pyres burn high, and you utter the guttural charge command so the souls of the fallen may rise up in their final call to battle. 
-
-Your spirits are lifted as you feel the presence of the fallen now at peace. </nodes>
+      <outputs name="Good. Continue checking the ruins for any usable loot." ownerID="55" targetID="60" group="G1" fromX="2287" fromY="-1807" />As piras funerárias queimam alto, e você pronuncia o comando de carga gutural para que as almas dos caídos possam se levantar em seu chamado final para a batalha. Seus espíritos são elevados ao sentir a presença dos caídos agora em paz. </nodes>
     <nodes xsi:type="NodeChallenge" ID="56" positionX="1017.79333" positionY="-1737.81763" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-UNLI_MIX_2P_1M_1S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -3992,7 +3792,7 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
       <outputs name="[Intellect]Observe them and find an advantage." ownerID="2" targetID="14" fromX="-1021" fromY="-67" />
       <outputs name="[Light]In the name of justice, smite them now!" ownerID="2" targetID="24" group="G1" fromX="-1021" fromY="-147" />
       <outputs name="[Nature and magic]Take time to investigate. Perhaps you will find an angle here." ownerID="2" targetID="23" fromX="-1021" fromY="-227" />
-      <outputs name="Come back later." ownerID="2" targetID="21" fromX="-1021" fromY="-308" />You track down the scoundrels who absconded with your kin!</nodes>
+      <outputs name="Come back later." ownerID="2" targetID="21" fromX="-1021" fromY="-308" />Você rastreia os canalhas que fugiram com seus parentes!</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="802.959" positionY="1179.30164" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-BANDITS_4P_3M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="4" fromX="1244" fromY="683" />
       <outputs name="Lose" ownerID="3" targetID="7" fromX="1244" fromY="603" />
@@ -4018,13 +3818,13 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="4" targetID="5" fromX="1831" fromY="439" />You kill the scum and rescue your kin, along with any other loot they may have had.</nodes>
+      <outputs name="Leave." ownerID="4" targetID="5" fromX="1831" fromY="439" />Você mata a escória e resgata seus parentes, junto com qualquer outro saque que eles possam ter.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="5" positionX="1955.13379" positionY="712.0842" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="5" targetID="6" fromX="2403" fromY="280" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2469" positionY="750" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1561.86633" positionY="91.88619" width="350" height="725">
-      <outputs name="Leave." ownerID="7" targetID="10" fromX="1887" fromY="-399" />You are badly beaten and forced to flee. Your kidnapped folk is lost for good.</nodes>
+      <outputs name="Leave." ownerID="7" targetID="10" fromX="1887" fromY="-399" />Você é espancado e forçado a fugir. Seu povo sequestrado está perdido para sempre.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="8" positionX="2657.312" positionY="160.797058" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="8" targetID="9" fromX="3105" fromY="-271" />
     </nodes>
@@ -4039,7 +3839,7 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="1475.13379" positionY="-649.4999" width="350" height="805">
       <outputs name="Leave." ownerID="12" targetID="10" fromX="1800" fromY="-1140" />
-      <outputs name="Attack!" ownerID="12" targetID="3" fromX="1800" fromY="-1220" />'Bah, stop yammering about your bloody gods already. Leave or die!'</nodes>
+      <outputs name="Attack!" ownerID="12" targetID="3" fromX="1800" fromY="-1220" />'Bah, pare de reclamar sobre seus malditos deuses já. Parta ou morra!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="2251.03687" positionY="-638.267456" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -4054,7 +3854,7 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="13" targetID="5" fromX="2576" fromY="-1129" />'Bah, stop yammering about your bloody gods already. Fine, have the pretty face back. Just go!'
+      <outputs name="Leave." ownerID="13" targetID="5" fromX="2576" fromY="-1129" />'Bah, pare de reclamar sobre seus malditos deuses já. Tudo bem, tenha o rostinho bonito de volta. Apenas vá!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="-295.5046" positionY="-1466.953" width="350" height="1082">
       <logic>
@@ -4069,7 +3869,7 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
       <outputs name="You do not have enough gold to make deals. Attack!" ownerID="14" targetID="3" fromX="30" fromY="-2074" />
       <outputs name="[Harmony]Speak to them, as peace is always preferable." ownerID="14" targetID="11" fromX="30" fromY="-2154" />
       <outputs name="Come back later." ownerID="14" targetID="21" fromX="30" fromY="-2234" />
-      <outputs name="[Bandit]Approach them as a friend and offer to trade food for the child." ownerID="14" targetID="22" fromX="30" fromY="-2315" />You watch their camp, note their patterns, and overhear that they are searching for metals, especially gold. They might be open to trading.</nodes>
+      <outputs name="[Bandit]Approach them as a friend and offer to trade food for the child." ownerID="14" targetID="22" fromX="30" fromY="-2315" />Você observa o acampamento deles, observa seus padroes e ouve que eles estão procurando por metais, especialmente ouro. Eles podem estar abertos à negociação.</nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="1403.84668" positionY="-1590.24414" width="500" height="689" challengeType="TypeMental" versusGroup="GROUP-BANDITS_3P_3M_1S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -4091,7 +3891,7 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
         </ModifierBlock>
       </logic>
       <outputs name="Agree to the trade." ownerID="16" targetID="17" fromX="2310" fromY="-1862" />
-      <outputs name="Attack instead!" ownerID="16" targetID="3" fromX="2310" fromY="-1942" />'Bah, you're a clever one, ain't ya? Fine, we do like gold, and we'd rather not get into a scrap if we can avoid it.'
+      <outputs name="Attack instead!" ownerID="16" targetID="3" fromX="2310" fromY="-1942" />— Bah, você é inteligente, não é? Tudo bem, nós gostamos de ouro, e preferimos não entrar em uma briga se pudermos evitá-lo.
 </nodes>
     <nodes xsi:type="NodeTrade" ID="17" positionX="2407.30225" positionY="-1405.826" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="food" startingBalance="-20">
       <outputs name="Confirm" ownerID="17" targetID="19" fromX="2837" fromY="-1734" />
@@ -4105,7 +3905,7 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leave." ownerID="19" targetID="5" fromX="3317" fromY="-1681" />The bandits do as they promised and give your kin back.
+      <outputs name="Leave." ownerID="19" targetID="5" fromX="3317" fromY="-1681" />Os bandidos fazem o que prometeram e devolvem seus parentes.
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="20" positionX="93" positionY="1019" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-BANDITS_3P_3M_1S" challengeScale="101" challengedList="ppl">
       <logic>
@@ -4140,7 +3940,7 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
         </ModifierBlock>
       </logic>
       <outputs name="Agree to the trade." ownerID="22" targetID="17" fromX="2331" fromY="-2604" />
-      <outputs name="Attack instead!" ownerID="22" targetID="3" fromX="2331" fromY="-2685" />'Bah, you're a clever one, ain't ya? Fine, we do like gold, and we'd rather not get into a scrap if we can avoid it.'
+      <outputs name="Attack instead!" ownerID="22" targetID="3" fromX="2331" fromY="-2685" />— Bah, você é inteligente, não é? Tudo bem, nós gostamos de ouro, e preferimos não entrar em uma briga se pudermos evitá-lo.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="257.8106" positionY="-912.8184" width="350" height="1126">
       <logic>
@@ -4158,7 +3958,7 @@ Your spirits are lifted as you feel the presence of the fallen now at peace. </n
       <outputs name="You do not have enough food to make deals. Attack!" ownerID="23" targetID="3" fromX="583" fromY="-1564" />
       <outputs name="[Harmony]Speak to them, as peace is always preferable." ownerID="23" targetID="11" fromX="583" fromY="-1644" />
       <outputs name="Come back later." ownerID="23" targetID="21" fromX="583" fromY="-1724" />
-      <outputs name="[Bandit]Approach them as a friend and offer to trade food for the child." ownerID="23" targetID="22" fromX="583" fromY="-1804" />You watch their camp, note their patterns, and notice they are looking rather worse for wear when it comes to food and drink. They might be open to trading.</nodes>
+      <outputs name="[Bandit]Approach them as a friend and offer to trade food for the child." ownerID="23" targetID="22" fromX="583" fromY="-1804" />Você observa o acampamento deles, observa seus padroes e percebe que eles estão parecendo um pouco piores quando se trata de comida e bebida. Eles podem estar abertos à negociação.</nodes>
     <nodes xsi:type="NodeChallenge" ID="24" positionX="-663.937561" positionY="1549.64648" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-BANDITS_4P_3M_1S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>

@@ -519,11 +519,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="766" fromY="-632" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="766" fromY="-712" />Elves are notoriously elitist in their choice of mates but it seems a person of beauty has caught one's eye. 
-
-Elven children are born out of a mystical bond, and it seems two of your own folk have enjoyed such a connection. 
-
-The effects of such a union can vary, but a child soon arrives.</nodes>
+      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="766" fromY="-712" />Elfos são notoriamente elitistas em sua escolha de companheiros, mas parece que uma pessoa de beleza chamou a atenção. As crianças élficas nascem de um vínculo místico, e parece que dois de seu próprio povo desfrutaram de tal conexão. Os efeitos de tal união podem variar, mas um filho logo chega.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="999" positionY="-45" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -911,7 +907,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Leve-os para dentro." ownerID="5" targetID="6" fromX="1366" fromY="-171" />Contrary to all known lore and dwarven custom, a dwarf child, grown beyond the rock infancy, comes along and you know it is yours.</nodes>
+      <outputs name="Leve-os para dentro." ownerID="5" targetID="6" fromX="1366" fromY="-171" />Ao contrário de todos os costumes conhecidos e costumes anoes, uma criança anã, crescida além da infância do rock, aparece e você sabe que é sua.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1906" positionY="-264" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -929,7 +925,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Leve-a para dentro." ownerID="7" targetID="3" fromX="1779" fromY="-519" />Rusalkas are known to lure males and thus procreate, yet it is so very rare to happen with non-humans. Still, the fates bless you and a young rusalka, you daughter, appears from the lake.</nodes>
+      <outputs name="Leve-a para dentro." ownerID="7" targetID="3" fromX="1779" fromY="-519" />Rusalkas são conhecidas por atrair machos e, portanto, procriar, mas é muito raro acontecer com não-humanos. Ainda assim, o destino te abençoa e uma jovem rusalka, sua filha, aparece do lago.</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="889" positionY="-419" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -938,7 +934,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Leve-o para dentro." ownerID="8" targetID="9" fromX="1214" fromY="-910" />Rusalkas are known to lure males and thus procreate, yet it is so very rare to happen with non-humans. Still, the fates bless you and a young befuddler, your son and a male spawn of the rusalka comes out of the lake.</nodes>
+      <outputs name="Leve-o para dentro." ownerID="8" targetID="9" fromX="1214" fromY="-910" />Rusalkas são conhecidas por atrair machos e, portanto, procriar, mas é muito raro acontecer com não-humanos. Ainda assim, o destino o abençoe e um jovem confuso, seu filho e um macho da rusalka saem do lago.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="1518" positionY="-798" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1022,7 +1018,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="743" fromY="-614" />A couple of your folk found themselves a child in the cabbage patch!
+      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="743" fromY="-614" />Alguns de seu povo encontraram uma criança no canteiro de repolhos!
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="819" positionY="-270" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
@@ -1082,7 +1078,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-616" />
-      <outputs name="Alegrar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-696" />A couple of your folk found themselves a child in the cabbage patch!
+      <outputs name="Alegrar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-696" />Alguns de seu povo encontraram uma criança no canteiro de repolhos!
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="971" positionY="143" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -1803,9 +1799,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
       <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-578" />
       <outputs name="Alegrar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-658" />
       <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="772" fromY="-738" />
-      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.
-
- </nodes>
+      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="914" positionY="95" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1956,7 +1950,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Aguarde os resultados." ownerID="6" targetID="3" fromX="1679" fromY="-239" />Despite being away from your kin, your instincts proved strong. Your life-rock flourishes into a child.</nodes>
+      <outputs name="Aguarde os resultados." ownerID="6" targetID="3" fromX="1679" fromY="-239" />Apesar de estar longe de seus parentes, seus instintos se mostraram fortes. Sua rocha da vida floresce em uma criança.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1361" positionY="-513" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1977,7 +1971,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Aguarde os resultados." ownerID="7" targetID="3" fromX="1686" fromY="-1004" />You have been away from your kind too long and your life-song could not awaken a dwarven soul. Instead, a young rocker comes to life. 
+      <outputs name="Aguarde os resultados." ownerID="7" targetID="3" fromX="1686" fromY="-1004" />Você esteve longe de sua espécie por muito tempo e sua canção de vida não poderia despertar uma alma anã. Em vez disso, um jovem roqueiro ganha vida. 
  </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="8" positionX="768" positionY="-810" width="460" height="429">
       <logic>
@@ -2065,9 +2059,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
       <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-578" />
       <outputs name="Alegrar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-658" />
       <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="772" fromY="-738" />
-      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.
-
- </nodes>
+      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="914" positionY="95" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -2177,7 +2169,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="743" fromY="-614" />A couple of your folk found  a child in the cabbage patch!
+      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="743" fromY="-614" />Alguns de seu povo encontraram uma criança no canteiro de repolhos!
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="819" positionY="-270" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
@@ -2256,9 +2248,7 @@ The effects of such a union can vary, but a child soon arrives.</nodes>
       <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-578" />
       <outputs name="Alegrar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-658" />
       <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="772" fromY="-738" />
-      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.
-
- </nodes>
+      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="914" positionY="95" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>

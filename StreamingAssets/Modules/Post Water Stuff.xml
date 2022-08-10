@@ -12,13 +12,7 @@
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-735" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="460" positionY="-212" width="350" height="725">
-      <outputs name="Tome nota da localização." ownerID="2" targetID="3" fromX="785" fromY="-703" />You receive a mysterious letter:
-
-'You have defeated the great Gosk, or you were wise enough not to do so.
-
-Either way, you have achieved your peak as chosen. But, if you wish to face some more outrageous challenges, come find the Sea Mirrors. Within those magical pockets, you will discover the echoes of great enemies, summoned for one purpose only - to fight.
-
-Yours truly, the maker...'</nodes>
+      <outputs name="Tome nota da localização." ownerID="2" targetID="3" fromX="785" fromY="-703" />Você recebe uma carta misteriosa: 'Você derrotou o grande Gosk, ou você foi sábio o suficiente para não fazê-lo. De qualquer forma, você atingiu seu pico como escolhido. Mas, se você deseja enfrentar alguns desafios mais escandalosos, venha encontrar os Espelhos do Mar. Dentro desses bolsos mágicos, você descobrirá os ecos de grandes inimigos, convocados para um único propósito - lutar. Atenciosamente, o criador...'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="3" positionX="923" positionY="-487" width="480" height="503" radius="11" settlementID="SET-WATER_WHIRLPOOL" destroyOwner="false" linkedEventUniqueID="134">
       <outputs ownerID="3" targetID="4" fromX="1371" fromY="-919" />
     </nodes>
@@ -45,7 +39,7 @@ Yours truly, the maker...'</nodes>
       <outputs name="Entre e ataque!" ownerID="2" targetID="3" fromX="756" fromY="-775" />
       <outputs name="Entre e ataque!" ownerID="2" targetID="9" fromX="756" fromY="-855" />
       <outputs name="[Magic user] Entre e ataque!" ownerID="2" targetID="10" fromX="756" fromY="-935" />
-      <outputs name="Sair." ownerID="2" targetID="14" fromX="756" fromY="-1015" />You arrive at one of the Sea Mirrors and you see before you several water portals. On the other side, you see the echoes of epic enemies waiting to fight you. </nodes>
+      <outputs name="Sair." ownerID="2" targetID="14" fromX="756" fromY="-1015" />Você chega a um dos Espelhos do Mar e vê diante de você vários portais de água. Do outro lado, você vê os ecos de inimigos épicos esperando para lutar contra você. </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="890" positionY="-62" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_RIDICULOUS_AEGIR_JURASMAT_19P_19M_19S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="4" fromX="1331" fromY="-557" />
       <outputs name="Lose" ownerID="3" targetID="7" fromX="1331" fromY="-637" />
@@ -59,7 +53,7 @@ Yours truly, the maker...'</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="4" targetID="6" fromX="1808" fromY="-451" />You defeated the epic enemy.</nodes>
+      <outputs name="Sair." ownerID="4" targetID="6" fromX="1808" fromY="-451" />Você derrotou o inimigo épico.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2466" positionY="347" width="350" height="530" allPlayersXP="10" allPlayersRP="10" logBookName="QUEST_SEAARENA1" logBookDescription="QUEST_SEAARENA1_DES" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -87,7 +81,7 @@ Yours truly, the maker...'</nodes>
       <outputs ownerID="6" targetID="13" group="G1" fromX="2357" fromY="-453" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1939" positionY="-609" width="350" height="725">
-      <outputs name="Sair." ownerID="7" targetID="8" fromX="2264" fromY="-1100" />You were defeated and forced to flee.</nodes>
+      <outputs name="Sair." ownerID="7" targetID="8" fromX="2264" fromY="-1100" />Você foi derrotado e forçado a fugir.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2341" positionY="-658" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_SEAARENA1" logBookDescription="QUEST_SEAARENA1_DES2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="9" positionX="891" positionY="-833" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-Q_RIDICULOUS_AEGIR_JURASMAT_19P_19M_19S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="9" targetID="16" fromX="1332" fromY="-1328" />
@@ -207,7 +201,7 @@ Yours truly, the maker...'</nodes>
       <outputs name="Entre e ataque!" ownerID="2" targetID="3" fromX="756" fromY="-775" />
       <outputs name="Entre e ataque!" ownerID="2" targetID="9" fromX="756" fromY="-855" />
       <outputs name="[Magic user] Entre e ataque!" ownerID="2" targetID="10" fromX="756" fromY="-935" />
-      <outputs name="Sair." ownerID="2" targetID="15" fromX="756" fromY="-1015" />You arrive at one of the Sea Mirrors and you see before you several water portals. On the other side, you see the echoes of epic enemies waiting to fight you. </nodes>
+      <outputs name="Sair." ownerID="2" targetID="15" fromX="756" fromY="-1015" />Você chega a um dos Espelhos do Mar e vê diante de você vários portais de água. Do outro lado, você vê os ecos de inimigos épicos esperando para lutar contra você. </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="894" positionY="-90" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_RIDICULOUS_AEGIR_JURASMAT_20P_20M_20S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="4" fromX="1335" fromY="-585" />
       <outputs name="Lose" ownerID="3" targetID="7" fromX="1335" fromY="-665" />
@@ -221,7 +215,7 @@ Yours truly, the maker...'</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="4" targetID="6" fromX="1808" fromY="-451" />You defeated the epic enemy.</nodes>
+      <outputs name="Sair." ownerID="4" targetID="6" fromX="1808" fromY="-451" />Você derrotou o inimigo épico.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2806" positionY="484" width="350" height="530" allPlayersXP="10" allPlayersRP="10" logBookName="QUEST_SEAARENA1" logBookDescription="QUEST_SEAARENA1_DES" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -249,7 +243,7 @@ Yours truly, the maker...'</nodes>
       <outputs ownerID="6" targetID="13" group="G1" fromX="2745" fromY="-205" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1939" positionY="-609" width="350" height="725">
-      <outputs name="Sair." ownerID="7" targetID="8" fromX="2264" fromY="-1100" />You were defeated and forced to flee.</nodes>
+      <outputs name="Sair." ownerID="7" targetID="8" fromX="2264" fromY="-1100" />Você foi derrotado e forçado a fugir.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2341" positionY="-658" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_SEAARENA1" logBookDescription="QUEST_SEAARENA1_DES2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="9" positionX="900" positionY="-840" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-Q_RIDICULOUS_AEGIR_JURASMAT_20P_20M_20S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="9" targetID="16" fromX="1341" fromY="-1335" />
@@ -369,7 +363,7 @@ Yours truly, the maker...'</nodes>
       <outputs name="Entre e ataque!" ownerID="2" targetID="3" fromX="756" fromY="-775" />
       <outputs name="Entre e ataque!" ownerID="2" targetID="9" fromX="756" fromY="-855" />
       <outputs name="[Magic user] Entre e ataque!" ownerID="2" targetID="10" fromX="756" fromY="-935" />
-      <outputs name="Sair." ownerID="2" targetID="16" fromX="756" fromY="-1015" />You arrive at one of the Sea Mirrors and you see before you several water portals. On the other side, you see the echoes of epic enemies waiting to fight you. </nodes>
+      <outputs name="Sair." ownerID="2" targetID="16" fromX="756" fromY="-1015" />Você chega a um dos Espelhos do Mar e vê diante de você vários portais de água. Do outro lado, você vê os ecos de inimigos épicos esperando para lutar contra você. </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="894" positionY="-90" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_RIDICULOUS_JURASMAT_ONLY_18P_18M_18S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="4" fromX="1335" fromY="-585" />
       <outputs name="Lose" ownerID="3" targetID="7" fromX="1335" fromY="-665" />
@@ -383,7 +377,7 @@ Yours truly, the maker...'</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="4" targetID="6" fromX="1808" fromY="-451" />You defeated the epic enemy.</nodes>
+      <outputs name="Sair." ownerID="4" targetID="6" fromX="1808" fromY="-451" />Você derrotou o inimigo épico.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2806" positionY="484" width="350" height="530" allPlayersXP="10" allPlayersRP="10" logBookName="QUEST_SEAARENA1" logBookDescription="QUEST_SEAARENA1_DES" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -411,7 +405,7 @@ Yours truly, the maker...'</nodes>
       <outputs ownerID="6" targetID="13" group="G1" fromX="2745" fromY="-205" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1939" positionY="-609" width="350" height="725">
-      <outputs name="Sair." ownerID="7" targetID="8" fromX="2264" fromY="-1100" />You were defeated and forced to flee.</nodes>
+      <outputs name="Sair." ownerID="7" targetID="8" fromX="2264" fromY="-1100" />Você foi derrotado e forçado a fugir.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2341" positionY="-658" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_SEAARENA1" logBookDescription="QUEST_SEAARENA1_DES2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="9" positionX="900" positionY="-840" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-Q_RIDICULOUS_JURASMAT_ONLY_18P_18M_18S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="9" targetID="17" fromX="1341" fromY="-1335" />
@@ -534,14 +528,14 @@ Yours truly, the maker...'</nodes>
       <outputs name="Entre e ataque!" ownerID="2" targetID="3" fromX="756" fromY="-775" />
       <outputs name="Entre e ataque!" ownerID="2" targetID="9" fromX="756" fromY="-855" />
       <outputs name="[Magic user] Entre e ataque!" ownerID="2" targetID="10" fromX="756" fromY="-935" />
-      <outputs name="Sair." ownerID="2" targetID="17" fromX="756" fromY="-1015" />You arrive at one of the Sea Mirrors and you see before you several water portals. On the other side, you see the echoes of epic enemies waiting to fight you. </nodes>
+      <outputs name="Sair." ownerID="2" targetID="17" fromX="756" fromY="-1015" />Você chega a um dos Espelhos do Mar e vê diante de você vários portais de água. Do outro lado, você vê os ecos de inimigos épicos esperando para lutar contra você. </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="894" positionY="-90" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_RIDICULOUS_LIGHT_BEAST_16P_16M_16S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="4" fromX="1335" fromY="-585" />
       <outputs name="Lose" ownerID="3" targetID="7" fromX="1335" fromY="-665" />
       <outputs name="Surrender" ownerID="3" targetID="7" fromX="1335" fromY="-745" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1483" positionY="40" width="350" height="725">
-      <outputs name="Sair." ownerID="4" targetID="14" fromX="1808" fromY="-451" />You defeated the epic enemy.</nodes>
+      <outputs name="Sair." ownerID="4" targetID="14" fromX="1808" fromY="-451" />Você derrotou o inimigo épico.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2806" positionY="484" width="350" height="530" allPlayersXP="10" allPlayersRP="10" logBookName="QUEST_SEAARENA1" logBookDescription="QUEST_SEAARENA1_DES" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -569,7 +563,7 @@ Yours truly, the maker...'</nodes>
       <outputs ownerID="6" targetID="13" group="G1" fromX="2745" fromY="-205" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1939" positionY="-609" width="350" height="725">
-      <outputs name="Sair." ownerID="7" targetID="8" fromX="2264" fromY="-1100" />You were defeated and forced to flee.</nodes>
+      <outputs name="Sair." ownerID="7" targetID="8" fromX="2264" fromY="-1100" />Você foi derrotado e forçado a fugir.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2341" positionY="-658" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_SEAARENA1" logBookDescription="QUEST_SEAARENA1_DES2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="9" positionX="900" positionY="-840" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-Q_RIDICULOUS_LIGHT_BEAST_16P_16M_16S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="9" targetID="16" fromX="1341" fromY="-1335" />
@@ -692,14 +686,14 @@ Yours truly, the maker...'</nodes>
       <outputs name="Entre e ataque!" ownerID="2" targetID="3" fromX="756" fromY="-775" />
       <outputs name="Entre e ataque!" ownerID="2" targetID="9" fromX="756" fromY="-855" />
       <outputs name="Entre e ataque!" ownerID="2" targetID="10" fromX="756" fromY="-935" />
-      <outputs name="Sair." ownerID="2" targetID="15" fromX="756" fromY="-1015" />You arrive at one of the Sea Mirrors and you see before you several water portals. On the other side, you see the echoes of epic enemies waiting to fight you. </nodes>
+      <outputs name="Sair." ownerID="2" targetID="15" fromX="756" fromY="-1015" />Você chega a um dos Espelhos do Mar e vê diante de você vários portais de água. Do outro lado, você vê os ecos de inimigos épicos esperando para lutar contra você. </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="894" positionY="-90" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_RIDICULOUS_TROLLS_16P_16M_16S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="4" fromX="1335" fromY="-585" />
       <outputs name="Lose" ownerID="3" targetID="7" fromX="1335" fromY="-665" />
       <outputs name="Surrender" ownerID="3" targetID="7" fromX="1335" fromY="-745" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1483" positionY="40" width="350" height="725">
-      <outputs name="Sair." ownerID="4" targetID="6" fromX="1808" fromY="-451" />You defeated the epic enemy.</nodes>
+      <outputs name="Sair." ownerID="4" targetID="6" fromX="1808" fromY="-451" />Você derrotou o inimigo épico.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2806" positionY="484" width="350" height="530" allPlayersXP="10" allPlayersRP="10" logBookName="QUEST_SEAARENA1" logBookDescription="QUEST_SEAARENA1_DES" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -727,7 +721,7 @@ Yours truly, the maker...'</nodes>
       <outputs ownerID="6" targetID="13" group="G1" fromX="2745" fromY="-205" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1939" positionY="-609" width="350" height="725">
-      <outputs name="Sair." ownerID="7" targetID="8" fromX="2264" fromY="-1100" />You were defeated and forced to flee.</nodes>
+      <outputs name="Sair." ownerID="7" targetID="8" fromX="2264" fromY="-1100" />Você foi derrotado e forçado a fugir.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2341" positionY="-658" width="350" height="530" logBookName="QUEST_SEAARENA1" logBookDescription="QUEST_SEAARENA1_DES2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="9" positionX="900" positionY="-840" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-Q_RIDICULOUS_TROLLS_16P_16M_16S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="9" targetID="16" fromX="1341" fromY="-1335" />
@@ -890,21 +884,11 @@ Yours truly, the maker...'</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Diga a ele que é uma honra." ownerID="2" targetID="3" fromX="755" fromY="-749" />
-      <outputs name="Diga a ele que você voltará outra vez." ownerID="2" targetID="10" fromX="755" fromY="-829" />Você é abordado por um chefe goblin idoso: &#39;Ah, meu jovem amigo, ouvi falar muito bem de você. Estou à beira da travessia do meu espírito e, infelizmente, minha própria aldeia se foi há muito tempo. E assim, decidi confiar meu conhecimento espiritual a você!&#39;
-
-</nodes>
+      <outputs name="Diga a ele que você voltará outra vez." ownerID="2" targetID="10" fromX="755" fromY="-829" />Você é abordado por um chefe goblin idoso: 'Ah, meu jovem amigo, ouvi falar muito bem de você. Estou à beira da travessia do meu espírito e, infelizmente, minha própria aldeia se foi há muito tempo. E assim, decidi confiar meu conhecimento espiritual a você!' </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="906" positionY="-286" width="350" height="805">
       <outputs name="Pagar." ownerID="3" targetID="4" fromX="1231" fromY="-777" />
-      <outputs name="Diga a ele que você voltará outra vez." ownerID="3" targetID="10" fromX="1231" fromY="-857" />'Yes, yes, of course it is! 
-
-Now, you will have to pay me - I have debts and will not go into the grey world in shame. 
-
-Then you have to show me you are good enough, chieftain is a sacred role, entrusted only to one, and one who guides their village. I am braking this law, because your gods proved to me that they deserve it. But, you must also show me.
-
-I will accept a candidate who shows their strengths in mind, spirit or body.
-You pay first, and I do not give money back...'
-
-[Only one character per game will be allowed this change]</nodes>
+      <outputs name="Diga a ele que você voltará outra vez." ownerID="3" targetID="10" fromX="1231" fromY="-857" />'Yes, yes, of course it is!  Now, you will have to pay me - I have debts and will not go into the grey world in shame.  Then you have to show me you are good enough, chieftain is a sacred role, entrusted only to one, and one who guides their village. I am braking this law, because your gods proved to me that they deserve it. But, you must also show me. I will accept a candidate who shows their strengths in mind, spirit or body.
+You pay first, and I do not give money back...' [Only one character per game will be allowed this change]</nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1296" positionY="-291" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-7000">
       <outputs name="confirme" ownerID="4" targetID="6" fromX="1726" fromY="-619" />
       <outputs name="Cancelar" ownerID="4" targetID="3" fromX="1726" fromY="-699" />
@@ -936,7 +920,7 @@ You pay first, and I do not give money back...'
       <outputs name="Escolha o desafio mental. [Um desafiante qualificado será escolhido.]" ownerID="6" targetID="7" fromX="2151" fromY="-692" />
       <outputs name="Escolha o desafio espiritual. [Um desafiante qualificado será escolhido.]" ownerID="6" targetID="13" fromX="2151" fromY="-772" />
       <outputs name="Escolha o desafio físico. [Um desafiante qualificado será escolhido.]" ownerID="6" targetID="15" fromX="2151" fromY="-852" />
-      <outputs name="Diga a ele que você voltará outra vez." ownerID="6" targetID="10" fromX="2151" fromY="-932" />'Good, good, now my spirit will leave my body and test you in a challenge of your choice. A chieftain must be master in something, you know...'</nodes>
+      <outputs name="Diga a ele que você voltará outra vez." ownerID="6" targetID="10" fromX="2151" fromY="-932" />'Bom, bom, agora meu espírito vai deixar meu corpo e testá-lo em um desafio de sua escolha. Um chefe deve ser mestre em alguma coisa, você sabe...'</nodes>
     <nodes xsi:type="NodeChallenge" ID="7" positionX="2243" positionY="82" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_3M_0S" challengeScale="101" challengedList="1c">
       <logic>
         <FilterBlock>
@@ -957,11 +941,7 @@ You pay first, and I do not give money back...'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="8" targetID="9" fromX="3152" fromY="-241" />'Yes, yes, you are good, or good enough. I go now to the grey world, but part of my spirit will join with yours as is our tradition. 
-
-You may experience changes, my soul is strong, it may overpower yours.'
-
-The old man chuckles as he falls to the ground and dies in front of you. You feel his spirit enter your body and merge with your own soul. </nodes>
+      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="8" targetID="9" fromX="3152" fromY="-241" />'Sim, sim, você é bom, ou bom o suficiente. Vou agora para o mundo cinzento, mas parte do meu espírito se unirá ao seu como é nossa tradição. Você pode experimentar mudanças, minha alma é forte, pode dominar a sua.' O velho ri enquanto cai no chão e morre na sua frente. Você sente o espírito dele entrar em seu corpo e se fundir com sua própria alma. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="3305" positionY="157" width="350" height="530" logBookName="QUEST_CHIEFTAINQ" logBookDescription="QUEST_CHIEFTAINQ_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
         <ModifierBlock>
@@ -975,7 +955,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       <outputs ownerID="10" targetID="5" fromX="327" fromY="-1227" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="3722" positionY="-242" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="10" fromX="4047" fromY="-733" />'I am sorry, but you are not worthy. I will stay here a while, so you may return and try again.'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="10" fromX="4047" fromY="-733" />— Sinto muito, mas você não é digno. Vou ficar aqui por um tempo, então você pode voltar e tentar de novo.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="12" positionX="3047" positionY="-506" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="1c">
       <outputs ownerID="12" targetID="11" fromX="3476" fromY="-894" />
     </nodes>
@@ -999,11 +979,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="14" targetID="9" fromX="3395" fromY="-1473" />'Yes, yes, you are good, or good enough. I go now to the grey world, but part of my spirit will join with yours as is our tradition. 
-
-You may experience changes, my soul is strong, it may overpower yours.'
-
-The old man chuckles as he falls to the ground and dies in front of you. You feel his spirit enter your body and merge with your own. </nodes>
+      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="14" targetID="9" fromX="3395" fromY="-1473" />'Sim, sim, você é bom, ou bom o suficiente. Vou agora para o mundo cinzento, mas parte do meu espírito se unirá ao seu como é nossa tradição. Você pode experimentar mudanças, minha alma é forte, pode dominar a sua.' O velho ri enquanto cai no chão e morre na sua frente. Você sente o espírito dele entrar em seu corpo e se fundir com o seu. </nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="2238" positionY="-1444" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_3P_0M_0S" challengeScale="101" challengedList="1b">
       <logic>
         <FilterBlock>
@@ -1024,11 +1000,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="16" targetID="9" fromX="3799" fromY="-1794" />'Yes, yes, you are good, or good enough. I go now to the grey world, but part of my spirit will join with yours as is our tradition. 
-
-You may experience changes, my soul is strong, it may overpower yours.'
-
-The old man chuckles as he falls to the ground and dies in front of you. You feel his spirit enter your body and merge with your own. </nodes>
+      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="16" targetID="9" fromX="3799" fromY="-1794" />'Sim, sim, você é bom, ou bom o suficiente. Vou agora para o mundo cinzento, mas parte do meu espírito se unirá ao seu como é nossa tradição. Você pode experimentar mudanças, minha alma é forte, pode dominar a sua.' O velho ri enquanto cai no chão e morre na sua frente. Você sente o espírito dele entrar em seu corpo e se fundir com o seu. </nodes>
   </Adventure>
   <Adventure name="Mirror Champion" uniqueID="136" allowOnce="true" seaEvent="true" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="3" eventTag="TAG-SEAARENA" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event251">
@@ -1049,7 +1021,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ele e vá embora." ownerID="2" targetID="3" fromX="787" fromY="-699" />&#39;Bem, olá. Eu estava observando seu progresso, como faço, e devo dizer que você é especial, hein? Parabéns por se tornar o Campeão dos Espelhos do Mar, isso não é pouca coisa. Eu te daria uma recompensa ou algo assim, mas acho que não tenho nada que você precise agora, então parabéns querido escolhido!&#39;</nodes>
+      <outputs name="Agradeça a ele e vá embora." ownerID="2" targetID="3" fromX="787" fromY="-699" />'Bem, olá. Eu estava observando seu progresso, como faço, e devo dizer que você é especial, hein? Parabéns por se tornar o Campeão dos Espelhos do Mar, isso não é pouca coisa. Eu te daria uma recompensa ou algo assim, mas acho que não tenho nada que você precise agora, então parabéns querido escolhido!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="888" positionY="-375" width="350" height="530" allPlayersXP="10" allPlayersRP="10" logBookName="QUEST_SEAARENA2" logBookDescription="QUEST_SEAARENA2_DES" linkedEventUniqueID="0" endOfQuest="true" />
   </Adventure>
   <Adventure name="Ice Ruins 4" uniqueID="137" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="4" nodeIdMax="36" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -1074,7 +1046,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       <outputs name="Procure isto." ownerID="2" targetID="13" group="G1" fromX="726" fromY="-844" />
       <outputs name="Procure isto." ownerID="2" targetID="21" group="G1" fromX="726" fromY="-924" />
       <outputs name="Procure isto." ownerID="2" targetID="30" group="G1" fromX="726" fromY="-1004" />
-      <outputs name="Sair." ownerID="2" targetID="35" fromX="726" fromY="-1084" />You find the frozen ruins of some old structure. </nodes>
+      <outputs name="Sair." ownerID="2" targetID="35" fromX="726" fromY="-1084" />Você encontra as ruínas congeladas de alguma estrutura antiga. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="843" positionY="592" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -1092,7 +1064,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       <outputs name="Surrender" ownerID="4" targetID="8" fromX="1720" fromY="39" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1825" positionY="827" width="350" height="725">
-      <outputs name="Junte o que puder e vá embora." ownerID="5" targetID="6" fromX="2150" fromY="335" />You defeat the sniezynki and realise the gemstones were an illusion. But, you do discover this room was once made with some good metal, so you are able to salvage some of it.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="5" targetID="6" fromX="2150" fromY="335" />Você derrota o sniezynki e percebe que as pedras preciosas eram uma ilusão. Mas, você descobre que esta sala já foi feita com um bom metal, então você pode salvar um pouco dele.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="6" positionX="2240" positionY="603" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="6" targetID="7" fromX="2688" fromY="170" />
     </nodes>
@@ -1116,7 +1088,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="9" fromX="3518" fromY="-50" />You were badly beaten, cursed and forced to flee.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="9" fromX="3518" fromY="-50" />Você foi severamente espancado, amaldiçoado e forçado a fugir.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="9" positionX="3559" positionY="419" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="9" targetID="10" fromX="4007" fromY="-13" />
     </nodes>
@@ -1175,7 +1147,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pegue o baú e vá embora." ownerID="17" targetID="19" fromX="2164" fromY="-1144" />The icicles listen to you and run out of the room before it collapses. They abandon the chest at your feet and scuttle away.</nodes>
+      <outputs name="Pegue o baú e vá embora." ownerID="17" targetID="19" fromX="2164" fromY="-1144" />Os pingentes de gelo ouvem você e saem correndo da sala antes que ela desmorone. Eles abandonam o baú aos seus pés e fogem.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="2798" positionY="-674" width="350" height="530" allPlayersXP="4" allPlayersRP="3" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1192,7 +1164,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       <outputs ownerID="19" targetID="18" fromX="2705" fromY="-1098" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3203" positionY="-316" width="350" height="725">
-      <outputs name="Sair." ownerID="20" targetID="9" fromX="3528" fromY="-807" />They did not listen and the room collapsed.</nodes>
+      <outputs name="Sair." ownerID="20" targetID="9" fromX="3528" fromY="-807" />Eles não ouviram e a sala desabou.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="825" positionY="-1301" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -1203,7 +1175,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       </logic>
       <outputs name="Ataque!" ownerID="21" targetID="22" fromX="1150" fromY="-1792" />
       <outputs name="[Usuário de magia] Destrua-os!" ownerID="21" targetID="28" fromX="1150" fromY="-1872" />
-      <outputs name="Sair." ownerID="21" targetID="14" fromX="1150" fromY="-1952" />The ruins seem haunted. If you wish to loot anything, you will have to face the wraiths.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="14" fromX="1150" fromY="-1952" />As ruínas parecem assombradas. Se você deseja saquear alguma coisa, terá que enfrentar as apariçoes.</nodes>
     <nodes xsi:type="NodeChallenge" ID="22" positionX="1247" positionY="-1210" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-WRAITH_5P_4M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="22" targetID="25" fromX="1688" fromY="-1705" />
       <outputs name="Lose" ownerID="22" targetID="8" fromX="1688" fromY="-1785" />
@@ -1232,7 +1204,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="1848" positionY="-1409" width="350" height="725">
-      <outputs name="Junte o que puder e vá embora." ownerID="25" targetID="23" fromX="2173" fromY="-1900" />You defeat the wraiths.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="25" targetID="23" fromX="2173" fromY="-1900" />Você derrota os fantasmas.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="3274" positionY="-1463" width="350" height="530" allPlayersXP="4" allPlayersRP="3" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1278,7 +1250,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       <outputs ownerID="29" targetID="25" fromX="2222" fromY="-2241" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="-24" positionY="-940" width="350" height="725">
-      <outputs name="Pegue e vá embora." ownerID="30" targetID="31" fromX="301" fromY="-1431" />Your search turns up a few things.</nodes>
+      <outputs name="Pegue e vá embora." ownerID="30" targetID="31" fromX="301" fromY="-1431" />Sua pesquisa revela algumas coisas.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="31" positionX="-561" positionY="-949" width="480" height="663" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="31" targetID="32" group="G1" fromX="-112" fromY="-1381" />
       <outputs ownerID="31" targetID="33" group="G1" fromX="-112" fromY="-1461" />
@@ -1346,11 +1318,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       <outputs ownerID="1" targetID="2" fromX="610" fromY="-823" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="706" positionY="-60" width="350" height="725">
-      <outputs name="Sair." ownerID="2" targetID="3" fromX="1031" fromY="-551" />You receive an invitation:
-
-'Hear ye, hear ye! If ye be a mighty warrior, a steadfast thinker or a master magician, come test your mantle upon the grounds of the ancient Arena.'
-
-You have the coordinates.
+      <outputs name="Sair." ownerID="2" targetID="3" fromX="1031" fromY="-551" />Você recebe um convite: 'Ouçam, ouçam! Se você é um guerreiro poderoso, um pensador firme ou um mestre mago, venha testar seu manto nos terrenos da antiga Arena.' Você tem as coordenadas.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="3" positionX="1101" positionY="-177" width="480" height="503" radius="12" settlementID="SET-KEEP" destroyOwner="false" linkedEventUniqueID="139">
       <outputs ownerID="3" targetID="4" fromX="1549" fromY="-609" />
@@ -1370,9 +1338,7 @@ You have the coordinates.
         </FilterBlock>
       </logic>
       <outputs name="Sim, diga que você está pronto." ownerID="2" targetID="4" fromX="778" fromY="-450" />
-      <outputs name="No. Sair." ownerID="2" targetID="38" fromX="778" fromY="-530" />You arrive at the Lighting Dome - the first of the great arena's.  The place is run by an old pirate:
-
-'Arr, you be new blood eh? Rules are simple, ye go in and ye fight each round without a break! There are five fights. If ye lose, ye start over from the start and lose some goods as payment. All aboard mateys?'</nodes>
+      <outputs name="No. Sair." ownerID="2" targetID="38" fromX="778" fromY="-530" />Você chega ao Lighting Dome - o primeiro da grande arena. O lugar é administrado por um velho pirata: 'Arr, você é sangue novo hein? As regras são simples, você entra e luta a cada rodada sem interrupção! São cinco lutas. Se você perder, você começa de novo e perde alguns bens como pagamento. Todos a bordo, companheiros?</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="2457" positionY="-2181" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_ARENA1" logBookDescription="QUEST_ARENA1_DES" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1397,7 +1363,7 @@ You have the coordinates.
       <outputs name="Lutar!" ownerID="4" targetID="5" fromX="1180" fromY="-444" />
       <outputs name="Intimide o inimigo!" ownerID="4" targetID="7" fromX="1180" fromY="-524" />
       <outputs name="Enfrente-os nos reinos espirituais!" ownerID="4" targetID="6" fromX="1180" fromY="-604" />
-      <outputs name="No. Sair." ownerID="4" targetID="38" fromX="1180" fromY="-684" />&#39;Aqui está seu inimigo. Escolha seu estilo e lute bem. Além disso, esta é sua última chance de recuar, depois desta, você ganha ou perde.&#39;</nodes>
+      <outputs name="No. Sair." ownerID="4" targetID="38" fromX="1180" fromY="-684" />'Aqui está seu inimigo. Escolha seu estilo e lute bem. Além disso, esta é sua última chance de recuar, depois desta, você ganha ou perde.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1269" positionY="529" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_NECROMANCER_KOSHEI_6P_6M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="9" fromX="1710" fromY="33" />
       <outputs name="Lose" ownerID="5" targetID="8" fromX="1710" fromY="-46" />
@@ -1414,11 +1380,11 @@ You have the coordinates.
       <outputs name="Surrender" ownerID="7" targetID="8" fromX="1717" fromY="-877" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2940" positionY="-2040" width="350" height="725" image="Event020">
-      <outputs name="Sair." ownerID="8" targetID="3" fromX="3265" fromY="-2531" />&#39;Arr, você é um bom esportista, mas você não é campeão, ainda... Tire suas pontas da minha areia e volte quando estiver bem!&#39;</nodes>
+      <outputs name="Sair." ownerID="8" targetID="3" fromX="3265" fromY="-2531" />'Arr, você é um bom esportista, mas você não é campeão, ainda... Tire suas pontas da minha areia e volte quando estiver bem!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1846" positionY="-151" width="350" height="885" image="Event340">
       <outputs name="Lutar!" ownerID="9" targetID="10" fromX="2171" fromY="-642" />
       <outputs name="Intimide o inimigo!" ownerID="9" targetID="12" fromX="2171" fromY="-722" />
-      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="9" targetID="13" fromX="2171" fromY="-802" />The crowds cheer and your next opponent lines up!</nodes>
+      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="9" targetID="13" fromX="2171" fromY="-802" />A multidão aplaude e seu próximo oponente se alinha!</nodes>
     <nodes xsi:type="NodeChallenge" ID="10" positionX="2284" positionY="445" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-DZIAD_MROZ_ONE_7P_7M_7S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="10" targetID="14" fromX="2725" fromY="-50" />
       <outputs name="Lose" ownerID="10" targetID="8" fromX="2725" fromY="-130" />
@@ -1437,7 +1403,7 @@ You have the coordinates.
     <nodes xsi:type="NodeAdventure" ID="14" positionX="2871" positionY="-216" width="350" height="885" image="Event340">
       <outputs name="Lutar!" ownerID="14" targetID="15" fromX="3196" fromY="-707" />
       <outputs name="Intimide o inimigo!" ownerID="14" targetID="16" fromX="3196" fromY="-787" />
-      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="14" targetID="17" fromX="3196" fromY="-867" />The crowds cheer and your next opponent lines up!</nodes>
+      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="14" targetID="17" fromX="3196" fromY="-867" />A multidão aplaude e seu próximo oponente se alinha!</nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="3251" positionY="440" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-CAP_PIRATES_8P_8M_8S" challengeScale="0" challengedList="ppl">
       <outputs name="Win" ownerID="15" targetID="18" fromX="3692" fromY="-55" />
       <outputs name="Lose" ownerID="15" targetID="8" fromX="3692" fromY="-135" />
@@ -1456,7 +1422,7 @@ You have the coordinates.
     <nodes xsi:type="NodeAdventure" ID="18" positionX="3826" positionY="-169" width="350" height="885" image="Event340">
       <outputs name="Lutar!" ownerID="18" targetID="19" fromX="4151" fromY="-660" />
       <outputs name="Intimide o inimigo!" ownerID="18" targetID="20" fromX="4151" fromY="-740" />
-      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="18" targetID="21" fromX="4151" fromY="-820" />The crowds cheer and your next opponent lines up!</nodes>
+      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="18" targetID="21" fromX="4151" fromY="-820" />A multidão aplaude e seu próximo oponente se alinha!</nodes>
     <nodes xsi:type="NodeChallenge" ID="19" positionX="4209" positionY="450" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_NECROMANCER_9P_9M_9S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="19" targetID="22" fromX="4650" fromY="-45" />
       <outputs name="Lose" ownerID="19" targetID="8" fromX="4650" fromY="-125" />
@@ -1475,7 +1441,7 @@ You have the coordinates.
     <nodes xsi:type="NodeAdventure" ID="22" positionX="4813" positionY="-194" width="350" height="885" image="Event340">
       <outputs name="Lutar!" ownerID="22" targetID="23" fromX="5138" fromY="-685" />
       <outputs name="Intimide o inimigo!" ownerID="22" targetID="25" fromX="5138" fromY="-765" />
-      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="22" targetID="26" fromX="5138" fromY="-845" />The crowds cheer and your next opponent lines up!</nodes>
+      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="22" targetID="26" fromX="5138" fromY="-845" />A multidão aplaude e seu próximo oponente se alinha!</nodes>
     <nodes xsi:type="NodeChallenge" ID="23" positionX="5215" positionY="427" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-SZUVAREK_MIX_10P_10M_10S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="23" targetID="27" fromX="5656" fromY="-68" />
       <outputs name="Lose" ownerID="23" targetID="8" fromX="5656" fromY="-148" />
@@ -1512,11 +1478,7 @@ You have the coordinates.
         </ModifierBlock>
       </logic>
       <outputs name="Comemore alguns e vá embora." ownerID="27" targetID="31" fromX="6155" fromY="-748" />
-      <outputs name="Pague para ter suas feridas curadas." ownerID="27" targetID="29" fromX="6155" fromY="-828" />'Land lovers and sea scallions alike, here be our new champions!
-
-Now, ye did well mateys, but, if ye really want to be called victorious, ye go visit the Dome of Thunder. There ye be faced with some real foes.
-
-Now, let us drink and party, champions!'
+      <outputs name="Pague para ter suas feridas curadas." ownerID="27" targetID="29" fromX="6155" fromY="-828" />'Amantes da terra e cebolinhas do mar, aqui estão nossos novos campeoes! Agora, vocês se saíram bem, mas, se realmente querem ser chamados de vitoriosos, vão visitar a Cúpula do Trovão. Lá você será confrontado com alguns inimigos reais. Agora, vamos beber e festejar, campeoes!'
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="7686" positionY="-363" width="350" height="530" allPlayersXP="8" allPlayersRP="7" logBookName="QUEST_ARENA1" logBookDescription="QUEST_ARENA1_DES2" linkedEventUniqueID="0">
       <logic>
@@ -1540,11 +1502,7 @@ Now, let us drink and party, champions!'
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6292" positionY="-1175" width="350" height="805" image="Event340">
       <outputs name="Sair." ownerID="30" targetID="28" fromX="6617" fromY="-1666" />
-      <outputs name="Pague para ter suas feridas curadas." ownerID="30" targetID="29" fromX="6617" fromY="-1746" />'Land lovers and sea scallions alike, here be our new champions!
-
-Now, ye did well mateys, but, if ye really want to be called victorious, ye go visit the Dome of Thunder. There ye be faced with some real foes.
-
-Now, let us drink and party, champions!'</nodes>
+      <outputs name="Pague para ter suas feridas curadas." ownerID="30" targetID="29" fromX="6617" fromY="-1746" />'Amantes da terra e cebolinhas do mar, aqui estão nossos novos campeoes! Agora, vocês se saíram bem, mas, se realmente querem ser chamados de vitoriosos, vão visitar a Cúpula do Trovão. Lá você será confrontado com alguns inimigos reais. Agora, vamos beber e festejar, campeoes!'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="31" positionX="6603" positionY="-363" width="480" height="503" radius="12" settlementID="SET-DEMONS_CIRCLE" destroyOwner="true" linkedEventUniqueID="140">
       <outputs ownerID="31" targetID="28" fromX="7051" fromY="-795" />
     </nodes>
@@ -1594,9 +1552,7 @@ Now, let us drink and party, champions!'</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Sim, diga que você está pronto." ownerID="2" targetID="4" fromX="628" fromY="-321" />
-      <outputs name="No. Sair." ownerID="2" targetID="38" fromX="628" fromY="-401" />Oddly enough, the same old pirate welcomes you:
-
-'Arr, you be the little champions, eh? Rules are simple, ye go in and ye fight each round without a break! There are five fights. If ye lose, ye start over from the start and lose some goods as payment. All aboard mateys?'</nodes>
+      <outputs name="No. Sair." ownerID="2" targetID="38" fromX="628" fromY="-401" />Curiosamente, o mesmo velho pirata lhe dá as boas-vindas: 'Arr, vocês são os pequenos campeoes, hein? As regras são simples, você entra e luta a cada rodada sem interrupção! São cinco lutas. Se você perder, você começa de novo e perde alguns bens como pagamento. Todos a bordo, companheiros?</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="2388" positionY="-2347" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_ARENA1" logBookDescription="QUEST_ARENA1_DES" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1621,7 +1577,7 @@ Now, let us drink and party, champions!'</nodes>
       <outputs name="Lutar" ownerID="4" targetID="5" fromX="1094" fromY="-374" />
       <outputs name="Intimide o inimigo!" ownerID="4" targetID="7" fromX="1094" fromY="-454" />
       <outputs name="Enfrente-os nos reinos espirituais!" ownerID="4" targetID="6" fromX="1094" fromY="-534" />
-      <outputs name="No. Sair." ownerID="4" targetID="38" fromX="1094" fromY="-614" />&#39;Aqui está seu inimigo. Escolha seu estilo e lute bem. Além disso, esta é sua última chance de recuar, depois desta, você ganha ou perde.&#39;</nodes>
+      <outputs name="No. Sair." ownerID="4" targetID="38" fromX="1094" fromY="-614" />'Aqui está seu inimigo. Escolha seu estilo e lute bem. Além disso, esta é sua última chance de recuar, depois desta, você ganha ou perde.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1233" positionY="602" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-DRAGON_ZMEYS_11P_12M_11S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="9" fromX="1674" fromY="106" />
       <outputs name="Lose" ownerID="5" targetID="8" fromX="1674" fromY="26" />
@@ -1638,11 +1594,11 @@ Now, let us drink and party, champions!'</nodes>
       <outputs name="Surrender" ownerID="7" targetID="8" fromX="1679" fromY="-877" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2873" positionY="-1873" width="350" height="725" image="Event020">
-      <outputs name="Sair." ownerID="8" targetID="3" fromX="3199" fromY="-2364" />&#39;Arr, você é um bom esportista, mas você não é campeão, ainda... Tire suas pontas da minha areia e volte quando estiver bem!&#39;</nodes>
+      <outputs name="Sair." ownerID="8" targetID="3" fromX="3199" fromY="-2364" />'Arr, você é um bom esportista, mas você não é campeão, ainda... Tire suas pontas da minha areia e volte quando estiver bem!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1846" positionY="-151" width="350" height="885" image="Event340">
       <outputs name="Lutar" ownerID="9" targetID="10" fromX="2171" fromY="-642" />
       <outputs name="Intimide o inimigo!" ownerID="9" targetID="12" fromX="2171" fromY="-722" />
-      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="9" targetID="13" fromX="2171" fromY="-802" />The crowds cheer and your next opponent lines up!</nodes>
+      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="9" targetID="13" fromX="2171" fromY="-802" />A multidão aplaude e seu próximo oponente se alinha!</nodes>
     <nodes xsi:type="NodeChallenge" ID="10" positionX="2284" positionY="445" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-KRAKEN_12P_10M_10S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="10" targetID="14" fromX="2725" fromY="-50" />
       <outputs name="Lose" ownerID="10" targetID="8" fromX="2725" fromY="-130" />
@@ -1661,7 +1617,7 @@ Now, let us drink and party, champions!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="2871" positionY="-216" width="350" height="885" image="Event340">
       <outputs name="Lutar" ownerID="14" targetID="15" fromX="3196" fromY="-707" />
       <outputs name="Intimide o inimigo!" ownerID="14" targetID="16" fromX="3196" fromY="-787" />
-      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="14" targetID="17" fromX="3196" fromY="-867" />The crowds cheer and your next opponent lines up!</nodes>
+      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="14" targetID="17" fromX="3196" fromY="-867" />A multidão aplaude e seu próximo oponente se alinha!</nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="3251" positionY="440" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-DRAGONS_13P_11M_11S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="15" targetID="18" fromX="3692" fromY="-55" />
       <outputs name="Lose" ownerID="15" targetID="8" fromX="3692" fromY="-135" />
@@ -1680,7 +1636,7 @@ Now, let us drink and party, champions!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="3826" positionY="-169" width="350" height="885" image="Event340">
       <outputs name="Lutar" ownerID="18" targetID="19" fromX="4151" fromY="-660" />
       <outputs name="Intimide o inimigo!" ownerID="18" targetID="20" fromX="4151" fromY="-740" />
-      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="18" targetID="21" fromX="4151" fromY="-820" />The crowds cheer and your next opponent lines up!</nodes>
+      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="18" targetID="21" fromX="4151" fromY="-820" />A multidão aplaude e seu próximo oponente se alinha!</nodes>
     <nodes xsi:type="NodeChallenge" ID="19" positionX="4209" positionY="450" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_ARENA_14P_13M_13S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="19" targetID="22" fromX="4650" fromY="-45" />
       <outputs name="Lose" ownerID="19" targetID="8" fromX="4650" fromY="-125" />
@@ -1699,7 +1655,7 @@ Now, let us drink and party, champions!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="4813" positionY="-194" width="350" height="885" image="Event340">
       <outputs name="Lutar" ownerID="22" targetID="23" fromX="5138" fromY="-685" />
       <outputs name="Intimide o inimigo!" ownerID="22" targetID="25" fromX="5138" fromY="-765" />
-      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="22" targetID="26" fromX="5138" fromY="-845" />The crowds cheer and your next opponent lines up!</nodes>
+      <outputs name="Enfrente-os nos reinos espirituais!" ownerID="22" targetID="26" fromX="5138" fromY="-845" />A multidão aplaude e seu próximo oponente se alinha!</nodes>
     <nodes xsi:type="NodeChallenge" ID="23" positionX="5215" positionY="427" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_JURASMAT_BLUE_DRAGON_15P_15M_15S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="23" targetID="27" fromX="5656" fromY="-68" />
       <outputs name="Lose" ownerID="23" targetID="8" fromX="5656" fromY="-148" />
@@ -1739,7 +1695,7 @@ Now, let us drink and party, champions!'</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Comemore alguns e vá embora." ownerID="27" targetID="31" fromX="6155" fromY="-748" />
-      <outputs name="Pague para ter suas feridas curadas." ownerID="27" targetID="29" fromX="6155" fromY="-828" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
+      <outputs name="Pague para ter suas feridas curadas." ownerID="27" targetID="29" fromX="6155" fromY="-828" />'Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="7686" positionY="-363" width="350" height="530" allPlayersXP="10" allPlayersRP="10" logBookName="QUEST_ARENA1" logBookDescription="QUEST_ARENA2_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
@@ -1763,7 +1719,7 @@ Now, let us drink and party, champions!'</nodes>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6292" positionY="-1175" width="350" height="805" image="Event340">
       <outputs name="Comemore alguns e vá embora." ownerID="30" targetID="28" fromX="6617" fromY="-1666" />
-      <outputs name="Pague para ter suas feridas curadas." ownerID="30" targetID="29" fromX="6617" fromY="-1746" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
+      <outputs name="Pague para ter suas feridas curadas." ownerID="30" targetID="29" fromX="6617" fromY="-1746" />'Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="31" positionX="6603" positionY="-363" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="31" targetID="28" fromX="7051" fromY="-795" />
@@ -1869,21 +1825,11 @@ Now, let us drink and party, champions!'</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Diga a ele que é uma honra." ownerID="2" targetID="3" fromX="755" fromY="-749" />
-      <outputs name="Diga a ele que você voltará outra vez." ownerID="2" targetID="10" fromX="755" fromY="-829" />Você encontra o velho chefe novamente: &#39;Ah, você está de volta, que bom. Aguardo para passar meu espírito para você.&#39;
-
-</nodes>
+      <outputs name="Diga a ele que você voltará outra vez." ownerID="2" targetID="10" fromX="755" fromY="-829" />Você encontra o velho chefe novamente: 'Ah, você está de volta, que bom. Aguardo para passar meu espírito para você.' </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="906" positionY="-286" width="350" height="805">
       <outputs name="Pagar." ownerID="3" targetID="4" fromX="1231" fromY="-777" />
-      <outputs name="Diga a ele que você voltará outra vez." ownerID="3" targetID="10" fromX="1231" fromY="-857" />'Yes, yes, of course it is! 
-
-Now, you will have to pay me - I have debts and will not go into the grey world in shame. 
-
-Then you have to show me you are good enough, chieftain is a sacred role, entrusted only to one, and one who guides their village. I am braking this law, because your gods proved to me that they deserve it. But, you must also show me.
-
-I will accept a candidate who shows their strengths in mind, spirit or body.
-You pay first, and I do not give money back...'
-
-[Only one character per game will be allowed this change]</nodes>
+      <outputs name="Diga a ele que você voltará outra vez." ownerID="3" targetID="10" fromX="1231" fromY="-857" />'Yes, yes, of course it is!  Now, you will have to pay me - I have debts and will not go into the grey world in shame.  Then you have to show me you are good enough, chieftain is a sacred role, entrusted only to one, and one who guides their village. I am braking this law, because your gods proved to me that they deserve it. But, you must also show me. I will accept a candidate who shows their strengths in mind, spirit or body.
+You pay first, and I do not give money back...' [Only one character per game will be allowed this change]</nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1296" positionY="-291" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-7000">
       <outputs name="confirme" ownerID="4" targetID="6" fromX="1726" fromY="-619" />
       <outputs name="Cancelar" ownerID="4" targetID="3" fromX="1726" fromY="-699" />
@@ -1915,7 +1861,7 @@ You pay first, and I do not give money back...'
       <outputs name="Escolha o desafio mental. [Um desafiante qualificado será escolhido.]" ownerID="6" targetID="7" fromX="2151" fromY="-692" />
       <outputs name="Escolha o desafio espiritual. [Um desafiante qualificado será escolhido.]" ownerID="6" targetID="13" fromX="2151" fromY="-772" />
       <outputs name="Escolha o desafio físico. [Um desafiante qualificado será escolhido.]" ownerID="6" targetID="15" fromX="2151" fromY="-852" />
-      <outputs name="Diga a ele que você voltará outra vez." ownerID="6" targetID="10" fromX="2151" fromY="-932" />'Good, good, now my spirit will leave my body and test you in a challenge of your choice. A chieftain must be master in something, you know...'</nodes>
+      <outputs name="Diga a ele que você voltará outra vez." ownerID="6" targetID="10" fromX="2151" fromY="-932" />'Bom, bom, agora meu espírito vai deixar meu corpo e testá-lo em um desafio de sua escolha. Um chefe deve ser mestre em alguma coisa, você sabe...'</nodes>
     <nodes xsi:type="NodeChallenge" ID="7" positionX="2243" positionY="82" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_3M_0S" challengeScale="101" challengedList="1c">
       <logic>
         <FilterBlock>
@@ -1936,11 +1882,7 @@ You pay first, and I do not give money back...'
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="8" targetID="17" fromX="3152" fromY="-241" />'Yes, yes, you are good, or good enough. I go now to the grey world, but part of my spirit will join with yours as is our tradition. 
-
-You may experience changes, my soul is strong, it may overpower yours.'
-
-The old man chuckles as he falls to the ground and dies in front of you. You feel his spirit enter your body and merge with your own. </nodes>
+      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="8" targetID="17" fromX="3152" fromY="-241" />'Sim, sim, você é bom, ou bom o suficiente. Vou agora para o mundo cinzento, mas parte do meu espírito se unirá ao seu como é nossa tradição. Você pode experimentar mudanças, minha alma é forte, pode dominar a sua.' O velho ri enquanto cai no chão e morre na sua frente. Você sente o espírito dele entrar em seu corpo e se fundir com o seu. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="4576" positionY="295" width="350" height="530" logBookName="QUEST_CHIEFTAINQ" logBookDescription="QUEST_CHIEFTAINQ_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
         <ModifierBlock>
@@ -1954,7 +1896,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       <outputs ownerID="10" targetID="5" fromX="327" fromY="-1227" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="3722" positionY="-242" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="10" fromX="4047" fromY="-733" />' I am sorry, but you are not worthy. I will stay here a while, so you may return and try again.'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="10" fromX="4047" fromY="-733" />'Sinto muito, mas você não é digno. Vou ficar aqui por um tempo, então você pode voltar e tentar de novo.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="12" positionX="3047" positionY="-506" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="1c">
       <outputs ownerID="12" targetID="11" fromX="3476" fromY="-894" />
     </nodes>
@@ -1978,11 +1920,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="14" targetID="17" fromX="3395" fromY="-1473" />'Yes, yes, you are good, or good enough. I go now to the grey world, but part of my spirit will join with yours as is our tradition. 
-
-You may experience changes, my soul is strong, it may overpower yours.'
-
-The old man chuckles as he falls to the ground and dies in front of you. You feel his spirit enter your body and merge with your own. </nodes>
+      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="14" targetID="17" fromX="3395" fromY="-1473" />'Sim, sim, você é bom, ou bom o suficiente. Vou agora para o mundo cinzento, mas parte do meu espírito se unirá ao seu como é nossa tradição. Você pode experimentar mudanças, minha alma é forte, pode dominar a sua.' O velho ri enquanto cai no chão e morre na sua frente. Você sente o espírito dele entrar em seu corpo e se fundir com o seu. </nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="2238" positionY="-1444" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_3P_0M_0S" challengeScale="101" challengedList="1b">
       <logic>
         <FilterBlock>
@@ -2003,11 +1941,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="16" targetID="17" fromX="3799" fromY="-1794" />'Yes, yes, you are good, or good enough. I go now to the grey world, but part of my spirit will join with yours as is our tradition. 
-
-You may experience changes, my soul is strong, it may overpower yours.'
-
-The old man chuckles as he falls to the ground and dies in front of you. You feel his spirit enter your body and merge with your own. </nodes>
+      <outputs name="Realize os rituais para guiar o espírito do velho chefe e agradeça-o por escolher você." ownerID="16" targetID="17" fromX="3799" fromY="-1794" />'Sim, sim, você é bom, ou bom o suficiente. Vou agora para o mundo cinzento, mas parte do meu espírito se unirá ao seu como é nossa tradição. Você pode experimentar mudanças, minha alma é forte, pode dominar a sua.' O velho ri enquanto cai no chão e morre na sua frente. Você sente o espírito dele entrar em seu corpo e se fundir com o seu. </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="17" positionX="4031" positionY="283" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="17" targetID="9" fromX="4479" fromY="-149" />
     </nodes>
@@ -2034,7 +1968,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       <outputs name="Procure isto." ownerID="2" targetID="13" group="G1" fromX="726" fromY="-844" />
       <outputs name="Procure isto." ownerID="2" targetID="21" group="G1" fromX="726" fromY="-924" />
       <outputs name="Procure isto." ownerID="2" targetID="30" group="G1" fromX="726" fromY="-1004" />
-      <outputs name="Sair." ownerID="2" targetID="35" fromX="726" fromY="-1084" />You find the frozen ruins of some old structure. </nodes>
+      <outputs name="Sair." ownerID="2" targetID="35" fromX="726" fromY="-1084" />Você encontra as ruínas congeladas de alguma estrutura antiga. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="843" positionY="592" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -2059,7 +1993,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="5" targetID="6" fromX="2147" fromY="384" />You defeat the dziad mroz and you are free to explore the ruins.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="5" targetID="6" fromX="2147" fromY="384" />Você derrota o dziad mroz e fica livre para explorar as ruínas.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="6" positionX="2241" positionY="702" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="6" targetID="7" fromX="2689" fromY="269" />
     </nodes>
@@ -2083,7 +2017,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="9" fromX="3518" fromY="-50" />You were badly beaten, cursed and forced to flee.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="9" fromX="3518" fromY="-50" />Você foi severamente espancado, amaldiçoado e forçado a fugir.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="9" positionX="3559" positionY="419" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="9" targetID="10" fromX="4007" fromY="-13" />
     </nodes>
@@ -2114,7 +2048,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="12" targetID="6" fromX="2675" fromY="-412" />You release the dziad mroz from his curse, but he melts away as soon as the dark spell leaves his body. It seems he was dead all along.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="12" targetID="6" fromX="2675" fromY="-412" />Você libera o dziad mroz de sua maldição, mas ele derrete assim que o feitiço escuro deixa seu corpo. Parece que ele estava morto o tempo todo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="836" positionY="-329" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -2161,7 +2095,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="17" targetID="19" fromX="2164" fromY="-1144" />The troll agrees to the deal. It takes some of your food and hands over some treasure.</nodes>
+      <outputs name="Sair." ownerID="17" targetID="19" fromX="2164" fromY="-1144" />O troll concorda com o acordo. Leva um pouco de sua comida e entrega algum tesouro.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="2798" positionY="-674" width="350" height="530" allPlayersXP="8" allPlayersRP="5" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2178,7 +2112,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       <outputs ownerID="19" targetID="18" fromX="2705" fromY="-1098" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3203" positionY="-316" width="350" height="725">
-      <outputs name="Sair." ownerID="20" targetID="9" fromX="3528" fromY="-807" />They did not listen and the room collapsed.</nodes>
+      <outputs name="Sair." ownerID="20" targetID="9" fromX="3528" fromY="-807" />Eles não ouviram e a sala desabou.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="825" positionY="-1301" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -2189,7 +2123,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       </logic>
       <outputs name="Ataque!" ownerID="21" targetID="22" fromX="1150" fromY="-1792" />
       <outputs name="[Usuário de magia] Destrua-os!" ownerID="21" targetID="28" fromX="1150" fromY="-1872" />
-      <outputs name="Vá rápidamente!" ownerID="21" targetID="14" fromX="1150" fromY="-1952" />There are unliving dragons in these ruins.</nodes>
+      <outputs name="Vá rápidamente!" ownerID="21" targetID="14" fromX="1150" fromY="-1952" />Há dragoes sem vida nessas ruínas.</nodes>
     <nodes xsi:type="NodeChallenge" ID="22" positionX="1227" positionY="-1973" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-UNLI_DRAGONS_10P_11M_10S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="22" targetID="25" fromX="1668" fromY="-2468" />
       <outputs name="Lose" ownerID="22" targetID="8" fromX="1668" fromY="-2548" />
@@ -2218,7 +2152,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="1789" positionY="-2034" width="350" height="725">
-      <outputs name="Junte o que puder e vá embora." ownerID="25" targetID="23" fromX="2114" fromY="-2525" />You defeated the dragons.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="25" targetID="23" fromX="2114" fromY="-2525" />Você derrotou os dragoes.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="3310" positionY="-1805" width="350" height="530" allPlayersXP="8" allPlayersRP="5" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -2264,7 +2198,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
       <outputs ownerID="29" targetID="25" fromX="1687" fromY="-2713" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="-24" positionY="-940" width="350" height="725">
-      <outputs name="Pegue e vá embora." ownerID="30" targetID="31" fromX="301" fromY="-1431" />Your search turns up a few things.</nodes>
+      <outputs name="Pegue e vá embora." ownerID="30" targetID="31" fromX="301" fromY="-1431" />Sua pesquisa revela algumas coisas.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="31" positionX="-561" positionY="-949" width="480" height="663" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="31" targetID="32" group="G1" fromX="-112" fromY="-1381" />
       <outputs ownerID="31" targetID="33" group="G1" fromX="-112" fromY="-1461" />
@@ -2339,7 +2273,7 @@ The old man chuckles as he falls to the ground and dies in front of you. You fee
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="38" targetID="39" fromX="2549" fromY="-1675" />You defeat the enemy.</nodes>
+      <outputs name="Sair." ownerID="38" targetID="39" fromX="2549" fromY="-1675" />Você derrota o inimigo.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="39" positionX="3187" positionY="-1083" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="39" targetID="40" fromX="3635" fromY="-1515" />
     </nodes>

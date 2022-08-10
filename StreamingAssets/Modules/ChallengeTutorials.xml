@@ -12,15 +12,11 @@
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Diga à sua avó que você irá imediatamente. Vá para o porão, preparado para enfrentar os ratos." ownerID="2" targetID="3" fromX="755" fromY="-383" />'Yanek, Yanek! Come over here lad!'
-You hear your grandma's voice coming from the house: 
-'Bring me a jar of pickles dear, they're in the cellar. Just watch out for them pesky rats, they get pretty big this time of year'. 
-
-You grab your sword, though a mouse trap would probably be more appropriate.
-
-</nodes>
+      <outputs name="Diga à sua avó que você irá imediatamente. Vá para o porão, preparado para enfrentar os ratos." ownerID="2" targetID="3" fromX="755" fromY="-383" />'Yanek, Yanek! Venha aqui rapaz!
+Você ouve a voz da sua avó vindo de casa:
+'Traga-me um pote de picles querida, eles estão no porão. Apenas tome cuidado com os ratos irritantes, eles ficam bem grandes nesta época do ano'. Você pega sua espada, embora uma ratoeira provavelmente seja mais apropriada. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="922" positionY="81" width="350" height="725" image="Event272">
-      <outputs name="Um jogo de cartas? Como um blackjack normal?" ownerID="3" targetID="15" fromX="1247" fromY="-410" />Assim como a Nan te avisou, há ratos aqui. Você hesita e ouve a voz confiável de seu amigo Theodore: &#39;Você está prestes a começar um desafio, rapaz. O que é um desafio, você vai me perguntar? Bem, um desafio é uma forma de resolver conflitos ou problemas neste mundo. Às vezes será um conflito entre seu grupo e um grupo inimigo, outras vezes será uma tentativa de resolver um quebra-cabeça ou simplesmente um teste de força. Os desafios assumem a forma de um jogo de cartas. Como os próprios deuses estavam brincando com nosso destino, você vê.
+      <outputs name="Um jogo de cartas? Como um blackjack normal?" ownerID="3" targetID="15" fromX="1247" fromY="-410" />Assim como a Nan te avisou, há ratos aqui. Você hesita e ouve a voz confiável de seu amigo Theodore: 'Você está prestes a começar um desafio, rapaz. O que é um desafio, você vai me perguntar? Bem, um desafio é uma forma de resolver conflitos ou problemas neste mundo. Às vezes será um conflito entre seu grupo e um grupo inimigo, outras vezes será uma tentativa de resolver um quebra-cabeça ou simplesmente um teste de força. Os desafios assumem a forma de um jogo de cartas. Como os próprios deuses estavam brincando com nosso destino, você vê.
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="4" positionX="1468" positionY="73" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-TUT_RAT" challengeScale="101" challengedList="ppl">
       <logic>
@@ -37,7 +33,7 @@ You grab your sword, though a mouse trap would probably be more appropriate.
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="3871" positionY="-1244" width="350" height="455" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2245" positionY="-726" width="350" height="805" image="Event251">
       <outputs name="Tente novamente." ownerID="6" targetID="4" fromX="2570" fromY="-1217" />
-      <outputs name="Fuja para o Menu Principal." ownerID="6" targetID="5" fromX="2570" fromY="-1297" />You're not going to give up that easily, are you?</nodes>
+      <outputs name="Fuja para o Menu Principal." ownerID="6" targetID="5" fromX="2570" fromY="-1297" />Você não vai desistir tão fácil, vai?</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2656" positionY="89" width="350" height="725" image="Event273">
       <logic>
         <ModifierBlock>
@@ -46,15 +42,11 @@ You grab your sword, though a mouse trap would probably be more appropriate.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Volte para o porão." ownerID="7" targetID="9" fromX="2981" fromY="-402" />The rats are dead and the pickles are yours at last. Proud of yourself, you bring the jar back to grandma.
-
-'Your ankle is bleeding Yanek, are you okay?'- she asks.
-You shrug and assure her you're good. Grandma gives you that patronising, nan look: 
-
-'Better take a suit of armour next time dear, one day you'll scratch your legs off! Anyway, be a dearie and go check what attracts those nasty critters to our cellar, eh? If grandpa's spilled some pear compote again...'
+      <outputs name="Volte para o porão." ownerID="7" targetID="9" fromX="2981" fromY="-402" />Os ratos estão mortos e os picles finalmente são seus. Orgulhoso de si mesmo, você traz o pote de volta para a vovó. 'Seu tornozelo está sangrando Yanek, você está bem?'- ela pergunta.
+Você dá de ombros e garante que está bem. Vovó lhe dá aquele olhar paternalista de babá: 'Melhor levar uma armadura da próxima vez, querida, um dia você vai arrancar as pernas! De qualquer forma, seja uma querida e vá verificar o que atrai essas criaturas desagradáveis para nossa adega, hein? Se o vovô derramou um pouco de compota de pêra de novo...'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3284" positionY="58" width="350" height="725" image="Event258">
-      <outputs name="Isso pode ser uma pinha?" ownerID="9" targetID="10" fromX="3609" fromY="-433" />You open the cellar door again, prepared to clean the rat corpses away and be done with it, when you sense movement. In a  dark corner, you notice a familiar shape, although much bigger than usual. A pine cone? You look closer and notice that a set of beady yellow eyes is looking you up and down and a row of sharp teeth glares at you in a smile.</nodes>
+      <outputs name="Isso pode ser uma pinha?" ownerID="9" targetID="10" fromX="3609" fromY="-433" />Você abre a porta do porão novamente, preparado para limpar os cadáveres de ratos e acabar com isso, quando sentir movimento. Em um canto escuro, você nota uma forma familiar, embora muito maior que o normal. Uma pinha? Você olha mais de perto e percebe que um par de olhos amarelos redondos está olhando para você de cima a baixo e uma fileira de dentes afiados olha para você em um sorriso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="3763" positionY="58" width="350" height="725">
       <outputs name="Defenda-se!" ownerID="10" targetID="11" fromX="4088" fromY="-433" />Você se lembra vagamente de algumas histórias que ouviu sobre espíritos da floresta parecendo pinhas. Eles certamente sabem um pouco de magia, mas raramente incomodam os humanos fora da floresta. O que este aqui está fazendo você não pode dizer, mas é o porão da sua avó, afinal, e nenhuma pinha vai mastigar seus suprimentos de inverno! Enquanto você marcha com confiança para chutar a criatura, espada desembainhada, seus olhos começam a brilhar e um grito agudo machuca seus ouvidos. Você aperta o punho de sua espada apenas para perceber que ela se desfaz em pó. Que malandragem é essa? - você se pergunta, mas nenhuma resposta segue e a pinha o ataca com sua magia.
 </nodes>
@@ -71,21 +63,17 @@ You shrug and assure her you're good. Grandma gives you that patronising, nan lo
       <outputs name="Surrender" ownerID="11" targetID="14" fromX="4682" fromY="-565" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="4937" positionY="222" width="350" height="725" image="Event251">
-      <outputs name="Sair..." ownerID="12" targetID="5" fromX="5262" fromY="-269" />Ok, this wasn't supposed to happen. Have you cheated? The whole purpose of this tutorial was to teach you how to run away. What are you doing in the tutorial area anyway, eh? Go smash some orc skulls and stop pretending you don't know how to play.</nodes>
+      <outputs name="Sair..." ownerID="12" targetID="5" fromX="5262" fromY="-269" />Ok, isso não deveria acontecer. Você traiu? Todo o propósito deste tutorial era ensiná-lo a fugir. O que você está fazendo na área de tutorial de qualquer maneira, hein? Vá esmagar alguns crânios de orcs e pare de fingir que não sabe jogar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5439" positionY="-63" width="350" height="725" image="Event255">
-      <outputs name="Ah, minha cabeça..." ownerID="13" targetID="5" fromX="5764" fromY="-554" />Você desmaia, mas a voz de Theodores te acorda: &#39;Bem, você estava pedindo, sabe? Lutar contra um desafio espiritual sem um especialista? Enfrentar um inimigo muito mais forte raramente é uma boa ideia. Quando as probabilidades estão contra você, fugir ou se render pode ser a melhor opção. Claro, você pode se machucar ou perder um pouco de moral, mas ainda é melhor do que perder de vez. Lembre-se dessa lição para o futuro!&#39;
+      <outputs name="Ah, minha cabeça..." ownerID="13" targetID="5" fromX="5764" fromY="-554" />Você desmaia, mas a voz de Theodores te acorda: 'Bem, você estava pedindo, sabe? Lutar contra um desafio espiritual sem um especialista? Enfrentar um inimigo muito mais forte raramente é uma boa ideia. Quando as probabilidades estão contra você, fugir ou se render pode ser a melhor opção. Claro, você pode se machucar ou perder um pouco de moral, mas ainda é melhor do que perder de vez. Lembre-se dessa lição para o futuro!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="4977" positionY="-718" width="350" height="725" image="Event253">
-      <outputs name="Fim" ownerID="14" targetID="5" fromX="5302" fromY="-1209" />Você sai do estado semi-hipnótico em que a pinha o colocou e consegue sair correndo do porão e trancar a porta atrás de você. Você corre para sua avó e grita que uma pinha está atacando sua casa. Vovó levanta a sobrancelha para você: &#39;É? Quer dizer que você deixou lá? Pelo poder de Svarog... Nos meus dias atiçávamos fogos com cones, vocês jovens são tão tímidos. Tudo bem, eu mesmo trato disso. Depois do jantar é isso. Suponho que você foi um rapaz esperto para escapar em vez de ter seu traseiro golpeado.</nodes>
+      <outputs name="Fim" ownerID="14" targetID="5" fromX="5302" fromY="-1209" />Você sai do estado semi-hipnótico em que a pinha o colocou e consegue sair correndo do porão e trancar a porta atrás de você. Você corre para sua avó e grita que uma pinha está atacando sua casa. Vovó levanta a sobrancelha para você: 'É? Quer dizer que você deixou lá? Pelo poder de Svarog... Nos meus dias atiçávamos fogos com cones, vocês jovens são tão tímidos. Tudo bem, eu mesmo trato disso. Depois do jantar é isso. Suponho que você foi um rapaz esperto para escapar em vez de ter seu traseiro golpeado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="234" positionY="-743" width="350" height="725" image="Event251">
-      <outputs name="Ufa, você pensou por um minuto aí que poderia se machucar com esse negócio de desafios?" ownerID="15" targetID="16" fromX="559" fromY="-1234" />'Nothing of that sort, lad. The cards you play  represent *you*, with all your strengths, weaknesses and abilities. That sword you've got there - you can use it against the rats and you will gain skill in the card game because of it.'</nodes>
+      <outputs name="Ufa, você pensou por um minuto aí que poderia se machucar com esse negócio de desafios?" ownerID="15" targetID="16" fromX="559" fromY="-1234" />— Nada disso, rapaz. As cartas que você joga representam *você*, com todos os seus pontos fortes, fracos e habilidades. Essa espada que você tem aí... você pode usá-la contra os ratos e ganhará habilidade no jogo de cartas por causa disso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="794" positionY="-664" width="350" height="805" image="Event272">
       <outputs name="Abra a porta e abra caminho até o pote de picles." ownerID="16" targetID="4" fromX="1119" fromY="-1155" />
-      <outputs name="Volte, você tem coisas mais importantes para fazer. [SAÍDA PARA O MENU PRINCIPAL]" ownerID="16" targetID="5" fromX="1119" fromY="-1235" />'Sure you can, lad! The wounds you get during a challenge are as real as that jar of pickles you're about to fetch. If you're not careful, you'll have to spend the next week at the healer's hut, or your mind or spirit may suffer. Better be careful!
-
-If you see this symbol: &lt;sprite name=ChallengePhysical&gt; - it means that answer leads to a challenge. The number next to it, between 1 and 10,  indicates difficulty.'
-
-You're never quite sure how and when Theo comes and goes, but here you are - standing in front of grandma's cellar, ready for anything.</nodes>
+      <outputs name="Volte, você tem coisas mais importantes para fazer. [SAÍDA PARA O MENU PRINCIPAL]" ownerID="16" targetID="5" fromX="1119" fromY="-1235" />'Sure you can, lad! The wounds you get during a challenge are as real as that jar of pickles you're about to fetch. If you're not careful, you'll have to spend the next week at the healer's hut, or your mind or spirit may suffer. Better be careful! If you see this symbol: &lt;sprite name=ChallengePhysical&gt; - it means that answer leads to a challenge. The number next to it, between 1 and 10,  indicates difficulty.' You're never quite sure how and when Theo comes and goes, but here you are - standing in front of grandma's cellar, ready for anything.</nodes>
   </Adventure>
   <Adventure name="Tutorial2" uniqueID="2" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="13" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="704" image="Event255">
@@ -99,26 +87,10 @@ You're never quite sure how and when Theo comes and goes, but here you are - sta
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Espere nan sair e olhe para o mapa." ownerID="2" targetID="3" fromX="819" fromY="-499" />'Thank you, brave adventurers!' - grandma tries her best to say it in as deep and smooth voice as she can, but still sounds more like the big bad wolf: 'The princess is safe. Here is your map to the treasure.'
-
-You squeak with joy and jump up vigorously, almost knocking over granny's rocking chair. When you finally settle down, she continues:
-
-'When the heroes look closer at the map, they realise, that it's all mixed up. They will have to solve the puzzle to get to the treasure.'
-
-She gives you one of her serious looks:
-
- 'But it's only a story, right? Now off to bed you two!' 
+      <outputs name="Espere nan sair e olhe para o mapa." ownerID="2" targetID="3" fromX="819" fromY="-499" />'Obrigado, bravos aventureiros!' - a vovó tenta o seu melhor para dizer com a voz mais profunda e suave que pode, mas ainda soa mais como o lobo mau: 'A princesa está segura. Aqui está o seu mapa para o tesouro. Você guincha de alegria e pula vigorosamente, quase derrubando a cadeira de balanço da vovó. Quando você finalmente se acalma, ela continua: “Quando os heróis olham mais de perto o mapa, eles percebem que está tudo misturado. Eles terão que resolver o quebra-cabeça para chegar ao tesouro.' Ela te lança um de seus olhares sérios: 'Mas é só uma história, né? Agora vão para a cama vocês dois! 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="982" positionY="41" width="350" height="725" image="Event251">
-      <outputs name="Ok, comece o desafio mental." ownerID="3" targetID="4" fromX="1307" fromY="-450" />You hear Theodore's voice again:
-
-'Challenges can also be used to test your group's intellectual abilities. But unlike when you faced the rats, this time, you will be challenged by a concept.
-
-"Concepts" is a general term and covers all situations where you do not fight against characters. Climbing a cliff, spotting danger, solving a puzzle or performing a ritual are all examples of a challenge versus concept.
-
-Concepts are represented by cards just as characters are, but in all concept challenges only the natural abilities of your characters count. Any equipment they have is disregarded. Other rules remain the same.
-
-Each time you see a symbol with cards black inside like this - &lt;sprite name="MentalConceptChallengeIcon"&gt; - it means it is a challenge against a concept.'
+      <outputs name="Ok, comece o desafio mental." ownerID="3" targetID="4" fromX="1307" fromY="-450" />You hear Theodore's voice again: 'Challenges can also be used to test your group's intellectual abilities. But unlike when you faced the rats, this time, you will be challenged by a concept. "Concepts" is a general term and covers all situations where you do not fight against characters. Climbing a cliff, spotting danger, solving a puzzle or performing a ritual are all examples of a challenge versus concept. Concepts are represented by cards just as characters are, but in all concept challenges only the natural abilities of your characters count. Any equipment they have is disregarded. Other rules remain the same. Each time you see a symbol with cards black inside like this - &lt;sprite name="MentalConceptChallengeIcon"&gt; - it means it is a challenge against a concept.'
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="4" positionX="1499" positionY="24" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-TUT_CON" challengeScale="101" challengedList="ppl">
       <logic>
@@ -133,15 +105,7 @@ Each time you see a symbol with cards black inside like this - &lt;sprite name="
       <outputs name="Surrender" ownerID="4" targetID="6" fromX="1940" fromY="-631" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="2733" positionY="324" width="350" height="725" image="Event255">
-      <outputs name="Nããão... mais uma história! Por favor!" ownerID="5" targetID="10" fromX="3058" fromY="-167" />You hear nan laugh behind you: 
-
-'Well done my little adventurers! There, in the middle of a meadow, you see a table, full of goodies!" 
-
-And having said that, granny produces a bowl of fruit and beetle jelly - your favourites.
-
-'Now, this time, off to bed, for real!'
-
-But, as usual, there's only one answer one can expect...</nodes>
+      <outputs name="Nããão... mais uma história! Por favor!" ownerID="5" targetID="10" fromX="3058" fromY="-167" />Você ouve Nan rir atrás de você: 'Bem feito meus pequenos aventureiros! Lá, no meio de um prado, você vê uma mesa, cheia de guloseimas!&quot; E dito isso, a vovó traz uma tigela de frutas e geléia de besouro - seus favoritos. 'Agora, desta vez, vá para a cama, de verdade! ' Mas, como sempre, há apenas uma resposta que se pode esperar...</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2152" positionY="-560" width="350" height="885" image="Event255">
       <logic>
         <ModifierBlock>
@@ -152,9 +116,7 @@ But, as usual, there's only one answer one can expect...</nodes>
       </logic>
       <outputs name="Sim." ownerID="6" targetID="4" fromX="2477" fromY="-1051" />
       <outputs name="Não." ownerID="6" targetID="9" fromX="2477" fromY="-1131" />
-      <outputs name="Cair no sono adormecer. [SAI PARA O MENU]" ownerID="6" targetID="8" fromX="2477" fromY="-1211" />Nan sighs. Knowing that it's late and seeing how hard you tried, she gives you some clues and you feel smarter. She asks:  
-
-'I know I said bedtime before, but do you want to try again?'</nodes>
+      <outputs name="Cair no sono adormecer. [SAI PARA O MENU]" ownerID="6" targetID="8" fromX="2477" fromY="-1211" />Nan suspira. Sabendo que é tarde e vendo o quanto você tentou, ela te dá algumas pistas e você se sente mais esperto. Ela pergunta: 'Eu sei que eu disse antes de dormir, mas você quer tentar de novo?'</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="7" positionX="2134" positionY="61" width="460" height="429">
       <logic>
         <ModifierBlock>
@@ -170,17 +132,9 @@ But, as usual, there's only one answer one can expect...</nodes>
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="5704" positionY="-905" width="350" height="455" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3225" positionY="-386" width="350" height="725">
-      <outputs name="Nããão... mais uma história! Por favor!" ownerID="9" targetID="10" fromX="3550" fromY="-877" />'Okay, it's getting late, time for bed.' - says grandma and closes her book: 
-
-'Make sure you wash your feet!'
-
-But, as usual, there's only one answer one can expect...</nodes>
+      <outputs name="Nããão... mais uma história! Por favor!" ownerID="9" targetID="10" fromX="3550" fromY="-877" />'Ok, está ficando tarde, hora de dormir.' - diz a vovó e fecha o livro: 'Certifique-se de lavar os pés!' Mas, como sempre, há apenas uma resposta que se pode esperar...</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="3863" positionY="-17" width="350" height="725">
-      <outputs name="História! História! História!" ownerID="10" targetID="11" fromX="4188" fromY="-508" />Nan takes a deep breath, she looks tired herself but determined to keep her authority:
-
-'Now you listen to me rascals, if you want to hear another story, it will be tomorrow. You want night demons or wolves to come snatch you up for being naughty?'
-
-You look at each other. The threat of the night mares, or worse, chills your bones, but winning with nan would be so exciting.
+      <outputs name="História! História! História!" ownerID="10" targetID="11" fromX="4188" fromY="-508" />Nan respira fundo, ela mesma parece cansada, mas determinada a manter sua autoridade: 'Agora me escutem patifes, se quiserem ouvir outra história, será amanhã. Você quer que demônios noturnos ou lobos venham te pegar por ser travesso? Vocês se olham. A ameaça das éguas noturnas, ou pior, gela seus ossos, mas vencer com a Nan seria tão emocionante.
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="11" positionX="4375" positionY="-7" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-TUT_HUM_CRAFTSMAN_GRANDMA_STASIA" challengeScale="101" challengedList="ppl">
       <logic>
@@ -213,18 +167,12 @@ You look at each other. The threat of the night mares, or worse, chills your bon
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Seu orgulho anão está levemente ferido com essa descarada demonstração de ignorância. Diga-lhes para vencê-lo antes que eles estraguem o seu bom dia." ownerID="2" targetID="3" fromX="733" fromY="-522" />Drunk and jolly you make your way home from a good game of dice. A heavy purse jingles at your belt. The sun is setting but the air is still warm, so the long walk home doesn't bother you. 
+      <outputs name="Seu orgulho anão está levemente ferido com essa descarada demonstração de ignorância. Diga-lhes para vencê-lo antes que eles estraguem o seu bom dia." ownerID="2" targetID="3" fromX="733" fromY="-522" />Bêbado e alegre, você volta para casa depois de um bom jogo de dados. Uma bolsa pesada tilintava em seu cinto. O sol está se pondo, mas o ar ainda está quente, então a longa caminhada para casa não o incomoda.
  
-The path leads through a small woodland and as you were about to take the last turn towards home, some ruffians jump out from behind a bush:
-
-'Your money or your lives!' - shouts the smallest of them with a squeaky voice.
+O caminho passa por um pequeno bosque e quando você estava prestes a fazer a última curva para casa, alguns rufioes saltam de trás de um arbusto: 'Seu dinheiro ou suas vidas!' - grita o menor deles com uma voz esganiçada.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="850" positionY="-11" width="350" height="725">
-      <outputs name="Lutar!" ownerID="3" targetID="4" fromX="1175" fromY="-502" />They look at each other and then back at your sack of coins. 
-
-'We ain't scared of your kind, we'll take ya!'
-
-They are either brave, stupid or desperate.</nodes>
+      <outputs name="Lutar!" ownerID="3" targetID="4" fromX="1175" fromY="-502" />Eles olham um para o outro e depois voltam para o seu saco de moedas. 'Nós não temos medo do seu tipo, nós vamos te levar!' Ou são corajosos, estúpidos ou desesperados.</nodes>
     <nodes xsi:type="NodeChallenge" ID="4" positionX="1324" positionY="24" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-TUT_HUM_BANDIT" challengeScale="101" challengedList="ppl">
       <logic>
         <ModifierBlock>
@@ -238,21 +186,11 @@ They are either brave, stupid or desperate.</nodes>
       <outputs name="Surrender" ownerID="4" targetID="8" fromX="1765" fromY="-631" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1937" positionY="153" width="350" height="725">
-      <outputs name="Observe-os partir." ownerID="5" targetID="6" fromX="2262" fromY="-338" />You beat their silly arses to a pulp and make them run:
-
-'Sorry, sorry master dwarf, we'll go now!' 
-
-You return home, and hopefully, confident enough to face any challenge Thea may throw you.
-
-</nodes>
+      <outputs name="Observe-os partir." ownerID="5" targetID="6" fromX="2262" fromY="-338" />Você bate na bunda deles até virar uma polpa e os faz correr: 'Desculpe, desculpe mestre anão, nós vamos agora!' Você volta para casa e, esperançosamente, confiante o suficiente para enfrentar qualquer desafio que Thea possa lançar em você. </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2471" positionY="110" width="350" height="725" image="Event251">
-      <outputs name="Fim tutorial and return to the Main Menu" ownerID="6" targetID="7" fromX="2796" fromY="-381" />Congratulations!
-
-You have completed our tutorial and learnt the basics of our card game mechanics. Remember, you can always replay this if you need to refresh any information.
+      <outputs name="Fim tutorial and return to the Main Menu" ownerID="6" targetID="7" fromX="2796" fromY="-381" />Parabéns! Você concluiu nosso tutorial e aprendeu o básico da nossa mecânica de jogo de cartas. Lembre-se, você sempre pode reproduzir isso se precisar atualizar alguma informação.
  
-Now go face the real Thea, if you dare!
-
-
+Agora vá enfrentar a verdadeira Thea, se tiver coragem!
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="2968" positionY="-119" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="8" positionX="1985" positionY="-657" width="350" height="805">
@@ -264,10 +202,6 @@ Now go face the real Thea, if you dare!
         </ModifierBlock>
       </logic>
       <outputs name="Sim." ownerID="8" targetID="4" fromX="2310" fromY="-1148" />
-      <outputs name="Não, eles me bateram, mas agora eu entendo as regras." ownerID="8" targetID="6" fromX="2310" fromY="-1228" />Ouch, dwarf or no dwarf, they beat you badly!
-
-For now, you have been healed.
-
-Would you like a rematch?</nodes>
+      <outputs name="Não, eles me bateram, mas agora eu entendo as regras." ownerID="8" targetID="6" fromX="2310" fromY="-1228" />Ai, anão ou não anão, eles bateram muito em você! Por enquanto, você foi curado. Gostaria de uma revanche?</nodes>
   </Adventure>
 </MODULE>

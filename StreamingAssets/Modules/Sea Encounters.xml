@@ -35,7 +35,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Nade para verificar se há algo útil." ownerID="2" targetID="5" fromX="763" fromY="-829" />
-      <outputs name="Deixe estar." ownerID="2" targetID="4" fromX="763" fromY="-909" />On a shallow reef, you see a shipwreck. </nodes>
+      <outputs name="Deixe estar." ownerID="2" targetID="4" fromX="763" fromY="-909" />Em um recife raso, você vê um naufrágio. </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="1643" positionY="725" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-SEA_BEAST_1P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="7" fromX="2084" fromY="229" />
       <outputs name="Lose" ownerID="3" targetID="19" fromX="2084" fromY="149" />
@@ -77,11 +77,11 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3187" positionY="682" width="350" height="805">
       <outputs name="[Xamã Goblin] Diga a ele que você pode prendê-lo ao seu serviço se ele quiser. Não é certo que ele tenha ficado preso aqui por tanto tempo, mesmo que a penitência fosse merecida." ownerID="9" targetID="31" fromX="3512" fromY="190" />
-      <outputs name="Ele sabe a que estava obrigado? Talvez agora que você está aqui, ele possa servi-lo e assim lavar o fracasso." ownerID="9" targetID="10" fromX="3512" fromY="110" />O fantasma aparece em seu navio: &#39;Por que você me chama aqui? Eu não posso ir com você. Estou preso aqui porque falhei em guiar meus amigos através da tempestade espiritual. Eles se foram agora, mas eu permaneço.</nodes>
+      <outputs name="Ele sabe a que estava obrigado? Talvez agora que você está aqui, ele possa servi-lo e assim lavar o fracasso." ownerID="9" targetID="10" fromX="3512" fromY="110" />O fantasma aparece em seu navio: 'Por que você me chama aqui? Eu não posso ir com você. Estou preso aqui porque falhei em guiar meus amigos através da tempestade espiritual. Eles se foram agora, mas eu permaneço.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="3707" positionY="529" width="350" height="885">
       <outputs name="[Usuário mágico] Diga que você tentará fazer isso da maneira mais segura possível." ownerID="10" targetID="11" fromX="4032" fromY="37" />
       <outputs name="Acene com a cabeça e diga a ele que você vai tentar de qualquer maneira." ownerID="10" targetID="14" fromX="4032" fromY="-42" />
-      <outputs name="Retire-se e diga que não vai arriscar. Dê adeus a ele." ownerID="10" targetID="8" fromX="4032" fromY="-122" />'Yes, we could try. But I warn you, whatever force keeps me here, it could curse you.'</nodes>
+      <outputs name="Retire-se e diga que não vai arriscar. Dê adeus a ele." ownerID="10" targetID="8" fromX="4032" fromY="-122" />— Sim, podemos tentar. Mas eu aviso você, qualquer força que me mantenha aqui, pode amaldiçoar você.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="11" positionX="4189" positionY="447" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -104,7 +104,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="13" targetID="8" fromX="5078" fromY="-488" />The ghost flickers and disappears, and you feel a curse upon you. </nodes>
+      <outputs name="Sair." ownerID="13" targetID="8" fromX="5078" fromY="-488" />O fantasma pisca e desaparece, e você sente uma maldição sobre você. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="14" positionX="4189" positionY="-139" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="14" targetID="18" group="G1" fromX="4618" fromY="-527" />
       <outputs ownerID="14" targetID="13" group="G1" fromX="4618" fromY="-607" />
@@ -157,7 +157,7 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2657" positionY="-23" width="350" height="725">
-      <outputs name="Sair." ownerID="19" targetID="16" fromX="2982" fromY="-514" />The fish beat you badly and force you to flee.</nodes>
+      <outputs name="Sair." ownerID="19" targetID="16" fromX="2982" fromY="-514" />Os peixes batem em você e o forçam a fugir.</nodes>
     <nodes xsi:type="NodeChallenge" ID="20" positionX="1870" positionY="-142" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_2M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -199,7 +199,7 @@
     <nodes xsi:type="NodeAdventure" ID="22" positionX="855" positionY="-944" width="350" height="885" image="Event211">
       <outputs name="Ajude-os e ataque os peixes." ownerID="22" targetID="23" fromX="1180" fromY="-1435" />
       <outputs name="Jogue um pouco de carne do seu barco para atrair o peixe para longe da pessoa." ownerID="22" targetID="24" fromX="1180" fromY="-1515" />
-      <outputs name="Aproveite esta oportunidade para saquear o naufrágio sem lutar contra os peixes." ownerID="22" targetID="25" fromX="1180" fromY="-1595" />You search the shipwreck and see that it is very recent. In fact, you can see something or someone struggling to swim to the surface, but they are being attacked by swarms of nasty fish!</nodes>
+      <outputs name="Aproveite esta oportunidade para saquear o naufrágio sem lutar contra os peixes." ownerID="22" targetID="25" fromX="1180" fromY="-1595" />Você procura o naufrágio e vê que é muito recente. Na verdade, você pode ver algo ou alguém lutando para nadar até a superfície, mas eles estão sendo atacados por enxames de peixes desagradáveis!</nodes>
     <nodes xsi:type="NodeChallenge" ID="23" positionX="1326" positionY="-1126" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-SEA_BEAST_1P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="23" targetID="26" group="G1" fromX="1767" fromY="-1621" />
       <outputs name="Lose" ownerID="23" targetID="19" fromX="1767" fromY="-1701" />
@@ -246,7 +246,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="26" targetID="27" fromX="2342" fromY="-1818" />You've heroically rescued...a dog.</nodes>
+      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="26" targetID="27" fromX="2342" fromY="-1818" />Você resgatou heroicamente... um cachorro.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="2520" positionY="-1335" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -270,7 +270,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="28" targetID="27" fromX="2776" fromY="-2307" />You've heroically rescued?.?.?.?a cat.</nodes>
+      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="28" targetID="27" fromX="2776" fromY="-2307" />Você resgatou heroicamente?.?.?.?um gato.</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="3711" positionY="1315" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -282,7 +282,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="31" targetID="32" fromX="4036" fromY="823" />'Yes, you I will serve willingly, and I trust you can make this transition safe for us both. Let us leave this wretched shipwreck.'</nodes>
+      <outputs name="Sair." ownerID="31" targetID="32" fromX="4036" fromY="823" />— Sim, servirei a você de bom grado, e confio que você possa fazer essa transição segura para nós dois. Deixemos este naufrágio miserável.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="32" positionX="4124" positionY="1082" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -337,7 +337,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Nade para verificar se há algo útil." ownerID="2" targetID="5" fromX="763" fromY="-829" />
-      <outputs name="Deixe estar." ownerID="2" targetID="4" fromX="763" fromY="-909" />On a shallow reef, you see a shipwreck. </nodes>
+      <outputs name="Deixe estar." ownerID="2" targetID="4" fromX="763" fromY="-909" />Em um recife raso, você vê um naufrágio. </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="1807" positionY="493" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-SEA_BEAST_2P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="7" fromX="2248" fromY="-2" />
       <outputs name="Lose" ownerID="3" targetID="19" fromX="2248" fromY="-82" />
@@ -379,11 +379,11 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3200" positionY="670" width="350" height="805">
       <outputs name="[Xamã Goblin] Diga a ele que você pode prendê-lo ao seu serviço se ele quiser. Não é certo que ele tenha ficado preso aqui por tanto tempo, mesmo que a penitência fosse merecida." ownerID="9" targetID="31" fromX="3525" fromY="178" />
-      <outputs name="Ele sabe a que estava obrigado? Talvez agora que você está aqui, ele possa servi-lo e assim lavar o fracasso." ownerID="9" targetID="10" fromX="3525" fromY="98" />O fantasma aparece em seu navio: &#39;Por que você me chama aqui? Eu não posso ir com você. Estou preso aqui porque falhei em guiar meus amigos através da tempestade espiritual. Eles se foram agora, mas eu permaneço.</nodes>
+      <outputs name="Ele sabe a que estava obrigado? Talvez agora que você está aqui, ele possa servi-lo e assim lavar o fracasso." ownerID="9" targetID="10" fromX="3525" fromY="98" />O fantasma aparece em seu navio: 'Por que você me chama aqui? Eu não posso ir com você. Estou preso aqui porque falhei em guiar meus amigos através da tempestade espiritual. Eles se foram agora, mas eu permaneço.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="3707" positionY="529" width="350" height="885">
       <outputs name="[Usuário mágico] Diga que você tentará fazer isso da maneira mais segura possível." ownerID="10" targetID="11" fromX="4032" fromY="37" />
       <outputs name="Acene com a cabeça e diga a ele que você vai tentar de qualquer maneira." ownerID="10" targetID="14" fromX="4032" fromY="-42" />
-      <outputs name="Retire-se e diga que não vai arriscar. Dê adeus a ele." ownerID="10" targetID="8" fromX="4032" fromY="-122" />'Yes, we could try. But I warn you, whatever force keeps me here, it could curse you.'</nodes>
+      <outputs name="Retire-se e diga que não vai arriscar. Dê adeus a ele." ownerID="10" targetID="8" fromX="4032" fromY="-122" />— Sim, podemos tentar. Mas eu aviso você, qualquer força que me mantenha aqui, pode amaldiçoar você.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="11" positionX="4189" positionY="447" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -406,7 +406,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="13" targetID="8" fromX="5078" fromY="-488" />The ghost flickers and disappears, and you feel a curse upon you. </nodes>
+      <outputs name="Sair." ownerID="13" targetID="8" fromX="5078" fromY="-488" />O fantasma pisca e desaparece, e você sente uma maldição sobre você. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="14" positionX="4189" positionY="-139" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="14" targetID="18" group="G1" fromX="4618" fromY="-527" />
       <outputs ownerID="14" targetID="13" group="G1" fromX="4618" fromY="-607" />
@@ -459,7 +459,7 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2661" positionY="-51" width="350" height="725">
-      <outputs name="Sair." ownerID="19" targetID="16" fromX="2986" fromY="-542" />The fish beat you badly and force you to flee.</nodes>
+      <outputs name="Sair." ownerID="19" targetID="16" fromX="2986" fromY="-542" />Os peixes batem em você e o forçam a fugir.</nodes>
     <nodes xsi:type="NodeChallenge" ID="20" positionX="1985" positionY="-268" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_3M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -501,7 +501,7 @@
     <nodes xsi:type="NodeAdventure" ID="22" positionX="855" positionY="-944" width="350" height="885" image="Event211">
       <outputs name="Ajude-os e ataque os peixes." ownerID="22" targetID="23" fromX="1180" fromY="-1435" />
       <outputs name="Jogue um pouco de carne do seu barco para atrair o peixe para longe da pessoa." ownerID="22" targetID="24" fromX="1180" fromY="-1515" />
-      <outputs name="Aproveite esta oportunidade para saquear o naufrágio sem lutar contra os peixes." ownerID="22" targetID="25" fromX="1180" fromY="-1595" />You search the shipwreck and see that it is very recent. In fact, you can see something or someone struggling to swim to the surface, but they are being attacked by swarms of nasty fish!</nodes>
+      <outputs name="Aproveite esta oportunidade para saquear o naufrágio sem lutar contra os peixes." ownerID="22" targetID="25" fromX="1180" fromY="-1595" />Você procura o naufrágio e vê que é muito recente. Na verdade, você pode ver algo ou alguém lutando para nadar até a superfície, mas eles estão sendo atacados por enxames de peixes desagradáveis!</nodes>
     <nodes xsi:type="NodeChallenge" ID="23" positionX="1365" positionY="-1134" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-SEA_BEAST_2P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="23" targetID="26" group="G1" fromX="1806" fromY="-1629" />
       <outputs name="Lose" ownerID="23" targetID="19" fromX="1806" fromY="-1709" />
@@ -551,7 +551,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="26" targetID="27" fromX="2236" fromY="-1708" />You've heroically rescued ... a dog.</nodes>
+      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="26" targetID="27" fromX="2236" fromY="-1708" />Você resgatou heroicamente... um cachorro.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="2520" positionY="-1335" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -575,7 +575,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="28" targetID="27" fromX="2776" fromY="-2307" />You've heroically rescued...a cat.</nodes>
+      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="28" targetID="27" fromX="2776" fromY="-2307" />Você resgatou heroicamente... um gato.</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="3711" positionY="1315" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -587,7 +587,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="31" targetID="32" fromX="4036" fromY="823" />'Yes, you I will serve willingly, and I trust you can make this transition safe for us both. Let us leave this wretched shipwreck.'</nodes>
+      <outputs name="Sair." ownerID="31" targetID="32" fromX="4036" fromY="823" />— Sim, servirei a você de bom grado, e confio que você possa fazer essa transição segura para nós dois. Deixemos este naufrágio miserável.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="32" positionX="4124" positionY="1082" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -642,7 +642,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Nade para verificar se há algo útil." ownerID="2" targetID="5" fromX="763" fromY="-829" />
-      <outputs name="Deixe estar." ownerID="2" targetID="4" fromX="763" fromY="-909" />On a shallow reef, you see a shipwreck. </nodes>
+      <outputs name="Deixe estar." ownerID="2" targetID="4" fromX="763" fromY="-909" />Em um recife raso, você vê um naufrágio. </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="1807" positionY="493" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-SEA_BEAST_3P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="7" fromX="2248" fromY="-2" />
       <outputs name="Lose" ownerID="3" targetID="19" fromX="2248" fromY="-82" />
@@ -669,11 +669,11 @@
       <outputs name="A aparição não parece instantaneamente agressiva. Talvez haja uma maneira de capturá-lo. Entre e experimente." ownerID="7" targetID="9" fromX="2704" fromY="200" />Com o peixe desaparecido, você nada até o convés e procura mercadorias. Você vê vários cadáveres limpos pelos peixes. Você também vê uma aparição vagando sem rumo pelo convés. </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3200" positionY="670" width="350" height="805">
       <outputs name="[Bruxa] Examine os restos mortais. Talvez alguém aqui controlasse o espectro." ownerID="9" targetID="31" fromX="3525" fromY="178" />
-      <outputs name="Examine o fantasma. Talvez haja um objeto aqui que controla sua existência." ownerID="9" targetID="10" fromX="3525" fromY="98" />O fantasma aparece em seu navio: &#39;Por que você me chama aqui? Eu não posso ir com você. Estou preso aqui porque falhei em guiar meus amigos através da tempestade espiritual. Eles se foram agora, mas eu permaneço.</nodes>
+      <outputs name="Examine o fantasma. Talvez haja um objeto aqui que controla sua existência." ownerID="9" targetID="10" fromX="3525" fromY="98" />O fantasma aparece em seu navio: 'Por que você me chama aqui? Eu não posso ir com você. Estou preso aqui porque falhei em guiar meus amigos através da tempestade espiritual. Eles se foram agora, mas eu permaneço.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="3708" positionY="559" width="350" height="885">
       <outputs name="[Usuário de magia] Pegue o totem e tente controlar sua magia." ownerID="10" targetID="11" fromX="4033" fromY="67" />
       <outputs name="Pegue o totem e veja o que acontece." ownerID="10" targetID="14" fromX="4033" fromY="-12" />
-      <outputs name="Retire-se e apenas saqueie este lugar." ownerID="10" targetID="35" fromX="4033" fromY="-92" />You see one of the fallen orcs holding a totem of sorts. This was likely an orc witch, and the object may help you control this wraith - or it may hurt you. It is never safe to meddle with a dead witch's belongings. </nodes>
+      <outputs name="Retire-se e apenas saqueie este lugar." ownerID="10" targetID="35" fromX="4033" fromY="-92" />Você vê um dos orcs caídos segurando uma espécie de totem. Provavelmente era uma bruxa orc, e o objeto pode ajudá-lo a controlar esse espectro - ou pode machucá-lo. Nunca é seguro mexer nos pertences de uma bruxa morta. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="11" positionX="4189" positionY="447" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -696,7 +696,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="13" targetID="35" fromX="5078" fromY="-488" />The totem pierces your skin and makes you ill as the wraith disappears.</nodes>
+      <outputs name="Sair." ownerID="13" targetID="35" fromX="5078" fromY="-488" />O totem perfura sua pele e o deixa doente quando o fantasma desaparece.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="14" positionX="4189" positionY="-139" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="14" targetID="18" group="G1" fromX="4618" fromY="-527" />
       <outputs ownerID="14" targetID="13" group="G1" fromX="4618" fromY="-607" />
@@ -729,7 +729,7 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2661" positionY="-51" width="350" height="725">
-      <outputs name="Sair." ownerID="19" targetID="16" fromX="2986" fromY="-542" />The fish beat you badly and force you to flee.</nodes>
+      <outputs name="Sair." ownerID="19" targetID="16" fromX="2986" fromY="-542" />Os peixes batem em você e o forçam a fugir.</nodes>
     <nodes xsi:type="NodeChallenge" ID="20" positionX="1985" positionY="-268" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_4M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -774,7 +774,7 @@
     <nodes xsi:type="NodeAdventure" ID="22" positionX="855" positionY="-944" width="350" height="885" image="Event211">
       <outputs name="Ajude-os e ataque os peixes." ownerID="22" targetID="23" fromX="1180" fromY="-1435" />
       <outputs name="Jogue um pouco de carne do seu barco para atrair o peixe para longe da pessoa." ownerID="22" targetID="24" fromX="1180" fromY="-1515" />
-      <outputs name="Aproveite esta oportunidade para saquear o naufrágio sem lutar contra os peixes." ownerID="22" targetID="25" fromX="1180" fromY="-1595" />You search the shipwreck and see that it is very recent. In fact, you can see something or someone struggling to swim to the surface, but they are being attacked by swarms of nasty fish!</nodes>
+      <outputs name="Aproveite esta oportunidade para saquear o naufrágio sem lutar contra os peixes." ownerID="22" targetID="25" fromX="1180" fromY="-1595" />Você procura o naufrágio e vê que é muito recente. Na verdade, você pode ver algo ou alguém lutando para nadar até a superfície, mas eles estão sendo atacados por enxames de peixes desagradáveis!</nodes>
     <nodes xsi:type="NodeChallenge" ID="23" positionX="1365" positionY="-1134" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-SEA_BEAST_2P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="23" targetID="26" group="G1" fromX="1806" fromY="-1629" />
       <outputs name="Lose" ownerID="23" targetID="19" fromX="1806" fromY="-1709" />
@@ -824,7 +824,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="26" targetID="27" fromX="2387" fromY="-1804" />You've heroically rescued...a trained wolf.</nodes>
+      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="26" targetID="27" fromX="2387" fromY="-1804" />Você resgatou heroicamente... um lobo treinado.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="2520" positionY="-1335" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -851,7 +851,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="28" targetID="27" fromX="2776" fromY="-2307" />You've heroically rescued...a trained bear.</nodes>
+      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="28" targetID="27" fromX="2776" fromY="-2307" />Você resgatou heroicamente... um urso treinado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="3711" positionY="1315" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -863,7 +863,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Saqueie o lugar e vá embora." ownerID="31" targetID="34" fromX="4036" fromY="823" />You spot a totem in the hands of a fallen orc witch. You can take it and thus control this wretched being. </nodes>
+      <outputs name="Saqueie o lugar e vá embora." ownerID="31" targetID="34" fromX="4036" fromY="823" />Você vê um totem nas mãos de uma bruxa orc caída. Você pode tomá-lo e, assim, controlar esse ser miserável. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="33" positionX="4819" positionY="511" width="350" height="408" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -959,12 +959,12 @@
         </FilterBlock>
       </logic>
       <outputs name="Investigar." ownerID="2" targetID="3" fromX="740" fromY="-474" />
-      <outputs name="Ignore isto." ownerID="2" targetID="4" fromX="740" fromY="-554" />You spot a shipwreck sitting atop some rocks. </nodes>
+      <outputs name="Ignore isto." ownerID="2" targetID="4" fromX="740" fromY="-554" />Você vê um naufrágio sentado em cima de algumas rochas. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="807" positionY="157" width="350" height="966">
       <outputs name="[Percepção] Observe." ownerID="3" targetID="5" group="G1" fromX="1132" fromY="-334" />
       <outputs name="[Não-vivo] Observe-o." ownerID="3" targetID="19" group="G1" fromX="1132" fromY="-414" />
       <outputs name="[Usuário de magia] Primeiro, tenha uma noção deste navio." ownerID="3" targetID="20" group="G1" fromX="1132" fromY="-494" />
-      <outputs name="Entre." ownerID="3" targetID="21" fromX="1132" fromY="-574" />The vessel was large and likely still holds some treasures. </nodes>
+      <outputs name="Entre." ownerID="3" targetID="21" fromX="1132" fromY="-574" />A embarcação era grande e provavelmente ainda guarda alguns tesouros. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="2" positionY="-798" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1235" positionY="814" width="350" height="966" image="Event210">
       <logic>
@@ -977,7 +977,7 @@
       <outputs name="[Usuário de magia] Alguma magia negra permanece aqui. Prepare um ritual para limpar este lugar e assim libertar essas pobres almas." ownerID="5" targetID="6" fromX="1560" fromY="322" />
       <outputs name="[Unliving] Eles provavelmente atacarão apenas criaturas de sangue quente. Entre com cuidado e saqueie o local." ownerID="5" targetID="18" fromX="1560" fromY="242" />
       <outputs name="Ataque!" ownerID="5" targetID="14" fromX="1560" fromY="162" />
-      <outputs name="Saia deste lugar." ownerID="5" targetID="4" fromX="1560" fromY="82" />You spot unnatural movement aboard. The unliving likely haunt this ship.</nodes>
+      <outputs name="Saia deste lugar." ownerID="5" targetID="4" fromX="1560" fromY="82" />Você detecta movimentos não naturais a bordo. Os mortos-vivos provavelmente assombram este navio.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="1725" positionY="839" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_2S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -991,7 +991,7 @@
       <outputs name="Surrender" ownerID="6" targetID="10" fromX="2166" fromY="183" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2787" positionY="969" width="350" height="725">
-      <outputs name="Saqueie o navio e vá embora." ownerID="7" targetID="12" fromX="3112" fromY="477" />The dark spell is broken and the unliving collapse. Their souls are free now. </nodes>
+      <outputs name="Saqueie o navio e vá embora." ownerID="7" targetID="12" fromX="3112" fromY="477" />O feitiço sombrio é quebrado e os mortos-vivos desmoronam. Suas almas estão livres agora. </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="8" positionX="2259" positionY="838" width="460" height="429" sourceGroup="GROUP-SKELETON_MIX_3P_1M_1S" cargoPercentage="100" dropPercentage="100">
       <outputs ownerID="8" targetID="7" fromX="2689" fromY="479" />
     </nodes>
@@ -1003,7 +1003,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="3324" positionY="274" width="350" height="805">
       <outputs name="Sair." ownerID="11" targetID="13" fromX="3649" fromY="-217" />
-      <outputs name="Ataque!" ownerID="11" targetID="14" fromX="3649" fromY="-297" />Whatever dark magic is at work here is too strong for you, and you feel its power affect you. </nodes>
+      <outputs name="Ataque!" ownerID="11" targetID="14" fromX="3649" fromY="-297" />Qualquer que seja a magia negra em ação aqui é forte demais para você, e você sente que seu poder o afeta. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3173" positionY="981" width="350" height="530" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1032,7 +1032,7 @@
       <outputs name="Surrender" ownerID="14" targetID="17" fromX="2141" fromY="-1332" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="2232" positionY="-403" width="350" height="725">
-      <outputs name="Saqueie o navio e vá embora." ownerID="15" targetID="16" fromX="2557" fromY="-894" />The unliving are beaten and should not get up for a time. </nodes>
+      <outputs name="Saqueie o navio e vá embora." ownerID="15" targetID="16" fromX="2557" fromY="-894" />Os mortos-vivos são espancados e não devem se levantar por um tempo. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="2669" positionY="-380" width="350" height="530" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1049,7 +1049,7 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="3053" positionY="-622" width="350" height="725">
-      <outputs name="Sair." ownerID="17" targetID="13" fromX="3378" fromY="-1113" />The unliving beat you badly and force you to flee.</nodes>
+      <outputs name="Sair." ownerID="17" targetID="13" fromX="3378" fromY="-1113" />Os mortos-vivos batem em você e o forçam a fugir.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="1733" positionY="97" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1066,7 +1066,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="16" fromX="2058" fromY="-394" />You go in and loot the ship without the unliving noticing your presence.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="16" fromX="2058" fromY="-394" />Você entra e saqueia o navio sem que os mortos percebam sua presença.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="1266" positionY="-258" width="350" height="966" image="Event210">
       <logic>
         <FilterBlock>
@@ -1078,7 +1078,7 @@
       <outputs name="[Usuário de magia] Alguma magia negra permanece aqui. Prepare um ritual para limpar este lugar e assim libertar essas pobres almas." ownerID="19" targetID="6" fromX="1591" fromY="-749" />
       <outputs name="[Unliving] Eles provavelmente atacarão apenas criaturas de sangue quente. Entre com cuidado e saqueie o local." ownerID="19" targetID="18" fromX="1591" fromY="-829" />
       <outputs name="Ataque!" ownerID="19" targetID="14" fromX="1591" fromY="-909" />
-      <outputs name="Saia deste lugar." ownerID="19" targetID="4" fromX="1591" fromY="-989" />Your unliving kin are bound to this shipwreck. They will attack any living soul that approaches.</nodes>
+      <outputs name="Saia deste lugar." ownerID="19" targetID="4" fromX="1591" fromY="-989" />Seus parentes mortos estão ligados a este naufrágio. Eles atacarão qualquer alma viva que se aproxime.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="814" positionY="-919" width="350" height="966" image="Event210">
       <logic>
         <FilterBlock>
@@ -1090,10 +1090,10 @@
       <outputs name="[Usuário de magia] Alguma magia negra permanece aqui. Prepare um ritual para limpar este lugar e assim libertar essas pobres almas." ownerID="20" targetID="6" fromX="1139" fromY="-1410" />
       <outputs name="[Unliving] Eles provavelmente atacarão apenas criaturas de sangue quente. Entre com cuidado e saqueie o local." ownerID="20" targetID="18" fromX="1139" fromY="-1490" />
       <outputs name="Ataque!" ownerID="20" targetID="14" fromX="1139" fromY="-1570" />
-      <outputs name="Saia deste lugar." ownerID="20" targetID="4" fromX="1139" fromY="-1650" />The unliving are bound by a dark spell to this shipwreck. They will attack any living soul that approaches.</nodes>
+      <outputs name="Saia deste lugar." ownerID="20" targetID="4" fromX="1139" fromY="-1650" />Os mortos-vivos estão ligados por um feitiço sombrio a este naufrágio. Eles atacarão qualquer alma viva que se aproxime.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="1291" positionY="-1293" width="350" height="805" image="Event210">
       <outputs name="Ataque!" ownerID="21" targetID="14" fromX="1616" fromY="-1784" />
-      <outputs name="Tente escapar." ownerID="21" targetID="22" fromX="1616" fromY="-1864" />You go in and quickly realise that you are surrounded by the unliving!</nodes>
+      <outputs name="Tente escapar." ownerID="21" targetID="22" fromX="1616" fromY="-1864" />Você entra e percebe rapidamente que está cercado pelos mortos-vivos!</nodes>
     <nodes xsi:type="NodeChallenge" ID="22" positionX="1753" positionY="-1680" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_2P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="22" targetID="23" fromX="2194" fromY="-2175" />
       <outputs name="Lose" ownerID="22" targetID="25" fromX="2194" fromY="-2255" />
@@ -1107,7 +1107,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="23" targetID="24" fromX="2719" fromY="-2170" />You manage to run before they get to you.</nodes>
+      <outputs name="Sair." ownerID="23" targetID="24" fromX="2719" fromY="-2170" />Você consegue correr antes que eles cheguem até você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="24" positionX="2856" positionY="-1669" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="25" positionX="2856" positionY="-2190" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="40" maxDamage="70" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="25" targetID="28" fromX="3285" fromY="-2578" />
@@ -1117,10 +1117,10 @@
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="3819" positionY="-2105" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="28" positionX="3411" positionY="-2049" width="350" height="725">
-      <outputs name="Sair." ownerID="28" targetID="27" fromX="3736" fromY="-2540" />You manage to escape but not without scrapes. </nodes>
+      <outputs name="Sair." ownerID="28" targetID="27" fromX="3736" fromY="-2540" />Você consegue escapar, mas não sem arranhoes. </nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="2314" positionY="-2547" width="350" height="805">
       <outputs name="Continue correndo!" ownerID="29" targetID="30" fromX="2639" fromY="-3038" />
-      <outputs name="Ataque!" ownerID="29" targetID="14" fromX="2639" fromY="-3118" />You stopped running. What now?</nodes>
+      <outputs name="Ataque!" ownerID="29" targetID="14" fromX="2639" fromY="-3118" />Você parou de correr. E agora?</nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="2831" positionY="-2691" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="50" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="30" targetID="28" fromX="3260" fromY="-3079" />
     </nodes>
@@ -1154,12 +1154,12 @@
         </FilterBlock>
       </logic>
       <outputs name="Investigar." ownerID="2" targetID="3" fromX="596" fromY="-855" />
-      <outputs name="Ignore isto." ownerID="2" targetID="4" fromX="596" fromY="-935" />You spot a shipwreck sitting atop some rocks. </nodes>
+      <outputs name="Ignore isto." ownerID="2" targetID="4" fromX="596" fromY="-935" />Você vê um naufrágio sentado em cima de algumas rochas. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="833" positionY="-217" width="350" height="966">
       <outputs name="[Percepção] Observe." ownerID="3" targetID="5" group="G1" fromX="1158" fromY="-708" />
       <outputs name="[Não-vivo] Observe-o." ownerID="3" targetID="19" group="G1" fromX="1158" fromY="-788" />
       <outputs name="[Usuário de magia] Primeiro, tenha uma noção deste navio." ownerID="3" targetID="20" group="G1" fromX="1158" fromY="-868" />
-      <outputs name="Entre." ownerID="3" targetID="21" fromX="1158" fromY="-948" />The vessel was large and likely still holds some treasures. </nodes>
+      <outputs name="Entre." ownerID="3" targetID="21" fromX="1158" fromY="-948" />A embarcação era grande e provavelmente ainda guarda alguns tesouros. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="-479" positionY="-1335" width="350" height="455" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1235" positionY="814" width="350" height="966" image="Event177">
       <logic>
@@ -1172,7 +1172,7 @@
       <outputs name="[Usuário de magia] Alguma magia negra permanece aqui. Prepare um ritual para limpar este lugar e assim libertar essas pobres almas." ownerID="5" targetID="6" fromX="1560" fromY="322" />
       <outputs name="[Unliving] Eles provavelmente atacarão apenas criaturas de sangue quente. Entre com cuidado e saqueie o local." ownerID="5" targetID="18" fromX="1560" fromY="242" />
       <outputs name="Ataque!" ownerID="5" targetID="14" fromX="1560" fromY="162" />
-      <outputs name="Saia deste lugar." ownerID="5" targetID="4" fromX="1560" fromY="82" />You spot unnatural movement aboard. The unliving likely haunt this ship.</nodes>
+      <outputs name="Saia deste lugar." ownerID="5" targetID="4" fromX="1560" fromY="82" />Você detecta movimentos não naturais a bordo. Os mortos-vivos provavelmente assombram este navio.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="1725" positionY="839" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_3S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1186,7 +1186,7 @@
       <outputs name="Surrender" ownerID="6" targetID="10" fromX="2166" fromY="183" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2787" positionY="969" width="350" height="725">
-      <outputs name="Saqueie o navio e vá embora." ownerID="7" targetID="12" fromX="3112" fromY="477" />The dark spell is broken and the unliving collapse. Their souls are free now. </nodes>
+      <outputs name="Saqueie o navio e vá embora." ownerID="7" targetID="12" fromX="3112" fromY="477" />O feitiço sombrio é quebrado e os mortos-vivos desmoronam. Suas almas estão livres agora. </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="8" positionX="2259" positionY="838" width="460" height="429" sourceGroup="GROUP-UNLI_MIX_4P_2M_3S" cargoPercentage="100" dropPercentage="100">
       <outputs ownerID="8" targetID="7" fromX="2689" fromY="479" />
     </nodes>
@@ -1198,7 +1198,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="3380" positionY="306" width="350" height="805">
       <outputs name="Sair." ownerID="11" targetID="13" fromX="3705" fromY="-185" />
-      <outputs name="Ataque!" ownerID="11" targetID="14" fromX="3705" fromY="-265" />Whatever dark magic is at work here is too strong for you, and you feel its power affect you. </nodes>
+      <outputs name="Ataque!" ownerID="11" targetID="14" fromX="3705" fromY="-265" />Qualquer que seja a magia negra em ação aqui é forte demais para você, e você sente que seu poder o afeta. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3207" positionY="995" width="350" height="455" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1227,7 +1227,7 @@
       <outputs name="Surrender" ownerID="14" targetID="17" fromX="2172" fromY="-1530" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="2277" positionY="-427" width="350" height="725">
-      <outputs name="Saqueie o navio e vá embora." ownerID="15" targetID="16" fromX="2602" fromY="-918" />The unliving are beaten and should not get up for a time. </nodes>
+      <outputs name="Saqueie o navio e vá embora." ownerID="15" targetID="16" fromX="2602" fromY="-918" />Os mortos-vivos são espancados e não devem se levantar por um tempo. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="2669" positionY="-380" width="350" height="455" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1244,7 +1244,7 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="3102" positionY="-657" width="350" height="725">
-      <outputs name="Sair." ownerID="17" targetID="13" fromX="3428" fromY="-1148" />The unliving beat you badly and force you to flee.</nodes>
+      <outputs name="Sair." ownerID="17" targetID="13" fromX="3428" fromY="-1148" />Os mortos-vivos batem em você e o forçam a fugir.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="1756" positionY="87" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1261,7 +1261,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="16" fromX="2081" fromY="-404" />You go in and loot the ship without the unliving noticing your presence.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="16" fromX="2081" fromY="-404" />Você entra e saqueia o navio sem que os mortos percebam sua presença.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="1266" positionY="-258" width="350" height="966" image="Event177">
       <logic>
         <FilterBlock>
@@ -1273,7 +1273,7 @@
       <outputs name="[Usuário de magia] Alguma magia negra permanece aqui. Prepare um ritual para limpar este lugar e assim libertar essas pobres almas." ownerID="19" targetID="6" fromX="1591" fromY="-749" />
       <outputs name="[Unliving] Eles provavelmente atacarão apenas criaturas de sangue quente. Entre com cuidado e saqueie o local." ownerID="19" targetID="18" fromX="1591" fromY="-829" />
       <outputs name="Ataque!" ownerID="19" targetID="14" fromX="1591" fromY="-909" />
-      <outputs name="Saia deste lugar." ownerID="19" targetID="4" fromX="1591" fromY="-989" />Your unliving kin are bound to this shipwreck. They will attack any living soul that approaches.</nodes>
+      <outputs name="Saia deste lugar." ownerID="19" targetID="4" fromX="1591" fromY="-989" />Seus parentes mortos estão ligados a este naufrágio. Eles atacarão qualquer alma viva que se aproxime.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="798" positionY="-1243" width="350" height="966" image="Event210">
       <logic>
         <FilterBlock>
@@ -1285,10 +1285,10 @@
       <outputs name="[Usuário de magia] Alguma magia negra permanece aqui. Prepare um ritual para limpar este lugar e assim libertar essas pobres almas." ownerID="20" targetID="6" fromX="1123" fromY="-1734" />
       <outputs name="[Unliving] Eles provavelmente atacarão apenas criaturas de sangue quente. Entre com cuidado e saqueie o local." ownerID="20" targetID="18" fromX="1123" fromY="-1814" />
       <outputs name="Ataque!" ownerID="20" targetID="14" fromX="1123" fromY="-1894" />
-      <outputs name="Saia deste lugar." ownerID="20" targetID="4" fromX="1123" fromY="-1974" />The unliving are bound by a dark spell to this shipwreck. They will attack any living soul that approaches.</nodes>
+      <outputs name="Saia deste lugar." ownerID="20" targetID="4" fromX="1123" fromY="-1974" />Os mortos-vivos estão ligados por um feitiço sombrio a este naufrágio. Eles atacarão qualquer alma viva que se aproxime.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="1269" positionY="-1247" width="350" height="805" image="Event210">
       <outputs name="Ataque!" ownerID="21" targetID="14" fromX="1594" fromY="-1738" />
-      <outputs name="Tente escapar." ownerID="21" targetID="22" fromX="1594" fromY="-1818" />You go in and quickly realise that you are surrounded by the unliving!</nodes>
+      <outputs name="Tente escapar." ownerID="21" targetID="22" fromX="1594" fromY="-1818" />Você entra e percebe rapidamente que está cercado pelos mortos-vivos!</nodes>
     <nodes xsi:type="NodeChallenge" ID="22" positionX="1753" positionY="-1680" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_3P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="22" targetID="23" fromX="2194" fromY="-2175" />
       <outputs name="Lose" ownerID="22" targetID="25" fromX="2194" fromY="-2255" />
@@ -1302,7 +1302,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="23" targetID="24" fromX="2719" fromY="-2170" />You manage to run before they get to you.</nodes>
+      <outputs name="Sair." ownerID="23" targetID="24" fromX="2719" fromY="-2170" />Você consegue correr antes que eles cheguem até você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="24" positionX="2856" positionY="-1669" width="350" height="455" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="25" positionX="2941" positionY="-2179" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="25" targetID="28" fromX="3370" fromY="-2567" />
@@ -1312,10 +1312,10 @@
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="3896" positionY="-2103" width="350" height="455" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="28" positionX="3440" positionY="-2032" width="350" height="725">
-      <outputs name="Sair." ownerID="28" targetID="27" fromX="3765" fromY="-2525" />You manage to escape but not without scrapes. </nodes>
+      <outputs name="Sair." ownerID="28" targetID="27" fromX="3765" fromY="-2525" />Você consegue escapar, mas não sem arranhoes. </nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="2314" positionY="-2547" width="350" height="805">
       <outputs name="Continue correndo!" ownerID="29" targetID="30" fromX="2639" fromY="-3038" />
-      <outputs name="Ataque!" ownerID="29" targetID="14" fromX="2639" fromY="-3118" />You stopped running. What now?</nodes>
+      <outputs name="Ataque!" ownerID="29" targetID="14" fromX="2639" fromY="-3118" />Você parou de correr. E agora?</nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="2831" positionY="-2691" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="50" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="30" targetID="28" fromX="3260" fromY="-3079" />
     </nodes>
@@ -1363,7 +1363,7 @@
       <outputs name="[Usuário de magia] Há magia em ação aqui. Prepare-se para um ataque." ownerID="2" targetID="3" fromX="799" fromY="-559" />
       <outputs name="[Demônio da água ou syrin] Você conhece esse truque - uma música encantada para atrair as vítimas para uma armadilha. Criaturas marinhas desagradáveis copiando seu estilo. Fique pronto para esta pobre desculpa para aprisionamento." ownerID="2" targetID="6" fromX="799" fromY="-639" />
       <outputs name="Continue." ownerID="2" targetID="44" fromX="799" fromY="-719" />
-      <outputs name="[Pirata] Use uma concha de pirata azul para chamar a czytlica." ownerID="2" targetID="48" fromX="799" fromY="-799" />The waters are calm, the skies clear, and you hear a faint yet alluring song carried on the waves. </nodes>
+      <outputs name="[Pirata] Use uma concha de pirata azul para chamar a czytlica." ownerID="2" targetID="48" fromX="799" fromY="-799" />As águas estão calmas, os céus claros, e você ouve uma música fraca, mas sedutora, carregada pelas ondas. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="886" positionY="472" width="350" height="805" image="Event184">
       <logic>
         <FilterBlock>
@@ -1417,11 +1417,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="7" targetID="13" fromX="2269" fromY="582" />You break through the enchantment and see three very surprised sea demons staring at you. They blink a few times, then smile:
-
-'You broke free, so you can see the true faces of us three. May the seas reward you.'
-
-They swim away but blow you a sweet kiss. </nodes>
+      <outputs name="Sair." ownerID="7" targetID="13" fromX="2269" fromY="582" />Você rompe o encantamento e vê três demônios do mar muito surpresos olhando para você. Eles piscam algumas vezes, depois sorriem: 'Você se libertou, então você pode ver os verdadeiros rostos de nós três. Que os mares recompensem você. Eles nadam para longe, mas mandam um beijo doce em você. </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2925" positionY="208" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1445,7 +1441,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="13" fromX="3250" fromY="-283" />You kill the sea demons and loot their fishy bodies. Upon examination, they were likely the czytlica, which are half-fish, half-human females, known to drag their victims to their deep underworld lairs.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="13" fromX="3250" fromY="-283" />Você mata os demônios do mar e saqueia seus corpos de peixe. Após o exame, eles provavelmente eram os czytlica, que são metade peixes, metade humanas, conhecidas por arrastar suas vítimas para seus covis profundos do submundo.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="9" positionX="2924" positionY="-588" width="460" height="539" challengeTypeDamage="TypeSpirit" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="9" targetID="10" group="G1" fromX="3353" fromY="-976" />
       <outputs ownerID="9" targetID="12" group="G1" fromX="3353" fromY="-1056" />
@@ -1502,7 +1498,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="12" targetID="11" fromX="4266" fromY="-1395" />The sea demons swarm your boat and feed on your spirit energy. They try to drag one of you into the water, but luckily manage to take only a backpack.</nodes>
+      <outputs name="Sair." ownerID="12" targetID="11" fromX="4266" fromY="-1395" />Os demônios do mar invadem seu barco e se alimentam de sua energia espiritual. Eles tentam arrastar um de vocês para a água, mas felizmente conseguem levar apenas uma mochila.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="3368" positionY="425" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="14" positionX="1766" positionY="-173" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-CZYTLICA_5P_5M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="14" targetID="16" fromX="2207" fromY="-668" />
@@ -1532,11 +1528,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="16" targetID="13" fromX="2702" fromY="-1223" />You break through the enchantment and see three very surprised sea demons staring at you. They blink a few times, then smile:
-
-'You broke free. You're like us? But you live in those small teardrops you call lakes and rivers. How sad.'
-
-They swim away but blow you a sweet kiss. </nodes>
+      <outputs name="Sair." ownerID="16" targetID="13" fromX="2702" fromY="-1223" />Você rompe o encantamento e vê três demônios do mar muito surpresos olhando para você. Eles piscam algumas vezes, depois sorriem: 'Você se libertou. Você é como nós? Mas você vive naquelas pequenas lágrimas que você chama de lagos e rios. Que triste.' Eles nadam para longe, mas mandam um beijo doce em você. </nodes>
     <nodes xsi:type="NodeChallenge" ID="17" positionX="1363" positionY="-1249" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-CZYTLICA_5P_5M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="17" targetID="18" fromX="1804" fromY="-1744" />
       <outputs name="Lose" ownerID="17" targetID="40" fromX="1804" fromY="-1824" />
@@ -1544,12 +1536,12 @@ They swim away but blow you a sweet kiss. </nodes>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="1964" positionY="-1549" width="350" height="805">
       <outputs name="Pergunte a eles o que são?" ownerID="18" targetID="19" fromX="2289" fromY="-2040" />
-      <outputs name="Nade pra longe." ownerID="18" targetID="21" fromX="2289" fromY="-2120" />'You're like us? But you live in those small teardrops you call lakes and rivers. How sad. We shall not take you, for it would be no fun at all.'
+      <outputs name="Nade pra longe." ownerID="18" targetID="21" fromX="2289" fromY="-2120" />'Você é como nós? Mas você vive naquelas pequenas lágrimas que você chama de lagos e rios. Que triste. Não vamos levá-lo, pois não seria nada divertido.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2414" positionY="-1496" width="350" height="885">
       <outputs name="[Syrin] Sim, parece que vocês dois compartilham algo, embora pareçam mais com suas irmãs raivosas, a alkhonost. Ainda assim, deseje-lhes bem e vá embora." ownerID="19" targetID="22" fromX="2739" fromY="-1987" />
       <outputs name="[Vodnik]Absurdo. Subaquático é o seu domínio, e nenhuma rainha reivindica domínio. Bobagem!" ownerID="19" targetID="24" fromX="2739" fromY="-2067" />
-      <outputs name="Acene com a cabeça e agradeça por seu tempo, então nade para longe." ownerID="19" targetID="21" fromX="2739" fromY="-2147" />&#39;Somos chamados de czytlica. Alguns nos chamam de sereias também, mas isso pode ser por causa do seu syrin que canta nossas cançoes em terra. As jurata, nossas rainhas, reivindicaram os mares quando a terra se rompeu. Agora somos mestres aqui, longe da terra e de seus pequenos lagos.</nodes>
+      <outputs name="Acene com a cabeça e agradeça por seu tempo, então nade para longe." ownerID="19" targetID="21" fromX="2739" fromY="-2147" />'Somos chamados de czytlica. Alguns nos chamam de sereias também, mas isso pode ser por causa do seu syrin que canta nossas cançoes em terra. As jurata, nossas rainhas, reivindicaram os mares quando a terra se rompeu. Agora somos mestres aqui, longe da terra e de seus pequenos lagos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="2525" positionY="-2438" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1567,7 +1559,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="23" fromX="2850" fromY="-2929" />'We like you. Here, have this gift. May the sea waters stay calm for your journey!'</nodes>
+      <outputs name="Sair." ownerID="21" targetID="23" fromX="2850" fromY="-2929" />'Nós gostamos de você. Aqui, tenha este dom. Que as águas do mar fiquem calmas para sua viagem!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="2924" positionY="-1405" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1590,7 +1582,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="22" targetID="23" fromX="3249" fromY="-1896" />'We like you. Here, have this gift. May the sea waters stay calm for your journey!'</nodes>
+      <outputs name="Sair." ownerID="22" targetID="23" fromX="3249" fromY="-1896" />'Nós gostamos de você. Aqui, tenha este dom. Que as águas do mar fiquem calmas para sua viagem!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="23" positionX="3062" positionY="-2414" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="24" positionX="3586" positionY="-1895" width="350" height="805">
       <logic>
@@ -1607,7 +1599,7 @@ They swim away but blow you a sweet kiss. </nodes>
         </FilterBlock>
       </logic>
       <outputs name="Sim, aceite o desafio!" ownerID="24" targetID="25" fromX="3911" fromY="-2386" />
-      <outputs name="Não, diga que você não quis ofender e agradeça a eles por não brigarem. Afinal, os demônios da água devem ficar juntos." ownerID="24" targetID="21" fromX="3911" fromY="-2466" />'Would you like to meet our queen and say that to her face? We warn you, it will not be nice.'</nodes>
+      <outputs name="Não, diga que você não quis ofender e agradeça a eles por não brigarem. Afinal, os demônios da água devem ficar juntos." ownerID="24" targetID="21" fromX="3911" fromY="-2466" />— Você gostaria de conhecer nossa rainha e dizer isso na cara dela? Nós avisamos, não vai ser legal.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="25" positionX="4096" positionY="-2095" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-JURATA_ONE_4P_4M_4S" challengeScale="101" challengedList="1vod">
       <outputs name="Win" ownerID="25" targetID="26" fromX="4537" fromY="-2590" />
       <outputs name="Lose" ownerID="25" targetID="28" fromX="4537" fromY="-2670" />
@@ -1634,7 +1626,7 @@ They swim away but blow you a sweet kiss. </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Curve-se para ela em agradecimento." ownerID="26" targetID="27" fromX="5021" fromY="-2386" />
-      <outputs name="Acene para o seu assunto." ownerID="26" targetID="27" fromX="5021" fromY="-2466" />A rainha jurata vem em toda a sua glória marinha, mas no final, ela se curva à sua antiguidade: &#39;Eu sou apenas uma jovem rainha, e você um senhor experiente. Prestarei homenagem ao seu domínio e assistirei seu navio passar seguro pelas minhas águas. Fique bem, rei.</nodes>
+      <outputs name="Acene para o seu assunto." ownerID="26" targetID="27" fromX="5021" fromY="-2466" />A rainha jurata vem em toda a sua glória marinha, mas no final, ela se curva à sua antiguidade: 'Eu sou apenas uma jovem rainha, e você um senhor experiente. Prestarei homenagem ao seu domínio e assistirei seu navio passar seguro pelas minhas águas. Fique bem, rei.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="5208" positionY="-2032" width="350" height="530" allPlayersXP="6" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="28" positionX="4697" positionY="-2754" width="350" height="805">
       <logic>
@@ -1653,17 +1645,13 @@ They swim away but blow you a sweet kiss. </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Curve-se a ela e ofereça homenagem." ownerID="28" targetID="29" fromX="5022" fromY="-3245" />
-      <outputs name="Desafie-a, mesmo que isso signifique a morte!" ownerID="28" targetID="33" fromX="5022" fromY="-3325" />The jurata queen comes in all her sea glory:
-
-'I am but a young queen, and you a seasoned lord. Yet it is my youth and power that surpasses your old traditions! Now bow to me, or die.'
-
-Her words carry a command that you know will break you. She truly is the queen of these waters.</nodes>
+      <outputs name="Desafie-a, mesmo que isso signifique a morte!" ownerID="28" targetID="33" fromX="5022" fromY="-3325" />A rainha jurata vem em toda a sua glória marinha: 'Eu sou apenas uma jovem rainha, e você um senhor experiente. No entanto, é minha juventude e poder que superam suas antigas tradiçoes! Agora curve-se para mim, ou morra.' Suas palavras carregam um comando que você sabe que vai quebrar você. Ela realmente é a rainha dessas águas.</nodes>
     <nodes xsi:type="NodeTrade" ID="29" positionX="5144" positionY="-2768" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-50">
       <outputs name="confirme" ownerID="29" targetID="31" fromX="5574" fromY="-3096" />
       <outputs name="Cancelar" ownerID="29" targetID="28" fromX="5574" fromY="-3176" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6239" positionY="-2522" width="350" height="725">
-      <outputs name="Sair." ownerID="30" targetID="32" fromX="6564" fromY="-3013" />'I accept your tribute, prince of the sweet waters. You may leave.'</nodes>
+      <outputs name="Sair." ownerID="30" targetID="32" fromX="6564" fromY="-3013" />— Aceito seu tributo, príncipe das águas doces. Você pode sair.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="31" positionX="5700" positionY="-2651" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="70" maxDamage="90" useCountInPercent="true" targetGroup="1vod">
       <outputs ownerID="31" targetID="30" fromX="6129" fromY="-3039" />
     </nodes>
@@ -1679,11 +1667,7 @@ Her words carry a command that you know will break you. She truly is the queen o
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Saia, se tiver gente suficiente para fazê-lo." ownerID="33" targetID="35" fromX="5465" fromY="-3778" />'How bold and defiant. You will be one of my lovers, yes.'
-
-She clicks her fingers, and you follow her into the depths of your new home, forsaking all else.
-
-'And you, you nurtured such a specimen. You shall take my child and show it your strange world. Now leave.'</nodes>
+      <outputs name="Saia, se tiver gente suficiente para fazê-lo." ownerID="33" targetID="35" fromX="5465" fromY="-3778" />'Que ousado e desafiador. Você será um dos meus amantes, sim. Ela estala os dedos e você a segue até as profundezas de sua nova casa, abandonando tudo o mais. — E você, você nutriu um espécime assim. Você deve pegar meu filho e mostrar a ele seu mundo estranho. Agora saia.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="35" positionX="5689" positionY="-3446" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -1729,12 +1713,12 @@ She clicks her fingers, and you follow her into the depths of your new home, for
         </FilterBlock>
       </logic>
       <outputs name="Pague se puder." ownerID="37" targetID="39" fromX="811" fromY="-2647" />
-      <outputs name="Diga que você não pode pagar, então você se juntará à &#39;diversão&#39;." ownerID="37" targetID="42" fromX="811" fromY="-2727" />
-      <outputs name="Ataque!" ownerID="37" targetID="5" fromX="811" fromY="-2807" />Você sente que os demônios drenaram um pouco do seu espírito enquanto falava, mas depois pararam. &#39;Você é como nós? Mas você vive naquelas pequenas lágrimas que você chama de lagos e rios. Que triste. Nós não vamos levá-lo, se você nos pagar tributo. Ou você pode voluntariamente se juntar a nós para se divertir. Mas não garantimos a segurança. Eles riem e saltam através de alguns aros na água.
+      <outputs name="Diga que você não pode pagar, então você se juntará à 'diversão'." ownerID="37" targetID="42" fromX="811" fromY="-2727" />
+      <outputs name="Ataque!" ownerID="37" targetID="5" fromX="811" fromY="-2807" />Você sente que os demônios drenaram um pouco do seu espírito enquanto falava, mas depois pararam. 'Você é como nós? Mas você vive naquelas pequenas lágrimas que você chama de lagos e rios. Que triste. Nós não vamos levá-lo, se você nos pagar tributo. Ou você pode voluntariamente se juntar a nós para se divertir. Mas não garantimos a segurança. Eles riem e saltam através de alguns aros na água.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="38" positionX="1475" positionY="-2062" width="350" height="805">
       <outputs name="Pergunte a eles o que são?" ownerID="38" targetID="19" fromX="1800" fromY="-2553" />
-      <outputs name="Nade pra longe." ownerID="38" targetID="21" fromX="1800" fromY="-2633" />'Good, we accept.'
+      <outputs name="Nade pra longe." ownerID="38" targetID="21" fromX="1800" fromY="-2633" />&quot;Bom, nós aceitamos.&quot;
 </nodes>
     <nodes xsi:type="NodeTrade" ID="39" positionX="915" positionY="-2116" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-30">
       <outputs name="confirme" ownerID="39" targetID="38" fromX="1345" fromY="-2444" />
@@ -1813,11 +1797,7 @@ She clicks her fingers, and you follow her into the depths of your new home, for
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="47" targetID="13" fromX="-165" fromY="-557" />You break through the enchantment and see three very surprised sea demons staring at you. They blink a few times, then smile:
-
-'You broke free, so you can see the true faces of us three. May the seas reward you.'
-
-They swim away but blow you a sweet kiss. </nodes>
+      <outputs name="Sair." ownerID="47" targetID="13" fromX="-165" fromY="-557" />Você rompe o encantamento e vê três demônios do mar muito surpresos olhando para você. Eles piscam algumas vezes, depois sorriem: 'Você se libertou, então você pode ver os verdadeiros rostos de nós três. Que os mares recompensem você. Eles nadam para longe, mas mandam um beijo doce em você. </nodes>
     <nodes xsi:type="NodeAdventure" ID="48" positionX="884" positionY="-742" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1837,7 +1817,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="48" targetID="49" fromX="1209" fromY="-1233" />The czytlica listens to your call and swims away.</nodes>
+      <outputs name="Sair." ownerID="48" targetID="49" fromX="1209" fromY="-1233" />A czytlica ouve sua chamada e nada para longe.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="49" positionX="469" positionY="-1046" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="SeaCzytlica3" uniqueID="7" seaEvent="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="true" typeVillage="false" difficulty="3" nodeIdMax="47" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -1875,7 +1855,7 @@ They swim away but blow you a sweet kiss. </nodes>
         </FilterBlock>
       </logic>
       <outputs name="Nade para verificar se há algo útil." ownerID="2" targetID="5" fromX="763" fromY="-829" />
-      <outputs name="Deixe estar." ownerID="2" targetID="4" fromX="763" fromY="-909" />On a shallow reef, you see a shipwreck. </nodes>
+      <outputs name="Deixe estar." ownerID="2" targetID="4" fromX="763" fromY="-909" />Em um recife raso, você vê um naufrágio. </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="1837" positionY="504" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-CZYTLICA_ONE_3P_3M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="7" fromX="2278" fromY="8" />
       <outputs name="Lose" ownerID="3" targetID="19" fromX="2278" fromY="-71" />
@@ -1913,11 +1893,11 @@ They swim away but blow you a sweet kiss. </nodes>
       <outputs name="A aparição não parece instantaneamente agressiva. Talvez haja uma maneira de capturá-lo. Entre e experimente." ownerID="7" targetID="9" fromX="2774" fromY="231" />O peixe acabou sendo um demônio do mar na forma de uma criatura meio-mulher, meio-peixe. Ela está morta agora e você está livre para saquear. Você vê vários cadáveres limpos pelos peixes. Você também vê uma aparição vagando sem rumo pelo convés. </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3221" positionY="670" width="350" height="805">
       <outputs name="[Bruxa] Examine os restos mortais. Talvez alguém aqui controlasse o espectro." ownerID="9" targetID="31" fromX="3546" fromY="178" />
-      <outputs name="Examine o fantasma. Talvez haja um objeto aqui que controla sua existência." ownerID="9" targetID="10" fromX="3546" fromY="98" />The wraith observes you but does not attack. It seems almost tired. It wails and screeches, but as long as you do not come too close, it ignores you.</nodes>
+      <outputs name="Examine o fantasma. Talvez haja um objeto aqui que controla sua existência." ownerID="9" targetID="10" fromX="3546" fromY="98" />A aparição observa você, mas não ataca. Parece quase cansado. Ele geme e guincha, mas contanto que você não chegue muito perto, ele o ignora.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="3708" positionY="559" width="350" height="885">
       <outputs name="[Usuário de magia] Pegue o totem e tente controlar sua magia." ownerID="10" targetID="11" fromX="4033" fromY="67" />
       <outputs name="Pegue o totem e veja o que acontece." ownerID="10" targetID="14" fromX="4033" fromY="-12" />
-      <outputs name="Retire-se e apenas saqueie este lugar." ownerID="10" targetID="35" fromX="4033" fromY="-92" />You see one of the fallen orcs holding a totem of sorts. This was likely an orc witch, and the object may help you control this wraith - or it may hurt you. It is never safe to meddle with a dead witch's belongings. </nodes>
+      <outputs name="Retire-se e apenas saqueie este lugar." ownerID="10" targetID="35" fromX="4033" fromY="-92" />Você vê um dos orcs caídos segurando uma espécie de totem. Provavelmente era uma bruxa orc, e o objeto pode ajudá-lo a controlar esse espectro - ou pode machucá-lo. Nunca é seguro mexer nos pertences de uma bruxa morta. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="11" positionX="4176" positionY="499" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -1940,7 +1920,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="13" targetID="35" fromX="5078" fromY="-488" />The totem pierces your skin and makes you ill as the wraith disappears.</nodes>
+      <outputs name="Sair." ownerID="13" targetID="35" fromX="5078" fromY="-488" />O totem perfura sua pele e o deixa doente quando o fantasma desaparece.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="14" positionX="4189" positionY="-139" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="14" targetID="18" group="G1" fromX="4618" fromY="-527" />
       <outputs ownerID="14" targetID="13" group="G1" fromX="4618" fromY="-607" />
@@ -1973,7 +1953,7 @@ They swim away but blow you a sweet kiss. </nodes>
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2661" positionY="-51" width="350" height="725">
-      <outputs name="Sair." ownerID="19" targetID="16" fromX="2986" fromY="-542" />The fish beat you badly and force you to flee.</nodes>
+      <outputs name="Sair." ownerID="19" targetID="16" fromX="2986" fromY="-542" />Os peixes batem em você e o forçam a fugir.</nodes>
     <nodes xsi:type="NodeChallenge" ID="20" positionX="1994" positionY="-269" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_4M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -2018,7 +1998,7 @@ They swim away but blow you a sweet kiss. </nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="855" positionY="-944" width="350" height="885" image="Event211">
       <outputs name="Ajude-os e ataque os peixes." ownerID="22" targetID="23" fromX="1180" fromY="-1435" />
       <outputs name="Jogue um pouco de carne do seu barco para atrair o peixe para longe da pessoa." ownerID="22" targetID="24" fromX="1180" fromY="-1515" />
-      <outputs name="Aproveite esta oportunidade para saquear o naufrágio sem lutar contra os peixes." ownerID="22" targetID="25" fromX="1180" fromY="-1595" />You search the shipwreck and see that it is very recent. In fact, you can see something or someone struggling to swim to the surface, but they are being attacked by swarms of nasty fish!</nodes>
+      <outputs name="Aproveite esta oportunidade para saquear o naufrágio sem lutar contra os peixes." ownerID="22" targetID="25" fromX="1180" fromY="-1595" />Você procura o naufrágio e vê que é muito recente. Na verdade, você pode ver algo ou alguém lutando para nadar até a superfície, mas eles estão sendo atacados por enxames de peixes desagradáveis!</nodes>
     <nodes xsi:type="NodeChallenge" ID="23" positionX="1365" positionY="-1134" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-SEA_BEAST_3P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="23" targetID="26" group="G1" fromX="1806" fromY="-1629" />
       <outputs name="Lose" ownerID="23" targetID="19" fromX="1806" fromY="-1709" />
@@ -2068,7 +2048,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="26" targetID="27" fromX="2327" fromY="-1794" />You've heroically rescued...a trained wolf.</nodes>
+      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="26" targetID="27" fromX="2327" fromY="-1794" />Você resgatou heroicamente... um lobo treinado.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="2520" positionY="-1335" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2095,7 +2075,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="28" targetID="27" fromX="2776" fromY="-2443" />You've heroically rescued...a trained bear.</nodes>
+      <outputs name="Bem, bom. Saqueie o navio também e vá embora." ownerID="28" targetID="27" fromX="2776" fromY="-2443" />Você resgatou heroicamente... um urso treinado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="3751" positionY="1341" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2107,7 +2087,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Saqueie o lugar e vá embora." ownerID="31" targetID="34" fromX="4076" fromY="849" />You spot a totem in the hands of a fallen orc witch. You can take it and thus control this wretched being. </nodes>
+      <outputs name="Saqueie o lugar e vá embora." ownerID="31" targetID="34" fromX="4076" fromY="849" />Você vê um totem nas mãos de uma bruxa orc caída. Você pode tomá-lo e, assim, controlar esse ser miserável. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="33" positionX="4819" positionY="511" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -2183,7 +2163,7 @@ They swim away but blow you a sweet kiss. </nodes>
       </logic>
       <outputs name="[Orc] Agora que ela mencionou, sim! Ataque-a." ownerID="36" targetID="38" fromX="1328" fromY="1301" />
       <outputs name="Pergunte por que ela ficou sozinha se achou que seria atacada." ownerID="36" targetID="39" fromX="1328" fromY="1221" />
-      <outputs name="Diga que você não se importa, você está aqui para saquear e é melhor ela ficar longe." ownerID="36" targetID="41" fromX="1328" fromY="1141" />A criatura nada até a superfície. Seu corpo é meio peixe e meio mulher, e sua voz melódica: &#39;Você não quer me machucar? Mas fui eu que afundei este barco, então presumi que você veio para vingá-los.</nodes>
+      <outputs name="Diga que você não se importa, você está aqui para saquear e é melhor ela ficar longe." ownerID="36" targetID="41" fromX="1328" fromY="1141" />A criatura nada até a superfície. Seu corpo é meio peixe e meio mulher, e sua voz melódica: 'Você não quer me machucar? Mas fui eu que afundei este barco, então presumi que você veio para vingá-los.</nodes>
     <nodes xsi:type="NodeChallenge" ID="37" positionX="359" positionY="1578" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-CZYTLICA_ONE_3P_3M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="37" targetID="36" fromX="800" fromY="1082" />
       <outputs name="Lose" ownerID="37" targetID="47" fromX="800" fromY="1002" />
@@ -2205,14 +2185,14 @@ They swim away but blow you a sweet kiss. </nodes>
       <outputs name="Surrender" ownerID="38" targetID="19" fromX="2154" fromY="653" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="39" positionX="1426" positionY="2255" width="350" height="725">
-      <outputs name="E?" ownerID="39" targetID="40" fromX="1751" fromY="1763" />'I cannot leave. This was my initiation. I did it well, but...Well, I was supposed to bring a certain private part of the captain as a trophy - he was a male, you see, unusual for orcs. It is a stupid joke by my sisters, but made law by their words spoken officially.'</nodes>
+      <outputs name="E?" ownerID="39" targetID="40" fromX="1751" fromY="1763" />'Não posso deixar. Esta foi a minha iniciação. Eu fiz isso bem, mas... Bem, eu deveria trazer uma certa parte privada do capitão como um troféu - ele era um homem, você vê, incomum para orcs. É uma piada estúpida de minhas irmãs, mas tornada lei por suas palavras ditas oficialmente.</nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="1877" positionY="2424" width="350" height="805">
       <outputs name="Se você lidar com o fantasma, ela vai te pagar?" ownerID="40" targetID="42" fromX="2202" fromY="1932" />
-      <outputs name="Diga que você não se importa, você está aqui para saquear e é melhor ela ficar longe." ownerID="40" targetID="41" fromX="2202" fromY="1852" />'That damned captain got a whiff of my plan, or maybe it was just chance, but he locked himself in the cabin when the ship went down and there's a bloody ghost there now, and I am not good with ghosts.'</nodes>
+      <outputs name="Diga que você não se importa, você está aqui para saquear e é melhor ela ficar longe." ownerID="40" targetID="41" fromX="2202" fromY="1852" />— Aquele maldito capitão sentiu o cheiro do meu plano, ou talvez tenha sido por acaso, mas ele se trancou na cabine quando o navio afundou e há um maldito fantasma lá agora, e eu não sou bom com fantasmas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="2376" positionY="1734" width="350" height="725">
-      <outputs name="Saqueie o local, evitando quaisquer fantasmas, e saia." ownerID="41" targetID="35" fromX="2701" fromY="1242" />&#39;Ah, certo, vá em frente então.&#39; Ela nada para longe.</nodes>
+      <outputs name="Saqueie o local, evitando quaisquer fantasmas, e saia." ownerID="41" targetID="35" fromX="2701" fromY="1242" />'Ah, certo, vá em frente então.' Ela nada para longe.</nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="2376" positionY="2511" width="350" height="725">
-      <outputs name="Concorde em lidar com o fantasma." ownerID="42" targetID="43" fromX="2701" fromY="2019" />'Yes, I will give you a precious artefact I found.'</nodes>
+      <outputs name="Concorde em lidar com o fantasma." ownerID="42" targetID="43" fromX="2701" fromY="2019" />'Sim, eu lhe darei um artefato precioso que encontrei.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="43" positionX="2851" positionY="2319" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2224,18 +2204,18 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="A aparição não parece instantaneamente agressiva. Talvez haja uma maneira de capturá-lo. Entre e experimente." ownerID="43" targetID="44" fromX="3176" fromY="1827" />&#39;Bom, vou deixar o presente para você e assistir de longe. Não voltaremos a falar, mas desejo-lhe bons ventos e águas tranquilas. Ela desaparece nas ondas e um pacote flutua em sua direção. Você nada até o naufrágio e vê vários cadáveres limpos pelos peixes. Você também vê uma aparição vagando sem rumo pelo convés. </nodes>
+      <outputs name="A aparição não parece instantaneamente agressiva. Talvez haja uma maneira de capturá-lo. Entre e experimente." ownerID="43" targetID="44" fromX="3176" fromY="1827" />'Bom, vou deixar o presente para você e assistir de longe. Não voltaremos a falar, mas desejo-lhe bons ventos e águas tranquilas. Ela desaparece nas ondas e um pacote flutua em sua direção. Você nada até o naufrágio e vê vários cadáveres limpos pelos peixes. Você também vê uma aparição vagando sem rumo pelo convés. </nodes>
     <nodes xsi:type="NodeAdventure" ID="44" positionX="3322" positionY="2065" width="350" height="805">
       <outputs name="[Bruxa] Examine os restos mortais. Talvez alguém aqui controlasse o espectro." ownerID="44" targetID="31" fromX="3647" fromY="1573" />
-      <outputs name="Examine o fantasma. Talvez haja um objeto aqui que controla sua existência." ownerID="44" targetID="45" fromX="3647" fromY="1493" />The wraith observes you but does not attack. It seems almost tired. It wails and screeches, but as long as you do not come too close, it ignores you.</nodes>
+      <outputs name="Examine o fantasma. Talvez haja um objeto aqui que controla sua existência." ownerID="44" targetID="45" fromX="3647" fromY="1493" />A aparição observa você, mas não ataca. Parece quase cansado. Ele geme e guincha, mas contanto que você não chegue muito perto, ele o ignora.</nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="3776" positionY="2237" width="350" height="805">
       <outputs name="[Usuário de magia] Pegue o totem e tente controlar sua magia." ownerID="45" targetID="11" fromX="4101" fromY="1745" />
-      <outputs name="Pegue o totem e veja o que acontece." ownerID="45" targetID="14" fromX="4101" fromY="1665" />You see one of the fallen orcs holding a totem of sorts. This was likely an orc witch, and the object may help you control this wraith - or it may hurt you. It is never safe to meddle with a dead witch's belongings. </nodes>
+      <outputs name="Pegue o totem e veja o que acontece." ownerID="45" targetID="14" fromX="4101" fromY="1665" />Você vê um dos orcs caídos segurando uma espécie de totem. Provavelmente era uma bruxa orc, e o objeto pode ajudá-lo a controlar esse espectro - ou pode machucá-lo. Nunca é seguro mexer nos pertences de uma bruxa morta. </nodes>
     <nodes xsi:type="NodeAdventure" ID="47" positionX="896" positionY="869" width="350" height="966" image="Event211">
       <outputs name="Mate as criaturas." ownerID="47" targetID="3" fromX="1221" fromY="377" />
       <outputs name="[Hunter] Caçar o peixe." ownerID="47" targetID="20" fromX="1221" fromY="297" />
       <outputs name="[Demônio da água] Água salgada é ruim. Mas pule rápido e pegue o que puder - o peixinho não vai incomodá-lo." ownerID="47" targetID="21" fromX="1221" fromY="217" />
-      <outputs name="Sair." ownerID="47" targetID="4" fromX="1221" fromY="137" />No one answers.</nodes>
+      <outputs name="Sair." ownerID="47" targetID="4" fromX="1221" fromY="137" />Ninguém responde.</nodes>
   </Adventure>
   <Adventure name="FloatingLoot" uniqueID="8" seaEvent="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="true" typeVillage="false" difficulty="1" nodeIdMax="16" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event185">
@@ -2276,7 +2256,7 @@ They swim away but blow you a sweet kiss. </nodes>
       <outputs name="Surrender" ownerID="4" targetID="7" fromX="1420" fromY="-267" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1609" positionY="371" width="350" height="725">
-      <outputs name="Sair." ownerID="5" targetID="6" fromX="1934" fromY="-120" />You manoeuver the boat well enough to get to the debris and gather what you can. </nodes>
+      <outputs name="Sair." ownerID="5" targetID="6" fromX="1934" fromY="-120" />Você manobra o barco bem o suficiente para chegar aos escombros e recolher o que puder. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="6" positionX="2123" positionY="262" width="460" height="619" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="6" targetID="12" group="G1" fromX="2552" fromY="-126" />
       <outputs ownerID="6" targetID="13" group="G1" fromX="2552" fromY="-206" />
@@ -2298,7 +2278,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Nade até a costa o mais rápido que puder!" ownerID="7" targetID="8" fromX="2044" fromY="-872" />Your boat is damaged and sinks!</nodes>
+      <outputs name="Nade até a costa o mais rápido que puder!" ownerID="7" targetID="8" fromX="2044" fromY="-872" />Seu barco está danificado e afunda!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2143" positionY="-504" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1735" positionY="-1162" width="350" height="725">
       <logic>
@@ -2308,7 +2288,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="9" targetID="8" fromX="2060" fromY="-1653" />The rocks prove to be razor sharp and the waters not as calm as you thought. You get pretty banged up and swim back to your boat.</nodes>
+      <outputs name="Sair." ownerID="9" targetID="8" fromX="2060" fromY="-1653" />As rochas provam ser afiadas e as águas não tão calmas quanto você pensava. Você fica muito machucado e nada de volta ao seu barco.</nodes>
     <nodes xsi:type="NodeChallenge" ID="10" positionX="975" positionY="-391" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_2P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="10" targetID="16" fromX="1416" fromY="-886" />
       <outputs name="Lose" ownerID="10" targetID="11" fromX="1416" fromY="-966" />
@@ -2388,7 +2368,7 @@ They swim away but blow you a sweet kiss. </nodes>
       <outputs ownerID="15" targetID="6" fromX="958" fromY="-1541" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="478" positionY="671" width="350" height="725">
-      <outputs name="Sair." ownerID="16" targetID="6" fromX="803" fromY="179" />You swim ahead and manage get to the debris and gather what you can safely. </nodes>
+      <outputs name="Sair." ownerID="16" targetID="6" fromX="803" fromY="179" />Você nada à frente e consegue chegar aos escombros e recolher o que puder com segurança. </nodes>
   </Adventure>
   <Adventure name="SeaDiff1" uniqueID="9" allowToUse="false" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="1" nodeIdMax="4" joinIsForced="false" joinType="AllAlly" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="864" image="Event017">
@@ -2571,7 +2551,7 @@ They swim away but blow you a sweet kiss. </nodes>
       <outputs name="Surrender" ownerID="4" targetID="7" fromX="1420" fromY="-267" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1609" positionY="371" width="350" height="725">
-      <outputs name="Sair." ownerID="5" targetID="6" fromX="1934" fromY="-120" />You manoeuver the boat well enough to get to the debris and gather what you can. </nodes>
+      <outputs name="Sair." ownerID="5" targetID="6" fromX="1934" fromY="-120" />Você manobra o barco bem o suficiente para chegar aos escombros e recolher o que puder. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="6" positionX="2123" positionY="262" width="460" height="619" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="6" targetID="12" group="G1" fromX="2552" fromY="-126" />
       <outputs ownerID="6" targetID="13" group="G1" fromX="2552" fromY="-206" />
@@ -2593,7 +2573,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Nade até a costa o mais rápido que puder!" ownerID="7" targetID="8" fromX="2044" fromY="-872" />Your boat is damaged and sinks!</nodes>
+      <outputs name="Nade até a costa o mais rápido que puder!" ownerID="7" targetID="8" fromX="2044" fromY="-872" />Seu barco está danificado e afunda!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2143" positionY="-504" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1735" positionY="-1162" width="350" height="725">
       <logic>
@@ -2609,7 +2589,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="9" targetID="8" fromX="2060" fromY="-1653" />The rocks prove to be razor sharp and the waters not as calm as you thought. You get pretty banged up and swim back to your boat. You lose some of your equipment too.</nodes>
+      <outputs name="Sair." ownerID="9" targetID="8" fromX="2060" fromY="-1653" />As rochas provam ser afiadas e as águas não tão calmas quanto você pensava. Você fica muito machucado e nada de volta ao seu barco. You lose some of your equipment too.</nodes>
     <nodes xsi:type="NodeChallenge" ID="10" positionX="975" positionY="-391" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="10" targetID="16" fromX="1416" fromY="-886" />
       <outputs name="Lose" ownerID="10" targetID="11" fromX="1416" fromY="-966" />
@@ -2701,7 +2681,7 @@ They swim away but blow you a sweet kiss. </nodes>
       <outputs ownerID="15" targetID="6" fromX="958" fromY="-1541" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="714" positionY="-14" width="350" height="725">
-      <outputs name="Sair." ownerID="16" targetID="6" fromX="746" fromY="212" />You swim ahead and manage get to the debris and gather what you can safely. </nodes>
+      <outputs name="Sair." ownerID="16" targetID="6" fromX="746" fromY="212" />Você nada à frente e consegue chegar aos escombros e recolher o que puder com segurança. </nodes>
   </Adventure>
   <Adventure name="SeaStormDiff5" uniqueID="14" seaEvent="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="true" typeVillage="false" difficulty="5" nodeIdMax="38" joinIsForced="false" joinType="AllAlly" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event055">
@@ -2764,10 +2744,10 @@ They swim away but blow you a sweet kiss. </nodes>
         </FilterBlock>
       </logic>
       <outputs name="Diga que você entende, mas ele não pode simplesmente atacar qualquer barco que veja. Ele poderia ter se matado ou você." ownerID="3" targetID="4" fromX="1139" fromY="360" />
-      <outputs name="Diga-lhe para sair do seu barco agora." ownerID="3" targetID="11" fromX="1139" fromY="280" />O vento acalma e seu barco está firme novamente. O viatroviec fala: &#39;Ah, graças à floresta, um rosto amigo! Eu me perdi nos ventos e fui jogado nessa coisa miserável que os humanos chamam de mar. É tão grande, sem árvores... eu sei que sou feito de vento, mas nasci para vagar pela terra, não isso!&#39;</nodes>
+      <outputs name="Diga-lhe para sair do seu barco agora." ownerID="3" targetID="11" fromX="1139" fromY="280" />O vento acalma e seu barco está firme novamente. O viatroviec fala: 'Ah, graças à floresta, um rosto amigo! Eu me perdi nos ventos e fui jogado nessa coisa miserável que os humanos chamam de mar. É tão grande, sem árvores... eu sei que sou feito de vento, mas nasci para vagar pela terra, não isso!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1228" positionY="1100" width="350" height="805">
       <outputs name="Aceita." ownerID="4" targetID="5" fromX="1553" fromY="608" />
-      <outputs name="Concorde, mas ofereça-lhe um lar melhor ao seu lado, a serviço dos deuses, que o ensine a se sentir confortável mesmo no mar." ownerID="4" targetID="6" fromX="1553" fromY="528" />'Oh, yes. I am sorry. Will you take me home?'</nodes>
+      <outputs name="Concorde, mas ofereça-lhe um lar melhor ao seu lado, a serviço dos deuses, que o ensine a se sentir confortável mesmo no mar." ownerID="4" targetID="6" fromX="1553" fromY="528" />'Oh sim. Sinto muito. Você vai me levar para casa?</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1746" positionY="1068" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2779,7 +2759,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ele e continue sua jornada." ownerID="5" targetID="8" fromX="2071" fromY="576" />'Thank you, I will hide below deck. Let me out when we reach land. Here, I found this before I got lost here - a gift to say thank you.'</nodes>
+      <outputs name="Agradeça a ele e continue sua jornada." ownerID="5" targetID="8" fromX="2071" fromY="576" />— Obrigado, vou me esconder embaixo do convés. Deixe-me sair quando chegarmos a terra. Aqui, encontrei isto antes de me perder aqui - um presente para agradecer.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="2226" positionY="856" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-VIATROVIEC_3P_4M_4S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -2793,7 +2773,7 @@ They swim away but blow you a sweet kiss. </nodes>
       <outputs name="Surrender" ownerID="6" targetID="7" fromX="2667" fromY="200" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="3305" positionY="739" width="350" height="725">
-      <outputs name="Sair." ownerID="7" targetID="8" fromX="3630" fromY="247" />&#39;Não, não, não, você tenta me enganar, eu não quero mais ficar!&#39; Ele voa para longe com o vento novamente, mas pelo menos longe do seu barco.</nodes>
+      <outputs name="Sair." ownerID="7" targetID="8" fromX="3630" fromY="247" />'Não, não, não, você tenta me enganar, eu não quero mais ficar!' Ele voa para longe com o vento novamente, mas pelo menos longe do seu barco.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2205" positionY="1310" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2892" positionY="1153" width="350" height="725">
       <logic>
@@ -2806,10 +2786,10 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ele e continue sua jornada." ownerID="9" targetID="10" fromX="3217" fromY="661" />'Thank you, I will do as you say, follow your lead, yes. And here, a thing I found before, my first gift to you as new friends.'</nodes>
+      <outputs name="Agradeça a ele e continue sua jornada." ownerID="9" targetID="10" fromX="3217" fromY="661" />'Obrigado, farei o que você diz, seguir sua liderança, sim. E aqui, uma coisa que encontrei antes, meu primeiro presente para vocês como novos amigos.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="3338" positionY="1277" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1812" positionY="327" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="8" fromX="2137" fromY="-164" />&#39;Tudo bem, tudo bem, lá vou eu, perdido no mar, ido para sempre, destino cruel?.?.?.&#39; Ele voa para longe com o vento novamente, mas pelo menos longe do seu barco.</nodes>
+      <outputs name="Sair." ownerID="11" targetID="8" fromX="2137" fromY="-164" />'Tudo bem, tudo bem, lá vou eu, perdido no mar, ido para sempre, destino cruel?.?.?.' Ele voa para longe com o vento novamente, mas pelo menos longe do seu barco.</nodes>
     <nodes xsi:type="NodeChallenge" ID="12" positionX="873" positionY="-841" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_6P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="12" targetID="14" fromX="1314" fromY="-1336" />
       <outputs name="Lose" ownerID="12" targetID="26" fromX="1314" fromY="-1416" />
@@ -2846,7 +2826,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="16" targetID="21" fromX="1159" fromY="-2102" />You kill what must have been a wind demon, but it took too long and your boat hit some of the rocks. You lose some equipment and get some bruises. </nodes>
+      <outputs name="Sair." ownerID="16" targetID="21" fromX="1159" fromY="-2102" />Você mata o que deve ter sido um demônio do vento, mas demorou muito e seu barco atingiu algumas das rochas. Você perde alguns equipamentos e fica com algumas contusoes. </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1857" positionY="-1862" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -2859,7 +2839,7 @@ They swim away but blow you a sweet kiss. </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Concorde em trabalhar com a criatura." ownerID="17" targetID="34" fromX="2182" fromY="-2353" />
-      <outputs name="Recuse-se e arrisque-se nas rochas." ownerID="17" targetID="26" fromX="2182" fromY="-2433" />Você se rende bem a tempo de sentir seu barco bater em uma rocha. O impacto deixa alguns de vocês doentes e alguns equipamentos podem ter caído ao mar. A criatura do vento grita: &#39;Ei, ei, eu nunca quis lutar. Eu só quero voltar para terra, e este barco vai cair se você continuar assim. Eu ajudo você, mas você tem que me dar um pouco do seu espírito para me deixar mais forte para que possamos nadar além das rochas.</nodes>
+      <outputs name="Recuse-se e arrisque-se nas rochas." ownerID="17" targetID="26" fromX="2182" fromY="-2433" />Você se rende bem a tempo de sentir seu barco bater em uma rocha. O impacto deixa alguns de vocês doentes e alguns equipamentos podem ter caído ao mar. A criatura do vento grita: 'Ei, ei, eu nunca quis lutar. Eu só quero voltar para terra, e este barco vai cair se você continuar assim. Eu ajudo você, mas você tem que me dar um pouco do seu espírito para me deixar mais forte para que possamos nadar além das rochas.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="18" positionX="1324" positionY="-1594" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="18" targetID="17" fromX="1753" fromY="-1982" />
     </nodes>
@@ -2874,7 +2854,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="19" targetID="20" fromX="536" fromY="-2864" />You lose the fight and your boat crashes on the rocks. But at least the wind creature flies away.</nodes>
+      <outputs name="Sair." ownerID="19" targetID="20" fromX="536" fromY="-2864" />Você perde a luta e seu barco bate nas rochas. Mas pelo menos a criatura do vento voa para longe.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="808" positionY="-2622" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="21" positionX="2828" positionY="-1725" width="350" height="530" allPlayersXP="5" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="23" positionX="912" positionY="30" width="350" height="805">
@@ -2886,7 +2866,7 @@ They swim away but blow you a sweet kiss. </nodes>
         </FilterBlock>
       </logic>
       <outputs name="Tente ligar para o que quer que seja." ownerID="23" targetID="24" fromX="1237" fromY="-461" />
-      <outputs name="Ataque o que quer que seja." ownerID="23" targetID="15" fromX="1237" fromY="-541" />This could be a demon because, despite the storm, this is not how wind should behave.
+      <outputs name="Ataque o que quer que seja." ownerID="23" targetID="15" fromX="1237" fromY="-541" />Isso pode ser um demônio porque, apesar da tempestade, não é assim que o vento deve se comportar.
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="24" positionX="2240" positionY="21" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-VIATROVIEC_3P_4M_4S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="24" targetID="25" fromX="2681" fromY="-474" />
@@ -2895,7 +2875,7 @@ They swim away but blow you a sweet kiss. </nodes>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="2859" positionY="136" width="350" height="805">
       <outputs name="Concorde em deixá-lo ficar no navio até chegar à terra." ownerID="25" targetID="30" fromX="3184" fromY="-355" />
-      <outputs name="Não, diga a ele para sair, agora!" ownerID="25" targetID="29" fromX="3184" fromY="-435" />'You, you speak to me? I am viatroviec. I got lost in the winds and blown into this wretched thing humans call the sea. It is so vast, no trees...I know I am made of wind, but I was born to roam the land, not this! I will stop causing you trouble, but will you please take me home? Any land will do.'</nodes>
+      <outputs name="Não, diga a ele para sair, agora!" ownerID="25" targetID="29" fromX="3184" fromY="-435" />'Você, você fala comigo? Eu sou viatroviec. Eu me perdi nos ventos e fui jogado nessa coisa miserável que os humanos chamam de mar. É tão vasto, sem árvores... eu sei que sou feito de vento, mas nasci para vagar pela terra, não isso! Vou parar de causar problemas, mas você pode me levar para casa? Qualquer terra serve.</nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="-636" positionY="-2137" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2907,7 +2887,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="26" targetID="20" fromX="-310" fromY="-2628" />You fail to manoeuver your boat and it crashes on the rocks. But at least the wind creature flies away.</nodes>
+      <outputs name="Sair." ownerID="26" targetID="20" fromX="-310" fromY="-2628" />Você não consegue manobrar seu barco e ele bate nas rochas. Mas pelo menos a criatura do vento voa para longe.</nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="4099" positionY="-675" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2919,12 +2899,12 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="27" targetID="20" fromX="4424" fromY="-1166" />You try to deal with whatever this wind is, but it does not calm, and your boat crashes against the rocks.</nodes>
+      <outputs name="Sair." ownerID="27" targetID="20" fromX="4424" fromY="-1166" />Você tenta lidar com qualquer que seja esse vento, mas ele não acalma, e seu barco bate nas rochas.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="28" positionX="3054" positionY="-691" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="28" targetID="27" fromX="3483" fromY="-1079" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="3654" positionY="-27" width="350" height="725">
-      <outputs name="Sair." ownerID="29" targetID="21" fromX="3979" fromY="-518" />The creature wails in sorrow but flies away. You see the storm swallow it. But your boat is back to normal, and you are able to swim away in peace.</nodes>
+      <outputs name="Sair." ownerID="29" targetID="21" fromX="3979" fromY="-518" />A criatura chora de tristeza, mas voa para longe. Você vê a tempestade engoli-lo. Mas seu barco voltou ao normal e você pode nadar em paz.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="4176" positionY="46" width="460" height="619" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <ModifierBlock>
@@ -2956,7 +2936,7 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Dê boas-vindas a ele." ownerID="32" targetID="21" fromX="5070" fromY="-203" />'You are good, you are safe, and your Stribog, he is like me, only greater. I will come with you now.'</nodes>
+      <outputs name="Dê boas-vindas a ele." ownerID="32" targetID="21" fromX="5070" fromY="-203" />'Você é bom, você está seguro, e seu Stribog, ele é como eu, só que maior. Vou com você agora.</nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="5279" positionY="219" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2970,16 +2950,12 @@ They swim away but blow you a sweet kiss. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Dê boas-vindas a ele." ownerID="33" targetID="21" fromX="5604" fromY="-272" />'You are good, you are safe, and one of your gods is that of wind, yes? I will come with you now.'</nodes>
+      <outputs name="Dê boas-vindas a ele." ownerID="33" targetID="21" fromX="5604" fromY="-272" />'Você é bom, você está seguro, e um de seus deuses é o vento, sim? Vou com você agora.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="34" positionX="2331" positionY="-2215" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="20" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="34" targetID="35" fromX="2760" fromY="-2603" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="2912" positionY="-2232" width="350" height="725">
-      <outputs name="Sair." ownerID="35" targetID="36" fromX="3237" fromY="-2723" />The demon feeds on your spirit and is then able to calm the storm. You swim back out to safety and the creature speaks again:
-
-'I have fed and am strong enough to find my home now. I am sorry for the trouble. Bye.'
-
-He flies away. </nodes>
+      <outputs name="Sair." ownerID="35" targetID="36" fromX="3237" fromY="-2723" />O demônio se alimenta de seu espírito e então é capaz de acalmar a tempestade. Você nada de volta para a segurança e a criatura fala novamente: 'Eu me alimentei e sou forte o suficiente para encontrar meu lar agora. Lamento o problema. Tchau.' Ele voa para longe. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="36" positionX="3414" positionY="-2465" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="36" targetID="37" group="G1" fromX="3843" fromY="-2853" />
       <outputs ownerID="36" targetID="20" group="G1" fromX="3843" fromY="-2933" />
@@ -2997,9 +2973,9 @@ He flies away. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Dê boas-vindas a ele." ownerID="37" targetID="20" fromX="4409" fromY="-2946" />O demônio se volta para você: &#39;Você é bom, você está seguro, e um de seus deuses é o do vento, sim? Vou com você agora.</nodes>
+      <outputs name="Dê boas-vindas a ele." ownerID="37" targetID="20" fromX="4409" fromY="-2946" />O demônio se volta para você: 'Você é bom, você está seguro, e um de seus deuses é o do vento, sim? Vou com você agora.</nodes>
     <nodes xsi:type="NodeAdventure" ID="38" positionX="1335" positionY="-2101" width="350" height="725">
-      <outputs name="Sair." ownerID="38" targetID="21" fromX="1660" fromY="-2592" />You kill the demon, and the winds calm in time for you to manoeuver your boat to safety. </nodes>
+      <outputs name="Sair." ownerID="38" targetID="21" fromX="1660" fromY="-2592" />Você mata o demônio e os ventos se acalmam a tempo de você manobrar seu barco para a segurança. </nodes>
   </Adventure>
   <Adventure name="CargoShipwreck1" uniqueID="15" seaEvent="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="true" typeVillage="false" difficulty="1" nodeIdMax="15" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event271">
@@ -3069,7 +3045,7 @@ He flies away. </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Pegue o que for aproveitável e vá embora." ownerID="5" targetID="7" group="G1" fromX="1892" fromY="140" />
-      <outputs name="Pegue o que for aproveitável e vá embora." ownerID="5" targetID="8" group="G1" fromX="1892" fromY="60" />You lure the predators away from the cargo ship and are free to search it now. </nodes>
+      <outputs name="Pegue o que for aproveitável e vá embora." ownerID="5" targetID="8" group="G1" fromX="1892" fromY="60" />Você atrai os predadores para longe do navio de carga e está livre para vasculhá-lo agora. </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2181" positionY="-318" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -3081,7 +3057,7 @@ He flies away. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="10" fromX="2506" fromY="-809" />You lure the predators away, but not without them biting you a few times. Worse yet, the boat has nothing much of use left on it.</nodes>
+      <outputs name="Sair." ownerID="6" targetID="10" fromX="2506" fromY="-809" />Você atrai os predadores, mas não sem que eles o mordam algumas vezes. Pior ainda, o barco não tem muita utilidade nele.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="2225" positionY="566" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -3169,7 +3145,7 @@ He flies away. </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Pegue o que for aproveitável e vá embora." ownerID="14" targetID="7" group="G1" fromX="1752" fromY="-1777" />
-      <outputs name="Pegue o que for aproveitável e vá embora." ownerID="14" targetID="8" group="G1" fromX="1752" fromY="-1857" />The predators are dead and you are free to search the debris now. </nodes>
+      <outputs name="Pegue o que for aproveitável e vá embora." ownerID="14" targetID="8" group="G1" fromX="1752" fromY="-1857" />Os predadores estão mortos e você está livre para vasculhar os escombros agora. </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="1965" positionY="-1375" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -3178,7 +3154,7 @@ He flies away. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="15" targetID="10" fromX="2290" fromY="-1866" />The predators beat you badly and chase you away from their turf. You get soaked in water and fall ill afterward.</nodes>
+      <outputs name="Sair." ownerID="15" targetID="10" fromX="2290" fromY="-1866" />Os predadores batem em você e o afugentam de seu território. Você fica encharcado de água e adoece depois.</nodes>
   </Adventure>
   <Adventure name="CargoShipwreck3" uniqueID="16" seaEvent="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="true" typeVillage="false" difficulty="3" nodeIdMax="18" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event271">
@@ -3248,7 +3224,7 @@ He flies away. </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Pegue o que for aproveitável e vá embora." ownerID="5" targetID="7" group="G1" fromX="1743" fromY="100" />
-      <outputs name="Pegue o que for aproveitável e vá embora." ownerID="5" targetID="18" group="G1" fromX="1743" fromY="20" />You lure the shark away from the cargo ship and are free to search it now. </nodes>
+      <outputs name="Pegue o que for aproveitável e vá embora." ownerID="5" targetID="18" group="G1" fromX="1743" fromY="20" />Você atrai o tubarão para longe do navio de carga e está livre para vasculhá-lo agora. </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1936" positionY="-282" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -3265,7 +3241,7 @@ He flies away. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="10" fromX="2261" fromY="-773" />The shark eats your meat, but it outsmarts you and gets a few bites of your flesh too. You have to drop some of your equipment to escape.</nodes>
+      <outputs name="Sair." ownerID="6" targetID="10" fromX="2261" fromY="-773" />O tubarão come sua carne, mas é mais esperto que você e recebe algumas mordidas de sua carne também. Você tem que deixar cair alguns de seus equipamentos para escapar.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="1846" positionY="616" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -3335,7 +3311,7 @@ He flies away. </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Pegue o que for aproveitável e vá embora." ownerID="14" targetID="7" group="G1" fromX="1713" fromY="-1743" />
-      <outputs name="Pegue o que for aproveitável e vá embora." ownerID="14" targetID="18" group="G1" fromX="1713" fromY="-1823" />The shark is dead and you are free to search the debris now. </nodes>
+      <outputs name="Pegue o que for aproveitável e vá embora." ownerID="14" targetID="18" group="G1" fromX="1713" fromY="-1823" />O tubarão está morto e você está livre para vasculhar os escombros agora. </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="1929" positionY="-1335" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -3347,7 +3323,7 @@ He flies away. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="15" targetID="10" fromX="2254" fromY="-1826" />The shark proves too smart and fast, and it drags one of you down into the sea.</nodes>
+      <outputs name="Sair." ownerID="15" targetID="10" fromX="2254" fromY="-1826" />O tubarão se mostra muito esperto e rápido, e arrasta um de vocês para o mar.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="16" positionX="2442" positionY="-745" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="16" targetID="17" fromX="2871" fromY="-1133" />
     </nodes>
@@ -3359,7 +3335,7 @@ He flies away. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="17" targetID="10" fromX="3331" fromY="-1078" />You swim with the shark, but it turns out that it's not as fun as they say. The big fish chases you and bites you and the sea water makes you sick.</nodes>
+      <outputs name="Sair." ownerID="17" targetID="10" fromX="3331" fromY="-1078" />Você nada com o tubarão, mas acontece que não é tão divertido quanto dizem. O grande peixe te persegue e te morde e a água do mar te deixa doente.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="2322" positionY="351" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -3440,7 +3416,7 @@ He flies away. </nodes>
       <outputs name="[Demônio da água] O mar é um lugar selvagem, mas você se adaptou a ele. Salte na água e guie o navio você mesmo." ownerID="3" targetID="28" group="G3" fromX="760" fromY="-756" />
       <outputs name="[Demônio da água] O mar é um lugar selvagem, mas você se adaptou a ele. Salte na água e guie o navio você mesmo." ownerID="3" targetID="5" group="G3" fromX="760" fromY="-836" />
       <outputs name="Segure-se em algo e tente resistir à tempestade." ownerID="3" targetID="6" group="G2" fromX="760" fromY="-916" />
-      <outputs name="Segure-se em algo e tente resistir à tempestade." ownerID="3" targetID="9" group="G2" fromX="760" fromY="-997" />Clouds darken, waves rise - a storm is coming!</nodes>
+      <outputs name="Segure-se em algo e tente resistir à tempestade." ownerID="3" targetID="9" group="G2" fromX="760" fromY="-997" />As nuvens escurecem, as ondas sobem - uma tempestade está chegando!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1128.65051" positionY="-1558.07312" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -3483,7 +3459,7 @@ He flies away. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Viagem em." ownerID="6" targetID="7" fromX="2113" fromY="-734" />You hold on and weather the storm well enough, but not without losing some equipment. </nodes>
+      <outputs name="Viagem em." ownerID="6" targetID="7" fromX="2113" fromY="-734" />Você aguenta e aguenta bem a tempestade, mas não sem perder alguns equipamentos. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="2234.35986" positionY="-410.493164" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="9" positionX="1684.85144" positionY="-1406.14111" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_3P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="9" targetID="10" fromX="2125" fromY="-1901" />
@@ -3492,7 +3468,7 @@ He flies away. </nodes>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2402.58521" positionY="-890.3863" width="350" height="805">
       <outputs name="Viagem em." ownerID="10" targetID="14" group="G1" fromX="2728" fromY="-1381" />
-      <outputs name="Viagem em." ownerID="10" targetID="17" group="G1" fromX="2728" fromY="-1461" />You hold on and weather the storm. In the deep, troubled waters, you discover the wreckage of a ship to plunder.</nodes>
+      <outputs name="Viagem em." ownerID="10" targetID="17" group="G1" fromX="2728" fromY="-1461" />Você aguenta e resiste à tempestade. Nas águas profundas e turbulentas, você descobre os destroços de um navio para saquear.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="13" positionX="2363.17285" positionY="-1846.86877" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="3" maxDamage="6" useCountInPercent="false" targetGroup="ppl">
       <outputs ownerID="13" targetID="23" fromX="2792" fromY="-2235" />
     </nodes>
@@ -3509,7 +3485,7 @@ He flies away. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pegue o cachorro, vasculhe os destroços e vá embora." ownerID="14" targetID="17" fromX="3211" fromY="-1183" />In the wreckage, you find a dog still clinging to life.</nodes>
+      <outputs name="Pegue o cachorro, vasculhe os destroços e vá embora." ownerID="14" targetID="17" fromX="3211" fromY="-1183" />Nos destroços, você encontra um cachorro ainda agarrado à vida.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="17" positionX="3615.644" positionY="-1144.36731" width="350" height="530" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -3546,7 +3522,7 @@ He flies away. </nodes>
       </logic>
       <outputs name="Viagem em." ownerID="21" targetID="26" group="G1" fromX="1800" fromY="916" />
       <outputs name="Viagem em." ownerID="21" targetID="35" group="G1" fromX="1800" fromY="835" />
-      <outputs name="Viagem em." ownerID="21" targetID="34" group="G1" fromX="1800" fromY="755" />The winds favour your path and carry you away from the storm. You feel Stribog's blessing upon you. </nodes>
+      <outputs name="Viagem em." ownerID="21" targetID="34" group="G1" fromX="1800" fromY="755" />Os ventos favorecem seu caminho e o afastam da tempestade. Você sente a bênção de Stribog sobre você. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="22" positionX="1540.48022" positionY="361.589172" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="2" maxDamage="4" useCountInPercent="false" targetGroup="ppl">
       <outputs ownerID="22" targetID="23" fromX="1969" fromY="-26" />
     </nodes>
@@ -3609,7 +3585,7 @@ He flies away. </nodes>
         </FilterBlock>
       </logic>
       <outputs name="Viagem em." ownerID="28" targetID="14" group="G1" fromX="1215" fromY="-1219" />
-      <outputs name="Viagem em." ownerID="28" targetID="17" group="G1" fromX="1215" fromY="-1299" />You find a path to safety, and in the deep, troubled waters, you discover the wreckage of a ship to plunder.</nodes>
+      <outputs name="Viagem em." ownerID="28" targetID="17" group="G1" fromX="1215" fromY="-1299" />Você encontra um caminho para a segurança e, nas águas profundas e turbulentas, descobre os destroços de um navio para saquear.</nodes>
     <nodes xsi:type="NodeChallenge" ID="32" positionX="873.8583" positionY="188.1574" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_2S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -3689,7 +3665,7 @@ He flies away. </nodes>
       <outputs name="Surrender" ownerID="4" targetID="7" fromX="1420" fromY="-267" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1634" positionY="421" width="350" height="725">
-      <outputs name="Sair." ownerID="5" targetID="6" fromX="1959" fromY="-70" />You manoeuver the boat well enough to get to the debris and gather what you can. </nodes>
+      <outputs name="Sair." ownerID="5" targetID="6" fromX="1959" fromY="-70" />Você manobra o barco bem o suficiente para chegar aos escombros e recolher o que puder. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="6" positionX="2123" positionY="262" width="460" height="619" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="6" targetID="12" group="G1" fromX="2552" fromY="-126" />
       <outputs ownerID="6" targetID="13" group="G1" fromX="2552" fromY="-206" />
@@ -3711,7 +3687,7 @@ He flies away. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Nade até a costa o mais rápido que puder!" ownerID="7" targetID="8" fromX="2033" fromY="-872" />Your boat is damaged and sinks!</nodes>
+      <outputs name="Nade até a costa o mais rápido que puder!" ownerID="7" targetID="8" fromX="2033" fromY="-872" />Seu barco está danificado e afunda!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2143" positionY="-504" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1735" positionY="-1162" width="350" height="725">
       <logic>
@@ -3727,7 +3703,7 @@ He flies away. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="9" targetID="8" fromX="2060" fromY="-1653" />The rocks prove to be razor sharp and the waters not as calm as you thought. You get pretty banged up and swim back to your boat. You lose some of your equipment too.</nodes>
+      <outputs name="Sair." ownerID="9" targetID="8" fromX="2060" fromY="-1653" />As rochas provam ser afiadas e as águas não tão calmas quanto você pensava. Você fica muito machucado e nada de volta ao seu barco. You lose some of your equipment too.</nodes>
     <nodes xsi:type="NodeChallenge" ID="10" positionX="1046" positionY="-374" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_7P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="10" targetID="16" fromX="1487" fromY="-869" />
       <outputs name="Lose" ownerID="10" targetID="11" fromX="1487" fromY="-949" />
@@ -3819,6 +3795,6 @@ He flies away. </nodes>
       <outputs ownerID="15" targetID="6" fromX="958" fromY="-1541" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="461" positionY="718" width="350" height="725">
-      <outputs name="Sair." ownerID="16" targetID="6" fromX="786" fromY="226" />You swim ahead and manage get to the debris and gather what you can safely. </nodes>
+      <outputs name="Sair." ownerID="16" targetID="6" fromX="786" fromY="226" />Você nada à frente e consegue chegar aos escombros e recolher o que puder com segurança. </nodes>
   </Adventure>
 </MODULE>

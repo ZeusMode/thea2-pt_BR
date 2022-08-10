@@ -28,7 +28,7 @@
       <outputs name="[Rainha aranha] Intimide o ninho." ownerID="3" targetID="43" group="G1" fromX="547" fromY="-194" />
       <outputs name="[Beast]Comunique-se com o ninho." ownerID="3" targetID="56" group="G1" fromX="547" fromY="-274" />
       <outputs name="[Druida] Seja como uma fera e fale com as aranhas." ownerID="3" targetID="66" fromX="547" fromY="-354" />
-      <outputs name="Sair." ownerID="3" targetID="45" fromX="547" fromY="-434" />You spot a spider's nest nearby. It looks very busy and you think you saw the creatures carrying large cocoons inside.</nodes>
+      <outputs name="Sair." ownerID="3" targetID="45" fromX="547" fromY="-434" />Você vê um ninho de aranha nas proximidades. Parece muito ocupado e você acha que viu as criaturas carregando grandes casulos dentro.</nodes>
     <nodes xsi:type="NodeChallenge" ID="41" positionX="476.945129" positionY="1110.61523" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-SPIDERS_1P_1M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="41" targetID="57" fromX="918" fromY="615" />
       <outputs name="Lose" ownerID="41" targetID="71" fromX="918" fromY="534" />
@@ -47,7 +47,7 @@
       </logic>
       <outputs name="Aceite seus bens e vá embora." ownerID="42" targetID="55" group="G1" fromX="2389" fromY="79" />
       <outputs name="Aceite suas mercadorias e negocie também." ownerID="42" targetID="60" fromX="2389" fromY="0" />
-      <outputs name="They killed a whole village. Ataque!" ownerID="42" targetID="41" fromX="2389" fromY="-80" />As aranhas são um pouco sencientes. De animal para animal, você descobre que eles invadiram uma vila próxima e trouxeram muitos prêmios &#39;suculentos&#39; de volta ao ninho. Como eles estão tentando estabelecer seu assentamento como mais do que um ninho, eles concordam em lhe dar alguns itens em troca de deixá-los em paz. Eles também oferecem para o comércio.
+      <outputs name="They killed a whole village. Ataque!" ownerID="42" targetID="41" fromX="2389" fromY="-80" />As aranhas são um pouco sencientes. De animal para animal, você descobre que eles invadiram uma vila próxima e trouxeram muitos prêmios 'suculentos' de volta ao ninho. Como eles estão tentando estabelecer seu assentamento como mais do que um ninho, eles concordam em lhe dar alguns itens em troca de deixá-los em paz. Eles também oferecem para o comércio.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="43" positionX="743.969543" positionY="121.092819" width="350" height="966">
       <logic>
@@ -71,11 +71,7 @@
       <outputs name="Uma das aranhas decide segui-lo agora. Sair juntos." ownerID="43" targetID="68" fromX="1069" fromY="-370" />
       <outputs name="Verifique os casulos, junte o que puder e vá embora." ownerID="43" targetID="58" group="G1" fromX="1069" fromY="-450" />
       <outputs name="Verifique os casulos, junte o que puder e vá embora." ownerID="43" targetID="54" group="G1" fromX="1069" fromY="-530" />
-      <outputs name="Verifique os casulos, junte o que puder e vá embora." ownerID="43" targetID="59" group="G1" fromX="1069" fromY="-610" />As spider queen, you claim dominance over this mere nest. You order the workers to abandon this site and never return to your territory. They obey.
-
-Within the nest you find less fortunate folk wrapped in cocoons.
-
-It is unlikely any of them are still alive, but it's worth checking. </nodes>
+      <outputs name="Verifique os casulos, junte o que puder e vá embora." ownerID="43" targetID="59" group="G1" fromX="1069" fromY="-610" />Como rainha aranha, você reivindica domínio sobre este mero ninho. Você ordena que os trabalhadores abandonem este local e nunca mais retornem ao seu território. Eles obedecem. Dentro do ninho você encontra pessoas menos afortunadas envoltas em casulos. É improvável que algum deles ainda esteja vivo, mas vale a pena conferir. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="45" positionX="-239.965042" positionY="-805.1396" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="46" positionX="4472.457" positionY="261.496857" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -165,7 +161,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
       <outputs name="Cancelar" ownerID="60" targetID="55" fromX="2955" fromY="-158" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="61" positionX="2208.203" positionY="-497.420868" width="350" height="725">
-      <outputs name="Sair." ownerID="61" targetID="69" fromX="2533" fromY="-988" />You failed to communicate successfully. The nest is agitated and ready to swarm you.</nodes>
+      <outputs name="Sair." ownerID="61" targetID="69" fromX="2533" fromY="-988" />Você não conseguiu se comunicar com sucesso. O ninho está agitado e pronto para enxameá-lo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="62" positionX="2971.08936" positionY="-373.2929" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -180,7 +176,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Aceite sua boa vontade e vá embora." ownerID="62" targetID="55" fromX="3296" fromY="-864" />
-      <outputs name="They killed a whole village. Ataque!" ownerID="62" targetID="41" fromX="3296" fromY="-944" />As aranhas são um pouco sencientes. De animal para animal, você descobre que eles invadiram uma vila próxima e trouxeram muitos prêmios &#39;suculentos&#39; de volta ao ninho. Como eles estão tentando estabelecer seu assentamento como mais do que um ninho, eles oferecem alguns bens e dizem que um dos seus se juntará a você como um começo para boas relaçoes.
+      <outputs name="They killed a whole village. Ataque!" ownerID="62" targetID="41" fromX="3296" fromY="-944" />As aranhas são um pouco sencientes. De animal para animal, você descobre que eles invadiram uma vila próxima e trouxeram muitos prêmios 'suculentos' de volta ao ninho. Como eles estão tentando estabelecer seu assentamento como mais do que um ninho, eles oferecem alguns bens e dizem que um dos seus se juntará a você como um começo para boas relaçoes.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="63" positionX="1679.63965" positionY="-632.7026" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="3" maxDamage="6" useCountInPercent="false" targetGroup="ppl">
       <outputs ownerID="63" targetID="61" fromX="2108" fromY="-1021" />
@@ -227,7 +223,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
       </logic>
       <outputs name="Aceite seus bens e vá embora." ownerID="67" targetID="55" group="G1" fromX="2273" fromY="-1785" />
       <outputs name="Aceite suas mercadorias e negocie também." ownerID="67" targetID="60" fromX="2273" fromY="-1866" />
-      <outputs name="They killed a whole village. Ataque!" ownerID="67" targetID="41" fromX="2273" fromY="-1946" />As aranhas são um pouco sencientes. De animal para animal, você descobre que eles invadiram uma vila próxima e trouxeram muitos prêmios &#39;suculentos&#39; de volta ao ninho. Como eles estão tentando estabelecer seu assentamento como mais do que um ninho, eles concordam em lhe dar alguns itens em troca de deixá-los em paz. Eles também oferecem para o comércio.
+      <outputs name="They killed a whole village. Ataque!" ownerID="67" targetID="41" fromX="2273" fromY="-1946" />As aranhas são um pouco sencientes. De animal para animal, você descobre que eles invadiram uma vila próxima e trouxeram muitos prêmios 'suculentos' de volta ao ninho. Como eles estão tentando estabelecer seu assentamento como mais do que um ninho, eles concordam em lhe dar alguns itens em troca de deixá-los em paz. Eles também oferecem para o comércio.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="68" positionX="860.18" positionY="-881.224243" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <logic>
@@ -282,7 +278,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
       <outputs name="Ataque!" ownerID="2" targetID="3" fromX="562" fromY="-280" />
       <outputs name="Tente subir de volta rapidamente." ownerID="2" targetID="4" fromX="562" fromY="-360" />
       <outputs name="Observe os ratos. Parece estranho que eles não o ataquem." ownerID="2" targetID="31" fromX="562" fromY="-440" />
-      <outputs name="[Mestre das Feras ou fera] Tente dominar este enxame para fazer o seu lance!" ownerID="2" targetID="38" group="G1" fromX="562" fromY="-520" />The ground beneath your feet collapses and you fall into a tunnel. You soon realise the floor seems to be moving. It's swarming with vermin!</nodes>
+      <outputs name="[Mestre das Feras ou fera] Tente dominar este enxame para fazer o seu lance!" ownerID="2" targetID="38" group="G1" fromX="562" fromY="-520" />O chão sob seus pés desaba e você cai em um túnel. Você logo percebe que o chão parece estar se movendo. Está fervilhando de vermes!</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="999.6875" positionY="737.0438" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-RATS_1P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="12" fromX="1440" fromY="241" />
       <outputs name="Lose" ownerID="3" targetID="30" fromX="1440" fromY="161" />
@@ -301,14 +297,14 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="6" targetID="41" fromX="-307" fromY="-2299" />The rats fall in line or run off, considering your stature. Soon the nest lies empty for you to loot. </nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="6" targetID="41" fromX="-307" fromY="-2299" />Os ratos entram na fila ou fogem, considerando sua estatura. Logo o ninho fica vazio para você saquear. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="643.498169" positionY="-2863.0896" width="350" height="455" allPlayersXP="3" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="8" positionX="-1032.9751" positionY="-2393.5625" width="350" height="805">
       <outputs name="Sair." ownerID="8" targetID="45" fromX="-707" fromY="-2884" />
-      <outputs name="Ataque!" ownerID="8" targetID="3" fromX="-707" fromY="-2964" />The rats swarm you and bite angrily, squeaking that they have a master already.
+      <outputs name="Ataque!" ownerID="8" targetID="3" fromX="-707" fromY="-2964" />Os ratos cercam você e mordem com raiva, guinchando que já têm um mestre.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="1933" positionY="1109" width="350" height="725">
-      <outputs name="Junte o que puder e vá embora." ownerID="12" targetID="40" fromX="2259" fromY="618" />The rat nest is mostly a pile of dung and debris, but you may be able to salvage some goods.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="12" targetID="40" fromX="2259" fromY="618" />O ninho de rato é principalmente uma pilha de esterco e detritos, mas você pode salvar alguns bens.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="3604.727" positionY="1193.58545" width="350" height="455" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="14" positionX="2890.726" positionY="-293.46698" width="350" height="725">
       <logic>
@@ -321,7 +317,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="14" targetID="45" fromX="3216" fromY="-784" />You climb up but realise you were bitten by rats and the wounds are infected.</nodes>
+      <outputs name="Sair." ownerID="14" targetID="45" fromX="3216" fromY="-784" />Você sobe, mas percebe que foi mordido por ratos e as feridas estão infectadas.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="15" positionX="2474" positionY="-240" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -363,7 +359,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="45" fromX="1908" fromY="-2563" />The rats are not having any of it. They swarm you and you are forced to drop some cargo as you run away.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="45" fromX="1908" fromY="-2563" />Os ratos não estão tendo nada disso. Eles o cercam e você é forçado a deixar cair alguma carga enquanto foge.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="22" positionX="1026.22717" positionY="-2046.08252" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="4" maxDamage="8" useCountInPercent="false" targetGroup="ppl">
       <outputs ownerID="22" targetID="21" fromX="1455" fromY="-2434" />
     </nodes>
@@ -388,7 +384,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="30" targetID="45" fromX="2249" fromY="-163" />You are badly beaten and forced to abandon some of your things as you run away.</nodes>
+      <outputs name="Sair." ownerID="30" targetID="45" fromX="2249" fromY="-163" />Você é espancado e forçado a abandonar algumas de suas coisas enquanto foge.</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="802.659" positionY="-135.044647" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -417,7 +413,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="2062.97974" positionY="-874.6554" width="350" height="885">
       <outputs name="Olhe para eles ameaçadoramente." ownerID="33" targetID="34" fromX="2388" fromY="-1365" />
       <outputs name="Recusar e atacar!" ownerID="33" targetID="3" fromX="2388" fromY="-1446" />
-      <outputs name="Aceita." ownerID="33" targetID="35" fromX="2388" fromY="-1526" />'Da boss, man, da boss is hungry, da boss needs stuff for his shiny sit, so we all be strong and deal with ya big folk out there... yes, yes... You rat, you friend, you no tell boss we let tunnels collapse, we give you stuff, yes, yes?'
+      <outputs name="Aceita." ownerID="33" targetID="35" fromX="2388" fromY="-1526" />'O patrão, cara, o patrão está com fome, o patrão precisa de coisas para seu assento brilhante, então todos nós sejamos fortes e lidemos com vocês lá fora... sim, sim... Seu rato, seu amigo, você não diga ao chefe que deixamos os túneis desabarem, nós lhe damos coisas, sim, sim?'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="2451.76758" positionY="-817.024658" width="350" height="725">
       <logic>
@@ -441,7 +437,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Aceita." ownerID="34" targetID="35" fromX="2777" fromY="-1308" />'Oyoyoy... you big boss too... you take out prize, a great enemy, we found it, we got it, you have it, you go, you not kill us, you not tell our boss, yes, yes?'</nodes>
+      <outputs name="Aceita." ownerID="34" targetID="35" fromX="2777" fromY="-1308" />'Oyoyoy... seu chefão também... você tira o prêmio, um grande inimigo, nós achamos, nós pegamos, você tem, você vai, você não nos mata, você não conta ao nosso chefe, sim, sim ?'</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="35" positionX="2861.668" positionY="-1046.33167" width="460" height="429" sourceGroup="GROUP-SCAVENGER_2P_2M_2S" cargoPercentage="50">
       <logic>
         <ModifierBlock>
@@ -565,7 +561,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
       <outputs name="Investigar." ownerID="2" targetID="3" group="G1" fromX="922" fromY="-543" />
       <outputs name="Investigar." ownerID="2" targetID="5" group="G1" fromX="922" fromY="-623" />
       <outputs name="Investigar." ownerID="2" targetID="4" group="G1" fromX="922" fromY="-703" />
-      <outputs name="Investigar." ownerID="2" targetID="6" group="G1" fromX="922" fromY="-783" />You spot a place of interest.</nodes>
+      <outputs name="Investigar." ownerID="2" targetID="6" group="G1" fromX="922" fromY="-783" />Você identifica um local de interesse.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1400" positionY="-61" width="350" height="530" linkedEventUniqueID="4">
       <logic>
         <FilterBlock>
@@ -627,7 +623,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
       <outputs name="Por respeito à natureza, espere até que os corvos resgatem seus filhotes e investigue." ownerID="2" targetID="5" fromX="765" fromY="-700" />
       <outputs name="Convença os corvos a deixar você ajudar na mudança - por um preço." ownerID="2" targetID="41" fromX="765" fromY="-780" />
       <outputs name="Ataque!" ownerID="2" targetID="6" fromX="765" fromY="-860" />
-      <outputs name="Sair." ownerID="2" targetID="7" fromX="765" fromY="-941" />After a violent storm, many trees lie fallen. You see a swarm of crows circling one such tree, and when you get closer, you realise their nest has also fallen, and the birds are trying to move what they can to another tree.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="7" fromX="765" fromY="-941" />Depois de uma violenta tempestade, muitas árvores caem. Você vê um enxame de corvos circulando uma dessas árvores e, quando se aproxima, percebe que o ninho também caiu, e os pássaros estão tentando mover o que podem para outra árvore.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="968.404053" positionY="978.44104" width="350" height="1206">
       <logic>
         <FilterBlock>
@@ -651,11 +647,7 @@ It is unlikely any of them are still alive, but it's worth checking. </nodes>
       <outputs name="Esgueirar-se sobre eles entre suas corridas para roubar alguns bens." ownerID="3" targetID="28" fromX="1294" fromY="246" />
       <outputs name="Convença os corvos a deixar você ajudar na mudança - por um preço." ownerID="3" targetID="41" fromX="1294" fromY="166" />
       <outputs name="[Leshy] A árvore não está totalmente desmoronada. Cante para ele e restaure-o ao seu antigo eu, salvando assim o ninho também." ownerID="3" targetID="35" fromX="1294" fromY="86" />
-      <outputs name="Sair." ownerID="3" targetID="7" fromX="1294" fromY="6" />You get in closer and see the debris from the fallen nest. There are several dead chicks, but also many shiny baubles woven into the structure. 
-
-The tree itself is also of good quality.
-
-The crows continue ferrying the goods somewhere up high.</nodes>
+      <outputs name="Sair." ownerID="3" targetID="7" fromX="1294" fromY="6" />Você chega mais perto e vê os destroços do ninho caído. Existem vários filhotes mortos, mas também muitas bugigangas brilhantes tecidas na estrutura. A árvore em si também é de boa qualidade. Os corvos continuam transportando as mercadorias para algum lugar alto.</nodes>
     <nodes xsi:type="NodeChallenge" ID="4" positionX="3162.34668" positionY="-424.7128" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-CROW_1P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="4" targetID="27" fromX="3603" fromY="-920" />
       <outputs name="Lose" ownerID="4" targetID="43" fromX="3603" fromY="-1000" />
@@ -686,7 +678,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
       <outputs name="Ataque os corvos mais fracos agora." ownerID="5" targetID="4" fromX="1322" fromY="-1263" />
       <outputs name="Espere até que eles terminem e reúna o que sobrou." ownerID="5" targetID="18" group="G1" fromX="1322" fromY="-1343" />
       <outputs name="Espere até que eles terminem e reúna o que sobrou." ownerID="5" targetID="55" group="G1" fromX="1322" fromY="-1423" />
-      <outputs name="Convença os corvos a deixar você ajudar na mudança - por um preço." ownerID="5" targetID="41" fromX="1322" fromY="-1503" />You wait until the chicks are rescued and fly away with the stronger crows. A small group of stragglers remains to clear the nest. Now it is a matter of the strongest taking the spoils. </nodes>
+      <outputs name="Convença os corvos a deixar você ajudar na mudança - por um preço." ownerID="5" targetID="41" fromX="1322" fromY="-1503" />Você espera até que os filhotes sejam resgatados e voa com os corvos mais fortes. Um pequeno grupo de retardatários permanece para limpar o ninho. Agora é uma questão de o mais forte levar os despojos. </nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="1868.54016" positionY="-1262.69568" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-CROW_2P_2M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="27" fromX="2309" fromY="-1758" />
       <outputs name="Lose" ownerID="6" targetID="43" fromX="2309" fromY="-1838" />
@@ -711,7 +703,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="54" fromX="1817" fromY="433" />There is little left to gather, but you discover a wounded crow, and when you heal it, the bird decides to follow your path.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="54" fromX="1817" fromY="433" />Há pouco para coletar, mas você descobre um corvo ferido e, quando o cura, o pássaro decide seguir seu caminho.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="19" positionX="2123" positionY="969" width="350" height="455" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -753,7 +745,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Pegue o que puder e vá embora." ownerID="27" targetID="45" group="G1" fromX="2959" fromY="-1763" />
-      <outputs name="Pegue o que puder e vá embora." ownerID="27" targetID="52" group="G1" fromX="2959" fromY="-1844" />You defeat the crows and loot the nest in peace.
+      <outputs name="Pegue o que puder e vá embora." ownerID="27" targetID="52" group="G1" fromX="2959" fromY="-1844" />Você derrota os corvos e saqueia o ninho em paz.
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="28" positionX="1520.28271" positionY="66.93568" width="500" height="807" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_2P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="28" targetID="31" group="G1" fromX="1961" fromY="-428" />
@@ -774,7 +766,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="2098.897" positionY="-243.163239" width="350" height="725">
-      <outputs name="Sair." ownerID="30" targetID="53" fromX="2424" fromY="-734" />You sneak up and manage to snatch some goods without the crows' knowledge. After they leave for good, you also gather the remaining wood.</nodes>
+      <outputs name="Sair." ownerID="30" targetID="53" fromX="2424" fromY="-734" />Você se esgueira e consegue pegar algumas mercadorias sem o conhecimento dos corvos. Depois que eles saem de vez, você também recolhe a madeira restante.</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="2071.737" positionY="478.496857" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -788,7 +780,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="31" targetID="53" fromX="2397" fromY="-12" />There is little left to gather, but you discover a wounded crow, and when you heal it, the bird decides to follow your path.</nodes>
+      <outputs name="Sair." ownerID="31" targetID="53" fromX="2397" fromY="-12" />Há pouco para coletar, mas você descobre um corvo ferido e, quando o cura, o pássaro decide seguir seu caminho.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="32" positionX="1478.41223" positionY="-737.3386" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="15" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="32" targetID="33" fromX="1907" fromY="-1125" />
     </nodes>
@@ -804,7 +796,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Ataque!" ownerID="33" targetID="10" fromX="2847" fromY="-872" />
-      <outputs name="Sair." ownerID="33" targetID="49" fromX="2847" fromY="-952" />The crows saw you coming and attacked, forcing you to drop some goods.</nodes>
+      <outputs name="Sair." ownerID="33" targetID="49" fromX="2847" fromY="-952" />Os corvos viram você chegando e atacaram, obrigando você a deixar cair algumas mercadorias.</nodes>
     <nodes xsi:type="NodeChallenge" ID="35" positionX="-263" positionY="-1274" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_2S" challengeScale="100" challengedList="leshy">
       <logic>
         <FilterBlock>
@@ -895,7 +887,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="42" targetID="50" fromX="2215" fromY="-2514" />The crows agree to your terms. After you help them secure the nest, they leave you gifts in thanks.</nodes>
+      <outputs name="Sair." ownerID="42" targetID="50" fromX="2215" fromY="-2514" />Os corvos concordam com seus termos. Depois de ajudá-los a proteger o ninho, eles deixam presentes em agradecimento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="43" positionX="3778.95239" positionY="-2212.59961" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -907,7 +899,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="43" targetID="49" fromX="4104" fromY="-2703" />The angry murder of crows chases you away, forcing you to drop some of your goods to save your lives.</nodes>
+      <outputs name="Sair." ownerID="43" targetID="49" fromX="4104" fromY="-2703" />O assassinato furioso de corvos o afugenta, forçando-o a deixar cair alguns de seus bens para salvar suas vidas.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="44" positionX="2351.38" positionY="-2184.43921" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="35" useCountInPercent="true" targetGroup="beastatlkers">
       <outputs ownerID="44" targetID="43" fromX="2780" fromY="-2572" />
     </nodes>
@@ -924,7 +916,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="45" targetID="52" fromX="4205" fromY="-1570" />You discover a wounded crow, and when you heal it, the bird decides to follow your path.
+      <outputs name="Sair." ownerID="45" targetID="52" fromX="4205" fromY="-1570" />Você descobre um corvo ferido e, quando o cura, o pássaro decide seguir seu caminho.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="47" positionX="3435.743" positionY="-1706.22864" width="350" height="455" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeSpawnOnMap" ID="49" positionX="1642.24866" positionY="-2883.98242" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
@@ -976,7 +968,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
       </logic>
       <outputs name="Jogue algumas tochas primeiro, depois investigue." ownerID="2" targetID="5" fromX="772" fromY="-600" />
       <outputs name="Entre e investigue." ownerID="2" targetID="4" fromX="772" fromY="-681" />
-      <outputs name="Sair." ownerID="2" targetID="3" fromX="772" fromY="-761" />You uncover some underground tunnels.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="3" fromX="772" fromY="-761" />Você descobre alguns túneis subterrâneos.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="394.826965" positionY="-1031.34009" width="350" height="408" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="4" positionX="918.7229" positionY="675.4048" width="350" height="1046">
       <outputs name="[Druida] Acalme essas cobras e explore a câmara." ownerID="4" targetID="6" group="G1" fromX="1244" fromY="184" />
@@ -1075,7 +1067,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
       <outputs name="Surrender" ownerID="15" targetID="45" fromX="1826" fromY="-2254" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="3871.334" positionY="-859.15625" width="350" height="725">
-      <outputs name="Junte o que puder e vá embora." ownerID="18" targetID="48" fromX="4197" fromY="-1350" />With the snakes gone, you are free to loot the place.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="18" targetID="48" fromX="4197" fromY="-1350" />Com as cobras desaparecidas, você está livre para saquear o lugar.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="21" positionX="3677" positionY="-284" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1099,7 +1091,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="22" targetID="47" fromX="3015" fromY="-1757" />You climb back up, but not without a few bites from the snakes.</nodes>
+      <outputs name="Sair." ownerID="22" targetID="47" fromX="3015" fromY="-1757" />Você sobe de volta, mas não sem algumas mordidas das cobras.</nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="3185.15674" positionY="-1909.42273" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1111,7 +1103,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="26" targetID="47" fromX="3510" fromY="-2400" />The snakes prove too strong. They swarm you and force you to flee. </nodes>
+      <outputs name="Sair." ownerID="26" targetID="47" fromX="3510" fromY="-2400" />As cobras provam ser muito fortes. Eles o cercam e o forçam a fugir. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="3016.539" positionY="1617.83948" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1144,7 +1136,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="32" targetID="44" group="G1" fromX="2882" fromY="-2575" />With the right herbs and plants, and a bit of ingenuity, you smoke the snakes out of the tunnel. You are even able to hunt some as they try slithering away in a panic.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="32" targetID="44" group="G1" fromX="2882" fromY="-2575" />Com as ervas e plantas certas e um pouco de engenhosidade, você fuma as cobras para fora do túnel. Você pode até caçar alguns enquanto eles tentam fugir em pânico.</nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="957.5483" positionY="-1764.81042" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -1157,7 +1149,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="Ataque!" ownerID="35" targetID="12" fromX="1283" fromY="-2255" />
-      <outputs name="Sair." ownerID="35" targetID="47" fromX="1283" fromY="-2336" />You try to smoke the snakes out, but that only enrages them. They swarm you and force you to retreat.</nodes>
+      <outputs name="Sair." ownerID="35" targetID="47" fromX="1283" fromY="-2336" />Você tenta defumar as cobras, mas isso só as enfurece. Eles o cercam e o forçam a recuar.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="37" positionX="3276.18652" positionY="1026.26" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1195,7 +1187,7 @@ The crows continue ferrying the goods somewhere up high.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Uma das cobras desliza atrás de você. Sair juntos." ownerID="43" targetID="50" group="G1" fromX="1718" fromY="18" />
-      <outputs name="Sair." ownerID="43" targetID="49" group="G1" fromX="1718" fromY="-61" />The old goblin traditions of rat catchers live strong in you. Your flute mesmerises the snakes, and you are free to loot the place.</nodes>
+      <outputs name="Sair." ownerID="43" targetID="49" group="G1" fromX="1718" fromY="-61" />As velhas tradiçoes goblins de caçadores de ratos vivem fortes em você. Sua flauta hipnotiza as cobras, e você está livre para saquear o lugar.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="44" positionX="5041.016" positionY="-1215.39111" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>

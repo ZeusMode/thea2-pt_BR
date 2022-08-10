@@ -15,7 +15,7 @@
       <outputs name="Lutar!" ownerID="2" targetID="12" fromX="767" fromY="-642" />
       <outputs name="Intimide-os!" ownerID="2" targetID="15" fromX="767" fromY="-723" />
       <outputs name="Afastar." ownerID="2" targetID="10" fromX="767" fromY="-803" />
-      <outputs name="Convencê-los a negociar." ownerID="2" targetID="25" fromX="767" fromY="-883" />Um grupo armado se aproxima.</nodes>
+      <outputs name="Convencê-los a negociar." ownerID="2" targetID="25" fromX="767" fromY="-883" /></nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="-17.14307" positionY="-768.311951" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -123,7 +123,7 @@
       <outputs name="Intimide-os!" ownerID="2" targetID="15" fromX="767" fromY="-723" />
       <outputs name="Afastar." ownerID="2" targetID="10" fromX="767" fromY="-803" />
       <outputs name="[Besta] Uivam juntos para a lua, zumbem em uma melodia comum ou simplesmente corram em uníssono com seus parentes por um tempo antes de pedir que eles se movam." ownerID="2" targetID="26" fromX="767" fromY="-883" />
-      <outputs name="[Hunter] Persiga as feras e cace-as!" ownerID="2" targetID="30" fromX="767" fromY="-963" />Um bando de feras se aproxima.</nodes>
+      <outputs name="[Hunter] Persiga as feras e cace-as!" ownerID="2" targetID="30" fromX="767" fromY="-963" /></nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="6" positionY="-720" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -225,7 +225,7 @@
       <outputs ownerID="31" targetID="28" fromX="889" fromY="-1827" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="3084" positionY="-564" width="350" height="725">
-      <outputs name="Sair." ownerID="32" targetID="14" fromX="3410" fromY="-1055" />You failed and beasts chase you away.</nodes>
+      <outputs name="Sair." ownerID="32" targetID="14" fromX="3410" fromY="-1055" />Você falhou e as feras o perseguem.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="33" positionX="2324" positionY="-726" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="40" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="33" targetID="32" fromX="2753" fromY="-1114" />
     </nodes>
@@ -478,7 +478,7 @@
       <outputs name="Cancelar" ownerID="27" targetID="12" fromX="513" fromY="-2195" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="2466" positionY="-1159" width="350" height="725">
-      <outputs name="Sair." ownerID="28" targetID="22" fromX="2791" fromY="-1650" />Os trolls abandonam algumas mercadorias quando saem. </nodes>
+      <outputs name="Sair." ownerID="28" targetID="22" fromX="2791" fromY="-1650" /> </nodes>
   </Adventure>
   <Adventure name="GroupSocialAttack" uniqueID="7" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="29" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event016">
@@ -645,7 +645,7 @@
       <outputs name="Tente intimidação!" ownerID="2" targetID="15" fromX="767" fromY="-723" />
       <outputs name="Afastar." ownerID="2" targetID="10" fromX="767" fromY="-803" />
       <outputs name="[Força] Fique firme e não deixe que eles entrem em seu território." ownerID="2" targetID="26" fromX="767" fromY="-883" />
-      <outputs name="[Usuário de magia] Defenda-se com a força do seu espírito." ownerID="2" targetID="27" fromX="767" fromY="-963" />A demon is approaching you aggressively.</nodes>
+      <outputs name="[Usuário de magia] Defenda-se com a força do seu espírito." ownerID="2" targetID="27" fromX="767" fromY="-963" />Um demônio está se aproximando de você agressivamente.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="-17.14307" positionY="-768.311951" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1030,9 +1030,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="6" targetID="8" fromX="2325" fromY="1042" />Sua juventude élfica claramente não estava destinada a trilhar o caminho dos magos, pelo menos não ainda. Mas eles receberam algum treinamento e, com toda a probabilidade, ainda superam a maioria dos usuários de magia não-elfos, ou é o que eles dizem.
-
-</nodes>
+      <outputs name="Alegrar!" ownerID="6" targetID="8" fromX="2325" fromY="1042" />Sua juventude élfica claramente não estava destinada a trilhar o caminho dos magos, pelo menos não ainda. Mas eles receberam algum treinamento e, com toda a probabilidade, ainda superam a maioria dos usuários de magia não-elfos, ou é o que eles dizem. </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="7" positionX="836" positionY="1655" width="460" height="669">
       <outputs ownerID="7" targetID="9" group="G1" fromX="1266" fromY="1296" />
       <outputs ownerID="7" targetID="4" group="G1" fromX="1266" fromY="1216" />
@@ -1237,9 +1235,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Veja a verdadeira natureza da criança." ownerID="25" targetID="26" fromX="-777" fromY="-463" />Seu filho élfico deveria se tornar adulto, pelo menos pela sua contagem de mortais, mas rapidamente se tornou aparente que eles nunca eram elfos, mas sim uma criatura da floresta disfarçada por um feitiço. 
-
-</nodes>
+      <outputs name="Veja a verdadeira natureza da criança." ownerID="25" targetID="26" fromX="-777" fromY="-463" />Seu filho élfico deveria se tornar adulto, pelo menos pela sua contagem de mortais, mas rapidamente se tornou aparente que eles nunca eram elfos, mas sim uma criatura da floresta disfarçada por um feitiço.  </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="26" positionX="-1530" positionY="-772" width="460" height="669">
       <outputs ownerID="26" targetID="27" group="G1" fromX="-1099" fromY="-1130" />
       <outputs ownerID="26" targetID="31" group="G1" fromX="-1099" fromY="-1210" />
@@ -1393,9 +1389,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="35" targetID="8" fromX="2464" fromY="159" />Sua juventude élfica claramente não estava destinada a trilhar o caminho de um druida, pelo menos não ainda. Mas eles receberam algum treinamento e continuam dedicados a uma vida em comunhão com a natureza.
-
-</nodes>
+      <outputs name="Alegrar!" ownerID="35" targetID="8" fromX="2464" fromY="159" />Sua juventude élfica claramente não estava destinada a trilhar o caminho de um druida, pelo menos não ainda. Mas eles receberam algum treinamento e continuam dedicados a uma vida em comunhão com a natureza. </nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="2587" positionY="1651" width="350" height="725" image="Event171">
       <logic>
         <FilterBlock>
@@ -1506,9 +1500,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="[Anão ou lealdade e homem] Guie seu filho para seus parentes e peça-lhes para treinar. Existe o risco de que a criança fique com seus parentes anoes, mas se eles decidirem voltar para você, certamente ficarão mais fortes por isso." ownerID="2" targetID="3" fromX="667" fromY="-443" />
       <outputs name="Ensine à criança um bom e velho ofício." ownerID="2" targetID="14" fromX="667" fromY="-523" />
-      <outputs name="[Chance] Seu filho parece estranho, permita que a chance guie seu destino." ownerID="2" targetID="25" fromX="667" fromY="-603" />Seu filho anão está prestes a se tornar um adulto, pelo menos pela forma como os mortais contam os anos. Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade. Mas o caminho nunca é fácil. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto.
-
-
+      <outputs name="[Chance] Seu filho parece estranho, permita que a chance guie seu destino." ownerID="2" targetID="25" fromX="667" fromY="-603" />Seu filho anão está prestes a se tornar um adulto, pelo menos pela forma como os mortais contam os anos. Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade. Mas o caminho nunca é fácil. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="673" positionY="1217" width="350" height="966">
       <logic>
@@ -2059,9 +2051,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="[Orc ou lealdade] Guie seu filho para seus parentes e peça a eles treinamento. Existe o risco de a criança ficar com seu clã, mas se ela decidir voltar para você, com certeza ficará mais forte por isso." ownerID="2" targetID="3" fromX="784" fromY="-539" />
       <outputs name="A criança é forte. Talvez cresça para se tornar um lutador." ownerID="2" targetID="20" fromX="784" fromY="-619" />
       <outputs name="Ensine à criança um bom e velho ofício." ownerID="2" targetID="14" fromX="784" fromY="-699" />
-      <outputs name="[Bruxa] Ensine à criança o caminho escuro da feitiçaria." ownerID="2" targetID="35" fromX="784" fromY="-779" />Seu filho orc está prestes a se tornar um adulto. Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade. Mas o caminho nunca é fácil. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto.
-
-
+      <outputs name="[Bruxa] Ensine à criança o caminho escuro da feitiçaria." ownerID="2" targetID="35" fromX="784" fromY="-779" />Seu filho orc está prestes a se tornar um adulto. Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade. Mas o caminho nunca é fácil. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="184" positionY="1203" width="350" height="1046">
       <logic>
@@ -2089,9 +2079,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="[Força] Envie seu filho para ser treinado como rebatedor." ownerID="3" targetID="46" fromX="509" fromY="631" />
       <outputs name="[Percepção] Faça seu jovem tentar ser um rastreador de sangue." ownerID="3" targetID="7" fromX="509" fromY="551" />
       <outputs name="[Misticismo] Envie seu filho para o caminho escuro da bruxaria." ownerID="3" targetID="47" fromX="509" fromY="471" />
-      <outputs name="Vocês, filhos, não têm habilidades para tentar coisas maiores, ou preferem jogar pelo seguro. Ensine à criança um bom e velho ofício." ownerID="3" targetID="14" fromX="509" fromY="391" />O clã orc aceita a criança para as provas de fogo. [Para buscar classes raras, a criança muitas vezes precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., bem como chance. Melhorar o atributo sorte também pode ajudar nisso.]
-
-</nodes>
+      <outputs name="Vocês, filhos, não têm habilidades para tentar coisas maiores, ou preferem jogar pelo seguro. Ensine à criança um bom e velho ofício." ownerID="3" targetID="14" fromX="509" fromY="391" />O clã orc aceita a criança para as provas de fogo. [Para buscar classes raras, a criança muitas vezes precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., bem como chance. Melhorar o atributo sorte também pode ajudar nisso.] </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1846" positionY="261" width="350" height="725" image="Event142">
       <logic>
         <FilterBlock>
@@ -2655,9 +2643,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="Limpe este ninho." ownerID="2" targetID="3" fromX="820" fromY="-635" />
-      <outputs name="Sair." ownerID="2" targetID="4" fromX="820" fromY="-715" />Você encontra o ninho das criaturas que vagam por esta terra. 
-
-</nodes>
+      <outputs name="Sair." ownerID="2" targetID="4" fromX="820" fromY="-715" />Você encontra o ninho das criaturas que vagam por esta terra.  </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="918" positionY="-132" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="0" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="5" fromX="1359" fromY="-627" />
       <outputs name="Lose" ownerID="3" targetID="8" fromX="1359" fromY="-707" />
@@ -2700,9 +2686,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="Limpe este covil." ownerID="2" targetID="3" fromX="820" fromY="-635" />
       <outputs name="[Parentes ou caçadores de animais] Você sabe como lidar com as feras, fume-as daqui. Pode deixar menos loot, mas eles desaparecerão." ownerID="2" targetID="10" fromX="820" fromY="-715" />
-      <outputs name="Sair." ownerID="2" targetID="4" fromX="820" fromY="-795" />You find a beast lair. 
-
-</nodes>
+      <outputs name="Sair." ownerID="2" targetID="4" fromX="820" fromY="-795" />Você encontra um covil de feras.  </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="918" positionY="-132" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="0" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="5" fromX="1359" fromY="-627" />
       <outputs name="Lose" ownerID="3" targetID="8" fromX="1359" fromY="-707" />
@@ -2979,9 +2963,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="[Goblin ou Lealdade] Guie seu filho para seus parentes e peça-lhes para treinar. Isso arriscará a criança a ficar com seu clã, mas se ela decidir voltar para você, certamente será mais sábia por isso!" ownerID="2" targetID="3" fromX="787" fromY="-425" />
       <outputs name="[Força] A criança é forte, talvez cresça e se torne uma lutadora." ownerID="2" targetID="20" fromX="787" fromY="-505" />
       <outputs name="Ensine à criança algum bom e velho ofício, coleta ou artesanato." ownerID="2" targetID="14" fromX="787" fromY="-585" />
-      <outputs name="[Usuário de magia, Misticismo e Acaso]] Goblins podem tentar trilhar o caminho dos espíritos, tentar guiá-los para se tornarem xamãs." ownerID="2" targetID="35" fromX="787" fromY="-665" />Seu filho goblin está prestes a se tornar adulto e então é hora de descobrir seu caminho espiritual. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto.
-
-</nodes>
+      <outputs name="[Usuário de magia, Misticismo e Acaso]] Goblins podem tentar trilhar o caminho dos espíritos, tentar guiá-los para se tornarem xamãs." ownerID="2" targetID="35" fromX="787" fromY="-665" />Seu filho goblin está prestes a se tornar adulto e então é hora de descobrir seu caminho espiritual. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="354" positionY="1411" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -3007,9 +2989,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="[Força] Envie o jovem no caminho de um cavaleiro de javali." ownerID="3" targetID="43" fromX="679" fromY="759" />
       <outputs name="[Força] Treine a criança para lutar como escaramuça." ownerID="3" targetID="52" fromX="679" fromY="679" />
       <outputs name="Ensine à criança algum bom e velho ofício, coleta ou artesanato." ownerID="3" targetID="14" fromX="679" fromY="599" />
-      <outputs name="[Chance] Envie seu filho para a caverna dos espíritos, onde seu destino será deixado aos caprichos ou à sabedoria dos antepassados goblins." ownerID="3" targetID="7" fromX="679" fromY="518" />Uma tribo goblin aceita você e a criança e concorda em uma caminhada espiritual para estabelecer o verdadeiro caminho dos jovens. [Para perseguir classes raras, a criança geralmente precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., além de chance. Melhorar o atributo sorte também pode ajudar nisso.]
-
-</nodes>
+      <outputs name="[Chance] Envie seu filho para a caverna dos espíritos, onde seu destino será deixado aos caprichos ou à sabedoria dos antepassados goblins." ownerID="3" targetID="7" fromX="679" fromY="518" />Uma tribo goblin aceita você e a criança e concorda em uma caminhada espiritual para estabelecer o verdadeiro caminho dos jovens. [Para perseguir classes raras, a criança geralmente precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., além de chance. Melhorar o atributo sorte também pode ajudar nisso.] </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1566" positionY="1998" width="350" height="725" image="Event156">
       <logic>
         <FilterBlock>
@@ -3605,7 +3585,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="Convide os comerciantes." ownerID="2" targetID="3" fromX="831" fromY="-509" />
-      <outputs name="Diga aos comerciantes que você não está interessado desta vez." ownerID="2" targetID="19" fromX="831" fromY="-589" />Sua feitoria atraiu seus primeiros visitantes.</nodes>
+      <outputs name="Diga aos comerciantes que você não está interessado desta vez." ownerID="2" targetID="19" fromX="831" fromY="-589" /></nodes>
     <nodes xsi:type="NodeProduceDrop" ID="3" positionX="1000" positionY="66" width="460" height="750">
       <outputs ownerID="3" targetID="7" group="G1" fromX="1430" fromY="-292" />
       <outputs ownerID="3" targetID="8" group="G1" fromX="1430" fromY="-372" />
@@ -3639,7 +3619,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Troca." ownerID="9" targetID="14" fromX="2997" fromY="-659" />Um comerciante orc oferece seus produtos.</nodes>
+      <outputs name="Troca." ownerID="9" targetID="14" fromX="2997" fromY="-659" /></nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2171" positionY="-585" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -3648,7 +3628,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Troca." ownerID="10" targetID="15" fromX="2496" fromY="-1076" />Um comerciante goblin oferece seus produtos.</nodes>
+      <outputs name="Troca." ownerID="10" targetID="15" fromX="2496" fromY="-1076" /></nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="2164" positionY="1342" width="350" height="530" linkedEventUniqueID="25" />
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="3160" positionY="493" width="350" height="530" linkedEventUniqueID="23" />
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="3355" positionY="-361" width="350" height="530" linkedEventUniqueID="22" />
@@ -4052,7 +4032,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </FilterBlock>
       </logic>
       <outputs name="Convide os comerciantes." ownerID="2" targetID="3" fromX="831" fromY="-509" />
-      <outputs name="Diga aos comerciantes que você não está interessado desta vez." ownerID="2" targetID="19" fromX="831" fromY="-589" />Sua feitoria atraiu mais alguns visitantes.</nodes>
+      <outputs name="Diga aos comerciantes que você não está interessado desta vez." ownerID="2" targetID="19" fromX="831" fromY="-589" /></nodes>
     <nodes xsi:type="NodeProduceDrop" ID="3" positionX="1000" positionY="66" width="460" height="750">
       <outputs ownerID="3" targetID="7" group="G1" fromX="1430" fromY="-292" />
       <outputs ownerID="3" targetID="8" group="G1" fromX="1430" fromY="-372" />
@@ -4086,7 +4066,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Troca." ownerID="9" targetID="14" fromX="2997" fromY="-659" />Um comerciante orc oferece seus produtos.</nodes>
+      <outputs name="Troca." ownerID="9" targetID="14" fromX="2997" fromY="-659" /></nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2171" positionY="-585" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4095,7 +4075,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Troca." ownerID="10" targetID="15" fromX="2496" fromY="-1076" />Um comerciante goblin oferece seus produtos.</nodes>
+      <outputs name="Troca." ownerID="10" targetID="15" fromX="2496" fromY="-1076" /></nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="2164" positionY="1342" width="350" height="530" linkedEventUniqueID="25" />
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="3160" positionY="493" width="350" height="530" linkedEventUniqueID="23" />
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="3355" positionY="-361" width="350" height="530" linkedEventUniqueID="22" />
@@ -4827,7 +4807,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Comece as provaçoes." ownerID="49" targetID="65" group="G1" fromX="-1359" fromY="-2309" />
       <outputs name="Comece as provaçoes." ownerID="49" targetID="59" group="G1" fromX="-1359" fromY="-2389" />
       <outputs name="Comece as provaçoes." ownerID="49" targetID="88" group="G1" fromX="-1359" fromY="-2470" />
-      <outputs name="Comece as provaçoes." ownerID="49" targetID="54" group="G1" fromX="-1359" fromY="-2550" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="54" group="G1" fromX="-1359" fromY="-2550" /> </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-1164" positionY="-1467" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4996,7 +4976,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </ModifierBlock>
       </logic>
       <outputs name="Dê-lhes as boas-vindas de volta." ownerID="58" targetID="89" group="G1" fromX="-1528" fromY="662" />
-      <outputs name="Dê-lhes as boas-vindas de volta." ownerID="58" targetID="91" group="G1" fromX="-1528" fromY="582" />Your child was gifted in magic, alas, a jealous witch found it and cursed it to live as a rat!</nodes>
+      <outputs name="Dê-lhes as boas-vindas de volta." ownerID="58" targetID="91" group="G1" fromX="-1528" fromY="582" />Seu filho foi dotado de magia, infelizmente, uma bruxa ciumenta o encontrou e o amaldiçoou para viver como um rato!</nodes>
     <nodes xsi:type="NodeAdventure" ID="59" positionX="-2110" positionY="-1900" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5158,7 +5138,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Comece as provaçoes." ownerID="68" targetID="65" group="G1" fromX="-2417" fromY="-2323" />
       <outputs name="Comece as provaçoes." ownerID="68" targetID="59" group="G1" fromX="-2417" fromY="-2403" />
       <outputs name="Comece as provaçoes." ownerID="68" targetID="88" group="G1" fromX="-2417" fromY="-2484" />
-      <outputs name="Comece as provaçoes." ownerID="68" targetID="54" group="G1" fromX="-2417" fromY="-2564" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="54" group="G1" fromX="-2417" fromY="-2564" /> </nodes>
     <nodes xsi:type="NodeAdventure" ID="69" positionX="3594" positionY="-484" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -6178,7 +6158,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="412" positionY="-82" width="350" height="725">
-      <outputs name="Sair." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-573" />Your summoned ally has expired.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="3" group="G1" fromX="737" fromY="-573" />Seu aliado invocado expirou.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="802" positionY="-276" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -6211,7 +6191,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Intimide-os!" ownerID="2" targetID="15" fromX="767" fromY="-723" />
       <outputs name="Afastar." ownerID="2" targetID="10" fromX="767" fromY="-803" />
       <outputs name="[Ariel] Diga a eles para deixá-lo em paz, agora!" ownerID="2" targetID="26" fromX="767" fromY="-883" />
-      <outputs name="[Demônio da água] Persiga as feras e cace-as!" ownerID="2" targetID="30" fromX="767" fromY="-963" />A pack of sea beasts approaches.</nodes>
+      <outputs name="[Demônio da água] Persiga as feras e cace-as!" ownerID="2" targetID="30" fromX="767" fromY="-963" />Um bando de feras marinhas se aproxima.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="6" positionY="-720" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -6340,7 +6320,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Tente intimidação!" ownerID="2" targetID="15" fromX="767" fromY="-723" />
       <outputs name="Afastar." ownerID="2" targetID="10" fromX="767" fromY="-803" />
       <outputs name="[Força] Fique firme e não deixe que eles entrem em seu território." ownerID="2" targetID="26" fromX="767" fromY="-883" />
-      <outputs name="[Usuário de magia] Defenda-se com a força do seu espírito." ownerID="2" targetID="27" fromX="767" fromY="-963" />Some sea beasts are approaching you aggressively.</nodes>
+      <outputs name="[Usuário de magia] Defenda-se com a força do seu espírito." ownerID="2" targetID="27" fromX="767" fromY="-963" />Algumas feras marinhas estão se aproximando de você agressivamente.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="-17.14307" positionY="-768.311951" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -6478,9 +6458,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="Limpe este covil." ownerID="2" targetID="3" fromX="740" fromY="-605" />
       <outputs name="[Demônio da água] Você sabe como lidar com criaturas da água, fume-as daqui. Pode deixar menos loot, mas eles desaparecerão." ownerID="2" targetID="10" fromX="740" fromY="-685" />
-      <outputs name="Sair." ownerID="2" targetID="4" fromX="740" fromY="-765" />Você encontra um covil de feras marinhas. 
-
-</nodes>
+      <outputs name="Sair." ownerID="2" targetID="4" fromX="740" fromY="-765" />Você encontra um covil de feras marinhas.  </nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="918" positionY="-132" width="500" height="726" challengeType="TypePhysical" autoscaleByEnemy="true" versusEventOwner="true" challengeScale="0" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="5" fromX="1359" fromY="-627" />
       <outputs name="Lose" ownerID="3" targetID="8" fromX="1359" fromY="-707" />
@@ -6632,7 +6610,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Lutar!" ownerID="2" targetID="12" fromX="767" fromY="-642" />
       <outputs name="Intimide-os!" ownerID="2" targetID="15" fromX="767" fromY="-723" />
       <outputs name="Afastar." ownerID="2" targetID="10" fromX="767" fromY="-803" />
-      <outputs name="Convencê-los a negociar." ownerID="2" targetID="25" fromX="767" fromY="-883" />Um grupo armado se aproxima.</nodes>
+      <outputs name="Convencê-los a negociar." ownerID="2" targetID="25" fromX="767" fromY="-883" /></nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="-17.14307" positionY="-768.311951" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -7210,13 +7188,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="[Usuários de magia ou lealdade e misticismo] Você sabe o suficiente sobre magia para tentar ensinar até mesmo uma criança élfica, ou você é amigo dos Woodlandkin, então você pode pedir a orientação deles para que o jovem possa se tornar um usuário de magia élfica." ownerID="2" targetID="3" fromX="199" fromY="-157" />
       <outputs name="[Percepção e força] A criança tem destreza física, talvez o caminho de um guerreiro seja seu destino." ownerID="2" targetID="39" fromX="199" fromY="-237" />
       <outputs name="Ensine à criança élfica um bom e velho ofício." ownerID="2" targetID="14" fromX="199" fromY="-317" />
-      <outputs name="[Chance] Elfos estão sempre ligados à floresta, permita que seu filho se transforme em um demônio da floresta, mesmo que o resultado seja incerto." ownerID="2" targetID="25" fromX="199" fromY="-397" />Seu filho élfico não será considerado adulto entre seus parentes élficos por muitas décadas ainda, mas eles atingiram o tempo de crescimento.
-
-Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade.
-
-Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto.
-
-
+      <outputs name="[Chance] Elfos estão sempre ligados à floresta, permita que seu filho se transforme em um demônio da floresta, mesmo que o resultado seja incerto." ownerID="2" targetID="25" fromX="199" fromY="-397" />Seu filho élfico não será considerado adulto entre seus parentes élficos por muitas décadas ainda, mas eles atingiram o tempo de crescimento. Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade. Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="264" positionY="1408" width="350" height="966">
       <logic>
@@ -7327,9 +7299,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="6" targetID="8" fromX="2325" fromY="1042" />Sua juventude élfica claramente não estava destinada a trilhar o caminho dos magos, pelo menos não ainda. Mas eles receberam algum treinamento e, com toda a probabilidade, ainda superam a maioria dos usuários de magia não-elfos, ou é o que eles dizem.
-
-</nodes>
+      <outputs name="Alegrar!" ownerID="6" targetID="8" fromX="2325" fromY="1042" />Sua juventude élfica claramente não estava destinada a trilhar o caminho dos magos, pelo menos não ainda. Mas eles receberam algum treinamento e, com toda a probabilidade, ainda superam a maioria dos usuários de magia não-elfos, ou é o que eles dizem. </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="7" positionX="836" positionY="1655" width="460" height="669">
       <outputs ownerID="7" targetID="9" group="G1" fromX="1266" fromY="1296" />
       <outputs ownerID="7" targetID="4" group="G1" fromX="1266" fromY="1216" />
@@ -7534,9 +7504,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Veja a verdadeira natureza da criança." ownerID="25" targetID="26" fromX="-777" fromY="-463" />Seu filho élfico deveria se tornar adulto, pelo menos pela sua contagem de mortais, mas rapidamente se tornou aparente que eles nunca eram elfos, mas sim uma criatura da floresta disfarçada por um feitiço. 
-
-</nodes>
+      <outputs name="Veja a verdadeira natureza da criança." ownerID="25" targetID="26" fromX="-777" fromY="-463" />Seu filho élfico deveria se tornar adulto, pelo menos pela sua contagem de mortais, mas rapidamente se tornou aparente que eles nunca eram elfos, mas sim uma criatura da floresta disfarçada por um feitiço.  </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="26" positionX="-1530" positionY="-772" width="460" height="669">
       <outputs ownerID="26" targetID="27" group="G1" fromX="-1099" fromY="-1130" />
       <outputs ownerID="26" targetID="31" group="G1" fromX="-1099" fromY="-1210" />
@@ -7690,9 +7658,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar!" ownerID="35" targetID="8" fromX="2464" fromY="159" />Sua juventude élfica claramente não estava destinada a trilhar o caminho de um druida, pelo menos não ainda. Mas eles receberam algum treinamento e continuam dedicados a uma vida em comunhão com a natureza.
-
-</nodes>
+      <outputs name="Alegrar!" ownerID="35" targetID="8" fromX="2464" fromY="159" />Sua juventude élfica claramente não estava destinada a trilhar o caminho de um druida, pelo menos não ainda. Mas eles receberam algum treinamento e continuam dedicados a uma vida em comunhão com a natureza. </nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="2587" positionY="1651" width="350" height="725" image="Event171">
       <logic>
         <FilterBlock>
@@ -7803,9 +7769,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="[Anão ou lealdade e homem] Guie seu filho para seus parentes e peça-lhes para treinar. Existe o risco de que a criança fique com seus parentes anoes, mas se eles decidirem voltar para você, certamente ficarão mais fortes por isso." ownerID="2" targetID="3" fromX="667" fromY="-443" />
       <outputs name="Ensine à criança um bom e velho ofício." ownerID="2" targetID="14" fromX="667" fromY="-523" />
-      <outputs name="[Chance] Seu filho parece estranho, permita que a chance guie seu destino." ownerID="2" targetID="25" fromX="667" fromY="-603" />Seu filho anão está prestes a se tornar um adulto, pelo menos pela forma como os mortais contam os anos. Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade. Mas o caminho nunca é fácil. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto.
-
-
+      <outputs name="[Chance] Seu filho parece estranho, permita que a chance guie seu destino." ownerID="2" targetID="25" fromX="667" fromY="-603" />Seu filho anão está prestes a se tornar um adulto, pelo menos pela forma como os mortais contam os anos. Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade. Mas o caminho nunca é fácil. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="673" positionY="1217" width="350" height="966">
       <logic>
@@ -8216,9 +8180,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="[Orc ou lealdade] Guie seu filho para seus parentes e peça a eles treinamento. Existe o risco de a criança ficar com seu clã, mas se ela decidir voltar para você, com certeza ficará mais forte por isso." ownerID="2" targetID="3" fromX="784" fromY="-539" />
       <outputs name="A criança é forte. Talvez cresça para se tornar um lutador." ownerID="2" targetID="20" fromX="784" fromY="-619" />
       <outputs name="Ensine à criança um bom e velho ofício." ownerID="2" targetID="14" fromX="784" fromY="-699" />
-      <outputs name="[Bruxa] Ensine à criança o caminho escuro da feitiçaria." ownerID="2" targetID="35" fromX="784" fromY="-779" />Seu filho orc está prestes a se tornar um adulto. Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade. Mas o caminho nunca é fácil. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto.
-
-
+      <outputs name="[Bruxa] Ensine à criança o caminho escuro da feitiçaria." ownerID="2" targetID="35" fromX="784" fromY="-779" />Seu filho orc está prestes a se tornar um adulto. Como tal, eles passarão pelas colheitas: uma cerimônia de maioridade. Mas o caminho nunca é fácil. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="184" positionY="1203" width="350" height="1046">
       <logic>
@@ -8246,9 +8208,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="[Força] Envie seu filho para ser treinado como rebatedor." ownerID="3" targetID="46" fromX="509" fromY="631" />
       <outputs name="[Percepção] Faça seu jovem tentar ser um rastreador de sangue." ownerID="3" targetID="7" fromX="509" fromY="551" />
       <outputs name="[Misticismo] Envie seu filho para o caminho escuro da bruxaria." ownerID="3" targetID="47" fromX="509" fromY="471" />
-      <outputs name="Vocês, filhos, não têm habilidades para tentar coisas maiores, ou preferem jogar pelo seguro. Ensine à criança um bom e velho ofício." ownerID="3" targetID="14" fromX="509" fromY="391" />O clã orc aceita a criança para as provas de fogo. [Para buscar classes raras, a criança muitas vezes precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., bem como chance. Melhorar o atributo sorte também pode ajudar nisso.]
-
-</nodes>
+      <outputs name="Vocês, filhos, não têm habilidades para tentar coisas maiores, ou preferem jogar pelo seguro. Ensine à criança um bom e velho ofício." ownerID="3" targetID="14" fromX="509" fromY="391" />O clã orc aceita a criança para as provas de fogo. [Para buscar classes raras, a criança muitas vezes precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., bem como chance. Melhorar o atributo sorte também pode ajudar nisso.] </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1846" positionY="261" width="350" height="725" image="Event142">
       <logic>
         <FilterBlock>
@@ -8862,9 +8822,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="[Goblin ou Lealdade] Guie seu filho para seus parentes e peça-lhes para treinar. Isso arriscará a criança a ficar com seu clã, mas se ela decidir voltar para você, certamente será mais sábia por isso!" ownerID="2" targetID="3" fromX="787" fromY="-425" />
       <outputs name="[Força] A criança é forte, talvez cresça e se torne uma lutadora." ownerID="2" targetID="20" fromX="787" fromY="-505" />
       <outputs name="Ensine à criança algum bom e velho ofício, coleta ou artesanato." ownerID="2" targetID="14" fromX="787" fromY="-585" />
-      <outputs name="[Usuário de magia, Misticismo e Acaso]] Goblins podem tentar trilhar o caminho dos espíritos, tentar guiá-los para se tornarem xamãs." ownerID="2" targetID="35" fromX="787" fromY="-665" />Seu filho goblin está prestes a se tornar adulto e então é hora de descobrir seu caminho espiritual. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto.
-
-</nodes>
+      <outputs name="[Usuário de magia, Misticismo e Acaso]] Goblins podem tentar trilhar o caminho dos espíritos, tentar guiá-los para se tornarem xamãs." ownerID="2" targetID="35" fromX="787" fromY="-665" />Seu filho goblin está prestes a se tornar adulto e então é hora de descobrir seu caminho espiritual. Agora você deve escolher que jornada o jovem fará antes, se os deuses permitirem, eles podem retornar para você como um adulto. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="354" positionY="1411" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -8890,9 +8848,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="[Força] Envie o jovem no caminho de um cavaleiro de javali." ownerID="3" targetID="43" fromX="679" fromY="759" />
       <outputs name="[Força] Treine a criança para lutar como escaramuça." ownerID="3" targetID="52" fromX="679" fromY="679" />
       <outputs name="Ensine à criança algum bom e velho ofício, coleta ou artesanato." ownerID="3" targetID="14" fromX="679" fromY="599" />
-      <outputs name="[Chance] Envie seu filho para a caverna dos espíritos, onde seu destino será deixado aos caprichos ou à sabedoria dos antepassados goblins." ownerID="3" targetID="7" fromX="679" fromY="518" />Uma tribo goblin aceita você e a criança e concorda em uma caminhada espiritual para estabelecer o verdadeiro caminho dos jovens. [Para perseguir classes raras, a criança geralmente precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., além de chance. Melhorar o atributo sorte também pode ajudar nisso.]
-
-</nodes>
+      <outputs name="[Chance] Envie seu filho para a caverna dos espíritos, onde seu destino será deixado aos caprichos ou à sabedoria dos antepassados goblins." ownerID="3" targetID="7" fromX="679" fromY="518" />Uma tribo goblin aceita você e a criança e concorda em uma caminhada espiritual para estabelecer o verdadeiro caminho dos jovens. [Para perseguir classes raras, a criança geralmente precisará de uma estatística alta no campo apropriado (os números exatos variam), como força para guerreiros etc., além de chance. Melhorar o atributo sorte também pode ajudar nisso.] </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1566" positionY="1998" width="350" height="725" image="Event156">
       <logic>
         <FilterBlock>
@@ -10189,7 +10145,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Comece as provaçoes." ownerID="49" targetID="65" group="G1" fromX="-1359" fromY="-2309" />
       <outputs name="Comece as provaçoes." ownerID="49" targetID="59" group="G1" fromX="-1359" fromY="-2389" />
       <outputs name="Comece as provaçoes." ownerID="49" targetID="88" group="G1" fromX="-1359" fromY="-2470" />
-      <outputs name="Comece as provaçoes." ownerID="49" targetID="54" group="G1" fromX="-1359" fromY="-2550" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="49" targetID="54" group="G1" fromX="-1359" fromY="-2550" /> </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-1164" positionY="-1467" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10358,7 +10314,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
         </ModifierBlock>
       </logic>
       <outputs name="Dê-lhes as boas-vindas de volta." ownerID="58" targetID="89" group="G1" fromX="-1528" fromY="662" />
-      <outputs name="Dê-lhes as boas-vindas de volta." ownerID="58" targetID="91" group="G1" fromX="-1528" fromY="582" />Your child was gifted in magic, alas, a jealous witch found it and cursed it to live as a rat!</nodes>
+      <outputs name="Dê-lhes as boas-vindas de volta." ownerID="58" targetID="91" group="G1" fromX="-1528" fromY="582" />Seu filho foi dotado de magia, infelizmente, uma bruxa ciumenta o encontrou e o amaldiçoou para viver como um rato!</nodes>
     <nodes xsi:type="NodeAdventure" ID="59" positionX="-2110" positionY="-1900" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10520,7 +10476,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Comece as provaçoes." ownerID="68" targetID="65" group="G1" fromX="-2417" fromY="-2323" />
       <outputs name="Comece as provaçoes." ownerID="68" targetID="59" group="G1" fromX="-2417" fromY="-2403" />
       <outputs name="Comece as provaçoes." ownerID="68" targetID="88" group="G1" fromX="-2417" fromY="-2484" />
-      <outputs name="Comece as provaçoes." ownerID="68" targetID="54" group="G1" fromX="-2417" fromY="-2564" />A jovem bruxa deve entrar no mundo cinzento e buscar seu destino dentro dele. </nodes>
+      <outputs name="Comece as provaçoes." ownerID="68" targetID="54" group="G1" fromX="-2417" fromY="-2564" /> </nodes>
     <nodes xsi:type="NodeAdventure" ID="69" positionX="3594" positionY="-484" width="350" height="725">
       <logic>
         <FilterBlock>

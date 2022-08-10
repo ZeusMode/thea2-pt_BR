@@ -30,7 +30,7 @@
       <outputs name="Troca." ownerID="2" targetID="7" group="G1" fromX="804" fromY="-621" />
       <outputs name="Troca." ownerID="2" targetID="5" group="G1" fromX="804" fromY="-702" />
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />
-      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />The trader's stalls stand open for you.   
+      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />As bancas do comerciante estão abertas para você.   
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-SHADOW_KIN_SMALL" playerInventory="sell">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
@@ -74,9 +74,9 @@
         </FilterBlock>
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1445" fromY="-908" />
-      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />'You are no friends of ours, so we won't take food as payment and you'll have to pay us extra first.'</nodes>
+      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />— Vocês não são nossos amigos, então não aceitaremos comida como pagamento e você terá que nos pagar um extra primeiro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1789.41174" positionY="355.919952" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Good trading with you. Gods be with you.'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Boa negociação com você. Deuses estejam com você.</nodes>
   </Adventure>
   <Adventure name="ShadowKinTrademedium" uniqueID="30" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="704" image="Event009">
@@ -108,7 +108,7 @@
       <outputs name="Troca." ownerID="2" targetID="7" group="G1" fromX="804" fromY="-621" />
       <outputs name="Troca." ownerID="2" targetID="5" group="G1" fromX="804" fromY="-702" />
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />
-      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />The trader's stalls stand open for you.  </nodes>
+      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />As bancas do comerciante estão abertas para você.  </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-SHADOW_KIN" playerInventory="sell">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
       <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
@@ -151,9 +151,9 @@
         </FilterBlock>
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1445" fromY="-908" />
-      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />'You are no friends of ours, so we won't take food as payment and you'll have to pay us extra first.'</nodes>
+      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />— Vocês não são nossos amigos, então não aceitaremos comida como pagamento e você terá que nos pagar um extra primeiro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1789.41174" positionY="355.919952" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Good trading with you. Gods be with you.'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Boa negociação com você. Deuses estejam com você.</nodes>
   </Adventure>
   <Adventure name="ShadowKinTradeadv" uniqueID="31" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="12" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="704" image="Event009">
@@ -185,7 +185,7 @@
       <outputs name="Troca." ownerID="2" targetID="7" group="G1" fromX="804" fromY="-621" />
       <outputs name="Troca." ownerID="2" targetID="5" group="G1" fromX="804" fromY="-702" />
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />
-      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />The trader's stalls stand open for you.   
+      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />As bancas do comerciante estão abertas para você.   
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-SHADOW_KIN_LARGE" playerInventory="sell">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
@@ -229,9 +229,9 @@
         </FilterBlock>
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1445" fromY="-908" />
-      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />'You are no friends of ours, so we won't take food as payment and you'll have to pay us extra first.'</nodes>
+      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />— Vocês não são nossos amigos, então não aceitaremos comida como pagamento e você terá que nos pagar um extra primeiro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1789.41174" positionY="355.919952" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'We are done, please leave us now.'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Nós terminamos, por favor, deixe-nos agora.'</nodes>
   </Adventure>
   <Adventure name="ShadowkinTown" uniqueID="32" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="66" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="-57" positionY="173" width="347" height="741" image="Event005">
@@ -292,11 +292,7 @@
       <outputs name="Diga à voz que você deseja entrar no assentamento, não para lutar." ownerID="2" targetID="44" fromX="768" fromY="-943" />
       <outputs name="[Demônio] Todos os demônios nascem da magia e que por sua vez está mergulhada na escuridão por natureza, portanto você não está aqui para combatê-los sem razão." ownerID="2" targetID="43" fromX="768" fromY="-1024" />
       <outputs name="[Elfo das Sombras] Diga que você está aqui como parente e só deseja visitá-lo." ownerID="2" targetID="47" fromX="768" fromY="-1104" />
-      <outputs name="Ataque!" ownerID="2" targetID="49" fromX="768" fromY="-1184" />You enter the lands of the shadowkin and you feel the raw presence of darkness here. A thick, low hanging black mist covers the ground to you can never see your feet. And another such layer, albeit thinner, shrouds the sky. A voice from the shadow speaks:
-
-'Why do you come seeking darkness? Do you wish yourself changed, or are you here to try and cast us out?'
-
-</nodes>
+      <outputs name="Ataque!" ownerID="2" targetID="49" fromX="768" fromY="-1184" />Você entra nas terras dos shadowkin e sente a presença crua da escuridão aqui. Uma névoa negra espessa e baixa cobre o chão para que você nunca possa ver seus pés. E outra dessas camadas, embora mais fina, cobre o céu. Uma voz da sombra fala: 'Por que você vem em busca da escuridão? Você deseja mudar ou está aqui para tentar nos expulsar? </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="918" positionY="359" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -309,7 +305,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Entre." ownerID="3" targetID="5" fromX="1243" fromY="-132" />
-      <outputs name="Voltar." ownerID="3" targetID="4" fromX="1243" fromY="-212" />&#39;Seguidor do caminho da estagnação. É melhor você ficar longe do nosso coração, ou arriscar o seu enegrecido. Ou talvez esse seja o seu desejo? Você pode entrar, mas por sua conta e risco e saiba que o destino está tumultuado em nossa casa e não o ajudaremos se quiser jogar.&#39;</nodes>
+      <outputs name="Voltar." ownerID="3" targetID="4" fromX="1243" fromY="-212" />'Seguidor do caminho da estagnação. É melhor você ficar longe do nosso coração, ou arriscar o seu enegrecido. Ou talvez esse seja o seu desejo? Você pode entrar, mas por sua conta e risco e saiba que o destino está tumultuado em nossa casa e não o ajudaremos se quiser jogar.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="2023" positionY="-3249" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="5" positionX="1383" positionY="956" width="460" height="699" challengeTypeDamage="TypeSpirit" minDamage="10" maxDamage="20" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="5" targetID="25" group="G1" fromX="1812" fromY="567" />
@@ -328,7 +324,7 @@
       <outputs name="Entre." ownerID="6" targetID="5" fromX="1808" fromY="-618" />
       <outputs name="Voltar." ownerID="6" targetID="4" fromX="1808" fromY="-698" />
       <outputs name="Diga que você quer ser transformado em um parente das sombras." ownerID="6" targetID="7" fromX="1808" fromY="-778" />
-      <outputs name="Diga a eles que seu filho élfico abraçará o caminho da sombra se a oferta for verdadeira?" ownerID="6" targetID="9" fromX="1808" fromY="-858" />&#39;Um filho da luz nos agracia com sua presença, você deseja se tornar shadowkin? Você está curioso para saber como transformamos nossa maldição em um novo caminho? Você está convidado a participar, a escuridão está aberta a todos. Você pode morrer, é claro... Entre, mas por sua conta e risco e saiba que o destino está tumultuado em nossa casa e não vamos ajudá-lo se quiser jogar.&#39;</nodes>
+      <outputs name="Diga a eles que seu filho élfico abraçará o caminho da sombra se a oferta for verdadeira?" ownerID="6" targetID="9" fromX="1808" fromY="-858" />'Um filho da luz nos agracia com sua presença, você deseja se tornar shadowkin? Você está curioso para saber como transformamos nossa maldição em um novo caminho? Você está convidado a participar, a escuridão está aberta a todos. Você pode morrer, é claro... Entre, mas por sua conta e risco e saiba que o destino está tumultuado em nossa casa e não vamos ajudá-lo se quiser jogar.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1942" positionY="-528" width="350" height="805" image="Event173">
       <logic>
         <FilterBlock>
@@ -338,7 +334,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Continuar." ownerID="7" targetID="8" fromX="2267" fromY="-1019" />
-      <outputs name="Voltar." ownerID="7" targetID="4" fromX="2267" fromY="-1099" />Enter then, embrace darkness, brethren and I shall guide you onto your new path. </nodes>
+      <outputs name="Voltar." ownerID="7" targetID="4" fromX="2267" fromY="-1099" />Entre então, abrace a escuridão, irmãos e eu os guiarei em seu novo caminho. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2481" positionY="-655" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -366,7 +362,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Continuar." ownerID="9" targetID="10" fromX="2675" fromY="-1722" />
-      <outputs name="Voltar." ownerID="9" targetID="4" fromX="2675" fromY="-1802" />Enter then, embrace darkness, brethren and I shall guide our young friend to a dark and beautiful fate. Come child, follow me.</nodes>
+      <outputs name="Voltar." ownerID="9" targetID="4" fromX="2675" fromY="-1802" />Entre então, abrace a escuridão, irmãos e eu guiarei nosso jovem amigo a um destino sombrio e belo. Venha criança, siga-me.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="2800" positionY="-1239" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -386,9 +382,7 @@
       <outputs name="Há uma espécie de prefeitura, onde as pessoas pagam suas dívidas, elas fazem isso liberando energia escura, para que você possa se livrar de suas maldiçoes dessa maneira." ownerID="11" targetID="21" fromX="3149" fromY="161" />
       <outputs name="Uma cabana de herbalista está interessada em toxinas, elas drenarão as suas, mas o procedimento não é totalmente seguro." ownerID="11" targetID="22" fromX="3149" fromY="81" />
       <outputs name="Uma bruxa está se oferecendo para vender alguns de seus familiares para você." ownerID="11" targetID="13" fromX="3149" fromY="1" />
-      <outputs name="Simplesmente aproveite a visita, converse com as pessoas e descanse." ownerID="11" targetID="12" fromX="3149" fromY="-78" />A escuridão pesa sobre sua natureza, mas você passa e entra na cidade, situada dentro de uma caverna escondida. Aqui, você pode visitar alguns lugares que estão abertos a pessoas de fora.
-
-</nodes>
+      <outputs name="Simplesmente aproveite a visita, converse com as pessoas e descanse." ownerID="11" targetID="12" fromX="3149" fromY="-78" />A escuridão pesa sobre sua natureza, mas você passa e entra na cidade, situada dentro de uma caverna escondida. Aqui, você pode visitar alguns lugares que estão abertos a pessoas de fora. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3355" positionY="-157" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -413,7 +407,7 @@
       </logic>
       <outputs name="Compre um gato." ownerID="13" targetID="14" fromX="4127" fromY="146" />
       <outputs name="Compre um corvo." ownerID="13" targetID="62" fromX="4127" fromY="66" />
-      <outputs name="Compre uma aranha." ownerID="13" targetID="63" fromX="4127" fromY="-13" />'Here, have a look at my lot, some of them young ones are ready to find new masters.'</nodes>
+      <outputs name="Compre uma aranha." ownerID="13" targetID="63" fromX="4127" fromY="-13" />'Aqui, dê uma olhada no meu lote, alguns deles jovens estão prontos para encontrar novos mestres.'</nodes>
     <nodes xsi:type="NodeTrade" ID="14" positionX="4225" positionY="727" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="nocat" startingBalance="-3000">
       <logic>
         <FilterBlock>
@@ -453,7 +447,7 @@
       <outputs name="Compre um gato." ownerID="16" targetID="14" fromX="5212" fromY="-294" />
       <outputs name="Compre um corvo." ownerID="16" targetID="62" fromX="5212" fromY="-374" />
       <outputs name="Compre uma aranha." ownerID="16" targetID="63" fromX="5212" fromY="-454" />
-      <outputs name="Perhaps another time. Sair." ownerID="16" targetID="4" fromX="5212" fromY="-534" />'Here, have a look at my lot, some of them young ones are ready to find new masters.'</nodes>
+      <outputs name="Perhaps another time. Sair." ownerID="16" targetID="4" fromX="5212" fromY="-534" />'Aqui, dê uma olhada no meu lote, alguns deles jovens estão prontos para encontrar novos mestres.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="5273" positionY="324" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -614,7 +608,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="26" targetID="4" fromX="2319" fromY="625" />The black mist seeps deep into one of your souls, leaving it cursed and you are unable to enter the settlement for now.</nodes>
+      <outputs name="Sair." ownerID="26" targetID="4" fromX="2319" fromY="625" />A névoa negra penetra profundamente em uma de suas almas, deixando-a amaldiçoada e você não pode entrar no assentamento por enquanto.</nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="1024" positionY="-786" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -627,20 +621,18 @@
         </FilterBlock>
       </logic>
       <outputs name="Entre." ownerID="27" targetID="37" fromX="1349" fromY="-1277" />
-      <outputs name="Voltar." ownerID="27" targetID="4" fromX="1349" fromY="-1357" />'Ah, followers of the darker paths. Good. Beware though, darkness is not one to throw many favours, seeing as you are no friends of ours, you will still need to face the black mists whims if you wish to come in.'</nodes>
+      <outputs name="Voltar." ownerID="27" targetID="4" fromX="1349" fromY="-1357" />'Ah, seguidores dos caminhos mais escuros. Bom. Cuidado, porém, a escuridão não é de fazer muitos favores, já que você não é nosso amigo, você ainda precisará enfrentar os caprichos da névoa negra se quiser entrar.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="29" positionX="-913" positionY="-63" width="350" height="530" linkedEventUniqueID="31" />
     <nodes xsi:type="NodeAdventure" ID="30" positionX="-869" positionY="-663" width="350" height="1046" image="Event002">
       <outputs name="Há uma espécie de prefeitura, onde as pessoas pagam suas dívidas, elas fazem isso liberando energia escura, para que você possa se livrar de suas maldiçoes dessa maneira." ownerID="30" targetID="21" fromX="-543" fromY="-1154" />
       <outputs name="Uma cabana de herbalista está interessada em toxinas, elas drenarão as suas, mas o procedimento não é totalmente seguro." ownerID="30" targetID="22" fromX="-543" fromY="-1234" />
       <outputs name="Uma bruxa está se oferecendo para vender alguns de seus familiares para você." ownerID="30" targetID="13" fromX="-543" fromY="-1314" />
       <outputs name="Simplesmente aproveite a visita, converse com as pessoas e descanse." ownerID="30" targetID="12" fromX="-543" fromY="-1394" />
-      <outputs name="Fale com as pessoas, talvez alguém gostaria de se juntar ao caminho da árvore cósmica?" ownerID="30" targetID="31" fromX="-543" fromY="-1474" />A escuridão pesa sobre sua natureza, mas você passa e entra na cidade, situada dentro de uma caverna escondida. Aqui, você pode visitar alguns lugares que estão abertos a pessoas de fora.
-
-</nodes>
+      <outputs name="Fale com as pessoas, talvez alguém gostaria de se juntar ao caminho da árvore cósmica?" ownerID="30" targetID="31" fromX="-543" fromY="-1474" />A escuridão pesa sobre sua natureza, mas você passa e entra na cidade, situada dentro de uma caverna escondida. Aqui, você pode visitar alguns lugares que estão abertos a pessoas de fora. </nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="-1464" positionY="-615" width="350" height="885">
       <outputs name="Pague para recrutar um elfo das sombras." ownerID="31" targetID="32" fromX="-1138" fromY="-1106" />
       <outputs name="Ofereça uma troca, um dos seus por um deles." ownerID="31" targetID="35" fromX="-1138" fromY="-1186" />
-      <outputs name="There is no one interested. Sair." ownerID="31" targetID="4" fromX="-1138" fromY="-1266" />'You have proven a friend to the shadows, perhaps one of us  will follow you, but only if you make it worthwhile for all of us. We will also accept a child in exchange for our service. We are not idealists, we need to survive. Both deals are one time only.'</nodes>
+      <outputs name="There is no one interested. Sair." ownerID="31" targetID="4" fromX="-1138" fromY="-1266" />'Você provou ser um amigo para as sombras, talvez um de nós o siga, mas apenas se você fizer valer a pena para todos nós. Também aceitaremos uma criança em troca do nosso serviço. Não somos idealistas, precisamos sobreviver. Ambos os negócios são apenas uma vez.</nodes>
     <nodes xsi:type="NodeTrade" ID="32" positionX="-2314" positionY="-552" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="nopet" startingBalance="-10000">
       <logic>
         <FilterBlock>
@@ -715,7 +707,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Troca." ownerID="33" targetID="29" fromX="-141" fromY="-532" />
-      <outputs name="Visite a cidade." ownerID="33" targetID="30" fromX="-141" fromY="-612" />Você entra nas terras dos shadowkin e sente a presença crua da escuridão aqui. Uma névoa negra espessa e baixa cobre o chão para que você nunca possa ver seus pés. E outra dessas camadas, embora mais fina, cobre o céu. Uma voz da sombra fala: &#39;Amigo, entre e nós o protegeremos de nossas trevas.&#39;</nodes>
+      <outputs name="Visite a cidade." ownerID="33" targetID="30" fromX="-141" fromY="-612" />Você entra nas terras dos shadowkin e sente a presença crua da escuridão aqui. Uma névoa negra espessa e baixa cobre o chão para que você nunca possa ver seus pés. E outra dessas camadas, embora mais fina, cobre o céu. Uma voz da sombra fala: 'Amigo, entre e nós o protegeremos de nossas trevas.'</nodes>
     <nodes xsi:type="NodeTrade" ID="34" positionX="-2656" positionY="-1372" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="noch" startingBalance="-1">
       <outputs name="confirme" ownerID="34" targetID="65" fromX="-2225" fromY="-1700" />
       <outputs name="Cancelar" ownerID="34" targetID="31" fromX="-2225" fromY="-1780" />
@@ -737,7 +729,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Troca." ownerID="35" targetID="34" fromX="-1706" fromY="-1737" />'Yes, this is acceptable. The young one will learn our ways and one of us will join you.'</nodes>
+      <outputs name="Troca." ownerID="35" targetID="34" fromX="-1706" fromY="-1737" />'Sim, isso é aceitável. O jovem aprenderá nossos costumes e um de nós se juntará a você.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="37" positionX="142" positionY="1873" width="460" height="699" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="37" targetID="38" group="G1" fromX="571" fromY="1484" />
       <outputs ownerID="37" targetID="39" group="G1" fromX="571" fromY="1404" />
@@ -795,7 +787,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="39" targetID="4" fromX="1335" fromY="1011" />The black mist seeps deep into one of your souls, leaving it cursed and you are unable to enter the settlement for now.</nodes>
+      <outputs name="Sair." ownerID="39" targetID="4" fromX="1335" fromY="1011" />A névoa negra penetra profundamente em uma de suas almas, deixando-a amaldiçoada e você não pode entrar no assentamento por enquanto.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="40" positionX="2005" positionY="2234" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="30" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <logic>
         <FilterBlock>
@@ -865,7 +857,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Uma de suas fêmeas orcs tem a mácula negra da magia sobre ela, mesmo não sendo treinada. Os shadowkin se oferecem para despertar esses presentes e transformá-la em uma bruxa." ownerID="42" targetID="41" fromX="823" fromY="-2010" />
-      <outputs name="Digitar." ownerID="42" targetID="46" fromX="823" fromY="-2090" />'Ah, a child born of darkness, much like us, only more - primal. What do you seek from us? If you are here to visit, enter, darkness will not harm you, probably...'</nodes>
+      <outputs name="Digitar." ownerID="42" targetID="46" fromX="823" fromY="-2090" />'Ah, uma criança nascida das trevas, muito parecida conosco, só que mais... primitiva. O que você busca de nós? Se você está aqui para visitar, entrar, a escuridão não irá prejudicá-lo, provavelmente...'</nodes>
     <nodes xsi:type="NodeAdventure" ID="43" positionX="46" positionY="-1359" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -875,10 +867,10 @@
         </FilterBlock>
       </logic>
       <outputs name="Entre." ownerID="43" targetID="37" fromX="371" fromY="-1850" />
-      <outputs name="Voltar." ownerID="43" targetID="4" fromX="371" fromY="-1930" />'Ah, followers of the darker paths. Good. Beware though, darkness is not one to throw many favours, seeing as you are no friends of ours, you will still need to face the black mists whims if you wish to come in.''</nodes>
+      <outputs name="Voltar." ownerID="43" targetID="4" fromX="371" fromY="-1930" />'Ah, seguidores dos caminhos mais escuros. Bom. Cuidado, porém, a escuridão não é de fazer muitos favores, já que você não é nosso amigo, você ainda precisará enfrentar os caprichos da névoa negra se quiser entrar.''</nodes>
     <nodes xsi:type="NodeAdventure" ID="44" positionX="541" positionY="957" width="350" height="805">
       <outputs name="Entre." ownerID="44" targetID="45" fromX="866" fromY="465" />
-      <outputs name="Voltar." ownerID="44" targetID="4" fromX="866" fromY="385" />— É melhor você ficar longe do nosso coração, ou arriscar o seu enegrecido. Ou talvez esse seja o seu desejo? Você pode entrar, mas por sua conta e risco e saiba que o destino está tumultuado em nossa casa e não o ajudaremos se quiser jogar.&#39;</nodes>
+      <outputs name="Voltar." ownerID="44" targetID="4" fromX="866" fromY="385" />— É melhor você ficar longe do nosso coração, ou arriscar o seu enegrecido. Ou talvez esse seja o seu desejo? Você pode entrar, mas por sua conta e risco e saiba que o destino está tumultuado em nossa casa e não o ajudaremos se quiser jogar.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="45" positionX="-322" positionY="982" width="460" height="699" challengeTypeDamage="TypeSpirit" minDamage="10" maxDamage="20" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="45" targetID="25" group="G1" fromX="107" fromY="593" />
       <outputs ownerID="45" targetID="26" group="G1" fromX="107" fromY="513" />
@@ -898,7 +890,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Digamos que você gostaria que um de seus filhos élficos trilhasse o caminho das sombras." ownerID="47" targetID="48" fromX="363" fromY="-2703" />
-      <outputs name="Digitar." ownerID="47" targetID="46" fromX="363" fromY="-2783" />'Welcome shadow kin, this was your home, yet you chose to leave, so be weary of the whimsy of your old family.  If you are here to visit, enter, darkness will not harm you, probably...'</nodes>
+      <outputs name="Digitar." ownerID="47" targetID="46" fromX="363" fromY="-2783" />'Bem-vindos parentes das sombras, esta era sua casa, mas você escolheu partir, então fique cansado do capricho de sua antiga família. Se você está aqui para visitar, entrar, a escuridão não irá prejudicá-lo, provavelmente...'</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="48" positionX="457" positionY="-2477" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -907,7 +899,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Continuar." ownerID="48" targetID="10" fromX="782" fromY="-2968" />'Yes, this is acceptable. The young one will learn our ways and one of us will join you.'</nodes>
+      <outputs name="Continuar." ownerID="48" targetID="10" fromX="782" fromY="-2968" />'Sim, isso é aceitável. O jovem aprenderá nossos costumes e um de nós se juntará a você.</nodes>
     <nodes xsi:type="NodeChallenge" ID="49" positionX="-2012" positionY="-1997" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-MROKI_MIX_6P_5M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="49" targetID="66" group="G1" fromX="-1571" fromY="-2493" />
       <outputs name="Lose" ownerID="49" targetID="61" fromX="-1571" fromY="-2573" />
@@ -932,7 +924,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Saia sem saquear." ownerID="50" targetID="53" fromX="-397" fromY="-2461" />
-      <outputs name="Saque e vá embora." ownerID="50" targetID="55" fromX="-397" fromY="-2541" />The dark town is laid to ruin and you can loot it, but beware, darkness lingers here and will likely infect you.</nodes>
+      <outputs name="Saque e vá embora." ownerID="50" targetID="55" fromX="-397" fromY="-2541" />A cidade escura está arruinada e você pode saqueá-la, mas cuidado, a escuridão permanece aqui e provavelmente o infectará.</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="-1284" positionY="1754" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -970,9 +962,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="52" targetID="53" fromX="-958" fromY="1262" />A escuridão é uma força de mudança e alguns dizem, corrupção. Uma de suas mulheres tinha uma marca das artes das trevas sobre ela e a névoa negra a despertou, transformando-a em uma bruxa. Você conseguiu recuperar alguns recursos úteis, mas a maior parte da cidade parece ter caído em ruína instantânea quando você matou o povo das sombras.
-
-</nodes>
+      <outputs name="Sair." ownerID="52" targetID="53" fromX="-958" fromY="1262" />A escuridão é uma força de mudança e alguns dizem, corrupção. Uma de suas mulheres tinha uma marca das artes das trevas sobre ela e a névoa negra a despertou, transformando-a em uma bruxa. Você conseguiu recuperar alguns recursos úteis, mas a maior parte da cidade parece ter caído em ruína instantânea quando você matou o povo das sombras. </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="53" positionX="-692" positionY="2357" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="53" targetID="54" fromX="-243" fromY="1924" />
     </nodes>
@@ -1025,7 +1015,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="58" targetID="59" fromX="-606" fromY="-3261" />You were badly beaten and darkness seeps deep into your souls as you flee.</nodes>
+      <outputs name="Sair." ownerID="58" targetID="59" fromX="-606" fromY="-3261" />Você foi severamente espancado e a escuridão penetra profundamente em suas almas enquanto você foge.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="59" positionX="-499" positionY="-3125" width="480" height="503" radius="0" destroyOwner="false" linkedEventUniqueID="0">
       <outputs ownerID="59" targetID="60" fromX="-50" fromY="-3557" />
     </nodes>
@@ -1118,7 +1108,7 @@
       <outputs name="Fique cauteloso, mas fale com eles." ownerID="2" targetID="11" fromX="729" fromY="-757" />
       <outputs name="Tente falar o seu caminho para fora disso." ownerID="2" targetID="12" fromX="729" fromY="-837" />
       <outputs name="Lutar!" ownerID="2" targetID="15" fromX="729" fromY="-917" />
-      <outputs name="Afastar." ownerID="2" targetID="10" fromX="729" fromY="-998" />You realise the shadows are following you!</nodes>
+      <outputs name="Afastar." ownerID="2" targetID="10" fromX="729" fromY="-998" />Você percebe que as sombras estão seguindo você!</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="813" positionY="717" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -1128,7 +1118,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Pergunte se eles querem negociar." ownerID="3" targetID="4" fromX="1138" fromY="225" />
-      <outputs name="Meditem juntos." ownerID="3" targetID="23" fromX="1138" fromY="145" />'Apologies, friends. We did not recognise you. Greetings and well wishes.'</nodes>
+      <outputs name="Meditem juntos." ownerID="3" targetID="23" fromX="1138" fromY="145" />— Desculpe, amigos. Não te reconhecemos. Saudaçoes e votos de melhoras.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="1238" positionY="746" width="350" height="530" linkedEventUniqueID="31" />
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="-84" positionY="-1283" width="350" height="455" linkedEventUniqueID="0">
       <logic>
@@ -1149,7 +1139,7 @@
       </logic>
       <outputs name="Sair." ownerID="11" targetID="10" fromX="1236" fromY="-713" />
       <outputs name="Tente falar o seu caminho para fora disso." ownerID="11" targetID="12" fromX="1236" fromY="-793" />
-      <outputs name="Lutar!" ownerID="11" targetID="15" fromX="1236" fromY="-873" />They do not answer, they keep coming towards you.</nodes>
+      <outputs name="Lutar!" ownerID="11" targetID="15" fromX="1236" fromY="-873" />Eles não respondem, continuam vindo em sua direção.</nodes>
     <nodes xsi:type="NodeChallenge" ID="12" positionX="1416" positionY="-259" width="500" height="726" challengeType="TypeMental" versusEventOwner="true" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1180,7 +1170,7 @@
       <outputs ownerID="16" targetID="25" fromX="2433" fromY="-680" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2234" positionY="-1419" width="350" height="725">
-      <outputs name="Sair." ownerID="17" targetID="22" fromX="2559" fromY="-1910" />You defeat the shadowkin.
+      <outputs name="Sair." ownerID="17" targetID="22" fromX="2559" fromY="-1910" />Você derrota o shadowkin.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="3337.90649" positionY="-1385.14355" width="350" height="530" allPlayersXP="-1" linkedEventUniqueID="0">
       <logic>
@@ -1199,7 +1189,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Corre." ownerID="19" targetID="24" fromX="1905" fromY="-2333" />The shadowkin defeat you and infect you with darkness before you manage to escape.</nodes>
+      <outputs name="Corre." ownerID="19" targetID="24" fromX="1905" fromY="-2333" />Os shadowkin derrotam você e o infectam com a escuridão antes que você consiga escapar.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="20" positionX="1018" positionY="-2116" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="50" maxDamage="70" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="20" targetID="19" fromX="1447" fromY="-2504" />
     </nodes>
@@ -1255,6 +1245,6 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="25" targetID="21" fromX="2838" fromY="-665" />The shadows move away.</nodes>
+      <outputs name="Sair." ownerID="25" targetID="21" fromX="2838" fromY="-665" />As sombras se afastam.</nodes>
   </Adventure>
 </MODULE>

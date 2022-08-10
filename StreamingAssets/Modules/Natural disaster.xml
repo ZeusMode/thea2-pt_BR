@@ -8,7 +8,7 @@
       <outputs name="Prepara-te." ownerID="2" targetID="9" group="G1" fromX="1064" fromY="-563" />
       <outputs name="Prepara-te." ownerID="2" targetID="10" group="G1" fromX="1064" fromY="-644" />
       <outputs name="Prepara-te." ownerID="2" targetID="16" group="G1" fromX="1064" fromY="-724" />
-      <outputs name="Prepara-te." ownerID="2" targetID="15" group="G1" fromX="1064" fromY="-804" />The skies darken, birds fly low, and there's an air of anticipation around you.</nodes>
+      <outputs name="Prepara-te." ownerID="2" targetID="15" group="G1" fromX="1064" fromY="-804" />Os céus escurecem, os pássaros voam baixo e há um ar de expectativa ao seu redor.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="1234" positionY="445" width="350" height="455" linkedEventUniqueID="2">
       <logic>
         <FilterBlock>
@@ -76,7 +76,7 @@
       <outputs name="Procure um lugar seguro para se esconder." ownerID="2" targetID="32" group="G4" fromX="1160" fromY="-985" />
       <outputs name="Procure um lugar seguro para se esconder." ownerID="2" targetID="34" group="G4" fromX="1160" fromY="-1065" />
       <outputs name="[Orc] As montanhas são seu domínio. Busque cobertura." ownerID="2" targetID="49" group="G1" fromX="1160" fromY="-1146" />
-      <outputs name="[Orc] As montanhas são seu domínio. Busque cobertura." ownerID="2" targetID="5" group="G1" fromX="1160" fromY="-1226" />A loud thud followed by tremors catches you in the mountains. An avalanche is likely to follow.</nodes>
+      <outputs name="[Orc] As montanhas são seu domínio. Busque cobertura." ownerID="2" targetID="5" group="G1" fromX="1160" fromY="-1226" />Um baque alto seguido de tremores te pega nas montanhas. Uma avalanche provavelmente se seguirá.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1360.1062" positionY="756.312439" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -124,7 +124,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Dê-lhes um enterro rápido e reúna suas coisas." ownerID="4" targetID="47" fromX="2202" fromY="-1240" />You fly to safety before the avalanche gets you, and as it subsides, you spot a group of dead travellers who were not so lucky. 
+      <outputs name="Dê-lhes um enterro rápido e reúna suas coisas." ownerID="4" targetID="47" fromX="2202" fromY="-1240" />Você voa para a segurança antes que a avalanche o atinja e, quando ela diminui, você vê um grupo de viajantes mortos que não tiveram tanta sorte. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1796" positionY="115" width="350" height="725">
       <logic>
@@ -164,13 +164,13 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Recolha a pedra e vá embora." ownerID="8" targetID="9" fromX="3172" fromY="95" />You dig your way out and even find some good minerals on your way.</nodes>
+      <outputs name="Recolha a pedra e vá embora." ownerID="8" targetID="9" fromX="3172" fromY="95" />Você cava o caminho e até encontra alguns bons minerais no caminho.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="3971.48926" positionY="241.823944" width="350" height="408" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="12" positionX="2809.03857" positionY="-243.866074" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="3" maxDamage="5" useCountInPercent="false" targetGroup="ppl">
       <outputs ownerID="12" targetID="13" fromX="3238" fromY="-632" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="3455.73828" positionY="-642.4978" width="350" height="681">
-      <outputs name="Sair." ownerID="13" targetID="14" fromX="3781" fromY="-1133" />You eventually dig your way out, but it is a tiresome ordeal. </nodes>
+      <outputs name="Sair." ownerID="13" targetID="14" fromX="3781" fromY="-1133" />Você acaba cavando sua saída, mas é uma provação cansativa. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="3925.8147" positionY="-775.1849" width="350" height="408" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="2148.93457" positionY="-1555.52234" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="17" targetID="18" fromX="2578" fromY="-1943" />
@@ -192,9 +192,9 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="19" targetID="18" fromX="501" fromY="-1431" />By the skin of your teeth, you manage to make a safe run for it.</nodes>
+      <outputs name="Sair." ownerID="19" targetID="18" fromX="501" fromY="-1431" />Pela pele de seus dentes, você consegue fazer uma corrida segura para ele.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="1767.4353" positionY="-2170.45581" width="350" height="725">
-      <outputs name="Sair." ownerID="21" targetID="22" fromX="2093" fromY="-2661" />The avalanche hits strong and fast, threatening to swallow you whole. You manage to find shelter at the last minute, but now you must dig your way out from under the rubble.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="22" fromX="2093" fromY="-2661" />A avalanche atinge forte e rápido, ameaçando engolir você inteiro. Você consegue encontrar abrigo no último minuto, mas agora você deve cavar seu caminho para fora dos escombros.</nodes>
     <nodes xsi:type="NodeChallenge" ID="22" positionX="2586.789" positionY="-2130.886" width="500" height="807" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_3P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="22" targetID="8" group="G1" fromX="3027" fromY="-2626" />
       <outputs name="Lose" ownerID="22" targetID="12" fromX="3027" fromY="-2706" />
@@ -255,7 +255,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Planeje uma rota segura." ownerID="34" targetID="36" fromX="904" fromY="-2018" />You find a ledge where you wait out the avalanche. Alas, the way back up was damaged, and it will be very tricky to find a safe path back.</nodes>
+      <outputs name="Planeje uma rota segura." ownerID="34" targetID="36" fromX="904" fromY="-2018" />Você encontra uma saliência onde espera a avalanche. Infelizmente, o caminho de volta foi danificado e será muito difícil encontrar um caminho seguro de volta.</nodes>
     <nodes xsi:type="NodeChallenge" ID="36" positionX="-249.246857" positionY="-1727.17151" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_2M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="36" targetID="37" fromX="191" fromY="-2222" />
       <outputs name="Lose" ownerID="36" targetID="45" fromX="191" fromY="-2302" />
@@ -275,7 +275,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="37" targetID="40" fromX="944" fromY="-2756" />You carefully plan every step and make it back up safe and sound. </nodes>
+      <outputs name="Sair." ownerID="37" targetID="40" fromX="944" fromY="-2756" />Você planeja cuidadosamente cada passo e faz o backup são e salvo. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="40" positionX="1122.95264" positionY="-2502.90137" width="350" height="408" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="45" positionX="-256.511627" positionY="-2465.947" width="350" height="725">
       <logic>
@@ -294,7 +294,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="45" targetID="14" fromX="69" fromY="-2957" />You try to carefully plan every step and make it back up safe and sound. But some of your steps are badly chosen, and some of your equipment falls down the mountain.</nodes>
+      <outputs name="Sair." ownerID="45" targetID="14" fromX="69" fromY="-2957" />Você tenta planejar cuidadosamente cada passo e fazê-lo voltar são e salvo. Mas alguns de seus passos são mal escolhidos, e alguns de seus equipamentos caem montanha abaixo.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="47" positionX="2360.70581" positionY="-721.203" width="460" height="429" sourceGroup="GROUP-SCAVENGER_2P_2M_2S" cargoPercentage="80" targetGroup="ppl">
       <outputs ownerID="47" targetID="18" fromX="2791" fromY="-1079" />
     </nodes>
@@ -361,7 +361,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Recolha a pedra e vá embora." ownerID="51" targetID="9" fromX="3686" fromY="-370" />You dig your way out and even find some good minerals on your way.</nodes>
+      <outputs name="Recolha a pedra e vá embora." ownerID="51" targetID="9" fromX="3686" fromY="-370" />Você cava o caminho e até encontra alguns bons minerais no caminho.</nodes>
   </Adventure>
   <Adventure name="Thunder storm" uniqueID="3" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="true" typeVillage="false" difficulty="1" nodeIdMax="20" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="783" image="Event068">
@@ -387,7 +387,7 @@
       <outputs name="[Natureza ou Intelecto] Respeite a raiva da natureza e procure abrigo o mais rápido que puder." ownerID="2" targetID="19" group="G2" fromX="773" fromY="-518" />
       <outputs name="Proteja-se." ownerID="2" targetID="4" group="G2" fromX="773" fromY="-598" />
       <outputs name="Tente fugir da tempestade." ownerID="2" targetID="5" group="G3" fromX="773" fromY="-678" />
-      <outputs name="Tente fugir da tempestade." ownerID="2" targetID="7" group="G3" fromX="773" fromY="-758" />A sudden storm catches you off guard. Lightning bolts cut through the sky and gusts of wind sweep you off your feet. 
+      <outputs name="Tente fugir da tempestade." ownerID="2" targetID="7" group="G3" fromX="773" fromY="-758" />Uma tempestade repentina pega você desprevenido. Relâmpagos cortam o céu e rajadas de vento tiram você do chão. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1511" positionY="-9" width="350" height="725">
       <logic>
@@ -397,7 +397,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Run.&#xD;" ownerID="4" targetID="8" fromX="1836" fromY="-500" />You spot a cave that will protect you, but first you must reach it!</nodes>
+      <outputs name="Run.&#xD;" ownerID="4" targetID="8" fromX="1836" fromY="-500" />Você avista uma caverna que irá protegê-lo, mas primeiro você deve alcançá-la!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1602.12231" positionY="-770.15564" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -414,7 +414,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="5" targetID="6" fromX="1927" fromY="-1261" />You run like the wind and feel that the gods look favourably on you.</nodes>
+      <outputs name="Sair." ownerID="5" targetID="6" fromX="1927" fromY="-1261" />Você corre como o vento e sente que os deuses olham favoravelmente para você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2459.04053" positionY="262.60498" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="1760" positionY="479" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="7" targetID="6" fromX="2189" fromY="90" />
@@ -435,7 +435,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="9" targetID="20" fromX="3283" fromY="-1024" />You run like the wind and feel that the gods look favourably on you. The cave keeps you safe, and when you leave, you discover some stone and the remains of a less fortunate soul.</nodes>
+      <outputs name="Sair." ownerID="9" targetID="20" fromX="3283" fromY="-1024" />Você corre como o vento e sente que os deuses olham favoravelmente para você. The cave keeps you safe, and when you leave, you discover some stone and the remains of a less fortunate soul.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="3894.51" positionY="-625.8498" width="350" height="408" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="11" positionX="3017.73755" positionY="-1460.52966" width="350" height="725">
       <logic>
@@ -445,7 +445,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="11" targetID="12" fromX="3343" fromY="-1951" />You make it to the cave, but the cold wind and drenching rain seep into this all-too-shallow cover. You end up feeling ill. </nodes>
+      <outputs name="Sair." ownerID="11" targetID="12" fromX="3343" fromY="-1951" />Você chega à caverna, mas o vento frio e a chuva torrencial penetram nessa cobertura muito rasa. Você acaba se sentindo mal. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3450.392" positionY="-1657.08691" width="350" height="408" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="17" positionX="906.545044" positionY="1151.70935" width="350" height="725">
       <logic>
@@ -463,7 +463,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Louve os deuses e vá embora." ownerID="17" targetID="6" fromX="1232" fromY="660" />Lightning strikes at your feet and you smell your own burned skin and hair. Yet you feel a surge of power run through you!</nodes>
+      <outputs name="Louve os deuses e vá embora." ownerID="17" targetID="6" fromX="1232" fromY="660" />Um raio atinge seus pés e você sente o cheiro de sua própria pele e cabelo queimados. No entanto, você sente uma onda de poder percorrer você!</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="938.639038" positionY="431.552551" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -475,7 +475,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="7" fromX="1264" fromY="-59" />Lightning strikes at your feet and you smell your own burned skin and hair.
+      <outputs name="Sair." ownerID="18" targetID="7" fromX="1264" fromY="-59" />Um raio atinge seus pés e você sente o cheiro de sua própria pele e cabelo queimados.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="921.058167" positionY="-309.253418" width="350" height="725">
       <logic>
@@ -496,7 +496,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Louve os deuses e vá embora." ownerID="19" targetID="6" fromX="1246" fromY="-800" />As your domain guides you, you sharpen your minds and find good shelter quickly, knowing that such thunderstorms can be deadly to the unwise.
+      <outputs name="Louve os deuses e vá embora." ownerID="19" targetID="6" fromX="1246" fromY="-800" />À medida que seu domínio o guia, você aguça sua mente e encontra um bom abrigo rapidamente, sabendo que tais tempestades podem ser mortais para os imprudentes.
 </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="20" positionX="3373.73462" positionY="-668.4472" width="460" height="429" sourceGroup="GROUP-BANDITS_3P_3M_1S" cargoPercentage="30" targetGroup="ppl">
       <outputs ownerID="20" targetID="10" fromX="3804" fromY="-1026" />
@@ -531,7 +531,7 @@
       <outputs name="[Demônio da água] Acabe com o dilúvio." ownerID="2" targetID="4" group="G1" fromX="774" fromY="-644" />
       <outputs name="Tente encontrar um terreno mais alto." ownerID="2" targetID="12" group="G2" fromX="774" fromY="-724" />
       <outputs name="Tente encontrar um terreno mais alto." ownerID="2" targetID="13" group="G2" fromX="774" fromY="-804" />
-      <outputs name="Tente encontrar um terreno mais alto." ownerID="2" targetID="16" group="G2" fromX="774" fromY="-884" />As you camp by the water, a flash flood rises unexpectedly!</nodes>
+      <outputs name="Tente encontrar um terreno mais alto." ownerID="2" targetID="16" group="G2" fromX="774" fromY="-884" />Enquanto você acampa perto da água, uma inundação repentina surge inesperadamente!</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="994.3815" positionY="344.733276" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -560,7 +560,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Lute contra as ondas." ownerID="4" targetID="6" fromX="2244" fromY="-482" />You ride the violent waves as if you were made for it, but lady nature is angry today and you find it hard to hold on.</nodes>
+      <outputs name="Lute contra as ondas." ownerID="4" targetID="6" fromX="2244" fromY="-482" />Você surfa nas ondas violentas como se tivesse sido feito para isso, mas a senhora natureza está com raiva hoje e você acha difícil se segurar.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="1496.51123" positionY="-472.682922" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="6" positionX="2349.81934" positionY="-164.186462" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_2P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="25" fromX="2790" fromY="-659" />
@@ -707,7 +707,7 @@
       <outputs name="[Demônio do gelo] Absorva a neve gelada para que ela não cause nenhum dano." ownerID="2" targetID="5" group="G1" fromX="763" fromY="-633" />
       <outputs name="Tente passar por isso." ownerID="2" targetID="11" fromX="763" fromY="-713" />
       <outputs name="Use um pouco de seu suprimento de madeira para fortalecer rapidamente seu abrigo." ownerID="2" targetID="12" fromX="763" fromY="-794" />
-      <outputs name="[Dziad mroz] Diga à nevasca para parar, agora." ownerID="2" targetID="22" fromX="763" fromY="-874" />A sudden blizzard engulfs you in its icy clutches!</nodes>
+      <outputs name="[Dziad mroz] Diga à nevasca para parar, agora." ownerID="2" targetID="22" fromX="763" fromY="-874" />Uma nevasca repentina engole você em suas garras geladas!</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1153.00256" positionY="626.9866" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -727,7 +727,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="3" targetID="4" fromX="1478" fromY="135" />You embrace the blizzard and absorb the snow, which strengthens you. </nodes>
+      <outputs name="Sair." ownerID="3" targetID="4" fromX="1478" fromY="135" />Você abraça a nevasca e absorve a neve, o que te fortalece. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="1616.79224" positionY="367.943024" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1453.65881" positionY="-199.846756" width="350" height="725">
       <logic>
@@ -748,7 +748,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Fique firme." ownerID="5" targetID="6" fromX="1779" fromY="-690" />You embrace the blizzard and absorb the snow, but the cold cuts deep and you may find it hard to withstand the pressure. </nodes>
+      <outputs name="Fique firme." ownerID="5" targetID="6" fromX="1779" fromY="-690" />Você abraça a nevasca e absorve a neve, mas o frio corta profundamente e você pode achar difícil suportar a pressão. </nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="1861.03687" positionY="-112.195442" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="7" fromX="2302" fromY="-607" />
       <outputs name="Lose" ownerID="6" targetID="23" fromX="2302" fromY="-687" />
@@ -774,7 +774,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="9" fromX="3437" fromY="-1891" />The blizzard proves too strong. You get nasty frostbite and will likely fall ill from the cold. </nodes>
+      <outputs name="Sair." ownerID="8" targetID="9" fromX="3437" fromY="-1891" />A nevasca se mostra muito forte. Você fica com queimaduras de frio e provavelmente adoecerá com o frio. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="3591.73364" positionY="-860.844666" width="350" height="408" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="2970.3147" positionY="-155.3283" width="350" height="408" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -858,9 +858,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="13" targetID="10" fromX="1944" fromY="-1442" />Você atravessa a neve e o gelo e chega em segurança. Você descobre o corpo de uma alma menos afortunada para saquear.
-
-</nodes>
+      <outputs name="Sair." ownerID="13" targetID="10" fromX="1944" fromY="-1442" />Você atravessa a neve e o gelo e chega em segurança. Você descobre o corpo de uma alma menos afortunada para saquear. </nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="924.685852" positionY="-103.904648" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -883,7 +881,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="22" targetID="4" fromX="1250" fromY="-595" />The blizzard obeys and moves away.</nodes>
+      <outputs name="Sair." ownerID="22" targetID="4" fromX="1250" fromY="-595" />A nevasca obedece e se afasta.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="23" positionX="2474.342" positionY="-707.7175" width="460" height="539" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="23" targetID="24" group="G1" fromX="2903" fromY="-1096" />
       <outputs ownerID="23" targetID="8" group="G1" fromX="2903" fromY="-1176" />
@@ -913,7 +911,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="24" targetID="9" fromX="4026" fromY="-1786" />The blizzard proves too strong. You get nasty frostbite and will likely fall ill from the cold, but luckily you have enough herbs to lessen the spread and strength of the illness. </nodes>
+      <outputs name="Sair." ownerID="24" targetID="9" fromX="4026" fromY="-1786" />A nevasca se mostra muito forte. Você sofre queimaduras de frio e provavelmente adoecerá de frio, mas felizmente você tem ervas suficientes para diminuir a propagação e a força da doença. </nodes>
   </Adventure>
   <Adventure name="Dirtstorm" uniqueID="7" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="true" typeVillage="false" difficulty="2" nodeIdMax="29" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event041">
@@ -945,7 +943,7 @@
       <outputs name="[Scavengers] Seu povo percorre as planícies em busca da próxima oportunidade. Encontre o seu caminho para a segurança rapidamente." ownerID="2" targetID="27" group="G1" fromX="795" fromY="-639" />
       <outputs name="[Scavengers] Seu povo percorre as planícies em busca da próxima oportunidade. Encontre o seu caminho para a segurança rapidamente." ownerID="2" targetID="26" group="G1" fromX="795" fromY="-719" />
       <outputs name="[Orc] Seu povo viveu nas planícies por décadas antes de se estabelecer nos domínios vulcânicos. Procure cobertura o mais rápido que puder." ownerID="2" targetID="3" group="G1" fromX="795" fromY="-799" />
-      <outputs name="[Orc] Seu povo viveu nas planícies por décadas antes de se estabelecer nos domínios vulcânicos. Procure cobertura o mais rápido que puder." ownerID="2" targetID="22" group="G1" fromX="795" fromY="-879" />A sudden gust of wind heralds the coming of a dirt storm. </nodes>
+      <outputs name="[Orc] Seu povo viveu nas planícies por décadas antes de se estabelecer nos domínios vulcânicos. Procure cobertura o mais rápido que puder." ownerID="2" targetID="22" group="G1" fromX="795" fromY="-879" />Uma súbita rajada de vento anuncia a chegada de uma tempestade de terra. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="973.2755" positionY="702.4834" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -980,7 +978,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="7" targetID="10" fromX="3004" fromY="-409" />You dig your way out and discover more than dirt blocked your escape.</nodes>
+      <outputs name="Sair." ownerID="7" targetID="10" fromX="3004" fromY="-409" />Você cava sua saída e descobre mais do que sujeira bloqueando sua fuga.</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="3088.99316" positionY="-717.481934" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1011,7 +1009,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="13" targetID="15" fromX="2231" fromY="-1446" />The dirt gets in everywhere. You choke and struggle, but you persevere and come out stronger for it.</nodes>
+      <outputs name="Sair." ownerID="13" targetID="15" fromX="2231" fromY="-1446" />A sujeira entra em todos os lugares. Você engasga e luta, mas persevera e sai mais forte por isso.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="15" positionX="2407.234" positionY="-1279.16675" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="16" positionX="620.5862" positionY="-1149.10583" width="350" height="725">
       <logic>
@@ -1042,7 +1040,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="20" fromX="2078" fromY="-2437" />The dirt gets in everywhere. You choke and struggle, and when you eventually come out to safety, you realise you lost several bags in the storm.
+      <outputs name="Sair." ownerID="18" targetID="20" fromX="2078" fromY="-2437" />A sujeira entra em todos os lugares. Você engasga e luta, e quando finalmente sai em segurança, percebe que perdeu vários sacos na tempestade.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="2451.29834" positionY="-2209.801" width="350" height="455" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="22" positionX="1510.52991" positionY="32.7191162" width="350" height="725">
@@ -1061,7 +1059,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Você." ownerID="22" targetID="6" fromX="1836" fromY="-458" />You find shelter in some old tunnels unearthed in the Shattering, but the dirt storm is so severe, you need to dig your way back out.</nodes>
+      <outputs name="Você." ownerID="22" targetID="6" fromX="1836" fromY="-458" />Você encontra abrigo em alguns túneis antigos desenterrados no Shattering, mas a tempestade de terra é tão severa que você precisa cavar seu caminho de volta.</nodes>
     <nodes xsi:type="NodeChallenge" ID="24" positionX="-17.2095413" positionY="-1100.28918" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_2M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="24" targetID="16" fromX="423" fromY="-1595" />
       <outputs name="Lose" ownerID="24" targetID="18" fromX="423" fromY="-1675" />
@@ -1083,7 +1081,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Você." ownerID="26" targetID="6" fromX="1396" fromY="-564" />You find shelter in some old tunnels unearthed in the Shattering, but the dirt storm is so severe, you need to dig your way back out.</nodes>
+      <outputs name="Você." ownerID="26" targetID="6" fromX="1396" fromY="-564" />Você encontra abrigo em alguns túneis antigos desenterrados no Shattering, mas a tempestade de terra é tão severa que você precisa cavar seu caminho de volta.</nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="578.6222" positionY="761.6913" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1139,7 +1137,7 @@
       <outputs name="[Elf] Peça à floresta para ajudá-lo a combater este incêndio." ownerID="2" targetID="5" group="G1" fromX="966" fromY="-328" />
       <outputs name="Fugir!" ownerID="2" targetID="19" group="G2" fromX="966" fromY="-409" />
       <outputs name="Fugir!" ownerID="2" targetID="22" group="G2" fromX="966" fromY="-489" />
-      <outputs name="Tente apagar o fogo com água do lago próximo e areia que o cerca." ownerID="2" targetID="7" group="G1" fromX="966" fromY="-569" />You smell smoke and feel a heat wave coming your way. It's a fire!</nodes>
+      <outputs name="Tente apagar o fogo com água do lago próximo e areia que o cerca." ownerID="2" targetID="7" group="G1" fromX="966" fromY="-569" />Você cheira a fumaça e sente uma onda de calor vindo em sua direção. É um incêndio!</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1122.363" positionY="761.070435" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1162,9 +1160,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="3" targetID="6" fromX="1448" fromY="269" />The skies darken, clouds amass, and soothing rain falls upon the raging fire. 
-
-</nodes>
+      <outputs name="Sair." ownerID="3" targetID="6" fromX="1448" fromY="269" />Os céus escurecem, as nuvens se acumulam e a chuva calmante cai sobre o fogo furioso.  </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1841.91418" positionY="-724.1622" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1204,7 +1200,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Apague o fogo." ownerID="5" targetID="7" fromX="1930" fromY="-480" />The forest responds. It will aid you, but you must still fight hard to stop this raging blaze.
+      <outputs name="Apague o fogo." ownerID="5" targetID="7" fromX="1930" fromY="-480" />A floresta responde. Isso irá ajudá-lo, mas você ainda deve lutar arduamente para parar este fogo furioso.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1582.6499" positionY="668.043945" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="7" positionX="2064" positionY="64" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
@@ -1284,7 +1280,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="19" targetID="55" fromX="458" fromY="-1266" />You run away, and the forest burns behind you.</nodes>
+      <outputs name="Sair." ownerID="19" targetID="55" fromX="458" fromY="-1266" />Você foge, e a floresta queima atrás de você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="-844.419739" positionY="-940.9159" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="22" positionX="1211" positionY="-1133" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_3P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="22" targetID="24" fromX="1652" fromY="-1628" />
@@ -1308,7 +1304,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte as coisas e vá embora." ownerID="24" targetID="57" fromX="3041" fromY="-2087" />You run away in time. The forest burns, and, in the ashes, you find the remains of less fortunate souls.</nodes>
+      <outputs name="Junte as coisas e vá embora." ownerID="24" targetID="57" fromX="3041" fromY="-2087" />Você foge a tempo. A floresta queima e, nas cinzas, você encontra os restos de almas menos afortunadas.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="3382" positionY="-1830" width="350" height="408" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="26" positionX="2551.28638" positionY="-2741.559" width="350" height="725">
       <logic>
@@ -1327,7 +1323,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="26" targetID="30" fromX="2877" fromY="-3232" />You barely escape the blazing fire, but not without losing some bags on the way.</nodes>
+      <outputs name="Sair." ownerID="26" targetID="30" fromX="2877" fromY="-3232" />Você mal escapa do fogo ardente, mas não sem perder algumas malas no caminho.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="29" positionX="1925.4281" positionY="-2420.40771" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="2" maxDamage="4" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="29" targetID="56" fromX="2354" fromY="-2808" />
     </nodes>
@@ -1348,7 +1344,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Apague o fogo." ownerID="53" targetID="7" fromX="1447" fromY="-473" />The forest responds. It will aid you, but you must still fight hard to stop this raging blaze.
+      <outputs name="Apague o fogo." ownerID="53" targetID="7" fromX="1447" fromY="-473" />A floresta responde. Isso irá ajudá-lo, mas você ainda deve lutar arduamente para parar este fogo furioso.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="54" positionX="3221.668" positionY="-543.7572" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="3" maxDamage="6" useCountInPercent="false" targetGroup="forestfolk">
       <logic>
@@ -1416,7 +1412,7 @@
       <outputs name="Explorar uma rota segura através da areia movediça." ownerID="2" targetID="14" group="G1" fromX="838" fromY="-636" />
       <outputs name="Explorar uma rota segura através da areia movediça." ownerID="2" targetID="13" group="G1" fromX="838" fromY="-716" />
       <outputs name="Tente voltar rapidamente." ownerID="2" targetID="4" group="G2" fromX="838" fromY="-796" />
-      <outputs name="Tente voltar rapidamente." ownerID="2" targetID="6" group="G2" fromX="838" fromY="-876" />The path you were on seemed solid and safe, but you realise too late that you stepped into quicksand.</nodes>
+      <outputs name="Tente voltar rapidamente." ownerID="2" targetID="6" group="G2" fromX="838" fromY="-876" />O caminho em que você estava parecia sólido e seguro, mas você percebe tarde demais que pisou na areia movediça.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1265.21875" positionY="143.293762" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1439,7 +1435,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="4" targetID="5" fromX="1590" fromY="-347" />You manage to turn back onto solid ground, but you lose some bags on the way.
+      <outputs name="Sair." ownerID="4" targetID="5" fromX="1590" fromY="-347" />Você consegue voltar para terra firme, mas perde algumas malas no caminho.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="1905.23608" positionY="53.4249878" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="6" positionX="2070.52368" positionY="-380.1651" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_3P_0M_0S" challengeScale="101" challengedList="ppl">
@@ -1455,7 +1451,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="7" targetID="8" fromX="3041" fromY="-700" />You manage to turn back onto solid ground, and the struggle against the quicksand strengthened you.</nodes>
+      <outputs name="Sair." ownerID="7" targetID="8" fromX="3041" fromY="-700" />Você consegue voltar para terra firme, e a luta contra a areia movediça o fortaleceu.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="3346.209" positionY="-366.2254" width="350" height="455" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="13" positionX="1224.277" positionY="-1179.52979" width="350" height="805">
       <logic>
@@ -1475,7 +1471,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Descubra o caminho correto." ownerID="13" targetID="16" fromX="1550" fromY="-1670" />
-      <outputs name="Faça uma corrida rápida para ele." ownerID="13" targetID="17" fromX="1550" fromY="-1750" />You do not see a safe path through the quicksand -- at least, not one that is straightforward. But you do see a pattern of rocks spread out in front of you. Some of them seem solid and stable, and others become submerged from time to time.
+      <outputs name="Faça uma corrida rápida para ele." ownerID="13" targetID="17" fromX="1550" fromY="-1750" />Você não vê um caminho seguro através da areia movediça - pelo menos, não um que seja direto. Mas você vê um padrão de rochas espalhadas à sua frente. Alguns deles parecem sólidos e estáveis, e outros ficam submersos de tempos em tempos.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="1655.12817" positionY="-835.9265" width="350" height="725">
       <logic>
@@ -1505,7 +1501,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte suas coisas e vá embora." ownerID="14" targetID="15" fromX="1980" fromY="-1327" />You make it safely onto solid ground again, and along the path you discover the remains of a less fortunate soul, perhaps spat out from the sands. 
+      <outputs name="Junte suas coisas e vá embora." ownerID="14" targetID="15" fromX="1980" fromY="-1327" />Você chega em segurança a terra firme novamente e, ao longo do caminho, descobre os restos de uma alma menos afortunada, talvez cuspida das areias. 
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="15" positionX="2427.7124" positionY="-1582.16919" width="350" height="455" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="16" positionX="1781.85339" positionY="-1614.09351" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_2M_0S" challengeScale="101" challengedList="ppl">
@@ -1557,7 +1553,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="19" targetID="15" fromX="2154" fromY="-3142" />You manage to make your way onto solid ground, but you lose some bags on the way and you feel weakened from the ordeal.</nodes>
+      <outputs name="Sair." ownerID="19" targetID="15" fromX="2154" fromY="-3142" />Você consegue chegar em terra firme, mas perde algumas malas no caminho e se sente enfraquecido pela provação.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="585.548157" positionY="-2087.40259" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1586,7 +1582,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="24" targetID="15" fromX="3726" fromY="-1369" />You manage to turn back onto solid ground, but you lose some bags on the way.
+      <outputs name="Sair." ownerID="24" targetID="15" fromX="3726" fromY="-1369" />Você consegue voltar para terra firme, mas perde algumas malas no caminho.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="25" positionX="2789.19287" positionY="-937.024963" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="2" maxDamage="4" useCountInPercent="false" targetGroup="ppl">
       <outputs ownerID="25" targetID="24" fromX="3218" fromY="-1325" />
@@ -1634,7 +1630,7 @@
       <outputs name="Corra o mais rápido que puder." ownerID="2" targetID="3" group="G1" fromX="748" fromY="-846" />
       <outputs name="Corra o mais rápido que puder." ownerID="2" targetID="5" group="G1" fromX="748" fromY="-926" />
       <outputs name="Corra o mais rápido que puder." ownerID="2" targetID="18" group="G1" fromX="748" fromY="-1006" />
-      <outputs name="Tente resistir à medida que avança." ownerID="2" targetID="24" fromX="748" fromY="-1086" />The air around you gets hotter, the ground trembles, and geysers of hot lava shoot out all around you!</nodes>
+      <outputs name="Tente resistir à medida que avança." ownerID="2" targetID="24" fromX="748" fromY="-1086" />O ar ao seu redor fica mais quente, o chão treme e gêiseres de lava quente se espalham ao seu redor!</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1382.98816" positionY="687.5697" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1654,7 +1650,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="3" targetID="6" fromX="1708" fromY="196" />You skilfully avoid lava spills and even find some good stone on your way to safety.</nodes>
+      <outputs name="Sair." ownerID="3" targetID="6" fromX="1708" fromY="196" />Você habilmente evita derramamentos de lava e até encontra uma boa pedra no caminho para a segurança.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="2012.016" positionY="-1292.65247" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1672,7 +1668,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="4" targetID="17" fromX="2337" fromY="-1783" />You barely make it through, and you were forced to abandon some bags so as not to fall into the molten lava. </nodes>
+      <outputs name="Sair." ownerID="4" targetID="17" fromX="2337" fromY="-1783" />Você mal consegue passar e foi forçado a abandonar alguns sacos para não cair na lava derretida. </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1958" positionY="12" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1681,7 +1677,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Pegue o caminho." ownerID="5" targetID="23" fromX="2283" fromY="-479" />You find a good path, but it leads through a series of rocks that you need to jump on without falling into pits.</nodes>
+      <outputs name="Pegue o caminho." ownerID="5" targetID="23" fromX="2283" fromY="-479" />Você encontra um bom caminho, mas ele passa por uma série de pedras nas quais você precisa pular sem cair em buracos.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1808.94" positionY="542.7317" width="350" height="455" allPlayersXP="5" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="7" positionX="2414" positionY="-794" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_5P_0M_0S" challengeScale="101" challengedList="ppl">
       <logic>
@@ -1712,7 +1708,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="12" fromX="3494" fromY="-484" />You skilfully avoid lava spills and even find some good stone on your way to safety.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="12" fromX="3494" fromY="-484" />Você habilmente evita derramamentos de lava e até encontra uma boa pedra no caminho para a segurança.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="9" positionX="3103.44116" positionY="-786.685852" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="9" targetID="19" fromX="3532" fromY="-1175" />
     </nodes>
@@ -1743,7 +1739,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="14" targetID="17" fromX="1691" fromY="-1877" />You skilfully avoid lava spills and even find some gems on your way to safety.</nodes>
+      <outputs name="Sair." ownerID="14" targetID="17" fromX="1691" fromY="-1877" />Você habilmente evita derramamentos de lava e até encontra algumas joias no seu caminho para a segurança.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="17" positionX="1337.52637" positionY="-2191.31323" width="350" height="455" allPlayersXP="5" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="18" positionX="1509.77063" positionY="-839.229431" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="18" targetID="4" fromX="1939" fromY="-1227" />
@@ -1765,7 +1761,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="19" targetID="11" fromX="4016" fromY="-1405" />You barely make it through, and you were forced to abandon some bags so as not to fall into the molten lava. </nodes>
+      <outputs name="Sair." ownerID="19" targetID="11" fromX="4016" fromY="-1405" />Você mal consegue passar e foi forçado a abandonar alguns sacos para não cair na lava derretida. </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="903.439758" positionY="-1572.468" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1794,7 +1790,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="20" targetID="17" fromX="1229" fromY="-2063" />The path you find is perilous, but for you it is a sign of strength to push through it. You are forced to sacrifice some of your goods to avoid falling into pits, but just as you suspected, you find a vein of gemstones hidden within the pits. </nodes>
+      <outputs name="Sair." ownerID="20" targetID="17" fromX="1229" fromY="-2063" />O caminho que você encontra é perigoso, mas para você é um sinal de força para atravessá-lo. Você é forçado a sacrificar alguns de seus bens para evitar cair em poços, mas assim como você suspeitava, você encontra um veio de pedras preciosas escondido dentro dos poços. </nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="912.295044" positionY="745.5895" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1814,7 +1810,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="21" targetID="6" fromX="1238" fromY="254" />You skilfully avoid lava spills and even find some good stone on your way to safety.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="6" fromX="1238" fromY="254" />Você habilmente evita derramamentos de lava e até encontra uma boa pedra no caminho para a segurança.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="988.0057" positionY="-503.3602" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1834,7 +1830,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="22" targetID="17" fromX="1313" fromY="-994" />You breathe in the lava and it gives you strength. You also fish out some good stones.</nodes>
+      <outputs name="Sair." ownerID="22" targetID="17" fromX="1313" fromY="-994" />Você respira a lava e isso lhe dá força. Você também pesca algumas pedras boas.</nodes>
     <nodes xsi:type="NodeChallenge" ID="23" positionX="2422" positionY="33" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_5P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="23" targetID="8" fromX="2863" fromY="-462" />
       <outputs name="Lose" ownerID="23" targetID="9" fromX="2863" fromY="-542" />
@@ -1865,9 +1861,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="26" targetID="12" fromX="654" fromY="-2478" />The hot air and lava burn your skin, but you brace yourself and  avoid the worst of the lava spills and even find some good stone on your way to safety.
-
-</nodes>
+      <outputs name="Sair." ownerID="26" targetID="12" fromX="654" fromY="-2478" />O ar quente e a lava queimam sua pele, mas você se prepara e evita o pior dos derramamentos de lava e até encontra uma boa pedra no caminho para a segurança. </nodes>
   </Adventure>
   <Adventure name="Hurricane" uniqueID="11" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="false" typeVillage="false" difficulty="2" nodeIdMax="26" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="783" image="Event098">
@@ -1901,7 +1895,7 @@
       <outputs name="[Ganhard demons]Rejoice in the wind. Take to the skies and redirect the hurricane so it does not harm your kin." ownerID="2" targetID="3" group="G1" fromX="851" fromY="-568" />
       <outputs name="[Ganhard demons]Rejoice in the wind. Take to the skies and redirect the hurricane so it does not harm your kin." ownerID="2" targetID="5" group="G1" fromX="851" fromY="-648" />
       <outputs name="Tente encontrar abrigo rapidamente." ownerID="2" targetID="15" group="G2" fromX="851" fromY="-728" />
-      <outputs name="Tente encontrar abrigo rapidamente." ownerID="2" targetID="12" group="G2" fromX="851" fromY="-808" />A hurricane engulfs you!</nodes>
+      <outputs name="Tente encontrar abrigo rapidamente." ownerID="2" targetID="12" group="G2" fromX="851" fromY="-808" />Um furacão engole você!</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1097" positionY="436" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1962,12 +1956,12 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="13" fromX="3083" fromY="-415" />The hurricane finally bends to your will and moves on.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="13" fromX="3083" fromY="-415" />O furacão finalmente se curva à sua vontade e segue em frente.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="9" positionX="2333.38721" positionY="-928.094" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="40" useCountInPercent="true" targetGroup="winddemons">
       <outputs ownerID="9" targetID="25" fromX="2762" fromY="-1316" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="504.107819" positionY="-1328.73108" width="350" height="725">
-      <outputs name="Aguente firme." ownerID="12" targetID="17" fromX="829" fromY="-1819" />You find a crack in the earth where you can wait the hurricane out, but it will take effort to hold steady.</nodes>
+      <outputs name="Aguente firme." ownerID="12" targetID="17" fromX="829" fromY="-1819" />Você encontra uma rachadura na terra onde pode esperar o furacão passar, mas será preciso esforço para se manter firme.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="3240.878" positionY="-180.871582" width="350" height="408" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="2954.22119" positionY="-1017.54572" width="350" height="408" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="15" positionX="1224.861" positionY="-1063.90564" width="350" height="725">
@@ -2012,7 +2006,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="1903.51416" positionY="-1440.08447" width="350" height="805">
       <outputs name="Junte os detritos e vá embora." ownerID="18" targetID="24" group="G1" fromX="2229" fromY="-1931" />
-      <outputs name="Junte os detritos e vá embora." ownerID="18" targetID="23" group="G1" fromX="2229" fromY="-2011" />You manage to stay in place and the hurricane passes, leaving some debris behind.</nodes>
+      <outputs name="Junte os detritos e vá embora." ownerID="18" targetID="23" group="G1" fromX="2229" fromY="-2011" />Você consegue ficar no lugar e o furacão passa, deixando alguns destroços para trás.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="19" positionX="1342.71887" positionY="-2775.583" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="19" targetID="25" fromX="1771" fromY="-3163" />
     </nodes>
@@ -2062,7 +2056,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="25" targetID="14" fromX="2300" fromY="-2879" />You barely hold on as the winds thrash you about. You lose some of your goods, but at least you're alive.</nodes>
+      <outputs name="Sair." ownerID="25" targetID="14" fromX="2300" fromY="-2879" />Você mal se segura enquanto os ventos batem em você. Você perde alguns de seus bens, mas pelo menos está vivo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="1136.84521" positionY="-316.414154" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2085,11 +2079,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="26" targetID="6" fromX="1462" fromY="-807" />As a champion of Stribog, you raise your arms and command the wind to obey your master. 
-
-At first you are swept up and carried by the winds as if to your death, but then you feel the embrace of your god within, and the hurricane surrenders to your command and subsides entirely. 
-
-You are strengthened and free to collect the debris.</nodes>
+      <outputs name="Sair." ownerID="26" targetID="6" fromX="1462" fromY="-807" />Como campeão de Stribog, você levanta os braços e ordena que o vento obedeça ao seu mestre. A princípio, você é arrastado e carregado pelos ventos como se fosse para a morte, mas depois sente o abraço de seu deus interior, e o furacão se rende ao seu comando e desaparece completamente. Você está fortalecido e livre para coletar os detritos.</nodes>
   </Adventure>
   <Adventure name="Natural disaster3" uniqueID="14" allowToUse="false" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="3" nodeIdMax="17" joinIsForced="false" joinType="AllAlly" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="-130" positionY="-83" width="347" height="704" image="Event017">
@@ -2102,7 +2092,7 @@ You are strengthened and free to collect the debris.</nodes>
       <outputs name="Prepara-te." ownerID="2" targetID="4" group="G1" fromX="890" fromY="-787" />
       <outputs name="Prepara-te." ownerID="2" targetID="15" group="G1" fromX="890" fromY="-867" />
       <outputs name="Prepara-te." ownerID="2" targetID="16" group="G1" fromX="890" fromY="-948" />
-      <outputs name="Prepara-te." ownerID="2" targetID="17" group="G1" fromX="890" fromY="-1028" />The skies darken, birds fly low, and there's an air of anticipation around you.</nodes>
+      <outputs name="Prepara-te." ownerID="2" targetID="17" group="G1" fromX="890" fromY="-1028" />Os céus escurecem, os pássaros voam baixo e há um ar de expectativa ao seu redor.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1408" positionY="-500" width="350" height="455" linkedEventUniqueID="8">
       <logic>
         <FilterBlock>
@@ -2540,7 +2530,7 @@ You are strengthened and free to collect the debris.</nodes>
       <outputs name="Procure um lugar seguro para se esconder." ownerID="2" targetID="32" group="G4" fromX="846" fromY="-883" />
       <outputs name="Procure um lugar seguro para se esconder." ownerID="2" targetID="34" group="G4" fromX="846" fromY="-963" />
       <outputs name="[Orc] As montanhas são seu domínio. Busque cobertura." ownerID="2" targetID="49" group="G1" fromX="846" fromY="-1043" />
-      <outputs name="[Orc] As montanhas são seu domínio. Busque cobertura." ownerID="2" targetID="5" group="G1" fromX="846" fromY="-1124" />A loud thud followed by tremors catches you in the mountains. An avalanche is likely to follow.</nodes>
+      <outputs name="[Orc] As montanhas são seu domínio. Busque cobertura." ownerID="2" targetID="5" group="G1" fromX="846" fromY="-1124" />Um baque alto seguido de tremores te pega nas montanhas. Uma avalanche provavelmente se seguirá.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1360.1062" positionY="756.312439" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2591,7 +2581,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Dê-lhes um enterro rápido e reúna suas coisas." ownerID="4" targetID="47" fromX="2202" fromY="-1240" />You fly to safety before the avalanche gets you, and as it subsides, you spot a group of dead travellers who were not so lucky. 
+      <outputs name="Dê-lhes um enterro rápido e reúna suas coisas." ownerID="4" targetID="47" fromX="2202" fromY="-1240" />Você voa para a segurança antes que a avalanche o atinja e, quando ela diminui, você vê um grupo de viajantes mortos que não tiveram tanta sorte. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1760.90625" positionY="126.388626" width="350" height="725">
       <logic>
@@ -2631,13 +2621,13 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Recolha a pedra e vá embora." ownerID="8" targetID="9" fromX="3172" fromY="95" />You dig your way out and even find some good minerals on your way.</nodes>
+      <outputs name="Recolha a pedra e vá embora." ownerID="8" targetID="9" fromX="3172" fromY="95" />Você cava o caminho e até encontra alguns bons minerais no caminho.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="3971.48926" positionY="241.823944" width="350" height="455" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="12" positionX="2809.03857" positionY="-243.866074" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="12" targetID="13" fromX="3238" fromY="-632" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="3455.73828" positionY="-642.4978" width="350" height="725">
-      <outputs name="Sair." ownerID="13" targetID="14" fromX="3781" fromY="-1133" />You eventually dig your way out, but it is a tiresome ordeal. </nodes>
+      <outputs name="Sair." ownerID="13" targetID="14" fromX="3781" fromY="-1133" />Você acaba cavando sua saída, mas é uma provação cansativa. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="3925.8147" positionY="-775.1849" width="350" height="455" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="2148.93457" positionY="-1555.52234" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="17" targetID="18" fromX="2578" fromY="-1943" />
@@ -2659,9 +2649,9 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="19" targetID="18" fromX="442" fromY="-1431" />By the skin of your teeth, you manage to make a safe run for it.</nodes>
+      <outputs name="Sair." ownerID="19" targetID="18" fromX="442" fromY="-1431" />Pela pele de seus dentes, você consegue fazer uma corrida segura para ele.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="1767.4353" positionY="-2170.45581" width="350" height="725">
-      <outputs name="Sair." ownerID="21" targetID="22" fromX="2093" fromY="-2661" />The avalanche hits strong and fast, threatening to swallow you whole. You manage to find shelter at the last minute, but now you must dig your way out from under the rubble.</nodes>
+      <outputs name="Sair." ownerID="21" targetID="22" fromX="2093" fromY="-2661" />A avalanche atinge forte e rápido, ameaçando engolir você inteiro. Você consegue encontrar abrigo no último minuto, mas agora você deve cavar seu caminho para fora dos escombros.</nodes>
     <nodes xsi:type="NodeChallenge" ID="22" positionX="2444" positionY="-2151" width="500" height="807" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="22" targetID="8" group="G1" fromX="2885" fromY="-2646" />
       <outputs name="Lose" ownerID="22" targetID="12" fromX="2885" fromY="-2726" />
@@ -2722,7 +2712,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Planeje uma rota segura." ownerID="34" targetID="36" fromX="904" fromY="-2018" />You find a ledge where you wait out the avalanche. Alas, the way back up was damaged, and it will be very tricky to find a safe path back.</nodes>
+      <outputs name="Planeje uma rota segura." ownerID="34" targetID="36" fromX="904" fromY="-2018" />Você encontra uma saliência onde espera a avalanche. Infelizmente, o caminho de volta foi danificado e será muito difícil encontrar um caminho seguro de volta.</nodes>
     <nodes xsi:type="NodeChallenge" ID="36" positionX="-249.246857" positionY="-1727.17151" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_4M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="36" targetID="37" fromX="191" fromY="-2222" />
       <outputs name="Lose" ownerID="36" targetID="45" fromX="191" fromY="-2302" />
@@ -2742,7 +2732,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="37" targetID="40" fromX="944" fromY="-2756" />You carefully plan every step and make it back up safe and sound. </nodes>
+      <outputs name="Sair." ownerID="37" targetID="40" fromX="944" fromY="-2756" />Você planeja cuidadosamente cada passo e faz o backup são e salvo. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="40" positionX="1122.95264" positionY="-2502.90137" width="350" height="455" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="45" positionX="-256.511627" positionY="-2465.947" width="350" height="725">
       <logic>
@@ -2761,7 +2751,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="45" targetID="14" fromX="69" fromY="-2957" />You try to carefully plan every step and make it back up safe and sound. But some of your steps are badly chosen, and some of your equipment falls down the mountain.</nodes>
+      <outputs name="Sair." ownerID="45" targetID="14" fromX="69" fromY="-2957" />Você tenta planejar cuidadosamente cada passo e fazê-lo voltar são e salvo. Mas alguns de seus passos são mal escolhidos, e alguns de seus equipamentos caem montanha abaixo.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="47" positionX="2360.70581" positionY="-721.203" width="460" height="429" sourceGroup="GROUP-BANDITS_5P_4M_3S" cargoPercentage="80" targetGroup="ppl">
       <outputs ownerID="47" targetID="18" fromX="2791" fromY="-1079" />
     </nodes>
@@ -2828,7 +2818,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Recolha a pedra e vá embora." ownerID="51" targetID="9" fromX="3686" fromY="-370" />You dig your way out and even find some good minerals on your way.</nodes>
+      <outputs name="Recolha a pedra e vá embora." ownerID="51" targetID="9" fromX="3686" fromY="-370" />Você cava o caminho e até encontra alguns bons minerais no caminho.</nodes>
   </Adventure>
   <Adventure name="__Fire" uniqueID="17" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="true" typeVillage="false" difficulty="7" nodeIdMax="58" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="783" image="Event030">
@@ -2864,7 +2854,7 @@ You are strengthened and free to collect the debris.</nodes>
       <outputs name="[Elf] Peça à floresta para ajudá-lo a combater este incêndio." ownerID="2" targetID="5" group="G1" fromX="966" fromY="-328" />
       <outputs name="Fugir!" ownerID="2" targetID="19" group="G2" fromX="966" fromY="-409" />
       <outputs name="Fugir!" ownerID="2" targetID="22" group="G2" fromX="966" fromY="-489" />
-      <outputs name="Tente apagar o fogo com água do lago próximo e areia que o cerca." ownerID="2" targetID="7" group="G1" fromX="966" fromY="-569" />You smell smoke and feel a heat wave coming your way. It's a fire!</nodes>
+      <outputs name="Tente apagar o fogo com água do lago próximo e areia que o cerca." ownerID="2" targetID="7" group="G1" fromX="966" fromY="-569" />Você cheira a fumaça e sente uma onda de calor vindo em sua direção. É um incêndio!</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1122.363" positionY="761.070435" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2896,9 +2886,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="3" targetID="6" fromX="1448" fromY="269" />The skies darken, clouds amass, and soothing rain falls upon the raging fire. 
-
-</nodes>
+      <outputs name="Sair." ownerID="3" targetID="6" fromX="1448" fromY="269" />Os céus escurecem, as nuvens se acumulam e a chuva calmante cai sobre o fogo furioso.  </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1841.91418" positionY="-724.1622" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2938,7 +2926,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Apague o fogo." ownerID="5" targetID="7" fromX="1930" fromY="-480" />The forest responds. It will aid you, but you must still fight hard to stop this raging blaze.
+      <outputs name="Apague o fogo." ownerID="5" targetID="7" fromX="1930" fromY="-480" />A floresta responde. Isso irá ajudá-lo, mas você ainda deve lutar arduamente para parar este fogo furioso.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1582.6499" positionY="668.043945" width="350" height="530" allPlayersXP="7" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="7" positionX="2064" positionY="64" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_7P_0M_0S" challengeScale="101" challengedList="ppl">
@@ -2969,7 +2957,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="9" fromX="3007" fromY="-210" />The forest is saved, and you feel its gratitude fall upon you. You can also gather up some of the wood now. </nodes>
+      <outputs name="Sair." ownerID="8" targetID="9" fromX="3007" fromY="-210" />A floresta é salva, e você sente sua gratidão cair sobre você. Você também pode coletar um pouco da madeira agora. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="3110.8457" positionY="114.5433" width="350" height="530" allPlayersXP="7" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="12" positionX="2714.85059" positionY="-511.519318" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="12" targetID="54" fromX="3144" fromY="-899" />
@@ -3021,7 +3009,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="19" targetID="55" fromX="458" fromY="-1266" />You run away, and the forest burns behind you.</nodes>
+      <outputs name="Sair." ownerID="19" targetID="55" fromX="458" fromY="-1266" />Você foge, e a floresta queima atrás de você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="-844.419739" positionY="-940.9159" width="350" height="455" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="22" positionX="1211" positionY="-1133" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_8P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="22" targetID="24" fromX="1652" fromY="-1628" />
@@ -3045,7 +3033,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte as coisas e vá embora." ownerID="24" targetID="57" fromX="2764" fromY="-1981" />You run away in time. The forest burns, and, in the ashes, you find the remains of less fortunate souls.</nodes>
+      <outputs name="Junte as coisas e vá embora." ownerID="24" targetID="57" fromX="2764" fromY="-1981" />Você foge a tempo. A floresta queima e, nas cinzas, você encontra os restos de almas menos afortunadas.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="2853.373" positionY="-1630.46729" width="350" height="455" allPlayersXP="7" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="26" positionX="2551.28638" positionY="-2741.559" width="350" height="681.449951">
       <logic>
@@ -3064,7 +3052,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="26" targetID="30" fromX="2877.03662" fromY="-3188.62915" />You barely escape the blazing fire, but not without losing some bags on the way.</nodes>
+      <outputs name="Sair." ownerID="26" targetID="30" fromX="2877.03662" fromY="-3188.62915" />Você mal escapa do fogo ardente, mas não sem perder algumas malas no caminho.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="29" positionX="1925.4281" positionY="-2420.40771" width="460" height="459.36" challengeTypeDamage="TypePhysical" minDamage="2" maxDamage="4" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="29" targetID="56" fromX="2354.678" fromY="-2808.76782" />
     </nodes>
@@ -3082,7 +3070,7 @@ You are strengthened and free to collect the debris.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Apague o fogo." ownerID="53" targetID="7" fromX="1447" fromY="-473" />The forest responds. It will aid you, but you must still fight hard to stop this raging blaze.
+      <outputs name="Apague o fogo." ownerID="53" targetID="7" fromX="1447" fromY="-473" />A floresta responde. Isso irá ajudá-lo, mas você ainda deve lutar arduamente para parar este fogo furioso.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="54" positionX="3221.668" positionY="-543.7572" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="forestfolk">
       <logic>

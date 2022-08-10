@@ -18,9 +18,7 @@
       <outputs name="Troca." ownerID="2" targetID="7" group="G1" fromX="804" fromY="-621" />
       <outputs name="Troca." ownerID="2" targetID="5" group="G1" fromX="804" fromY="-702" />
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />
-      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />The trader's stalls stand open for you
-
-</nodes>
+      <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />As bancas do comerciante estão abertas para você </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-NIGHT_DEMONS_LARGE" playerInventory="stuff">
       <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
       <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
@@ -60,9 +58,9 @@
         </FilterBlock>
       </logic>
       <outputs name="Troca." ownerID="7" targetID="4" fromX="1445" fromY="-908" />
-      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />'You are no friends of ours, so you will pay extra.'</nodes>
+      <outputs name="Volte outra vez." ownerID="7" targetID="6" fromX="1445" fromY="-989" />— Vocês não são nossos amigos, então vão pagar mais.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1789.41174" positionY="355.919952" width="350" height="725">
-      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'You waste our time, go.'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />— Você desperdiça nosso tempo, vá.</nodes>
   </Adventure>
   <Adventure name="NightdemonsVillage" uniqueID="32" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="96" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="0" positionY="55" width="347" height="741" image="Event217">
@@ -107,9 +105,7 @@
       <outputs name="[Horz ou Zorya] Como mestres da lua e das estrelas, reivindiquem sua afinidade com os filhos da noite." ownerID="2" targetID="85" group="G1" fromX="835" fromY="-898" />
       <outputs name="Pergunte se você pode entrar e explorar?" ownerID="2" targetID="5" fromX="835" fromY="-978" />
       <outputs name="Sair." ownerID="2" targetID="25" fromX="835" fromY="-1058" />
-      <outputs name="[Amigo ou demônio da noite] Diga que você aceita quaisquer perigos que possam acontecer com você aqui e gostaria de entrar de qualquer maneira." ownerID="2" targetID="7" group="G1" fromX="835" fromY="-1138" />You enter the territory claimed by the night demons. You see werewolves and strigas skulk in the shadows, watching you with hungry eyes:
-
-'Have you come to offer your tasty blood, or flesh maybe?'</nodes>
+      <outputs name="[Amigo ou demônio da noite] Diga que você aceita quaisquer perigos que possam acontecer com você aqui e gostaria de entrar de qualquer maneira." ownerID="2" targetID="7" group="G1" fromX="835" fromY="-1138" />Você entra no território reivindicado pelos demônios da noite. Você vê lobisomens e strigas se escondendo nas sombras, observando você com olhos famintos: 'Você veio oferecer seu sangue saboroso, ou talvez carne?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="511" positionY="515" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -126,11 +122,7 @@
       </logic>
       <outputs name="Ataque!" ownerID="3" targetID="26" group="G1" fromX="836" fromY="23" />
       <outputs name="Ataque!" ownerID="3" targetID="35" group="G1" fromX="836" fromY="-56" />
-      <outputs name="Sair." ownerID="3" targetID="25" fromX="836" fromY="-136" />You enter the territory claimed by the night demons. You feel many eyes upon you and a deep growl greets you:
-
-'Have you come to feed our bloodlust, enemy of the night?'
-
-</nodes>
+      <outputs name="Sair." ownerID="3" targetID="25" fromX="836" fromY="-136" />Você entra no território reivindicado pelos demônios da noite. Você sente muitos olhos sobre você e um grunhido profundo o cumprimenta: 'Você veio para alimentar nossa sede de sangue, inimigo da noite?' </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1514" positionY="392" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -152,9 +144,7 @@
       </logic>
       <outputs name="Melhor ir embora." ownerID="4" targetID="25" fromX="1839" fromY="-99" />
       <outputs name="Ataque!" ownerID="4" targetID="26" group="G1" fromX="1839" fromY="-179" />
-      <outputs name="Ataque!" ownerID="4" targetID="35" group="G1" fromX="1839" fromY="-259" />The inhabitants of this place begin circling you and you feel terribly exposed to their hunger.
-
-'You carry much silver,  mithril, or other material that was borne of the faul metals that hurt us  and come here.  Sair.'</nodes>
+      <outputs name="Ataque!" ownerID="4" targetID="35" group="G1" fromX="1839" fromY="-259" />Os habitantes deste lugar começam a rodeá-lo e você se sente terrivelmente exposto à fome deles. 'Você carrega muita prata, mithril ou outro material que nasceu dos metais defeituosos que nos machucaram e vem aqui. Sair.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="5" positionX="963" positionY="-173" width="460" height="699" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="5" targetID="4" group="G1" fromX="1392" fromY="-561" />
       <outputs ownerID="5" targetID="16" group="G1" fromX="1392" fromY="-641" />
@@ -205,7 +195,7 @@
       <outputs name="Pergunte ao redor por qualquer coisa de interesse." ownerID="7" targetID="65" fromX="954" fromY="-1972" />
       <outputs name="Pergunte se eles negociariam com você?" ownerID="7" targetID="12" fromX="954" fromY="-2052" />
       <outputs name="Há alguns lobisomens em um ringue de luta, vá vê-los." ownerID="7" targetID="15" fromX="954" fromY="-2132" />
-      <outputs name="Visite as casas de prazer." ownerID="7" targetID="17" fromX="954" fromY="-2212" />'You are friends, for now. So, you may enter at your own peril.'</nodes>
+      <outputs name="Visite as casas de prazer." ownerID="7" targetID="17" fromX="954" fromY="-2212" />— Vocês são amigos, por enquanto. Então, você pode entrar por sua conta e risco.'</nodes>
     <nodes xsi:type="NodeTrade" ID="8" positionX="1907" positionY="-1852" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="petsnoghost" startingBalance="-15">
       <outputs name="confirme" ownerID="8" targetID="11" fromX="2337" fromY="-2180" />
       <outputs name="Cancelar" ownerID="8" targetID="87" fromX="2337" fromY="-2260" />
@@ -256,7 +246,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Sair." ownerID="11" targetID="66" group="G1" fromX="2964" fromY="-1890" />
-      <outputs name="Sair." ownerID="11" targetID="67" group="G1" fromX="2964" fromY="-1970" />'I accept your offering and will summon the unliving to your service.'</nodes>
+      <outputs name="Sair." ownerID="11" targetID="67" group="G1" fromX="2964" fromY="-1970" />— Aceito sua oferta e convocarei os mortos-vivos para seu serviço.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="3293" positionY="-1343" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -270,7 +260,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Troca." ownerID="12" targetID="14" fromX="3618" fromY="-1834" />'You have proven friends to us so far, yes, we will trade with you.'</nodes>
+      <outputs name="Troca." ownerID="12" targetID="14" fromX="3618" fromY="-1834" />'Você provou ser nosso amigo até agora, sim, vamos negociar com você.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="3879" positionY="-1933" width="350" height="530" linkedEventUniqueID="31" />
     <nodes xsi:type="NodeAdventure" ID="15" positionX="1633" positionY="-3063" width="350" height="966">
       <logic>
@@ -323,7 +313,7 @@
       </logic>
       <outputs name="Pergunte se eles negociariam com você?" ownerID="16" targetID="84" fromX="2354" fromY="-389" />
       <outputs name="Visite as casas de prazer." ownerID="16" targetID="17" fromX="2354" fromY="-469" />
-      <outputs name="A casa de prazer está ocupada, volte mais tarde." ownerID="16" targetID="25" fromX="2354" fromY="-549" />'It is your lucky day, you may enter, at your own risk.'</nodes>
+      <outputs name="A casa de prazer está ocupada, volte mais tarde." ownerID="16" targetID="25" fromX="2354" fromY="-549" />'É seu dia de sorte, você pode entrar, por sua conta e risco.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="3523" positionY="-2529" width="460" height="940" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="20" useCountInPercent="true" targetGroup="ppl">
       <logic>
         <FilterBlock>
@@ -393,7 +383,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça, descanse e vá embora." ownerID="19" targetID="23" fromX="4381" fromY="-2989" />You got drunk in a night demon pleasure house, when you wake, you are covered in wolf fur and rather rough 'love bites'... but you do feel renewed. </nodes>
+      <outputs name="Agradeça, descanse e vá embora." ownerID="19" targetID="23" fromX="4381" fromY="-2989" />Você ficou bêbado em uma casa de prazer de demônio da noite, quando você acorda, você está coberto de pele de lobo e 'mordidas de amor' bastante ásperas... mas você se sente renovado. </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="5356" positionY="-2760" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -407,7 +397,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair..." ownerID="20" targetID="23" fromX="5681" fromY="-3251" />You got drunk in a night demon pleasure house, when you wake, you are covered in wolf fur and rather rough 'love bites'... You do not feel very well, but it was certainly a night to remember, or was it?</nodes>
+      <outputs name="Sair..." ownerID="20" targetID="23" fromX="5681" fromY="-3251" />Você ficou bêbado em uma casa de prazer de demônio da noite, quando você acorda, você está coberto de pele de lobo e 'mordidas de amor' bastante ásperas... Você não se sente muito bem, mas certamente foi uma noite para lembrar, ou foi?</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="21" positionX="4509" positionY="-2625" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -427,7 +417,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair..." ownerID="21" targetID="23" fromX="4834" fromY="-3116" />You got drunk in a night demon pleasure house, when you wake, you are covered in wolf fur and rather rough 'love bites'... And one wolf seems to now think you're its daddy.</nodes>
+      <outputs name="Sair..." ownerID="21" targetID="23" fromX="4834" fromY="-3116" />Você ficou bêbado em uma casa de prazer de demônio da noite, quando você acorda, você está coberto de pele de lobo e 'mordidas de amor' bastante ásperas... E um lobo parece agora pensar que você é o papai.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="6005" positionY="-3079" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -450,7 +440,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair..." ownerID="22" targetID="23" fromX="6330" fromY="-3570" />You got drunk in a night demon pleasure house, when you wake, you are covered in wolf fur and rather rough 'love bites'... and when you look down at yourself - you're a striga!</nodes>
+      <outputs name="Sair..." ownerID="22" targetID="23" fromX="6330" fromY="-3570" />Você ficou bêbado em uma casa de prazer de demônio da noite, quando você acorda, você está coberto de pele de lobo e 'mordidas de amor' bastante ásperas ... e quando você olha para si mesmo - você é uma striga!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="23" positionX="4927" positionY="-3093" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -524,7 +514,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Sair." ownerID="31" targetID="32" group="G1" fromX="-1568" fromY="-2693" />
-      <outputs name="Sair." ownerID="31" targetID="88" group="G1" fromX="-1568" fromY="-2773" />The night beasts defeat you and claim their blood price for your attack.</nodes>
+      <outputs name="Sair." ownerID="31" targetID="88" group="G1" fromX="-1568" fromY="-2773" />As bestas noturnas derrotam você e reivindicam seu preço de sangue pelo seu ataque.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="32" positionX="-1432" positionY="-1929" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -558,7 +548,7 @@
     <nodes xsi:type="NodeAdventure" ID="36" positionX="2630" positionY="-39" width="350" height="885">
       <outputs name="Melhor ir embora." ownerID="36" targetID="25" fromX="2955" fromY="-530" />
       <outputs name="Ataque!" ownerID="36" targetID="26" group="G1" fromX="2955" fromY="-610" />
-      <outputs name="Ataque!" ownerID="36" targetID="35" group="G1" fromX="2955" fromY="-690" />'No, leave. Return with those who are friends of the night, perhaps then we will listen.'</nodes>
+      <outputs name="Ataque!" ownerID="36" targetID="35" group="G1" fromX="2955" fromY="-690" />— Não, vá. Volte com aqueles que são amigos da noite, talvez então vamos ouvir.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="3538" positionY="-260" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -579,7 +569,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Pergunte se eles negociariam com você?" ownerID="37" targetID="95" fromX="3863" fromY="-751" />
-      <outputs name="Visite as casas de prazer." ownerID="37" targetID="17" fromX="3863" fromY="-831" />'It is your lucky day, you call nature your master and we respect that. You may enter, at your own risk.'</nodes>
+      <outputs name="Visite as casas de prazer." ownerID="37" targetID="17" fromX="3863" fromY="-831" />'É seu dia de sorte, você chama a natureza de seu mestre e nós respeitamos isso. Você pode entrar por sua conta e risco.</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="38" positionX="274" positionY="-2823" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -597,7 +587,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Aceite quem quer que seja que queira se juntar." ownerID="38" targetID="39" fromX="599" fromY="-3314" />
-      <outputs name="Recuse educadamente." ownerID="38" targetID="25" fromX="599" fromY="-3394" />De dentro das sombras eles falam com você: &#39;Você é escolhido da noite. Queremos estar no seu bando.</nodes>
+      <outputs name="Recuse educadamente." ownerID="38" targetID="25" fromX="599" fromY="-3394" />De dentro das sombras eles falam com você: 'Você é escolhido da noite. Queremos estar no seu bando.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="39" positionX="453" positionY="-3831" width="460" height="619" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="39" targetID="41" group="G1" fromX="882" fromY="-4219" />
       <outputs ownerID="39" targetID="40" group="G1" fromX="882" fromY="-4299" />
@@ -651,7 +641,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="44" targetID="33" fromX="-49" fromY="-1283" />The night demons are slain and you hear a dreadful howling in the distance...</nodes>
+      <outputs name="Sair." ownerID="44" targetID="33" fromX="-49" fromY="-1283" />Os demônios da noite são mortos e você ouve um uivo terrível à distância...</nodes>
     <nodes xsi:type="NodeChallenge" ID="47" positionX="2962" positionY="-3352" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-WEREWOLF_ONE_5P_2M_2S" challengeScale="101" challengedList="2str">
       <outputs name="Win" ownerID="47" targetID="48" fromX="3403" fromY="-3847" />
       <outputs name="Lose" ownerID="47" targetID="50" fromX="3403" fromY="-3927" />
@@ -694,7 +684,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Começar." ownerID="49" targetID="47" fromX="2779" fromY="-3880" />Night demons gather and bow before your challenge. A werewolf enters the ring and bares his razor-sharp teeth in an invitation.</nodes>
+      <outputs name="Começar." ownerID="49" targetID="47" fromX="2779" fromY="-3880" />Demônios da noite se reúnem e se curvam diante do seu desafio. Um lobisomem entra no ringue e mostra seus dentes afiados em um convite.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="4114" positionY="-4697" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -703,7 +693,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Beba se ainda puder..." ownerID="50" targetID="51" fromX="4439" fromY="-5188" />Você está derrotado e deve se curvar ao vencedor. — Você lutou bem, mas ainda é uma verdadeira criança da noite. Agora, se você ainda está de pé, vamos beber juntos!&#39;</nodes>
+      <outputs name="Beba se ainda puder..." ownerID="50" targetID="51" fromX="4439" fromY="-5188" />Você está derrotado e deve se curvar ao vencedor. — Você lutou bem, mas ainda é uma verdadeira criança da noite. Agora, se você ainda está de pé, vamos beber juntos!'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="51" positionX="5077" positionY="-4438" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="51" targetID="52" group="G1" fromX="5506" fromY="-4826" />
       <outputs ownerID="51" targetID="53" group="G1" fromX="5506" fromY="-4906" />
@@ -727,7 +717,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Louvado seja Horz." ownerID="52" targetID="53" fromX="5902" fromY="-4923" />One of the challengers wakes with the next full moon as child of the night!</nodes>
+      <outputs name="Louvado seja Horz." ownerID="52" targetID="53" fromX="5902" fromY="-4923" />Um dos desafiantes acorda com a próxima lua cheia como filho da noite!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="53" positionX="6206" positionY="-4512" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="54" positionX="4071" positionY="-3404" width="350" height="530" allPlayersXP="5" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
@@ -760,7 +750,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Louvado seja Horz." ownerID="56" targetID="54" fromX="4937" fromY="-4104" />&#39;Concordo, você merece se juntar às nossas fileiras, por Horz!&#39; Um dos desafiantes acorda com a próxima lua cheia como filho da noite!</nodes>
+      <outputs name="Louvado seja Horz." ownerID="56" targetID="54" fromX="4937" fromY="-4104" />'Concordo, você merece se juntar às nossas fileiras, por Horz!' Um dos desafiantes acorda com a próxima lua cheia como filho da noite!</nodes>
     <nodes xsi:type="NodeAdventure" ID="57" positionX="4448" positionY="-5535" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -769,7 +759,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="57" targetID="53" fromX="4773" fromY="-6026" />'You give up? Coward. Begone from my sight.'</nodes>
+      <outputs name="Sair." ownerID="57" targetID="53" fromX="4773" fromY="-6026" />'Você desiste? Covarde. Saia da minha vista.</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="58" positionX="2063" positionY="-3554" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -781,7 +771,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Começar." ownerID="58" targetID="59" fromX="2388" fromY="-4045" />Night demons gather and bow before your challenge. A werewolf enters the ring and bares his razor-sharp teeth in an invitation.</nodes>
+      <outputs name="Começar." ownerID="58" targetID="59" fromX="2388" fromY="-4045" />Demônios da noite se reúnem e se curvam diante do seu desafio. Um lobisomem entra no ringue e mostra seus dentes afiados em um convite.</nodes>
     <nodes xsi:type="NodeChallenge" ID="59" positionX="2953" positionY="-4130" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-WEREWOLF_ONE_5P_2M_2S" challengeScale="101" challengedList="1str">
       <outputs name="Win" ownerID="59" targetID="63" fromX="3394" fromY="-4625" />
       <outputs name="Lose" ownerID="59" targetID="60" fromX="3394" fromY="-4705" />
@@ -795,7 +785,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Beba se ainda puder..." ownerID="60" targetID="61" fromX="4039" fromY="-5803" />Você está derrotado e deve se curvar ao vencedor. — Você lutou bem, mas ainda é uma verdadeira criança da noite. Agora, se você ainda está de pé, vamos beber juntos!&#39;</nodes>
+      <outputs name="Beba se ainda puder..." ownerID="60" targetID="61" fromX="4039" fromY="-5803" />Você está derrotado e deve se curvar ao vencedor. — Você lutou bem, mas ainda é uma verdadeira criança da noite. Agora, se você ainda está de pé, vamos beber juntos!'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="61" positionX="4892" positionY="-5372" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="61" targetID="62" group="G1" fromX="5321" fromY="-5760" />
       <outputs ownerID="61" targetID="53" group="G1" fromX="5321" fromY="-5840" />
@@ -813,7 +803,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Louvado seja Horz." ownerID="62" targetID="53" fromX="6335" fromY="-5832" />One of the challengers wakes with the next full moon as child of the night!</nodes>
+      <outputs name="Louvado seja Horz." ownerID="62" targetID="53" fromX="6335" fromY="-5832" />Um dos desafiantes acorda com a próxima lua cheia como filho da noite!</nodes>
     <nodes xsi:type="NodeAdventure" ID="63" positionX="3538" positionY="-4447" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -844,11 +834,11 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Louvado seja Horz." ownerID="64" targetID="54" fromX="4436" fromY="-4449" />&#39;Concordo, você merece se juntar às nossas fileiras, por Horz!&#39; Um dos desafiantes acorda com a próxima lua cheia como filho da noite!</nodes>
+      <outputs name="Louvado seja Horz." ownerID="64" targetID="54" fromX="4436" fromY="-4449" />'Concordo, você merece se juntar às nossas fileiras, por Horz!' Um dos desafiantes acorda com a próxima lua cheia como filho da noite!</nodes>
     <nodes xsi:type="NodeAdventure" ID="65" positionX="1065" positionY="-1507" width="350" height="885">
       <outputs name="Ofereça alguns animais de estimação como pagamento (você precisa ter 15)." ownerID="65" targetID="68" fromX="1390" fromY="-1998" />
       <outputs name="Ofereça uma criança." ownerID="65" targetID="9" fromX="1390" fromY="-2078" />
-      <outputs name="Ofereça um membro do grupo, incluindo adultos." ownerID="65" targetID="10" fromX="1390" fromY="-2158" />There is a necromancer staying in the settlement. They can offer you your very own unliving companion, for a price.</nodes>
+      <outputs name="Ofereça um membro do grupo, incluindo adultos." ownerID="65" targetID="10" fromX="1390" fromY="-2158" />Há um necromante hospedado no assentamento. Eles podem oferecer a você seu próprio companheiro não-vivo, por um preço.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="66" positionX="3137" positionY="-2105" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -880,7 +870,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Pagar." ownerID="68" targetID="8" fromX="1795" fromY="-2112" />'Hmm, not my typical price, but I will accept it, this once.'</nodes>
+      <outputs name="Pagar." ownerID="68" targetID="8" fromX="1795" fromY="-2112" />'Hmm, não é o meu preço normal, mas vou aceitar, desta vez.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="69" positionX="2076" positionY="-5105" width="500" height="807" challengeType="TypeSpirit" versusGroup="GROUP-STRIGA_MASTER_ONE_4P_4M_5S" challengeScale="101" challengedList="1myst">
       <outputs name="Win" ownerID="69" targetID="70" group="G1" fromX="2517" fromY="-5600" />
       <outputs name="Lose" ownerID="69" targetID="78" fromX="2517" fromY="-5680" />
@@ -927,7 +917,7 @@
       <outputs name="[Elf] Infelizmente, os elfos não podem aceitar presentes tão sombrios. Agradeça a ele do mesmo jeito." ownerID="70" targetID="72" fromX="2962" fromY="-5855" />
       <outputs name="Aceite a oferta." ownerID="70" targetID="74" group="G1" fromX="2962" fromY="-5935" />
       <outputs name="Recusar educadamente e sair." ownerID="70" targetID="73" fromX="2962" fromY="-6015" />
-      <outputs name="Aceite a oferta." ownerID="70" targetID="92" group="G1" fromX="2962" fromY="-6095" />&#39;Você encantou meu coração com sua habilidade magistral. Eu me curvo ao seu poder superior e sua beleza desconcertante. Você concorda comigo minha amante da noite? Uma mordida doce e seu mundo mudará para sempre!&#39;</nodes>
+      <outputs name="Aceite a oferta." ownerID="70" targetID="92" group="G1" fromX="2962" fromY="-6095" />'Você encantou meu coração com sua habilidade magistral. Eu me curvo ao seu poder superior e sua beleza desconcertante. Você concorda comigo minha amante da noite? Uma mordida doce e seu mundo mudará para sempre!'</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="71" positionX="2086" positionY="-4342" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -936,7 +926,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Começar." ownerID="71" targetID="69" fromX="2411" fromY="-4833" />'Challenge me? How delightful. Let us dance my dear.'</nodes>
+      <outputs name="Começar." ownerID="71" targetID="69" fromX="2411" fromY="-4833" />'Desafia-me? Que delícia. Vamos dançar minha querida.</nodes>
     <nodes xsi:type="NodeAdventure" ID="72" positionX="3112" positionY="-5269" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -959,7 +949,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ele e vá embora, isso está ficando estranho." ownerID="72" targetID="73" fromX="3438" fromY="-5760" />'Ah, yes, children of light. Such a shame, still. I am enamoured and so shall gift you a night-kiss so that it may remind you of me. From now on, you shall be part of our night pack, even if only a little. Now fare thee well, my love!'</nodes>
+      <outputs name="Agradeça a ele e vá embora, isso está ficando estranho." ownerID="72" targetID="73" fromX="3438" fromY="-5760" />'Ah, sim, filhos da luz. Uma pena, ainda. Estou apaixonado e por isso lhe darei um beijo noturno para que você se lembre de mim. A partir de agora, você fará parte do nosso pacote noturno, mesmo que seja apenas um pouco. Agora adeus, meu amor!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="73" positionX="4213" positionY="-6031" width="350" height="530" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="74" positionX="3478" positionY="-6184" width="350" height="725">
       <logic>
@@ -977,7 +967,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá embora, mas prometa visitar..." ownerID="74" targetID="73" fromX="3803" fromY="-6675" />You become the mistress of the night. The striga master is exhausted from the ritual, so it is a good time to go.</nodes>
+      <outputs name="Vá embora, mas prometa visitar..." ownerID="74" targetID="73" fromX="3803" fromY="-6675" />Você se torna a dona da noite. O mestre da striga está exausto do ritual, então é um bom momento para ir.</nodes>
     <nodes xsi:type="NodeAdventure" ID="75" positionX="1848" positionY="-5972" width="350" height="885">
       <logic>
         <ModifierBlock>
@@ -1000,7 +990,7 @@
       </logic>
       <outputs name="Agradeça a ele e vá embora." ownerID="75" targetID="73" fromX="2173" fromY="-6463" />
       <outputs name="Peça para ser transformado em um mestre de striga!" ownerID="75" targetID="76" group="G1" fromX="2173" fromY="-6543" />
-      <outputs name="Peça para ser transformada em uma striga comum." ownerID="75" targetID="77" group="G1" fromX="2173" fromY="-6623" />'Wonderful, yes, your power is great and I am impressed. I bow to your superiority, friend. Here, a reward for your challenge.'</nodes>
+      <outputs name="Peça para ser transformada em uma striga comum." ownerID="75" targetID="77" group="G1" fromX="2173" fromY="-6623" />'Maravilhoso, sim, seu poder é grande e estou impressionado. Eu me curvo à sua superioridade, amigo. Aqui, uma recompensa pelo seu desafio.</nodes>
     <nodes xsi:type="NodeAdventure" ID="76" positionX="2277" positionY="-6213" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1026,7 +1016,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ele e vá embora." ownerID="76" targetID="73" fromX="2602" fromY="-6704" />'Yes, you shall become a brother of mine. Agreed.'</nodes>
+      <outputs name="Agradeça a ele e vá embora." ownerID="76" targetID="73" fromX="2602" fromY="-6704" />— Sim, você se tornará um irmão meu. Concordou.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="77" positionX="1884" positionY="-6895" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1038,7 +1028,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ele e vá embora." ownerID="77" targetID="73" fromX="2209" fromY="-7386" />'Yes, you shall become a child of mine. Agreed.'</nodes>
+      <outputs name="Agradeça a ele e vá embora." ownerID="77" targetID="73" fromX="2209" fromY="-7386" />— Sim, você se tornará um filho meu. Concordou.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="78" positionX="883" positionY="-5382" width="350" height="885">
       <logic>
         <ModifierBlock>
@@ -1049,7 +1039,7 @@
       </logic>
       <outputs name="Aceite sua derrota." ownerID="78" targetID="79" group="G1" fromX="1208" fromY="-5873" />
       <outputs name="Aceite sua derrota." ownerID="78" targetID="81" group="G1" fromX="1208" fromY="-5953" />
-      <outputs name="Aceite sua derrota." ownerID="78" targetID="80" group="G1" fromX="1208" fromY="-6033" />'And so, you bow down to my superior power, good...</nodes>
+      <outputs name="Aceite sua derrota." ownerID="78" targetID="80" group="G1" fromX="1208" fromY="-6033" />'E assim, você se curva ao meu poder superior, bom...</nodes>
     <nodes xsi:type="NodeAdventure" ID="79" positionX="371" positionY="-5727" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1087,7 +1077,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Você não parece ter muita escolha. Aceno com a cabeça." ownerID="79" targetID="80" fromX="696" fromY="-6218" />&#39;Apesar de seu fracasso, você encantou meu coração com sua beleza desconcertante. Você será minha amante da noite. Uma mordida doce e seu mundo mudará para sempre!&#39; Você se torna a dona da noite. O mestre da striga está exausto do ritual, então é um bom momento para ir.</nodes>
+      <outputs name="Você não parece ter muita escolha. Aceno com a cabeça." ownerID="79" targetID="80" fromX="696" fromY="-6218" />'Apesar de seu fracasso, você encantou meu coração com sua beleza desconcertante. Você será minha amante da noite. Uma mordida doce e seu mundo mudará para sempre!' Você se torna a dona da noite. O mestre da striga está exausto do ritual, então é um bom momento para ir.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="80" positionX="355" positionY="-6504" width="350" height="408" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="81" positionX="858" positionY="-6442" width="350" height="725">
       <logic>
@@ -1105,7 +1095,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Você não parece ter muita escolha. Aceno com a cabeça." ownerID="81" targetID="80" fromX="1183" fromY="-6933" />'Also, you shall become a child of mine and serve the night.'</nodes>
+      <outputs name="Você não parece ter muita escolha. Aceno com a cabeça." ownerID="81" targetID="80" fromX="1183" fromY="-6933" />'Além disso, você se tornará um filho meu e servirá a noite.'</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="82" positionX="6468" positionY="-3370" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1125,7 +1115,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair..." ownerID="82" targetID="23" fromX="6793" fromY="-3861" />You got drunk in a night demon pleasure house, when you wake, you are covered in wolf fur and rather rough 'love bites'... and when you look down at yourself - you're a werewolf!</nodes>
+      <outputs name="Sair..." ownerID="82" targetID="23" fromX="6793" fromY="-3861" />Você ficou bêbado em uma casa de prazer de demônio da noite, quando você acorda, você está coberto de pele de lobo e 'mordidas de amor' bastante ásperas ... e quando você olha para si mesmo - você é um lobisomem!</nodes>
     <nodes xsi:type="NodeAdventure" ID="83" positionX="5551" positionY="-3611" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1137,7 +1127,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair..." ownerID="83" targetID="23" fromX="5876" fromY="-4102" />You got drunk in a night demon pleasure house, when you wake, you are covered in wolf fur and rather rough 'love bites'.</nodes>
+      <outputs name="Sair..." ownerID="83" targetID="23" fromX="5876" fromY="-4102" />Você ficou bêbado em uma casa de prazer de demônio da noite, quando você acorda, você está coberto de pele de lobo e 'mordidas de amor' bastante ásperas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="84" positionX="4025" positionY="-1048" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1151,7 +1141,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Troca." ownerID="84" targetID="14" fromX="4350" fromY="-1539" />'You have proven friendly to us so far, yes, we will trade with you.'</nodes>
+      <outputs name="Troca." ownerID="84" targetID="14" fromX="4350" fromY="-1539" />'Você se mostrou amigável conosco até agora, sim, vamos negociar com você.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="85" positionX="162" positionY="-1692" width="350" height="1046">
       <logic>
         <FilterBlock>
@@ -1200,12 +1190,12 @@
       <outputs name="Pergunte se eles negociariam com você?" ownerID="85" targetID="12" fromX="487" fromY="-2263" />
       <outputs name="Há alguns lobisomens em um ringue de luta, vá vê-los." ownerID="85" targetID="15" fromX="487" fromY="-2343" />
       <outputs name="Visite as casas de prazer." ownerID="85" targetID="17" fromX="487" fromY="-2423" />
-      <outputs name="Algumas crianças da noite continuam observando você. Aproxime-se deles." ownerID="85" targetID="38" fromX="487" fromY="-2503" />'Yes, the night mates, bonded forever and you call one of them your alpha, good. Enter, enjoy the night!'</nodes>
+      <outputs name="Algumas crianças da noite continuam observando você. Aproxime-se deles." ownerID="85" targetID="38" fromX="487" fromY="-2503" />'Sim, os companheiros da noite, unidos para sempre e você chama um deles de seu alfa, bom. Entre, aproveite a noite!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="87" positionX="2541" positionY="-2270" width="350" height="966">
       <outputs name="Melhor ir embora." ownerID="87" targetID="25" fromX="2866" fromY="-2761" />
       <outputs name="Visite as casas de prazer." ownerID="87" targetID="17" fromX="2866" fromY="-2841" />
       <outputs name="Há alguns lobisomens em um ringue de luta, vá vê-los." ownerID="87" targetID="15" fromX="2866" fromY="-2921" />
-      <outputs name="Pergunte se eles negociariam com você?" ownerID="87" targetID="12" fromX="2866" fromY="-3001" />'No deal, time to depart?'</nodes>
+      <outputs name="Pergunte se eles negociariam com você?" ownerID="87" targetID="12" fromX="2866" fromY="-3001" />'Sem acordo, hora de partir?'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="88" positionX="-1280" positionY="-2561" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="89" positionX="-966" positionY="-1948" width="350" height="530" allPlayersXP="8" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
@@ -1235,7 +1225,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leve-os com você e vá embora." ownerID="90" targetID="91" fromX="31" fromY="-2204" />Someone you once lost to the night demons has returned to you, albeit, changed.</nodes>
+      <outputs name="Leve-os com você e vá embora." ownerID="90" targetID="91" fromX="31" fromY="-2204" />Alguém que você perdeu para os demônios da noite voltou para você, embora mudado.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="91" positionX="-426" positionY="-2595" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -1265,7 +1255,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá embora, mas prometa visitar..." ownerID="92" targetID="73" fromX="3426" fromY="-6596" />'Ah, it seems you were only able to become a lesser child of the night, still, we are bound now!'</nodes>
+      <outputs name="Vá embora, mas prometa visitar..." ownerID="92" targetID="73" fromX="3426" fromY="-6596" />'Ah, parece que você só conseguiu se tornar uma criança menor da noite, ainda assim, estamos presos agora!'</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="93" positionX="5020" positionY="-3639" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1280,7 +1270,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Louvado seja Horz." ownerID="93" targetID="54" fromX="5345" fromY="-4130" />&#39;Concordo, você merece se juntar às nossas fileiras, por Horz!&#39; Um dos desafiantes acorda com a próxima lua cheia como filho da noite!</nodes>
+      <outputs name="Louvado seja Horz." ownerID="93" targetID="54" fromX="5345" fromY="-4130" />'Concordo, você merece se juntar às nossas fileiras, por Horz!' Um dos desafiantes acorda com a próxima lua cheia como filho da noite!</nodes>
     <nodes xsi:type="NodeAdventure" ID="95" positionX="4472" positionY="-734" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1289,7 +1279,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Troca." ownerID="95" targetID="14" fromX="4797" fromY="-1225" />&#39;Concordou.&#39;</nodes>
+      <outputs name="Troca." ownerID="95" targetID="14" fromX="4797" fromY="-1225" /></nodes>
     <nodes xsi:type="NodeDealDamage" ID="96" positionX="-1703" positionY="-205" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -1317,7 +1307,7 @@
       <outputs name="Fique cauteloso, mas fale com eles." ownerID="2" targetID="11" fromX="729" fromY="-757" />
       <outputs name="Use prata, ou melhor metal, para intimidá-los a recuar!" ownerID="2" targetID="12" fromX="729" fromY="-837" />
       <outputs name="Lutar!" ownerID="2" targetID="15" fromX="729" fromY="-917" />
-      <outputs name="Afastar." ownerID="2" targetID="10" fromX="729" fromY="-998" />Beasts of the night are stalking you!</nodes>
+      <outputs name="Afastar." ownerID="2" targetID="10" fromX="729" fromY="-998" />Bestas da noite estão perseguindo você!</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="813" positionY="717" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -1327,7 +1317,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Pergunte se eles querem negociar." ownerID="3" targetID="4" fromX="1138" fromY="225" />
-      <outputs name="Sair." ownerID="3" targetID="26" fromX="1138" fromY="145" />'Apologies, friends. We did not recognise you. Greetings and well wishes.'</nodes>
+      <outputs name="Sair." ownerID="3" targetID="26" fromX="1138" fromY="145" />— Desculpe, amigos. Não te reconhecemos. Saudaçoes e votos de melhoras.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="1257" positionY="791" width="350" height="530" linkedEventUniqueID="31" />
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="-160" positionY="-772" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -1349,7 +1339,7 @@
       <outputs name="Sair." ownerID="11" targetID="10" fromX="1198" fromY="-675" />
       <outputs name="Use prata, ou melhor metal, para intimidá-los a recuar!" ownerID="11" targetID="12" fromX="1198" fromY="-755" />
       <outputs name="Lutar!" ownerID="11" targetID="15" fromX="1198" fromY="-835" />
-      <outputs name="Enfrente as feras da noite com espírito para ganhar seu respeito." ownerID="11" targetID="27" fromX="1198" fromY="-915" />They do not answer, they keep coming towards you.</nodes>
+      <outputs name="Enfrente as feras da noite com espírito para ganhar seu respeito." ownerID="11" targetID="27" fromX="1198" fromY="-915" />Eles não respondem, continuam vindo em sua direção.</nodes>
     <nodes xsi:type="NodeChallenge" ID="12" positionX="1416" positionY="-259" width="500" height="726" challengeType="TypeMental" versusEventOwner="true" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1392,7 +1382,7 @@
       <outputs ownerID="16" targetID="25" fromX="2415" fromY="-652" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2234" positionY="-1419" width="350" height="725">
-      <outputs name="Sair." ownerID="17" targetID="22" fromX="2559" fromY="-1910" />You defeat the night beasts.
+      <outputs name="Sair." ownerID="17" targetID="22" fromX="2559" fromY="-1910" />Você derrota as bestas da noite.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="3337.90649" positionY="-1385.14355" width="350" height="530" allPlayersXP="-1" linkedEventUniqueID="0">
       <logic>
@@ -1411,7 +1401,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Corre." ownerID="19" targetID="24" fromX="1905" fromY="-2333" />The night beats defeat you and feast on your blood and life essence before you manage to escape.</nodes>
+      <outputs name="Corre." ownerID="19" targetID="24" fromX="1905" fromY="-2333" />As batidas da noite o derrotam e deleitam-se com seu sangue e essência de vida antes que você consiga escapar.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="20" positionX="1018" positionY="-2116" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="50" maxDamage="70" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="20" targetID="19" fromX="1447" fromY="-2504" />
     </nodes>
@@ -1440,7 +1430,7 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="2511" positionY="-96" width="350" height="725">
-      <outputs name="Sair." ownerID="25" targetID="21" fromX="2836" fromY="-587" />The night demons cower before you and skulk back into the shadows.</nodes>
+      <outputs name="Sair." ownerID="25" targetID="21" fromX="2836" fromY="-587" />Os demônios da noite se encolhem diante de você e se escondem nas sombras.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="1876" positionY="356" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="27" positionX="285" positionY="-1305" width="500" height="726" challengeType="TypeSpirit" versusEventOwner="true" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="27" targetID="28" fromX="726" fromY="-1800" />
@@ -1448,7 +1438,7 @@
       <outputs name="Surrender" ownerID="27" targetID="20" fromX="726" fromY="-1960" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="1637" positionY="-1023" width="350" height="725">
-      <outputs name="Sair." ownerID="28" targetID="29" fromX="1962" fromY="-1514" />You defeat the night beasts and they are impressed with your understanding of the mystical ways. 
+      <outputs name="Sair." ownerID="28" targetID="29" fromX="1962" fromY="-1514" />Você derrota as bestas noturnas e elas ficam impressionadas com sua compreensão dos caminhos místicos. 
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="29" positionX="2086" positionY="-879" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="29" targetID="30" fromX="2534" fromY="-1311" />

@@ -17,7 +17,7 @@
     <nodes xsi:type="NodeAdventure" ID="2" positionX="467.225372" positionY="-54.73321" width="350" height="885">
       <outputs name="Investigar." ownerID="2" targetID="9" group="G1" fromX="792" fromY="-545" />
       <outputs name="Investigar." ownerID="2" targetID="3" group="G1" fromX="792" fromY="-626" />
-      <outputs name="Investigar." ownerID="2" targetID="8" group="G1" fromX="792" fromY="-706" />You find an old quarry, seemingly abandoned.</nodes>
+      <outputs name="Investigar." ownerID="2" targetID="8" group="G1" fromX="792" fromY="-706" />Você encontra uma antiga pedreira, aparentemente abandonada.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1119.10742" positionY="-320.504761" width="350" height="530" linkedEventUniqueID="6">
       <logic>
         <FilterBlock>
@@ -77,7 +77,7 @@
       </logic>
       <outputs name="Pesquise a área." ownerID="3" targetID="5" group="G1" fromX="861" fromY="-440" />
       <outputs name="Pesquise a área." ownerID="3" targetID="6" group="G1" fromX="861" fromY="-520" />
-      <outputs name="Sair." ownerID="3" targetID="4" fromX="861" fromY="-600" />You find an old quarry, seemingly abandoned. As you come closer, you see traces of the past - broken equipment, abandoned tools, and discarded ore.</nodes>
+      <outputs name="Sair." ownerID="3" targetID="4" fromX="861" fromY="-600" />Você encontra uma antiga pedreira, aparentemente abandonada. As you come closer, you see traces of the past - broken equipment, abandoned tools, and discarded ore.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="1022.04578" positionY="-1047.7019" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1028" positionY="675" width="350" height="885">
       <logic>
@@ -93,16 +93,14 @@
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1473" positionY="-476" width="350" height="805">
       <outputs name="Pegue a pedra." ownerID="6" targetID="11" group="G1" fromX="1798" fromY="-967" />
-      <outputs name="Pegue a pedra." ownerID="6" targetID="12" group="G1" fromX="1798" fromY="-1047" />You search the place and find nothing of interest. It still may be possible to gather some of the stone from this place.</nodes>
+      <outputs name="Pegue a pedra." ownerID="6" targetID="12" group="G1" fromX="1798" fromY="-1047" />Você procura o lugar e não encontra nada de interesse. Ainda pode ser possível recolher algumas das pedras deste local.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2689.99756" positionY="-1458.57837" width="350" height="725">
-      <outputs name="Tente se controlar e veja quem está rindo." ownerID="7" targetID="8" fromX="3015" fromY="-1949" />Você estava reunindo os recursos em paz quando percebeu que agora tem sua arma em mãos e se sente cada vez mais inclinado a matar alguém. E pior ainda, você sente um poderoso dreno em seu espírito, puxando você impiedosamente. Você ouve o riso zombeteiro berrando para você.mercilessly. 
-
-You hear mocking laughter bellowing at you.
+      <outputs name="Tente se controlar e veja quem está rindo." ownerID="7" targetID="8" fromX="3015" fromY="-1949" />Você estava reunindo os recursos em paz quando percebeu que agora tem sua arma em mãos e se sente cada vez mais inclinado a matar alguém. E pior ainda, você sente um poderoso dreno em seu espírito, puxando você impiedosamente. Você ouve o riso zombeteiro berrando para você.mercilessly.  You hear mocking laughter bellowing at you.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="3232" positionY="-916" width="350" height="885">
       <outputs name="Que homenagem significa?" ownerID="8" targetID="17" fromX="3557" fromY="-1407" />
       <outputs name="Ataque!" ownerID="8" targetID="15" fromX="3557" fromY="-1487" />
-      <outputs name="É uma criatura de nascimento místico, então lute com seu espírito!" ownerID="8" targetID="16" fromX="3557" fromY="-1567" />&#39;Ssso ssstrong, você veio prestar homenagem, não é?&#39; Um zmey, um dos parentes mais antigos do dragão, surge de dentro de uma caverna escura. </nodes>
+      <outputs name="É uma criatura de nascimento místico, então lute com seu espírito!" ownerID="8" targetID="16" fromX="3557" fromY="-1567" />'Ssso ssstrong, você veio prestar homenagem, não é?' Um zmey, um dos parentes mais antigos do dragão, surge de dentro de uma caverna escura. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="1484" positionY="754" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -129,11 +127,7 @@ You hear mocking laughter bellowing at you.
     <nodes xsi:type="NodeAdventure" ID="10" positionX="1980.35254" positionY="1023.03632" width="350" height="885" image="Event096">
       <outputs name="Ataque!" ownerID="10" targetID="15" fromX="2306" fromY="531" />
       <outputs name="É uma criatura de nascimento místico, então lute com seu espírito!" ownerID="10" targetID="16" fromX="2306" fromY="451" />
-      <outputs name="Que homenagem significa?" ownerID="10" targetID="17" fromX="2306" fromY="371" />You sneak in carefully and even find a few gemstones scattered around. But just as you think there is nothing more to find, you hear quiet laughter:
-
-'Ssso ssstrong, you've come to pay tribute, have you?'
-
-A zmey, one of the eldest dragon kin, slithers into view.</nodes>
+      <outputs name="Que homenagem significa?" ownerID="10" targetID="17" fromX="2306" fromY="371" />Você se esgueira com cuidado e até encontra algumas pedras preciosas espalhadas por aí. Mas assim que você pensa que não há mais nada para encontrar, você ouve uma risada baixa: 'Ssssssstrong, você veio prestar homenagem, não é?' Um zmey, um dos parentes mais antigos do dragão, surge à vista.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="2114.38916" positionY="-176.694473" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -165,11 +159,7 @@ A zmey, one of the eldest dragon kin, slithers into view.</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="2644.7085" positionY="-451.4554" width="350" height="885">
       <outputs name="Que homenagem significa?" ownerID="14" targetID="17" fromX="2970" fromY="-942" />
       <outputs name="Ataque!" ownerID="14" targetID="15" fromX="2970" fromY="-1022" />
-      <outputs name="É uma criatura de nascimento místico, então lute com seu espírito!" ownerID="14" targetID="16" fromX="2970" fromY="-1103" />You shield yourself from the curse for now, but you know it will not hold for long. You sense a sudden burst of dark, tumorous energy, then you hear laughter coming from a hidden cave:
-
-'Ssso ssstrong, you've come to pay tribute, have you?'
-
-A zmey, one of the eldest dragon kin, slithers into view.
+      <outputs name="É uma criatura de nascimento místico, então lute com seu espírito!" ownerID="14" targetID="16" fromX="2970" fromY="-1103" />Você se protege da maldição por enquanto, mas sabe que não vai durar muito. Você sente uma súbita explosão de energia escura e tumorosa, então você ouve uma risada vinda de uma caverna escondida: 'Ssssssstrong, você veio prestar homenagem, não é?' Um zmey, um dos parentes mais antigos do dragão, surge à vista.
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="2434.48047" positionY="1517.28821" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-ZMEY_ONE_8P_10M_9S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="15" targetID="37" fromX="2875" fromY="1021" />
@@ -201,11 +191,7 @@ A zmey, one of the eldest dragon kin, slithers into view.
       <outputs name="Ataque!" ownerID="17" targetID="15" fromX="2884" fromY="127" />
       <outputs name="É uma criatura de nascimento místico, então lute com seu espírito!" ownerID="17" targetID="16" fromX="2884" fromY="47" />
       <outputs name="Aceita." ownerID="17" targetID="30" fromX="2884" fromY="-32" />
-      <outputs name="Tente fugir!" ownerID="17" targetID="31" fromX="2884" fromY="-112" />'I am not asss greedy asss my drake kin. One life will sssuffice, and it doesss not need to be pure.' 
-
-You think it winked at you.
-
-'I will allow you to take away their weight in treasssure.'</nodes>
+      <outputs name="Tente fugir!" ownerID="17" targetID="31" fromX="2884" fromY="-112" />'Eu não sou ganancioso, meu parente draco. Uma vida será suficiente, e não precisa ser pura. Você acha que ele piscou para você. 'Eu vou permitir que você tire o peso deles em tesouros.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="5223.23438" positionY="591.872864" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -290,7 +276,7 @@ You think it winked at you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="29" targetID="21" fromX="4763" fromY="957" />The zmey shrieks in pain as you break its soul. You see a dark spirit escape, but the body lies dead before you.</nodes>
+      <outputs name="Sair." ownerID="29" targetID="21" fromX="4763" fromY="957" />O zmey grita de dor enquanto você quebra sua alma. Você vê um espírito sombrio escapar, mas o corpo jaz morto diante de você.</nodes>
     <nodes xsi:type="NodeTrade" ID="30" positionX="3295" positionY="91" width="460" height="639" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl2" startingBalance="-1">
       <logic>
         <FilterBlock>
@@ -334,7 +320,7 @@ You think it winked at you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="34" targetID="24" fromX="5830" fromY="-1354" />The zmey is fast and deadly, forcing you to drop some of your goods to squeeze through a tight spot where it cannot follow. You escape by the skin of your teeth, but not without scars. </nodes>
+      <outputs name="Sair." ownerID="34" targetID="24" fromX="5830" fromY="-1354" />O zmey é rápido e mortal, forçando você a deixar cair alguns de seus bens para se espremer em um local apertado onde ele não pode seguir. Você escapa pela pele de seus dentes, mas não sem cicatrizes. </nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="4829.868" positionY="396.526337" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -366,7 +352,7 @@ You think it winked at you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Corra antes que ele mude de ideia." ownerID="36" targetID="24" fromX="4168" fromY="199" />'Sssuch sssweet sssorrow in your sssoulsss... You amusssed me. Begone, be free.'
+      <outputs name="Corra antes que ele mude de ideia." ownerID="36" targetID="24" fromX="4168" fromY="199" />'Sstssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssr alguma mais... Podes mais fazer comigo. Vá embora, seja livre.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="3664.115" positionY="2042.793" width="350" height="725">
       <logic>
@@ -394,7 +380,7 @@ You think it winked at you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="37" targetID="21" fromX="3989" fromY="1551" />The zmey shrieks in pain as you strike it down. The body lies dead before you.</nodes>
+      <outputs name="Sair." ownerID="37" targetID="21" fromX="3989" fromY="1551" />O zmey grita de dor quando você o derruba. O corpo jaz morto diante de você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="38" positionX="3040.5083" positionY="1590.96216" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -417,7 +403,7 @@ You think it winked at you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="38" targetID="28" fromX="3366" fromY="1099" />The zmey is fast and deadly, forcing you to drop some of your goods to squeeze through a tight spot where it cannot follow. You escape by the skin of your teeth, but not without scars. </nodes>
+      <outputs name="Sair." ownerID="38" targetID="28" fromX="3366" fromY="1099" />O zmey é rápido e mortal, forçando você a deixar cair alguns de seus bens para se espremer em um local apertado onde ele não pode seguir. Você escapa pela pele de seus dentes, mas não sem cicatrizes. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="39" positionX="1493.93" positionY="95.02179" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -455,13 +441,13 @@ You think it winked at you.
       </logic>
       <outputs name="Aproxime-se para cumprimentar os companheiros de viagem." ownerID="2" targetID="4" fromX="870" fromY="-420" />
       <outputs name="[Caçador ou Percepção] Observe a fogueira." ownerID="2" targetID="5" fromX="870" fromY="-500" />
-      <outputs name="Sair." ownerID="2" targetID="3" fromX="870" fromY="-580" />You find an old quarry. Although the place seemed abandoned at first, you see a campfire hidden away among the rocks.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="3" fromX="870" fromY="-580" />Você encontra uma antiga pedreira. Embora o local parecesse abandonado no início, você vê uma fogueira escondida entre as rochas.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="529" positionY="-839" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1060.01953" positionY="723.3911" width="350" height="966" image="Event119">
       <outputs name="Para armas!" ownerID="4" targetID="10" fromX="1385" fromY="232" />
       <outputs name="Fique firme, flexione seus músculos e diga a eles para recuarem agora! [Intimidar]" ownerID="4" targetID="11" fromX="1385" fromY="152" />
       <outputs name="Tente fugir." ownerID="4" targetID="12" fromX="1385" fromY="71" />
-      <outputs name="Solte algumas de suas malas para facilitar a fuga." ownerID="4" targetID="13" fromX="1385" fromY="-8" />You discover the campsite was set up by nomads, but they were attacked by bandits who are now scavenging the bodies, and they have spotted you!</nodes>
+      <outputs name="Solte algumas de suas malas para facilitar a fuga." ownerID="4" targetID="13" fromX="1385" fromY="-8" />Você descobre que o acampamento foi montado por nômades, mas eles foram atacados por bandidos que agora estão vasculhando os corpos, e eles avistaram você!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1154.81433" positionY="-423.568817" width="350" height="966" image="Event190">
       <logic>
         <FilterBlock>
@@ -482,7 +468,7 @@ You think it winked at you.
       <outputs name="Ataque os bandidos!" ownerID="5" targetID="6" fromX="1480" fromY="-914" />
       <outputs name="Use sua inteligência ou experiência para descobrir uma armadilha para os bandidos." ownerID="5" targetID="7" fromX="1480" fromY="-994" />
       <outputs name="[Bloodtracker] Cheire-os e mate silenciosamente o máximo que puder." ownerID="5" targetID="8" group="G1" fromX="1480" fromY="-1075" />
-      <outputs name="[Bloodtracker] Cheire-os e mate silenciosamente o máximo que puder." ownerID="5" targetID="9" group="G1" fromX="1480" fromY="-1155" />You discover the campsite was set up by nomads, but they were attacked by bandits who are now scavenging the bodies.</nodes>
+      <outputs name="[Bloodtracker] Cheire-os e mate silenciosamente o máximo que puder." ownerID="5" targetID="9" group="G1" fromX="1480" fromY="-1155" />Você descobre que o acampamento foi montado por nômades, mas eles foram atacados por bandidos que agora estão vasculhando os corpos.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="2234" positionY="-717" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-BANDITS_5P_4M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="17" fromX="2675" fromY="-1212" />
       <outputs name="Lose" ownerID="6" targetID="37" fromX="2675" fromY="-1292" />
@@ -669,7 +655,7 @@ You think it winked at you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="29" targetID="30" fromX="3598" fromY="-505" />You barely get away after dropping some bags to escape.</nodes>
+      <outputs name="Sair." ownerID="29" targetID="30" fromX="3598" fromY="-505" />Você mal consegue escapar depois de deixar cair algumas malas para escapar.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="30" positionX="3836" positionY="274" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="34" positionX="3326.85083" positionY="1501.88672" width="350" height="725">
       <logic>
@@ -688,7 +674,7 @@ You think it winked at you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que sobrou e vá embora." ownerID="34" targetID="20" fromX="3652" fromY="1010" />&#39;Eh, tudo bem, tudo bem, não vale a pena o nosso problema. Estamos de partida. Você pode até mesmo vasculhar tudo o que deixamos aqui. Eles cuidadosamente se afastam de você. </nodes>
+      <outputs name="Junte o que sobrou e vá embora." ownerID="34" targetID="20" fromX="3652" fromY="1010" />'Eh, tudo bem, tudo bem, não vale a pena o nosso problema. Estamos de partida. Você pode até mesmo vasculhar tudo o que deixamos aqui. Eles cuidadosamente se afastam de você. </nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="2178.46948" positionY="899.709839" width="350" height="805">
       <outputs name="Lutar!" ownerID="35" targetID="10" fromX="2504" fromY="408" />
       <outputs name="Solte algumas de suas malas para facilitar a fuga." ownerID="35" targetID="13" fromX="2504" fromY="328" />— Que porra você está fazendo? Eles cobram!</nodes>
@@ -709,7 +695,7 @@ You think it winked at you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Fugir." ownerID="37" targetID="23" fromX="3362" fromY="-1581" />The bandits prove themselves stronger. They beat you badly, and you are forced to drop some of your goods to escape.
+      <outputs name="Fugir." ownerID="37" targetID="23" fromX="3362" fromY="-1581" />Os bandidos se mostram mais fortes. Eles batem muito em você e você é forçado a deixar cair alguns de seus bens para escapar.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="38" positionX="2942.057" positionY="-1907.4248" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="20" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="38" targetID="37" fromX="3371" fromY="-2295" />
@@ -769,7 +755,7 @@ You think it winked at you.
       </logic>
       <outputs name="[Caçador ou Percepção]Procure a área com cuidado." ownerID="2" targetID="3" fromX="754" fromY="-556" />
       <outputs name="Procure na pedreira." ownerID="2" targetID="5" fromX="754" fromY="-636" />
-      <outputs name="Sair." ownerID="2" targetID="4" fromX="754" fromY="-716" />You find an old quarry, seemingly abandoned. Most of this quarry has collapsed into a deep ravine, but there still may be some usable resources here.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="4" fromX="754" fromY="-716" />Você encontra uma antiga pedreira, aparentemente abandonada. Most of this quarry has collapsed into a deep ravine, but there still may be some usable resources here.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="848.1224" positionY="754.823364" width="350" height="966" image="Event096">
       <logic>
         <FilterBlock>
@@ -792,12 +778,8 @@ You think it winked at you.
     <nodes xsi:type="NodeAdventure" ID="5" positionX="910.544" positionY="-499.2058" width="350" height="885" image="Event096">
       <outputs name="Para armas!" ownerID="5" targetID="6" fromX="1236" fromY="-990" />
       <outputs name="Corra por suas vidas!" ownerID="5" targetID="13" fromX="1236" fromY="-1070" />
-      <outputs name="Permaneça calmo e composto e tente falar com ele." ownerID="5" targetID="40" fromX="1236" fromY="-1150" />You carefully climb down and search the old quarry. You find little of use but see signs of ore being transported to one spot. 
-
-When you get close, you see a pile of stone, some of it precious, but then you hear a rough, bellowing voice:
-'Who wakes me?'
-
-A red dragon is staring at you.
+      <outputs name="Permaneça calmo e composto e tente falar com ele." ownerID="5" targetID="40" fromX="1236" fromY="-1150" />You carefully climb down and search the old quarry. You find little of use but see signs of ore being transported to one spot.  When you get close, you see a pile of stone, some of it precious, but then you hear a rough, bellowing voice:
+'Who wakes me?' A red dragon is staring at you.
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="1528.60352" positionY="1124.74231" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-DRAGON_ONE_10P_8M_8S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="31" fromX="1969" fromY="629" />
@@ -848,10 +830,10 @@ A red dragon is staring at you.
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Aceno com a cabeça." ownerID="9" targetID="10" fromX="1930" fromY="-708" />Você se aproxima do dragão e vê seus olhos seguindo você com interesse. Você se curva e fala. Escuta, depois responde, devagar: &#39;Muito bem, um jogo de charadas vai me divertir tanto. Se sua mente for tão afiada quanto minhas escamas, você pode receber uma bênção.&#39;</nodes>
+      <outputs name="Aceno com a cabeça." ownerID="9" targetID="10" fromX="1930" fromY="-708" />Você se aproxima do dragão e vê seus olhos seguindo você com interesse. Você se curva e fala. Escuta, depois responde, devagar: 'Muito bem, um jogo de charadas vai me divertir tanto. Se sua mente for tão afiada quanto minhas escamas, você pode receber uma bênção.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2080.40259" positionY="-215.74585" width="350" height="805">
       <outputs name="Concorde e prometa permanecer fiel." ownerID="10" targetID="11" fromX="2406" fromY="-706" />
-      <outputs name="Na verdade, recuse educadamente e afaste-se." ownerID="10" targetID="4" fromX="2406" fromY="-787" />'None of that "what's in my pants" silliness, mind you. Fool me once and all that. A serious game of riddles, nothing less will do.'</nodes>
+      <outputs name="Na verdade, recuse educadamente e afaste-se." ownerID="10" targetID="4" fromX="2406" fromY="-787" />'Nada daquela tolice de 'o que está nas minhas calças', veja bem. Engane-me uma vez e tudo isso. Um jogo sério de enigmas, nada menos serve.</nodes>
     <nodes xsi:type="NodeChallenge" ID="11" positionX="2551" positionY="-402" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_7M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="11" targetID="28" fromX="2992" fromY="-897" />
       <outputs name="Lose" ownerID="11" targetID="42" fromX="2992" fromY="-977" />
@@ -875,7 +857,7 @@ A red dragon is staring at you.
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="3215.52441" positionY="-1989.37085" width="350" height="725">
-      <outputs name="Sair." ownerID="16" targetID="18" fromX="3541" fromY="-2480" />You barely escape as the dragon lazily breathes fire after you. You get the impression that it didn't give this chase its all.</nodes>
+      <outputs name="Sair." ownerID="16" targetID="18" fromX="3541" fromY="-2480" />Você mal escapa enquanto o dragão cospe fogo preguiçosamente atrás de você. Você tem a impressão de que ele não deu tudo a essa perseguição.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="2509" positionY="-2228" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="30" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="17" targetID="16" fromX="2938" fromY="-2616" />
     </nodes>
@@ -981,7 +963,7 @@ A red dragon is staring at you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Reúna o que puder e saia antes que ele voe de volta." ownerID="27" targetID="43" fromX="4158" fromY="616" />Your will has proven stronger than the dragon's, and it breaks before you. Distraught at the defeat, the creature flies away, leaving its lair free to loot. 
+      <outputs name="Reúna o que puder e saia antes que ele voe de volta." ownerID="27" targetID="43" fromX="4158" fromY="616" />Sua vontade provou ser mais forte que a do dragão, e se quebra diante de você. Atormentada com a derrota, a criatura voa para longe, deixando seu covil livre para saquear. 
  </nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="3231.464" positionY="-141.274338" width="350" height="725">
       <logic>
@@ -1012,13 +994,7 @@ A red dragon is staring at you.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pegue a recompensa e vá embora." ownerID="28" targetID="35" fromX="3557" fromY="-632" />'Ahh, how wonderful, you did outsmart me!'
-
-It flaps its reptile wings so hard in joy that you are thrown against the rock wall.
-
-'Oh, uh. Apologies. Here is your reward, as promised, although the honour of besting a drake is your true achievement.'
-
-The dragon falls back asleep.</nodes>
+      <outputs name="Pegue a recompensa e vá embora." ownerID="28" targetID="35" fromX="3557" fromY="-632" />'Ahh, que maravilha, você me enganou!' Ele bate suas asas de réptil com tanta força de alegria que você é jogado contra a parede de pedra. — Ah. Desculpas. Aqui está sua recompensa, como prometido, embora a honra de derrotar um dragão seja sua verdadeira conquista. O dragão volta a dormir.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="30" positionX="4797.918" positionY="1004.34503" width="350" height="530" allPlayersXP="9" allPlayersRP="3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="31" positionX="2108.81519" positionY="1603.777" width="350" height="725">
       <logic>
@@ -1043,7 +1019,7 @@ The dragon falls back asleep.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="31" targetID="33" fromX="2434" fromY="1112" />The dragon is dead and its treasures yours. 
+      <outputs name="Sair." ownerID="31" targetID="33" fromX="2434" fromY="1112" />O dragão está morto e seus tesouros são seus. 
  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="33" positionX="2582" positionY="1452" width="350" height="530" allPlayersXP="9" allPlayersRP="3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="35" positionX="3683" positionY="-232" width="350" height="530" allPlayersXP="8" allPlayersRP="3" linkedEventUniqueID="0" />
@@ -1073,7 +1049,7 @@ The dragon falls back asleep.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Aceno com a cabeça." ownerID="40" targetID="10" fromX="1658" fromY="-1772" />Você se aproxima do dragão e vê seus olhos seguindo você com interesse. Você se curva e fala. Escuta, depois responde, devagar: &#39;Muito bem, um jogo de charadas vai me divertir tanto. Se sua mente for tão afiada quanto minhas escamas, você pode receber uma bênção.&#39;</nodes>
+      <outputs name="Aceno com a cabeça." ownerID="40" targetID="10" fromX="1658" fromY="-1772" />Você se aproxima do dragão e vê seus olhos seguindo você com interesse. Você se curva e fala. Escuta, depois responde, devagar: 'Muito bem, um jogo de charadas vai me divertir tanto. Se sua mente for tão afiada quanto minhas escamas, você pode receber uma bênção.'</nodes>
     <nodes xsi:type="NodeTrade" ID="41" positionX="3855" positionY="-1509" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-1">
       <outputs name="confirme" ownerID="41" targetID="24" fromX="4285" fromY="-1837" />
       <outputs name="Cancelar" ownerID="41" targetID="22" fromX="4285" fromY="-1917" />
@@ -1113,7 +1089,7 @@ The dragon falls back asleep.</nodes>
       <outputs name="[Percepção] Explorar o lugar primeiro." ownerID="2" targetID="36" group="G1" fromX="709" fromY="-429" />
       <outputs name="Pesquise o local." ownerID="2" targetID="4" group="G1" fromX="709" fromY="-509" />
       <outputs name="Pesquise o local." ownerID="2" targetID="5" group="G1" fromX="709" fromY="-589" />
-      <outputs name="Sair." ownerID="2" targetID="3" fromX="709" fromY="-669" />You find an old quarry, seemingly abandoned. Most of this quarry has collapsed into a deep ravine, but there still may be some usable resources here.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="3" fromX="709" fromY="-669" />Você encontra uma antiga pedreira, aparentemente abandonada. Most of this quarry has collapsed into a deep ravine, but there still may be some usable resources here.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-81" positionY="-790" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1478.47607" positionY="1198.66418" width="350" height="885">
       <logic>
@@ -1125,7 +1101,7 @@ The dragon falls back asleep.</nodes>
       </logic>
       <outputs name="[Scavenger] Fale com seus parentes. Diga a eles que seu lote é maior e mais difícil, então é melhor eles compartilharem." ownerID="4" targetID="41" fromX="1804" fromY="707" />
       <outputs name="Ataque!" ownerID="4" targetID="22" fromX="1804" fromY="627" />
-      <outputs name="Fugir." ownerID="4" targetID="3" fromX="1804" fromY="547" />You search through the rubble, but instead of resources, you come across a band of scavengers who don't look happy to share this site.</nodes>
+      <outputs name="Fugir." ownerID="4" targetID="3" fromX="1804" fromY="547" />Você procura nos escombros, mas em vez de recursos, você encontra um bando de catadores que não parecem felizes em compartilhar este site.</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1485.41907" positionY="-611.82605" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -1139,7 +1115,7 @@ The dragon falls back asleep.</nodes>
       <outputs name="Use ferramentas para cavar." ownerID="5" targetID="7" fromX="1811" fromY="-1263" />
       <outputs name="Você." ownerID="5" targetID="6" fromX="1811" fromY="-1343" />
       <outputs name="Sair." ownerID="5" targetID="3" fromX="1811" fromY="-1423" />
-      <outputs name="[Anão]Use seu conhecimento anão para tornar esta escavação mais fácil." ownerID="5" targetID="40" group="G1" fromX="1811" fromY="-1503" />You search through the rubble of this old quarry and spot traces of gold ore, but you suspect you'd have to dig deep to find anything substantial. </nodes>
+      <outputs name="[Anão]Use seu conhecimento anão para tornar esta escavação mais fácil." ownerID="5" targetID="40" group="G1" fromX="1811" fromY="-1503" />Você vasculha os escombros desta antiga pedreira e encontra vestígios de minério de ouro, mas suspeita que teria que cavar fundo para encontrar algo substancial. </nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="2634.89771" positionY="-513.4236" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="16" fromX="3076" fromY="-1008" />
       <outputs name="Lose" ownerID="6" targetID="11" fromX="3076" fromY="-1089" />
@@ -1197,7 +1173,7 @@ The dragon falls back asleep.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="16" targetID="17" fromX="3722" fromY="-1004" />You uncover a good stash of gold and several skeletons of miners who likely died with it.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="16" targetID="17" fromX="3722" fromY="-1004" />Você descobre um bom estoque de ouro e vários esqueletos de mineiros que provavelmente morreram com ele.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="17" positionX="3809" positionY="-663" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="21" positionX="2099.19971" positionY="1114.32776" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_2M_0S" challengeScale="101" challengedList="ppl">
       <logic>
@@ -1237,7 +1213,7 @@ The dragon falls back asleep.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="25" targetID="42" fromX="4150" fromY="-141" />With the scavengers gone, you dig through the rubble, but apart from some basic stone, you find the quarry depleted.</nodes>
+      <outputs name="Sair." ownerID="25" targetID="42" fromX="4150" fromY="-141" />Com os necrófagos desaparecidos, você vasculha os escombros, mas, além de algumas pedras básicas, encontra a pedreira esgotada.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="5147.0957" positionY="404.6511" width="350" height="530" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="3096.49121" positionY="14.3428917" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="29" positionX="3777.9563" positionY="1899.1123" width="350" height="725">
@@ -1256,13 +1232,13 @@ The dragon falls back asleep.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pegue a criança e vá embora." ownerID="29" targetID="42" fromX="4103" fromY="1407" />Apart from some stone, you find an abandoned child, locked in a cage and abused. It is grateful for your help and wants to go with you.</nodes>
+      <outputs name="Pegue a criança e vá embora." ownerID="29" targetID="42" fromX="4103" fromY="1407" />Além de alguma pedra, você encontra uma criança abandonada, trancada em uma gaiola e abusada. Ele agradece sua ajuda e quer ir com você.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="30" positionX="3168.60449" positionY="1606.25378" width="460" height="509" sourceGroup="GROUP-SCAVENGER_2P_2M_2S" cargoPercentage="100">
       <outputs ownerID="30" targetID="29" group="G2" fromX="3598" fromY="1247" />
       <outputs ownerID="30" targetID="25" group="G2" fromX="3598" fromY="1167" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="3356.202" positionY="1011.07452" width="350" height="725">
-      <outputs name="Sair." ownerID="31" targetID="46" fromX="3681" fromY="519" />Você tenta usar a superstição dos catadores e um conjunto de cavernas e túneis para induzi-los a pensar que esta pedreira é assombrada. Funciona, mas em vez de fugir, os catadores decidem desmoronar as cavernas e matar os &#39;fantasmas&#39;. Você mal consegue sair vivo.</nodes>
+      <outputs name="Sair." ownerID="31" targetID="46" fromX="3681" fromY="519" />Você tenta usar a superstição dos catadores e um conjunto de cavernas e túneis para induzi-los a pensar que esta pedreira é assombrada. Funciona, mas em vez de fugir, os catadores decidem desmoronar as cavernas e matar os 'fantasmas'. Você mal consegue sair vivo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="822" positionY="1099" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -1286,7 +1262,7 @@ The dragon falls back asleep.</nodes>
       <outputs name="[Scavenger] Fale com seus parentes. Diga a eles que seu lote é maior e mais difícil, então é melhor eles compartilharem." ownerID="36" targetID="41" fromX="1147" fromY="608" />
       <outputs name="Tente enganar esses catadores antes que eles vejam você." ownerID="36" targetID="21" fromX="1147" fromY="528" />
       <outputs name="Ataque!" ownerID="36" targetID="22" fromX="1147" fromY="448" />
-      <outputs name="Fugir." ownerID="36" targetID="3" fromX="1147" fromY="368" />You search through the rubble but instead of resources, you come across a band of scavengers. They haven't spotted you yet.</nodes>
+      <outputs name="Fugir." ownerID="36" targetID="3" fromX="1147" fromY="368" />Você vasculha os escombros, mas em vez de recursos, encontra um bando de catadores. Eles ainda não te viram.</nodes>
     <nodes xsi:type="NodeAdventure" ID="38" positionX="2703.64917" positionY="1606.73755" width="350" height="725">
       <outputs name="Reúna o que puder." ownerID="38" targetID="30" fromX="3029" fromY="1115" />Essas antigas pedreiras têm muitas cavernas e tocas, e os catadores são muito supersticiosos. Você os provoca com sons suspeitos e pedras caindo até que eles decidam que este lugar é assombrado e o abandonam, deixando para trás algumas de suas coisas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="39" positionX="1998" positionY="-872" width="350" height="725">
@@ -1323,7 +1299,7 @@ The dragon falls back asleep.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="39" targetID="17" fromX="2323" fromY="-1363" />You uncover a good stash of gold and several skeletons of miners who likely died with it.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="39" targetID="17" fromX="2323" fromY="-1363" />Você descobre um bom estoque de ouro e vários esqueletos de mineiros que provavelmente morreram com ele.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="40" positionX="1886.47729" positionY="-1903.96631" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <logic>
         <FilterBlock>
@@ -1357,12 +1333,12 @@ The dragon falls back asleep.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte as coisas deles." ownerID="43" targetID="30" fromX="2185" fromY="2080" />Os necrófagos parecem assustados e se afastam: &#39;Ya, ya, pegue sua parte, pegue, pegue e vá.&#39;</nodes>
+      <outputs name="Junte as coisas deles." ownerID="43" targetID="30" fromX="2185" fromY="2080" />Os necrófagos parecem assustados e se afastam: 'Ya, ya, pegue sua parte, pegue, pegue e vá.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="44" positionX="1408.56421" positionY="1811.60291" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="44" targetID="45" fromX="1837" fromY="1423" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="2076.826" positionY="1818.394" width="350" height="725">
-      <outputs name="Run.&#xD;" ownerID="45" targetID="46" fromX="2402" fromY="1327" />There are so many of them, and they look well equipped and aggressive. You think it is best to leave, now.</nodes>
+      <outputs name="Run.&#xD;" ownerID="45" targetID="46" fromX="2402" fromY="1327" />Há tantos deles, e eles parecem bem equipados e agressivos. Você acha que é melhor ir embora agora.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="46" positionX="2517.07959" positionY="147.048187" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="46" targetID="27" fromX="2965" fromY="-285" />
     </nodes>
@@ -1409,7 +1385,7 @@ The dragon falls back asleep.</nodes>
       </logic>
       <outputs name="[Hunter or Perception]Procure na pedreira." ownerID="2" targetID="31" group="G1" fromX="745" fromY="-608" />
       <outputs name="Procure na pedreira." ownerID="2" targetID="4" group="G1" fromX="745" fromY="-688" />
-      <outputs name="Sair." ownerID="2" targetID="3" fromX="745" fromY="-768" />You find an old quarry, seemingly abandoned. Most of this quarry has collapsed into a deep ravine, but there still may be some usable resources here.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="3" fromX="745" fromY="-768" />Você encontra uma antiga pedreira, aparentemente abandonada. Most of this quarry has collapsed into a deep ravine, but there still may be some usable resources here.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-12" positionY="-835" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1294.14221" positionY="321.721741" width="350" height="885">
       <logic>
@@ -1421,11 +1397,7 @@ The dragon falls back asleep.</nodes>
       </logic>
       <outputs name="Fugir!" ownerID="4" targetID="5" group="G1" fromX="1619" fromY="-169" />
       <outputs name="Fugir!" ownerID="4" targetID="7" group="G1" fromX="1619" fromY="-249" />
-      <outputs name="Ataque!" ownerID="4" targetID="9" fromX="1619" fromY="-329" />There seems to be a lot of good stone stacked in several big mounds -- perhaps abandoned here, or maybe the Shattering piled it here.
-
-You start loading the stone when you realise the mounds have moved. They are watching you, and you hear:
-
-'Do they look tasty to you? Bony, no?'</nodes>
+      <outputs name="Ataque!" ownerID="4" targetID="9" fromX="1619" fromY="-329" />Parece haver muitas pedras boas empilhadas em vários montes grandes - talvez abandonadas aqui, ou talvez a Destruição as empilhou aqui. Você começa a carregar a pedra quando percebe que os montes se moveram. Eles estão te observando e você ouve: 'Eles parecem saborosos para você? Bony, não?</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1833.91309" positionY="995.542053" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1445,13 +1417,13 @@ You start loading the stone when you realise the mounds have moved. They are wat
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="5" targetID="6" fromX="2159" fromY="504" />You are fast on your feet and have good wits about you, so you manage to jump away and run to safety before the rock trolls finish what they have to say.</nodes>
+      <outputs name="Sair." ownerID="5" targetID="6" fromX="2159" fromY="504" />Você é rápido em seus pés e tem bom senso sobre você, então você consegue pular para longe e correr para a segurança antes que os trolls terminem o que eles têm a dizer.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2405" positionY="1086" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="1865" positionY="204" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="15" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="7" targetID="8" fromX="2294" fromY="-184" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2460.62476" positionY="482.424927" width="350" height="725">
-      <outputs name="Sair." ownerID="8" targetID="6" fromX="2786" fromY="-8" />You jump to your feet and run for your life. One of the trolls gets in a hit before you escape, but they are not fast enough to pursue.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="6" fromX="2786" fromY="-8" />Você pula de pé e corre por sua vida. Um dos trolls é atingido antes de você escapar, mas eles não são rápidos o suficiente para persegui-los.</nodes>
     <nodes xsi:type="NodeChallenge" ID="9" positionX="2768.89282" positionY="-297.2513" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-TROLL_ROCK_MIX_9P_7M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="9" targetID="18" fromX="3210" fromY="-792" />
       <outputs name="Lose" ownerID="9" targetID="24" fromX="3210" fromY="-872" />
@@ -1483,7 +1455,7 @@ You start loading the stone when you realise the mounds have moved. They are wat
       <outputs name="É a lei da natureza que o mais forte prevaleça. Lute contra eles!" ownerID="11" targetID="12" fromX="1795" fromY="-1515" />
       <outputs name="Concorde em dar-lhes um de vocês para comer." ownerID="11" targetID="33" fromX="1795" fromY="-1595" />
       <outputs name="Concorde em dar-lhes comida em troca de uma pedrinha." ownerID="11" targetID="16" fromX="1795" fromY="-1675" />
-      <outputs name="Exija que eles o deixem em paz ou eles vão enfurecer os deuses da natureza." ownerID="11" targetID="17" fromX="1795" fromY="-1755" />'A nature god, you say? Hmmm. Yeah, you smell of trees and stuff, earth too, I suppose. Say, if you're so friendly, give us food, and we won't eat you.'</nodes>
+      <outputs name="Exija que eles o deixem em paz ou eles vão enfurecer os deuses da natureza." ownerID="11" targetID="17" fromX="1795" fromY="-1755" />— Um deus da natureza, você diz? Hmmm. Sim, você cheira a árvores e outras coisas, terra também, suponho. Diga, se você é tão amigável, dê-nos comida, e nós não vamos comer você.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="12" positionX="2357.57568" positionY="-1298.87878" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-TROLL_ROCK_MIX_9P_7M_6S" challengeScale="101" challengedList="ppl">
       <logic>
         <ModifierBlock>
@@ -1555,7 +1527,7 @@ You start loading the stone when you realise the mounds have moved. They are wat
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="18" targetID="19" fromX="4311" fromY="-1142" />You defeat the trolls, and the quarry stands open before you.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="18" targetID="19" fromX="4311" fromY="-1142" />Você derrota os trolls, e a pedreira fica aberta diante de você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="19" positionX="4476.238" positionY="-811.4142" width="350" height="530" allPlayersXP="8" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="3388" positionY="-953" width="460" height="429" sourceGroup="GROUP-TROLL_ROCK_MIX_9P_7M_6S" dropPercentage="100" targetGroup="ppl">
       <outputs ownerID="21" targetID="36" fromX="3818" fromY="-1311" />
@@ -1563,7 +1535,7 @@ You start loading the stone when you realise the mounds have moved. They are wat
     <nodes xsi:type="NodeAdventure" ID="22" positionX="2980" positionY="-1069" width="350" height="885">
       <outputs name="Lutar!" ownerID="22" targetID="9" fromX="3306" fromY="-1559" />
       <outputs name="Fugir!" ownerID="22" targetID="5" group="G1" fromX="3306" fromY="-1639" />
-      <outputs name="Fugir!" ownerID="22" targetID="7" group="G1" fromX="3306" fromY="-1719" />Your plan failed, and the trolls look hungry.</nodes>
+      <outputs name="Fugir!" ownerID="22" targetID="7" group="G1" fromX="3306" fromY="-1719" />Seu plano falhou e os trolls parecem famintos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="3521.21387" positionY="-1843.3584" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1575,7 +1547,7 @@ You start loading the stone when you realise the mounds have moved. They are wat
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Run.&#xD;&#xA;" ownerID="24" targetID="25" fromX="3846" fromY="-2334" />The trolls beat you and manage to grab one of you, eating that person alive in front of your very eyes as the rest of you run for your lives.</nodes>
+      <outputs name="Run.&#xD;&#xA;" ownerID="24" targetID="25" fromX="3846" fromY="-2334" />Os trolls batem em você e conseguem pegar um de vocês, comendo essa pessoa viva na frente de seus olhos enquanto o resto de vocês corre para salvar suas vidas.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="3943.344" positionY="-2018.79944" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="26" positionX="2654.1814" positionY="-2455.60474" width="350" height="681">
       <logic>
@@ -1588,12 +1560,12 @@ You start loading the stone when you realise the mounds have moved. They are wat
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sorria educadamente e pegue a pedra." ownerID="26" targetID="27" fromX="2979" fromY="-2902" />'Eh, I am still not sure about those gods of yours, but best be safe than sorry. Take what stone you find -- just not my balls, eh, ha!'</nodes>
+      <outputs name="Sorria educadamente e pegue a pedra." ownerID="26" targetID="27" fromX="2979" fromY="-2902" />'Eh, eu ainda não tenho certeza sobre esses seus deuses, mas é melhor prevenir do que remediar. Pegue a pedra que você encontrar - mas não minhas bolas, eh, ha!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="3106.49854" positionY="-2694.258" width="350" height="360.8" allPlayersXP="5" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="28" positionX="2087.287" positionY="-2575.17773" width="350" height="841.85">
       <outputs name="Lutar!" ownerID="28" targetID="9" fromX="2413" fromY="-3022" />
       <outputs name="Fugir!" ownerID="28" targetID="5" group="G1" fromX="2413" fromY="-3102" />
-      <outputs name="Fugir!" ownerID="28" targetID="7" group="G1" fromX="2413" fromY="-3182" />'You bore me with your talk. You look tasty!'</nodes>
+      <outputs name="Fugir!" ownerID="28" targetID="7" group="G1" fromX="2413" fromY="-3182" />— Você me aborrece com sua conversa. Você parece gostoso!</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="853" positionY="454" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -1663,11 +1635,7 @@ You start loading the stone when you realise the mounds have moved. They are wat
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Reúna o que você tem e vá embora." ownerID="35" targetID="14" fromX="609" fromY="-2104" />'Hmm, I did not see that coming. Nope. You live this long, and you still get surprised. Great. Here, have some stone, seems only fair.'
-
-Your fellow is taken and torn into three pieces to be devoured. Their bemused face looks at you, dead, as their head rolls down to the ground.
-
-'All that hair and teeth and gooey eyes, don't like that, you can take it back.'</nodes>
+      <outputs name="Reúna o que você tem e vá embora." ownerID="35" targetID="14" fromX="609" fromY="-2104" />'Hmm, eu não esperava que isso acontecesse. Não. Você vive tanto tempo e ainda se surpreende. Excelente. Aqui, pegue alguma pedra, parece justo.' Seu companheiro é levado e despedaçado em três pedaços para ser devorado. Seu rosto confuso olha para você, morto, enquanto sua cabeça rola para o chão. 'Todo aquele cabelo e dentes e olhos pegajosos, não gosta disso, você pode pegar de volta.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="4059" positionY="-1433" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1679,7 +1647,7 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="36" targetID="19" fromX="4384" fromY="-1924" />You notice that the trolls are still very sleepy. You distract them and run circles around them while others take what stone they can find. </nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="36" targetID="19" fromX="4384" fromY="-1924" />Você percebe que os trolls ainda estão com muito sono. Você os distrai e corre em círculos ao redor deles enquanto outros pegam qualquer pedra que possam encontrar. </nodes>
   </Adventure>
   <Adventure name="Rockers" uniqueID="7" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="true" typeVillage="false" difficulty="4" nodeIdMax="31" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event039">
@@ -1707,14 +1675,14 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
         </FilterBlock>
       </logic>
       <outputs name="Pesquise o local." ownerID="2" targetID="4" fromX="871" fromY="-589" />
-      <outputs name="Sair." ownerID="2" targetID="7" fromX="871" fromY="-669" />You stand atop a small cliff, and below you see the remains of a quarry. It looks as if it's been mostly depleted, but you know these places can still hold good resources.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="7" fromX="871" fromY="-669" />Você está no topo de um pequeno penhasco e, abaixo, vê os restos de uma pedreira. Parece que está quase esgotado, mas você sabe que esses lugares ainda podem conter bons recursos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1007.89587" positionY="342.38446" width="350" height="1126">
       <outputs name="Better not wait till they grow into trolls. Ataque!" ownerID="4" targetID="6" fromX="1333" fromY="-148" />
       <outputs name="[Anão] Esses pequeninos bebês de pedra merecem ser deixados em paz. Na verdade, deixe um pouco de comida para eles e afaste a pedra dos filhotes rapidamente antes que a mãe do rock retorne." ownerID="4" targetID="30" fromX="1333" fromY="-228" />
       <outputs name="[Percepção] Dê uma olhada mais de perto antes de fazer qualquer coisa." ownerID="4" targetID="8" fromX="1333" fromY="-309" />
       <outputs name="Aproxime-se deles." ownerID="4" targetID="9" group="G2" fromX="1333" fromY="-389" />
       <outputs name="Aproxime-se deles." ownerID="4" targetID="10" group="G2" fromX="1333" fromY="-469" />
-      <outputs name="Sair." ownerID="4" targetID="7" fromX="1333" fromY="-549" />As soon as you climb down, you see the stones below move in unnatural ways. You quickly realise they must be rockers -- young trolls. There is always danger of a parent nearby.
+      <outputs name="Sair." ownerID="4" targetID="7" fromX="1333" fromY="-549" />Assim que você desce, você vê as pedras abaixo se moverem de maneiras não naturais. Você rapidamente percebe que eles devem ser roqueiros – jovens trolls. Há sempre o perigo de um pai por perto.
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="1488.30542" positionY="1197.01538" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-LOTS_ROCKERS_2P_4M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="16" group="G1" fromX="1929" fromY="701" />
@@ -1747,7 +1715,7 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
       <outputs name="[Anão] Esses pequeninos bebês de pedra merecem ser deixados em paz. Na verdade, deixe um pouco de comida para eles e afaste a pedra dos filhotes rapidamente antes que a mãe do rock retorne." ownerID="8" targetID="30" fromX="3078" fromY="-1114" />
       <outputs name="Caminhe até os roqueiros." ownerID="8" targetID="9" group="G1" fromX="3078" fromY="-1195" />
       <outputs name="Caminhe até os roqueiros." ownerID="8" targetID="10" group="G1" fromX="3078" fromY="-1275" />
-      <outputs name="Sair." ownerID="8" targetID="7" fromX="3078" fromY="-1355" />You check the tracks and realise that some adults may be close by. Still, you see a lot of precious stone here and cannot easily gather it without the rockers noticing.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="7" fromX="3078" fromY="-1355" />Você verifica os rastros e percebe que alguns adultos podem estar por perto. Ainda assim, você vê muitas pedras preciosas aqui e não pode reuni-las facilmente sem que os roqueiros percebam.</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2222" positionY="-539" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -1792,7 +1760,7 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="12" targetID="14" fromX="2701" fromY="-2048" />You have strong folk with you, so the play goes well. The rockers are pleased with their playmates and shower you with gifts before they usher you away, gesturing that their parents are about to return.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="12" targetID="14" fromX="2701" fromY="-2048" />Você tem gente forte com você, então a peça vai bem. Os roqueiros estão satisfeitos com seus companheiros de brincadeiras e enchem você de presentes antes de levá-lo embora, gesticulando que seus pais estão prestes a voltar.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="3172.311" positionY="-2206.62939" width="350" height="530" allPlayersXP="3" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="15" positionX="1796.04358" positionY="-1900.02673" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="35" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="15" targetID="28" fromX="2225" fromY="-2288" />
@@ -1822,7 +1790,7 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
       <outputs name="Fugir!" ownerID="16" targetID="24" fromX="2480" fromY="911" />
       <outputs name="Ataque!" ownerID="16" targetID="25" fromX="2480" fromY="831" />Os roqueiros estão quebrados aos seus pés, e você sente que essa morte antinatural e não provocada dos jovens não se coaduna com seu domínio. Você também ouve os gritos de uma mama troll rolando rápido em sua direção!</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="2345.63062" positionY="423.795044" width="350" height="725">
-      <outputs name="Run.&#xD;" ownerID="20" targetID="21" fromX="2671" fromY="-67" />The rockers beat you badly and force you to flee.</nodes>
+      <outputs name="Run.&#xD;" ownerID="20" targetID="21" fromX="2671" fromY="-67" />Os roqueiros batem em você e o forçam a fugir.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="21" positionX="2812.06" positionY="305.384583" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="24" positionX="3300.53516" positionY="1344.45447" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="25" positionX="3986.21631" positionY="586.7356" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-TROLL_ROCK_MIX_9P_7M_6S" challengeScale="101" challengedList="ppl">
@@ -1857,7 +1825,7 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="28" targetID="14" fromX="2713" fromY="-2865" />You have strong folk with you, so the play goes well, although it proves more than just rough. The rockers are pleased with their playmates and shower you with gifts before they usher you away, gesturing that their parents are about to return.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="28" targetID="14" fromX="2713" fromY="-2865" />Você tem gente forte com você, então a peça vai bem, embora se mostre mais do que apenas difícil. Os roqueiros estão satisfeitos com seus companheiros de brincadeiras e enchem você de presentes antes de levá-lo embora, gesticulando que seus pais estão prestes a voltar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="2814.46558" positionY="1363.7041" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -1950,7 +1918,7 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
         </FilterBlock>
       </logic>
       <outputs name="Tente recolher alguma pedra." ownerID="2" targetID="4" fromX="829" fromY="-561" />
-      <outputs name="Sair." ownerID="2" targetID="3" fromX="829" fromY="-641" />You find an old quarry, seemingly abandoned. Most of this quarry has collapsed into a deep ravine, but there still may be some usable resources here.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="3" fromX="829" fromY="-641" />Você encontra uma antiga pedreira, aparentemente abandonada. Most of this quarry has collapsed into a deep ravine, but there still may be some usable resources here.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="15.9418259" positionY="-749.8534" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1058.91077" positionY="894.5257" width="350" height="966">
       <logic>
@@ -1969,7 +1937,7 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
       <outputs name="Desenterre-os." ownerID="4" targetID="5" fromX="1384" fromY="403" />
       <outputs name="Temos artesãos, gente inteligente e ferramentas. Descubra uma maneira segura de desenterrá-los." ownerID="4" targetID="6" fromX="1384" fromY="323" />
       <outputs name="[Anão] Esses colapsos são uma coisa diária nas montanhas, e você conhece maneiras de desenterrá-los com segurança e rapidez." ownerID="4" targetID="7" fromX="1384" fromY="242" />
-      <outputs name="[Orc] Essas coisas eram uma ocorrência diária onde você morava. É a marca de um verdadeiro guerreiro encontrar sua própria saída!" ownerID="4" targetID="18" fromX="1384" fromY="162" />You start digging for stone when the earth shifts and one of you gets trapped beneath the stones! </nodes>
+      <outputs name="[Orc] Essas coisas eram uma ocorrência diária onde você morava. É a marca de um verdadeiro guerreiro encontrar sua própria saída!" ownerID="4" targetID="18" fromX="1384" fromY="162" />Você começa a cavar pedras quando a terra se move e um de vocês fica preso embaixo das pedras! </nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1967" positionY="865" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_3P_0M_0S" challengeScale="101" challengedList="diggers">
       <outputs name="Win" ownerID="5" targetID="16" fromX="2408" fromY="369" />
       <outputs name="Lose" ownerID="5" targetID="10" fromX="2408" fromY="289" />
@@ -2033,7 +2001,7 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="7" targetID="8" fromX="2380" fromY="-1142" />Mysteries of the earth are your daily dwarven bread, so you safely uncover your kin and manage to find some good resources while you're at it. </nodes>
+      <outputs name="Sair." ownerID="7" targetID="8" fromX="2380" fromY="-1142" />Os mistérios da terra são seu pão diário dos anoes, então você descobre com segurança seus parentes e consegue encontrar alguns bons recursos enquanto está nisso. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2577.145" positionY="-935.5292" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="10" positionX="4291.93164" positionY="-74.1889" width="350" height="725">
       <logic>
@@ -2049,7 +2017,7 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="10" targetID="12" fromX="4617" fromY="-565" />You dig up your friend, but they nearly died and are permanently weakened by this. </nodes>
+      <outputs name="Sair." ownerID="10" targetID="12" fromX="4617" fromY="-565" />Você desenterra seu amigo, mas ele quase morreu e está permanentemente enfraquecido por isso. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="4762.172" positionY="-399.738647" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="16" positionX="2888.918" positionY="55.40367" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="4" maxDamage="8" useCountInPercent="false" targetGroup="helpme">
       <logic>
@@ -2072,7 +2040,7 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="17" targetID="8" fromX="3902" fromY="-602" />You dig them out and apart from some mental bruising they seem well. You also uncover some stone. </nodes>
+      <outputs name="Sair." ownerID="17" targetID="8" fromX="3902" fromY="-602" />Você os desenterra e, além de algumas contusoes mentais, eles parecem bem. Você também descobre algumas pedras. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="18" positionX="1032.20325" positionY="-319.8023" width="460" height="539" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="helpme">
       <logic>
         <FilterBlock>
@@ -2153,7 +2121,7 @@ Your fellow is taken and torn into three pieces to be devoured. Their bemused fa
       <outputs name="Investigar." ownerID="2" targetID="9" group="G1" fromX="792" fromY="-545" />
       <outputs name="Investigar." ownerID="2" targetID="10" group="G1" fromX="792" fromY="-626" />
       <outputs name="Investigar." ownerID="2" targetID="8" group="G1" fromX="792" fromY="-706" />
-      <outputs name="Investigar." ownerID="2" targetID="3" group="G1" fromX="792" fromY="-786" />You find an old quarry, seemingly abandoned.</nodes>
+      <outputs name="Investigar." ownerID="2" targetID="3" group="G1" fromX="792" fromY="-786" />Você encontra uma antiga pedreira, aparentemente abandonada.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1084" positionY="-904" width="350" height="530" linkedEventUniqueID="7" />
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="1595" positionY="-823" width="350" height="530" linkedEventUniqueID="8">
       <logic>

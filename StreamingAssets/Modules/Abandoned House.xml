@@ -477,7 +477,7 @@
       <outputs name="Tente sair à força." ownerID="6" targetID="23" fromX="2180" fromY="691" />Esta casa é claramente assombrada. Você pode tentar limpá-lo enfrentando os espíritos em seu terreno, mas esse ritual pode ser perigoso. Você também pode tentar encontrar o que liga o fantasma a este lugar e destruí-lo. Claro, você também pode tentar forçar sua saída.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="4604.62" positionY="-1079.82861" width="350" height="805">
       <outputs name="Ataque!" ownerID="7" targetID="18" fromX="4930" fromY="-1570" />
-      <outputs name="Corra de volta e tente forçar sua saída!" ownerID="7" targetID="23" fromX="4930" fromY="-1651" />Ao tentar encontrar uma saída, você descobre um porão e entra correndo, na esperança de encontrar outra saída. Em vez disso, você ouve vozes e vê lampejos de presença espiritual: &#39;Fique, fique conosco, brinque conosco, estamos sozinhos...&#39;</nodes>
+      <outputs name="Corra de volta e tente forçar sua saída!" ownerID="7" targetID="23" fromX="4930" fromY="-1651" />Ao tentar encontrar uma saída, você descobre um porão e entra correndo, na esperança de encontrar outra saída. Em vez disso, você ouve vozes e vê lampejos de presença espiritual: 'Fique, fique conosco, brinque conosco, estamos sozinhos...'</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2192.32837" positionY="194.380051" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -558,7 +558,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="28" targetID="54" fromX="6992" fromY="-880" />Seus esforços para derrotar esta casa amaldiçoada se mostraram inúteis. Tudo o que você tentou falhou, e você sentiu como se estivesse preso aqui por semanas. Finalmente, você sente fumaça. Você começa a engasgar muito e sente seu espírito agredido ao ver que a casa está pegando fogo. Você ouve: &#39;Queime, queime, sua casa maldita!&#39; Em um momento de clareza, você é capaz de se esgotar. Quem queimou a casa salvou suas peles, mas não ficou para receber os elogios.</nodes>
+      <outputs name="Sair." ownerID="28" targetID="54" fromX="6992" fromY="-880" />Seus esforços para derrotar esta casa amaldiçoada se mostraram inúteis. Tudo o que você tentou falhou, e você sentiu como se estivesse preso aqui por semanas. Finalmente, você sente fumaça. Você começa a engasgar muito e sente seu espírito agredido ao ver que a casa está pegando fogo. Você ouve: 'Queime, queime, sua casa maldita!' Em um momento de clareza, você é capaz de se esgotar. Quem queimou a casa salvou suas peles, mas não ficou para receber os elogios.</nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="6239.16064" positionY="321.211" width="350" height="725">
       <outputs name="Sair." ownerID="29" targetID="56" fromX="6564" fromY="-169" />Você finalmente abre as persianas e sai correndo, mas alguns dos objetos voadores o seguem e o atingem com força. Pior ainda, a presença do espírito deixa uma marca profunda em suas almas.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="30" positionX="7399.4917" positionY="223.8016" width="350" height="408" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
@@ -816,7 +816,7 @@
       <outputs name="Limpe o que você estragou." ownerID="24" targetID="25" fromX="2833" fromY="164" />
       <outputs name="Mate isso." ownerID="24" targetID="23" fromX="2833" fromY="83" />
       <outputs name="Tente convencê-lo de que o mestre se foi há muito tempo." ownerID="24" targetID="53" group="G2" fromX="2833" fromY="3" />
-      <outputs name="Tente convencê-lo de que o mestre se foi há muito tempo." ownerID="24" targetID="56" group="G2" fromX="2833" fromY="-76" />&#39;Você faz bagunça, você faz tanta bagunça! Os mestres vão voltar, eles vão voltar...&#39; Isso fica se repetindo sem parar. Você teme que sua pequena mente se foi. </nodes>
+      <outputs name="Tente convencê-lo de que o mestre se foi há muito tempo." ownerID="24" targetID="56" group="G2" fromX="2833" fromY="-76" />'Você faz bagunça, você faz tanta bagunça! Os mestres vão voltar, eles vão voltar...' Isso fica se repetindo sem parar. Você teme que sua pequena mente se foi. </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="3049.2207" positionY="1364.71838" width="350" height="725" image="Event234">
       <logic>
         <FilterBlock>
@@ -1169,7 +1169,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="57" targetID="64" fromX="5599" fromY="-2048" />A criatura aceita a comida e, fiel às suas obrigações demoníacas, é liberada de seus deveres anteriores. Ele sorri para você e desaparece, e a casa começa a apodrecer diante de seus olhos. Na saída, você descobre um pacote deixado em sua mochila. </nodes>
+      <outputs name="Sair." ownerID="57" targetID="64" fromX="5599" fromY="-2048" />A criatura aceita a comida e, fiel às suas obrigaçoes demoníacas, é liberada de seus deveres anteriores. Ele sorri para você e desaparece, e a casa começa a apodrecer diante de seus olhos. Na saída, você descobre um pacote deixado em sua mochila. </nodes>
     <nodes xsi:type="NodeAdventure" ID="58" positionX="4576.22" positionY="-1599.46606" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1240,7 +1240,7 @@
       </logic>
       <outputs name="[Bruxa] Elogie o dono da casa pelos bons feitiços de proteção." ownerID="4" targetID="43" fromX="1203" fromY="-64" />
       <outputs name="Observe que a prata e os amuletos apenas o enfraquecem, e você ainda pode entrar se quiser. Mas você não deseja nenhum mal a ela. Você só quer falar." ownerID="4" targetID="40" fromX="1203" fromY="-144" />
-      <outputs name="Tempestade e matá-la!" ownerID="4" targetID="41" fromX="1203" fromY="-224" />Ao se aproximar da casa, um conjunto de sinos soa. Parece que eles são feitos de prata. &#39;Há! Vocês demônios noturnos podem ficar bem longe da minha casa! Me ouça!&#39;</nodes>
+      <outputs name="Tempestade e matá-la!" ownerID="4" targetID="41" fromX="1203" fromY="-224" />Ao se aproximar da casa, um conjunto de sinos soa. Parece que eles são feitos de prata. 'Há! Vocês demônios noturnos podem ficar bem longe da minha casa! Me ouça!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1471.27515" positionY="-1160.97375" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -1260,7 +1260,7 @@
       <outputs name="É uma bruxa. Mate ela." ownerID="6" targetID="10" group="G1" fromX="215" fromY="-1238" />
       <outputs name="É uma bruxa. Mate ela." ownerID="6" targetID="42" group="G1" fromX="215" fromY="-1318" />
       <outputs name="Entre e fale com ela." ownerID="6" targetID="14" fromX="215" fromY="-1398" />
-      <outputs name="[Bruxa] Entre para conversar, mas avise-a para não tentar nenhum negócio engraçado." ownerID="6" targetID="43" fromX="215" fromY="-1478" />Uma velha encapuzada atende a porta e gesticula para você entrar. Ela então volta para sua cadeira de balanço, senta-se e diz: &#39;Entrem, entrem, estranhos. Posso oferecer-lhe comida quente? Doces? Ou talvez algum comércio?
+      <outputs name="[Bruxa] Entre para conversar, mas avise-a para não tentar nenhum negócio engraçado." ownerID="6" targetID="43" fromX="215" fromY="-1478" />Uma velha encapuzada atende a porta e gesticula para você entrar. Ela então volta para sua cadeira de balanço, senta-se e diz: 'Entrem, entrem, estranhos. Posso oferecer-lhe comida quente? Doces? Ou talvez algum comércio?
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="9" positionX="1326.19324" positionY="1263.68408" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="9" targetID="44" fromX="1767" fromY="768" />
@@ -1340,7 +1340,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Agradeça o conselho e vá embora." ownerID="15" targetID="57" fromX="1878" fromY="-4371" />A velha bruxa conta muitas histórias sábias. Ela termina dizendo: &#39;E então, se você vir uma moça bonita à beira d&#39;água ou achar que ouviu uma linda canção no mar, por favor, preste atenção às minhas palavras e belisque-se três vezes na nádega esquerda antes de fazer algo bobo. com um daqueles demônios sedutores.</nodes>
+      <outputs name="Agradeça o conselho e vá embora." ownerID="15" targetID="57" fromX="1878" fromY="-4371" />A velha bruxa conta muitas histórias sábias. Ela termina dizendo: 'E então, se você vir uma moça bonita à beira d'água ou achar que ouviu uma linda canção no mar, por favor, preste atenção às minhas palavras e belisque-se três vezes na nádega esquerda antes de fazer algo bobo. com um daqueles demônios sedutores.</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="849" positionY="-1742" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1370,7 +1370,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ela e vá embora." ownerID="18" targetID="47" fromX="1206" fromY="-3120" />Você entrega as mercadorias, e a bruxa o pica com uma adaga curvada e grosseira. Você espera o resto do ritual, mas ela apenas ri: &#39;O que, você achou que eu faria algo estranho e desagradável? Está tudo feito. O sangue fez o truque. Até a próxima.&#39;</nodes>
+      <outputs name="Agradeça a ela e vá embora." ownerID="18" targetID="47" fromX="1206" fromY="-3120" />Você entrega as mercadorias, e a bruxa o pica com uma adaga curvada e grosseira. Você espera o resto do ritual, mas ela apenas ri: 'O que, você achou que eu faria algo estranho e desagradável? Está tudo feito. O sangue fez o truque. Até a próxima.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="2654.65747" positionY="-4047.416" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1403,7 +1403,7 @@
     <nodes xsi:type="NodeAdventure" ID="22" positionX="555.6033" positionY="-3668.92822" width="350" height="885">
       <outputs name="Agradeça o conselho e vá embora." ownerID="22" targetID="58" fromX="881" fromY="-4160" />
       <outputs name="Mate ela!" ownerID="22" targetID="10" group="G1" fromX="881" fromY="-4240" />
-      <outputs name="Mate ela!" ownerID="22" targetID="42" group="G1" fromX="881" fromY="-4320" />A velha bruxa conta muitas histórias divertidas. Ela termina com: &#39;Então agora você sabe, na vida, as coisas mais preciosas são água quente, bons dentes e um travesseiro macio para sua bunda velha se sentar.&#39; De alguma forma, você não se sente mais sábio por isso.
+      <outputs name="Mate ela!" ownerID="22" targetID="42" group="G1" fromX="881" fromY="-4320" />A velha bruxa conta muitas histórias divertidas. Ela termina com: 'Então agora você sabe, na vida, as coisas mais preciosas são água quente, bons dentes e um travesseiro macio para sua bunda velha se sentar.' De alguma forma, você não se sente mais sábio por isso.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="23" positionX="562.664368" positionY="-4550.237" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="24" positionX="1894" positionY="-2897" width="350" height="725">
@@ -1423,7 +1423,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="24" targetID="56" fromX="2219" fromY="-3388" />&#39;Hmm, antigamente eu segui o mestre, Veles, então vou honrar sua progênie esta noite. Sente-se, beba e ouça. A velha bruxa lhe conta muitas histórias antes de finalmente dizer que é hora de ir. </nodes>
+      <outputs name="Sair." ownerID="24" targetID="56" fromX="2219" fromY="-3388" />'Hmm, antigamente eu segui o mestre, Veles, então vou honrar sua progênie esta noite. Sente-se, beba e ouça. A velha bruxa lhe conta muitas histórias antes de finalmente dizer que é hora de ir. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="3264" positionY="-3145" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1472,11 +1472,11 @@
       </logic>
       <outputs name="Troca." ownerID="28" targetID="45" fromX="2676" fromY="1150" />
       <outputs name="Aprenda alguns rituais." ownerID="28" targetID="46" fromX="2676" fromY="1069" />
-      <outputs name="Agradeça a ela agora e vá embora." ownerID="28" targetID="52" fromX="2676" fromY="989" />&#39;Ah! Um bom. Bem conhecido, irmã. Agora, para estranhos, eu faria um jogo de negócios, trocas e trapaças. Mas para você eu ofereço uma troca honesta entre irmãs, ou posso te ensinar alguns rituais e te dar algumas ervas, mas eu precisaria de um pouco de sua energia espiritual em troca.</nodes>
+      <outputs name="Agradeça a ela agora e vá embora." ownerID="28" targetID="52" fromX="2676" fromY="989" />'Ah! Um bom. Bem conhecido, irmã. Agora, para estranhos, eu faria um jogo de negócios, trocas e trapaças. Mas para você eu ofereço uma troca honesta entre irmãs, ou posso te ensinar alguns rituais e te dar algumas ervas, mas eu precisaria de um pouco de sua energia espiritual em troca.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="29" positionX="4444.15625" positionY="1490.28418" width="350" height="408" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="30" positionX="2671.561" positionY="678.9823" width="350" height="805">
       <outputs name="Sair." ownerID="30" targetID="53" fromX="2997" fromY="187" />
-      <outputs name="Tempestade e matá-la!" ownerID="30" targetID="41" fromX="2997" fromY="107" />Você corta sua mão, respinga o sangue no chão limpo e joga três ossos cada da mão esquerda de uma criança ainda não nascida. Mas os ossos não seguem um padrão, e a voz ri de você: &#39;Truques baratos não me impressionam. Vá embora!&#39;
+      <outputs name="Tempestade e matá-la!" ownerID="30" targetID="41" fromX="2997" fromY="107" />Você corta sua mão, respinga o sangue no chão limpo e joga três ossos cada da mão esquerda de uma criança ainda não nascida. Mas os ossos não seguem um padrão, e a voz ri de você: 'Truques baratos não me impressionam. Vá embora!'
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="32" positionX="3861.64526" positionY="274.002472" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="33" positionX="11.5480576" positionY="-3121.26929" width="460" height="559" traderProfile="TRADER-BANDIT" playerInventory="food" startingBalance="-50">
@@ -1595,9 +1595,9 @@
       </logic>
       <outputs name="Sair." ownerID="48" targetID="53" fromX="3531" fromY="-1349" />A bruxa os derrota e lança uma maldição sobre suas almas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="-429.420624" positionY="-2336.629" width="350" height="725">
-      <outputs name="Sair." ownerID="50" targetID="58" fromX="-103" fromY="-2827" />&#39;Bem, nós negociamos. Agora é hora de partir.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="58" fromX="-103" fromY="-2827" />'Bem, nós negociamos. Agora é hora de partir.</nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="3317.90576" positionY="1779.01611" width="350" height="725">
-      <outputs name="Sair." ownerID="51" targetID="52" fromX="3643" fromY="1287" />&#39;Boa negociação&#39; com você. Tchau.&#39;
+      <outputs name="Sair." ownerID="51" targetID="52" fromX="3643" fromY="1287" />'Boa negociação' com você. Tchau.'
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="52" positionX="3877.4165" positionY="1564.01233" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="52" targetID="29" fromX="4326" fromY="1131" />
@@ -2855,7 +2855,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Sim, diga que você está pronto." ownerID="2" targetID="4" fromX="628" fromY="-321" />
-      <outputs name="No. Sair." ownerID="2" targetID="38" fromX="628" fromY="-401" />Curiosamente, o mesmo velho pirata lhe dá as boas-vindas: &#39;Arr, vocês são os pequenos campeoes, hein? As regras são simples, você entra e luta a cada rodada sem interrupção! São cinco lutas. Se você perder, você começa de novo e perde alguns bens como pagamento. Todos a bordo, companheiros?</nodes>
+      <outputs name="No. Sair." ownerID="2" targetID="38" fromX="628" fromY="-401" />Curiosamente, o mesmo velho pirata lhe dá as boas-vindas: 'Arr, vocês são os pequenos campeoes, hein? As regras são simples, você entra e luta a cada rodada sem interrupção! São cinco lutas. Se você perder, você começa de novo e perde alguns bens como pagamento. Todos a bordo, companheiros?</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="2488" positionY="-2178" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_ARENA1" logBookDescription="QUEST_ARENA1_DES" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -2880,7 +2880,7 @@
       <outputs name="Lutar" ownerID="4" targetID="5" fromX="1094" fromY="-374" />
       <outputs name="Intimide o inimigo!" ownerID="4" targetID="7" fromX="1094" fromY="-454" />
       <outputs name="Enfrente-os nos reinos espirituais!" ownerID="4" targetID="6" fromX="1094" fromY="-534" />
-      <outputs name="No. Sair." ownerID="4" targetID="38" fromX="1094" fromY="-614" />&#39;Aqui está seu inimigo. Escolha seu estilo e lute bem. Além disso, esta é sua última chance de recuar, depois desta, você ganha ou perde.&#39;</nodes>
+      <outputs name="No. Sair." ownerID="4" targetID="38" fromX="1094" fromY="-614" />'Aqui está seu inimigo. Escolha seu estilo e lute bem. Além disso, esta é sua última chance de recuar, depois desta, você ganha ou perde.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1233" positionY="602" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-DRAGON_ZMEYS_11P_12M_11S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="9" fromX="1674" fromY="106" />
       <outputs name="Lose" ownerID="5" targetID="8" fromX="1674" fromY="26" />
@@ -2897,7 +2897,7 @@
       <outputs name="Surrender" ownerID="7" targetID="8" fromX="1679" fromY="-877" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2940" positionY="-2040" width="350" height="725" image="Event020">
-      <outputs name="Sair." ownerID="8" targetID="3" fromX="3265" fromY="-2531" />&#39;Arr, você é um bom esportista, mas você não é campeão, ainda... Tire suas pontas da minha areia e volte quando estiver bem!&#39;</nodes>
+      <outputs name="Sair." ownerID="8" targetID="3" fromX="3265" fromY="-2531" />'Arr, você é um bom esportista, mas você não é campeão, ainda... Tire suas pontas da minha areia e volte quando estiver bem!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1846" positionY="-151" width="350" height="885" image="Event340">
       <outputs name="Lutar" ownerID="9" targetID="10" fromX="2171" fromY="-642" />
       <outputs name="Intimide o inimigo!" ownerID="9" targetID="12" fromX="2171" fromY="-722" />
@@ -2998,7 +2998,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Comemore alguns e vá embora." ownerID="27" targetID="31" fromX="6155" fromY="-748" />
-      <outputs name="Pague para ter suas feridas curadas." ownerID="27" targetID="29" fromX="6155" fromY="-828" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
+      <outputs name="Pague para ter suas feridas curadas." ownerID="27" targetID="29" fromX="6155" fromY="-828" />'Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="7686" positionY="-363" width="350" height="530" allPlayersXP="10" allPlayersRP="10" logBookName="QUEST_ARENA1" logBookDescription="QUEST_ARENA2_DES" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
@@ -3022,7 +3022,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6292" positionY="-1175" width="350" height="805" image="Event340">
       <outputs name="Comemore alguns e vá embora." ownerID="30" targetID="28" fromX="6617" fromY="-1666" />
-      <outputs name="Pague para ter suas feridas curadas." ownerID="30" targetID="29" fromX="6617" fromY="-1746" />&#39;Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
+      <outputs name="Pague para ter suas feridas curadas." ownerID="30" targetID="29" fromX="6617" fromY="-1746" />'Amantes da terra e cebolinhas do mar, aqui estão nossos novos grandes campeoes da Cúpula do Trovão! Agora, vamos beber e festejar.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="31" positionX="6603" positionY="-363" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="31" targetID="28" fromX="7051" fromY="-795" />

@@ -59,7 +59,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="10" fromX="2767" fromY="651" />You discover the treasure and find your way back up.</nodes>
+      <outputs name="Sair." ownerID="6" targetID="10" fromX="2767" fromY="651" />Você descobre o tesouro e encontra o caminho de volta.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="2875" positionY="501" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="7" targetID="8" fromX="3304" fromY="112" />
     </nodes>
@@ -71,7 +71,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />It is too dark, and you barely find your way back up.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />Está muito escuro e você mal encontra o caminho de volta.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="3507" positionY="1294" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeSpawnOnMap" ID="10" positionX="2903" positionY="1153" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="10" targetID="9" fromX="3351" fromY="720" />
@@ -82,7 +82,7 @@
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="4417" positionY="649" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="14" positionX="1864" positionY="86" width="350" height="805">
       <outputs name="[Craft] Tente descobrir o mecanismo." ownerID="14" targetID="15" group="G1" fromX="2189" fromY="-405" />
-      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />You find a vault, locked by an old mechanism that defies decay -- and likely brawn too. </nodes>
+      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />Você encontra um cofre, trancado por um mecanismo antigo que desafia a decadência - e provavelmente também músculos. </nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="2826" positionY="2" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_1M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -109,7 +109,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />You work out the mechanism and get into the vault. Although the structure is very durable, much of the contents have been either taken or destroyed. Still, you find some things that may be of use.</nodes>
+      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />Você trabalha o mecanismo e entra no cofre. Embora a estrutura seja muito durável, grande parte do conteúdo foi levado ou destruído. Ainda assim, você encontra algumas coisas que podem ser úteis.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="3913" positionY="-224" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="17" targetID="18" fromX="4342" fromY="-612" />
     </nodes>
@@ -121,7 +121,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Whatever this mechanism is, it scrambles your brains. You leave, confused and tired.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Qualquer que seja esse mecanismo, ele embaralha seu cérebro. Você sai, confuso e cansado.</nodes>
     <nodes xsi:type="NodeChallenge" ID="19" positionX="3358" positionY="-71" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_2M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -150,7 +150,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />There is nothing but fish and seaweed here.</nodes>
+      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />Não há nada além de peixes e algas aqui.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="54" positionX="4439" positionY="-95" width="460" height="429" sourceGroup="GROUP-DWARVES_6P_5M_2S" cargoPercentage="50">
       <outputs ownerID="54" targetID="16" fromX="4869" fromY="-453" />
     </nodes>
@@ -215,12 +215,12 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="74" targetID="65" fromX="416" fromY="-3509" />You defeat the sea creatures and gather the loot.</nodes>
+      <outputs name="Sair." ownerID="74" targetID="65" fromX="416" fromY="-3509" />Você derrota as criaturas do mar e coleta o saque.</nodes>
     <nodes xsi:type="NodeAdventure" ID="76" positionX="457" positionY="-3554" width="350" height="725">
-      <outputs name="Sair." ownerID="76" targetID="65" fromX="782" fromY="-4045" />You are defeated and forced to flee.</nodes>
+      <outputs name="Sair." ownerID="76" targetID="65" fromX="782" fromY="-4045" />Você é derrotado e forçado a fugir.</nodes>
     <nodes xsi:type="NodeAdventure" ID="77" positionX="-280" positionY="-2037" width="350" height="805">
       <outputs name="Ataque!" ownerID="77" targetID="78" fromX="45" fromY="-2528" />
-      <outputs name="Sair." ownerID="77" targetID="83" fromX="45" fromY="-2608" />You discover that the ruins have become a nest of sea creatures. Some of them swim nearby, along with corpses of many warriors who were perhaps lured here by a song of sea demons.</nodes>
+      <outputs name="Sair." ownerID="77" targetID="83" fromX="45" fromY="-2608" />Você descobre que as ruínas se tornaram um ninho de criaturas marinhas. Alguns deles nadam nas proximidades, junto com cadáveres de muitos guerreiros que talvez tenham sido atraídos para cá por uma canção de demônios do mar.</nodes>
     <nodes xsi:type="NodeChallenge" ID="78" positionX="-1400" positionY="-3054" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-SEA_BEAST_2P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="78" targetID="80" fromX="-958" fromY="-3549" />
       <outputs name="Lose" ownerID="78" targetID="76" fromX="-958" fromY="-3629" />
@@ -243,7 +243,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="79" targetID="65" fromX="-551" fromY="-3546" />You defeat the sea creatures and gather the loot.</nodes>
+      <outputs name="Sair." ownerID="79" targetID="65" fromX="-551" fromY="-3546" />Você derrota as criaturas do mar e coleta o saque.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="80" positionX="-486" positionY="-3781" width="460" height="429" sourceGroup="GROUP-ORCS_5P_3M_1S" cargoPercentage="50">
       <outputs ownerID="80" targetID="79" fromX="-55" fromY="-4139" />
     </nodes>
@@ -266,7 +266,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="81" targetID="10" fromX="2752" fromY="-199" />You discover the treasure and find your way back up.</nodes>
+      <outputs name="Sair." ownerID="81" targetID="10" fromX="2752" fromY="-199" />Você descobre o tesouro e encontra o caminho de volta.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="82" positionX="1567" positionY="-1829" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeSpawnOnMap" ID="83" positionX="841" positionY="-1876" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="83" targetID="82" fromX="1289" fromY="-2308" />
@@ -295,7 +295,7 @@
       <outputs name="Procure na área leste." ownerID="2" targetID="21" group="G1" fromX="730" fromY="-748" />
       <outputs name="Nade para as partes ocidentais." ownerID="2" targetID="68" group="G1" fromX="730" fromY="-828" />
       <outputs name="Investigue a zona sul." ownerID="2" targetID="36" group="G1" fromX="730" fromY="-908" />
-      <outputs name="Sair." ownerID="2" targetID="70" fromX="730" fromY="-988" />You find the remains of an ancient structure, likely unearthed by the Shattering.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="70" fromX="730" fromY="-988" />Você encontra os restos de uma estrutura antiga, provavelmente desenterrada pelo Shattering.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="3" positionX="852" positionY="126" width="460" height="589">
       <logic>
         <FilterBlock>
@@ -337,7 +337,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="10" fromX="3268" fromY="785" />You discover the treasure and find your way back up.</nodes>
+      <outputs name="Sair." ownerID="6" targetID="10" fromX="3268" fromY="785" />Você descobre o tesouro e encontra o caminho de volta.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="2892" positionY="509" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="7" targetID="8" fromX="3321" fromY="120" />
     </nodes>
@@ -349,7 +349,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />It is too dark, and you barely find your way back up.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />Está muito escuro e você mal encontra o caminho de volta.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="4082" positionY="1419" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeSpawnOnMap" ID="10" positionX="3423" positionY="1315" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="10" targetID="9" fromX="3871" fromY="882" />
@@ -372,7 +372,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="1864" positionY="86" width="350" height="805">
       <outputs name="[Craft] Tente descobrir o mecanismo." ownerID="14" targetID="15" group="G1" fromX="2189" fromY="-405" />
-      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />You find a vault, locked by an old mechanism that defies decay -- and likely brawn too. </nodes>
+      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />Você encontra um cofre, trancado por um mecanismo antigo que desafia a decadência - e provavelmente também músculos. </nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="2826" positionY="2" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_3M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -399,7 +399,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />You work out the mechanism and get into the vault. Although the structure is very durable, much of the contents have been either taken or destroyed. Still, you find some things that may be of use.</nodes>
+      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />Você trabalha o mecanismo e entra no cofre. Embora a estrutura seja muito durável, grande parte do conteúdo foi levado ou destruído. Ainda assim, você encontra algumas coisas que podem ser úteis.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="3938" positionY="-270" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="17" targetID="18" fromX="4367" fromY="-658" />
     </nodes>
@@ -411,7 +411,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Whatever this mechanism is, it scrambles your brains. You leave, confused and tired.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Qualquer que seja esse mecanismo, ele embaralha seu cérebro. Você sai, confuso e cansado.</nodes>
     <nodes xsi:type="NodeChallenge" ID="19" positionX="3272" positionY="-112" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_4M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -440,7 +440,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />There is nothing but fish and seaweed here.</nodes>
+      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />Não há nada além de peixes e algas aqui.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="857" positionY="-498" width="460" height="589">
       <logic>
         <FilterBlock>
@@ -463,7 +463,7 @@
       </logic>
       <outputs name="[Usuário mágico] Tente quebrar essa barreira." ownerID="22" targetID="27" fromX="1901" fromY="-1291" />
       <outputs name="Saia deste lugar. Você não tem usuários mágicos que possam lidar com isso." ownerID="22" targetID="25" fromX="1901" fromY="-1371" />
-      <outputs name="Tente empurrar de qualquer maneira." ownerID="22" targetID="23" fromX="1901" fromY="-1451" />You find a room that is not submerged, but it is guarded by a magical barrier. </nodes>
+      <outputs name="Tente empurrar de qualquer maneira." ownerID="22" targetID="23" fromX="1901" fromY="-1451" />Você encontra uma sala que não está submersa, mas é guardada por uma barreira mágica. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="23" positionX="1526" positionY="-2076" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="90" maxDamage="110" useCountInPercent="true" targetGroup="2">
       <logic>
         <ModifierBlock>
@@ -519,7 +519,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="28" targetID="83" fromX="2890" fromY="-1857" />You break the spell and are free to loot this chamber, which you believe was once the study of a magic wielder.</nodes>
+      <outputs name="Sair." ownerID="28" targetID="83" fromX="2890" fromY="-1857" />Você quebra o feitiço e está livre para saquear esta câmara, que você acredita ter sido o estudo de um portador de magia.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="29" positionX="3584" positionY="-1253" width="460" height="509" sourceGroup="GROUP-VIHUR_WITCH_3P_3M_3S" cargoPercentage="150">
       <outputs ownerID="29" targetID="30" group="G1" fromX="4014" fromY="-1611" />
       <outputs ownerID="29" targetID="31" group="G1" fromX="4014" fromY="-1691" />
@@ -557,7 +557,7 @@
       <outputs ownerID="32" targetID="33" fromX="3981" fromY="-2344" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="4114" positionY="-1938" width="350" height="725">
-      <outputs name="Sair." ownerID="33" targetID="34" fromX="4439" fromY="-2429" />You fail to break the spell, and it harms your spirit.</nodes>
+      <outputs name="Sair." ownerID="33" targetID="34" fromX="4439" fromY="-2429" />Você não consegue quebrar o feitiço, e isso prejudica seu espírito.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="34" positionX="4560" positionY="-1922" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="34" targetID="35" fromX="5008" fromY="-2354" />
     </nodes>
@@ -598,7 +598,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="40" targetID="41" fromX="-1648" fromY="213" />You defeat the kraken.</nodes>
+      <outputs name="Sair." ownerID="40" targetID="41" fromX="-1648" fromY="213" />Você derrota o kraken.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="41" positionX="-1436" positionY="-29" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="41" targetID="42" fromX="-987" fromY="-461" />
     </nodes>
@@ -643,7 +643,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="47" targetID="48" fromX="-1970" fromY="-2715" />You panic and almost drown as you swim up. You feel ill and scared.</nodes>
+      <outputs name="Sair." ownerID="47" targetID="48" fromX="-1970" fromY="-2715" />Você entra em pânico e quase se afoga ao nadar. Você se sente doente e com medo.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="48" positionX="-2153" positionY="-1649" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="48" targetID="49" fromX="-1704" fromY="-2081" />
     </nodes>
@@ -664,7 +664,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="50" targetID="48" fromX="-1642" fromY="-548" />The kraken defeats you and devours one of you before the rest can escape.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="48" fromX="-1642" fromY="-548" />O kraken derrota você e devora um de vocês antes que o resto possa escapar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-748" positionY="-1461" width="350" height="805">
       <outputs name="Saqueie e vá embora." ownerID="51" targetID="52" group="G1" fromX="-422" fromY="-1952" />
       <outputs name="Saqueie e vá embora." ownerID="51" targetID="53" group="G1" fromX="-422" fromY="-2032" />Você nada para o sul e descobre muitas grandes câmaras, parcialmente submersas, que ainda guardam um eco de grandeza. Você mergulha para procurar em uma sala tão magnífica e vê um kraken morto.</nodes>
@@ -686,7 +686,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="55" positionX="1142" positionY="-1166" width="350" height="805">
       <outputs name="Ataque!" ownerID="55" targetID="56" fromX="1467" fromY="-1657" />
-      <outputs name="[Usuário de magia] Enfrente-os com magia." ownerID="55" targetID="66" fromX="1467" fromY="-1737" />You enter a partially submerged chamber that is mostly intact, but you quickly realise this place is haunted. The doors shut behind you, and you feel the malevolent presence of dark spirits around you!</nodes>
+      <outputs name="[Usuário de magia] Enfrente-os com magia." ownerID="55" targetID="66" fromX="1467" fromY="-1737" />Você entra em uma câmara parcialmente submersa que está praticamente intacta, mas rapidamente percebe que este lugar é assombrado. As portas se fecham atrás de você e você sente a presença malévola de espíritos sombrios ao seu redor!</nodes>
     <nodes xsi:type="NodeChallenge" ID="56" positionX="964" positionY="-2019" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-WRAITH_4P_3M_4S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="56" targetID="57" fromX="1405" fromY="-2514" />
       <outputs name="Lose" ownerID="56" targetID="63" fromX="1405" fromY="-2594" />
@@ -695,7 +695,7 @@
     <nodes xsi:type="NodeAdventure" ID="57" positionX="1445" positionY="-2718" width="350" height="885">
       <outputs name="Saqueie o que puder e vá embora." ownerID="57" targetID="82" fromX="1770" fromY="-3209" />
       <outputs name="Destrua as pinturas." ownerID="57" targetID="58" fromX="1770" fromY="-3289" />
-      <outputs name="[Magic user]These spirits are strong and the paintings are artefacts of great power too, but ones that are best left for the depths of the ocean. Sair." ownerID="57" targetID="59" fromX="1770" fromY="-3369" />You destroy the wraiths, and the chamber releases its hold on you. The spirits that you defeated are drawn into old paintings on the walls. The portraits now look at you with cold hatred, but they seem unable to attack again.</nodes>
+      <outputs name="[Magic user]These spirits are strong and the paintings are artefacts of great power too, but ones that are best left for the depths of the ocean. Sair." ownerID="57" targetID="59" fromX="1770" fromY="-3369" />Você destrói as apariçoes, e a câmara libera seu domínio sobre você. Os espíritos que você derrotou são atraídos para pinturas antigas nas paredes. Os retratos agora olham para você com ódio frio, mas parecem incapazes de atacar novamente.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="58" positionX="2516" positionY="-3514" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="80" maxDamage="100" useCountInPercent="true" targetGroup="1">
       <logic>
         <ModifierBlock>
@@ -726,12 +726,12 @@
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="61" positionX="3741" positionY="-3192" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="62" positionX="1936" positionY="-3682" width="350" height="725">
-      <outputs name="Sair." ownerID="62" targetID="60" fromX="2261" fromY="-4173" />You try to destroy one of the paintings, and its power burns into your very souls instead! You are forced to flee, and the doors to the chamber disappear behind you.</nodes>
+      <outputs name="Sair." ownerID="62" targetID="60" fromX="2261" fromY="-4173" />Você tenta destruir uma das pinturas, e seu poder queima em suas almas! Você é forçado a fugir e as portas da câmara desaparecem atrás de você.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="63" positionX="2955" positionY="-3867" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="63" targetID="64" fromX="3384" fromY="-4255" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="64" positionX="2390" positionY="-4268" width="350" height="725">
-      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />You are defeated and forced to flee. The doors to the chamber disappear behind you.</nodes>
+      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />Você é derrotado e forçado a fugir. The doors to the chamber disappear behind you.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="65" positionX="449" positionY="-3034" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="65" targetID="35" fromX="897" fromY="-3466" />
     </nodes>
@@ -825,12 +825,12 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="74" targetID="60" fromX="378" fromY="-3522" />You defeat the sea creatures and gather the loot.</nodes>
+      <outputs name="Sair." ownerID="74" targetID="60" fromX="378" fromY="-3522" />Você derrota as criaturas do mar e coleta o saque.</nodes>
     <nodes xsi:type="NodeAdventure" ID="76" positionX="425" positionY="-3668" width="350" height="725">
-      <outputs name="Sair." ownerID="76" targetID="65" fromX="750" fromY="-4159" />You are defeated and forced to flee.</nodes>
+      <outputs name="Sair." ownerID="76" targetID="65" fromX="750" fromY="-4159" />Você é derrotado e forçado a fugir.</nodes>
     <nodes xsi:type="NodeAdventure" ID="77" positionX="-280" positionY="-2037" width="350" height="805">
       <outputs name="Ataque!" ownerID="77" targetID="78" fromX="45" fromY="-2528" />
-      <outputs name="Sair." ownerID="77" targetID="70" fromX="45" fromY="-2608" />You discover that the ruins have become a nest of czytlica. Some of them swim nearby, along with corpses of many warriors who were perhaps lured here by a song of sea demons.</nodes>
+      <outputs name="Sair." ownerID="77" targetID="70" fromX="45" fromY="-2608" />Você descobre que as ruínas se tornaram um ninho de czytlica. Alguns deles nadam nas proximidades, junto com cadáveres de muitos guerreiros que talvez tenham sido atraídos para cá por uma canção de demônios do mar.</nodes>
     <nodes xsi:type="NodeChallenge" ID="78" positionX="-1400" positionY="-3054" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-CZYTLICA_5P_5M_5S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="78" targetID="80" fromX="-958" fromY="-3549" />
       <outputs name="Lose" ownerID="78" targetID="76" fromX="-958" fromY="-3629" />
@@ -853,7 +853,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="79" targetID="60" fromX="-551" fromY="-3546" />You defeat the sea creatures and gather the loot.</nodes>
+      <outputs name="Sair." ownerID="79" targetID="60" fromX="-551" fromY="-3546" />Você derrota as criaturas do mar e coleta o saque.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="80" positionX="-486" positionY="-3781" width="460" height="429" sourceGroup="GROUP-ORCS_5P_3M_1S" cargoPercentage="100">
       <outputs ownerID="80" targetID="79" fromX="-55" fromY="-4139" />
     </nodes>
@@ -941,7 +941,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="10" fromX="3268" fromY="785" />You discover the treasure and find your way back up.</nodes>
+      <outputs name="Sair." ownerID="6" targetID="10" fromX="3268" fromY="785" />Você descobre o tesouro e encontra o caminho de volta.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="2875" positionY="501" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="40" maxDamage="60" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="7" targetID="8" fromX="3304" fromY="112" />
     </nodes>
@@ -953,7 +953,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />It is too dark, and you barely find your way back up.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />Está muito escuro e você mal encontra o caminho de volta.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="4082" positionY="1419" width="350" height="530" allPlayersXP="8" allPlayersRP="4" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeSpawnOnMap" ID="10" positionX="3423" positionY="1315" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="10" targetID="9" fromX="3871" fromY="882" />
@@ -976,7 +976,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="1864" positionY="86" width="350" height="805">
       <outputs name="[Craft] Tente descobrir o mecanismo." ownerID="14" targetID="15" group="G1" fromX="2189" fromY="-405" />
-      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />You find a vault, locked by an old mechanism that defies decay - and likely brawn too. </nodes>
+      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />Você encontra um cofre, trancado por um mecanismo antigo que desafia a decadência - e provavelmente também músculos. </nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="2860" positionY="2" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_7M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1003,7 +1003,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />You work out the mechanism and get into the vault. Although the structure is very durable, much of the contents have been either taken or destroyed. Still, you find some things that may be of use.</nodes>
+      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />Você trabalha o mecanismo e entra no cofre. Embora a estrutura seja muito durável, grande parte do conteúdo foi levado ou destruído. Ainda assim, você encontra algumas coisas que podem ser úteis.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="4243" positionY="-532" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="40" maxDamage="70" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="17" targetID="18" fromX="4672" fromY="-920" />
     </nodes>
@@ -1015,7 +1015,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Whatever this mechanism is, it scrambles your brains. You leave, confused and tired.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Qualquer que seja esse mecanismo, ele embaralha seu cérebro. Você sai, confuso e cansado.</nodes>
     <nodes xsi:type="NodeChallenge" ID="19" positionX="3503" positionY="-87" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_8M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1044,7 +1044,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />There is nothing but fish and seaweed here.</nodes>
+      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />Não há nada além de peixes e algas aqui.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="857" positionY="-498" width="460" height="589">
       <logic>
         <FilterBlock>
@@ -1067,7 +1067,7 @@
       </logic>
       <outputs name="[Usuário mágico] Tente quebrar essa barreira." ownerID="22" targetID="27" fromX="1961" fromY="-1259" />
       <outputs name="Saia deste lugar. Você não tem usuários mágicos que possam lidar com isso." ownerID="22" targetID="25" fromX="1961" fromY="-1339" />
-      <outputs name="Tente empurrar de qualquer maneira." ownerID="22" targetID="23" fromX="1961" fromY="-1419" />You find a room that is not submerged, but it is guarded by a magical barrier. </nodes>
+      <outputs name="Tente empurrar de qualquer maneira." ownerID="22" targetID="23" fromX="1961" fromY="-1419" />Você encontra uma sala que não está submersa, mas é guardada por uma barreira mágica. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="23" positionX="1526" positionY="-2076" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="90" maxDamage="110" useCountInPercent="true" targetGroup="2">
       <logic>
         <ModifierBlock>
@@ -1120,7 +1120,7 @@
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="28" targetID="83" fromX="2873" fromY="-1885" />You break the spell and are free to loot this chamber, which you believe was once the study of a magic wielder.</nodes>
+      <outputs name="Sair." ownerID="28" targetID="83" fromX="2873" fromY="-1885" />Você quebra o feitiço e está livre para saquear esta câmara, que você acredita ter sido o estudo de um portador de magia.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="29" positionX="3464" positionY="-1248" width="460" height="509" sourceGroup="GROUP-VIHUR_WITCH_3P_3M_3S" cargoPercentage="200">
       <outputs ownerID="29" targetID="30" group="G1" fromX="3894" fromY="-1606" />
       <outputs ownerID="29" targetID="31" group="G1" fromX="3894" fromY="-1686" />
@@ -1164,7 +1164,7 @@
       <outputs ownerID="32" targetID="33" fromX="3896" fromY="-2345" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="4114" positionY="-1938" width="350" height="725">
-      <outputs name="Sair." ownerID="33" targetID="34" fromX="4439" fromY="-2429" />You fail to break the spell, and it harms your spirit.</nodes>
+      <outputs name="Sair." ownerID="33" targetID="34" fromX="4439" fromY="-2429" />Você não consegue quebrar o feitiço, e isso prejudica seu espírito.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="34" positionX="4560" positionY="-1922" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="34" targetID="35" fromX="5008" fromY="-2354" />
     </nodes>
@@ -1205,7 +1205,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="40" targetID="41" fromX="-1648" fromY="213" />You defeat the kraken.</nodes>
+      <outputs name="Sair." ownerID="40" targetID="41" fromX="-1648" fromY="213" />Você derrota o kraken.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="41" positionX="-1436" positionY="-29" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="41" targetID="42" fromX="-987" fromY="-461" />
     </nodes>
@@ -1261,7 +1261,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="47" targetID="48" fromX="-1970" fromY="-2715" />You panic and almost drown as you swim up. You feel ill and scared.</nodes>
+      <outputs name="Sair." ownerID="47" targetID="48" fromX="-1970" fromY="-2715" />Você entra em pânico e quase se afoga ao nadar. Você se sente doente e com medo.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="48" positionX="-2153" positionY="-1649" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="48" targetID="49" fromX="-1704" fromY="-2081" />
     </nodes>
@@ -1282,7 +1282,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="50" targetID="48" fromX="-1578" fromY="-632" />The kraken defeats you and devours one of you before the rest can escape.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="48" fromX="-1578" fromY="-632" />O kraken derrota você e devora um de vocês antes que o resto possa escapar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-748" positionY="-1461" width="350" height="805">
       <outputs name="Saqueie e vá embora." ownerID="51" targetID="52" group="G1" fromX="-422" fromY="-1952" />
       <outputs name="Saqueie e vá embora." ownerID="51" targetID="53" group="G1" fromX="-422" fromY="-2032" />Você nada para o sul e descobre muitas grandes câmaras, parcialmente submersas, que ainda guardam um eco de grandeza. Você mergulha para procurar em uma sala tão magnífica e vê um kraken morto.</nodes>
@@ -1304,7 +1304,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="55" positionX="1142" positionY="-1166" width="350" height="805">
       <outputs name="Ataque!" ownerID="55" targetID="56" fromX="1467" fromY="-1657" />
-      <outputs name="[Usuário de magia] Enfrente-os com magia." ownerID="55" targetID="66" fromX="1467" fromY="-1737" />You enter a partially submerged chamber that is mostly intact, but you quickly realise this place is haunted. The doors shut behind you, and you feel the malevolent presence of dark spirits around you!</nodes>
+      <outputs name="[Usuário de magia] Enfrente-os com magia." ownerID="55" targetID="66" fromX="1467" fromY="-1737" />Você entra em uma câmara parcialmente submersa que está praticamente intacta, mas rapidamente percebe que este lugar é assombrado. As portas se fecham atrás de você e você sente a presença malévola de espíritos sombrios ao seu redor!</nodes>
     <nodes xsi:type="NodeChallenge" ID="56" positionX="997" positionY="-2028" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_WRAITH_6P_5M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="56" targetID="57" fromX="1438" fromY="-2523" />
       <outputs name="Lose" ownerID="56" targetID="63" fromX="1438" fromY="-2603" />
@@ -1313,7 +1313,7 @@
     <nodes xsi:type="NodeAdventure" ID="57" positionX="1500" positionY="-2623" width="350" height="885">
       <outputs name="Saqueie o que puder e vá embora." ownerID="57" targetID="60" fromX="1825" fromY="-3114" />
       <outputs name="Destrua as pinturas." ownerID="57" targetID="58" fromX="1825" fromY="-3194" />
-      <outputs name="[Magic user]These spirits are strong and the paintings are artefacts of great power too, but ones that are best left for the depths of the ocean. Sair." ownerID="57" targetID="59" fromX="1825" fromY="-3274" />You destroy the wraiths, and the chamber releases its hold on you. The spirits that you defeated are drawn into old paintings on the walls. The portraits now look at you with cold hatred, but they seem unable to attack again.</nodes>
+      <outputs name="[Magic user]These spirits are strong and the paintings are artefacts of great power too, but ones that are best left for the depths of the ocean. Sair." ownerID="57" targetID="59" fromX="1825" fromY="-3274" />Você destrói as apariçoes, e a câmara libera seu domínio sobre você. Os espíritos que você derrotou são atraídos para pinturas antigas nas paredes. Os retratos agora olham para você com ódio frio, mas parecem incapazes de atacar novamente.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="58" positionX="1905" positionY="-2977" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="80" maxDamage="100" useCountInPercent="true" targetGroup="1">
       <logic>
         <ModifierBlock>
@@ -1344,12 +1344,12 @@
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="61" positionX="4043" positionY="-3226" width="350" height="530" allPlayersXP="8" allPlayersRP="4" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="62" positionX="1935" positionY="-3551" width="350" height="725">
-      <outputs name="Sair." ownerID="62" targetID="60" fromX="2260" fromY="-4042" />You try to destroy one of the paintings, and its power burns into your very souls instead! You are forced to flee, and the doors to the chamber disappear behind you.</nodes>
+      <outputs name="Sair." ownerID="62" targetID="60" fromX="2260" fromY="-4042" />Você tenta destruir uma das pinturas, e seu poder queima em suas almas! Você é forçado a fugir e as portas da câmara desaparecem atrás de você.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="63" positionX="2967" positionY="-3935" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="40" maxDamage="70" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="63" targetID="64" fromX="3396" fromY="-4323" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="64" positionX="2390" positionY="-4268" width="350" height="725">
-      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />You are defeated and forced to flee. The doors to the chamber disappear behind you.</nodes>
+      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />Você é derrotado e forçado a fugir. The doors to the chamber disappear behind you.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="65" positionX="491" positionY="-3160" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="65" targetID="35" fromX="939" fromY="-3592" />
     </nodes>
@@ -1443,12 +1443,12 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="74" targetID="60" fromX="378" fromY="-3522" />You defeat the sea creatures and gather the loot.</nodes>
+      <outputs name="Sair." ownerID="74" targetID="60" fromX="378" fromY="-3522" />Você derrota as criaturas do mar e coleta o saque.</nodes>
     <nodes xsi:type="NodeAdventure" ID="76" positionX="451" positionY="-3709" width="350" height="725">
-      <outputs name="Sair." ownerID="76" targetID="65" fromX="776" fromY="-4200" />You are defeated and forced to flee.</nodes>
+      <outputs name="Sair." ownerID="76" targetID="65" fromX="776" fromY="-4200" />Você é derrotado e forçado a fugir.</nodes>
     <nodes xsi:type="NodeAdventure" ID="77" positionX="-280" positionY="-2037" width="350" height="805">
       <outputs name="Ataque!" ownerID="77" targetID="78" fromX="45" fromY="-2528" />
-      <outputs name="Sair." ownerID="77" targetID="70" fromX="45" fromY="-2608" />You discover that the ruins have become a nest of czytlica. Some of them swim nearby, along with corpses of many warriors who were perhaps lured here by a song of sea demons.</nodes>
+      <outputs name="Sair." ownerID="77" targetID="70" fromX="45" fromY="-2608" />Você descobre que as ruínas se tornaram um ninho de czytlica. Alguns deles nadam nas proximidades, junto com cadáveres de muitos guerreiros que talvez tenham sido atraídos para cá por uma canção de demônios do mar.</nodes>
     <nodes xsi:type="NodeChallenge" ID="78" positionX="-1525" positionY="-3035" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_SEA_DEMONS_MIX_8P_7M_7S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="78" targetID="80" fromX="-1083" fromY="-3530" />
       <outputs name="Lose" ownerID="78" targetID="76" fromX="-1083" fromY="-3610" />
@@ -1471,7 +1471,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="79" targetID="60" fromX="-534" fromY="-3497" />You defeat the sea creatures and gather the loot.</nodes>
+      <outputs name="Sair." ownerID="79" targetID="60" fromX="-534" fromY="-3497" />Você derrota as criaturas do mar e coleta o saque.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="80" positionX="-486" positionY="-3781" width="460" height="429" sourceGroup="GROUP-ELVES_6P_6M_5S" cargoPercentage="100">
       <outputs ownerID="80" targetID="79" fromX="-55" fromY="-4139" />
     </nodes>
@@ -1515,7 +1515,7 @@
       <outputs name="Procure na área leste." ownerID="2" targetID="21" fromX="740" fromY="-882" />
       <outputs name="Nade para as partes ocidentais." ownerID="2" targetID="68" fromX="740" fromY="-962" />
       <outputs name="Investigue a zona sul." ownerID="2" targetID="36" fromX="740" fromY="-1042" />
-      <outputs name="Sair." ownerID="2" targetID="70" fromX="740" fromY="-1122" />You find the remains of an ancient structure, likely unearthed by the Shattering.</nodes>
+      <outputs name="Sair." ownerID="2" targetID="70" fromX="740" fromY="-1122" />Você encontra os restos de uma estrutura antiga, provavelmente desenterrada pelo Shattering.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="3" positionX="852" positionY="126" width="460" height="589">
       <logic>
         <FilterBlock>
@@ -1557,7 +1557,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="6" targetID="10" fromX="3268" fromY="785" />You discover the treasure and find your way back up.</nodes>
+      <outputs name="Sair." ownerID="6" targetID="10" fromX="3268" fromY="785" />Você descobre o tesouro e encontra o caminho de volta.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="2875" positionY="501" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="60" maxDamage="80" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="7" targetID="8" fromX="3304" fromY="112" />
     </nodes>
@@ -1569,7 +1569,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />It is too dark, and you barely find your way back up.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="11" fromX="3770" fromY="225" />Está muito escuro e você mal encontra o caminho de volta.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="4082" positionY="1419" width="350" height="530" allPlayersXP="10" allPlayersRP="6" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeSpawnOnMap" ID="10" positionX="3423" positionY="1315" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="10" targetID="9" fromX="3871" fromY="882" />
@@ -1592,7 +1592,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="1864" positionY="86" width="350" height="805">
       <outputs name="[Craft] Tente descobrir o mecanismo." ownerID="14" targetID="15" group="G1" fromX="2189" fromY="-405" />
-      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />You find a vault, locked by an old mechanism that defies decay - and likely brawn too. </nodes>
+      <outputs name="Tente descobrir o mecanismo." ownerID="14" targetID="19" group="G1" fromX="2189" fromY="-485" />Você encontra um cofre, trancado por um mecanismo antigo que desafia a decadência - e provavelmente também músculos. </nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="2824" positionY="0" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_10M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1619,7 +1619,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />You work out the mechanism and get into the vault. Although the structure is very durable, much of the contents have been either taken or destroyed. Still, you find some things that may be of use.</nodes>
+      <outputs name="Sair." ownerID="16" targetID="10" fromX="5324" fromY="-419" />Você trabalha o mecanismo e entra no cofre. Embora a estrutura seja muito durável, grande parte do conteúdo foi levado ou destruído. Ainda assim, você encontra algumas coisas que podem ser úteis.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="3913" positionY="-224" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="70" maxDamage="90" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="17" targetID="18" fromX="4342" fromY="-612" />
     </nodes>
@@ -1631,7 +1631,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Whatever this mechanism is, it scrambles your brains. You leave, confused and tired.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="11" fromX="5846" fromY="-622" />Qualquer que seja esse mecanismo, ele embaralha seu cérebro. Você sai, confuso e cansado.</nodes>
     <nodes xsi:type="NodeChallenge" ID="19" positionX="3382" positionY="-55" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_11M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1660,7 +1660,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />There is nothing but fish and seaweed here.</nodes>
+      <outputs name="Sair." ownerID="20" targetID="10" fromX="2564" fromY="-1121" />Não há nada além de peixes e algas aqui.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="21" positionX="857" positionY="-498" width="460" height="589">
       <logic>
         <FilterBlock>
@@ -1676,7 +1676,7 @@
     <nodes xsi:type="NodeAdventure" ID="22" positionX="1636" positionY="-768" width="350" height="885">
       <outputs name="[Usuário mágico] Tente quebrar essa barreira." ownerID="22" targetID="27" fromX="1961" fromY="-1259" />
       <outputs name="Saia deste lugar. Você não tem usuários mágicos que possam lidar com isso." ownerID="22" targetID="25" fromX="1961" fromY="-1339" />
-      <outputs name="Tente empurrar de qualquer maneira." ownerID="22" targetID="23" fromX="1961" fromY="-1419" />You find a room that is not submerged, but it is guarded by a magical barrier. </nodes>
+      <outputs name="Tente empurrar de qualquer maneira." ownerID="22" targetID="23" fromX="1961" fromY="-1419" />Você encontra uma sala que não está submersa, mas é guardada por uma barreira mágica. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="23" positionX="1526" positionY="-2076" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="90" maxDamage="110" useCountInPercent="true" targetGroup="2">
       <logic>
         <ModifierBlock>
@@ -1729,7 +1729,7 @@
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="28" targetID="84" fromX="2948" fromY="-1773" />You break the spell and are free to loot this chamber, which you believe was once the study of a magic wielder.</nodes>
+      <outputs name="Sair." ownerID="28" targetID="84" fromX="2948" fromY="-1773" />Você quebra o feitiço e está livre para saquear esta câmara, que você acredita ter sido o estudo de um portador de magia.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="29" positionX="3744" positionY="-992" width="460" height="509" sourceGroup="GROUP-DRAGON_ZMEYS_11P_12M_11S" cargoPercentage="200" dropPercentage="100">
       <outputs ownerID="29" targetID="30" group="G1" fromX="4174" fromY="-1350" />
       <outputs ownerID="29" targetID="31" group="G1" fromX="4174" fromY="-1430" />
@@ -1770,7 +1770,7 @@
       <outputs ownerID="32" targetID="33" fromX="3981" fromY="-2344" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="4114" positionY="-1938" width="350" height="725">
-      <outputs name="Sair." ownerID="33" targetID="34" fromX="4439" fromY="-2429" />You fail to break the spell, and it harms your spirit.</nodes>
+      <outputs name="Sair." ownerID="33" targetID="34" fromX="4439" fromY="-2429" />Você não consegue quebrar o feitiço, e isso prejudica seu espírito.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="34" positionX="4560" positionY="-1922" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="34" targetID="35" fromX="5008" fromY="-2354" />
     </nodes>
@@ -1811,7 +1811,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="40" targetID="41" fromX="-1648" fromY="213" />You defeat the kraken.</nodes>
+      <outputs name="Sair." ownerID="40" targetID="41" fromX="-1648" fromY="213" />Você derrota o kraken.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="41" positionX="-1436" positionY="-29" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="41" targetID="42" fromX="-987" fromY="-461" />
     </nodes>
@@ -1867,7 +1867,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="47" targetID="48" fromX="-1970" fromY="-2715" />You panic and almost drown as you swim up. You feel ill and scared.</nodes>
+      <outputs name="Sair." ownerID="47" targetID="48" fromX="-1970" fromY="-2715" />Você entra em pânico e quase se afoga ao nadar. Você se sente doente e com medo.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="48" positionX="-2153" positionY="-1649" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="48" targetID="49" fromX="-1704" fromY="-2081" />
     </nodes>
@@ -1888,7 +1888,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="50" targetID="48" fromX="-1642" fromY="-548" />The kraken defeats you and devours one of you before the rest can escape.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="48" fromX="-1642" fromY="-548" />O kraken derrota você e devora um de vocês antes que o resto possa escapar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-748" positionY="-1461" width="350" height="805">
       <outputs name="Saqueie e vá embora." ownerID="51" targetID="52" group="G1" fromX="-422" fromY="-1952" />
       <outputs name="Saqueie e vá embora." ownerID="51" targetID="53" group="G1" fromX="-422" fromY="-2032" />Você nada para o sul e descobre muitas grandes câmaras, parcialmente submersas, que ainda guardam um eco de grandeza. Você mergulha para procurar em uma sala tão magnífica e vê um kraken morto.</nodes>
@@ -1910,7 +1910,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="55" positionX="1142" positionY="-1166" width="350" height="805">
       <outputs name="Ataque!" ownerID="55" targetID="56" fromX="1467" fromY="-1657" />
-      <outputs name="[Usuário de magia] Enfrente-os com magia." ownerID="55" targetID="66" fromX="1467" fromY="-1737" />You enter a partially submerged chamber that is mostly intact, but you quickly realise this place is unclean. The doors shut behind you, and you feel the malevolent presence of the unliving around you!</nodes>
+      <outputs name="[Usuário de magia] Enfrente-os com magia." ownerID="55" targetID="66" fromX="1467" fromY="-1737" />Você entra em uma câmara parcialmente submersa que está praticamente intacta, mas logo percebe que esse lugar é impuro. As portas se fecham atrás de você, e você sente a presença malévola do não-vivo ao seu redor!</nodes>
     <nodes xsi:type="NodeChallenge" ID="56" positionX="856" positionY="-1986" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-UNLI_DRAGONS_10P_11M_10S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="56" targetID="57" fromX="1297" fromY="-2481" />
       <outputs name="Lose" ownerID="56" targetID="63" fromX="1297" fromY="-2561" />
@@ -1919,7 +1919,7 @@
     <nodes xsi:type="NodeAdventure" ID="57" positionX="1491" positionY="-2575" width="350" height="885">
       <outputs name="Saqueie o que puder e vá embora." ownerID="57" targetID="60" fromX="1816" fromY="-3066" />
       <outputs name="Destrua as pinturas." ownerID="57" targetID="58" fromX="1816" fromY="-3146" />
-      <outputs name="[Magic user]These spirits are strong and the paintings are artefacts of great power too, but ones that are best left for the depths of the ocean. Sair." ownerID="57" targetID="59" fromX="1816" fromY="-3226" />You destroy the unliving, and the chamber releases its hold on you. The spirits that you defeated are drawn into old paintings on the walls. The portraits now look at you with cold hatred, but they seem unable to attack again.</nodes>
+      <outputs name="[Magic user]These spirits are strong and the paintings are artefacts of great power too, but ones that are best left for the depths of the ocean. Sair." ownerID="57" targetID="59" fromX="1816" fromY="-3226" />Você destrói o não-vivo, e a câmara libera seu domínio sobre você. Os espíritos que você derrotou são atraídos para pinturas antigas nas paredes. Os retratos agora olham para você com ódio frio, mas parecem incapazes de atacar novamente.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="58" positionX="1865" positionY="-2954" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="80" maxDamage="100" useCountInPercent="true" targetGroup="1">
       <logic>
         <ModifierBlock>
@@ -1950,12 +1950,12 @@
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="61" positionX="4043" positionY="-3226" width="350" height="530" allPlayersXP="10" allPlayersRP="6" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="62" positionX="1869" positionY="-3696" width="350" height="725">
-      <outputs name="Sair." ownerID="62" targetID="60" fromX="2194" fromY="-4187" />You try to destroy one of the paintings, and its power burns into your very souls instead! You are forced to flee, and the doors to the chamber disappear behind you.</nodes>
+      <outputs name="Sair." ownerID="62" targetID="60" fromX="2194" fromY="-4187" />Você tenta destruir uma das pinturas, e seu poder queima em suas almas! Você é forçado a fugir e as portas da câmara desaparecem atrás de você.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="63" positionX="2955" positionY="-3867" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="50" maxDamage="80" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="63" targetID="64" fromX="3384" fromY="-4255" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="64" positionX="2390" positionY="-4268" width="350" height="725">
-      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />You are defeated and forced to flee. The doors to the chamber disappear behind you.</nodes>
+      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />Você é derrotado e forçado a fugir. The doors to the chamber disappear behind you.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="65" positionX="449" positionY="-3034" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="65" targetID="35" fromX="897" fromY="-3466" />
     </nodes>
@@ -2049,12 +2049,12 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="74" targetID="60" fromX="378" fromY="-3522" />You defeat the sea creatures and gather the loot.</nodes>
+      <outputs name="Sair." ownerID="74" targetID="60" fromX="378" fromY="-3522" />Você derrota as criaturas do mar e coleta o saque.</nodes>
     <nodes xsi:type="NodeAdventure" ID="76" positionX="457" positionY="-3554" width="350" height="725">
-      <outputs name="Sair." ownerID="76" targetID="65" fromX="782" fromY="-4045" />You are defeated and forced to flee.</nodes>
+      <outputs name="Sair." ownerID="76" targetID="65" fromX="782" fromY="-4045" />Você é derrotado e forçado a fugir.</nodes>
     <nodes xsi:type="NodeAdventure" ID="77" positionX="-280" positionY="-2037" width="350" height="805">
       <outputs name="Ataque!" ownerID="77" targetID="78" fromX="45" fromY="-2528" />
-      <outputs name="Sair." ownerID="77" targetID="70" fromX="45" fromY="-2608" />You discover that the ruins have become a nest of czytlica. Some of them swim nearby, along with corpses of many warriors who were perhaps lured here by a song of sea demons.</nodes>
+      <outputs name="Sair." ownerID="77" targetID="70" fromX="45" fromY="-2608" />Você descobre que as ruínas se tornaram um ninho de czytlica. Alguns deles nadam nas proximidades, junto com cadáveres de muitos guerreiros que talvez tenham sido atraídos para cá por uma canção de demônios do mar.</nodes>
     <nodes xsi:type="NodeChallenge" ID="78" positionX="-1400" positionY="-3054" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_SEA_DEMONS_MIX_8P_7M_7S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="78" targetID="80" fromX="-958" fromY="-3549" />
       <outputs name="Lose" ownerID="78" targetID="76" fromX="-958" fromY="-3629" />
@@ -2077,7 +2077,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="79" targetID="60" fromX="-551" fromY="-3546" />You defeat the sea creatures and gather the loot.</nodes>
+      <outputs name="Sair." ownerID="79" targetID="60" fromX="-551" fromY="-3546" />Você derrota as criaturas do mar e coleta o saque.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="80" positionX="-486" positionY="-3781" width="460" height="429" sourceGroup="GROUP-ELVES_6P_6M_5S" cargoPercentage="100">
       <outputs ownerID="80" targetID="79" fromX="-55" fromY="-4139" />
     </nodes>

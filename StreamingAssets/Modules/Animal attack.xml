@@ -8,7 +8,7 @@
       <outputs name="Veja o que está acontecendo." ownerID="2" targetID="5" group="G1" fromX="970" fromY="-617" />
       <outputs name="Veja o que está acontecendo." ownerID="2" targetID="3" group="G1" fromX="970" fromY="-697" />
       <outputs name="Veja o que está acontecendo." ownerID="2" targetID="4" group="G1" fromX="970" fromY="-777" />
-      <outputs name="Veja o que está acontecendo." ownerID="2" targetID="7" group="G1" fromX="970" fromY="-857" />Your journey is interrupted.</nodes>
+      <outputs name="Veja o que está acontecendo." ownerID="2" targetID="7" group="G1" fromX="970" fromY="-857" />Sua jornada é interrompida.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1514" positionY="12" width="350" height="455" linkedEventUniqueID="3">
       <logic>
         <FilterBlock>
@@ -75,7 +75,7 @@
       <outputs name="[Hunter] Encontre um caminho seguro." ownerID="2" targetID="7" group="G1" fromX="942" fromY="-86" />
       <outputs name="Encontre um caminho alternativo." ownerID="2" targetID="30" group="G1" fromX="942" fromY="-166" />
       <outputs name="Encontre um caminho alternativo." ownerID="2" targetID="13" group="G1" fromX="942" fromY="-246" />
-      <outputs name="Deixe por completo." ownerID="2" targetID="33" fromX="942" fromY="-326" />As you cross the woodland in search of good resources, you notice that the trees are covered in thick cobwebs.</nodes>
+      <outputs name="Deixe por completo." ownerID="2" targetID="33" fromX="942" fromY="-326" />Ao atravessar a floresta em busca de bons recursos, você percebe que as árvores estão cobertas de grossas teias de aranha.</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="1387.29578" positionY="822.834" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-SPIDERS_2P_1M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="9" fromX="1828" fromY="327" />
       <outputs name="Lose" ownerID="3" targetID="16" fromX="1828" fromY="247" />
@@ -93,7 +93,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Mantenha-se fiel ao seu caminho e ataque!" ownerID="4" targetID="22" fromX="1780" fromY="-625" />
-      <outputs name="Na verdade não. Sair." ownerID="4" targetID="23" fromX="1780" fromY="-705" />A spider queen stands in your way, be it by chance or fate -- both lie within your domain's reach. 
+      <outputs name="Na verdade não. Sair." ownerID="4" targetID="23" fromX="1780" fromY="-705" />Uma rainha aranha está no seu caminho, seja por acaso ou destino - ambos estão ao alcance de seu domínio. 
  </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1572.26025" positionY="-974.075256" width="350" height="725">
       <logic>
@@ -140,7 +140,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="9" targetID="28" fromX="2499" fromY="-326" />You fight your way through the spiderwebs and find some dead bodies of those who were not so lucky. Eventually, you reach the grove where you look for the resources. </nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="9" targetID="28" fromX="2499" fromY="-326" />Você luta contra as teias de aranha e encontra alguns cadáveres daqueles que não tiveram tanta sorte. Eventualmente, você chega ao bosque onde procura os recursos. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="1120.70337" positionY="-1447.22607" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -172,7 +172,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="15" targetID="34" fromX="-640" fromY="-873" />The spiders are dead. You find the remains of some unfortunate souls taken by the beasts.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="15" targetID="34" fromX="-640" fromY="-873" />As aranhas estão mortas. Você encontra os restos de algumas almas infelizes levadas pelas feras.</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="-1455.35645" positionY="-1206.39868" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -181,7 +181,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="16" targetID="18" fromX="-1129" fromY="-1697" />The spiders beat you badly and force you to flee. Nasty spider bites linger as you run.</nodes>
+      <outputs name="Sair." ownerID="16" targetID="18" fromX="-1129" fromY="-1697" />As aranhas batem em você e o forçam a fugir. Picadas de aranha desagradáveis permanecem enquanto você corre.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="-957.286" positionY="-2037.01624" width="350" height="408" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="19" positionX="-310.4386" positionY="-1380.55066" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_2M_0S" challengeScale="101" challengedList="ppl">
       <logic>
@@ -267,7 +267,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Junte o que puder e vá embora." ownerID="31" targetID="28" fromX="1221" fromY="-2377" />The trap works well. Some spiders lie dead, and the others run off. You find the remains of some unfortunate souls taken by the beasts.</nodes>
+      <outputs name="Junte o que puder e vá embora." ownerID="31" targetID="28" fromX="1221" fromY="-2377" />A armadilha funciona bem. Algumas aranhas estão mortas e outras fogem. Você encontra os restos de algumas almas infelizes levadas pelas feras.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="32" positionX="323.507935" positionY="-1755.84985" width="460" height="429" sourceGroup="GROUP-SPIDERS_2P_1M_0S" cargoPercentage="60" dropPercentage="60" targetGroup="ppl">
       <outputs ownerID="32" targetID="31" fromX="753" fromY="-2114" />
     </nodes>
@@ -309,7 +309,7 @@
       <outputs name="Fique firme e lute!" ownerID="2" targetID="6" fromX="824" fromY="-779" />
       <outputs name="[Hunter] Monte uma armadilha para lobos." ownerID="2" targetID="5" fromX="824" fromY="-860" />
       <outputs name="Fugir." ownerID="2" targetID="7" group="G1" fromX="824" fromY="-940" />
-      <outputs name="Fugir." ownerID="2" targetID="8" group="G1" fromX="824" fromY="-1020" />As night falls, you hear the howling of wolves likely out on the prowl.</nodes>
+      <outputs name="Fugir." ownerID="2" targetID="8" group="G1" fromX="824" fromY="-1020" />À medida que a noite cai, você ouve o uivo de lobos provavelmente à espreita.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="969.5077" positionY="591.3769" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -375,7 +375,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Ataque!" ownerID="5" targetID="11" fromX="1801" fromY="-1326" />
-      <outputs name="Leve os lobos para uma armadilha." ownerID="5" targetID="12" fromX="1801" fromY="-1406" />The hunted becomes the hunter as you stalk the wolf pack quietly. You pick off a few stragglers, so the pack should be easier to deal with now.</nodes>
+      <outputs name="Leve os lobos para uma armadilha." ownerID="5" targetID="12" fromX="1801" fromY="-1406" />O caçado se torna o caçador enquanto você persegue o bando de lobos silenciosamente. Você pega alguns retardatários, então o bando deve ser mais fácil de lidar agora.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="2055.954" positionY="-774.1932" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-WOLVES_STARVING_2P_1M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="28" group="G1" fromX="2497" fromY="-1269" />
       <outputs name="Lose" ownerID="6" targetID="15" fromX="2497" fromY="-1349" />
@@ -404,7 +404,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Run.&#xD;&#xA;" ownerID="7" targetID="8" fromX="1369" fromY="-1474" />The wolves are gaining on you, so you are forced to drop some of your food to escape.</nodes>
+      <outputs name="Run.&#xD;&#xA;" ownerID="7" targetID="8" fromX="1369" fromY="-1474" />Os lobos estão se aproximando de você, então você é forçado a deixar cair um pouco de sua comida para escapar.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="598.8051" positionY="-1399.46118" width="350" height="408" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="9" positionX="1413.785" positionY="675.7581" width="350" height="455" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="3687.459" positionY="-76.43485" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
@@ -429,7 +429,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="15" targetID="16" fromX="3381" fromY="-1822" />The wolves beat you badly and force you to flee. Some of your wounds become infected.</nodes>
+      <outputs name="Sair." ownerID="15" targetID="16" fromX="3381" fromY="-1822" />Os lobos batem em você e o forçam a fugir. Algumas de suas feridas infeccionaram.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="3484.60669" positionY="-1407.3584" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeProduceDrop" ID="19" positionX="2378" positionY="-2497" width="460" height="429" dropPercentage="80">
       <logic>
@@ -479,7 +479,7 @@
       </logic>
       <outputs name="Sair." ownerID="23" targetID="9" fromX="2706" fromY="-134" />Sua presença grita domínio na noite, e os lobos seguem sua vontade. Eles também abandonam a presa que já capturaram. </nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="3265.79688" positionY="176.689819" width="350" height="725">
-      <outputs name="Sair." ownerID="24" targetID="10" fromX="3591" fromY="-314" />You fail to dominate the pack and they chase you off their hunting ground, wounded but not dead.</nodes>
+      <outputs name="Sair." ownerID="24" targetID="10" fromX="3591" fromY="-314" />Você não consegue dominar o bando e eles o expulsam do campo de caça, ferido, mas não morto.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="25" positionX="2686.107" positionY="-445.590942" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="20" useCountInPercent="true" targetGroup="wolf">
       <outputs ownerID="25" targetID="24" fromX="3115" fromY="-833" />
     </nodes>
@@ -554,7 +554,7 @@
       <outputs name="[Hunter] Uma mamãe javali certamente está por perto. Coloque uma armadilha para separar o bando e caçar apenas um lote menor." ownerID="2" targetID="6" fromX="586" fromY="-857" />
       <outputs name="Aproxime-se para tentar capturar os leitoes." ownerID="2" targetID="10" group="G1" fromX="586" fromY="-937" />
       <outputs name="Aproxime-se para tentar capturar os leitoes." ownerID="2" targetID="36" group="G1" fromX="586" fromY="-1017" />
-      <outputs name="Sair." ownerID="2" targetID="14" fromX="586" fromY="-1097" />As you cross the woodland, you come across some wild piglets. </nodes>
+      <outputs name="Sair." ownerID="2" targetID="14" fromX="586" fromY="-1097" />Ao atravessar a floresta, você encontra alguns leitoes selvagens. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="407.651154" positionY="788.436646" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -580,7 +580,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="5" targetID="9" fromX="1887" fromY="-449" />You lure away a strong piglet and train it to become your very own boar.</nodes>
+      <outputs name="Sair." ownerID="5" targetID="9" fromX="1887" fromY="-449" />Você atrai um leitão forte e o treina para se tornar seu próprio javali.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="1515.55225" positionY="-688.1881" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-BOARS_1P_1M_0S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -667,7 +667,7 @@
       <outputs name="Surrender" ownerID="26" targetID="27" fromX="2039" fromY="984" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="2609.78735" positionY="1340.59937" width="350" height="725">
-      <outputs name="Sair." ownerID="27" targetID="22" fromX="2935" fromY="849" />The boars beat you badly and force you to flee.</nodes>
+      <outputs name="Sair." ownerID="27" targetID="22" fromX="2935" fromY="849" />Os javalis batem em você e o forçam a fugir.</nodes>
     <nodes xsi:type="NodeChallenge" ID="28" positionX="1638.91248" positionY="886.8775" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-BOARS_2P_1M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="28" targetID="29" fromX="2080" fromY="391" />
       <outputs name="Lose" ownerID="28" targetID="27" fromX="2080" fromY="311" />
@@ -717,7 +717,7 @@
       <outputs name="Surrender" ownerID="31" targetID="23" fromX="1140" fromY="-848" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="2524.243" positionY="60.9949646" width="350" height="725">
-      <outputs name="Sair." ownerID="32" targetID="22" fromX="2849" fromY="-430" />No matter how hard you try, those little piglets are determined to stick together, close to their mother. You're worn out when you hear the grunts of the old boar and are forced to back away.</nodes>
+      <outputs name="Sair." ownerID="32" targetID="22" fromX="2849" fromY="-430" />Não importa o quanto você tente, esses porquinhos estão determinados a ficar juntos, perto de sua mãe. Você está exausto quando ouve os grunhidos do velho javali e é forçado a recuar.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="33" positionX="2197.57837" positionY="-836.1363" width="460" height="429" sourceGroup="GROUP-BOARS_1P_1M_0S" dropPercentage="100" targetGroup="ppl">
       <logic>
         <ModifierBlock>
@@ -763,7 +763,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Sair." ownerID="38" targetID="39" group="G1" fromX="3578" fromY="-1131" />
-      <outputs name="Sair." ownerID="38" targetID="40" group="G1" fromX="3578" fromY="-1211" />It is harmful to the herd to kill piglets or the mother, so you feel the burden of your disrespect for nature.</nodes>
+      <outputs name="Sair." ownerID="38" targetID="40" group="G1" fromX="3578" fromY="-1211" />É prejudicial para o rebanho matar leitoes ou a mãe, então você sente o peso de seu desrespeito à natureza.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="39" positionX="3685.353" positionY="-539.0975" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="20" maxDamage="35" useCountInPercent="true" targetGroup="ppl">
       <logic>
         <FilterBlock>
@@ -818,7 +818,7 @@
       <outputs name="Escoteiro à frente." ownerID="2" targetID="24" group="G1" fromX="770" fromY="-452" />
       <outputs name="Escoteiro à frente." ownerID="2" targetID="4" group="G1" fromX="770" fromY="-532" />
       <outputs name="Prepare-se para o que quer que seja." ownerID="2" targetID="5" fromX="770" fromY="-612" />
-      <outputs name="Fugir." ownerID="2" targetID="3" fromX="770" fromY="-692" />You see a dark cloud approaching at an oddly high speed.</nodes>
+      <outputs name="Fugir." ownerID="2" targetID="3" fromX="770" fromY="-692" />Você vê uma nuvem escura se aproximando a uma velocidade estranhamente alta.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-20" positionY="-841" width="350" height="455" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1359.3761" positionY="677.0692" width="350" height="885">
       <logic>
@@ -845,11 +845,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Lutar!" ownerID="5" targetID="6" fromX="1252" fromY="-1078" />A flock of crows descends upon you, but they are not behaving naturally. 
-
-They do not follow wind currents, instead moving through the sky like an ugly hammer, nor do they communicate with one another, instead flying in eerie silence. Their typically beady black eyes emit a dull white glow. 
-
-You feel a curse take you even before they attack.</nodes>
+      <outputs name="Lutar!" ownerID="5" targetID="6" fromX="1252" fromY="-1078" />Um bando de corvos desce sobre você, mas eles não estão se comportando naturalmente. Eles não seguem as correntes do vento, movendo-se pelo céu como um martelo feio, nem se comunicam entre si, voando em um silêncio assustador. Seus olhos pretos tipicamente redondos emitem um brilho branco maçante. Você sente uma maldição levá-lo antes mesmo de atacar.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="1428.15637" positionY="-732.2353" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-CROW_2P_2M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="22" fromX="1869" fromY="-1227" />
       <outputs name="Lose" ownerID="6" targetID="11" fromX="1869" fromY="-1307" />
@@ -893,7 +889,7 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Fugir." ownerID="11" targetID="12" fromX="2771" fromY="-1121" />The birds beat you badly and force you to flee, but strangely, they also wound your spirit. A heavy white light tangles your souls and does not let go easily.</nodes>
+      <outputs name="Fugir." ownerID="11" targetID="12" fromX="2771" fromY="-1121" />Os pássaros batem em você e o forçam a fugir, mas, estranhamente, eles também ferem seu espírito. Uma pesada luz branca emaranha suas almas e não se solta facilmente.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="2857.2002" positionY="-1090.29138" width="350" height="455" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="16" positionX="3081.874" positionY="-144.786545" width="350" height="725">
       <logic>
@@ -918,7 +914,7 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="10" fromX="3378" fromY="96" />You banish whatever force holds these crows. Some of the birds fall dead at your feet, while others fly away, confused. And some may want to stay with you.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="10" fromX="3378" fromY="96" />Você bane qualquer força que segure esses corvos. Alguns dos pássaros caem mortos aos seus pés, enquanto outros voam, confusos. E alguns podem querer ficar com você.</nodes>
     <nodes xsi:type="NodeChallenge" ID="21" positionX="1819" positionY="620" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_1S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -965,7 +961,7 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="22" targetID="10" fromX="2324" fromY="-1722" />You defeat the odd birds, and as their bodies fall, some of them burn out from the inside, while others that survived look confused and dazed. And some may want to stay with you.
+      <outputs name="Sair." ownerID="22" targetID="10" fromX="2324" fromY="-1722" />Você derrota os pássaros estranhos e, à medida que seus corpos caem, alguns deles queimam por dentro, enquanto outros que sobreviveram parecem confusos e atordoados. E alguns podem querer ficar com você.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="2128.40039" positionY="1701.58911" width="350" height="725">
       <logic>
@@ -981,7 +977,7 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="23" targetID="10" fromX="2454" fromY="1210" /> You defeat the odd birds, and as their bodies fall, some of them burn out from the inside, while others that survived look confused and dazed. And some may want to stay with you.
+      <outputs name="Sair." ownerID="23" targetID="10" fromX="2454" fromY="1210" /> Você derrota os pássaros estranhos e, à medida que seus corpos caem, alguns deles queimam por dentro, enquanto outros que sobreviveram parecem confusos e atordoados. E alguns podem querer ficar com você.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="901.752258" positionY="724.395935" width="350" height="966">
       <logic>
@@ -1026,7 +1022,7 @@ You feel a curse take you even before they attack.</nodes>
       <outputs name="Envie os cães e gatos para lidar com esse incômodo." ownerID="2" targetID="23" fromX="730" fromY="-547" />
       <outputs name="[Sabedoria] Você conhece um truque ou dois quando se trata de ratos. Afaste-os." ownerID="2" targetID="8" fromX="730" fromY="-627" />
       <outputs name="[Rat] Diga aos seus companheiros vermes que você está aqui apenas para dizer oi, e deixe-os em paz." ownerID="2" targetID="22" fromX="730" fromY="-707" />
-      <outputs name="Tente subir de volta rapidamente." ownerID="2" targetID="4" fromX="730" fromY="-787" />You fall into an underground tunnel and realise it is a nest filled with bones, excrement, and rats, plenty of rats.</nodes>
+      <outputs name="Tente subir de volta rapidamente." ownerID="2" targetID="4" fromX="730" fromY="-787" />Você cai em um túnel subterrâneo e percebe que é um ninho cheio de ossos, excrementos e ratos, muitos ratos.</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="813" positionY="637" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-RATS_1P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="12" fromX="1254" fromY="141" />
       <outputs name="Lose" ownerID="3" targetID="18" fromX="1254" fromY="61" />
@@ -1075,7 +1071,7 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="12" targetID="25" fromX="1708" fromY="407" />You clear this nest and find the remains of a lone adventurer holding a flute. Clearly, he did not know his rat tunes.</nodes>
+      <outputs name="Sair." ownerID="12" targetID="25" fromX="1708" fromY="407" />Você limpa este ninho e encontra os restos de um aventureiro solitário segurando uma flauta. Claramente, ele não conhecia suas melodias de rato.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="3415.65723" positionY="-1011.07654" width="350" height="455" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="15" positionX="2359" positionY="-653" width="350" height="455" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -1100,7 +1096,7 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="18" targetID="19" fromX="2258" fromY="-268" />The rats swarm you and force you to flee.  You suffer a few infected bites on your way up.</nodes>
+      <outputs name="Sair." ownerID="18" targetID="19" fromX="2258" fromY="-268" />Os ratos o cercam e o forçam a fugir. Você sofre algumas mordidas infectadas no seu caminho para cima.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="19" positionX="2377.38062" positionY="145.289352" width="350" height="455" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="2458" positionY="-1915" width="350" height="455" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -1140,7 +1136,7 @@ You feel a curse take you even before they attack.</nodes>
       </logic>
       <outputs name="Tente treiná-lo." ownerID="21" targetID="20" group="G1" fromX="2236" fromY="-2283" />
       <outputs name="Tente treiná-lo." ownerID="21" targetID="9" group="G1" fromX="2236" fromY="-2363" />
-      <outputs name="Mate-o e vá embora." ownerID="21" targetID="13" fromX="2236" fromY="-2443" />You notice a young rat stayed behind and is hovering nearby. Perhaps it could be trained, but it could also be rabid, and you'll get ill.</nodes>
+      <outputs name="Mate-o e vá embora." ownerID="21" targetID="13" fromX="2236" fromY="-2443" />Você percebe que um jovem rato ficou para trás e está pairando nas proximidades. Talvez possa ser treinado, mas também pode ser raivoso, e você ficará doente.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="296" positionY="-1063" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1160,7 +1156,7 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="22" targetID="13" fromX="621" fromY="-1554" />The rats nod and let you leave without trouble. You even get a gift from them. </nodes>
+      <outputs name="Sair." ownerID="22" targetID="13" fromX="621" fromY="-1554" />Os ratos acenam com a cabeça e deixam você sair sem problemas. Você ainda recebe um presente deles. </nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="827.609" positionY="-124.351532" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1178,7 +1174,7 @@ You feel a curse take you even before they attack.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Reúna o que puder e suba de volta." ownerID="23" targetID="24" fromX="1153" fromY="-615" />Your pets go in and do their business clearing the nest of vermin. </nodes>
+      <outputs name="Reúna o que puder e suba de volta." ownerID="23" targetID="24" fromX="1153" fromY="-615" />Seus animais de estimação entram e fazem seus negócios limpando o ninho de vermes. </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="24" positionX="1211.37183" positionY="-169.499771" width="460" height="429" sourceGroup="GROUP-RATS_1P_1M_1S" dropPercentage="100" targetGroup="ppl">
       <outputs ownerID="24" targetID="13" fromX="1641" fromY="-527" />
     </nodes>
@@ -1206,7 +1202,7 @@ You feel a curse take you even before they attack.</nodes>
       <outputs name="[Druida] Peça às abelhas o prazer de seu mel." ownerID="2" targetID="4" fromX="746" fromY="-604" />
       <outputs name="Ataque!" ownerID="2" targetID="5" fromX="746" fromY="-684" />
       <outputs name="[Caçadores e coletores] Você sabe como fumar esses ferroes para poder saquear a colmeia." ownerID="2" targetID="8" fromX="746" fromY="-764" />
-      <outputs name="Dê a volta na colmeia e vá embora." ownerID="2" targetID="7" fromX="746" fromY="-844" />As you cross the plains, you spot a busy beehive full of honey and nectar. It could be very nutritious, perhaps even cure some wounds. </nodes>
+      <outputs name="Dê a volta na colmeia e vá embora." ownerID="2" targetID="7" fromX="746" fromY="-844" />Ao cruzar as planícies, você avista uma colméia ocupada cheia de mel e néctar. Pode ser muito nutritivo, talvez até curar algumas feridas. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="465.685181" positionY="899.1871" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -1234,7 +1230,7 @@ You feel a curse take you even before they attack.</nodes>
       </logic>
       <outputs name="Beba o néctar e o mel." ownerID="4" targetID="31" group="G1" fromX="1580" fromY="-470" />
       <outputs name="Beba o néctar e o mel." ownerID="4" targetID="23" group="G1" fromX="1580" fromY="-551" />
-      <outputs name="À medida que as abelhas baixam a guarda, você pode realizar um ritual que atordoará os ferroes e permitirá que você roube a colmeia adequadamente." ownerID="4" targetID="11" fromX="1580" fromY="-631" />The bees buzz around you as if assessing the sincerity of your words, and some sting you. But when they see you remain calm, they allow you to sample their goods.</nodes>
+      <outputs name="À medida que as abelhas baixam a guarda, você pode realizar um ritual que atordoará os ferroes e permitirá que você roube a colmeia adequadamente." ownerID="4" targetID="11" fromX="1580" fromY="-631" />As abelhas zumbem ao seu redor como se avaliassem a sinceridade de suas palavras, e algumas o picam. Mas quando eles vêem que você permanece calmo, eles permitem que você experimente seus produtos.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1750.13086" positionY="-979.991943" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-BEES_1P_1M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="33" fromX="2191" fromY="-1475" />
       <outputs name="Lose" ownerID="5" targetID="35" fromX="2191" fromY="-1555" />
@@ -1260,7 +1256,7 @@ You feel a curse take you even before they attack.</nodes>
       </logic>
       <outputs name="Monte a armadilha." ownerID="8" targetID="12" fromX="1394" fromY="-1420" />
       <outputs name="Na verdade, apenas ataque!" ownerID="8" targetID="5" fromX="1394" fromY="-1500" />
-      <outputs name="Sair." ownerID="8" targetID="7" fromX="1394" fromY="-1580" />You set up the trap and light the fires to create the smoke. Now you just need to figure out the right wind direction and time to spring your trap.</nodes>
+      <outputs name="Sair." ownerID="8" targetID="7" fromX="1394" fromY="-1580" />Você monta a armadilha e acende as fogueiras para criar a fumaça. Agora você só precisa descobrir a direção certa do vento e a hora de lançar sua armadilha.</nodes>
     <nodes xsi:type="NodeChallenge" ID="11" positionX="2339.64941" positionY="-372.161438" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_2S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -1359,7 +1355,7 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Aceite e vá embora." ownerID="29" targetID="23" fromX="2132" fromY="1006" />Despite this being an unfair duel, you know the way of your kin is such. You won, so they honour you and give you gifts.</nodes>
+      <outputs name="Aceite e vá embora." ownerID="29" targetID="23" fromX="2132" fromY="1006" />Apesar de ser um duelo injusto, você sabe que o jeito de seus parentes é assim. Você ganhou, então eles te honram e te dão presentes.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="31" positionX="1823.582" positionY="-4.35754" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1410,12 +1406,12 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Beba o néctar e o mel." ownerID="33" targetID="23" group="G1" fromX="3949" fromY="-2054" />The hive stands open for looting now. The honey nectar heals your wounds, and you discover that the bees have hoarded some amber here. </nodes>
+      <outputs name="Beba o néctar e o mel." ownerID="33" targetID="23" group="G1" fromX="3949" fromY="-2054" />A colmeia está aberta para saques agora. O néctar de mel cura suas feridas e você descobre que as abelhas acumularam um pouco de âmbar aqui. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="34" positionX="2482.54688" positionY="-1303.52429" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="25" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="34" targetID="35" fromX="2911" fromY="-1691" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="2786" positionY="-2009" width="350" height="725">
-      <outputs name="Sair." ownerID="35" targetID="20" fromX="3111" fromY="-2500" />The bees go into a frenzy and sting you badly. A heavy illness lingers as you run away.</nodes>
+      <outputs name="Sair." ownerID="35" targetID="20" fromX="3111" fromY="-2500" />As abelhas entram em frenesi e picam você mal. Uma doença pesada permanece enquanto você foge.</nodes>
   </Adventure>
   <Adventure name="Night bat atack" uniqueID="8" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="true" typeVillage="false" difficulty="1" nodeIdMax="23" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="825" image="Event178">
@@ -1441,7 +1437,7 @@ You feel a curse take you even before they attack.</nodes>
       <outputs name="[Percepção] Fique parado e permita que eles voem, mesmo que isso signifique levar alguns arranhoes. Tente identificar exatamente de onde eles vieram." ownerID="2" targetID="20" fromX="766" fromY="-773" />
       <outputs name="Lutar!" ownerID="2" targetID="6" group="G1" fromX="766" fromY="-853" />
       <outputs name="Fugir!" ownerID="2" targetID="13" group="G2" fromX="766" fromY="-933" />
-      <outputs name="Fugir!" ownerID="2" targetID="4" group="G2" fromX="766" fromY="-1013" />A swarm of bats descends upon you out of nowhere!</nodes>
+      <outputs name="Fugir!" ownerID="2" targetID="4" group="G2" fromX="766" fromY="-1013" />Um enxame de morcegos desce sobre você do nada!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="-63" positionY="-784" width="350" height="455" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1359.12207" positionY="539.77" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-BATS_1P_1M_2S" challengeScale="101" challengedList="ppl">
       <logic>
@@ -1482,11 +1478,11 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="7" targetID="8" fromX="2735" fromY="-2010" />The bats swarm you and feed on your blood, leaving some of you diseased. </nodes>
+      <outputs name="Sair." ownerID="7" targetID="8" fromX="2735" fromY="-2010" />Os morcegos cercam você e se alimentam de seu sangue, deixando alguns de vocês doentes. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2839.557" positionY="-1547.56519" width="350" height="408" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2590.80981" positionY="-485.32077" width="350" height="805">
       <outputs name="[Percepção] Você explora o lugar de onde os morcegos vieram." ownerID="9" targetID="21" fromX="2916" fromY="-976" />
-      <outputs name="Sair." ownerID="9" targetID="10" fromX="2916" fromY="-1056" />You kill the bats without much trouble.</nodes>
+      <outputs name="Sair." ownerID="9" targetID="10" fromX="2916" fromY="-1056" />Você mata os morcegos sem muita dificuldade.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="3013.17676" positionY="-1077.2887" width="350" height="408" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="13" positionX="-8.298019" positionY="-1335.44226" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="4" maxDamage="6" useCountInPercent="false" targetGroup="50">
       <logic>
@@ -1518,7 +1514,7 @@ You feel a curse take you even before they attack.</nodes>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="1471.5697" positionY="-973.8565" width="350" height="805">
       <outputs name="Investigar." ownerID="15" targetID="16" group="G1" fromX="1797" fromY="-1465" />
-      <outputs name="Investigar." ownerID="15" targetID="17" group="G1" fromX="1797" fromY="-1545" />The bats fly past you, leaving some scratches, and you see a small, hidden entrance to a cave.</nodes>
+      <outputs name="Investigar." ownerID="15" targetID="17" group="G1" fromX="1797" fromY="-1545" />Os morcegos passam voando por você, deixando alguns arranhoes, e você vê uma pequena entrada escondida para uma caverna.</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="1918.30237" positionY="-1567.91577" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -1528,7 +1524,7 @@ You feel a curse take you even before they attack.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Ataque!" ownerID="16" targetID="18" fromX="2244" fromY="-2059" />
-      <outputs name="Sair." ownerID="16" targetID="8" fromX="2244" fromY="-2139" />You carefully sneak in and discover a rabid bear raging inside. A decent-looking weapon is lodged in its side, but the wound is old and not likely to slow its attack.</nodes>
+      <outputs name="Sair." ownerID="16" targetID="8" fromX="2244" fromY="-2139" />Você cuidadosamente se esgueira e descobre um urso raivoso em fúria lá dentro. Uma arma de aparência decente está alojada em seu lado, mas o ferimento é antigo e provavelmente não retardará seu ataque.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1397" positionY="-1819" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1551,7 +1547,7 @@ You feel a curse take you even before they attack.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="19" targetID="10" fromX="3333" fromY="-2698" />The bear is dead, and you can claim the weapon lodged in its side.</nodes>
+      <outputs name="Sair." ownerID="19" targetID="10" fromX="3333" fromY="-2698" />O urso está morto e você pode reivindicar a arma alojada em seu lado.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="20" positionX="897" positionY="-1391" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="2" maxDamage="5" useCountInPercent="false" targetGroup="ppl">
       <logic>
         <FilterBlock>
@@ -1583,7 +1579,7 @@ You feel a curse take you even before they attack.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Investigar." ownerID="21" targetID="16" group="G1" fromX="2740" fromY="241" />
-      <outputs name="Investigar." ownerID="21" targetID="17" group="G1" fromX="2740" fromY="161" />You see a small, hidden entrance to a cave.</nodes>
+      <outputs name="Investigar." ownerID="21" targetID="17" group="G1" fromX="2740" fromY="161" />Você vê uma pequena entrada escondida para uma caverna.</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="2124.71313" positionY="-646.7356" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -1593,7 +1589,7 @@ You feel a curse take you even before they attack.</nodes>
         </ModifierBlock>
       </logic>
       <outputs name="[Percepção] Você explora o lugar de onde os morcegos vieram." ownerID="22" targetID="21" fromX="2450" fromY="-1137" />
-      <outputs name="Sair." ownerID="22" targetID="10" fromX="2450" fromY="-1218" />The bats obey your night call and clear away.</nodes>
+      <outputs name="Sair." ownerID="22" targetID="10" fromX="2450" fromY="-1218" />Os morcegos obedecem ao seu chamado noturno e fogem.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="23" positionX="1462" positionY="-435" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="23" targetID="7" fromX="1891" fromY="-823" />
     </nodes>
@@ -1605,7 +1601,7 @@ You feel a curse take you even before they attack.</nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="554" positionY="-114" width="350" height="885">
       <outputs name="Veja o que está acontecendo." ownerID="2" targetID="8" group="G1" fromX="879" fromY="-605" />
       <outputs name="Veja o que está acontecendo." ownerID="2" targetID="10" group="G1" fromX="879" fromY="-685" />
-      <outputs name="Veja o que está acontecendo." ownerID="2" targetID="6" group="G1" fromX="879" fromY="-765" />Your journey is interrupted.</nodes>
+      <outputs name="Veja o que está acontecendo." ownerID="2" targetID="6" group="G1" fromX="879" fromY="-765" />Sua jornada é interrompida.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1022" positionY="-893" width="350" height="455" linkedEventUniqueID="6" />
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="1051" positionY="-217" width="350" height="455" linkedEventUniqueID="7">
       <logic>
