@@ -1,11 +1,17 @@
 # thea2-pt_BR
-Portuguese translation of Thea2 The Shattering game.
+Tradução do jogo Thea 2 The Shattering para o Português do Brasil.
 
-### Contribute
-You liked this initiative? Fell free to start translating and open a PR.
+# Instalação
+ - Faça download desse projeto como .zip
+ - Salve o arquivo dentro da pasta Mod do jogo Thea2
+ - Extraia o conteúdo, será gerada uma pasta com o nome Thea2-pt_BR-main (remova o -main, deixando apenas Thea2-pt_BR)
+ - Abra o jogo, ative o Mod, o jogo pedirá que seja reiniciado para que o mod seja ativado, reinicie.
+ - Jogue :)
 
-### NOTE: 
-This is a WIP project and you can see some texts not translated yet.
+### Contribuir
+Gostou da iniciativa e deseja contribuir? Fique a vontade para reportar bugs ou até mesmo melhorar a documentação fazendo um novo Pull Request.
 
+### NOTA: 
+O jogo está basicamente todo traduzido, porém, pode conter falhas e traduções que poderiam ser melhores, caso encontre algo, contribua.
 
-This is an independent project that has nothing to do with MuHa Games.
+This mod is a independent project that has nothing related with MuHa Games.
