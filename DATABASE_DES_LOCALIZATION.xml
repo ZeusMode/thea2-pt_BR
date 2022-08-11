@@ -1094,7 +1094,7 @@
 		<Entry Key="DES_RES_WOOD" Val="Madeira"></Entry>
 		<Entry Key="DES_RES_WOOD_DES" Val="Madeira comum adequada principalmente para lenha."></Entry>
 		<Entry Key="DES_RES_DRYAD_WOOD" Val="Madeira Dríade"></Entry>
-		<Entry Key="DES_RES_DRYAD_WOOD_DES" Val=""></Entry>
+		<Entry Key="DES_RES_DRYAD_WOOD_DES" Val="Fabuloso para ser o presente das dríades. Madeira preta que libera resina dourada quando cortada."></Entry>
 		<Entry Key="DES_RES_DARK_WOOD" Val="Madeira escura"></Entry>
 		<Entry Key="DES_RES_DARK_WOOD_DES" Val="Madeira de uma floresta manchada pela escuridão há muito tempo. Se usado com cuidado, pode ser criado de várias maneiras.\n\nRecurso selvagem ({ICON:WildResourceIcon})."></Entry>
 		<Entry Key="DES_RES_ELVEN_WOOD" Val="Madeira Élfica"></Entry>
@@ -1110,7 +1110,7 @@
 		<Entry Key="DES_RES_RUBY" Val="Rubi"></Entry>
 		<Entry Key="DES_RES_RUBY_DES" Val="Muitas vezes referido como a pedra de sangue, o rubi é uma pedra preciosa muito procurada. Fable diz que os coraçoes da striga poderosa se transformam em rubi após a morte.\n\nRecurso selvagem ({ICON:WildResourceIcon})."></Entry>
 		<Entry Key="DES_RES_DIAMOND" Val="Diamante"></Entry>
-		<Entry Key="DES_RES_DIAMOND_DES" Val=""></Entry>
+		<Entry Key="DES_RES_DIAMOND_DES" Val="Diamante não é apenas o melhor amigo de uma garota, todo mundo gosta. É raro, resistente e bonito."></Entry>
 		<Entry Key="DES_RES_BONE" Val="Osso"></Entry>
 		<Entry Key="DES_RES_BONE_DES" Val="Ossos são um recurso comum usado para criar."></Entry>
 		<Entry Key="DES_RES_BLOOD_BONE" Val="Osso de Sangue"></Entry>
@@ -2118,17 +2118,17 @@
 		<Entry Key="DES_COOKING" Val="Comida Cozida"></Entry>
 		<Entry Key="DES_COOKING_DES" Val="Hummm cheira bem!"></Entry>
 		<Entry Key="DES_COOKING_MEAT1" Val="Carne Doce"></Entry>
-		<Entry Key="DES_COOKING_MEAT1_DES" Val="Carne picante com frutas.\nIngredientes primários:\n{ÍCONE:Carne} {ÍCONE:Peixe} {ÍCONE:Geleia de Besouro} {ÍCONE:Ovos}\nIngredientes secundários:\n{ÍCONE:Frutas} {ÍCONE:Nozes} {ÍCONE: Especiarias} {ÍCONE:Ervas}"></Entry>
+		<Entry Key="DES_COOKING_MEAT1_DES" Val="Carne picante com frutas.\nIngredientes primários:\n{ICON:Meat} {ICON:Fish} {ICON:BeetleJelly} {ICON:Eggs}\nIngredientes secundários:\n{ICON:Fruits} {ICON:Nuts} {ICON:Spices} {ICON:Herbs}"></Entry>
 		<Entry Key="DES_COOKING_MEAT2" Val="Refeiçoes de carne"></Entry>
-		<Entry Key="DES_COOKING_MEAT2_DES" Val="Receitas saudáveis de carne e legumes.\nIngredientes primários:\n{ICON:Carne} {ICON:Peixe} {ICON:BeetleJelly} {ICON:Ovos}\nIngredientes secundários:\n{ICON:Veggies} {ICON:Grain} {ICON :Algas} {ICON:Cogumelos} {ICON:Carne} {ICON:Peixe} {ICON:BeetleJelly} {ICON:Ovos}"></Entry>
+		<Entry Key="DES_COOKING_MEAT2_DES" Val="Receitas saudáveis de carne e legumes.\nIngredientes primários:\n{ICON:Meat} {ICON:Fish} {ICON:BeetleJelly} {ICON:Eggs}\nIngredientes secundários:\n{ICON:Veggies} {ICON:Grain} {ICON:Seaweed} {ICON:Mushrooms} {ICON:Meat} {ICON:Fish} {ICON:BeetleJelly} {ICON:Eggs}"></Entry>
 		<Entry Key="DES_COOKING_VEGGIES1" Val="Opção vegetariana"></Entry>
-		<Entry Key="DES_COOKING_VEGGIES1_DES" Val="Legumes picantes.\nIngredientes primários:\n{ICON:Veggies} {ICON:Grain} {ICON:Alga} {ICON:Cogumelos}\nIngredientes secundários:\n{ICON:Veggies} {ICON:Grain} {ICON:Seaweed} {ICON:Cogumelos} {ICON:Spices} {ICON:Ervas}"></Entry>
+		<Entry Key="DES_COOKING_VEGGIES1_DES" Val="Legumes picantes.\nIngredientes primários:\nn{ICON:Veggies} {ICON:Grain} {ICON:Seaweed} {ICON:Mushrooms}\nIngredientes secundários:\n{ICON:Veggies} {ICON:Grain} {ICON:Seaweed} {ICON:Mushrooms} {ICON:Spices} {ICON:Herbs}"></Entry>
 		<Entry Key="DES_COOKING_VEGGIES2" Val="Menu Tradicional"></Entry>
-		<Entry Key="DES_COOKING_VEGGIES2_DES" Val="Pratos eslavos tradicionais.\nIngredientes primários:\n{ICON:Veggies} {ICON:Grain} {ICON:Algas} {ICON:Cogumelos}\nIngredientes secundários:\n{ICON:Carne} {ICON:Peixes} {ICON:BeetleJelly } {ÍCONE:Ovos} {ÍCONE:Frutas} {ÍCONE:Nozes}"></Entry>
+		<Entry Key="DES_COOKING_VEGGIES2_DES" Val="Pratos eslavos tradicionais.\nIngredientes primários:\nn{ICON:Veggies} {ICON:Grain} {ICON:Seaweed} {ICON:Mushrooms}\nIngredientes secundários:\n{ICON:Meat} {ICON:Fish} {ICON:BeetleJelly} {ICON:Eggs} {ICON:Fruits} {ICON:Nuts}"></Entry>
 		<Entry Key="DES_COOKING_FRUITS1" Val="mimos da vovó"></Entry>
-		<Entry Key="DES_COOKING_FRUITS1_DES" Val="Guloseimas para ocasioes especiais.\nIngredientes primários:\n{ÍCONE:Frutas} {ÍCONE:Nozes}\nIngredientes secundários:\n{ÍCONE:Frutas} {ÍCONE:Nozes} {ÍCONE:Vegetais} {ÍCONE:Grãos} {ÍCONE: Alga} {ICON:Cogumelos}"></Entry>
+		<Entry Key="DES_COOKING_FRUITS1_DES" Val="Guloseimas para ocasioes especiais.\nIngredientes primários:\n{ICON:Fruits} {ICON:Nuts}\nIngredientes secundários:\n{ICON:Fruits} {ICON:Nuts} {ICON:Veggies} {ICON:Grain} {ICON:Seaweed} {ICON:Mushrooms}"></Entry>
 		<Entry Key="DES_COOKING_FRUITS2" Val="Receitas de duendes"></Entry>
-		<Entry Key="DES_COOKING_FRUITS2_DES" Val="Pratos e bebidas do Livro Donoughteet dos Goblins.\nIngredientes primários:\n{ICON:Frutas} {ICON:Nozes}\nIngredientes secundários:\n{ICON:Carne} {ICON:Peixe} {ICON:BeetleJelly} {ICON:Ovos } {ÍCONE:Especiarias} {ÍCONE:Ervas}"></Entry>
+		<Entry Key="DES_COOKING_FRUITS2_DES" Val="Pratos e bebidas do Livro Donoughteet dos Goblins.\nIngredientes primários:\n{ICON:Fruits} {ICON:Nuts}\nIngredientes secundários:\n{ICON:Meat} {ICON:Fish} {ICON:BeetleJelly} {ICON:Eggs} {ICON:Spices} {ICON:Herbs}"></Entry>
 		<Entry Key="DES_PET_HORSE" Val="Cavalo"></Entry>
 		<Entry Key="DES_PET_HORSE_DES" Val="Corcel leal, companheiro precioso para qualquer herói."></Entry>
 		<Entry Key="DES_PET_GOAT" Val="Cabra transportadora"></Entry>
