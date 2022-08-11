@@ -568,7 +568,7 @@
       </logic>
       <outputs name="É prejudicial para o rebanho matar os leitoes ou a mãe. Em vez disso, separe os machos mais fracos para caçá-los." ownerID="3" targetID="26" group="G1" fromX="733" fromY="297" />
       <outputs name="Melhor não arriscar prejudicar os jovens. Circule o pacote e saia." ownerID="3" targetID="30" fromX="733" fromY="297" />
-      <outputs name="É prejudicial para o rebanho matar os leitoes ou a mãe. Em vez disso, separe os machos mais fracos para caçá-los." ownerID="3" targetID="28" group="G1" fromX="733" fromY="297" />Sure enough, you soon spot a small pack of older boars rummaging through the foliage. </nodes>
+      <outputs name="É prejudicial para o rebanho matar os leitoes ou a mãe. Em vez disso, separe os machos mais fracos para caçá-los." ownerID="3" targetID="28" group="G1" fromX="733" fromY="297" />Com certeza, você logo avista um pequeno bando de javalis mais velhos vasculhando a folhagem. </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1562" positionY="42" width="350" height="725">
       <logic>
         <ModifierBlock>
