@@ -1124,9 +1124,7 @@
       <outputs name="Acene com a cabeça e pergunte se foi um teste para você o tempo todo?" ownerID="6" targetID="8" fromX="2716" fromY="11" />Zbigniev sai, mas parece menos seguro de si. Theodore aparece: 'Natureza e Intelecto, sempre os companheiros sóbrios. Você está certo de que sua divindade não gostaria que você simplesmente obedecesse, pois se os deuses ferirem todos os que se desviarem, bem, não sobraria nenhum relâmpago.'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2886" positionY="395" width="350" height="725">
-      <outputs name="Sair." ownerID="7" targetID="12" fromX="3211" fromY="-96" />Zbigniev leaves, but he laughs in your face. Theodore appears:
- 
-'An interesting choice, doing nothing. Hmm. I am not convinced the gods had this in mind when they sent you, but who am I to know?  Now, I leave you to your own devices, and the gods will surely call upon your services again. But for now, please stay alive.'
+      <outputs name="Sair." ownerID="7" targetID="12" fromX="3211" fromY="-96" />Zbigniev sai, mas ri na sua cara. Teodoro aparece: 'Uma escolha interessante, não fazer nada. Hum. Não estou convencido de que os deuses tinham isso em mente quando o enviaram, mas quem sou eu para saber? Agora, deixo você com seus próprios recursos, e os deuses certamente chamarão seus serviços novamente. Mas por enquanto, por favor, fique vivo.'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="3355" positionY="833" width="350" height="725">
       <outputs name="Sair." ownerID="8" targetID="14" fromX="3680" fromY="341" />'De fato. Embora confrontar Zbigniev fosse necessário também por outras razoes. Muitos fogoes queimam em nossas cozinhas divinas, meus queridos. Agora, deixo você com seus próprios recursos, e os deuses certamente chamarão seus serviços novamente. Mas, por enquanto, por favor, fique vivo.
@@ -1302,8 +1300,7 @@
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Tente sair." ownerID="4" targetID="5" fromX="1565" fromY="-946" />Inside, the place is surprisingly lived in and well taken care of. There is even a fireplace. 
-                   You hear an old woman's voice croak at you: 'Well, well, well, dinner guests. How splendid. Do come and stay. Forever. Ha ha!'
+      <outputs name="Tente sair." ownerID="4" targetID="5" fromX="1565" fromY="-946" />Por dentro, o lugar é surpreendentemente habitado e bem cuidado. Tem até lareira. Você ouve a voz de uma velha resmungar para você: 'Bem, bem, bem, convidados para o jantar. Que esplêndido. Venha e fique. Para todo sempre. Há há!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1705" positionY="-622" width="350" height="966" image="Event061">
       <outputs name="Ataque!" ownerID="5" targetID="6" fromX="2030" fromY="-1113" />
@@ -2294,7 +2291,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="51" targetID="21" fromX="1294" fromY="-221" />You aren't called a beast master for nothing. You scare the bees away. Um batedor do vilarejo estava observando você e se aproxima: 'Que se dane. Você os afugentou. Maravilhoso! Tome isto como agradecimento.</nodes>
+      <outputs name="Sair." ownerID="51" targetID="21" fromX="1294" fromY="-221" />Você não é chamado de mestre das feras à toa. Você assusta as abelhas. Um batedor aldeão estava observando você e se aproxima: 'Maldito seja. Você os afugentou. Maravilhoso! Aqui, tenha isso como agradecimento.'</nodes>
   </Adventure>
   <Adventure name="TavernSlavyan_" uniqueID="32" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="37" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event269">
@@ -5934,8 +5931,8 @@
     <nodes xsi:type="NodeAdventure" ID="2" positionX="448" positionY="-131" width="350" height="885">
       <outputs name="Um demônio da casa divina - o que é isso? Você se parece com Theodore." ownerID="2" targetID="4" fromX="773" fromY="-622" />
       <outputs name="Você pode fazer mais alguma coisa?" ownerID="2" targetID="3" fromX="773" fromY="-702" />
-      <outputs name="Dê as boas-vindas a ele e continue sua aventura." ownerID="2" targetID="5" fromX="773" fromY="-782" />'Hi there, chosen of the gods! I am your very own divine house demon. Here to aid your home and all that.
-  I shall fight for you in the village, and sometimes I will join you when you are challenged close to the settlement. Please do not put me in your party when you leave the village, for I cannot ever leave and with me, neither will you!' </nodes>
+      <outputs name="Dê as boas-vindas a ele e continue sua aventura." ownerID="2" targetID="5" fromX="773" fromY="-782" />'Olá, escolhido dos deuses! Eu sou seu próprio demônio da casa divina. Aqui para ajudar a sua casa e tudo isso.
+  Eu lutarei por você na aldeia e, às vezes, me juntarei a você quando for desafiado perto do assentamento. Por favor, não me coloque no seu grupo quando você sair da aldeia, pois eu nunca posso sair e comigo, nem você!' </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1108" positionY="-320" width="350" height="805">
       <outputs name="Um demônio da casa divina - o que é isso? Você se parece com Theodore." ownerID="3" targetID="4" fromX="1433" fromY="-811" />
       <outputs name="Dê as boas-vindas a ele e continue sua aventura." ownerID="3" targetID="5" fromX="1433" fromY="-891" />— Sou bastante habilidoso na aldeia. Eu posso criar e coletar. E eu me tornarei mais forte com o tempo. Mas não posso sair com você em suas viagens. Eu também sou fofo, certo?'</nodes>
