@@ -1840,8 +1840,8 @@ The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, 
       <outputs ownerID="30" targetID="44" group="G1" fromX="2797" fromY="-34" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="32" positionX="1837.511" positionY="-2596.82666" width="460" height="479" traderProfile="TRADER-EARTHBOUND_SMALL" playerInventory="stuff">
-      <outputs name="confirme" ownerID="32" targetID="45" fromX="2267" fromY="-2925" />
-      <outputs name="Cancelar" ownerID="32" targetID="33" fromX="2267" fromY="-3005" />
+      <outputs name="Confirm" ownerID="32" targetID="45" fromX="2267" fromY="-2925" />
+      <outputs name="Cancel" ownerID="32" targetID="33" fromX="2267" fromY="-3005" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="1844.29126" positionY="-3105.06177" width="350" height="841">
       <outputs name="Entre no anel." ownerID="33" targetID="19" fromX="2170" fromY="-3552" />
@@ -1886,8 +1886,8 @@ The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, 
       </logic>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="38" positionX="1899.86011" positionY="-236.55127" width="460" height="479" traderProfile="TRADER-EARTHBOUND" playerInventory="stuff">
-      <outputs name="confirme" ownerID="38" targetID="39" fromX="2330" fromY="-564" />
-      <outputs name="Cancelar" ownerID="38" targetID="39" fromX="2330" fromY="-645" />
+      <outputs name="Confirm" ownerID="38" targetID="39" fromX="2330" fromY="-564" />
+      <outputs name="Cancel" ownerID="38" targetID="39" fromX="2330" fromY="-645" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="39" positionX="3645.41968" positionY="-231.184631" width="350" height="761">
       <outputs name="Entre no anel." ownerID="39" targetID="5" fromX="3971" fromY="-722" />
@@ -8456,13 +8456,13 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="33" targetID="15" group="G1" fromX="441.848022" fromY="-3449.62939" />
-      <outputs name="Cancelar" ownerID="33" targetID="14" fromX="441.848022" fromY="-3529.82935" />
-      <outputs name="confirme" ownerID="33" targetID="22" group="G1" fromX="441.848022" fromY="-3610.0293" />
+      <outputs name="Confirm" ownerID="33" targetID="15" group="G1" fromX="441.848022" fromY="-3449.62939" />
+      <outputs name="Cancel" ownerID="33" targetID="14" fromX="441.848022" fromY="-3529.82935" />
+      <outputs name="Confirm" ownerID="33" targetID="22" group="G1" fromX="441.848022" fromY="-3610.0293" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="34" positionX="-491.9412" positionY="-1811.94336" width="460" height="479" traderProfile="TRADER-SLAVYAN_SMALL" playerInventory="stuff">
-      <outputs name="confirme" ownerID="34" targetID="50" fromX="-61" fromY="-2140" />
-      <outputs name="Cancelar" ownerID="34" targetID="50" fromX="-61" fromY="-2140" />
+      <outputs name="Confirm" ownerID="34" targetID="50" fromX="-61" fromY="-2140" />
+      <outputs name="Cancel" ownerID="34" targetID="50" fromX="-61" fromY="-2140" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="37" positionX="2433.02661" positionY="-2396.8584" width="350" height="360.8" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="38" positionX="3840.21875" positionY="-2190.67651" width="350" height="360.8" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
@@ -8522,8 +8522,8 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
       </logic>
       <outputs name="Diga à mulher que um estranho bonito e moreno virá à sua porta em breve." ownerID="44" targetID="28" fromX="2248" fromY="885" />Você corta sua mão, respinga o sangue no chão limpo e joga três ossos cada da mão esquerda de uma criança ainda não nascida. Os ossos caem em um padrão.</nodes>
     <nodes xsi:type="NodeTrade" ID="45" positionX="2783.25146" positionY="1758.81653" width="460" height="479" traderProfile="TRADER-SLAVYAN_SMALL" playerInventory="suff">
-      <outputs name="confirme" ownerID="45" targetID="51" fromX="3213" fromY="1430" />
-      <outputs name="Cancelar" ownerID="45" targetID="51" fromX="3213" fromY="1350" />
+      <outputs name="Confirm" ownerID="45" targetID="51" fromX="3213" fromY="1430" />
+      <outputs name="Cancel" ownerID="45" targetID="51" fromX="3213" fromY="1350" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="46" positionX="2773.747" positionY="1226.53992" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="4" maxDamage="8" useCountInPercent="true" targetGroup="witch">
       <logic>

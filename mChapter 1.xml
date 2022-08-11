@@ -751,8 +751,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="72" targetID="56" fromX="-1456" fromY="-1738" />
-      <outputs name="Cancelar" ownerID="72" targetID="54" fromX="-1456" fromY="-1818" />
+      <outputs name="Confirm" ownerID="72" targetID="56" fromX="-1456" fromY="-1738" />
+      <outputs name="Cancel" ownerID="72" targetID="54" fromX="-1456" fromY="-1818" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="73" positionX="-3582" positionY="-1270" width="350" height="805">
       <outputs name="Festa com os catadores antes de sair." ownerID="73" targetID="61" fromX="-3256" fromY="-1761" />
@@ -1605,7 +1605,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="9" targetID="10" fromX="2781" fromY="1065" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="9" targetID="19" fromX="2781" fromY="985" />Você ouve o baque de um martelo sobre uma bigorna e sente o calor de uma forja ao seu redor. 'ENTÃO, VOCÊ É MEU ESCOLHIDO, ENTÃO?'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="9" targetID="19" fromX="2781" fromY="985" />Você ouve o baque de um martelo sobre uma bigorna e sente o calor de uma forja ao seu redor. 'ENTÃO, VOCÊ É MEU ESCOLHIDO, ENTÃO?'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2937" positionY="1776" width="350" height="805">
       <outputs name="Recusar." ownerID="10" targetID="11" fromX="3262" fromY="1284" />
@@ -1668,7 +1668,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="25" targetID="26" fromX="2848" fromY="167" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="25" targetID="27" fromX="2848" fromY="87" />Você cheira a doçura das flores e sente o calor do abraço de um amante. 'AH, VOCÊ É MEU ESCOLHIDO?'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="25" targetID="27" fromX="2848" fromY="87" />Você cheira a doçura das flores e sente o calor do abraço de um amante. 'AH, VOCÊ É MEU ESCOLHIDO?'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="3489" positionY="503" width="350" height="805">
       <outputs name="Recusar." ownerID="26" targetID="28" fromX="3814" fromY="11" />
@@ -1696,7 +1696,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="32" targetID="33" fromX="2908" fromY="-660" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="32" targetID="34" fromX="2908" fromY="-740" />Você sente o frescor da floresta selvagem e sente o olhar atento da caçadora sobre você. 'ENTÃO VOCÊ É MEU ESCOLHIDO?'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="32" targetID="34" fromX="2908" fromY="-740" />Você sente o frescor da floresta selvagem e sente o olhar atento da caçadora sobre você. 'ENTÃO VOCÊ É MEU ESCOLHIDO?'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="3533" positionY="-326" width="350" height="805">
       <outputs name="Recusar." ownerID="33" targetID="36" fromX="3858" fromY="-817" />
@@ -1718,7 +1718,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="37" targetID="43" fromX="3123" fromY="-1309" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="37" targetID="38" fromX="3123" fromY="-1389" />Você sente o cheiro da água do mar e sente o toque vivo das ondas sobre você. 'VOCÊ, MEU ESCOLHIDO!'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="37" targetID="38" fromX="3123" fromY="-1389" />Você sente o cheiro da água do mar e sente o toque vivo das ondas sobre você. 'VOCÊ, MEU ESCOLHIDO!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="38" positionX="2977" positionY="-1248" width="350" height="725">
       <outputs name="Aceite este chamado." ownerID="38" targetID="39" fromX="3302" fromY="-1739" />'Sim bom. Seu coração arde com minha vontade de ferro e você sempre sentiu isso. Agora você deve ser meu martelo entre as terras dos vivos.'</nodes>
@@ -1734,7 +1734,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="40" targetID="42" fromX="1954" fromY="-1693" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="40" targetID="41" fromX="1954" fromY="-1773" />Você fica deslumbrado com uma variedade de cores e sensaçoes que reconhece como as tramas da magia. 'AH, MEU ESCOLHIDO, SIM?'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="40" targetID="41" fromX="1954" fromY="-1773" />Você fica deslumbrado com uma variedade de cores e sensaçoes que reconhece como as tramas da magia. 'AH, MEU ESCOLHIDO, SIM?'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="2935" positionY="-2113" width="350" height="725">
       <outputs name="Aceite este chamado." ownerID="41" targetID="46" fromX="3260" fromY="-2604" />'Sim bom. Seu coração arde com minha vontade de ferro e você sempre sentiu isso. Agora você deve ser meu martelo entre as terras dos vivos.'</nodes>
@@ -1765,7 +1765,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="48" targetID="52" fromX="2464" fromY="-624" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="48" targetID="51" fromX="2464" fromY="-704" />Você ouve a confusão de lâminas se chocando e fica cego por três estrelas que aparecem diante de você. 'MEU ESCOLHIDO!'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="48" targetID="51" fromX="2464" fromY="-704" />Você ouve a confusão de lâminas se chocando e fica cego por três estrelas que aparecem diante de você. 'MEU ESCOLHIDO!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="49" positionX="7141" positionY="1620" width="350" height="725">
       <outputs name="Acordar." ownerID="49" targetID="50" fromX="7466" fromY="1128" />'Você encontrará sinais, você verá os erros desta terra. Com o tempo, seu verdadeiro propósito se tornará claro para você. Fiquem bem, meus filhos!</nodes>
@@ -1790,7 +1790,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="55" targetID="57" fromX="2772" fromY="-3833" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="55" targetID="56" fromX="2772" fromY="-3913" />Você sente o cheiro inegável de carne podre e sente as tristezas das almas que passam antes de você. 'ESCOLHIDO, mas por quem, eu me pergunto? EU?'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="55" targetID="56" fromX="2772" fromY="-3913" />Você sente o cheiro inegável de carne podre e sente as tristezas das almas que passam antes de você. 'ESCOLHIDO, mas por quem, eu me pergunto? EU?'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="56" positionX="2876" positionY="-3626" width="350" height="725">
       <outputs name="Aceite este chamado." ownerID="56" targetID="59" fromX="3201" fromY="-4117" />'Oh, eu vejo. Que estranho. Eu nunca senti sua vinda até agora, ou senti? No entanto, você sentiu nosso vínculo - bom, útil, sábio. Agora você deve ser meu servo entre as terras dos vivos.'</nodes>
@@ -1813,7 +1813,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="60" targetID="62" fromX="2459" fromY="-1378" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="60" targetID="61" fromX="2459" fromY="-1458" />Você sente cheiro de lava derretida e gosto de cinzas em seus dentes. Você sente a raiva te encher e ouve o rugido de muitos guerreiros. 'ESCOLHIDO!'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="60" targetID="61" fromX="2459" fromY="-1458" />Você sente cheiro de lava derretida e gosto de cinzas em seus dentes. Você sente a raiva te encher e ouve o rugido de muitos guerreiros. 'ESCOLHIDO!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="61" positionX="2881" positionY="-4485" width="350" height="725">
       <outputs name="Aceite este chamado." ownerID="61" targetID="64" fromX="3206" fromY="-4976" />'Sim bom. Seu coração arde com minha vontade de ferro e você sempre sentiu isso. Agora você deve ser meu martelo entre as terras dos vivos.'</nodes>
@@ -1835,7 +1835,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="65" targetID="67" fromX="2780" fromY="-5508" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="65" targetID="66" fromX="2780" fromY="-5588" />Você sente o cheiro de sangue fresco e o toque vivo do ar da meia-noite. Você ouve o uivo de muitos lobos e, instintivamente, junta-se a eles, até que uma única voz clara responde ao seu chamado. 'Eu ouço seu chamado, ESCOLHIDO!'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="65" targetID="66" fromX="2780" fromY="-5588" />Você sente o cheiro de sangue fresco e o toque vivo do ar da meia-noite. Você ouve o uivo de muitos lobos e, instintivamente, junta-se a eles, até que uma única voz clara responde ao seu chamado. 'Eu ouço seu chamado, ESCOLHIDO!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="66" positionX="2874" positionY="-5408" width="350" height="681">
       <outputs name="Aceite este chamado." ownerID="66" targetID="69" fromX="3199" fromY="-5899" />'Sim bom. Seu coração arde com minha vontade de ferro e você sempre sentiu isso. Agora você deve ser meu martelo entre as terras dos vivos.'</nodes>
@@ -1860,7 +1860,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="71" targetID="72" fromX="5649" fromY="-858" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="71" targetID="73" fromX="5649" fromY="-938" />Você ouve o farfalhar das folhas e o estrondo da terra se movendo sob seus pés. Você sente a presença da mãe terra. 'ESCOLHIDO, BOM' </nodes>
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="71" targetID="73" fromX="5649" fromY="-938" />Você ouve o farfalhar das folhas e o estrondo da terra se movendo sob seus pés. Você sente a presença da mãe terra. 'ESCOLHIDO, BOM' </nodes>
     <nodes xsi:type="NodeAdventure" ID="72" positionX="5836" positionY="-332" width="350" height="805">
       <outputs name="Recusar." ownerID="72" targetID="74" fromX="6161" fromY="-823" />
       <outputs name="Aceite este chamado." ownerID="72" targetID="75" fromX="6161" fromY="-903" />— Um herói relutante, então. Muito bem. Afinal, assim foram muitos dos meus filhos, uma vez... Seja por desígnio, escolha ou puro destino, você é meu. Nascido da terra, filho da natureza, destinado a proteger suas leis, com força se for preciso. E se você cair, outro tomará seu lugar, até que não haja fiéis para chamar.' </nodes>
@@ -2794,8 +2794,8 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="53" targetID="54" fromX="-425" fromY="-2706" />
-      <outputs name="Cancelar" ownerID="53" targetID="102" fromX="-425" fromY="-2786" />
+      <outputs name="Confirm" ownerID="53" targetID="54" fromX="-425" fromY="-2706" />
+      <outputs name="Cancel" ownerID="53" targetID="102" fromX="-425" fromY="-2786" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="54" positionX="-702" positionY="-2982" width="350" height="805">
       <outputs name="Agradeça a ele e diga que vai dar uma olhada." ownerID="54" targetID="84" group="G1" fromX="-376" fromY="-3473" />
@@ -3030,8 +3030,8 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
       <outputs name="Mude sua mente. Diga a eles que você vai lidar com os catadores depois de tudo." ownerID="78" targetID="34" fromX="-3719" fromY="-2028" />
       <outputs name="[Mentira] Na verdade, nós já matamos os catadores." ownerID="78" targetID="104" fromX="-3719" fromY="-2108" />'Você os conheceu? Tipo de lixo - tipos selvagens e assustadores. Coma carne humana, mesmo, é por isso que os deuses não gostam deles e tudo. Mas você nos fez um bom negócio, então vamos te vender o pirralho.</nodes>
     <nodes xsi:type="NodeTrade" ID="79" positionX="-4591" positionY="-1672" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-800">
-      <outputs name="confirme" ownerID="79" targetID="80" fromX="-4160" fromY="-2000" />
-      <outputs name="Cancelar" ownerID="79" targetID="78" fromX="-4160" fromY="-2080" />
+      <outputs name="Confirm" ownerID="79" targetID="80" fromX="-4160" fromY="-2000" />
+      <outputs name="Cancel" ownerID="79" targetID="78" fromX="-4160" fromY="-2080" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="80" positionX="-5006" positionY="-1750" width="350" height="530" logBookName="QUEST_MQ_BANDITLAIR" logBookDescription="QUEST_MQ_BANDITLAIR6_DES" linkedEventUniqueID="0">
       <logic>
@@ -4023,8 +4023,8 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
       <outputs name="Diga que você deve considerar isso." ownerID="35" targetID="27" fromX="5682" fromY="-2755" />
       <outputs name="Recuse e apenas ataque!" ownerID="35" targetID="53" fromX="5682" fromY="-2835" />'Estamos escondidos aqui, mas estamos sempre procurando novas maneiras de ficar mais fortes. As crianças são úteis para nossos parentes, de várias maneiras. Dê-nos um dos seus. Com a juventude deles, podemos fazer muito. Temos uma yaga conosco, ela nos fará uma ilusão. Aqueles bastardos bandidos vão pensar que nós partimos, e - bem, nós podemos provar a carne deles ainda. Ganhar-ganha.'</nodes>
     <nodes xsi:type="NodeTrade" ID="36" positionX="5826" positionY="-2539" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="children" startingBalance="-1">
-      <outputs name="confirme" ownerID="36" targetID="37" fromX="6256" fromY="-2867" />
-      <outputs name="Cancelar" ownerID="36" targetID="67" fromX="6256" fromY="-2947" />
+      <outputs name="Confirm" ownerID="36" targetID="37" fromX="6256" fromY="-2867" />
+      <outputs name="Cancel" ownerID="36" targetID="67" fromX="6256" fromY="-2947" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="7529" positionY="-2430" width="350" height="725">
       <outputs name="Acene e vá embora." ownerID="37" targetID="31" fromX="7854" fromY="-2921" />Os demônios recebem seu prêmio. A luz da caverna fica ainda mais forte, e seu calor queima sua pele: 'Melhor ir agora. Vamos fazer nossos feitiços e esperar por esses filhos da puta! </nodes>
@@ -4044,8 +4044,8 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
       <outputs name="Diga que você deve considerar isso." ownerID="38" targetID="27" fromX="5670" fromY="-3730" />
       <outputs name="Recuse e apenas ataque!" ownerID="38" targetID="53" fromX="5670" fromY="-3810" />'Estamos escondidos aqui, mas estamos sempre procurando novas maneiras de ficar mais fortes. A força vital é útil para nossos parentes, de várias maneiras. Dê-nos todos os seus animais de estimação. Com sua vitalidade, podemos fazer muito. Temos uma yaga conosco, ela nos fará uma ilusão. Aqueles bastardos bandidos vão pensar que nós partimos, e - bem, nós podemos provar a carne deles ainda. Ganhar-ganha.'</nodes>
     <nodes xsi:type="NodeTrade" ID="39" positionX="5838" positionY="-3078" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="pets" startingBalance="-5">
-      <outputs name="confirme" ownerID="39" targetID="37" fromX="6268" fromY="-3406" />
-      <outputs name="Cancelar" ownerID="39" targetID="68" fromX="6268" fromY="-3486" />
+      <outputs name="Confirm" ownerID="39" targetID="37" fromX="6268" fromY="-3406" />
+      <outputs name="Cancel" ownerID="39" targetID="68" fromX="6268" fromY="-3486" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="6514" positionY="-3098" width="350" height="725">
       <outputs name="Combinado. Sair." ownerID="40" targetID="41" fromX="6839" fromY="-3589" />'Maravilhoso. Vamos nos esconder por enquanto, permitir um melhor acesso. Cuidado, porém - nós não fazemos esses acordos duas vezes, então você faz, você cumpre. Você quebra, nunca mais falaremos. Então você vai mentir para eles, você fala a palavra e nós viemos ajudar. Boa sorte.'</nodes>
@@ -5085,8 +5085,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />As bancas do comerciante estão abertas para você. </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-SCAVENGERS_SMALL" playerInventory="unstuff">
-      <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-SCAVENGERS_SMALL" playerInventory="nofood" startingBalance="-50">
       <logic>
@@ -5099,8 +5099,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-SCAVENGERS_SMALL_FRIENDLY" playerInventory="unstuff">
       <logic>
@@ -5110,8 +5110,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="360" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="805">
@@ -5228,8 +5228,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs name="A zerca está contando a história da árvore cósmica. Vá ouvir sua história em homenagem aos deuses." ownerID="11" targetID="34" fromX="998" fromY="-2521" />
       <outputs name="Volte outro dia." ownerID="11" targetID="3" fromX="998" fromY="-2601" />'Será um dia frio no verão antes de recusarmos hospitalidade aos cansados. Também temos um curandeiro na aldeia. Se não estão ocupados, são bons com o corpo e a mente.</nodes>
     <nodes xsi:type="NodeTrade" ID="12" positionX="1107" positionY="-1520" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-500">
-      <outputs name="confirme" ownerID="12" targetID="13" fromX="1537" fromY="-1848" />
-      <outputs name="Cancelar" ownerID="12" targetID="11" fromX="1537" fromY="-1928" />
+      <outputs name="Confirm" ownerID="12" targetID="13" fromX="1537" fromY="-1848" />
+      <outputs name="Cancel" ownerID="12" targetID="11" fromX="1537" fromY="-1928" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="1578.57556" positionY="-1597.28" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -5282,8 +5282,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs ownerID="23" targetID="57" fromX="4207" fromY="-378" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="24" positionX="1341" positionY="-2110" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-1000">
-      <outputs name="confirme" ownerID="24" targetID="25" fromX="1771" fromY="-2438" />
-      <outputs name="Cancelar" ownerID="24" targetID="11" fromX="1771" fromY="-2518" />
+      <outputs name="Confirm" ownerID="24" targetID="25" fromX="1771" fromY="-2438" />
+      <outputs name="Cancel" ownerID="24" targetID="11" fromX="1771" fromY="-2518" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="1965" positionY="-2127" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -5316,8 +5316,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="27" targetID="28" fromX="1565" fromY="-2937" />
-      <outputs name="Cancelar" ownerID="27" targetID="11" fromX="1565" fromY="-3018" />
+      <outputs name="Confirm" ownerID="27" targetID="28" fromX="1565" fromY="-2937" />
+      <outputs name="Cancel" ownerID="27" targetID="11" fromX="1565" fromY="-3018" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="1666.13672" positionY="-2619.01563" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -5363,8 +5363,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs ownerID="30" targetID="32" fromX="3559" fromY="-3170" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="31" positionX="2583" positionY="-2860" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-800">
-      <outputs name="confirme" ownerID="31" targetID="30" fromX="3013" fromY="-3189" />
-      <outputs name="Cancelar" ownerID="31" targetID="11" fromX="3013" fromY="-3269" />
+      <outputs name="Confirm" ownerID="31" targetID="30" fromX="3013" fromY="-3189" />
+      <outputs name="Cancel" ownerID="31" targetID="11" fromX="3013" fromY="-3269" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="32" positionX="3640" positionY="-2710" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -5449,8 +5449,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="38" targetID="37" fromX="2880" fromY="-1196" />
-      <outputs name="Cancelar" ownerID="38" targetID="21" fromX="2880" fromY="-1276" />
+      <outputs name="Confirm" ownerID="38" targetID="37" fromX="2880" fromY="-1196" />
+      <outputs name="Cancel" ownerID="38" targetID="21" fromX="2880" fromY="-1276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="39" positionX="2463" positionY="-1364" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="wood1" startingBalance="-50">
       <logic>
@@ -5471,8 +5471,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="39" targetID="37" fromX="2893" fromY="-1692" />
-      <outputs name="Cancelar" ownerID="39" targetID="21" fromX="2893" fromY="-1772" />
+      <outputs name="Confirm" ownerID="39" targetID="37" fromX="2893" fromY="-1692" />
+      <outputs name="Cancel" ownerID="39" targetID="21" fromX="2893" fromY="-1772" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="-364" positionY="-858" width="350" height="725">
       <logic>
@@ -5506,9 +5506,9 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="41" targetID="42" group="G1" fromX="-508" fromY="-1017" />
-      <outputs name="Cancelar" ownerID="41" targetID="2" fromX="-508" fromY="-1097" />
-      <outputs name="confirme" ownerID="41" targetID="54" group="G1" fromX="-508" fromY="-1177" />
+      <outputs name="Confirm" ownerID="41" targetID="42" group="G1" fromX="-508" fromY="-1017" />
+      <outputs name="Cancel" ownerID="41" targetID="2" fromX="-508" fromY="-1097" />
+      <outputs name="Confirm" ownerID="41" targetID="54" group="G1" fromX="-508" fromY="-1177" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="42" positionX="-1312.19348" positionY="-434.4501" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -5536,8 +5536,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="44" targetID="25" fromX="75" fromY="-2694" />
-      <outputs name="Cancelar" ownerID="44" targetID="11" fromX="75" fromY="-2774" />
+      <outputs name="Confirm" ownerID="44" targetID="25" fromX="75" fromY="-2694" />
+      <outputs name="Cancel" ownerID="44" targetID="11" fromX="75" fromY="-2774" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="45" positionX="-960.915955" positionY="-1773.6947" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-250">
       <logic>
@@ -5547,8 +5547,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="45" targetID="13" fromX="-530" fromY="-2102" />
-      <outputs name="Cancelar" ownerID="45" targetID="11" fromX="-530" fromY="-2182" />
+      <outputs name="Confirm" ownerID="45" targetID="13" fromX="-530" fromY="-2102" />
+      <outputs name="Cancel" ownerID="45" targetID="11" fromX="-530" fromY="-2182" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="46" positionX="-390.212738" positionY="-1687.91577" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="46" targetID="45" group="G1" fromX="39" fromY="-2076" />
@@ -5606,8 +5606,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       </logic>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="55" positionX="1642" positionY="-3279" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-800">
-      <outputs name="confirme" ownerID="55" targetID="56" fromX="2072" fromY="-3607" />
-      <outputs name="Cancelar" ownerID="55" targetID="11" fromX="2072" fromY="-3687" />
+      <outputs name="Confirm" ownerID="55" targetID="56" fromX="2072" fromY="-3607" />
+      <outputs name="Cancel" ownerID="55" targetID="11" fromX="2072" fromY="-3687" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="56" positionX="2478" positionY="-3357" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -6911,8 +6911,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="2045.21411" positionY="-2396.92188" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="15" positionX="-194.938675" positionY="-1179.78333" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-200">
-      <outputs name="confirme" ownerID="15" targetID="20" fromX="235" fromY="-1508" />
-      <outputs name="Cancelar" ownerID="15" targetID="2" fromX="235" fromY="-1588" />
+      <outputs name="Confirm" ownerID="15" targetID="20" fromX="235" fromY="-1508" />
+      <outputs name="Cancel" ownerID="15" targetID="2" fromX="235" fromY="-1588" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="1064" positionY="-976" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-SCAVENGER_2P_2M_2S" challengeScale="101" challengedList="ppl">
       <logic>
@@ -7089,8 +7089,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="43" targetID="44" fromX="1990" fromY="251" />
-      <outputs name="Cancelar" ownerID="43" targetID="3" fromX="1990" fromY="171" />
+      <outputs name="Confirm" ownerID="43" targetID="44" fromX="1990" fromY="251" />
+      <outputs name="Cancel" ownerID="43" targetID="3" fromX="1990" fromY="171" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="44" positionX="2101.67261" positionY="672.134949" width="350" height="725">
       <logic>
@@ -7152,8 +7152,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-738" />
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-818" />As bancas do comerciante estão abertas para você. </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-SLAVYAN_LARGE" playerInventory="unstuff">
-      <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-SLAVYAN_LARGE" playerInventory="nofood" startingBalance="-100">
       <logic>
@@ -7166,8 +7166,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479.56" traderProfile="TRADER-SLAVYAN_LARGE_FRIENDLY" playerInventory="unstuff">
       <logic>
@@ -7177,8 +7177,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2234.3877" fromY="-1434.96277" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234.3877" fromY="-1515.16284" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2234.3877" fromY="-1434.96277" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2234.3877" fromY="-1515.16284" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="360.8" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="761">
@@ -8924,8 +8924,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs name="Troca." ownerID="16" targetID="17" fromX="3086" fromY="1037" />
       <outputs name="Troque seus companheiros espirituais." ownerID="16" targetID="18" fromX="3086" fromY="957" />— Suponho que nos divertimos. Para você, não será tão difícil consegui-la, então ajudaremos se você nos pagar. Dê uma olhada no que buscamos. Gostaríamos de uma armadura média, diamantes ou joias, e se você tiver espíritos ligados a você, podemos usar alguns também.</nodes>
     <nodes xsi:type="NodeTrade" ID="17" positionX="3267" positionY="1421" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="sell1" startingBalance="-5">
-      <outputs name="confirme" ownerID="17" targetID="20" fromX="3697" fromY="1092" />
-      <outputs name="Cancelar" ownerID="17" targetID="16" fromX="3697" fromY="1012" />
+      <outputs name="Confirm" ownerID="17" targetID="20" fromX="3697" fromY="1092" />
+      <outputs name="Cancel" ownerID="17" targetID="16" fromX="3697" fromY="1012" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="18" positionX="3291" positionY="917" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="spirits" startingBalance="-1">
       <logic>
@@ -8935,8 +8935,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="18" targetID="20" fromX="3721" fromY="588" />
-      <outputs name="Cancelar" ownerID="18" targetID="16" fromX="3721" fromY="508" />
+      <outputs name="Confirm" ownerID="18" targetID="20" fromX="3721" fromY="588" />
+      <outputs name="Cancel" ownerID="18" targetID="16" fromX="3721" fromY="508" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="4121" positionY="-510" width="350" height="885">
       <outputs name="Sair." ownerID="19" targetID="32" group="G1" fromX="4446" fromY="-1001" />
@@ -10850,8 +10850,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs name="Diz-se que um dos catadores está morrendo de podridão mental, e todos se reúnem para ouvir seus contos moribundos. Eles soam como um monte de rabiscos, mas as pessoas parecem convencidas de que vale a pena. Ouça com eles." ownerID="11" targetID="63" fromX="956" fromY="-2617" />
       <outputs name="Volte outro dia." ownerID="11" targetID="3" fromX="956" fromY="-2698" />— Acho que você pode descansar. Temos alguns sábios aqui. Se não estão ocupados, são bons com o corpo e a mente.</nodes>
     <nodes xsi:type="NodeTrade" ID="12" positionX="1085.22278" positionY="-1572.70459" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-40">
-      <outputs name="confirme" ownerID="12" targetID="13" fromX="1515" fromY="-1901" />
-      <outputs name="Cancelar" ownerID="12" targetID="11" fromX="1515" fromY="-1981" />
+      <outputs name="Confirm" ownerID="12" targetID="13" fromX="1515" fromY="-1901" />
+      <outputs name="Cancel" ownerID="12" targetID="11" fromX="1515" fromY="-1981" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="1578.57556" positionY="-1597.28" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -10909,8 +10909,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs name="Aceita." ownerID="22" targetID="59" fromX="3759" fromY="-483" />
       <outputs name="Recusar e sair." ownerID="22" targetID="3" fromX="3759" fromY="-563" />'Eslavos bastardos estabeleceram um assentamento perto de nós. Logo eles vão bater na nossa porta, dizendo coisas divinas e nos forçando a ouvir. Livre-se deles e seremos companheiros com certeza.'</nodes>
     <nodes xsi:type="NodeTrade" ID="24" positionX="1152" positionY="-2094" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-70">
-      <outputs name="confirme" ownerID="24" targetID="25" fromX="1582" fromY="-2422" />
-      <outputs name="Cancelar" ownerID="24" targetID="11" fromX="1582" fromY="-2502" />
+      <outputs name="Confirm" ownerID="24" targetID="25" fromX="1582" fromY="-2422" />
+      <outputs name="Cancel" ownerID="24" targetID="11" fromX="1582" fromY="-2502" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="1681.85022" positionY="-2170.06885" width="350" height="455" linkedEventUniqueID="0">
       <logic>
@@ -10943,8 +10943,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="27" targetID="28" fromX="1569" fromY="-2981" />
-      <outputs name="Cancelar" ownerID="27" targetID="11" fromX="1569" fromY="-3061" />
+      <outputs name="Confirm" ownerID="27" targetID="28" fromX="1569" fromY="-2981" />
+      <outputs name="Cancel" ownerID="27" targetID="11" fromX="1569" fromY="-3061" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="1743" positionY="-2711" width="350" height="408" linkedEventUniqueID="0">
       <logic>
@@ -10990,8 +10990,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs ownerID="30" targetID="32" fromX="3478" fromY="-3067" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="31" positionX="2506.6936" positionY="-2768.39014" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-70">
-      <outputs name="confirme" ownerID="31" targetID="30" fromX="2936" fromY="-3096" />
-      <outputs name="Cancelar" ownerID="31" targetID="11" fromX="2936" fromY="-3176" />
+      <outputs name="Confirm" ownerID="31" targetID="30" fromX="2936" fromY="-3096" />
+      <outputs name="Cancel" ownerID="31" targetID="11" fromX="2936" fromY="-3176" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="32" positionX="3565.65015" positionY="-2706.82983" width="350" height="408" linkedEventUniqueID="0">
       <logic>
@@ -11071,8 +11071,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="38" targetID="37" fromX="2906" fromY="-1236" />
-      <outputs name="Cancelar" ownerID="38" targetID="21" fromX="2906" fromY="-1316" />
+      <outputs name="Confirm" ownerID="38" targetID="37" fromX="2906" fromY="-1236" />
+      <outputs name="Cancel" ownerID="38" targetID="21" fromX="2906" fromY="-1316" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="39" positionX="2421.8667" positionY="-1414.84644" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="wood1" startingBalance="-50">
       <logic>
@@ -11093,8 +11093,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="39" targetID="37" fromX="2852" fromY="-1743" />
-      <outputs name="Cancelar" ownerID="39" targetID="21" fromX="2852" fromY="-1823" />
+      <outputs name="Confirm" ownerID="39" targetID="37" fromX="2852" fromY="-1743" />
+      <outputs name="Cancel" ownerID="39" targetID="21" fromX="2852" fromY="-1823" />
     </nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="40" positionX="-450" positionY="-112" width="350" height="725">
       <logic>
@@ -11128,10 +11128,10 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="41" targetID="42" group="G1" fromX="-594" fromY="-856" />
-      <outputs name="Cancelar" ownerID="41" targetID="2" fromX="-594" fromY="-936" />
-      <outputs name="confirme" ownerID="41" targetID="68" group="G1" fromX="-594" fromY="-1016" />
-      <outputs name="confirme" ownerID="41" targetID="54" group="G1" fromX="-594" fromY="-1096" />
+      <outputs name="Confirm" ownerID="41" targetID="42" group="G1" fromX="-594" fromY="-856" />
+      <outputs name="Cancel" ownerID="41" targetID="2" fromX="-594" fromY="-936" />
+      <outputs name="Confirm" ownerID="41" targetID="68" group="G1" fromX="-594" fromY="-1016" />
+      <outputs name="Confirm" ownerID="41" targetID="54" group="G1" fromX="-594" fromY="-1096" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="42" positionX="-1638" positionY="-380" width="350" height="408" linkedEventUniqueID="0">
       <logic>
@@ -11159,8 +11159,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="44" targetID="25" fromX="-361" fromY="-2677" />
-      <outputs name="Cancelar" ownerID="44" targetID="11" fromX="-361" fromY="-2757" />
+      <outputs name="Confirm" ownerID="44" targetID="25" fromX="-361" fromY="-2677" />
+      <outputs name="Cancel" ownerID="44" targetID="11" fromX="-361" fromY="-2757" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="45" positionX="-976" positionY="-1529" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-25">
       <logic>
@@ -11170,8 +11170,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="45" targetID="13" fromX="-545" fromY="-1857" />
-      <outputs name="Cancelar" ownerID="45" targetID="11" fromX="-545" fromY="-1937" />
+      <outputs name="Confirm" ownerID="45" targetID="13" fromX="-545" fromY="-1857" />
+      <outputs name="Cancel" ownerID="45" targetID="11" fromX="-545" fromY="-1937" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="46" positionX="-614" positionY="-962" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="46" targetID="45" group="G1" fromX="-184" fromY="-1350" />
@@ -11219,8 +11219,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       </logic>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="55" positionX="1867" positionY="-3249" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-70">
-      <outputs name="confirme" ownerID="55" targetID="56" fromX="2297" fromY="-3577" />
-      <outputs name="Cancelar" ownerID="55" targetID="11" fromX="2297" fromY="-3657" />
+      <outputs name="Confirm" ownerID="55" targetID="56" fromX="2297" fromY="-3577" />
+      <outputs name="Cancel" ownerID="55" targetID="11" fromX="2297" fromY="-3657" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="56" positionX="2707.10986" positionY="-3353.75366" width="350" height="408" linkedEventUniqueID="0">
       <logic>
@@ -11349,8 +11349,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-738" />
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-818" />As bancas do comerciante estão abertas para você. </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-SCAVENGERS_LARGE" playerInventory="sell">
-      <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1594" positionY="-439" width="460" height="479" traderProfile="TRADER-SCAVENGERS_LARGE" playerInventory="nofood" startingBalance="-50">
       <logic>
@@ -11366,8 +11366,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2024" fromY="-767" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2024" fromY="-847" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2024" fromY="-767" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2024" fromY="-847" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-SCAVENGERS_LARGE_FRIENDLY" playerInventory="sell">
       <logic>
@@ -11377,8 +11377,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="408" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="761">
@@ -11800,8 +11800,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="50" targetID="20" fromX="-112" fromY="-2024" />
-      <outputs name="Cancelar" ownerID="50" targetID="2" fromX="-112" fromY="-2104" />
+      <outputs name="Confirm" ownerID="50" targetID="20" fromX="-112" fromY="-2024" />
+      <outputs name="Cancel" ownerID="50" targetID="2" fromX="-112" fromY="-2104" />
     </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="51" positionX="1220" positionY="690" width="460" height="429" sourceGroup="GROUP-BEES_1P_1M_0S" cargoPercentage="100">
       <outputs ownerID="51" targetID="17" fromX="1650" fromY="331" />
@@ -11890,8 +11890,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs name="Bom." ownerID="13" targetID="18" fromX="3096" fromY="667" />À medida que os eslavos se afastam, eles deixam um presente para você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="1890" positionY="-3401" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="15" positionX="317.0093" positionY="-1951.21191" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-200">
-      <outputs name="confirme" ownerID="15" targetID="20" fromX="747" fromY="-2279" />
-      <outputs name="Cancelar" ownerID="15" targetID="2" fromX="747" fromY="-2359" />
+      <outputs name="Confirm" ownerID="15" targetID="20" fromX="747" fromY="-2279" />
+      <outputs name="Cancel" ownerID="15" targetID="2" fromX="747" fromY="-2359" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="934" positionY="-777" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-HUMS_2P_2M_1S" challengeScale="101" challengedList="ppl">
       <logic>
@@ -12236,8 +12236,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="15" targetID="20" fromX="-39" fromY="-1754" />
-      <outputs name="Cancelar" ownerID="15" targetID="2" fromX="-39" fromY="-1834" />
+      <outputs name="Confirm" ownerID="15" targetID="20" fromX="-39" fromY="-1754" />
+      <outputs name="Cancel" ownerID="15" targetID="2" fromX="-39" fromY="-1834" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="1076.74683" positionY="-1041.93164" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-GOBS_3P_2M_2S" challengeScale="101" challengedList="ppl">
       <logic>
@@ -12366,8 +12366,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="43" targetID="44" fromX="1585" fromY="315" />
-      <outputs name="Cancelar" ownerID="43" targetID="3" fromX="1585" fromY="235" />
+      <outputs name="Confirm" ownerID="43" targetID="44" fromX="1585" fromY="315" />
+      <outputs name="Cancel" ownerID="43" targetID="3" fromX="1585" fromY="235" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="44" positionX="2053" positionY="711" width="350" height="725">
       <logic>
@@ -12688,8 +12688,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="15" targetID="20" fromX="-94" fromY="-1832" />
-      <outputs name="Cancelar" ownerID="15" targetID="2" fromX="-94" fromY="-1912" />
+      <outputs name="Confirm" ownerID="15" targetID="20" fromX="-94" fromY="-1832" />
+      <outputs name="Cancel" ownerID="15" targetID="2" fromX="-94" fromY="-1912" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="766.445862" positionY="-788.5313" width="500" height="689" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_1M_0S" challengeScale="300" challengedList="ppl">
       <logic>
@@ -13084,8 +13084,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs ownerID="4" targetID="3" fromX="1238" fromY="-301" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="2176" positionY="309" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-100">
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2606" fromY="-19" />
-      <outputs name="Cancelar" ownerID="5" targetID="8" fromX="2606" fromY="-99" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2606" fromY="-19" />
+      <outputs name="Cancel" ownerID="5" targetID="8" fromX="2606" fromY="-99" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2741" positionY="316" width="350" height="408" linkedEventUniqueID="0">
       <logic>
@@ -13099,8 +13099,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
     <nodes xsi:type="NodeAdventure" ID="8" positionX="3370" positionY="-444" width="350" height="725">
       <outputs name="Sair." ownerID="8" targetID="15" fromX="3695" fromY="-935" />Nenhum acordo. Mais sorte da próxima vez. </nodes>
     <nodes xsi:type="NodeTrade" ID="9" positionX="2170" positionY="-227" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-100">
-      <outputs name="confirme" ownerID="9" targetID="10" fromX="2600" fromY="-555" />
-      <outputs name="Cancelar" ownerID="9" targetID="8" fromX="2600" fromY="-635" />
+      <outputs name="Confirm" ownerID="9" targetID="10" fromX="2600" fromY="-555" />
+      <outputs name="Cancel" ownerID="9" targetID="8" fromX="2600" fromY="-635" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="2756" positionY="-176" width="350" height="408" linkedEventUniqueID="0">
       <logic>
@@ -13137,8 +13137,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="17" positionX="1722" positionY="-1051" width="350" height="725">
       <outputs name="Dê-lhes boas-vindas." ownerID="17" targetID="23" fromX="2047" fromY="-1542" />Um órfão ouve você recrutando e implora para que você os aceite. Eles ouviram que você é um campeão e eles querem ser um também, aparentemente.</nodes>
     <nodes xsi:type="NodeTrade" ID="18" positionX="2166" positionY="-1492" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-150">
-      <outputs name="confirme" ownerID="18" targetID="20" fromX="2596" fromY="-1820" />
-      <outputs name="Cancelar" ownerID="18" targetID="8" fromX="2596" fromY="-1900" />
+      <outputs name="Confirm" ownerID="18" targetID="20" fromX="2596" fromY="-1820" />
+      <outputs name="Cancel" ownerID="18" targetID="8" fromX="2596" fromY="-1900" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="19" positionX="3524" positionY="-1595" width="350" height="408" linkedEventUniqueID="0">
       <logic>
@@ -13611,8 +13611,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="24" targetID="27" fromX="11" fromY="-1650" />
-      <outputs name="Cancelar" ownerID="24" targetID="2" fromX="11" fromY="-1730" />
+      <outputs name="Confirm" ownerID="24" targetID="27" fromX="11" fromY="-1650" />
+      <outputs name="Cancel" ownerID="24" targetID="2" fromX="11" fromY="-1730" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="2252" positionY="119" width="350" height="725">
       <outputs name="Sair." ownerID="25" targetID="21" fromX="2577" fromY="-372" />Você ganhou.</nodes>
@@ -13699,7 +13699,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="9" targetID="10" fromX="2781" fromY="1065" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="9" targetID="19" fromX="2781" fromY="985" />Você ouve o baque de um martelo sobre uma bigorna e sente o calor de uma forja ao seu redor. 'ENTÃO, VOCÊ É MEU ESCOLHIDO, ENTÃO?'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="9" targetID="19" fromX="2781" fromY="985" />Você ouve o baque de um martelo sobre uma bigorna e sente o calor de uma forja ao seu redor. 'ENTÃO, VOCÊ É MEU ESCOLHIDO, ENTÃO?'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2937" positionY="1776" width="350" height="805">
       <outputs name="Recusar." ownerID="10" targetID="11" fromX="3262" fromY="1284" />
@@ -13762,7 +13762,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="25" targetID="26" fromX="2848" fromY="167" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="25" targetID="27" fromX="2848" fromY="87" />Você cheira a doçura das flores e sente o calor do abraço de um amante. 'AH, VOCÊ É MEU ESCOLHIDO?'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="25" targetID="27" fromX="2848" fromY="87" />Você cheira a doçura das flores e sente o calor do abraço de um amante. 'AH, VOCÊ É MEU ESCOLHIDO?'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="3489" positionY="503" width="350" height="805">
       <outputs name="Recusar." ownerID="26" targetID="28" fromX="3814" fromY="11" />
@@ -13790,7 +13790,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="32" targetID="33" fromX="2898" fromY="-613" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="32" targetID="34" fromX="2898" fromY="-693" />Você sente o frescor da floresta selvagem e sente o olhar atento da caçadora sobre você. 'ENTÃO VOCÊ É MEU ESCOLHIDO?'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="32" targetID="34" fromX="2898" fromY="-693" />Você sente o frescor da floresta selvagem e sente o olhar atento da caçadora sobre você. 'ENTÃO VOCÊ É MEU ESCOLHIDO?'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="3495" positionY="-288" width="350" height="805">
       <outputs name="Recusar." ownerID="33" targetID="36" fromX="3820" fromY="-779" />
@@ -13812,7 +13812,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="37" targetID="43" fromX="3123" fromY="-1309" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="37" targetID="38" fromX="3123" fromY="-1389" />Você sente o cheiro da água do mar e sente o toque vivo das ondas sobre você. 'VOCÊ, MEU ESCOLHIDO!'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="37" targetID="38" fromX="3123" fromY="-1389" />Você sente o cheiro da água do mar e sente o toque vivo das ondas sobre você. 'VOCÊ, MEU ESCOLHIDO!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="38" positionX="2977" positionY="-1248" width="350" height="725">
       <outputs name="Aceite este chamado." ownerID="38" targetID="39" fromX="3302" fromY="-1739" />'Sim bom. Seu coração arde com minha vontade de ferro e você sempre sentiu isso. Agora você deve ser meu martelo entre as terras dos vivos.'</nodes>
@@ -13828,7 +13828,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="40" targetID="42" fromX="1954" fromY="-1693" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="40" targetID="41" fromX="1954" fromY="-1773" />Você fica deslumbrado com uma variedade de cores e sensaçoes que reconhece como as tramas da magia. 'AH, MEU ESCOLHIDO, SIM?'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="40" targetID="41" fromX="1954" fromY="-1773" />Você fica deslumbrado com uma variedade de cores e sensaçoes que reconhece como as tramas da magia. 'AH, MEU ESCOLHIDO, SIM?'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="2935" positionY="-2113" width="350" height="725">
       <outputs name="Aceite este chamado." ownerID="41" targetID="46" fromX="3260" fromY="-2604" />'Sim bom. Seu coração arde com minha vontade de ferro e você sempre sentiu isso. Agora você deve ser meu martelo entre as terras dos vivos.'</nodes>
@@ -13859,7 +13859,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="48" targetID="52" fromX="2422" fromY="-562" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="48" targetID="51" fromX="2422" fromY="-642" />Você ouve a confusão de lâminas se chocando e fica cego por três estrelas que aparecem diante de você. 'MEU ESCOLHIDO!'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="48" targetID="51" fromX="2422" fromY="-642" />Você ouve a confusão de lâminas se chocando e fica cego por três estrelas que aparecem diante de você. 'MEU ESCOLHIDO!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="49" positionX="7141" positionY="1620" width="350" height="725">
       <outputs name="Acordar." ownerID="49" targetID="50" fromX="7466" fromY="1128" />'Você encontrará sinais, você verá os erros desta terra. Com o tempo, seu verdadeiro propósito se tornará claro para você. Fiquem bem, meus filhos!</nodes>
@@ -13884,7 +13884,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="55" targetID="57" fromX="2772" fromY="-3833" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="55" targetID="56" fromX="2772" fromY="-3913" />Você sente o cheiro inegável de carne podre e sente as tristezas das almas que passam antes de você. 'ESCOLHIDO, mas por quem, eu me pergunto? EU?'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="55" targetID="56" fromX="2772" fromY="-3913" />Você sente o cheiro inegável de carne podre e sente as tristezas das almas que passam antes de você. 'ESCOLHIDO, mas por quem, eu me pergunto? EU?'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="56" positionX="2876" positionY="-3626" width="350" height="725">
       <outputs name="Aceite este chamado." ownerID="56" targetID="59" fromX="3201" fromY="-4117" />'Oh, eu vejo. Que estranho. Eu nunca senti sua vinda até agora, ou senti? No entanto, você sentiu nosso vínculo - bom, útil, sábio. Agora você deve ser meu servo entre as terras dos vivos.'</nodes>
@@ -13907,7 +13907,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="60" targetID="62" fromX="2459" fromY="-1378" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="60" targetID="61" fromX="2459" fromY="-1458" />Você sente cheiro de lava derretida e gosto de cinzas em seus dentes. Você sente a raiva te encher e ouve o rugido de muitos guerreiros. 'ESCOLHIDO!'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="60" targetID="61" fromX="2459" fromY="-1458" />Você sente cheiro de lava derretida e gosto de cinzas em seus dentes. Você sente a raiva te encher e ouve o rugido de muitos guerreiros. 'ESCOLHIDO!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="61" positionX="2881" positionY="-4485" width="350" height="725">
       <outputs name="Aceite este chamado." ownerID="61" targetID="64" fromX="3206" fromY="-4976" />'Sim bom. Seu coração arde com minha vontade de ferro e você sempre sentiu isso. Agora você deve ser meu martelo entre as terras dos vivos.'</nodes>
@@ -13929,7 +13929,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
         </FilterBlock>
       </logic>
       <outputs name="Negue. Você não escolheu este caminho!" ownerID="65" targetID="67" fromX="2780" fromY="-5508" />
-      <outputs name="confirme it. You have always felt you were made for something more!" ownerID="65" targetID="66" fromX="2780" fromY="-5588" />Você sente o cheiro de sangue fresco e o toque vivo do ar da meia-noite. Você ouve o uivo de muitos lobos e, instintivamente, junta-se a eles, até que uma única voz clara responde ao seu chamado. 'Eu ouço seu chamado, ESCOLHIDO!'
+      <outputs name="Confirme! Você sempre sentiu que foi feito para algo mais!" ownerID="65" targetID="66" fromX="2780" fromY="-5588" />Você sente o cheiro de sangue fresco e o toque vivo do ar da meia-noite. Você ouve o uivo de muitos lobos e, instintivamente, junta-se a eles, até que uma única voz clara responde ao seu chamado. 'Eu ouço seu chamado, ESCOLHIDO!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="66" positionX="2874" positionY="-5408" width="350" height="681">
       <outputs name="Aceite este chamado." ownerID="66" targetID="69" fromX="3199" fromY="-5899" />'Sim bom. Seu coração arde com minha vontade de ferro e você sempre sentiu isso. Agora você deve ser meu martelo entre as terras dos vivos.'</nodes>

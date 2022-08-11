@@ -817,8 +817,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="19" targetID="20" fromX="-421" fromY="-1096" />
-      <outputs name="Cancelar" ownerID="19" targetID="2" fromX="-421" fromY="-1176" />
+      <outputs name="Confirm" ownerID="19" targetID="20" fromX="-421" fromY="-1096" />
+      <outputs name="Cancel" ownerID="19" targetID="2" fromX="-421" fromY="-1176" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="-353" positionY="-764" width="350" height="725">
       <logic>
@@ -1289,8 +1289,8 @@ The female growls at him and takes a few steps towards you.</nodes>
       <outputs name="Surrender" ownerID="6" targetID="26" fromX="1883" fromY="-879" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="7" positionX="1363" positionY="-1065" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-1">
-      <outputs name="confirme" ownerID="7" targetID="30" fromX="1793" fromY="-1393" />
-      <outputs name="Cancelar" ownerID="7" targetID="3" fromX="1793" fromY="-1473" />
+      <outputs name="Confirm" ownerID="7" targetID="30" fromX="1793" fromY="-1393" />
+      <outputs name="Cancel" ownerID="7" targetID="3" fromX="1793" fromY="-1473" />
     </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="8" positionX="2411" positionY="-1242" width="460" height="589" sourceGroup="GROUP-CZYTLICA_5P_5M_5S" cargoPercentage="100">
       <outputs ownerID="8" targetID="9" group="G1" fromX="2841" fromY="-1600" />
@@ -3813,8 +3813,8 @@ The female growls at him and takes a few steps towards you.</nodes>
       <outputs name="Pagar." ownerID="2" targetID="3" fromX="743" fromY="-1248" />
       <outputs name="[Usuário de magia] Uma forte magia demoníaca está em ação aqui. Realize um ritual para limpar sua mente do nevoeiro e dissipar os truques da criatura." ownerID="2" targetID="20" fromX="743" fromY="-1328" />Ao caminhar por pântanos, você poderia jurar que estava usando um caminho conhecido, mas percebe que anda em círculos e não tem saída. Só então você vê um demônio infantil feio rindo de você: 'Pague ou se perca!'</nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="291" positionY="-1685" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-800">
-      <outputs name="confirme" ownerID="3" targetID="8" fromX="721" fromY="-2013" />
-      <outputs name="Cancelar" ownerID="3" targetID="2" fromX="721" fromY="-2093" />
+      <outputs name="Confirm" ownerID="3" targetID="8" fromX="721" fromY="-2013" />
+      <outputs name="Cancel" ownerID="3" targetID="2" fromX="721" fromY="-2093" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="4" positionX="834" positionY="-83" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_4M_0S" challengeScale="0" challengedList="ppl">
       <logic>
@@ -4325,8 +4325,8 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="24" targetID="25" fromX="3488" fromY="-1" />
-      <outputs name="Cancelar" ownerID="24" targetID="26" fromX="3488" fromY="-81" />
+      <outputs name="Confirm" ownerID="24" targetID="25" fromX="3488" fromY="-1" />
+      <outputs name="Cancel" ownerID="24" targetID="26" fromX="3488" fromY="-81" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="3684" positionY="558" width="350" height="725">
       <logic>
@@ -4464,8 +4464,8 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="3" targetID="4" fromX="1310" fromY="-744" />
-      <outputs name="Cancelar" ownerID="3" targetID="2" fromX="1310" fromY="-824" />
+      <outputs name="Confirm" ownerID="3" targetID="4" fromX="1310" fromY="-744" />
+      <outputs name="Cancel" ownerID="3" targetID="2" fromX="1310" fromY="-824" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="1401" positionY="-306" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -4505,8 +4505,8 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="6" targetID="7" fromX="1303" fromY="-1290" />
-      <outputs name="Cancelar" ownerID="6" targetID="2" fromX="1303" fromY="-1370" />
+      <outputs name="Confirm" ownerID="6" targetID="7" fromX="1303" fromY="-1290" />
+      <outputs name="Cancel" ownerID="6" targetID="2" fromX="1303" fromY="-1370" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="1593" positionY="-1402" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -4689,8 +4689,8 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="24" targetID="25" fromX="3488" fromY="-1" />
-      <outputs name="Cancelar" ownerID="24" targetID="26" fromX="3488" fromY="-81" />
+      <outputs name="Confirm" ownerID="24" targetID="25" fromX="3488" fromY="-1" />
+      <outputs name="Cancel" ownerID="24" targetID="26" fromX="3488" fromY="-81" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="3684" positionY="558" width="350" height="725">
       <logic>
@@ -4889,8 +4889,8 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="24" targetID="25" fromX="3488" fromY="-1" />
-      <outputs name="Cancelar" ownerID="24" targetID="26" fromX="3488" fromY="-81" />
+      <outputs name="Confirm" ownerID="24" targetID="25" fromX="3488" fromY="-1" />
+      <outputs name="Cancel" ownerID="24" targetID="26" fromX="3488" fromY="-81" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="3684" positionY="558" width="350" height="725">
       <logic>
@@ -5134,8 +5134,8 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="14" targetID="15" fromX="350" fromY="-1114" />
-      <outputs name="Cancelar" ownerID="14" targetID="2" fromX="350" fromY="-1194" />
+      <outputs name="Confirm" ownerID="14" targetID="15" fromX="350" fromY="-1114" />
+      <outputs name="Cancel" ownerID="14" targetID="2" fromX="350" fromY="-1194" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="-586" positionY="-737" width="350" height="725">
       <outputs name="Sair." ownerID="15" targetID="16" fromX="-260" fromY="-1228" />O volh desonesto concorda. Ele pega seu amigo e vai embora, por enquanto.</nodes>
@@ -5836,8 +5836,8 @@ To keep the dark at bay and call out to the sun on the very day when the night i
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="25" targetID="26" fromX="2729" fromY="615" />
-      <outputs name="Cancelar" ownerID="25" targetID="24" fromX="2729" fromY="535" />
+      <outputs name="Confirm" ownerID="25" targetID="26" fromX="2729" fromY="615" />
+      <outputs name="Cancel" ownerID="25" targetID="24" fromX="2729" fromY="535" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="2892" positionY="1266" width="350" height="805">
       <outputs name="Desejo-lhes boa sorte em suas viagens." ownerID="26" targetID="4" group="G1" fromX="3233" fromY="775" />
@@ -8112,8 +8112,8 @@ To keep the dark at bay and call out to the sun on the very day when the night i
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="19" targetID="20" fromX="3439" fromY="-127" />
-      <outputs name="Cancelar" ownerID="19" targetID="18" fromX="3439" fromY="-207" />
+      <outputs name="Confirm" ownerID="19" targetID="20" fromX="3439" fromY="-127" />
+      <outputs name="Cancel" ownerID="19" targetID="18" fromX="3439" fromY="-207" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3528" positionY="240" width="350" height="805">
       <outputs name="Aguarde os resultados." ownerID="20" targetID="11" group="G1" fromX="3853" fromY="-251" />

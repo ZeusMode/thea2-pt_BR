@@ -41,7 +41,7 @@
 		<Entry Key="UI_MULTIPLAYER" Val="Multijogador"></Entry>
 		<Entry Key="UI_EVENTS_EDITOR" Val="Editor de eventos"></Entry>
 		<Entry Key="UI_SETTINGS" Val="Definiçoes"></Entry>
-		<Entry Key="UI_QUIT" Val="Desistir"></Entry>
+		<Entry Key="UI_QUIT" Val="Sair"></Entry>
 		<Entry Key="UI_CONTINUE" Val="Continuar"></Entry>
 		<Entry Key="UI_NEW_GAME" Val="Novo jogo"></Entry>
 		<Entry Key="UI_LOAD_GAME" Val="Carregar jogo"></Entry>

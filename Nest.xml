@@ -157,8 +157,8 @@
       <outputs ownerID="59" targetID="72" fromX="2970" fromY="707" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="60" positionX="2525.4314" positionY="249.905823" width="460" height="479" traderProfile="TRADER-BEASTS" playerInventory="unstuff">
-      <outputs name="confirme" ownerID="60" targetID="55" fromX="2955" fromY="-78" />
-      <outputs name="Cancelar" ownerID="60" targetID="55" fromX="2955" fromY="-158" />
+      <outputs name="Confirm" ownerID="60" targetID="55" fromX="2955" fromY="-78" />
+      <outputs name="Cancel" ownerID="60" targetID="55" fromX="2955" fromY="-158" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="61" positionX="2208.203" positionY="-497.420868" width="350" height="725">
       <outputs name="Sair." ownerID="61" targetID="69" fromX="2533" fromY="-988" />Você não conseguiu se comunicar com sucesso. O ninho está agitado e pronto para enxameá-lo.</nodes>

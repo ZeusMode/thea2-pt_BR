@@ -22,12 +22,12 @@
       <outputs name="Comércio de crianças." ownerID="2" targetID="18" group="G2" fromX="804" fromY="-942" />
       <outputs name="Comércio de crianças." ownerID="2" targetID="13" group="G2" fromX="804" fromY="-1022" />As bancas do comerciante estão abertas para você, mas negociamos em pedra, a menos que você tenha filhos, também aceitamos. </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1081" positionY="215" width="460" height="479" traderProfile="TRADER-ICE_DEMONS_SMALL" playerInventory="stone">
-      <outputs name="confirme" ownerID="3" targetID="6" fromX="1511" fromY="-113" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1511" fromY="-193" />
+      <outputs name="Confirm" ownerID="3" targetID="6" fromX="1511" fromY="-113" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1511" fromY="-193" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-ICE_DEMONS_SMALL" playerInventory="stone" startingBalance="-50">
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1836" positionY="-1112" width="460" height="479" traderProfile="TRADER-ICE_DEMONS_SMALL_FRIENDLY" playerInventory="stone">
       <logic>
@@ -37,8 +37,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2266" fromY="-1440" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2266" fromY="-1520" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2266" fromY="-1440" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2266" fromY="-1520" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="885">
@@ -55,8 +55,8 @@
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1789.41174" positionY="355.919952" width="350" height="725">
       <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Boa negociação com você. Deuses estejam com você.</nodes>
     <nodes xsi:type="NodeTrade" ID="13" positionX="-31" positionY="-1973" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="child" startingBalance="-1">
-      <outputs name="confirme" ownerID="13" targetID="15" fromX="399" fromY="-2301" />
-      <outputs name="Cancelar" ownerID="13" targetID="11" fromX="399" fromY="-2381" />
+      <outputs name="Confirm" ownerID="13" targetID="15" fromX="399" fromY="-2301" />
+      <outputs name="Cancel" ownerID="13" targetID="11" fromX="399" fromY="-2381" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="15" positionX="1469" positionY="-2563" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -68,8 +68,8 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="17" positionX="1342" positionY="-1398" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="child" startingBalance="-2">
-      <outputs name="confirme" ownerID="17" targetID="15" fromX="1772" fromY="-1726" />
-      <outputs name="Cancelar" ownerID="17" targetID="11" fromX="1772" fromY="-1806" />
+      <outputs name="Confirm" ownerID="17" targetID="15" fromX="1772" fromY="-1726" />
+      <outputs name="Cancel" ownerID="17" targetID="11" fromX="1772" fromY="-1806" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="18" positionX="512" positionY="-1298" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="child" startingBalance="-1">
       <logic>
@@ -79,8 +79,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="18" targetID="20" fromX="942" fromY="-1626" />
-      <outputs name="Cancelar" ownerID="18" targetID="11" fromX="942" fromY="-1706" />
+      <outputs name="Confirm" ownerID="18" targetID="20" fromX="942" fromY="-1626" />
+      <outputs name="Cancel" ownerID="18" targetID="11" fromX="942" fromY="-1706" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="1122" positionY="-1938" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -118,12 +118,12 @@
       <outputs name="Comércio de crianças." ownerID="2" targetID="13" group="G2" fromX="804" fromY="-1022" />As bancas do comerciante estão abertas para você, mas negociamos em pedra, a menos que você tenha filhos, também aceitamos.
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-ICE_DEMONS" playerInventory="stone">
-      <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-ICE_DEMONS" playerInventory="stone" startingBalance="-50">
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="2061" positionY="-1089" width="460" height="479" traderProfile="TRADER-ICE_DEMONS_FRIENDLY" playerInventory="stone">
       <logic>
@@ -133,8 +133,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2491" fromY="-1417" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2491" fromY="-1497" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2491" fromY="-1417" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2491" fromY="-1497" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="885">
@@ -151,8 +151,8 @@
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1789.41174" positionY="355.919952" width="350" height="725">
       <outputs name="Sair." ownerID="11" targetID="6" fromX="2115" fromY="-135" />'Você sai agora.'</nodes>
     <nodes xsi:type="NodeTrade" ID="13" positionX="106" positionY="-1632" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="child" startingBalance="-1">
-      <outputs name="confirme" ownerID="13" targetID="14" fromX="536" fromY="-1960" />
-      <outputs name="Cancelar" ownerID="13" targetID="11" fromX="536" fromY="-2040" />
+      <outputs name="Confirm" ownerID="13" targetID="14" fromX="536" fromY="-1960" />
+      <outputs name="Cancel" ownerID="13" targetID="11" fromX="536" fromY="-2040" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="802" positionY="-2345" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -167,8 +167,8 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="15" positionX="1546" positionY="-1376" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="child" startingBalance="-2">
-      <outputs name="confirme" ownerID="15" targetID="14" fromX="1976" fromY="-1704" />
-      <outputs name="Cancelar" ownerID="15" targetID="11" fromX="1976" fromY="-1784" />
+      <outputs name="Confirm" ownerID="15" targetID="14" fromX="1976" fromY="-1704" />
+      <outputs name="Cancel" ownerID="15" targetID="11" fromX="1976" fromY="-1784" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="17" positionX="1424" positionY="-1989" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -193,8 +193,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="18" targetID="6" fromX="1336" fromY="-1681" />
-      <outputs name="Cancelar" ownerID="18" targetID="11" fromX="1336" fromY="-1761" />
+      <outputs name="Confirm" ownerID="18" targetID="6" fromX="1336" fromY="-1681" />
+      <outputs name="Cancel" ownerID="18" targetID="11" fromX="1336" fromY="-1761" />
     </nodes>
   </Adventure>
   <Adventure name="IcedemonsTradeadv" uniqueID="31" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="17" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
@@ -220,12 +220,12 @@
       <outputs name="Comércio de crianças." ownerID="2" targetID="14" group="G2" fromX="804" fromY="-1022" />As bancas do comerciante estão abertas para você, mas negociamos em pedra, a menos que você tenha filhos, também aceitamos.
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-ICE_DEMONS_LARGE" playerInventory="stone">
-      <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-ICE_DEMONS_LARGE" playerInventory="stone" startingBalance="-50">
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="2071" positionY="-1064" width="460" height="479" traderProfile="TRADER-ICE_DEMONS_LARGE_FRIENDLY" playerInventory="stone">
       <logic>
@@ -235,8 +235,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2501" fromY="-1392" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2501" fromY="-1472" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2501" fromY="-1392" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2501" fromY="-1472" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="885">
@@ -268,12 +268,12 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="14" positionX="289" positionY="-1575" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="child" startingBalance="-1">
-      <outputs name="confirme" ownerID="14" targetID="13" fromX="719" fromY="-1903" />
-      <outputs name="Cancelar" ownerID="14" targetID="11" fromX="719" fromY="-1983" />
+      <outputs name="Confirm" ownerID="14" targetID="13" fromX="719" fromY="-1903" />
+      <outputs name="Cancel" ownerID="14" targetID="11" fromX="719" fromY="-1983" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="15" positionX="1510" positionY="-1369" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="child" startingBalance="-2">
-      <outputs name="confirme" ownerID="15" targetID="13" fromX="1940" fromY="-1697" />
-      <outputs name="Cancelar" ownerID="15" targetID="11" fromX="1940" fromY="-1777" />
+      <outputs name="Confirm" ownerID="15" targetID="13" fromX="1940" fromY="-1697" />
+      <outputs name="Cancel" ownerID="15" targetID="11" fromX="1940" fromY="-1777" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="16" positionX="882" positionY="-1342" width="460" height="479" traderProfile="TRADER-ICE_DEMONS_CHILD" playerInventory="child">
       <logic>
@@ -283,8 +283,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="16" targetID="6" fromX="1312" fromY="-1670" />
-      <outputs name="Cancelar" ownerID="16" targetID="11" fromX="1312" fromY="-1750" />
+      <outputs name="Confirm" ownerID="16" targetID="6" fromX="1312" fromY="-1670" />
+      <outputs name="Cancel" ownerID="16" targetID="11" fromX="1312" fromY="-1750" />
     </nodes>
   </Adventure>
   <Adventure name="IceVillage" uniqueID="32" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="25" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -506,8 +506,8 @@
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="23" targetID="22" fromX="1833" fromY="-1380" />
-      <outputs name="Cancelar" ownerID="23" targetID="24" fromX="1833" fromY="-1460" />
+      <outputs name="Confirm" ownerID="23" targetID="22" fromX="1833" fromY="-1380" />
+      <outputs name="Cancel" ownerID="23" targetID="24" fromX="1833" fromY="-1460" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="2497" positionY="-1255" width="350" height="805">
       <outputs name="Sim, aceite." ownerID="24" targetID="23" fromX="2822" fromY="-1746" />

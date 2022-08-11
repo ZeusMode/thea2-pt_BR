@@ -3390,8 +3390,8 @@ Some of your people are likely never to recover from their state? And yet, upon 
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="11" targetID="14" fromX="3590" fromY="368" />
-      <outputs name="Cancelar" ownerID="11" targetID="14" fromX="3590" fromY="288" />
+      <outputs name="Confirm" ownerID="11" targetID="14" fromX="3590" fromY="368" />
+      <outputs name="Cancel" ownerID="11" targetID="14" fromX="3590" fromY="288" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="12" positionX="3103" positionY="1262" width="460" height="479" traderProfile="TRADER-ALPHA_CLANS_FRIENDLY" playerInventory="stuff">
       <logic>
@@ -3401,8 +3401,8 @@ Some of your people are likely never to recover from their state? And yet, upon 
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="12" targetID="14" fromX="3533" fromY="933" />
-      <outputs name="Cancelar" ownerID="12" targetID="14" fromX="3533" fromY="853" />
+      <outputs name="Confirm" ownerID="12" targetID="14" fromX="3533" fromY="933" />
+      <outputs name="Cancel" ownerID="12" targetID="14" fromX="3533" fromY="853" />
     </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="14" positionX="3766" positionY="979" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="14" targetID="15" fromX="4214" fromY="546" />
@@ -3939,8 +3939,8 @@ Some of your people are likely never to recover from their state? And yet, upon 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="1510" fromY="-599" />
-      <outputs name="Cancelar" ownerID="5" targetID="3" fromX="1510" fromY="-679" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="1510" fromY="-599" />
+      <outputs name="Cancel" ownerID="5" targetID="3" fromX="1510" fromY="-679" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1639" positionY="-209" width="350" height="725">
       <logic>
@@ -4117,8 +4117,8 @@ Some of your people are likely never to recover from their state? And yet, upon 
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="32" targetID="24" fromX="4100" fromY="-1917" />
-      <outputs name="Cancelar" ownerID="32" targetID="21" fromX="4100" fromY="-1997" />
+      <outputs name="Confirm" ownerID="32" targetID="24" fromX="4100" fromY="-1917" />
+      <outputs name="Cancel" ownerID="32" targetID="21" fromX="4100" fromY="-1997" />
     </nodes>
   </Adventure>
   <Adventure name="Krtecek" uniqueID="22" allowOnce="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="true" difficulty="3" nodeIdMax="17" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -4290,8 +4290,8 @@ Some of your people are likely never to recover from their state? And yet, upon 
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="17" targetID="10" fromX="2617" fromY="-1664" />
-      <outputs name="Cancelar" ownerID="17" targetID="8" fromX="2617" fromY="-1744" />
+      <outputs name="Confirm" ownerID="17" targetID="10" fromX="2617" fromY="-1664" />
+      <outputs name="Cancel" ownerID="17" targetID="8" fromX="2617" fromY="-1744" />
     </nodes>
   </Adventure>
   <Adventure name="WeddingFeast" uniqueID="23" allowOnce="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="true" difficulty="4" nodeIdMax="22" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -4983,8 +4983,8 @@ Some of your people are likely never to recover from their state? And yet, upon 
       <outputs name="Concorde com os termos." ownerID="11" targetID="15" fromX="1435" fromY="-1517" />
       <outputs name="Ataque!" ownerID="11" targetID="13" fromX="1435" fromY="-1597" />Seu demônio se encontrou com o guardião da floresta, bugay, e o convenceu a deixar sua aldeia se você prometer não ficar sem carro com o corte de madeira.</nodes>
     <nodes xsi:type="NodeTrade" ID="12" positionX="1101" positionY="-1906" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="demon" startingBalance="-1">
-      <outputs name="confirme" ownerID="12" targetID="14" fromX="1531" fromY="-2234" />
-      <outputs name="Cancelar" ownerID="12" targetID="10" fromX="1531" fromY="-2314" />
+      <outputs name="Confirm" ownerID="12" targetID="14" fromX="1531" fromY="-2234" />
+      <outputs name="Cancel" ownerID="12" targetID="10" fromX="1531" fromY="-2314" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="13" positionX="1827" positionY="-1102" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-LOTS_FOREST_D_8P_8M_8S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="13" targetID="16" fromX="2268" fromY="-1597" />
@@ -5711,16 +5711,16 @@ Some of your people are likely never to recover from their state? And yet, upon 
       <outputs name="Digamos que você mudou de ideia e simplesmente vai encontrar outra maneira." ownerID="6" targetID="12" fromX="2396" fromY="-655" />
       <outputs name="Pergunte o que está no baú que você vê do outro lado do caminho?" ownerID="6" targetID="13" fromX="2396" fromY="-735" />'Ah, direto ao ponto que você está, bom! Bem, eu não sou exigente, apenas preguiçoso, e eu gosto de uma boa carne! Ou, eu sou parcial para frutas. Acho que se você realmente não tem nada disso, pode me dar um de seu pessoal, embora eu não goste da bagunça de comida fresca?</nodes>
     <nodes xsi:type="NodeTrade" ID="7" positionX="2677" positionY="-42" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="food" startingBalance="-100">
-      <outputs name="confirme" ownerID="7" targetID="8" fromX="3107" fromY="-370" />
-      <outputs name="Cancelar" ownerID="7" targetID="6" fromX="3107" fromY="-450" />
+      <outputs name="Confirm" ownerID="7" targetID="8" fromX="3107" fromY="-370" />
+      <outputs name="Cancel" ownerID="7" targetID="6" fromX="3107" fromY="-450" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="3452" positionY="-188" width="350" height="725">
       <outputs name="Atravesse a ponte de mão." ownerID="8" targetID="11" fromX="3777" fromY="-679" />Você entrega a mercadoria e o troll deixa você atravessar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3030" positionY="-646" width="350" height="725">
       <outputs name="Atravesse a ponte de mão." ownerID="9" targetID="11" fromX="3355" fromY="-1137" />Você deixa um de seu povo para trás para o terror deles e vai para a travessia. O Troll pega sua recompensa em sua mão rochosa e a esmaga como um melão! Você ouve o grito do seu camarada e seus ossos quebram...</nodes>
     <nodes xsi:type="NodeTrade" ID="10" positionX="2529" positionY="-573" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-1">
-      <outputs name="confirme" ownerID="10" targetID="9" fromX="2959" fromY="-901" />
-      <outputs name="Cancelar" ownerID="10" targetID="6" fromX="2959" fromY="-981" />
+      <outputs name="Confirm" ownerID="10" targetID="9" fromX="2959" fromY="-901" />
+      <outputs name="Cancel" ownerID="10" targetID="6" fromX="2959" fromY="-981" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="3992" positionY="-521" width="350" height="966" image="Event025">
       <logic>
@@ -6279,8 +6279,8 @@ Some of your people are likely never to recover from their state? And yet, upon 
       <outputs name="Agradeça a ela. (Você precisará dar 1 arma aqui, e se você não tiver uma arma não equipada, você precisará dar uma equipada - há um botão na troca para ver as coisas equipadas)" ownerID="9" targetID="6" fromX="1382" fromY="-1407" />
       <outputs name="Pergunte de que bênçãos ela fala?" ownerID="9" targetID="5" fromX="1382" fromY="-1487" />Você dá alguns passos à frente e sente uma bênção cair sobre você. Você está descansado, suas feridas estão curadas e você se sente muito feliz. Enquanto você está ali, aproveitando o novo sentimento, uma mulher aparece do lago e fala com uma voz calma, mas autoritária: 'Bem-vindos, Cavaleiros de Arathorn. Você está longe de Camroth, mas eu, a Dama do Lago, concederei sua dádiva cavalheiresca, como foi combinado.</nodes>
     <nodes xsi:type="NodeTrade" ID="10" positionX="2345" positionY="-296" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="weapon" startingBalance="-1">
-      <outputs name="confirme" ownerID="10" targetID="12" fromX="2775" fromY="-624" />
-      <outputs name="Cancelar" ownerID="10" targetID="6" fromX="2775" fromY="-704" />
+      <outputs name="Confirm" ownerID="10" targetID="12" fromX="2775" fromY="-624" />
+      <outputs name="Cancel" ownerID="10" targetID="6" fromX="2775" fromY="-704" />
     </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="11" positionX="2439" positionY="-899" width="460" height="429" sourceGroup="GROUP-DRAGON_ONE_10P_8M_8S" cargoPercentage="50" dropPercentage="50">
       <outputs ownerID="11" targetID="7" fromX="2869" fromY="-1257" />
@@ -6844,8 +6844,8 @@ Some of your people are likely never to recover from their state? And yet, upon 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="14" targetID="17" fromX="1454" fromY="-2539" />
-      <outputs name="Cancelar" ownerID="14" targetID="13" fromX="1454" fromY="-2619" />
+      <outputs name="Confirm" ownerID="14" targetID="17" fromX="1454" fromY="-2539" />
+      <outputs name="Cancel" ownerID="14" targetID="13" fromX="1454" fromY="-2619" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="1095" positionY="-1324" width="350" height="805">
       <logic>
@@ -6858,8 +6858,8 @@ Some of your people are likely never to recover from their state? And yet, upon 
       <outputs name="Para armas! " ownerID="15" targetID="3" fromX="1420" fromY="-1815" />
       <outputs name="Apenas deixe o dragão ficar com o ouro." ownerID="15" targetID="4" fromX="1420" fromY="-1895" />O dragão pega a virgem e parece um pouco confuso sobre o que fazer com eles. Finalmente, ele rosna para você: 'Isso não me satisfaz, não é nem virgem, como você anuncia, e mesmo que fosse, não vale nada!' O dragão permanece no topo de sua torre e pega o ouro novamente.'</nodes>
     <nodes xsi:type="NodeTrade" ID="16" positionX="312" positionY="-2142" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="pf" startingBalance="-1">
-      <outputs name="confirme" ownerID="16" targetID="20" fromX="742" fromY="-2470" />
-      <outputs name="Cancelar" ownerID="16" targetID="13" fromX="742" fromY="-2550" />
+      <outputs name="Confirm" ownerID="16" targetID="20" fromX="742" fromY="-2470" />
+      <outputs name="Cancel" ownerID="16" targetID="13" fromX="742" fromY="-2550" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1680" positionY="-1962" width="350" height="725">
       <outputs name="Sair." ownerID="17" targetID="18" fromX="2005" fromY="-2453" />O dragão pega a virgem e parece um pouco confuso sobre o que fazer com eles. Finalmente, ele decide comer a pobre alma, mas ao fazê-lo, ele engasga com eles e cai morto enquanto seus lacaios fogem com medo de seus truques!</nodes>
@@ -7591,8 +7591,8 @@ She'll bring me gifts, every full moon, she'll torment me, never let me stow awa
       <outputs name="Desafie-o para um duelo intelectual." ownerID="2" targetID="5" fromX="732" fromY="-811" />
       <outputs name="Recusar educadamente por enquanto, o estudioso pode retornar mais tarde." ownerID="2" targetID="8" fromX="732" fromY="-891" />Sua escola atraiu a atenção de um estudioso de aparência estranha. Ele diz que é um inventor. Ele está interessado em seus artesãos, pois eles são conhecidos por serem promissores no campo. 'Sim, eu crio maravilhas, faço sonhos ganharem vida e ideias despertadas! Bom, às vezes... Na maioria das vezes eu faço porcarias que quebram, mas é uma ótima profissão. Vou ensiná-lo aos que são dignos, por um preço.'</nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="835" positionY="-178" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-10000">
-      <outputs name="confirme" ownerID="3" targetID="4" fromX="1265" fromY="-506" />
-      <outputs name="Cancelar" ownerID="3" targetID="2" fromX="1265" fromY="-586" />
+      <outputs name="Confirm" ownerID="3" targetID="4" fromX="1265" fromY="-506" />
+      <outputs name="Cancel" ownerID="3" targetID="2" fromX="1265" fromY="-586" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="1457" positionY="-95" width="350" height="530" linkedEventUniqueID="0">
       <logic>

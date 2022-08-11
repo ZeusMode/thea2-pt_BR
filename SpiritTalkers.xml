@@ -1701,8 +1701,8 @@
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="55" targetID="20" fromX="292" fromY="-1242" />
-      <outputs name="Cancelar" ownerID="55" targetID="2" fromX="292" fromY="-1322" />
+      <outputs name="Confirm" ownerID="55" targetID="20" fromX="292" fromY="-1242" />
+      <outputs name="Cancel" ownerID="55" targetID="2" fromX="292" fromY="-1322" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="56" positionX="-456" positionY="-348" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -1913,8 +1913,8 @@
       <outputs name="Peça aos xamãs para curar seu espírito, se puderem." ownerID="11" targetID="91" group="G1" fromX="190" fromY="-3324" />
       <outputs name="Pague para remover o veneno." ownerID="11" targetID="69" group="G2" fromX="190" fromY="-3404" />'Você vem, você descansa, você fuma conosco. Os xamãs também têm bons cogumelos, curam muitas coisas, às vezes também adoecem, mas principalmente curam.</nodes>
     <nodes xsi:type="NodeTrade" ID="12" positionX="1260" positionY="-1419" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="sell" startingBalance="-500">
-      <outputs name="confirme" ownerID="12" targetID="13" fromX="1690" fromY="-1747" />
-      <outputs name="Cancelar" ownerID="12" targetID="3" fromX="1690" fromY="-1827" />
+      <outputs name="Confirm" ownerID="12" targetID="13" fromX="1690" fromY="-1747" />
+      <outputs name="Cancel" ownerID="12" targetID="3" fromX="1690" fromY="-1827" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="2064.796" positionY="-1506.6344" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -1966,8 +1966,8 @@
       <outputs ownerID="23" targetID="66" fromX="4228" fromY="-403" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="24" positionX="979" positionY="-2134" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-800">
-      <outputs name="confirme" ownerID="24" targetID="25" fromX="1409" fromY="-2462" />
-      <outputs name="Cancelar" ownerID="24" targetID="11" fromX="1409" fromY="-2542" />
+      <outputs name="Confirm" ownerID="24" targetID="25" fromX="1409" fromY="-2462" />
+      <outputs name="Cancel" ownerID="24" targetID="11" fromX="1409" fromY="-2542" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="1513" positionY="-1977" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -2002,8 +2002,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="27" targetID="28" fromX="1453" fromY="-2916" />
-      <outputs name="Cancelar" ownerID="27" targetID="11" fromX="1453" fromY="-2996" />
+      <outputs name="Confirm" ownerID="27" targetID="28" fromX="1453" fromY="-2916" />
+      <outputs name="Cancel" ownerID="27" targetID="11" fromX="1453" fromY="-2996" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="1642.487" positionY="-2686.81128" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -2070,8 +2070,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="31" targetID="30" fromX="2925" fromY="-3231" />
-      <outputs name="Cancelar" ownerID="31" targetID="11" fromX="2925" fromY="-3311" />
+      <outputs name="Confirm" ownerID="31" targetID="30" fromX="2925" fromY="-3231" />
+      <outputs name="Cancel" ownerID="31" targetID="11" fromX="2925" fromY="-3311" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="32" positionX="3743" positionY="-2699" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -2147,8 +2147,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="38" targetID="37" fromX="3872" fromY="-1652" />
-      <outputs name="Cancelar" ownerID="38" targetID="21" fromX="3872" fromY="-1732" />
+      <outputs name="Confirm" ownerID="38" targetID="37" fromX="3872" fromY="-1652" />
+      <outputs name="Cancel" ownerID="38" targetID="21" fromX="3872" fromY="-1732" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="39" positionX="3314" positionY="-825" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="iron" startingBalance="-45">
       <logic>
@@ -2169,8 +2169,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="39" targetID="37" fromX="3744" fromY="-1153" />
-      <outputs name="Cancelar" ownerID="39" targetID="21" fromX="3744" fromY="-1233" />
+      <outputs name="Confirm" ownerID="39" targetID="37" fromX="3744" fromY="-1153" />
+      <outputs name="Cancel" ownerID="39" targetID="21" fromX="3744" fromY="-1233" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="-469.004578" positionY="-212.663162" width="350" height="725">
       <logic>
@@ -2218,8 +2218,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="44" targetID="93" fromX="812" fromY="-2810" />
-      <outputs name="Cancelar" ownerID="44" targetID="3" fromX="812" fromY="-2890" />
+      <outputs name="Confirm" ownerID="44" targetID="93" fromX="812" fromY="-2810" />
+      <outputs name="Cancel" ownerID="44" targetID="3" fromX="812" fromY="-2890" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="45" positionX="-1192" positionY="-2105" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="sell" startingBalance="-250">
       <logic>
@@ -2229,8 +2229,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="45" targetID="13" fromX="-761" fromY="-2433" />
-      <outputs name="Cancelar" ownerID="45" targetID="11" fromX="-761" fromY="-2513" />
+      <outputs name="Confirm" ownerID="45" targetID="13" fromX="-761" fromY="-2433" />
+      <outputs name="Cancel" ownerID="45" targetID="11" fromX="-761" fromY="-2513" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="46" positionX="-560.649963" positionY="-1736.90137" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="46" targetID="45" group="G1" fromX="-131" fromY="-2125" />
@@ -2278,8 +2278,8 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="55" positionX="1837" positionY="-3295" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-700">
-      <outputs name="confirme" ownerID="55" targetID="56" fromX="2267" fromY="-3623" />
-      <outputs name="Cancelar" ownerID="55" targetID="11" fromX="2267" fromY="-3703" />
+      <outputs name="Confirm" ownerID="55" targetID="56" fromX="2267" fromY="-3623" />
+      <outputs name="Cancel" ownerID="55" targetID="11" fromX="2267" fromY="-3703" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="56" positionX="2483.724" positionY="-3422.42822" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -2391,8 +2391,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="65" targetID="30" fromX="3493" fromY="-3501" />
-      <outputs name="Cancelar" ownerID="65" targetID="11" fromX="3493" fromY="-3581" />
+      <outputs name="Confirm" ownerID="65" targetID="30" fromX="3493" fromY="-3501" />
+      <outputs name="Cancel" ownerID="65" targetID="11" fromX="3493" fromY="-3581" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="66" positionX="1928" positionY="-435" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -2413,8 +2413,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="69" targetID="28" fromX="776" fromY="-3702" />
-      <outputs name="Cancelar" ownerID="69" targetID="11" fromX="776" fromY="-3782" />
+      <outputs name="Confirm" ownerID="69" targetID="28" fromX="776" fromY="-3702" />
+      <outputs name="Cancel" ownerID="69" targetID="11" fromX="776" fromY="-3782" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="87" positionX="-1629" positionY="-481" width="460" height="539" challengeTypeDamage="TypePhysical" minDamage="25" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="87" targetID="42" group="G1" fromX="-1199" fromY="-869" />
@@ -2515,8 +2515,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="94" targetID="25" fromX="1197" fromY="-2118" />
-      <outputs name="Cancelar" ownerID="94" targetID="11" fromX="1197" fromY="-2198" />
+      <outputs name="Confirm" ownerID="94" targetID="25" fromX="1197" fromY="-2118" />
+      <outputs name="Cancel" ownerID="94" targetID="11" fromX="1197" fromY="-2198" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" allowOnce="true" ID="95" positionX="522" positionY="-454" width="350" height="530" linkedEventUniqueID="62">
       <logic>
@@ -3168,8 +3168,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="15" targetID="20" fromX="228" fromY="-1765" />
-      <outputs name="Cancelar" ownerID="15" targetID="2" fromX="228" fromY="-1846" />
+      <outputs name="Confirm" ownerID="15" targetID="20" fromX="228" fromY="-1765" />
+      <outputs name="Cancel" ownerID="15" targetID="2" fromX="228" fromY="-1846" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2765.11377" positionY="70.95743" width="350" height="681">
       <outputs name="Sair." ownerID="18" targetID="10" fromX="3090" fromY="-376" />Eventualmente, você se livra de todos os morcegos doentes. Os goblins estão satisfeitos com seus esforços.
@@ -3609,8 +3609,8 @@
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="33" targetID="35" fromX="1285" fromY="-3182" />
-      <outputs name="Cancelar" ownerID="33" targetID="11" fromX="1285" fromY="-3262" />
+      <outputs name="Confirm" ownerID="33" targetID="35" fromX="1285" fromY="-3182" />
+      <outputs name="Cancel" ownerID="33" targetID="11" fromX="1285" fromY="-3262" />
     </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="35" positionX="1491" positionY="-2887" width="480" height="503" radius="0" destroyOwner="false" linkedEventUniqueID="0">
       <outputs ownerID="35" targetID="36" fromX="1939" fromY="-3319" />
@@ -3644,8 +3644,8 @@
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />As bancas do comerciante estão abertas para você. 
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_SMALL" playerInventory="sell">
-      <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_SMALL" playerInventory="nofood" startingBalance="-50">
       <logic>
@@ -3658,8 +3658,8 @@
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_SMALL_FRIENDLY" playerInventory="sell">
       <logic>
@@ -3669,8 +3669,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="455" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1050" positionY="-408" width="350" height="805">
@@ -3714,8 +3714,8 @@
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />As bancas do comerciante estão abertas para você. 
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="883.906" positionY="276.0567" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS" playerInventory="sell">
-      <outputs name="confirme" ownerID="3" targetID="11" fromX="1314" fromY="-52" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1314" fromY="-132" />
+      <outputs name="Confirm" ownerID="3" targetID="11" fromX="1314" fromY="-52" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1314" fromY="-132" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS" playerInventory="nofood" startingBalance="-50">
       <logic>
@@ -3728,8 +3728,8 @@
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_FRIENDLY" playerInventory="sell">
       <logic>
@@ -3739,8 +3739,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="805">
@@ -3784,8 +3784,8 @@
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />As bancas do comerciante estão abertas para você. 
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_LARGE" playerInventory="sell">
-      <outputs name="confirme" ownerID="3" targetID="11" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="11" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1666" positionY="-480" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_LARGE" playerInventory="nofood" startingBalance="-50">
       <logic>
@@ -3798,8 +3798,8 @@
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2096" fromY="-808" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2096" fromY="-888" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2096" fromY="-808" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2096" fromY="-888" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_LARGE_FRIENDLY" playerInventory="sell">
       <logic>
@@ -3809,8 +3809,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1096" positionY="-390" width="350" height="805">
@@ -4234,8 +4234,8 @@
       <outputs name="Peça aos xamãs para curar seu espírito, se puderem." ownerID="11" targetID="102" group="G1" fromX="219" fromY="-3506" />
       <outputs name="Pague para remover o veneno." ownerID="11" targetID="69" group="G2" fromX="219" fromY="-3586" />'Você vem, você descansa, você fuma conosco. Os xamãs também têm bons cogumelos, curam muitas coisas - às vezes também fazem você ficar doente, mas principalmente curam.'</nodes>
     <nodes xsi:type="NodeTrade" ID="12" positionX="1310" positionY="-839" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="sell" startingBalance="-500">
-      <outputs name="confirme" ownerID="12" targetID="13" fromX="1740" fromY="-1167" />
-      <outputs name="Cancelar" ownerID="12" targetID="11" fromX="1740" fromY="-1247" />
+      <outputs name="Confirm" ownerID="12" targetID="13" fromX="1740" fromY="-1167" />
+      <outputs name="Cancel" ownerID="12" targetID="11" fromX="1740" fromY="-1247" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="2283" positionY="-1211" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -4296,8 +4296,8 @@
       <outputs ownerID="23" targetID="66" fromX="4263" fromY="-166" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="24" positionX="1484" positionY="-1431" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="sell" startingBalance="-800">
-      <outputs name="confirme" ownerID="24" targetID="25" fromX="1914" fromY="-1759" />
-      <outputs name="Cancelar" ownerID="24" targetID="11" fromX="1914" fromY="-1839" />
+      <outputs name="Confirm" ownerID="24" targetID="25" fromX="1914" fromY="-1759" />
+      <outputs name="Cancel" ownerID="24" targetID="11" fromX="1914" fromY="-1839" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="1681" positionY="-1914" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -4336,8 +4336,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="27" targetID="28" fromX="1434" fromY="-3240" />
-      <outputs name="Cancelar" ownerID="27" targetID="11" fromX="1434" fromY="-3320" />
+      <outputs name="Confirm" ownerID="27" targetID="28" fromX="1434" fromY="-3240" />
+      <outputs name="Cancel" ownerID="27" targetID="11" fromX="1434" fromY="-3320" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="28" positionX="1668" positionY="-2904" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -4420,8 +4420,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="31" targetID="30" fromX="2912" fromY="-3207" />
-      <outputs name="Cancelar" ownerID="31" targetID="11" fromX="2912" fromY="-3287" />
+      <outputs name="Confirm" ownerID="31" targetID="30" fromX="2912" fromY="-3207" />
+      <outputs name="Cancel" ownerID="31" targetID="11" fromX="2912" fromY="-3287" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="32" positionX="3756" positionY="-2824" width="350" height="455" linkedEventUniqueID="0">
       <logic>
@@ -4502,8 +4502,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="38" targetID="37" fromX="4359" fromY="-1469" />
-      <outputs name="Cancelar" ownerID="38" targetID="21" fromX="4359" fromY="-1549" />
+      <outputs name="Confirm" ownerID="38" targetID="37" fromX="4359" fromY="-1469" />
+      <outputs name="Cancel" ownerID="38" targetID="21" fromX="4359" fromY="-1549" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="39" positionX="3314" positionY="-825" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="iron" startingBalance="-60">
       <logic>
@@ -4524,8 +4524,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="39" targetID="37" fromX="3744" fromY="-1153" />
-      <outputs name="Cancelar" ownerID="39" targetID="21" fromX="3744" fromY="-1233" />
+      <outputs name="Confirm" ownerID="39" targetID="37" fromX="3744" fromY="-1153" />
+      <outputs name="Cancel" ownerID="39" targetID="21" fromX="3744" fromY="-1233" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="-534" positionY="-470" width="350" height="725" image="Event215">
       <logic>
@@ -4573,8 +4573,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="44" targetID="98" fromX="336" fromY="-2395" />
-      <outputs name="Cancelar" ownerID="44" targetID="3" fromX="336" fromY="-2475" />
+      <outputs name="Confirm" ownerID="44" targetID="98" fromX="336" fromY="-2395" />
+      <outputs name="Cancel" ownerID="44" targetID="3" fromX="336" fromY="-2475" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="45" positionX="-1146.26245" positionY="-2080.22925" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="sell" startingBalance="-250">
       <logic>
@@ -4584,8 +4584,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="45" targetID="13" fromX="-715" fromY="-2408" />
-      <outputs name="Cancelar" ownerID="45" targetID="11" fromX="-715" fromY="-2488" />
+      <outputs name="Confirm" ownerID="45" targetID="13" fromX="-715" fromY="-2408" />
+      <outputs name="Cancel" ownerID="45" targetID="11" fromX="-715" fromY="-2488" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="46" positionX="-572" positionY="-1789" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="46" targetID="45" group="G1" fromX="-142" fromY="-2177" />
@@ -4633,8 +4633,8 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="55" positionX="2001" positionY="-3732" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="unstuff" startingBalance="-700">
-      <outputs name="confirme" ownerID="55" targetID="56" fromX="2431" fromY="-4060" />
-      <outputs name="Cancelar" ownerID="55" targetID="11" fromX="2431" fromY="-4140" />
+      <outputs name="Confirm" ownerID="55" targetID="56" fromX="2431" fromY="-4060" />
+      <outputs name="Cancel" ownerID="55" targetID="11" fromX="2431" fromY="-4140" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="56" positionX="2483.724" positionY="-3422.42822" width="350" height="455" linkedEventUniqueID="0">
       <logic>
@@ -4743,8 +4743,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="65" targetID="30" fromX="3493" fromY="-3501" />
-      <outputs name="Cancelar" ownerID="65" targetID="11" fromX="3493" fromY="-3581" />
+      <outputs name="Confirm" ownerID="65" targetID="30" fromX="3493" fromY="-3501" />
+      <outputs name="Cancel" ownerID="65" targetID="11" fromX="3493" fromY="-3581" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="66" positionX="1928" positionY="-435" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -4765,8 +4765,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="69" targetID="28" fromX="776" fromY="-3702" />
-      <outputs name="Cancelar" ownerID="69" targetID="11" fromX="776" fromY="-3782" />
+      <outputs name="Confirm" ownerID="69" targetID="28" fromX="776" fromY="-3702" />
+      <outputs name="Cancel" ownerID="69" targetID="11" fromX="776" fromY="-3782" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="70" positionX="-3586" positionY="-1945" width="350" height="805">
       <logic>
@@ -5073,8 +5073,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="99" targetID="25" fromX="832" fromY="-3015" />
-      <outputs name="Cancelar" ownerID="99" targetID="3" fromX="832" fromY="-3095" />
+      <outputs name="Confirm" ownerID="99" targetID="25" fromX="832" fromY="-3015" />
+      <outputs name="Cancel" ownerID="99" targetID="3" fromX="832" fromY="-3095" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="100" positionX="-670" positionY="-3621" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
@@ -6929,13 +6929,13 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="33" targetID="15" group="G1" fromX="441" fromY="-3449" />
-      <outputs name="Cancelar" ownerID="33" targetID="14" fromX="441" fromY="-3529" />
-      <outputs name="confirme" ownerID="33" targetID="22" group="G1" fromX="441" fromY="-3610" />
+      <outputs name="Confirm" ownerID="33" targetID="15" group="G1" fromX="441" fromY="-3449" />
+      <outputs name="Cancel" ownerID="33" targetID="14" fromX="441" fromY="-3529" />
+      <outputs name="Confirm" ownerID="33" targetID="22" group="G1" fromX="441" fromY="-3610" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="34" positionX="-491.9412" positionY="-1811.94336" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_SMALL_FRIENDLY" playerInventory="stuff">
-      <outputs name="confirme" ownerID="34" targetID="50" fromX="-61" fromY="-2140" />
-      <outputs name="Cancelar" ownerID="34" targetID="50" fromX="-61" fromY="-2220" />
+      <outputs name="Confirm" ownerID="34" targetID="50" fromX="-61" fromY="-2140" />
+      <outputs name="Cancel" ownerID="34" targetID="50" fromX="-61" fromY="-2220" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="37" positionX="2335.98315" positionY="-2413.50244" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="38" positionX="3372.1" positionY="-2204.93384" width="350" height="408" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
@@ -7002,8 +7002,8 @@
       </logic>
       <outputs name="Diga à mulher que um estranho bonito e moreno virá à sua porta em breve." ownerID="44" targetID="28" fromX="2248" fromY="885" />Você corta sua mão, respinga o sangue no chão limpo e joga três ossos cada da mão esquerda de uma criança ainda não nascida. Os ossos caem em um padrão.</nodes>
     <nodes xsi:type="NodeTrade" ID="45" positionX="2783.25146" positionY="1758.81653" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_SMALL_FRIENDLY" playerInventory="suff">
-      <outputs name="confirme" ownerID="45" targetID="51" fromX="3213" fromY="1430" />
-      <outputs name="Cancelar" ownerID="45" targetID="51" fromX="3213" fromY="1350" />
+      <outputs name="Confirm" ownerID="45" targetID="51" fromX="3213" fromY="1430" />
+      <outputs name="Cancel" ownerID="45" targetID="51" fromX="3213" fromY="1350" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="46" positionX="2773.747" positionY="1226.53992" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="4" maxDamage="8" useCountInPercent="false" targetGroup="witch">
       <logic>
@@ -7814,8 +7814,8 @@
       <outputs ownerID="4" targetID="3" fromX="1239" fromY="-308" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="2172" positionY="363" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="nofood" startingBalance="-13000">
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2602" fromY="34" />
-      <outputs name="Cancelar" ownerID="5" targetID="8" fromX="2602" fromY="-45" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2602" fromY="34" />
+      <outputs name="Cancel" ownerID="5" targetID="8" fromX="2602" fromY="-45" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2753" positionY="454" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -7839,8 +7839,8 @@
       </logic>
       <outputs name="Sair." ownerID="8" targetID="15" fromX="4148" fromY="-675" />Nenhum acordo. Mais sorte da próxima vez. </nodes>
     <nodes xsi:type="NodeTrade" ID="9" positionX="2170" positionY="-227" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="nofood" startingBalance="-14000">
-      <outputs name="confirme" ownerID="9" targetID="10" fromX="2600" fromY="-555" />
-      <outputs name="Cancelar" ownerID="9" targetID="8" fromX="2600" fromY="-635" />
+      <outputs name="Confirm" ownerID="9" targetID="10" fromX="2600" fromY="-555" />
+      <outputs name="Cancel" ownerID="9" targetID="8" fromX="2600" fromY="-635" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="2775" positionY="-132" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -7874,8 +7874,8 @@
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1735" positionY="-1039" width="350" height="725">
       <outputs name="Dê-lhes boas-vindas." ownerID="17" targetID="44" fromX="2060" fromY="-1530" />Uma criança goblin quer ser contratada. Eles são pequenos agora, mas quem sabe, eles podem crescer e se tornar alguém grande.</nodes>
     <nodes xsi:type="NodeTrade" ID="18" positionX="2165" positionY="-1597" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="nofood" startingBalance="-16000">
-      <outputs name="confirme" ownerID="18" targetID="40" fromX="2595" fromY="-1925" />
-      <outputs name="Cancelar" ownerID="18" targetID="8" fromX="2595" fromY="-2005" />
+      <outputs name="Confirm" ownerID="18" targetID="40" fromX="2595" fromY="-1925" />
+      <outputs name="Cancel" ownerID="18" targetID="8" fromX="2595" fromY="-2005" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="21" positionX="4011" positionY="-1857" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -8143,8 +8143,8 @@
       </logic>
       <outputs name="Hora de partir." ownerID="37" targetID="31" fromX="1616" fromY="-3044" />Você bebeu e fumou demais. Aparentemente, você começou a insultar os locais por ser muito baixo e depois tentou colocar um na sua bolsa para provar isso. </nodes>
     <nodes xsi:type="NodeTrade" ID="38" positionX="2577" positionY="-784" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="nofood" startingBalance="-20000">
-      <outputs name="confirme" ownerID="38" targetID="16" fromX="3007" fromY="-1112" />
-      <outputs name="Cancelar" ownerID="38" targetID="8" fromX="3007" fromY="-1192" />
+      <outputs name="Confirm" ownerID="38" targetID="16" fromX="3007" fromY="-1112" />
+      <outputs name="Cancel" ownerID="38" targetID="8" fromX="3007" fromY="-1192" />
     </nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="39" positionX="2163" positionY="-736" width="350" height="725">
       <logic>
@@ -8177,16 +8177,16 @@
       <outputs name="Pague por um artesão, se puder." ownerID="41" targetID="42" fromX="3029" fromY="-2450" />
       <outputs name="Pague por um coletor, se puder." ownerID="41" targetID="43" fromX="3029" fromY="-2530" />Um coletor e um artesão estão disponíveis, mas exigem um pagamento.</nodes>
     <nodes xsi:type="NodeTrade" ID="42" positionX="3277" positionY="-1930" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="nofood" startingBalance="-14000">
-      <outputs name="confirme" ownerID="42" targetID="21" fromX="3707" fromY="-2258" />
-      <outputs name="Cancelar" ownerID="42" targetID="8" fromX="3707" fromY="-2338" />
+      <outputs name="Confirm" ownerID="42" targetID="21" fromX="3707" fromY="-2258" />
+      <outputs name="Cancel" ownerID="42" targetID="8" fromX="3707" fromY="-2338" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="43" positionX="3285" positionY="-2442" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="nofood" startingBalance="-14000">
-      <outputs name="confirme" ownerID="43" targetID="22" fromX="3715" fromY="-2770" />
-      <outputs name="Cancelar" ownerID="43" targetID="8" fromX="3715" fromY="-2850" />
+      <outputs name="Confirm" ownerID="43" targetID="22" fromX="3715" fromY="-2770" />
+      <outputs name="Cancel" ownerID="43" targetID="8" fromX="3715" fromY="-2850" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="44" positionX="1251" positionY="-1172" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="nofood" startingBalance="-12000">
-      <outputs name="confirme" ownerID="44" targetID="23" fromX="1681" fromY="-1500" />
-      <outputs name="Cancelar" ownerID="44" targetID="8" fromX="1681" fromY="-1580" />
+      <outputs name="Confirm" ownerID="44" targetID="23" fromX="1681" fromY="-1500" />
+      <outputs name="Cancel" ownerID="44" targetID="8" fromX="1681" fromY="-1580" />
     </nodes>
   </Adventure>
   <Adventure name="Beastmaster" uniqueID="73" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="42" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
@@ -8240,14 +8240,14 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="7" fromX="1265" fromY="-167" />
-      <outputs name="Cancelar" ownerID="5" targetID="3" fromX="1265" fromY="-247" />
+      <outputs name="Confirm" ownerID="5" targetID="7" fromX="1265" fromY="-167" />
+      <outputs name="Cancel" ownerID="5" targetID="3" fromX="1265" fromY="-247" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1344" positionY="474" width="350" height="725">
       <outputs name="Entregue o animal de estimação." ownerID="7" targetID="8" fromX="1669" fromY="-17" />'Taxa paga, bom. Agora me dê aquele bichinho para treinar.</nodes>
     <nodes xsi:type="NodeTrade" ID="8" positionX="1745" positionY="516" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="dog" startingBalance="-1">
-      <outputs name="confirme" ownerID="8" targetID="9" fromX="2175" fromY="187" />
-      <outputs name="Cancelar" ownerID="8" targetID="3" fromX="2175" fromY="107" />
+      <outputs name="Confirm" ownerID="8" targetID="9" fromX="2175" fromY="187" />
+      <outputs name="Cancel" ownerID="8" targetID="3" fromX="2175" fromY="107" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2282" positionY="924" width="350" height="725">
       <logic>
@@ -8267,14 +8267,14 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="11" targetID="12" fromX="1258" fromY="-677" />
-      <outputs name="Cancelar" ownerID="11" targetID="3" fromX="1258" fromY="-757" />
+      <outputs name="Confirm" ownerID="11" targetID="12" fromX="1258" fromY="-677" />
+      <outputs name="Cancel" ownerID="11" targetID="3" fromX="1258" fromY="-757" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="1353" positionY="-303" width="350" height="725">
       <outputs name="Entregue o animal de estimação." ownerID="12" targetID="13" fromX="1678" fromY="-794" />'Taxa paga, bom. Agora me dê aquele bichinho para treinar.</nodes>
     <nodes xsi:type="NodeTrade" ID="13" positionX="1791" positionY="-279" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="wolf" startingBalance="-1">
-      <outputs name="confirme" ownerID="13" targetID="14" fromX="2221" fromY="-607" />
-      <outputs name="Cancelar" ownerID="13" targetID="3" fromX="2221" fromY="-687" />
+      <outputs name="Confirm" ownerID="13" targetID="14" fromX="2221" fromY="-607" />
+      <outputs name="Cancel" ownerID="13" targetID="3" fromX="2221" fromY="-687" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="2424" positionY="61" width="350" height="725">
       <logic>
@@ -8295,8 +8295,8 @@
       </logic>
       <outputs name="Agradeça ao treinador e vá embora." ownerID="15" targetID="10" fromX="3232" fromY="-982" />Seu animal de estimação retorna depois de um tempo e parece muito melhor comportado.</nodes>
     <nodes xsi:type="NodeTrade" ID="16" positionX="2350" positionY="-820" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="boar" startingBalance="-1">
-      <outputs name="confirme" ownerID="16" targetID="15" fromX="2780" fromY="-1148" />
-      <outputs name="Cancelar" ownerID="16" targetID="3" fromX="2780" fromY="-1228" />
+      <outputs name="Confirm" ownerID="16" targetID="15" fromX="2780" fromY="-1148" />
+      <outputs name="Cancel" ownerID="16" targetID="3" fromX="2780" fromY="-1228" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1893" positionY="-825" width="350" height="725">
       <outputs name="Entregue o animal de estimação." ownerID="17" targetID="16" fromX="2218" fromY="-1316" />'Taxa paga, bom. Agora me dê aquele bichinho para treinar.</nodes>
@@ -8308,8 +8308,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="18" targetID="17" fromX="1285" fromY="-1227" />
-      <outputs name="Cancelar" ownerID="18" targetID="3" fromX="1285" fromY="-1307" />
+      <outputs name="Confirm" ownerID="18" targetID="17" fromX="1285" fromY="-1227" />
+      <outputs name="Cancel" ownerID="18" targetID="3" fromX="1285" fromY="-1307" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="19" positionX="1332" positionY="-1123" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="stuff" startingBalance="-60">
       <logic>
@@ -8319,14 +8319,14 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="19" targetID="20" fromX="1762" fromY="-1451" />
-      <outputs name="Cancelar" ownerID="19" targetID="3" fromX="1762" fromY="-1531" />
+      <outputs name="Confirm" ownerID="19" targetID="20" fromX="1762" fromY="-1451" />
+      <outputs name="Cancel" ownerID="19" targetID="3" fromX="1762" fromY="-1531" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="2289" positionY="-1519" width="350" height="725">
       <outputs name="Entregue o animal de estimação." ownerID="20" targetID="21" fromX="2614" fromY="-2010" />'Taxa paga, bom. Agora me dê aquele bichinho para treinar.</nodes>
     <nodes xsi:type="NodeTrade" ID="21" positionX="2711" positionY="-1476" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="goat" startingBalance="-1">
-      <outputs name="confirme" ownerID="21" targetID="22" fromX="3141" fromY="-1804" />
-      <outputs name="Cancelar" ownerID="21" targetID="3" fromX="3141" fromY="-1884" />
+      <outputs name="Confirm" ownerID="21" targetID="22" fromX="3141" fromY="-1804" />
+      <outputs name="Cancel" ownerID="21" targetID="3" fromX="3141" fromY="-1884" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="3281" positionY="-1288" width="350" height="725">
       <logic>
@@ -8345,14 +8345,14 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="23" targetID="33" fromX="1196" fromY="-1773" />
-      <outputs name="Cancelar" ownerID="23" targetID="3" fromX="1196" fromY="-1853" />
+      <outputs name="Confirm" ownerID="23" targetID="33" fromX="1196" fromY="-1773" />
+      <outputs name="Cancel" ownerID="23" targetID="3" fromX="1196" fromY="-1853" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="1309" positionY="-1671" width="350" height="725">
       <outputs name="Entregue o animal de estimação." ownerID="24" targetID="25" fromX="1634" fromY="-2162" />'Taxa paga, bom, agora me passe aquele bichinho para treinar.'</nodes>
     <nodes xsi:type="NodeTrade" ID="25" positionX="1699" positionY="-1620" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="turt" startingBalance="-1">
-      <outputs name="confirme" ownerID="25" targetID="26" fromX="2129" fromY="-1948" />
-      <outputs name="Cancelar" ownerID="25" targetID="3" fromX="2129" fromY="-2028" />
+      <outputs name="Confirm" ownerID="25" targetID="26" fromX="2129" fromY="-1948" />
+      <outputs name="Cancel" ownerID="25" targetID="3" fromX="2129" fromY="-2028" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="3211" positionY="-2096" width="350" height="725">
       <logic>
@@ -8371,8 +8371,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="27" targetID="24" fromX="413" fromY="-1917" />
-      <outputs name="Cancelar" ownerID="27" targetID="3" fromX="413" fromY="-1997" />
+      <outputs name="Confirm" ownerID="27" targetID="24" fromX="413" fromY="-1917" />
+      <outputs name="Cancel" ownerID="27" targetID="3" fromX="413" fromY="-1997" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="28" positionX="510" positionY="-2084" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="stuff" startingBalance="-60">
       <logic>
@@ -8385,14 +8385,14 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="28" targetID="29" fromX="940" fromY="-2412" />
-      <outputs name="Cancelar" ownerID="28" targetID="3" fromX="940" fromY="-2492" />
+      <outputs name="Confirm" ownerID="28" targetID="29" fromX="940" fromY="-2412" />
+      <outputs name="Cancel" ownerID="28" targetID="3" fromX="940" fromY="-2492" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="1123" positionY="-2518" width="350" height="725">
       <outputs name="Entregue o animal de estimação." ownerID="29" targetID="30" fromX="1448" fromY="-3009" />'Taxa paga, bom. Agora me dê aquele bichinho para treinar.</nodes>
     <nodes xsi:type="NodeTrade" ID="30" positionX="2098" positionY="-2867" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="turtle" startingBalance="-1">
-      <outputs name="confirme" ownerID="30" targetID="31" fromX="2528" fromY="-3195" />
-      <outputs name="Cancelar" ownerID="30" targetID="3" fromX="2528" fromY="-3275" />
+      <outputs name="Confirm" ownerID="30" targetID="31" fromX="2528" fromY="-3195" />
+      <outputs name="Cancel" ownerID="30" targetID="3" fromX="2528" fromY="-3275" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="2539" positionY="-2764" width="350" height="725">
       <logic>
@@ -8415,8 +8415,8 @@
     <nodes xsi:type="NodeAdventure" ID="33" positionX="1697" positionY="-2146" width="350" height="725">
       <outputs name="Entregue o animal de estimação." ownerID="33" targetID="34" fromX="2022" fromY="-2637" />'Taxa paga, bom, agora me passe aquele bichinho para treinar.'</nodes>
     <nodes xsi:type="NodeTrade" ID="34" positionX="2070" positionY="-2265" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="bear" startingBalance="-1">
-      <outputs name="confirme" ownerID="34" targetID="32" fromX="2500" fromY="-2593" />
-      <outputs name="Cancelar" ownerID="34" targetID="3" fromX="2500" fromY="-2673" />
+      <outputs name="Confirm" ownerID="34" targetID="32" fromX="2500" fromY="-2593" />
+      <outputs name="Cancel" ownerID="34" targetID="3" fromX="2500" fromY="-2673" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="35" positionX="-780" positionY="-1432" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="stuff" startingBalance="-60">
       <logic>
@@ -8429,14 +8429,14 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="35" targetID="36" fromX="-349" fromY="-1760" />
-      <outputs name="Cancelar" ownerID="35" targetID="3" fromX="-349" fromY="-1840" />
+      <outputs name="Confirm" ownerID="35" targetID="36" fromX="-349" fromY="-1760" />
+      <outputs name="Cancel" ownerID="35" targetID="3" fromX="-349" fromY="-1840" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="-725" positionY="-1990" width="350" height="725">
       <outputs name="Entregue o animal de estimação." ownerID="36" targetID="37" fromX="-399" fromY="-2481" />'Taxa paga, bom, agora me passe aquele bichinho para treinar.'</nodes>
     <nodes xsi:type="NodeTrade" ID="37" positionX="-357" positionY="-2099" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="crab" startingBalance="-1">
-      <outputs name="confirme" ownerID="37" targetID="38" fromX="73" fromY="-2427" />
-      <outputs name="Cancelar" ownerID="37" targetID="3" fromX="73" fromY="-2507" />
+      <outputs name="Confirm" ownerID="37" targetID="38" fromX="73" fromY="-2427" />
+      <outputs name="Cancel" ownerID="37" targetID="3" fromX="73" fromY="-2507" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="38" positionX="134" positionY="-2261" width="350" height="725">
       <logic>
@@ -8457,8 +8457,8 @@
       </logic>
       <outputs name="Agradeça ao treinador e vá embora." ownerID="39" targetID="10" fromX="39" fromY="-3185" />Seu animal de estimação retorna depois de um tempo e parece muito melhor comportado.</nodes>
     <nodes xsi:type="NodeTrade" ID="40" positionX="-878" positionY="-2764" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="parr" startingBalance="-1">
-      <outputs name="confirme" ownerID="40" targetID="39" fromX="-447" fromY="-3092" />
-      <outputs name="Cancelar" ownerID="40" targetID="3" fromX="-447" fromY="-3172" />
+      <outputs name="Confirm" ownerID="40" targetID="39" fromX="-447" fromY="-3092" />
+      <outputs name="Cancel" ownerID="40" targetID="3" fromX="-447" fromY="-3172" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="-1313" positionY="-2192" width="350" height="725">
       <outputs name="Entregue o animal de estimação." ownerID="41" targetID="40" fromX="-987" fromY="-2683" />'Taxa paga, bom, agora me passe aquele bichinho para treinar.'</nodes>
@@ -8473,8 +8473,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="42" targetID="41" fromX="-967" fromY="-1767" />
-      <outputs name="Cancelar" ownerID="42" targetID="3" fromX="-967" fromY="-1847" />
+      <outputs name="Confirm" ownerID="42" targetID="41" fromX="-967" fromY="-1767" />
+      <outputs name="Cancel" ownerID="42" targetID="3" fromX="-967" fromY="-1847" />
     </nodes>
   </Adventure>
   <Adventure name="Ghost training goblin" uniqueID="74" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="26" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
@@ -8506,14 +8506,14 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="7" fromX="1265" fromY="-167" />
-      <outputs name="Cancelar" ownerID="5" targetID="3" fromX="1265" fromY="-247" />
+      <outputs name="Confirm" ownerID="5" targetID="7" fromX="1265" fromY="-167" />
+      <outputs name="Cancel" ownerID="5" targetID="3" fromX="1265" fromY="-247" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1344" positionY="474" width="350" height="725">
       <outputs name="Entregue o animal de estimação." ownerID="7" targetID="8" fromX="1669" fromY="-17" />'Taxa paga, bom. Agora vou para o mundo cinzento com o seu espírito.</nodes>
     <nodes xsi:type="NodeTrade" ID="8" positionX="1745" positionY="516" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ghost" startingBalance="-1">
-      <outputs name="confirme" ownerID="8" targetID="9" fromX="2175" fromY="187" />
-      <outputs name="Cancelar" ownerID="8" targetID="3" fromX="2175" fromY="107" />
+      <outputs name="Confirm" ownerID="8" targetID="9" fromX="2175" fromY="187" />
+      <outputs name="Cancel" ownerID="8" targetID="3" fromX="2175" fromY="107" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2282" positionY="924" width="350" height="725">
       <logic>
@@ -8533,14 +8533,14 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="11" targetID="12" fromX="1258" fromY="-677" />
-      <outputs name="Cancelar" ownerID="11" targetID="3" fromX="1258" fromY="-757" />
+      <outputs name="Confirm" ownerID="11" targetID="12" fromX="1258" fromY="-677" />
+      <outputs name="Cancel" ownerID="11" targetID="3" fromX="1258" fromY="-757" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="1353" positionY="-303" width="350" height="725">
       <outputs name="Entregue o animal de estimação." ownerID="12" targetID="13" fromX="1678" fromY="-794" />'Taxa paga, bom. Agora vou para o mundo cinzento com o seu espírito.</nodes>
     <nodes xsi:type="NodeTrade" ID="13" positionX="1791" positionY="-279" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="wraith" startingBalance="-1">
-      <outputs name="confirme" ownerID="13" targetID="14" fromX="2221" fromY="-607" />
-      <outputs name="Cancelar" ownerID="13" targetID="3" fromX="2221" fromY="-687" />
+      <outputs name="Confirm" ownerID="13" targetID="14" fromX="2221" fromY="-607" />
+      <outputs name="Cancel" ownerID="13" targetID="3" fromX="2221" fromY="-687" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="2424" positionY="61" width="350" height="725">
       <logic>
@@ -8820,8 +8820,8 @@
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="22" targetID="24" fromX="-2926" fromY="-1429" />
-      <outputs name="Cancelar" ownerID="22" targetID="32" fromX="-2926" fromY="-1509" />
+      <outputs name="Confirm" ownerID="22" targetID="24" fromX="-2926" fromY="-1429" />
+      <outputs name="Cancel" ownerID="22" targetID="32" fromX="-2926" fromY="-1509" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="-3896" positionY="-1387" width="350" height="725">
       <logic>
@@ -8993,8 +8993,8 @@
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="46" targetID="48" fromX="2933" fromY="-3009" />
-      <outputs name="Cancelar" ownerID="46" targetID="13" fromX="2933" fromY="-3089" />
+      <outputs name="Confirm" ownerID="46" targetID="48" fromX="2933" fromY="-3009" />
+      <outputs name="Cancel" ownerID="46" targetID="13" fromX="2933" fromY="-3089" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="47" positionX="3569" positionY="-2798" width="350" height="530" allPlayersXP="5" allPlayersRP="5" logBookName="QUEST_OCCUPSPIRIT" logBookDescription="QUEST_OCCUPSLAV_DES5" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
@@ -9034,8 +9034,8 @@
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="49" targetID="50" fromX="2181" fromY="-3137" />
-      <outputs name="Cancelar" ownerID="49" targetID="13" fromX="2181" fromY="-3217" />
+      <outputs name="Confirm" ownerID="49" targetID="50" fromX="2181" fromY="-3137" />
+      <outputs name="Cancel" ownerID="49" targetID="13" fromX="2181" fromY="-3217" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="2612" positionY="-3238" width="350" height="725">
       <logic>
@@ -9364,8 +9364,8 @@
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="22" targetID="24" fromX="-2926" fromY="-1429" />
-      <outputs name="Cancelar" ownerID="22" targetID="32" fromX="-2926" fromY="-1509" />
+      <outputs name="Confirm" ownerID="22" targetID="24" fromX="-2926" fromY="-1429" />
+      <outputs name="Cancel" ownerID="22" targetID="32" fromX="-2926" fromY="-1509" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="-3716" positionY="-1432" width="350" height="725">
       <logic>

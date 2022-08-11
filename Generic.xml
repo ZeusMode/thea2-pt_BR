@@ -94,8 +94,8 @@
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="26" targetID="22" fromX="80" fromY="-1538" />
-      <outputs name="Cancelar" ownerID="26" targetID="22" fromX="80" fromY="-1618" />
+      <outputs name="Confirm" ownerID="26" targetID="22" fromX="80" fromY="-1538" />
+      <outputs name="Cancel" ownerID="26" targetID="22" fromX="80" fromY="-1618" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="28" positionX="429.5893" positionY="-1938.60913" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="28" targetID="20" fromX="858" fromY="-2326" />
@@ -474,8 +474,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="27" targetID="14" fromX="513" fromY="-2115" />
-      <outputs name="Cancelar" ownerID="27" targetID="12" fromX="513" fromY="-2195" />
+      <outputs name="Confirm" ownerID="27" targetID="14" fromX="513" fromY="-2115" />
+      <outputs name="Cancel" ownerID="27" targetID="12" fromX="513" fromY="-2195" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="2466" positionY="-1159" width="350" height="725">
       <outputs name="Sair." ownerID="28" targetID="22" fromX="2791" fromY="-1650" /> </nodes>
@@ -3655,8 +3655,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Troca." ownerID="2" targetID="5" group="G1" fromX="804" fromY="-702" />
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />As bancas do comerciante estão abertas para você. </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-SLAVYAN_LARGE" playerInventory="stuff">
-      <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-SLAVYAN_LARGE" playerInventory="nofood" startingBalance="-100">
       <logic>
@@ -3669,8 +3669,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-SLAVYAN_LARGE_FRIENDLY" playerInventory="stuff">
       <logic>
@@ -3680,8 +3680,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2533" positionY="-690" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="805">
@@ -3729,8 +3729,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="883" fromY="-780" />As bancas do comerciante estão abertas para você. 
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-ALPHA_CLANS_LARGE" playerInventory="sell">
-      <outputs name="confirme" ownerID="3" targetID="11" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="11" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-ALPHA_CLANS_LARGE" playerInventory="nofood" startingBalance="-50">
       <logic>
@@ -3743,8 +3743,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-ALPHA_CLANS_LARGE_FRIENDLY" playerInventory="sell">
       <logic>
@@ -3754,8 +3754,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="408" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="805">
@@ -3809,8 +3809,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />As bancas do comerciante estão abertas para você. 
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-EARTHBOUND_LARGE" playerInventory="sell">
-      <outputs name="confirme" ownerID="3" targetID="11" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="11" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-EARTHBOUND_LARGE" playerInventory="nofood" startingBalance="-50">
       <logic>
@@ -3826,8 +3826,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-EARTHBOUND_LARGE_FRIENDLY" playerInventory="sell">
       <logic>
@@ -3837,8 +3837,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="805">
@@ -3880,8 +3880,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />As bancas do comerciante estão abertas para você. 
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_LARGE" playerInventory="sell">
-      <outputs name="confirme" ownerID="3" targetID="11" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="11" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1666" positionY="-480" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_LARGE" playerInventory="nofood" startingBalance="-50">
       <logic>
@@ -3894,8 +3894,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2096" fromY="-808" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2096" fromY="-888" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2096" fromY="-808" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2096" fromY="-888" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-SPIRIT_TALKERS_LARGE_FRIENDLY" playerInventory="sell">
       <logic>
@@ -3905,8 +3905,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1096" positionY="-390" width="350" height="805">
@@ -3961,8 +3961,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />As bancas do comerciante estão abertas para você. 
 </nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-WOODLAND_KIN_LARGE" playerInventory="sell">
-      <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1786.36035" positionY="-502.659027" width="460" height="479" traderProfile="TRADER-WOODLAND_KIN_LARGE" playerInventory="sell2" startingBalance="-50">
       <logic>
@@ -3978,8 +3978,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicProcessing>
         </ModifierBlock>
       </logic>
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2216" fromY="-831" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2216" fromY="-911" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="1804.08765" positionY="-1106.60278" width="460" height="479" traderProfile="TRADER-WOODLAND_KIN_LARGE_FRIENDLY" playerInventory="sell">
       <logic>
@@ -3989,8 +3989,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2234" fromY="-1434" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2234" fromY="-1515" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="360" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="805">
@@ -5929,9 +5929,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="107" targetID="108" group="G1" fromX="-1022" fromY="-4049" />
-      <outputs name="Cancelar" ownerID="107" targetID="120" fromX="-1022" fromY="-4129" />
-      <outputs name="confirme" ownerID="107" targetID="109" group="G1" fromX="-1022" fromY="-4209" />
+      <outputs name="Confirm" ownerID="107" targetID="108" group="G1" fromX="-1022" fromY="-4049" />
+      <outputs name="Cancel" ownerID="107" targetID="120" fromX="-1022" fromY="-4129" />
+      <outputs name="Confirm" ownerID="107" targetID="109" group="G1" fromX="-1022" fromY="-4209" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="108" positionX="-945" positionY="-3684" width="350" height="725">
       <logic>
@@ -5970,9 +5970,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="110" targetID="111" group="G1" fromX="-1024" fromY="-4645" />
-      <outputs name="Cancelar" ownerID="110" targetID="120" fromX="-1468" fromY="-4725" />
-      <outputs name="confirme" ownerID="110" targetID="112" group="G1" fromX="-1468" fromY="-4725" />
+      <outputs name="Confirm" ownerID="110" targetID="111" group="G1" fromX="-1024" fromY="-4645" />
+      <outputs name="Cancel" ownerID="110" targetID="120" fromX="-1468" fromY="-4725" />
+      <outputs name="Confirm" ownerID="110" targetID="112" group="G1" fromX="-1468" fromY="-4725" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="111" positionX="-947" positionY="-4452" width="350" height="725">
       <logic>
@@ -6004,9 +6004,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="Alegrar." ownerID="112" targetID="5" fromX="136" fromY="-5152" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame gusla.</nodes>
     <nodes xsi:type="NodeTrade" ID="113" positionX="-1465" positionY="-4893" width="460" height="559" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
-      <outputs name="confirme" ownerID="113" targetID="114" group="G1" fromX="-1034" fromY="-5221" />
-      <outputs name="Cancelar" ownerID="113" targetID="120" fromX="-1034" fromY="-5301" />
-      <outputs name="confirme" ownerID="113" targetID="115" group="G1" fromX="-1034" fromY="-5381" />
+      <outputs name="Confirm" ownerID="113" targetID="114" group="G1" fromX="-1034" fromY="-5221" />
+      <outputs name="Cancel" ownerID="113" targetID="120" fromX="-1034" fromY="-5301" />
+      <outputs name="Confirm" ownerID="113" targetID="115" group="G1" fromX="-1034" fromY="-5381" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="114" positionX="-942" positionY="-5191" width="350" height="725">
       <logic>
@@ -6038,8 +6038,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="Alegrar." ownerID="115" targetID="5" fromX="-239" fromY="-5683" />Você se junta às fileiras do banditismo, mas permanece leal à causa divina.</nodes>
     <nodes xsi:type="NodeTrade" ID="116" positionX="-2332" positionY="-4954" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
-      <outputs name="confirme" ownerID="116" targetID="117" fromX="-1901" fromY="-5282" />
-      <outputs name="Cancelar" ownerID="116" targetID="120" fromX="-1901" fromY="-5362" />
+      <outputs name="Confirm" ownerID="116" targetID="117" fromX="-1901" fromY="-5282" />
+      <outputs name="Cancel" ownerID="116" targetID="120" fromX="-1901" fromY="-5362" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="117" positionX="-1841" positionY="-5110" width="350" height="725">
       <logic>
@@ -6054,8 +6054,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="Alegrar." ownerID="117" targetID="5" fromX="-1515" fromY="-5601" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
     <nodes xsi:type="NodeTrade" ID="118" positionX="-2342" positionY="-5473" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
-      <outputs name="confirme" ownerID="118" targetID="119" fromX="-1911" fromY="-5801" />
-      <outputs name="Cancelar" ownerID="118" targetID="120" fromX="-1911" fromY="-5881" />
+      <outputs name="Confirm" ownerID="118" targetID="119" fromX="-1911" fromY="-5801" />
+      <outputs name="Cancel" ownerID="118" targetID="120" fromX="-1911" fromY="-5881" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="119" positionX="-1450" positionY="-5525" width="350" height="725">
       <logic>
@@ -6119,8 +6119,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="121" targetID="122" fromX="-2432" fromY="-5914" />
-      <outputs name="Cancelar" ownerID="121" targetID="120" fromX="-2432" fromY="-5994" />
+      <outputs name="Confirm" ownerID="121" targetID="122" fromX="-2432" fromY="-5914" />
+      <outputs name="Cancel" ownerID="121" targetID="120" fromX="-2432" fromY="-5994" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="122" positionX="-2351" positionY="-5993" width="350" height="725">
       <logic>
@@ -6689,8 +6689,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="26" targetID="22" fromX="80" fromY="-1538" />
-      <outputs name="Cancelar" ownerID="26" targetID="22" fromX="80" fromY="-1618" />
+      <outputs name="Confirm" ownerID="26" targetID="22" fromX="80" fromY="-1538" />
+      <outputs name="Cancel" ownerID="26" targetID="22" fromX="80" fromY="-1618" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="28" positionX="429.5893" positionY="-1938.60913" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="28" targetID="20" fromX="858" fromY="-2326" />
@@ -11267,9 +11267,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="107" targetID="108" group="G1" fromX="-1022" fromY="-4049" />
-      <outputs name="Cancelar" ownerID="107" targetID="120" fromX="-1022" fromY="-4129" />
-      <outputs name="confirme" ownerID="107" targetID="109" group="G1" fromX="-1022" fromY="-4209" />
+      <outputs name="Confirm" ownerID="107" targetID="108" group="G1" fromX="-1022" fromY="-4049" />
+      <outputs name="Cancel" ownerID="107" targetID="120" fromX="-1022" fromY="-4129" />
+      <outputs name="Confirm" ownerID="107" targetID="109" group="G1" fromX="-1022" fromY="-4209" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="108" positionX="-945" positionY="-3684" width="350" height="725">
       <logic>
@@ -11308,9 +11308,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="110" targetID="111" group="G1" fromX="-1024" fromY="-4645" />
-      <outputs name="Cancelar" ownerID="110" targetID="120" fromX="-1024" fromY="-4725" />
-      <outputs name="confirme" ownerID="110" targetID="112" group="G1" fromX="-1024" fromY="-4805" />
+      <outputs name="Confirm" ownerID="110" targetID="111" group="G1" fromX="-1024" fromY="-4645" />
+      <outputs name="Cancel" ownerID="110" targetID="120" fromX="-1024" fromY="-4725" />
+      <outputs name="Confirm" ownerID="110" targetID="112" group="G1" fromX="-1024" fromY="-4805" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="111" positionX="-947" positionY="-4452" width="350" height="725">
       <logic>
@@ -11342,9 +11342,9 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="Alegrar." ownerID="112" targetID="5" fromX="136" fromY="-5152" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame gusla.</nodes>
     <nodes xsi:type="NodeTrade" ID="113" positionX="-1465" positionY="-4893" width="460" height="559" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
-      <outputs name="confirme" ownerID="113" targetID="114" group="G1" fromX="-1034" fromY="-5221" />
-      <outputs name="Cancelar" ownerID="113" targetID="120" fromX="-1034" fromY="-5301" />
-      <outputs name="confirme" ownerID="113" targetID="115" group="G1" fromX="-1034" fromY="-5381" />
+      <outputs name="Confirm" ownerID="113" targetID="114" group="G1" fromX="-1034" fromY="-5221" />
+      <outputs name="Cancel" ownerID="113" targetID="120" fromX="-1034" fromY="-5301" />
+      <outputs name="Confirm" ownerID="113" targetID="115" group="G1" fromX="-1034" fromY="-5381" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="114" positionX="-942" positionY="-5191" width="350" height="725">
       <logic>
@@ -11376,8 +11376,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="Alegrar." ownerID="115" targetID="5" fromX="-239" fromY="-5683" />Você se junta às fileiras do banditismo, mas permanece leal à causa divina.</nodes>
     <nodes xsi:type="NodeTrade" ID="116" positionX="-2332" positionY="-4954" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
-      <outputs name="confirme" ownerID="116" targetID="117" fromX="-1901" fromY="-5282" />
-      <outputs name="Cancelar" ownerID="116" targetID="120" fromX="-1901" fromY="-5362" />
+      <outputs name="Confirm" ownerID="116" targetID="117" fromX="-1901" fromY="-5282" />
+      <outputs name="Cancel" ownerID="116" targetID="120" fromX="-1901" fromY="-5362" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="117" positionX="-1841" positionY="-5110" width="350" height="725">
       <logic>
@@ -11392,8 +11392,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
       </logic>
       <outputs name="Alegrar." ownerID="117" targetID="5" fromX="-1515" fromY="-5601" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
     <nodes xsi:type="NodeTrade" ID="118" positionX="-2372" positionY="-5511" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
-      <outputs name="confirme" ownerID="118" targetID="119" fromX="-1941" fromY="-5839" />
-      <outputs name="Cancelar" ownerID="118" targetID="120" fromX="-1941" fromY="-5919" />
+      <outputs name="Confirm" ownerID="118" targetID="119" fromX="-1941" fromY="-5839" />
+      <outputs name="Cancel" ownerID="118" targetID="120" fromX="-1941" fromY="-5919" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="119" positionX="-1450" positionY="-5525" width="350" height="725">
       <logic>
@@ -11457,8 +11457,8 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="121" targetID="122" fromX="-2449" fromY="-5935" />
-      <outputs name="Cancelar" ownerID="121" targetID="120" fromX="-2449" fromY="-6015" />
+      <outputs name="Confirm" ownerID="121" targetID="122" fromX="-2449" fromY="-5935" />
+      <outputs name="Cancel" ownerID="121" targetID="120" fromX="-2449" fromY="-6015" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="122" positionX="-2392" positionY="-6023" width="350" height="725">
       <logic>

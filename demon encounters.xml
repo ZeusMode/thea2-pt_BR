@@ -3078,8 +3078,8 @@ Gods ascend through understanding and the will to become. Thus, by making the wi
       <outputs name="Sim, comércio." ownerID="7" targetID="8" fromX="2469" fromY="879" />
       <outputs name="Não, diga adeus e vá embora." ownerID="7" targetID="10" fromX="2469" fromY="798" />'Obrigado, irmão, vou continuar tentando. Gostaria de negociar? Juntei algumas coisas daqueles que... você sabe...'</nodes>
     <nodes xsi:type="NodeTrade" ID="8" positionX="2543.25244" positionY="1417.82715" width="460" height="479" traderProfile="TRADER-WATER_DEMONS_SMALL_FRIENDLY" playerInventory="tradestuff">
-      <outputs name="confirme" ownerID="8" targetID="9" fromX="2973" fromY="1089" />
-      <outputs name="Cancelar" ownerID="8" targetID="9" fromX="2973" fromY="1009" />
+      <outputs name="Confirm" ownerID="8" targetID="9" fromX="2973" fromY="1089" />
+      <outputs name="Cancel" ownerID="8" targetID="9" fromX="2973" fromY="1009" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3085.03516" positionY="1446.34192" width="350" height="725">
       <outputs name="Dê adeus e vá embora." ownerID="9" targetID="10" fromX="3410" fromY="955" />'Preciso ir agora. Sinto uma donzela se aproximando do outro lado do lago. Adeus, irmão!</nodes>
@@ -3792,8 +3792,8 @@ Gods ascend through understanding and the will to become. Thus, by making the wi
       </logic>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="30" positionX="2050.63745" positionY="-2464.6875" width="460" height="479.56" traderProfile="TRADER-SMALL_BANISHED" playerInventory="stuff">
-      <outputs name="confirme" ownerID="30" targetID="31" fromX="2480.9375" fromY="-2793.04736" />
-      <outputs name="Cancelar" ownerID="30" targetID="31" fromX="2480.9375" fromY="-2873.24756" />
+      <outputs name="Confirm" ownerID="30" targetID="31" fromX="2480.9375" fromY="-2793.04736" />
+      <outputs name="Cancel" ownerID="30" targetID="31" fromX="2480.9375" fromY="-2873.24756" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="31" positionX="2040.71741" positionY="-3059.40723" width="350" height="360.8" allPlayersXP="5" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>

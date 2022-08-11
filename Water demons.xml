@@ -120,13 +120,13 @@
       <outputs name="Pergunte por que eles só pegam humanos." ownerID="9" targetID="17" fromX="1129" fromY="-1546" />Uma rusalka olha para você com suspeita, mas fala: 'Você pode negociar conosco ou optar por realizar uma tarefa para provar sua amizade. Ou você pode, é claro, nos dar seu povo para que eles se afoguem e tenham a chance de se tornar um de nós, ou morrer. De qualquer forma, isso mostrará sua amizade. Apenas humanos.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="1356" positionY="-1462" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="11" positionX="1714" positionY="-1702" width="460" height="479" traderProfile="TRADER-WATER_DEMONS" playerInventory="stuff">
-      <outputs name="confirme" ownerID="11" targetID="10" fromX="2144" fromY="-2030" />
-      <outputs name="Cancelar" ownerID="11" targetID="9" fromX="2144" fromY="-2110" />
+      <outputs name="Confirm" ownerID="11" targetID="10" fromX="2144" fromY="-2030" />
+      <outputs name="Cancel" ownerID="11" targetID="9" fromX="2144" fromY="-2110" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="12" positionX="1438" positionY="-862" width="460" height="559" traderProfile="TRADER-BANDIT_TWO" playerInventory="nochosenchild" startingBalance="-1">
-      <outputs name="confirme" ownerID="12" targetID="13" group="G1" fromX="1868" fromY="-1190" />
-      <outputs name="Cancelar" ownerID="12" targetID="9" fromX="1868" fromY="-1270" />
-      <outputs name="confirme" ownerID="12" targetID="72" group="G1" fromX="1868" fromY="-1350" />
+      <outputs name="Confirm" ownerID="12" targetID="13" group="G1" fromX="1868" fromY="-1190" />
+      <outputs name="Cancel" ownerID="12" targetID="9" fromX="1868" fromY="-1270" />
+      <outputs name="Confirm" ownerID="12" targetID="72" group="G1" fromX="1868" fromY="-1350" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="1981" positionY="-737" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -146,10 +146,10 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="14" positionX="2622" positionY="-1329" width="460" height="639" traderProfile="TRADER-BANDIT_TWO" playerInventory="humanadultchosen" startingBalance="-1">
-      <outputs name="confirme" ownerID="14" targetID="73" group="G1" fromX="3052" fromY="-1657" />
-      <outputs name="Cancelar" ownerID="14" targetID="9" fromX="3052" fromY="-1737" />
-      <outputs name="confirme" ownerID="14" targetID="15" group="G1" fromX="3052" fromY="-1817" />
-      <outputs name="confirme" ownerID="14" targetID="16" group="G1" fromX="3052" fromY="-1897" />
+      <outputs name="Confirm" ownerID="14" targetID="73" group="G1" fromX="3052" fromY="-1657" />
+      <outputs name="Cancel" ownerID="14" targetID="9" fromX="3052" fromY="-1737" />
+      <outputs name="Confirm" ownerID="14" targetID="15" group="G1" fromX="3052" fromY="-1817" />
+      <outputs name="Confirm" ownerID="14" targetID="16" group="G1" fromX="3052" fromY="-1897" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="15" positionX="3166" positionY="-1367" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -246,8 +246,8 @@
       <outputs name="[Demônio da água] Cure todas as feridas." ownerID="29" targetID="31" fromX="1138" fromY="-274" />
       <outputs name="[Lealdade] Explore a vila." ownerID="29" targetID="19" fromX="1138" fromY="-354" />— Você é da nossa família, mas fica com os seguidores de deuses. Você pode trocar por nosso estoque melhor e curar suas feridas. Mas você deve provar sua amizade antes de permitirmos mais.</nodes>
     <nodes xsi:type="NodeTrade" ID="30" positionX="1264" positionY="-358" width="460" height="479" traderProfile="TRADER-WATER_DEMONS_LARGE_FRIENDLY" playerInventory="stuff">
-      <outputs name="confirme" ownerID="30" targetID="10" fromX="1694" fromY="-686" />
-      <outputs name="Cancelar" ownerID="30" targetID="10" fromX="1694" fromY="-766" />
+      <outputs name="Confirm" ownerID="30" targetID="10" fromX="1694" fromY="-686" />
+      <outputs name="Cancel" ownerID="30" targetID="10" fromX="1694" fromY="-766" />
     </nodes>
     <nodes xsi:type="NodeProduceDrop" ID="31" positionX="1316" positionY="201" width="460" height="429">
       <logic>
@@ -381,12 +381,12 @@
       </logic>
     </nodes>
     <nodes xsi:type="NodeTrade" ID="39" positionX="2148" positionY="837" width="460" height="800" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-30000">
-      <outputs name="confirme" ownerID="39" targetID="41" group="G1" fromX="2578" fromY="508" />
-      <outputs name="Cancelar" ownerID="39" targetID="19" fromX="2578" fromY="428" />
-      <outputs name="confirme" ownerID="39" targetID="42" group="G1" fromX="2578" fromY="348" />
-      <outputs name="confirme" ownerID="39" targetID="43" group="G1" fromX="2578" fromY="268" />
-      <outputs name="confirme" ownerID="39" targetID="44" group="G1" fromX="2578" fromY="187" />
-      <outputs name="confirme" ownerID="39" targetID="45" group="G1" fromX="2578" fromY="107" />
+      <outputs name="Confirm" ownerID="39" targetID="41" group="G1" fromX="2578" fromY="508" />
+      <outputs name="Cancel" ownerID="39" targetID="19" fromX="2578" fromY="428" />
+      <outputs name="Confirm" ownerID="39" targetID="42" group="G1" fromX="2578" fromY="348" />
+      <outputs name="Confirm" ownerID="39" targetID="43" group="G1" fromX="2578" fromY="268" />
+      <outputs name="Confirm" ownerID="39" targetID="44" group="G1" fromX="2578" fromY="187" />
+      <outputs name="Confirm" ownerID="39" targetID="45" group="G1" fromX="2578" fromY="107" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="1735" positionY="937" width="350" height="805">
       <logic>
@@ -2050,12 +2050,12 @@ But I suppose I could be persuaded to stay, if you help me continue my search fo
       <outputs name="Troca." ownerID="2" targetID="3" group="G1" fromX="804" fromY="-782" />
       <outputs name="Volte outra vez." ownerID="2" targetID="6" fromX="804" fromY="-862" />As bancas do comerciante estão abertas para você.</nodes>
     <nodes xsi:type="NodeTrade" ID="3" positionX="1021.18225" positionY="131.77655" width="460" height="479" traderProfile="TRADER-WATER_DEMONS_LARGE_FRIENDLY" playerInventory="stone">
-      <outputs name="confirme" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
-      <outputs name="Cancelar" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
+      <outputs name="Confirm" ownerID="3" targetID="6" fromX="1451" fromY="-196" />
+      <outputs name="Cancel" ownerID="3" targetID="11" fromX="1451" fromY="-276" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1604" positionY="-417" width="460" height="479" traderProfile="TRADER-WATER_DEMONS_LARGE_FRIENDLY" playerInventory="stone" startingBalance="-100">
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="2034" fromY="-745" />
-      <outputs name="Cancelar" ownerID="4" targetID="11" fromX="2034" fromY="-825" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="2034" fromY="-745" />
+      <outputs name="Cancel" ownerID="4" targetID="11" fromX="2034" fromY="-825" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="5" positionX="2071" positionY="-1064" width="460" height="479" traderProfile="TRADER-WATER_DEMONS_LARGE_FRIENDLY" playerInventory="stone">
       <logic>
@@ -2065,8 +2065,8 @@ But I suppose I could be persuaded to stay, if you help me continue my search fo
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="5" targetID="6" fromX="2501" fromY="-1392" />
-      <outputs name="Cancelar" ownerID="5" targetID="11" fromX="2501" fromY="-1472" />
+      <outputs name="Confirm" ownerID="5" targetID="6" fromX="2501" fromY="-1392" />
+      <outputs name="Cancel" ownerID="5" targetID="11" fromX="2501" fromY="-1472" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2576.332" positionY="-789.021667" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1119.83972" positionY="-417.843842" width="350" height="805">
@@ -2341,8 +2341,8 @@ They took our king, and they say we have three moons before they drown him in th
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="16" targetID="17" fromX="1873" fromY="-2316" />
-      <outputs name="Cancelar" ownerID="16" targetID="15" fromX="1873" fromY="-2396" />
+      <outputs name="Confirm" ownerID="16" targetID="17" fromX="1873" fromY="-2316" />
+      <outputs name="Cancel" ownerID="16" targetID="15" fromX="1873" fromY="-2396" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2030" positionY="-2272" width="350" height="725">
       <logic>
@@ -2357,8 +2357,8 @@ They took our king, and they say we have three moons before they drown him in th
       </logic>
       <outputs name="[Vodnik]Faça a troca." ownerID="17" targetID="18" fromX="2355" fromY="-2763" />'Arr, eu ainda estou assistindo um homem-peixe, mas eu sou mais rico - bom. Então venha.'</nodes>
     <nodes xsi:type="NodeTrade" ID="18" positionX="2428" positionY="-2284" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="vodnik" startingBalance="-1">
-      <outputs name="confirme" ownerID="18" targetID="19" fromX="2858" fromY="-2612" />
-      <outputs name="Cancelar" ownerID="18" targetID="15" fromX="2858" fromY="-2692" />
+      <outputs name="Confirm" ownerID="18" targetID="19" fromX="2858" fromY="-2612" />
+      <outputs name="Cancel" ownerID="18" targetID="15" fromX="2858" fromY="-2692" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2949" positionY="-2285" width="350" height="725">
       <outputs name="Leve-o de volta ao seu povo." ownerID="19" targetID="20" fromX="3274" fromY="-2776" />Eles entregam o vodnik, Szuvarek. Ele parece abatido e exausto, então você tem que carregá-lo.</nodes>
@@ -2384,18 +2384,18 @@ They took our king, and they say we have three moons before they drown him in th
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="23" targetID="21" fromX="1946" fromY="-2914" />
-      <outputs name="Cancelar" ownerID="23" targetID="15" fromX="1946" fromY="-2994" />
+      <outputs name="Confirm" ownerID="23" targetID="21" fromX="1946" fromY="-2914" />
+      <outputs name="Cancel" ownerID="23" targetID="15" fromX="1946" fromY="-2994" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="24" positionX="2803" positionY="-3067" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-1">
-      <outputs name="confirme" ownerID="24" targetID="25" fromX="3233" fromY="-3395" />
-      <outputs name="Cancelar" ownerID="24" targetID="15" fromX="3233" fromY="-3475" />
+      <outputs name="Confirm" ownerID="24" targetID="25" fromX="3233" fromY="-3395" />
+      <outputs name="Cancel" ownerID="24" targetID="15" fromX="3233" fromY="-3475" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="3336" positionY="-3022" width="350" height="725">
       <outputs name="Leve-o de volta ao seu povo." ownerID="25" targetID="20" fromX="3661" fromY="-3513" />Eles entregam o vodnik, Szuvarek. Ele parece abatido e exausto, então você tem que carregá-lo.</nodes>
     <nodes xsi:type="NodeTrade" ID="26" positionX="1640" positionY="-3146" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-25000">
-      <outputs name="confirme" ownerID="26" targetID="25" fromX="2070" fromY="-3474" />
-      <outputs name="Cancelar" ownerID="26" targetID="15" fromX="2070" fromY="-3554" />
+      <outputs name="Confirm" ownerID="26" targetID="25" fromX="2070" fromY="-3474" />
+      <outputs name="Cancel" ownerID="26" targetID="15" fromX="2070" fromY="-3554" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="905" positionY="-2794" width="350" height="1046">
       <outputs name="Aceita." ownerID="27" targetID="28" fromX="1230" fromY="-3285" />
@@ -2422,8 +2422,8 @@ They took our king, and they say we have three moons before they drown him in th
       <outputs name="Surrender" ownerID="32" targetID="30" fromX="227" fromY="-1630" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="33" positionX="-515" positionY="-2737" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-10000">
-      <outputs name="confirme" ownerID="33" targetID="34" fromX="-84" fromY="-3065" />
-      <outputs name="Cancelar" ownerID="33" targetID="30" fromX="-84" fromY="-3145" />
+      <outputs name="Confirm" ownerID="33" targetID="34" fromX="-84" fromY="-3065" />
+      <outputs name="Cancel" ownerID="33" targetID="30" fromX="-84" fromY="-3145" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="-972" positionY="-2748" width="350" height="725">
       <logic>

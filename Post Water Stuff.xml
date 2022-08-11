@@ -890,8 +890,8 @@
       <outputs name="Diga a ele que você voltará outra vez." ownerID="3" targetID="10" fromX="1231" fromY="-857" />'Yes, yes, of course it is!  Now, you will have to pay me - I have debts and will not go into the grey world in shame.  Then you have to show me you are good enough, chieftain is a sacred role, entrusted only to one, and one who guides their village. I am braking this law, because your gods proved to me that they deserve it. But, you must also show me. I will accept a candidate who shows their strengths in mind, spirit or body.
 You pay first, and I do not give money back...' [Only one character per game will be allowed this change]</nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1296" positionY="-291" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-7000">
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="1726" fromY="-619" />
-      <outputs name="Cancelar" ownerID="4" targetID="3" fromX="1726" fromY="-699" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="1726" fromY="-619" />
+      <outputs name="Cancel" ownerID="4" targetID="3" fromX="1726" fromY="-699" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="-542" positionY="-814" width="350" height="530" logBookName="QUEST_CHIEFTAINQ" logBookDescription="QUEST_CHIEFTAINQ_DES2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1826" positionY="-201" width="350" height="966">
@@ -1497,8 +1497,8 @@ You pay first, and I do not give money back...' [Only one character per game wil
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="29" targetID="32" fromX="7195" fromY="-1360" />
-      <outputs name="Cancelar" ownerID="29" targetID="30" fromX="7195" fromY="-1440" />
+      <outputs name="Confirm" ownerID="29" targetID="32" fromX="7195" fromY="-1360" />
+      <outputs name="Cancel" ownerID="29" targetID="30" fromX="7195" fromY="-1440" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6292" positionY="-1175" width="350" height="805" image="Event340">
       <outputs name="Sair." ownerID="30" targetID="28" fromX="6617" fromY="-1666" />
@@ -1714,8 +1714,8 @@ You pay first, and I do not give money back...' [Only one character per game wil
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="29" targetID="32" fromX="7195" fromY="-1442" />
-      <outputs name="Cancelar" ownerID="29" targetID="30" fromX="7195" fromY="-1522" />
+      <outputs name="Confirm" ownerID="29" targetID="32" fromX="7195" fromY="-1442" />
+      <outputs name="Cancel" ownerID="29" targetID="30" fromX="7195" fromY="-1522" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6292" positionY="-1175" width="350" height="805" image="Event340">
       <outputs name="Comemore alguns e vá embora." ownerID="30" targetID="28" fromX="6617" fromY="-1666" />
@@ -1831,8 +1831,8 @@ You pay first, and I do not give money back...' [Only one character per game wil
       <outputs name="Diga a ele que você voltará outra vez." ownerID="3" targetID="10" fromX="1231" fromY="-857" />'Yes, yes, of course it is!  Now, you will have to pay me - I have debts and will not go into the grey world in shame.  Then you have to show me you are good enough, chieftain is a sacred role, entrusted only to one, and one who guides their village. I am braking this law, because your gods proved to me that they deserve it. But, you must also show me. I will accept a candidate who shows their strengths in mind, spirit or body.
 You pay first, and I do not give money back...' [Only one character per game will be allowed this change]</nodes>
     <nodes xsi:type="NodeTrade" ID="4" positionX="1296" positionY="-291" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-7000">
-      <outputs name="confirme" ownerID="4" targetID="6" fromX="1726" fromY="-619" />
-      <outputs name="Cancelar" ownerID="4" targetID="3" fromX="1726" fromY="-699" />
+      <outputs name="Confirm" ownerID="4" targetID="6" fromX="1726" fromY="-619" />
+      <outputs name="Cancel" ownerID="4" targetID="3" fromX="1726" fromY="-699" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="-542" positionY="-814" width="350" height="530" logBookName="QUEST_CHIEFTAINQ" logBookDescription="QUEST_CHIEFTAINQ_DES2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1826" positionY="-201" width="350" height="966">

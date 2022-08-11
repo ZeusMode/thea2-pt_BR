@@ -1574,8 +1574,8 @@ The human has goblin heads on his belt, so this must be the crazed goblin killer
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="3" targetID="4" fromX="1218" fromY="-240" />
-      <outputs name="Cancelar" ownerID="3" targetID="2" fromX="1218" fromY="-320" />
+      <outputs name="Confirm" ownerID="3" targetID="4" fromX="1218" fromY="-240" />
+      <outputs name="Cancel" ownerID="3" targetID="2" fromX="1218" fromY="-320" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1387" positionY="-35" width="350" height="725">
       <logic>
@@ -1607,8 +1607,8 @@ The human has goblin heads on his belt, so this must be the crazed goblin killer
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="6" targetID="4" fromX="1141" fromY="-718" />
-      <outputs name="Cancelar" ownerID="6" targetID="2" fromX="1141" fromY="-798" />
+      <outputs name="Confirm" ownerID="6" targetID="4" fromX="1141" fromY="-718" />
+      <outputs name="Cancel" ownerID="6" targetID="2" fromX="1141" fromY="-798" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="8" positionX="1332" positionY="-789" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-6">
       <logic>
@@ -1618,8 +1618,8 @@ The human has goblin heads on his belt, so this must be the crazed goblin killer
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="8" targetID="4" fromX="1762" fromY="-1117" />
-      <outputs name="Cancelar" ownerID="8" targetID="2" fromX="1762" fromY="-1197" />
+      <outputs name="Confirm" ownerID="8" targetID="4" fromX="1762" fromY="-1117" />
+      <outputs name="Cancel" ownerID="8" targetID="2" fromX="1762" fromY="-1197" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="9" positionX="1935" positionY="-760" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-8">
       <logic>
@@ -1629,8 +1629,8 @@ The human has goblin heads on his belt, so this must be the crazed goblin killer
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="9" targetID="4" fromX="2365" fromY="-1088" />
-      <outputs name="Cancelar" ownerID="9" targetID="2" fromX="2365" fromY="-1168" />
+      <outputs name="Confirm" ownerID="9" targetID="4" fromX="2365" fromY="-1088" />
+      <outputs name="Cancel" ownerID="9" targetID="2" fromX="2365" fromY="-1168" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="10" positionX="630" positionY="-1195" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-10">
       <logic>
@@ -1640,8 +1640,8 @@ The human has goblin heads on his belt, so this must be the crazed goblin killer
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="10" targetID="4" fromX="1060" fromY="-1523" />
-      <outputs name="Cancelar" ownerID="10" targetID="2" fromX="1060" fromY="-1603" />
+      <outputs name="Confirm" ownerID="10" targetID="4" fromX="1060" fromY="-1523" />
+      <outputs name="Cancel" ownerID="10" targetID="2" fromX="1060" fromY="-1603" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="11" positionX="-275" positionY="-1191" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -1723,8 +1723,8 @@ The human has goblin heads on his belt, so this must be the crazed goblin killer
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="16" targetID="4" fromX="1651" fromY="-1636" />
-      <outputs name="Cancelar" ownerID="16" targetID="2" fromX="1651" fromY="-1716" />
+      <outputs name="Confirm" ownerID="16" targetID="4" fromX="1651" fromY="-1636" />
+      <outputs name="Cancel" ownerID="16" targetID="2" fromX="1651" fromY="-1716" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="17" positionX="1888" positionY="-1352" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="ppl" startingBalance="-20">
       <logic>
@@ -1734,8 +1734,8 @@ The human has goblin heads on his belt, so this must be the crazed goblin killer
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="17" targetID="4" fromX="2318" fromY="-1680" />
-      <outputs name="Cancelar" ownerID="17" targetID="2" fromX="2318" fromY="-1760" />
+      <outputs name="Confirm" ownerID="17" targetID="4" fromX="2318" fromY="-1680" />
+      <outputs name="Cancel" ownerID="17" targetID="2" fromX="2318" fromY="-1760" />
     </nodes>
   </Adventure>
 </MODULE>

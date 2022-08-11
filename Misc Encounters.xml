@@ -283,13 +283,13 @@
       <outputs name="[Demônio da água] Você nunca ouviu falar de uma dama do lago, parece estranho. Mergulhe para verificar." ownerID="27" targetID="35" fromX="-454" fromY="-564" />
       <outputs name="Sair." ownerID="27" targetID="36" fromX="-454" fromY="-644" />Você se depara com um pequeno lago, há placas aqui que dizem: 'Deixe-nos um presente de bom metal ou pedras preciosas e a senhora do lago o abençoará.'</nodes>
     <nodes xsi:type="NodeTrade" ID="28" positionX="-1310" positionY="70" width="460" height="880" traderProfile="TRADER-BANDIT_TWO" playerInventory="trade" startingBalance="-2">
-      <outputs name="confirme" ownerID="28" targetID="29" group="G1" fromX="-879" fromY="-258" />
-      <outputs name="Cancelar" ownerID="28" targetID="37" fromX="-879" fromY="-338" />
-      <outputs name="confirme" ownerID="28" targetID="30" group="G1" fromX="-879" fromY="-418" />
-      <outputs name="confirme" ownerID="28" targetID="31" group="G1" fromX="-879" fromY="-498" />
-      <outputs name="confirme" ownerID="28" targetID="32" group="G1" fromX="-879" fromY="-579" />
-      <outputs name="confirme" ownerID="28" targetID="33" group="G1" fromX="-879" fromY="-659" />
-      <outputs name="confirme" ownerID="28" targetID="34" group="G1" fromX="-879" fromY="-739" />
+      <outputs name="Confirm" ownerID="28" targetID="29" group="G1" fromX="-879" fromY="-258" />
+      <outputs name="Cancel" ownerID="28" targetID="37" fromX="-879" fromY="-338" />
+      <outputs name="Confirm" ownerID="28" targetID="30" group="G1" fromX="-879" fromY="-418" />
+      <outputs name="Confirm" ownerID="28" targetID="31" group="G1" fromX="-879" fromY="-498" />
+      <outputs name="Confirm" ownerID="28" targetID="32" group="G1" fromX="-879" fromY="-579" />
+      <outputs name="Confirm" ownerID="28" targetID="33" group="G1" fromX="-879" fromY="-659" />
+      <outputs name="Confirm" ownerID="28" targetID="34" group="G1" fromX="-879" fromY="-739" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="29" positionX="-1785" positionY="0" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
@@ -1235,8 +1235,8 @@ It is I who will die.</nodes>
       <outputs name="Acene e ouça o que eles querem dizer." ownerID="18" targetID="22" fromX="189" fromY="-1364" />
       <outputs name="Recusar e sair." ownerID="18" targetID="20" fromX="189" fromY="-1444" />Uma caravana se aproxima. Eles te chamam cansados: 'Bom caminho para você, estranho. Podemos impor seu tempo?</nodes>
     <nodes xsi:type="NodeTrade" ID="19" positionX="2638" positionY="-764" width="460" height="479" traderProfile="TRADER-SLAVYAN_SMALL_FRIENDLY" playerInventory="stuff">
-      <outputs name="confirme" ownerID="19" targetID="17" fromX="3068" fromY="-1092" />
-      <outputs name="Cancelar" ownerID="19" targetID="17" fromX="3068" fromY="-1172" />
+      <outputs name="Confirm" ownerID="19" targetID="17" fromX="3068" fromY="-1092" />
+      <outputs name="Cancel" ownerID="19" targetID="17" fromX="3068" fromY="-1172" />
     </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="20" positionX="-693.046753" positionY="-788.3464" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="20" targetID="21" fromX="-244" fromY="-1220" />
@@ -1289,8 +1289,8 @@ It is I who will die.</nodes>
       <outputs ownerID="26" targetID="25" group="G1" fromX="0" fromY="-2917" />
     </nodes>
     <nodes xsi:type="NodeTrade" ID="27" positionX="1230" positionY="-2124" width="460" height="479" traderProfile="TRADER-SLAVYAN_SMALL" playerInventory="stuff">
-      <outputs name="confirme" ownerID="27" targetID="32" fromX="1660" fromY="-2452" />
-      <outputs name="Cancelar" ownerID="27" targetID="32" fromX="1660" fromY="-2532" />
+      <outputs name="Confirm" ownerID="27" targetID="32" fromX="1660" fromY="-2452" />
+      <outputs name="Cancel" ownerID="27" targetID="32" fromX="1660" fromY="-2532" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="190.668167" positionY="-2767.383" width="350" height="725">
       <outputs name="Concorde e negocie com eles." ownerID="28" targetID="29" fromX="516" fromY="-3258" />'Eu vejo. Segue-se a tristeza. Tentaremos encontrar paz para seu espírito através de outra jornada. Você gostaria de negociar?</nodes>
@@ -1305,8 +1305,8 @@ It is I who will die.</nodes>
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="29" targetID="32" fromX="1164" fromY="-3117" />
-      <outputs name="Cancelar" ownerID="29" targetID="32" fromX="1164" fromY="-3197" />
+      <outputs name="Confirm" ownerID="29" targetID="32" fromX="1164" fromY="-3117" />
+      <outputs name="Cancel" ownerID="29" targetID="32" fromX="1164" fromY="-3197" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="-1010.33563" positionY="-3002.76074" width="350" height="805">
       <logic>
@@ -3694,8 +3694,8 @@ It is I who will die.</nodes>
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="32" targetID="11" fromX="1168" fromY="-3284" />
-      <outputs name="Cancelar" ownerID="32" targetID="9" fromX="1168" fromY="-3365" />
+      <outputs name="Confirm" ownerID="32" targetID="11" fromX="1168" fromY="-3284" />
+      <outputs name="Cancel" ownerID="32" targetID="9" fromX="1168" fromY="-3365" />
     </nodes>
     <nodes xsi:type="NodeChallenge" ID="33" positionX="1333" positionY="-1225" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="33" targetID="34" fromX="1774" fromY="-1721" />

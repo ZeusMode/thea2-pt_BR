@@ -214,9 +214,9 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="24" targetID="26" group="G1" fromX="632" fromY="-1720" />
-      <outputs name="Cancelar" ownerID="24" targetID="22" fromX="632" fromY="-1800" />
-      <outputs name="confirme" ownerID="24" targetID="28" group="G1" fromX="632" fromY="-1880" />
+      <outputs name="Confirm" ownerID="24" targetID="26" group="G1" fromX="632" fromY="-1720" />
+      <outputs name="Cancel" ownerID="24" targetID="22" fromX="632" fromY="-1800" />
+      <outputs name="Confirm" ownerID="24" targetID="28" group="G1" fromX="632" fromY="-1880" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="956" positionY="-2014" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -516,9 +516,9 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="24" targetID="26" group="G1" fromX="672" fromY="-1641" />
-      <outputs name="Cancelar" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
-      <outputs name="confirme" ownerID="24" targetID="28" group="G1" fromX="672" fromY="-1801" />
+      <outputs name="Confirm" ownerID="24" targetID="26" group="G1" fromX="672" fromY="-1641" />
+      <outputs name="Cancel" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
+      <outputs name="Confirm" ownerID="24" targetID="28" group="G1" fromX="672" fromY="-1801" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="844" positionY="-1865" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -789,9 +789,9 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="24" targetID="26" group="G1" fromX="672" fromY="-1641" />
-      <outputs name="Cancelar" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
-      <outputs name="confirme" ownerID="24" targetID="28" group="G1" fromX="672" fromY="-1801" />
+      <outputs name="Confirm" ownerID="24" targetID="26" group="G1" fromX="672" fromY="-1641" />
+      <outputs name="Cancel" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
+      <outputs name="Confirm" ownerID="24" targetID="28" group="G1" fromX="672" fromY="-1801" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="844" positionY="-1865" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
@@ -1647,8 +1647,8 @@
       <outputs name="Curve-se a ela e ofereça homenagem." ownerID="28" targetID="29" fromX="5022" fromY="-3245" />
       <outputs name="Desafie-a, mesmo que isso signifique a morte!" ownerID="28" targetID="33" fromX="5022" fromY="-3325" />A rainha jurata vem em toda a sua glória marinha: 'Eu sou apenas uma jovem rainha, e você um senhor experiente. No entanto, é minha juventude e poder que superam suas antigas tradiçoes! Agora curve-se para mim, ou morra.' Suas palavras carregam um comando que você sabe que vai quebrar você. Ela realmente é a rainha dessas águas.</nodes>
     <nodes xsi:type="NodeTrade" ID="29" positionX="5144" positionY="-2768" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-50">
-      <outputs name="confirme" ownerID="29" targetID="31" fromX="5574" fromY="-3096" />
-      <outputs name="Cancelar" ownerID="29" targetID="28" fromX="5574" fromY="-3176" />
+      <outputs name="Confirm" ownerID="29" targetID="31" fromX="5574" fromY="-3096" />
+      <outputs name="Cancel" ownerID="29" targetID="28" fromX="5574" fromY="-3176" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="6239" positionY="-2522" width="350" height="725">
       <outputs name="Sair." ownerID="30" targetID="32" fromX="6564" fromY="-3013" />— Aceito seu tributo, príncipe das águas doces. Você pode sair.'</nodes>
@@ -1721,8 +1721,8 @@
       <outputs name="Nade pra longe." ownerID="38" targetID="21" fromX="1800" fromY="-2633" />&quot;Bom, nós aceitamos.&quot;
 </nodes>
     <nodes xsi:type="NodeTrade" ID="39" positionX="915" positionY="-2116" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-30">
-      <outputs name="confirme" ownerID="39" targetID="38" fromX="1345" fromY="-2444" />
-      <outputs name="Cancelar" ownerID="39" targetID="37" fromX="1345" fromY="-2524" />
+      <outputs name="Confirm" ownerID="39" targetID="38" fromX="1345" fromY="-2444" />
+      <outputs name="Cancel" ownerID="39" targetID="37" fromX="1345" fromY="-2524" />
     </nodes>
     <nodes xsi:type="NodeDealDamage" ID="40" positionX="650" positionY="-1618" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="40" targetID="37" fromX="1079" fromY="-2006" />
@@ -2013,9 +2013,9 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme" ownerID="24" targetID="26" group="G1" fromX="672" fromY="-1641" />
-      <outputs name="Cancelar" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
-      <outputs name="confirme" ownerID="24" targetID="28" group="G1" fromX="672" fromY="-1801" />
+      <outputs name="Confirm" ownerID="24" targetID="26" group="G1" fromX="672" fromY="-1641" />
+      <outputs name="Cancel" ownerID="24" targetID="22" fromX="672" fromY="-1721" />
+      <outputs name="Confirm" ownerID="24" targetID="28" group="G1" fromX="672" fromY="-1801" />
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="911" positionY="-1916" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
