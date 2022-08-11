@@ -94,8 +94,8 @@
 		<Entry Key="UI_ENTER_QUEST_DESCRIPTION" Val="Descrição da Missão (Loc String)"></Entry>
 		<Entry Key="UI_SHOW_IN_LOGBOOK" Val="Mostrar no diário de bordo"></Entry>
 		<Entry Key="UI_PICK_A_TAG" Val="Escolha uma etiqueta"></Entry>
-		<Entry Key="UI_TURN" Val="Virar:"></Entry>
-		<Entry Key="UI_TURN2" Val="Virar"></Entry>
+		<Entry Key="UI_TURN" Val="Turno:"></Entry>
+		<Entry Key="UI_TURN2" Val="Turno"></Entry>
 		<Entry Key="UI_INVENTORY" Val="Inventário"></Entry>
 		<Entry Key="UI_FILTER" Val="Filtro…"></Entry>
 		<Entry Key="UI_SORT" Val="Ordenar…"></Entry>
