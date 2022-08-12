@@ -2790,7 +2790,7 @@ The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Acene e vá embora." ownerID="41" targetID="60" fromX="5285" fromY="-2110" />&quot;Obrigado&quot;, o espírito sussurra enquanto a pedra absorve seu coração e a estátua fica quieta. O chão treme, e de debaixo de uma pedra vem um presente para você.</nodes>
+      <outputs name="Acene e vá embora." ownerID="41" targetID="60" fromX="5285" fromY="-2110" />'Obrigado', o espírito sussurra enquanto a pedra absorve seu coração e a estátua fica quieta. O chão treme, e de debaixo de uma pedra vem um presente para você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="5296.12354" positionY="-2341.38184" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -5733,7 +5733,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
       <outputs name="Sim, você ouviu falar de seus parentes amaldiçoados pela escuridão, parentes das sombras. Deseje-lhes boa sorte na limpeza de sua mácula e pergunte se você pode obter uma bênção da árvore da memória." ownerID="6" targetID="13" fromX="2163" fromY="1813" />
       <outputs name="Peça desculpas por sua ignorância, mas pergunte o que é a árvore da memória." ownerID="6" targetID="16" fromX="2163" fromY="1732" />'Eu vim para o sono eterno, mas minha alma estava manchada pela escuridão. Como tal, não poderia se juntar à luz. Em vez disso, estou preso aqui, guardando a árvore da memória até ser limpo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2308" positionY="1550" width="350" height="725">
-      <outputs name="confirme that you follow the path of the cosmic pantheon, for they are guardians of balance. Affirm that this is still the goal of all elves." ownerID="7" targetID="8" fromX="2633" fromY="1058" />— Agradeço, irmãos, mas não. A limpeza deve prosseguir sem ajuda para que seja verdadeira. Mas sinto que você segue o caminho dos deuses mortais em vez do nosso. Que estranho.' 
+      <outputs name="confirme que você segue o caminho do panteão cósmico, pois eles são guardiões do equilíbrio. Afirme que este ainda é o objetivo de todos os elfos." ownerID="7" targetID="8" fromX="2633" fromY="1058" />— Agradeço, irmãos, mas não. A limpeza deve prosseguir sem ajuda para que seja verdadeira. Mas sinto que você segue o caminho dos deuses mortais em vez do nosso. Que estranho.' 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2747.57959" positionY="1937.63708" width="350" height="805">
       <logic>
@@ -6924,7 +6924,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
       </logic>
       <outputs name="Insista que isso é uma corrupção da sua cultura." ownerID="3" targetID="4" fromX="1160" fromY="566" />
       <outputs name="Pergunte que jogo eles significam." ownerID="3" targetID="8" fromX="1160" fromY="486" />
-      <outputs name="Ataque a abominação!" ownerID="3" targetID="6" fromX="1160" fromY="406" />O fantasma dá de ombros - pelo menos, ele tenta, mas seu corpo etéreo apenas pisca um pouco. — Ah, orcs. Eu acho que eu deveria ser tudo sobre o &quot;Argh, fique longe do nosso cemitério, argh...&quot; Você quer jogar um jogo ou não?</nodes>
+      <outputs name="Ataque a abominação!" ownerID="3" targetID="6" fromX="1160" fromY="406" />O fantasma dá de ombros - pelo menos, ele tenta, mas seu corpo etéreo apenas pisca um pouco. — Ah, orcs. Eu acho que eu deveria ser tudo sobre o 'Argh, fique longe do nosso cemitério, argh...' Você quer jogar um jogo ou não?</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1266.87549" positionY="1110.96851" width="350" height="805">
       <outputs name="E jogar é a sua resposta filosófica profunda?" ownerID="4" targetID="24" fromX="1592" fromY="619" />
       <outputs name="Ataque a abominação!" ownerID="4" targetID="6" fromX="1592" fromY="539" />O fantasma rola suas órbitas vazias para você. “Sou um espírito, uma alma presa aqui, amarrada a este lugar pelos poderes constituídos, sem forma, entediada e muito consciente da futilidade de me apegar ao meu antigo eu. Você ficaria surpreso com o quão filosófico alguém fica quando fica preso a contemplar a vida em uma forma sem vida para a eternidade.'
@@ -6956,7 +6956,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
       <outputs name="Saia deste lugar." ownerID="10" targetID="69" fromX="3408" fromY="-1648" />
       <outputs name="Mas foi estúpido. Qual foi a lição?" ownerID="10" targetID="23" fromX="3408" fromY="-1729" />— Sim, foi isso. Você pode sair.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1904.00513" positionY="-765.7275" width="350" height="725">
-      <outputs name="É isso? O jogo?" ownerID="11" targetID="10" fromX="2229" fromY="-1256" />&quot;A escolha mais óbvia - que decepcionante.&quot;</nodes>
+      <outputs name="É isso? O jogo?" ownerID="11" targetID="10" fromX="2229" fromY="-1256" />'A escolha mais óbvia - que decepcionante.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2329.3916" positionY="-650.688354" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -7676,7 +7676,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2790.38232" positionY="479.212952" width="350" height="805">
       <outputs name="Sair." ownerID="9" targetID="10" fromX="3116" fromY="-11" />
-      <outputs name="Sair." ownerID="9" targetID="13" fromX="3116" fromY="-92" />&quot;O negócio está selado.&quot; O demônio bate palmas e desaparece, deixando-lhe os bens prometidos - e, você espera, nada mais...</nodes>
+      <outputs name="Sair." ownerID="9" targetID="13" fromX="3116" fromY="-92" />'O negócio está selado.' O demônio bate palmas e desaparece, deixando-lhe os bens prometidos - e, você espera, nada mais...</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="10" positionX="3227.496" positionY="728.3397" width="460" height="429" sourceGroup="GROUP-DWARVES_7P_6M_2S" cargoPercentage="100" targetGroup="ppl">
       <logic>
         <FilterBlock>

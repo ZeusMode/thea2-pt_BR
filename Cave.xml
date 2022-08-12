@@ -814,7 +814,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="One of the younger bears survives and now follows your lead. Sair." ownerID="15" targetID="69" fromX="2484" fromY="1317" />
+      <outputs name="Um dos ursos mais jovens sobrevive e agora segue sua liderança. Sair." ownerID="15" targetID="69" fromX="2484" fromY="1317" />
       <outputs name="Sair." ownerID="15" targetID="70" fromX="2484" fromY="1237" />Você mata o urso e sua matilha e fica livre para saquear a caverna.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="3208.38257" positionY="604.1489" width="350" height="885">
       <logic>
@@ -2826,7 +2826,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Ele quer te dar riquezas? Por que, qual é a pegadinha?" ownerID="7" targetID="9" fromX="2049" fromY="-1553" />
-      <outputs name="[Sabedoria ou zerca] Mamon? Você não ouviu falar de tal demônio. Quem é ele?" ownerID="7" targetID="8" fromX="2049" fromY="-1633" />'Eu? Eu sou chamado de muitas coisas. Mammon é aquele que é velho, então vamos me dirigir assim. Agora, meu galante convidado. Seu coração deseja riqueza? Pois como você pode ver, 'está em abundância em minha humilde morada e tua para a tomada, se assim o desejares.'  [ID]876593413[TXT]'A demon I will be called in another world, a god was I hailed in yet another time. It matters not. Drakes call me villain for I trample on their path, treasurer demons cower before me as I master what they can only mimic. Now, does thee desire wealth? Will it not soothe your troubles, forge weapons of protection, and lead you to better serve your masters?'</nodes>
+      <outputs name="[Sabedoria ou zerca] Mamon? Você não ouviu falar de tal demônio. Quem é ele?" ownerID="7" targetID="8" fromX="2049" fromY="-1633" />'Eu? Eu sou chamado de muitas coisas. Mammon é aquele que é velho, então vamos me dirigir assim. Agora, meu galante convidado. Seu coração deseja riqueza? Pois como você pode ver, 'está em abundância em minha humilde morada e tua para a tomada, se assim o desejares.' [ID]876593413[TXT]'Um demônio eu serei chamado em outro mundo, um deus eu fui saudado em outra época. Não importa. Drakes me chamam de vilão porque eu piso em seu caminho, demônios tesoureiros se encolhem diante de mim enquanto domino o que eles só podem imitar. Agora, você deseja riqueza? Não vai aliviar seus problemas, forjar armas de proteção e levá-lo a servir melhor a seus senhores?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2357" positionY="-1077" width="350" height="725">
       <logic>
         <FilterBlock>

@@ -1995,7 +1995,7 @@ Gods ascend through understanding and the will to become. Thus, by making the wi
       <outputs name="Pegue a bolota. Use o poder da sua floresta para plantá-la adequadamente e, assim, permitir o eventual renascimento do leshy." ownerID="5" targetID="8" group="G1" fromX="792" fromY="311" />
       <outputs name="Plante a bolota e espere o melhor." ownerID="5" targetID="14" group="G1" fromX="792" fromY="231" />
       <outputs name="Plante a bolota e espere o melhor." ownerID="5" targetID="13" group="G1" fromX="792" fromY="150" />
-      <outputs name="Isso parece valioso. Pegue a bolota." ownerID="5" targetID="9" fromX="792" fromY="70" />&quot;Huumph, hamph... hmmm... Woods... difícil... bolota... planant... haaastly...&quot; A árvore cospe uma pequena bolota. </nodes>
+      <outputs name="Isso parece valioso. Pegue a bolota." ownerID="5" targetID="9" fromX="792" fromY="70" />'Huumph, hamph... hmmm... Woods... difícil... bolota... planant... haaastly...' A árvore cospe uma pequena bolota. </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="493.549683" positionY="-156.628815" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -2007,7 +2007,7 @@ Gods ascend through understanding and the will to become. Thus, by making the wi
       <outputs name="Pegue a bolota. Use o poder da sua floresta para plantá-la adequadamente e, assim, permitir o eventual renascimento do leshy." ownerID="7" targetID="8" fromX="819" fromY="-647" />
       <outputs name="Isso é valioso - arriscado, mas valioso. Pegue a bolota." ownerID="7" targetID="11" group="G1" fromX="819" fromY="-727" />
       <outputs name="Isso é valioso - arriscado, mas valioso. Pegue a bolota." ownerID="7" targetID="9" group="G1" fromX="819" fromY="-808" />
-      <outputs name="Deixe a bolota em paz e junte a madeira que sobrar aqui." ownerID="7" targetID="20" fromX="819" fromY="-888" />&quot;Huumph, hamph... hmmm... Woods... difícil... bolota... planant... haaastly...&quot; A árvore cospe uma pequena bolota. </nodes>
+      <outputs name="Deixe a bolota em paz e junte a madeira que sobrar aqui." ownerID="7" targetID="20" fromX="819" fromY="-888" />'Huumph, hamph... hmmm... Woods... difícil... bolota... planant... haaastly...' A árvore cospe uma pequena bolota. </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="1079.49023" positionY="-0.7869377" width="350" height="725">
       <logic>
         <FilterBlock>

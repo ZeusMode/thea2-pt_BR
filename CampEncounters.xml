@@ -622,7 +622,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Abra o baú e pegue o que está dentro." ownerID="30" targetID="29" fromX="1222" fromY="-637" />Essas runas servem como proteção para o que quer que esteja dentro do baú. Eles são runas de ligação, então abrir o baú liberará os guardioes - provavelmente, espectros. As correntes funcionam como um gatilho. Quando quebrados, eles começarão o processo de liberação das apariçoes. Luckily, you know how to break the protection safely.</nodes>
+      <outputs name="Abra o baú e pegue o que está dentro." ownerID="30" targetID="29" fromX="1222" fromY="-637" />Essas runas servem como proteção para o que quer que esteja dentro do baú. Eles são runas de ligação, então abrir o baú liberará os guardiões - provavelmente, espectros. As correntes funcionam como um gatilho. Quando quebrados, eles começarão o processo de liberação das aparições. Felizmente, você sabe como quebrar a proteção com segurança.</nodes>
     <nodes xsi:type="NodeChallenge" ID="31" positionX="907.36145" positionY="-2211.28223" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-WRAITH_5P_4M_5S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>

@@ -795,8 +795,7 @@
       <outputs name="Diga o quê?" ownerID="22" targetID="23" fromX="2116" fromY="577" />
       <outputs name="Uma sorveira?" ownerID="22" targetID="27" group="G1" fromX="2116" fromY="497" />
       <outputs name="A seiva de bordo?" ownerID="22" targetID="30" group="G2" fromX="2116" fromY="416" />
-      <outputs name="Carvalho?" ownerID="22" targetID="31" group="G3" fromX="2116" fromY="336" />You suspect she will target any children playing in the fields, so you gather them up quickly.
-You also warn anyone working the fields to keep a wolf foot amulet on them at all times. The poludnica does appear again at high noon, but it does not attack, instead she speaks: 'A rowan tree, a maple sap or an oak by the river?'</nodes>
+      <outputs name="Carvalho?" ownerID="22" targetID="31" group="G3" fromX="2116" fromY="336" />Você suspeita que ela terá como alvo qualquer criança brincando nos campos, então você as reúne rapidamente Você também avisa qualquer um que trabalhe nos campos para manter um amuleto de pé de lobo com eles o tempo todo. A poludnica reaparece ao meio-dia, mas não ataca, em vez disso ela fala: "Uma sorveira, uma seiva de bordo ou um carvalho à beira do rio?"</nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="3068" positionY="200" width="350" height="725">
       <outputs name="Defenda-se!" ownerID="23" targetID="15" fromX="3393" fromY="-291" />'Não, não, não, nenhum jogo sem ganho!' Ela grita e ataca você, acompanhada por suas irmãs!</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="3480" positionY="317" width="350" height="725">
@@ -2780,8 +2779,7 @@ You also warn anyone working the fields to keep a wolf foot amulet on them at al
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Tente voltar a dormir." ownerID="5" targetID="6" fromX="1425" fromY="-1252" />The strange wraith-like creature appears again this night and lays her sorrowful kiss upon many sleeping lips. In the morning, many of your people rise with a heavy heart and a darkened soul, filled with melancholy.  You realise too late that this was likely a tesknica, a Longing demon who seeks to share her sadness and despair with the living!
-Some of your people are likely never to recover from their state? And yet, upon the demon's departure, you feel a deeper understanding of the demon world.</nodes>
+      <outputs name="Tente voltar a dormir." ownerID="5" targetID="6" fromX="1425" fromY="-1252" />A estranha criatura parecida com um espectro aparece novamente esta noite e coloca seu beijo doloroso em muitos lábios adormecidos. De manhã, muitos de seu povo se levantam com o coração pesado e a alma obscurecida, cheia de melancolia. Você percebe tarde demais que isso provavelmente era uma tesknica, um demônio da saudade que procura compartilhar sua tristeza e desespero com os vivos! Alguns de seu povo provavelmente nunca se recuperarão de seu estado? E, no entanto, após a partida do demônio, você sente uma compreensão mais profunda do mundo demoníaco.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1351" positionY="-1825" width="350" height="530" allPlayersXP="1" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2226" positionY="-387" width="350" height="725">
       <logic>
@@ -3243,7 +3241,7 @@ Some of your people are likely never to recover from their state? And yet, upon 
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="516" positionY="-2545" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1781" positionY="-67" width="350" height="725">
-      <outputs name="Agradeça a eles pelas informaçoes." ownerID="11" targetID="12" fromX="2106" fromY="-558" />'Bem, nós tentamos lutar, mas falhamos, e verdade seja dita, nós ficamos parados por muito tempo. Mas você sabe, esses brutos, eles mataram um monte de nosso povo e levaram muitos de nossos bens, então se você quiser tentar vencê-los, seja nosso convidado! Tínhamos uma grande serraria e uma pequena pedreira, então você não só vingará nosso povo, como será bem recompensado, sabe.what, these brutes, they killed a bunch of our people and took much of our goods, so if you want to try and beat them, be our guests!  We had a sizeable lumber mill and a small quarry, so not only you will avenge our people, you'll be well rewarded, you know.?</nodes>
+      <outputs name="Agradeça a eles pelas informaçoes." ownerID="11" targetID="12" fromX="2106" fromY="-558" />'Bem, nós tentamos lutar, mas falhamos, e verdade seja dita, nós ficamos parados por muito tempo. Mas você sabe, esses brutos, eles mataram um monte de nosso povo e levaram muitos de nossos bens, então se você quiser tentar vencê-los, seja nosso convidado! Tínhamos uma grande serraria e uma pequena pedreira, então você não só vingará nosso povo, como será bem recompensado, sabe?</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2216" positionY="-64" width="350" height="966">
       <outputs name="Peça-lhes para ficar com você." ownerID="12" targetID="15" fromX="2541" fromY="-555" />
       <outputs name="Desejo-lhes boa sorte em suas viagens." ownerID="12" targetID="13" fromX="2541" fromY="-635" />
@@ -3926,7 +3924,7 @@ Some of your people are likely never to recover from their state? And yet, upon 
       </logic>
       <outputs name="Entregar a mercadoria e perguntar qual é o plano?" ownerID="3" targetID="5" fromX="930" fromY="-662" />
       <outputs name="Não, vá embora." ownerID="3" targetID="4" fromX="930" fromY="-742" />
-      <outputs name="Tell him you changed your mind and will kill the dragon yourself. Ataque!" ownerID="3" targetID="7" fromX="930" fromY="-822" />Você encontra Needler novamente e vê que ele está costurando o que parece ser uma carcaça de ovelha. Você dá a ele o material e ele usa para acabar com sua ovelha falsa. Existem agora três desses 'animais' deitados no chão. 'Você trouxe as 40 madeiras boas e 20 ervas?'</nodes>
+      <outputs name="Diga a ele que você mudou de ideia e vai matar o dragão você mesmo. Ataque!" ownerID="3" targetID="7" fromX="930" fromY="-822" />Você encontra Needler novamente e vê que ele está costurando o que parece ser uma carcaça de ovelha. Você dá a ele o material e ele usa para acabar com sua ovelha falsa. Existem agora três desses 'animais' deitados no chão. 'Você trouxe as 40 madeiras boas e 20 ervas?'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="121" positionY="-886" width="350" height="530" logBookName="QUEST_VAVEL2" logBookDescription="QUEST_VAVEL2_DES4" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="5" positionX="1080" positionY="-271" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="w1w2w3" startingBalance="-40">
       <logic>
@@ -3977,8 +3975,7 @@ Some of your people are likely never to recover from their state? And yet, upon 
         </ModifierBlock>
       </logic>
       <outputs name="[Bonito e casual] Diga a ele que ele é estranho, mas que ele pode vir e ficar com você. Ele pode até ter sorte se alguém estiver bêbado o suficiente..." ownerID="8" targetID="29" fromX="2331" fromY="-1585" />
-      <outputs name="Sair." ownerID="8" targetID="17" fromX="2331" fromY="-1665" />You kill the  dragon, and gather up his remains and you find a small lair, where the beast kept some treasures. Needler comes over in a huff:
-'Great, so no princess and the dragon gone, so no more tourists to buy my shoes. Gee, thanks. Bye!' He storms off.  </nodes>
+      <outputs name="Sair." ownerID="8" targetID="17" fromX="2331" fromY="-1665" />Você mata o dragão, recolhe seus restos mortais e encontra um pequeno covil, onde a fera guardava alguns tesouros. Needler se aproxima bufando: 'Ótimo, então nenhuma princesa e o dragão se foram, então não há mais turistas para comprar meus sapatos. Caramba, valeu. Tchau!' Ele foge.  </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1768" positionY="-1953" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4198,7 +4195,7 @@ Some of your people are likely never to recover from their state? And yet, upon 
         </FilterBlock>
       </logic>
       <outputs name="Concordo, dê-lhe algumas roupas." ownerID="8" targetID="17" fromX="1567" fromY="-1413" />
-      <outputs name="Say you cannot give your clothes, but offer some food instead.[Perder 20 food]" ownerID="8" targetID="9" fromX="1567" fromY="-1493" />
+      <outputs name="Diga que você não pode dar suas roupas, mas ofereça comida.[Perder 20 food]" ownerID="8" targetID="9" fromX="1567" fromY="-1493" />
       <outputs name="Infelizmente, você não tem nada a oferecer." ownerID="8" targetID="12" fromX="1567" fromY="-1573" />Você sabe uma coisa ou duas sobre toupeiras, e sabe que esta é mais provável que seja um Krtecek, um tipo amigável de demônio do campo. O Krtecek parece estar olhando intensamente para suas roupas, depois olhando para si mesmo, muito triste. Você parece se lembrar que esses espíritos têm uma queda por roupas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1766" positionY="-1601" width="350" height="805">
       <logic>
@@ -5171,10 +5168,10 @@ Some of your people are likely never to recover from their state? And yet, upon 
       <outputs name="Bom, hora de sair." ownerID="13" targetID="14" fromX="1801" fromY="-2716" />O antigo ritual funcionou e a fumaça do incenso queimando luta contra a desagradável nuvem demoníaca. A criatura está morta e você aprende algum conhecimento popular com essa experiência.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="14" positionX="2025" positionY="-2403" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="16" positionX="1623" positionY="-278" width="350" height="966">
-      <outputs name="The creature looks terrified and poisonous pores appear on its skin, puffing out clouds of green smoke! The thing runs away and there is little more to do now. Sair." ownerID="16" targetID="18" group="G1" fromX="1948" fromY="-769" />
-      <outputs name="The creature nods in thanks you and then it disappears in a puff of white smoke, but you feel a blessing upon you. Sair." ownerID="16" targetID="19" group="G1" fromX="1948" fromY="-849" />
-      <outputs name="The creature seems really grateful. It opens up a pouch on its belly and gives you food and then joins your group! Sair juntos." ownerID="16" targetID="20" group="G1" fromX="1948" fromY="-929" />
-      <outputs name="The creature disappears in a puff of white smoke. Sair." ownerID="16" targetID="21" group="G1" fromX="1948" fromY="-1009" />Você se aproxima da armadilha com cuidado e gentilmente a desmonta: 'Certo, eu vou deixar você ir, amiguinho, só não seja monstruoso conosco agora, ok?'</nodes>
+      <outputs name="A criatura parece aterrorizada e poros venenosos aparecem em sua pele, soltando nuvens de fumaça verde! A coisa foge e há pouco mais a fazer agora. Sair." ownerID="16" targetID="18" group="G1" fromX="1948" fromY="-769" />
+      <outputs name="A criatura acena com a cabeça em agradecimento e então desaparece em uma nuvem de fumaça branca, mas você sente uma bênção sobre você. Sair." ownerID="16" targetID="19" group="G1" fromX="1948" fromY="-849" />
+      <outputs name="A criatura parece realmente grata. Ele abre uma bolsa em sua barriga e lhe dá comida e depois se junta ao seu grupo! Sair juntos." ownerID="16" targetID="20" group="G1" fromX="1948" fromY="-929" />
+      <outputs name="A criatura desaparece em uma nuvem de fumaça branca. Sair." ownerID="16" targetID="21" group="G1" fromX="1948" fromY="-1009" />Você se aproxima da armadilha com cuidado e gentilmente a desmonta: 'Certo, eu vou deixar você ir, amiguinho, só não seja monstruoso conosco agora, ok?'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="2021" positionY="-125" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -5954,7 +5951,7 @@ Some of your people are likely never to recover from their state? And yet, upon 
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Aceitar. But ask how does he even know you're right for this task?" ownerID="12" targetID="14" fromX="3038" fromY="-391" />
+      <outputs name="Aceitar. Mas pergunte como ele sabe que você está certo para esta tarefa?" ownerID="12" targetID="14" fromX="3038" fromY="-391" />
       <outputs name="Declínio." ownerID="12" targetID="17" fromX="3038" fromY="-471" />
       <outputs name="Ataque!" ownerID="12" targetID="6" fromX="3038" fromY="-551" />
       <outputs name="Aceite, mas pergunte sobre sua recompensa." ownerID="12" targetID="18" fromX="3038" fromY="-631" />'Cavaleiros? Oh, bem, um cavaleiro é um bravo guerreiro, que jurou servir ao seu rei e a Deus, para defender a lei. É um homem? oh, hum, desculpe, bem, suponho que no meu reino só nomeamos homens, mas tempos desesperados? Então, é uma pessoa que é justa e honrada. Agora, eu juro solenemente que vou liberá-lo do meu serviço assim que a ação que eu peço for feita e eu segurar a espada na minha mão. Você irá aceitar?'</nodes>
@@ -6120,7 +6117,7 @@ Some of your people are likely never to recover from their state? And yet, upon 
       <outputs name="[Intelecto ou inteligência] Dê a ele uma resposta muito específica e detalhada, com base em seus cálculos detalhados, que leve em consideração o tamanho e a força médios do Troll e estime o tamanho de uma rocha, bem como as possíveis variaçoes climáticas." ownerID="17" targetID="22" fromX="3127" fromY="-753" />
       <outputs name="Diga que você não sabe." ownerID="17" targetID="19" fromX="3127" fromY="-833" />
       <outputs name="Ataque o fantasma!" ownerID="17" targetID="11" fromX="3127" fromY="-913" />
-      <outputs name="Pergunte que tipo de troll, rocha ou pântano?" ownerID="17" targetID="23" fromX="3127" fromY="-993" />'Esta resposta está incorreta, e por isso a punição que devo dirigir!' O orador é jogado no chão por uma força invisível, e você vê seu nariz sangrar muito. O fantasma fala novamente: &quot;A resposta final você deve dar agora: a que velocidade voaria uma pedra atirada por um troll?&quot;</nodes>
+      <outputs name="Pergunte que tipo de troll, rocha ou pântano?" ownerID="17" targetID="23" fromX="3127" fromY="-993" />'Esta resposta está incorreta, e por isso a punição que devo dirigir!' O orador é jogado no chão por uma força invisível, e você vê seu nariz sangrar muito. O fantasma fala novamente: 'A resposta final você deve dar agora: a que velocidade voaria uma pedra atirada por um troll?'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="18" positionX="2735" positionY="-1301" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="45" maxDamage="65" useCountInPercent="true" targetGroup="1">
       <logic>
         <FilterBlock>
@@ -6940,8 +6937,7 @@ Some of your people are likely never to recover from their state? And yet, upon 
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="2990" positionY="-1986" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="14" positionX="430" positionY="-1190" width="350" height="805">
       <outputs name="Aceita." ownerID="14" targetID="15" fromX="755" fromY="-1681" />
-      <outputs name="No. Ataque! " ownerID="14" targetID="25" fromX="755" fromY="-1761" />The wildwives slow their descent and approach you cautiously, stopping at a speaking distance, but their large clubs are raised in a defensive stance.  Now that you look closer upon them, you're no longer sure if they have fur, or perhaps they're just wearing strange armour, and up close, they no longer look so inhuman, just scarred by the wilderness and clearly not used to 'civilised' contact.
-One of them sniffs the air, then speaks to you in a low, gruff voice: 'You talk to us?'</nodes>
+      <outputs name="No. Ataque! " ownerID="14" targetID="25" fromX="755" fromY="-1761" />As wildwives diminuem sua descida e se aproximam de você cautelosamente, parando a uma distância de fala, mas seus grandes porretes estão erguidos em posição defensiva. Agora que você olha mais de perto para eles, você não tem mais certeza se eles têm pelos, ou talvez eles estejam apenas usando armaduras estranhas, e de perto, eles não parecem mais tão desumanos, apenas marcados pelo deserto e claramente não acostumados a contato "civilizado". Um deles fareja o ar, depois fala com você em voz baixa e rouca: 'Você fala conosco?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="1105" positionY="-1583" width="350" height="725">
       <outputs name="Peça para ver o que eles têm primeiro." ownerID="15" targetID="16" fromX="1430" fromY="-2074" />'Comida, você dá comida nós damos pedra brilhante para você?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="1568" positionY="-1595" width="350" height="805">
@@ -7291,9 +7287,7 @@ One of them sniffs the air, then speaks to you in a low, gruff voice: 'You talk 
       <outputs name="Digamos que você vá embora nesse caso, pois parece um negócio de família." ownerID="15" targetID="16" fromX="3132" fromY="-1636" />
       <outputs name="[Lobisomem] Ela é claramente uma mulher loba, e há o cheiro de uma matilha por perto. Mas pergunte a ela o que está acontecendo aqui de qualquer maneira, veja o que ela tem a dizer?" ownerID="15" targetID="52" fromX="3132" fromY="-1716" />Você se vira para apontar para a garota, mas percebe que ela se foi. A mulher franze a testa e balança a cabeça: “Criança estúpida, tão teimosa, tão selvagem. Você deveria sair daqui, pois não consigo me acalmar esta noite! De repente você está muito consciente da lua cheia vermelha, brilhando acima de suas cabeças...</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="3257" positionY="-1396" width="350" height="725">
-      <outputs name="Pergunte o que está acontecendo aqui? What gifts?" ownerID="16" targetID="18" fromX="3582" fromY="-1887" />'No, wait! I, I almost backed out, but no, I must ask you for a terrible boon!  You see, the child that brought you here, she will not stop this madness.
- 
-She'll bring me gifts, every full moon, she'll torment me, never let me stow away the beast! But she never stays, afraid of my true anger. I was the one who killed her parents, not intentionally, nevertheless, they followed me and died and the child does not forgive.'</nodes>
+      <outputs name="Pergunte o que está acontecendo aqui? What gifts?" ownerID="16" targetID="18" fromX="3582" fromY="-1887" />'Não, espere! Eu, eu quase desisti, mas não, devo pedir-lhe um benefício terrível! Você vê, a criança que trouxe você aqui, ela não vai parar essa loucura. Ela vai me trazer presentes, toda lua cheia, ela vai me atormentar, nunca me deixe guardar a fera! Mas ela nunca fica, com medo da minha verdadeira raiva. Fui eu que matei os pais dela, não intencionalmente, mas eles me seguiram e morreram e a criança não perdoa.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="3253" positionY="-587" width="350" height="725">
       <outputs name="Pergunte quais presentes?" ownerID="17" targetID="18" fromX="3578" fromY="-1078" />A velha agarra o estômago numa súbita convulsão de dor. Quando ela se endireita novamente, seu rosto está torcido e quando ela fala, é através de uma mandíbula apertada: 'Ela está longe, é claro, o filhote covarde e chorão que ela é. Ela vai me trazer presentes, toda lua cheia, ela vai me atormentar, nunca me deixe guardar a fera! Mas ela nunca fica, com medo da minha verdadeira raiva? Fui eu que matei os pais dela, não intencionalmente, no entanto, eles me seguiram e morreram e a criança não perdoa.?</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="3944" positionY="-691" width="350" height="885" image="Event105">

@@ -1001,7 +1001,7 @@
       <outputs name="Ataque essas abominaçoes!" ownerID="24" targetID="7" fromX="1227" fromY="233" />
       <outputs name="[Light]Esta é uma perversão do seu domínio. Tente combatê-lo com força de vontade." ownerID="24" targetID="8" group="G1" fromX="1227" fromY="153" />
       <outputs name="[Turmoil and Magic] Esta é uma perversão da luz e, como tal, seu domínio sofre uma tensão. Mas você também tem um senso aguçado da fonte e pode tentar combatê-la com seu espírito." ownerID="24" targetID="21" group="G1" fromX="1227" fromY="72" />
-      <outputs name="Fugir." ownerID="24" targetID="3" fromX="1227" fromY="-7" />Você percebe que é um bando de corvos vindo em sua direção, mas eles não estão se comportando naturalmente. Eles não seguem as correntes do vento, movendo-se pelo céu como um martelo feio, nem se comunicam entre si, voando em um silêncio assustador. Seus olhos pretos tipicamente redondos emitem um brilho branco maçante. You feel an odd burning sensation from your domain, an unnatural pull towards the light.</nodes>
+      <outputs name="Fugir." ownerID="24" targetID="3" fromX="1227" fromY="-7" />Você percebe que é um bando de corvos vindo em sua direção, mas eles não estão se comportando naturalmente. Eles não seguem as correntes do vento, movendo-se pelo céu como um martelo feio, nem se comunicam entre si, voando em um silêncio assustador. Seus olhos pretos tipicamente redondos emitem um brilho branco maçante. Você sente uma estranha sensação de queimação em seu domínio, uma atração não natural em direção à luz.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="25" positionX="3518.97827" positionY="-272.373627" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="20" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="25" targetID="12" fromX="3948" fromY="-660" />
     </nodes>
@@ -1432,7 +1432,7 @@
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="[Turmoil]The sudden flush of excitement feeds your domain and makes your heart beat faster. Ataque!" ownerID="2" targetID="5" group="G1" fromX="766" fromY="-612" />
+      <outputs name="[Turmoil] A súbita onda de excitação alimenta seu domínio e faz seu coração bater mais rápido. Ataque!" ownerID="2" targetID="5" group="G1" fromX="766" fromY="-612" />
       <outputs name="[Demônio da noite] Exija obediência dos roedores voadores!" ownerID="2" targetID="14" fromX="766" fromY="-692" />
       <outputs name="[Percepção] Fique parado e permita que eles voem, mesmo que isso signifique levar alguns arranhoes. Tente identificar exatamente de onde eles vieram." ownerID="2" targetID="20" fromX="766" fromY="-773" />
       <outputs name="Lutar!" ownerID="2" targetID="6" group="G1" fromX="766" fromY="-853" />

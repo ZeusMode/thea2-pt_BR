@@ -53,7 +53,7 @@
       <outputs name="Pergunte o que eles querem dizer com isso?" ownerID="2" targetID="4" fromX="594" fromY="-673" />
       <outputs name="Tratar. [Dê 50 frutas]" ownerID="2" targetID="35" fromX="594" fromY="-753" />
       <outputs name="Ou você não tem doces de frutas para dar, ou não quer dar, então escolha o truque, parece divertido." ownerID="2" targetID="5" fromX="594" fromY="-834" />
-      <outputs name="Mostre a eles um truque seu, ataque!" ownerID="2" targetID="6" fromX="594" fromY="-914" />Você é visitado por uma estranha coleção de convidados, uma bruxa, um lobisomem, um fantasma e um cadáver sem vida. Eles pronunciam as palavras &quot;doces ou travessuras&quot; e olham para você com expectativa.</nodes>
+      <outputs name="Mostre a eles um truque seu, ataque!" ownerID="2" targetID="6" fromX="594" fromY="-914" />Você é visitado por uma estranha coleção de convidados, uma bruxa, um lobisomem, um fantasma e um cadáver sem vida. Eles pronunciam as palavras 'doces ou travessuras' e olham para você com expectativa.</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="799" positionY="396" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-Q_TRICKORTREAT_5P_4M_4S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -70,8 +70,7 @@
       <outputs name="Tratar. [Dê 50 frutas]" ownerID="4" targetID="35" fromX="2463" fromY="-1345" />
       <outputs name="Ou você não tem doces de frutas para dar, ou não quer dar, então escolha o truque, parece divertido." ownerID="4" targetID="5" fromX="2463" fromY="-1425" />
       <outputs name="Mostre a eles um truque seu, ataque!" ownerID="4" targetID="6" fromX="2463" fromY="-1505" />
-      <outputs name="[Zerca] Este é o absurdo ocidental que você continua ouvindo, instrua esses tolos nos caminhos de Zaduszki e na reverência pelos antepassados que eles devem mostrar." ownerID="4" targetID="3" fromX="2463" fromY="-1585" />The witch croaks:
-'You give us things, or we do a trick...' They all give a worrying laugh.</nodes>
+      <outputs name="[Zerca] Este é o absurdo ocidental que você continua ouvindo, instrua esses tolos nos caminhos de Zaduszki e na reverência pelos antepassados que eles devem mostrar." ownerID="4" targetID="3" fromX="2463" fromY="-1585" />A bruxa resmunga: 'Você nos dá coisas, ou nós fazemos um truque...' Todos eles dão uma risada preocupante.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="5" positionX="-1833" positionY="-174" width="460" height="750">
       <outputs ownerID="5" targetID="37" group="G1" fromX="-1402" fromY="-532" />
       <outputs ownerID="5" targetID="39" group="G1" fromX="-1402" fromY="-612" />
@@ -2067,11 +2066,11 @@ Before leaving, the witch speaks: 'On all Hallow's Eve you've given us food; thu
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Pergunte sobre o convite." ownerID="2" targetID="3" fromX="740" fromY="-532" /></nodes>
+      <outputs name="Pergunte sobre o convite." ownerID="2" targetID="3" fromX="740" fromY="-532" />Você é recebido na Bear Village por um cara contagiantemente entusiasmado, que diz ser o prefeito: 'Bom dia, bom dia. Estou feliz em mostrar a você, mas é Tomislav que está realmente no comando de nossa pequena vila, então quando você tiver tempo, vá vê-lo. Você o reconhecerá com certeza, baixinho, barbudo e esperto.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="835" positionY="102" width="350" height="725">
-      <outputs name="Pergunte o que você pode fazer na aldeia?" ownerID="3" targetID="4" fromX="1160" fromY="-389" /></nodes>
+      <outputs name="Pergunte o que você pode fazer na aldeia?" ownerID="3" targetID="4" fromX="1160" fromY="-389" />Este ano, porém, temos convidados especiais e eles me convenceram a incluir a prática do All Hallow's Eve, uma tradição das Terras Ocidentais. Daí as abóboras, você vê. De qualquer forma, Bear Village nunca esteve melhor, então queremos que as pessoas venham e aproveitem as comemorações conosco.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1274" positionY="143" width="350" height="725">
-      <outputs name="Agradeça a ele e vá procurar alguns dos pontos que ele mencionou." ownerID="4" targetID="6" fromX="1599" fromY="-348" /></nodes>
+      <outputs name="Agradeça a ele e vá procurar alguns dos pontos que ele mencionou." ownerID="4" targetID="6" fromX="1599" fromY="-348" />'Bem, aqui, no centro, você pode visitar as barracas de comida e participar dos maravilhosos jogos e tradições do Halloween - uma nova maneira de celebrar o Dia de Finados, muito emocionante. Ou você pode visitar alguns de nossos pontos-chave, como a cabana da mulher sábia, onde você pode comprar ervas, e ouvir suas muitas histórias. A cabana do lenhador, onde você pode admirar a confecção das maravilhosas esculturas de madeira, que você vê aqui, ou os canis, onde você pode conhecer Gurtek, nosso mestre das feras.</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="-385" positionY="-1029" width="350" height="1046" image="Event322">
       <logic>
         <FilterBlock>
@@ -3224,7 +3223,7 @@ An older looking gentleman in foreign clothes claps his hands in moderate admira
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="3" positionX="820" positionY="523" width="350" height="725">
       <outputs name="Pergunte o que ele faz aqui?" ownerID="3" targetID="4" fromX="1145" fromY="31" />'Ah, bom, bom. De qualquer forma, como posso ajudar?</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1265" positionY="251" width="350" height="725">
-      <outputs name="Ouça o que aconteceu." ownerID="4" targetID="6" fromX="1590" fromY="-240" />'Eu cuido dos animais, treino esses cães aqui para o mestre Tomislav, cuido dos cavalos dele e tal. Se você está procurando por alguma dessas atraçoes estrangeiras de Hallow Something, eu não estou participando. Mas você pode colocar uma oferenda para os espíritos sob o velho carvalho... O grito de uma mulher interrompe: &quot;Oh, não, não, meu Vieslav está desaparecido, Gurtek, você deve me ajudar a encontrá-lo!&quot;</nodes>
+      <outputs name="Ouça o que aconteceu." ownerID="4" targetID="6" fromX="1590" fromY="-240" />'Eu cuido dos animais, treino esses cães aqui para o mestre Tomislav, cuido dos cavalos dele e tal. Se você está procurando por alguma dessas atraçoes estrangeiras de Hallow Something, eu não estou participando. Mas você pode colocar uma oferenda para os espíritos sob o velho carvalho... O grito de uma mulher interrompe: 'Oh, não, não, meu Vieslav está desaparecido, Gurtek, você deve me ajudar a encontrá-lo!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="2044" positionY="-2630" width="350" height="725">
       <outputs name="Diga a ele que seus cães ainda são os principais suspeitos, mas talvez valha a pena perguntar sobre o estrangeiro também. Deixe para falar sobre isso com Tomislav na aldeia." ownerID="5" targetID="19" fromX="2369" fromY="-3121" />— Escute, não estou escondendo nada aqui. Se você me perguntar, é aquele cara novo, ele sai de fininho à noite, vai para o bosque, faz negócios engraçados de ocidental lá - sacrifícios para alguns deles, eu acho. Ou então, os espíritos levaram nosso povo, e tudo o que podemos fazer é tentar apaziguá-los agora. Queime todas essas coisas de Halloween e volte para o bom e velho Zaduszki para homenagear o tempo de Finados.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1334" positionY="-672" width="350" height="725">

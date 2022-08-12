@@ -282,7 +282,7 @@
       <outputs name="Troca." ownerID="2" targetID="35" fromX="856" fromY="-1147" />
       <outputs name="Sair." ownerID="2" targetID="3" fromX="856" fromY="-1227" />
       <outputs name="Pergunte se você pode visitar a antiga forja que eles têm aqui." ownerID="2" targetID="76" fromX="856" fromY="-1308" />
-      <outputs name="Ataque!" ownerID="2" targetID="7" fromX="856" fromY="-1388" />&quot;Bem-vindos, o que vocês estão procurando, rapazes?&quot; Algumas atividades da vila só estarão disponíveis quando você for amigo de seu povo e algumas são restritas ao acaso, então voltar de vez em quando pode valer a pena. Esta aldeia é pequena, como tal, não oferecerá recrutamento e poderá ter outras opçoes limitadas.
+      <outputs name="Ataque!" ownerID="2" targetID="7" fromX="856" fromY="-1388" />'Bem-vindos, o que vocês estão procurando, rapazes?' Algumas atividades da vila só estarão disponíveis quando você for amigo de seu povo e algumas são restritas ao acaso, então voltar de vez em quando pode valer a pena. Esta aldeia é pequena, como tal, não oferecerá recrutamento e poderá ter outras opçoes limitadas.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1516" positionY="-1065" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="4" positionX="3077" positionY="-2046" width="350" height="530" linkedEventUniqueID="0" />
@@ -3778,7 +3778,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="3031.6582" positionY="926.0601" width="350" height="761">
       <outputs name="Deixe-os ser." ownerID="23" targetID="61" fromX="3357" fromY="478" />
-      <outputs name="Ataque!" ownerID="23" targetID="62" fromX="3357" fromY="398" />&quot;Vocês, gente pequena, vão, digam aos pequeninos de pedra que vamos quando queremos ir.&quot;</nodes>
+      <outputs name="Ataque!" ownerID="23" targetID="62" fromX="3357" fromY="398" />'Vocês, gente pequena, vão, digam aos pequeninos de pedra que vamos quando queremos ir.'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="24" positionX="4049" positionY="687" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="24" targetID="25" fromX="4497" fromY="254" />
     </nodes>

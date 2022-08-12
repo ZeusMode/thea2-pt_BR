@@ -2060,7 +2060,7 @@
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="5042" fromY="1160" />'E assim, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5184" positionY="1832" width="350" height="805">
       <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="13" targetID="15" fromX="5509" fromY="1340" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="36" fromX="5509" fromY="1260" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="36" fromX="5509" fromY="1260" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4133" positionY="845" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -5253,7 +5253,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="5034" fromY="1138" />'E assim, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5148" positionY="1817" width="350" height="805">
       <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="13" targetID="15" fromX="5473" fromY="1325" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="40" fromX="5473" fromY="1245" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="40" fromX="5473" fromY="1245" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4128" positionY="832" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -5607,7 +5607,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="5034" fromY="1138" />'E assim, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5163" positionY="1791" width="350" height="805">
       <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="13" targetID="15" fromX="5488" fromY="1299" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4090" positionY="799" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -5865,7 +5865,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Aproxime-se e tente falar com ela." ownerID="2" targetID="3" fromX="765" fromY="-518" />Ao vagar pelas terras, você encontra um pequeno bosque e sente a atração de sua conexão divina. Você vê um bando de Dievanna feral vagando livremente. Um deles se destaca - mais alto, mais rápido, radiante com a presença divina. Quando ela se vira para você, você sente que é de alguma forma sua deusa.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="910" positionY="47" width="350" height="725" image="Event292">
-      <outputs name="Tell them you are here to talk to Deuses" ownerID="3" targetID="7" fromX="1235" fromY="-444" />Conforme você se aproxima, os outros selvagens avançam e a deusa se afasta. Um dos selvagens fala, com a voz torta, enferrujada, como se a fala humana se tornasse estranha a ele: &quot;Você sai, nós libertamos, nós cheiramos Ela em você, então você não tem comida, mas vá.&quot;</nodes>
+      <outputs name="Tell them you are here to talk to Deuses" ownerID="3" targetID="7" fromX="1235" fromY="-444" />Conforme você se aproxima, os outros selvagens avançam e a deusa se afasta. Um dos selvagens fala, com a voz torta, enferrujada, como se a fala humana se tornasse estranha a ele: 'Você sai, nós libertamos, nós cheiramos Ela em você, então você não tem comida, mas vá.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1381" positionY="242" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -5947,7 +5947,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="16" group="G1" fromX="4994" fromY="1228" />
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="4994" fromY="1148" />'E assim, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5163" positionY="1791" width="350" height="725">
-      <outputs name="Eles vão voltar?" ownerID="13" targetID="14" fromX="5488" fromY="1299" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Eles vão voltar?" ownerID="13" targetID="14" fromX="5488" fromY="1299" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="5594" positionY="1787" width="350" height="805">
       <outputs name="Então, por que era necessário esperar por um escolhido?" ownerID="14" targetID="15" fromX="5919" fromY="1295" />
       <outputs name="Triglav é realmente os três deuses?" ownerID="14" targetID="45" fromX="5919" fromY="1215" />'Eu não tenho essas respostas, mas de certa forma, talvez eles nunca tenham partido, simplesmente se tornando mais - como muitas vezes acontece com os maiores de nós.'</nodes>
@@ -6338,7 +6338,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="5035" fromY="1140" />'E assim, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5163" positionY="1791" width="350" height="805">
       <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="13" targetID="15" fromX="5488" fromY="1299" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="41" fromX="5488" fromY="1219" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="41" fromX="5488" fromY="1219" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4095" positionY="884" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -6707,7 +6707,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="5017" fromY="1154" />'Os três, cada um deles deu sua vida divina para alcançar seus objetivos, então agora todos nós compartilhamos de seu poder. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5163" positionY="1791" width="350" height="805">
       <outputs name="Por que esse conhecimento dos três deuses estava tão oculto, então?" ownerID="13" targetID="15" fromX="5488" fromY="1299" />
-      <outputs name="Então eles são os três deuses?" ownerID="13" targetID="41" fromX="5488" fromY="1219" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Então eles são os três deuses?" ownerID="13" targetID="41" fromX="5488" fromY="1219" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4159" positionY="889" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -7081,7 +7081,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="5023" fromY="1129" />'E assim, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5163" positionY="1791" width="350" height="805">
       <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="13" targetID="15" fromX="5488" fromY="1299" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4090" positionY="799" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -7440,7 +7440,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="4943" fromY="1156" />'E assim, com todos os nossos poderes dados livremente, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5163" positionY="1791" width="350" height="805">
       <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="13" targetID="15" fromX="5488" fromY="1299" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4090" positionY="799" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -7775,7 +7775,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="4979" fromY="1133" />'Pelo que eu sinto, os deuses mais antigos, os três - eles criaram os domínios. Deram-me três para carregar, é claro... mas talvez eu mereça isso. Eles deram seu ser divino para isso. Interessante. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5163" positionY="1791" width="350" height="805">
       <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="13" targetID="15" fromX="5488" fromY="1299" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4090" positionY="799" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -8089,7 +8089,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="5042" fromY="1160" />'E assim, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5184" positionY="1832" width="350" height="805">
       <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="13" targetID="15" fromX="5509" fromY="1340" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="36" fromX="5509" fromY="1260" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="36" fromX="5509" fromY="1260" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4133" positionY="845" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -8356,7 +8356,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="5034" fromY="1138" />'E assim, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5148" positionY="1817" width="350" height="805">
       <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="13" targetID="15" fromX="5473" fromY="1325" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="40" fromX="5473" fromY="1245" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="40" fromX="5473" fromY="1245" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4112" positionY="883" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -8673,7 +8673,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="5034" fromY="1138" />'E assim, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5163" positionY="1791" width="350" height="805">
       <outputs name="Então eles precisavam do poder de cada um dos outros deuses para criar domínios, mas por que a necessidade de levar memórias?" ownerID="13" targetID="15" fromX="5488" fromY="1299" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4090" positionY="799" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -8913,7 +8913,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Aproxime-se e tente falar com ela." ownerID="2" targetID="3" fromX="765" fromY="-518" />Ao vagar pelas terras, você encontra um pequeno bosque e sente a atração de sua conexão divina. Você vê um bando de Dievanna feral vagando livremente. Um deles se destaca - mais alto, mais rápido, radiante com a presença divina. Quando ela se vira para você, você sente que é de alguma forma sua deusa.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="910" positionY="47" width="350" height="725" image="Event292">
-      <outputs name="Tell them you are here to talk to Deuses" ownerID="3" targetID="7" fromX="1235" fromY="-444" />Conforme você se aproxima, os outros selvagens avançam e a deusa se afasta. Um dos selvagens fala, com a voz torta, enferrujada, como se a fala humana se tornasse estranha a ele: &quot;Você sai, nós libertamos, nós cheiramos Ela em você, então você não tem comida, mas vá.&quot;</nodes>
+      <outputs name="Tell them you are here to talk to Deuses" ownerID="3" targetID="7" fromX="1235" fromY="-444" />Conforme você se aproxima, os outros selvagens avançam e a deusa se afasta. Um dos selvagens fala, com a voz torta, enferrujada, como se a fala humana se tornasse estranha a ele: 'Você sai, nós libertamos, nós cheiramos Ela em você, então você não tem comida, mas vá.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1381" positionY="242" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -8995,7 +8995,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="16" group="G1" fromX="4994" fromY="1228" />
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="4994" fromY="1148" />'E assim, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5163" positionY="1791" width="350" height="725">
-      <outputs name="Eles vão voltar?" ownerID="13" targetID="14" fromX="5488" fromY="1299" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Eles vão voltar?" ownerID="13" targetID="14" fromX="5488" fromY="1299" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="5594" positionY="1787" width="350" height="805">
       <outputs name="Então, por que era necessário esperar por um escolhido?" ownerID="14" targetID="15" fromX="5919" fromY="1295" />
       <outputs name="Triglav é realmente os três deuses?" ownerID="14" targetID="45" fromX="5919" fromY="1215" />'Eu não tenho essas respostas, mas de certa forma, talvez eles nunca tenham partido, simplesmente se tornando mais - como muitas vezes acontece com os maiores de nós.'</nodes>
@@ -9356,7 +9356,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="5023" fromY="1129" />'E assim, os três foram livres para forjar seus domínios e devolvê-los a nós, para que possamos enfrentar esta nova ameaça e outras que certamente virão. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5163" positionY="1791" width="350" height="805">
       <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="13" targetID="15" fromX="5488" fromY="1299" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4090" positionY="799" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -9695,7 +9695,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Diga que você não busca respostas; o mundo aguarda seu retorno. Curve-se diante de seu deus e peça uma bênção final." ownerID="12" targetID="21" group="G1" fromX="4979" fromY="1133" />'Pelo que eu sinto, os deuses mais antigos, os três - eles criaram os domínios. Deram-me três para carregar, é claro... mas talvez eu mereça isso. Eles deram seu ser divino para isso. Interessante. É claro que sua verdadeira essência não foi perdida. É o que manteve o mundo intacto, apesar dos tremores contínuos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="5163" positionY="1791" width="350" height="805">
       <outputs name="Mas por que a perda de memória, os testes, os escolhidos? Eles não acordariam sem você?" ownerID="13" targetID="15" fromX="5488" fromY="1299" />
-      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />&quot;Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.&quot;</nodes>
+      <outputs name="Triglav é realmente os três deuses?" ownerID="13" targetID="45" fromX="5488" fromY="1219" />'Não, uma parte de cada um sobreviveu e foi reforjada como o deus que você conhece como Triglav - os três como um, forjados no fogo para nos ajudar nesta hora de necessidade.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="4090" positionY="799" width="350" height="805">
       <logic>
         <ModifierBlock>

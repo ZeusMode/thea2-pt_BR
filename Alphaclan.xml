@@ -1524,7 +1524,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Ataque!" ownerID="53" targetID="7" fromX="-1200" fromY="19" />
-      <outputs name="Sair." ownerID="53" targetID="3" fromX="-1200" fromY="-60" />'You are weaklings, not worth our time. Go!'</nodes>
+      <outputs name="Sair." ownerID="53" targetID="3" fromX="-1200" fromY="-60" />'Vocês são fracos, não valem o nosso tempo. Vai!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="54" positionX="-2266" positionY="-750" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -3129,7 +3129,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="17" targetID="28" fromX="1924" fromY="-1352" />'Sim Sim! Você está certo, somos escória inútil, devemos ir e lutar! Por honra! O clã alfa está impressionado com sua resolução rápida. but this time, they seem very happy with your result and they reward you well.</nodes>
+      <outputs name="Sair." ownerID="17" targetID="28" fromX="1924" fromY="-1352" />'Sim Sim! Você está certo, somos escória inútil, devemos ir e lutar! Por honra! O clã alfa não é conhecido por favorecer a resolução pacífica, mas desta vez, eles parecem muito felizes com o seu resultado e o recompensam bem.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="-384" positionY="-1868" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -3793,7 +3793,7 @@
       <outputs name="Evoque seu domínio divino e exija que o troll lhe dê a arma!" ownerID="47" targetID="67" group="G2" fromX="2298" fromY="2198" />
       <outputs name="Aceite o desafio." ownerID="47" targetID="58" fromX="2298" fromY="2118" />
       <outputs name="Recusar e sair." ownerID="47" targetID="37" fromX="2298" fromY="2038" />
-      <outputs name="Diga que você está aqui apenas para encontrar os orcs desaparecidos e não deseja entrar em nenhum desafio." ownerID="47" targetID="8" fromX="2298" fromY="1958" />You speak of light and Svarog and a voice finally answers:  'You smell of the forge fires. You solid. Orcs are fire too, they fail challenge, they honoured on my neck now. You do challenge, you get reward. And because you light, I no trap you. Choose now.'</nodes>
+      <outputs name="Diga que você está aqui apenas para encontrar os orcs desaparecidos e não deseja entrar em nenhum desafio." ownerID="47" targetID="8" fromX="2298" fromY="1958" />Você fala de luz e Svarog e uma voz finalmente responde: 'Você cheira a forja. Você sólido. Orcs são fogo também, eles falham no desafio, eles honram no meu pescoço agora. Você desafia, recebe recompensa. E porque você acende, eu não prendo você. Escolha agora.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="49" positionX="3077" positionY="-938" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="49" targetID="16" fromX="3506" fromY="-1326" />
     </nodes>
@@ -3827,7 +3827,7 @@
       <outputs name="Diga que você está aqui apenas para encontrar os orcs desaparecidos e não deseja entrar em nenhum desafio." ownerID="56" targetID="8" fromX="1143" fromY="1732" />
       <outputs name="[Luz] Essas criaturas emanam a luz da forja de Svarog. Pergunte a eles onde estão os orcs." ownerID="56" targetID="47" fromX="1143" fromY="1652" />
       <outputs name="Ataque!" ownerID="56" targetID="55" fromX="1143" fromY="1572" />
-      <outputs name="[Sabedoria] Volte e conte aos orcs sobre isso. Diga que sua honra o proibiu de aceitar o desafio, pois foi feito em seu território, e seus próprios homens claramente aceitaram." ownerID="56" targetID="66" fromX="1143" fromY="1492" />'You come, you see. Challenge?'</nodes>
+      <outputs name="[Sabedoria] Volte e conte aos orcs sobre isso. Diga que sua honra o proibiu de aceitar o desafio, pois foi feito em seu território, e seus próprios homens claramente aceitaram." ownerID="56" targetID="66" fromX="1143" fromY="1492" />'Você vem, você vê. Desafio?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="57" positionX="207" positionY="2054" width="350" height="805">
       <outputs name="Lutar!" ownerID="57" targetID="58" fromX="532" fromY="1562" />
       <outputs name="Tente escapar!" ownerID="57" targetID="59" fromX="532" fromY="1482" />Você entra no poço de lava e, ao seguir o caminho para o centro, ele desaparece atrás de você, deixando-o cercado pelo fogo. Muitos olhos vermelhos emergem do fogo - roqueiros de lava e então sua mãe aparece, seu pescoço de fogo coberto com presas de orc.</nodes>
@@ -3846,7 +3846,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="61" positionX="-960" positionY="2041" width="350" height="805">
       <outputs name="Lutar!" ownerID="61" targetID="58" fromX="-634" fromY="1549" />
-      <outputs name="Tente escapar!" ownerID="61" targetID="59" fromX="-634" fromY="1469" />You turn back, but you're burned and the troll still stands before you!</nodes>
+      <outputs name="Tente escapar!" ownerID="61" targetID="59" fromX="-634" fromY="1469" />Você volta, mas está queimado e o troll ainda está diante de você!</nodes>
     <nodes xsi:type="NodeDealDamage" ID="62" positionX="-1467" positionY="1115" width="460" height="459" challengeTypeDamage="TypePhysical" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="62" targetID="42" fromX="-1037" fromY="726" />
     </nodes>
@@ -4809,7 +4809,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um fantasma preso aqui também, e ele quer se prender a você." ownerID="86" targetID="74" group="G1" fromX="453" fromY="-2525" />
-      <outputs name="Sair." ownerID="86" targetID="77" group="G1" fromX="453" fromY="-2605" />The orcs thank you for freeing their fallen, and leave a reward.</nodes>
+      <outputs name="Sair." ownerID="86" targetID="77" group="G1" fromX="453" fromY="-2605" />Os orcs agradecem por libertar seus caídos e deixam uma recompensa.</nodes>
     <nodes xsi:type="NodeTrade" ID="87" positionX="935" positionY="-1857" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="skeletons" startingBalance="-1">
       <outputs name="Confirm" ownerID="87" targetID="90" fromX="1365" fromY="-2185" />
       <outputs name="Cancel" ownerID="87" targetID="88" fromX="1365" fromY="-2265" />
@@ -6108,7 +6108,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="33" targetID="47" fromX="2743" fromY="271" />Seu esquema falha. Você é assaltado pelos lobisomens e os orcs precisam salvar sua pele. Eles riem do seu fracasso.and laugh in your face.
+      <outputs name="Sair." ownerID="33" targetID="47" fromX="2743" fromY="271" />Seu esquema falha, e você é assaltado pelos bis. Os orcs zombam do seu fracasso e riem na sua cara.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="1525" positionY="2455" width="350" height="681">
       <logic>
@@ -6440,7 +6440,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="45" fromX="3957" fromY="-43" />Você mata os anoes. Os orcs estão satisfeitos com sua ajuda e oferecem uma pequena recompensa. Later, you notice that the area has become infested with wraiths, but that's the orcs' problem now.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="43" targetID="45" fromX="3957" fromY="-43" />Você mata os guerreiros e o resto foge. Os orcs estão satisfeitos com sua ajuda e oferecem uma pequena recompensa. Mais tarde, você percebe que a área ficou infestada de espectros, mas isso é problema dos orcs agora.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="45" positionX="3744" positionY="2157" width="480" height="503" radius="7" groupID="GROUP-WRAITH_4P_3M_4S" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="45" targetID="34" fromX="4192" fromY="1724" />
     </nodes>
@@ -7562,7 +7562,7 @@
       <outputs name="Continue ouvindo. Melhor não enfurecer ainda mais um orc já irritado." ownerID="33" targetID="43" fromX="-62" fromY="-2330" />Antes que você possa pegar seu tesouro, você ouve a voz rugindo de um guerreiro orc gritando para você: 'Reivindicamos esta ruína como nosso território, conforme marcado por nossos parentes caídos!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="-785.430542" positionY="-1864.16443" width="350" height="681">
-      <outputs name="Bom. Take your loot and leave." ownerID="35" targetID="66" fromX="-459" fromY="-2311" />Você ajuda a desenterrar os corpos e fazer piras funerárias apropriadas de acordo com os costumes dos orcs.</nodes>
+      <outputs name="Bom. Pegue seu saque e vá embora." ownerID="35" targetID="66" fromX="-459" fromY="-2311" />Você ajuda a desenterrar os corpos e fazer piras funerárias apropriadas de acordo com os costumes dos orcs.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="-1180.947" positionY="-1462.71777" width="350" height="681">
       <logic>
         <FilterBlock>
@@ -7576,7 +7576,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bom. Take your loot and leave." ownerID="36" targetID="66" fromX="-855" fromY="-1909" />Você ajuda a desenterrar os corpos e fazer piras funerárias apropriadas de acordo com os costumes dos orcs. Os orcs apreciam sua ajuda e adicionam alguns metais como recompensa antes de se despedirem.</nodes>
+      <outputs name="Bom. Pegue seu saque e vá embora." ownerID="36" targetID="66" fromX="-855" fromY="-1909" />Você ajuda a desenterrar os corpos e fazer piras funerárias apropriadas de acordo com os costumes dos orcs. Os orcs apreciam sua ajuda e adicionam alguns metais como recompensa antes de se despedirem.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="37" positionX="-2062.46069" positionY="-2312.16724" width="350" height="408" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -7679,7 +7679,7 @@
       <outputs name="Sair." ownerID="45" targetID="63" fromX="336" fromY="-4070" />— Então você se rende... fraco, covarde, e afirma seguir o caminho da turbulência, não é? Patético.' A guerreira cospe em seu rosto e seus homens o expulsam das ruínas, tirando seu saque, mas, surpreendentemente, não seu equipamento.</nodes>
     <nodes xsi:type="NodeAdventure" ID="46" positionX="508.832123" positionY="-2875.072" width="350" height="761">
       <outputs name="Mate todos eles e pegue suas coisas." ownerID="46" targetID="47" fromX="834" fromY="-3322" />
-      <outputs name="Take only the loot you found in the ruins, and leave the orcs be.&#xD;&#xA;" ownerID="46" targetID="48" fromX="834" fromY="-3402" />'Ah, verdadeiros guerreiros, que bom! Faça conosco como quiser. Nós cedemos às suas espadas!'</nodes>
+      <outputs name="Pegue apenas o saque que você encontrou nas ruínas e deixe os orcs em paz.&#xD;&#xA;" ownerID="46" targetID="48" fromX="834" fromY="-3402" />'Ah, verdadeiros guerreiros, que bom! Faça conosco como quiser. Nós cedemos às suas espadas!'</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="47" positionX="925.685" positionY="-3130.41724" width="460" height="429" sourceGroup="GROUP-ORCS_4P_3M_1S" cargoPercentage="25" targetGroup="ppl">
       <logic>
         <ModifierBlock>
@@ -8413,7 +8413,7 @@
       <outputs ownerID="40" targetID="56" fromX="4021" fromY="-1732" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="3182.449" positionY="-1282.84326" width="350" height="725">
-      <outputs name="Sair." ownerID="41" targetID="40" fromX="3508" fromY="-1773" />'Render!' The orcs spit, turn away from you, and wait for you to leave in shame.</nodes>
+      <outputs name="Sair." ownerID="41" targetID="40" fromX="3508" fromY="-1773" />'Renda-se!' Os orcs cospem, se afastam de você e esperam que você vá embora envergonhados.</nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="1930.85876" positionY="-1928.72852" width="350" height="725">
       <outputs name="Agradeça a eles e vá embora." ownerID="42" targetID="57" fromX="2256" fromY="-2419" />'Bem lutado! Mas esses seus outros deuses claramente enfraquecem seu corpo e mente, amigo. Apenas Zorya pode torná-lo verdadeiro! Nós vencemos, então é nosso território, mas você pode procurar na borda externa. Mereceste.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="43" positionX="3817.56152" positionY="-141.722351" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">
@@ -8446,7 +8446,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="Sair." ownerID="45" targetID="46" fromX="2825" fromY="-2359" />
-      <outputs name="Bastardos pomposos. Ataque-os em vez disso!" ownerID="45" targetID="47" fromX="2825" fromY="-2439" />'Renderizar! Seu pedaço de merda, como se atreve a desonrar tanto o sangue orc!' The orc spits in your face with disgust, then growls at you, her fists clenched.</nodes>
+      <outputs name="Bastardos pomposos. Ataque-os em vez disso!" ownerID="45" targetID="47" fromX="2825" fromY="-2439" />'Renda-se! Seu pedaço de merda, como se atreve a desonrar tanto o sangue orc!' A orc cospe em seu rosto com nojo, depois rosna para você, com os punhos cerrados.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="46" positionX="2915.4292" positionY="-2094.54932" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="30" maxDamage="60" useCountInPercent="true" targetGroup="1orcmale">
       <outputs ownerID="46" targetID="40" fromX="3344" fromY="-2482" />
     </nodes>
@@ -8977,7 +8977,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="One of the younger bears survives and now follows your lead. Sair." ownerID="15" targetID="69" fromX="2433" fromY="1407" />
+      <outputs name="Um dos ursos mais jovens sobrevive e agora segue sua liderança. Sair." ownerID="15" targetID="69" fromX="2433" fromY="1407" />
       <outputs name="Sair." ownerID="15" targetID="70" fromX="2433" fromY="1327" />Você mata o urso e sua matilha e fica livre para saquear a caverna.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="3208.38257" positionY="604.1489" width="350" height="885">
       <logic>
@@ -9203,7 +9203,7 @@
     <nodes xsi:type="NodeAdventure" ID="45" positionX="2898.30469" positionY="-941.975159" width="350" height="885">
       <outputs name="Escolha liberar o espírito humano." ownerID="45" targetID="32" fromX="3224" fromY="-1433" />
       <outputs name="Escolha o caminho do urso." ownerID="45" targetID="47" group="G1" fromX="3224" fromY="-1513" />
-      <outputs name="Escolha o caminho do urso." ownerID="45" targetID="46" group="G1" fromX="3224" fromY="-1593" />The curse is ancient, too strong to be truly undone.  But you can destroy it, which will free the spirit of the human trapped inside. Or you can balance the union of bear and human. The form will remain animal, but the spirit will be human and in control. However, this path has a risk of failing and turning the trapped person into a pure beast.
+      <outputs name="Escolha o caminho do urso." ownerID="45" targetID="46" group="G1" fromX="3224" fromY="-1593" />A maldição é antiga, forte demais para ser verdadeiramente desfeita. Mas você pode destruí-lo, o que libertará o espírito do humano preso dentro dele. Ou você pode equilibrar a união de urso e humano. A forma permanecerá animal, mas o espírito será humano e no controle. No entanto, esse caminho corre o risco de falhar e transformar a pessoa presa em uma fera pura.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="46" positionX="3406.89233" positionY="-1572.63733" width="350" height="805">
       <outputs name="O urso virá ao seu lado quando você precisar." ownerID="46" targetID="65" group="G1" fromX="3732" fromY="-2063" />
@@ -11138,7 +11138,7 @@
       <outputs name="Pague o preço de honra por um rastreador de sangue." ownerID="4" targetID="12" fromX="1242" fromY="-458" />
       <outputs name="Pague o preço de honra por uma criança orc que falhou em seus testes de batalha." ownerID="4" targetID="19" fromX="1242" fromY="-538" />
       <outputs name="As crianças também podem perder sua honra aqui?" ownerID="4" targetID="11" fromX="1242" fromY="-618" />
-      <outputs name="There is no one who wants to join right now, or it is not the right time for you. Sair." ownerID="4" targetID="23" fromX="1242" fromY="-699" />'Bom. Eles carregam o maior preço de clã, pois são fortes, mas podem morrer de seus ferimentos. Vá ver quem quer se juntar ao seu clã.' [Você só pode recrutar nesta facção uma vez, com uma pequena chance de segundo quando sua população estiver muito baixa]</nodes>
+      <outputs name="Não há ninguém que queira se juntar agora, ou não é o momento certo para você. Sair." ownerID="4" targetID="23" fromX="1242" fromY="-699" />'Bom. Eles carregam o maior preço de clã, pois são fortes, mas podem morrer de seus ferimentos. Vá ver quem quer se juntar ao seu clã.' [Você só pode recrutar nesta facção uma vez, com uma pequena chance de segundo quando sua população estiver muito baixa]</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1277" positionY="-1920" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -11147,7 +11147,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Aceite a honra e dê as boas-vindas ao seu novo camarada." ownerID="5" targetID="16" fromX="1602" fromY="-2411" />'A good fight, you are worthy of being the alpha to our kin. May the fire in your heart never die!'</nodes>
+      <outputs name="Aceite a honra e dê as boas-vindas ao seu novo camarada." ownerID="5" targetID="16" fromX="1602" fromY="-2411" />'Uma boa luta, você é digno de ser o alfa para nossos parentes. Que o fogo em seu coração nunca morra!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="817" positionY="-1160" width="350" height="805">
       <outputs name="Agradeça a eles pela explicação. Digamos que você considerará esse preço de honra para um lutador então." ownerID="6" targetID="4" fromX="1142" fromY="-1651" />
       <outputs name="Diga que você vai lutar em vez de pagar, é a maneira honrosa." ownerID="6" targetID="10" fromX="1142" fromY="-1731" />'Como você ousa! Você é amigo, então eu não vou te matar. São mulheres e homens livres. Eles podem ir com você a qualquer momento sem pagar o preço do clã. Eles perderão sua honra e ficarão sem clã, é claro. É por isso que eles pedem que você pague. Dessa forma, você se torna o alfa deles e podemos respeitar isso. Você pode, claro, lutar pela honra de se tornar seu alfa também?'</nodes>

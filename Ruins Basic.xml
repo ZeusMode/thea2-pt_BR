@@ -3083,7 +3083,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Termine a exploração e vá embora." ownerID="14" targetID="38" fromX="2661" fromY="-37" />&quot;Você cheira a madeira, você pode passar.&quot;</nodes>
+      <outputs name="Termine a exploração e vá embora." ownerID="14" targetID="38" fromX="2661" fromY="-37" />'Você cheira a madeira, você pode passar.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="2036.51025" positionY="-560.709656" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -4879,7 +4879,7 @@
       <outputs ownerID="40" targetID="56" fromX="4021" fromY="-1732" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="3182.449" positionY="-1282.84326" width="350" height="725">
-      <outputs name="Sair." ownerID="41" targetID="40" fromX="3508" fromY="-1773" />&quot;Render-se!&quot; Os orcs cospem, se afastam de você e esperam que você vá embora envergonhados.</nodes>
+      <outputs name="Sair." ownerID="41" targetID="40" fromX="3508" fromY="-1773" />'Render-se!' Os orcs cospem, se afastam de você e esperam que você vá embora envergonhados.</nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="1930.85876" positionY="-1928.72852" width="350" height="725">
       <outputs name="Agradeça a eles e vá embora." ownerID="42" targetID="57" fromX="2256" fromY="-2419" />'Bem lutado! Mas esses seus outros deuses claramente enfraquecem seu corpo e mente, amigo. Apenas Zorya pode torná-lo verdadeiro! Nós vencemos, então é nosso território, mas você pode procurar na borda externa. Mereceste.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="43" positionX="3817.56152" positionY="-141.722351" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0">

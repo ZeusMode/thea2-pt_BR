@@ -8763,7 +8763,7 @@
       <outputs name="Sim, você já ouviu falar de seus parentes amaldiçoados pela escuridão - parentes das sombras. Deseje-lhes boa sorte na limpeza de sua mácula e pergunte se você pode obter uma bênção da árvore da memória." ownerID="6" targetID="13" fromX="2163" fromY="1813" />
       <outputs name="Peça desculpas por sua ignorância, mas pergunte o que é a árvore da memória." ownerID="6" targetID="16" fromX="2163" fromY="1732" />'Eu vim para o sono eterno, mas minha alma estava manchada pela escuridão. Como tal, não poderia se juntar à luz. Em vez disso, estou preso aqui, guardando a árvore da memória até ser limpo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2313.79053" positionY="1438.41931" width="350" height="725">
-      <outputs name="confirme that you follow the path of the cosmic pantheon, for they are guardians of balance. Affirm that this is still the goal of all elves." ownerID="7" targetID="8" fromX="2639" fromY="947" />— Agradeço, irmãos, mas não. A limpeza deve prosseguir sem ajuda para que seja verdadeira. Mas sinto que você segue o caminho dos deuses mortais em vez do nosso. Que estranho.' 
+      <outputs name="confirme que você segue o caminho do panteão cósmico, pois eles são guardiões do equilíbrio. Afirme que este ainda é o objetivo de todos os elfos." ownerID="7" targetID="8" fromX="2639" fromY="947" />— Agradeço, irmãos, mas não. A limpeza deve prosseguir sem ajuda para que seja verdadeira. Mas sinto que você segue o caminho dos deuses mortais em vez do nosso. Que estranho.' 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2747.57959" positionY="1937.63708" width="350" height="761.649963">
       <outputs name="Aceite o cristal da memória e diga que não enfrentará o desafio neste dia. Agradeça a ele e vá embora." ownerID="8" targetID="48" fromX="3073.32959" fromY="1490.56738" />
@@ -9892,7 +9892,7 @@
       <outputs name="[Orc] Diga à imundície élfica que é melhor que ela conte o que ela fez, ou você vai mijar escuridão por todo o rosto brilhante dela!" ownerID="5" targetID="9" fromX="1712" fromY="-511" />
       <outputs name="Qual é o objetivo dela? Ela quer que os portadores da luz nos levem a todos e que a Destruição destrua a terra?" ownerID="5" targetID="8" fromX="1712" fromY="-591" />
       <outputs name="Como ela conseguiu isso - a Destruição, a destruição do coração da terra?" ownerID="5" targetID="21" fromX="1712" fromY="-671" />
-      <outputs name="Peça o relato mais breve possível do que está acontecendo. Você não tem tempo para conversar." ownerID="5" targetID="52" fromX="1712" fromY="-752" />&quot;Se você acha que fazer alguém admitir seus desígnios é tão fácil assim, você é um pouco mais ingênuo do que eu esperava de um defensor da árvore cósmica.&quot;</nodes>
+      <outputs name="Peça o relato mais breve possível do que está acontecendo. Você não tem tempo para conversar." ownerID="5" targetID="52" fromX="1712" fromY="-752" />'Se você acha que fazer alguém admitir seus desígnios é tão fácil assim, você é um pouco mais ingênuo do que eu esperava de um defensor da árvore cósmica.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1961" positionY="308" width="350" height="885">
       <logic>
         <FilterBlock>

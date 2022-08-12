@@ -1718,7 +1718,7 @@
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="38" positionX="1475" positionY="-2062" width="350" height="805">
       <outputs name="Pergunte a eles o que são?" ownerID="38" targetID="19" fromX="1800" fromY="-2553" />
-      <outputs name="Nade pra longe." ownerID="38" targetID="21" fromX="1800" fromY="-2633" />&quot;Bom, nós aceitamos.&quot;
+      <outputs name="Nade pra longe." ownerID="38" targetID="21" fromX="1800" fromY="-2633" />'Bom, nós aceitamos.'
 </nodes>
     <nodes xsi:type="NodeTrade" ID="39" positionX="915" positionY="-2116" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-30">
       <outputs name="Confirm" ownerID="39" targetID="38" fromX="1345" fromY="-2444" />

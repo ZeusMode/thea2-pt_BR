@@ -7499,7 +7499,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
       <outputs name="Continue ouvindo. Best not to further enrage an already angry orc." ownerID="33" targetID="43" fromX="-35" fromY="-2208" />Antes que você possa pegar seu tesouro, você ouve a voz rugindo de um guerreiro orc gritando para você: 'Reivindicamos esta ruína como nosso território, como marcado por nossos parentes caídos!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="-785.430542" positionY="-1864.16443" width="350" height="681">
-      <outputs name="Bom. Take your loot and leave." ownerID="35" targetID="66" fromX="-459" fromY="-2311" />Você ajuda a desenterrar os corpos e fazer piras funerárias apropriadas de acordo com os costumes dos orcs.</nodes>
+      <outputs name="Bom. Pegue seu saque e vá embora." ownerID="35" targetID="66" fromX="-459" fromY="-2311" />Você ajuda a desenterrar os corpos e fazer piras funerárias apropriadas de acordo com os costumes dos orcs.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="-1180.947" positionY="-1462.71777" width="350" height="681">
       <logic>
         <FilterBlock>
@@ -7513,7 +7513,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bom. Take your loot and leave." ownerID="36" targetID="66" fromX="-855" fromY="-1909" />Você ajuda a desenterrar os corpos e fazer piras funerárias apropriadas de acordo com os costumes dos orcs. Os orcs apreciam sua ajuda e adicionam alguns metais como recompensa antes de se despedirem.</nodes>
+      <outputs name="Bom. Pegue seu saque e vá embora." ownerID="36" targetID="66" fromX="-855" fromY="-1909" />Você ajuda a desenterrar os corpos e fazer piras funerárias apropriadas de acordo com os costumes dos orcs. Os orcs apreciam sua ajuda e adicionam alguns metais como recompensa antes de se despedirem.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="37" positionX="-2062.46069" positionY="-2312.16724" width="350" height="360.8" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>

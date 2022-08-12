@@ -3366,7 +3366,7 @@ The female growls at him and takes a few steps towards you.</nodes>
       <outputs name="Pergunte sobre os orcs." ownerID="3" targetID="28" fromX="-1422" fromY="-1132" />'Ah sim, eles têm suas próprias regras também. Muito provavelmente você precisará ser amigo de sua espécie primeiro, ou então ter um adulto que possa emprestar sua própria experiência - você sabe, um gobbo ensinando a outro gobbo os caminhos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="-83" positionY="1768" width="350" height="805" image="Event139">
       <outputs name="Agradeça a ela e vá embora." ownerID="4" targetID="5" fromX="242" fromY="1276" />
-      <outputs name="Pergunte sobre outra profissão." ownerID="4" targetID="2" fromX="242" fromY="1196" />&quot;Para se tornar um guerreiro, uma criança precisa ser forte (3). Se a criança for muito forte (4), terá mais chances de sucesso.&quot;</nodes>
+      <outputs name="Pergunte sobre outra profissão." ownerID="4" targetID="2" fromX="242" fromY="1196" />'Para se tornar um guerreiro, uma criança precisa ser forte (3). Se a criança for muito forte (4), terá mais chances de sucesso.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="1318" positionY="-25" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2229" positionY="-1430" width="350" height="805">
       <outputs name="Agradeça a ela e vá embora." ownerID="6" targetID="5" fromX="2554" fromY="-1921" />
@@ -3392,7 +3392,7 @@ The female growls at him and takes a few steps towards you.</nodes>
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="383" positionY="1781" width="350" height="805" image="Event136">
       <outputs name="Agradeça a ela e vá embora." ownerID="12" targetID="5" fromX="708" fromY="1289" />
-      <outputs name="Pergunte sobre outra profissão." ownerID="12" targetID="2" fromX="708" fromY="1209" />&quot;Para se tornar um caçador, uma criança precisa ser perceptiva (3). Se a criança for muito perceptiva (4), ela também terá mais chances de ser bem-sucedida.&quot;</nodes>
+      <outputs name="Pergunte sobre outra profissão." ownerID="12" targetID="2" fromX="708" fromY="1209" />'Para se tornar um caçador, uma criança precisa ser perceptiva (3). Se a criança for muito perceptiva (4), ela também terá mais chances de ser bem-sucedida.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="920" positionY="1677" width="350" height="805" image="Event134">
       <outputs name="Agradeça a ela e vá embora." ownerID="14" targetID="5" fromX="1245" fromY="1185" />
       <outputs name="Pergunte sobre outra profissão." ownerID="14" targetID="2" fromX="1245" fromY="1105" />'Para se tornar uma bruxa, uma criança precisa ser uma mulher forte em magia (4) e ter chance do seu lado (50% para aparecer]. Se a criança for muito forte (7), ela sempre terá a oportunidade de Tente as provaçoes. Ter outra bruxa para ensinar seu filhote aumenta suas chances de sucesso.'</nodes>

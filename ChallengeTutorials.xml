@@ -105,7 +105,7 @@ Você dá de ombros e garante que está bem. Vovó lhe dá aquele olhar paternal
       <outputs name="Surrender" ownerID="4" targetID="6" fromX="1940" fromY="-631" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="2733" positionY="324" width="350" height="725" image="Event255">
-      <outputs name="Nããão... mais uma história! Por favor!" ownerID="5" targetID="10" fromX="3058" fromY="-167" />Você ouve Nan rir atrás de você: 'Bem feito meus pequenos aventureiros! Lá, no meio de um prado, você vê uma mesa, cheia de guloseimas!&quot; E dito isso, a vovó traz uma tigela de frutas e geléia de besouro - seus favoritos. 'Agora, desta vez, vá para a cama, de verdade! ' Mas, como sempre, há apenas uma resposta que se pode esperar...</nodes>
+      <outputs name="Nããão... mais uma história! Por favor!" ownerID="5" targetID="10" fromX="3058" fromY="-167" />Você ouve Nan rir atrás de você: 'Bem feito meus pequenos aventureiros! Lá, no meio de um prado, você vê uma mesa, cheia de guloseimas!' E dito isso, a vovó traz uma tigela de frutas e geléia de besouro - seus favoritos. 'Agora, desta vez, vá para a cama, de verdade! ' Mas, como sempre, há apenas uma resposta que se pode esperar...</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2152" positionY="-560" width="350" height="885" image="Event255">
       <logic>
         <ModifierBlock>

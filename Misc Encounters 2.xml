@@ -3047,7 +3047,7 @@
       </logic>
       <outputs name="[Demônio ou demônio de estimação] Ofereça-se para resolver isso." ownerID="15" targetID="23" fromX="4454" fromY="-372" />
       <outputs name="De que outra forma você pode resolver isso?" ownerID="15" targetID="17" fromX="4454" fromY="-452" />
-      <outputs name="Então, como exatamente isso afetará você? Mais demônios roubadores?" ownerID="15" targetID="16" fromX="4454" fromY="-532" />— Sim, sim, você sabe como as coisas funcionam. Uma maldição, uma ligação. Algo. Mas temo que o jogo seja o apanhador Kurv, então você sabe, eu e você, estamos presos nele, porque alguém apontou você como seu &quot;mortal para jogar&quot;. E só os demônios podem brincar. . .'</nodes>
+      <outputs name="Então, como exatamente isso afetará você? Mais demônios roubadores?" ownerID="15" targetID="16" fromX="4454" fromY="-532" />— Sim, sim, você sabe como as coisas funcionam. Uma maldição, uma ligação. Algo. Mas temo que o jogo seja o apanhador Kurv, então você sabe, eu e você, estamos presos nele, porque alguém apontou você como seu 'mortal para jogar'. E só os demônios podem brincar. . .'</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="4442" positionY="-2150" width="350" height="885">
       <outputs name="Então, como você pode resolver isso?" ownerID="16" targetID="17" fromX="4767" fromY="-2641" />
       <outputs name="[Demônio ou demônio de estimação] Ofereça-se para resolver isso." ownerID="16" targetID="23" fromX="4767" fromY="-2721" />
@@ -3064,7 +3064,7 @@
       </logic>
       <outputs name="[Demônio ou demônio de estimação] Ofereça-se para resolver isso." ownerID="18" targetID="23" fromX="4559" fromY="-1310" />
       <outputs name="De que outra forma você pode resolver isso?" ownerID="18" targetID="17" fromX="4559" fromY="-1390" />
-      <outputs name="Então, como exatamente isso afetará você? Mais demônios roubadores?" ownerID="18" targetID="16" fromX="4559" fromY="-1470" />— Sim, sim, seu companheiro sabe como as coisas funcionam. Uma maldição, uma ligação. Algo. Mas temo que o jogo seja o apanhador Kurv, então você sabe, eu e você, estamos presos nele, porque alguém apontou você como seu &quot;mortal para jogar&quot;. E só os demônios podem brincar. . .'</nodes>
+      <outputs name="Então, como exatamente isso afetará você? Mais demônios roubadores?" ownerID="18" targetID="16" fromX="4559" fromY="-1470" />— Sim, sim, seu companheiro sabe como as coisas funcionam. Uma maldição, uma ligação. Algo. Mas temo que o jogo seja o apanhador Kurv, então você sabe, eu e você, estamos presos nele, porque alguém apontou você como seu 'mortal para jogar'. E só os demônios podem brincar. . .'</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="5463" positionY="-1020" width="350" height="805">
       <outputs name="Escolha o cmuch e vá embora." ownerID="19" targetID="22" fromX="5788" fromY="-1511" />
       <outputs name="Escolha a dola e vá embora." ownerID="19" targetID="20" fromX="5788" fromY="-1591" />'Gostaria de poder - vinculado por leis, você vê. E se acontecer de eu fazer alguma merda com você antes de resolvermos isso, eu realmente sinto muito e, por favor, não me mate! Uma neblina verde aparece ao redor do skshack e ele desaparece, seu rosto levemente em pânico. Mas ele deixa para trás um mapa com uma inscrição: 'Escolha um amigo que você vai visitar.'</nodes>
@@ -5459,10 +5459,10 @@
       <outputs name="Não, você não pode dizer que tem." ownerID="3" targetID="4" fromX="1214" fromY="-480" />— Ah, visitantes. Esplêndido. Eu sou Bohdan, um mestre ferreiro. Diga, você não viu algumas garotas se escondendo em algum lugar, ou talvez fazendo alguma travessura?</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1339" positionY="154" width="350" height="805">
       <outputs name="Por quê?" ownerID="4" targetID="5" fromX="1664" fromY="-337" />
-      <outputs name="Aceita. So he is looking for dwarven girls?" ownerID="4" targetID="6" fromX="1664" fromY="-417" />'Ah bem. Como você se sentiria sendo contratado para encontrá-los, hein?</nodes>
+      <outputs name="Aceita. Então ele está procurando por garotas anãs?" ownerID="4" targetID="6" fromX="1664" fromY="-417" />'Ah bem. Como você se sentiria sendo contratado para encontrá-los, hein?</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1887" positionY="277" width="350" height="805">
-      <outputs name="incisão?" ownerID="5" targetID="8" fromX="2212" fromY="-214" />
-      <outputs name="Então você está procurando por garotas anãs?" ownerID="5" targetID="6" fromX="2212" fromY="-294" />'Bem, você vê, minha filha, ela me pediu para ser babá, e, bem, eu não sou tão jovem quanto pareço. Tirei uma soneca. Eu acordo e sopro, os pequenos patifes se foram. E Chale aqui também não ajudou. Ele dá um olhar sujo para a pilha de pedras.</nodes>
+      <outputs name="Chale?" ownerID="5" targetID="8" fromX="2212" fromY="-214" />
+      <outputs name="Então você está procurando por garotas anãs?" ownerID="5" targetID="6" fromX="2212" fromY="-294" />'Bem, você vê, minha filha, ela me pediu para ser babá, e, bem, eu não sou tão jovem quanto pareço. Tirei uma soneca. Eu acordo e puff, as pequenas garotas se foram. E a Chale aqui também não ajudou. Ele dá um olhar sujo para a pilha de pedras.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2025" positionY="-612" width="350" height="805">
       <outputs name="Ele não vai olhar?" ownerID="6" targetID="7" fromX="2350" fromY="-1103" />
       <outputs name="Então ele teve filhos com uma rusalka?" ownerID="6" targetID="9" fromX="2350" fromY="-1183" />— Não estritamente, não. Eles são mais rusalkas. Embora eu sempre diga que Anya tem meu queixo, ela tem, e Eva tem aquele braço forte que qualquer ferreiro deveria ter. . . De qualquer forma, são duas moças de aparência humana, mas aposto que foram às cavernas, ao pântano enevoado ou àquele lago apodrecido ali.</nodes>
@@ -5470,7 +5470,7 @@
       <outputs name="Concorde em procurá-los." ownerID="7" targetID="10" fromX="2857" fromY="-1095" />
       <outputs name="Recusar e sair." ownerID="7" targetID="45" fromX="2857" fromY="-1175" />Ele mostra suas pernas e elas são parcialmente transformadas em pedra. — Como eu disse, não sou tão vivaz quanto pareço. Eu e minha esposa nos conhecemos nos dias do Despertar, muito, muito tempo atrás. Agora estou voltando lentamente para a pedra em que fui esculpida. Natureza. Mas eu realmente preciso dos meus netos seguros. Eu vou recompensá-lo bem!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2347" positionY="423" width="350" height="725">
-      <outputs name="Então você está procurando por garotas anãs?" ownerID="8" targetID="6" fromX="2672" fromY="-68" />'Shh, não muito alto! Ela é velha e mal-humorada. Ela é uma troll do rock, minha melhor amiga há alguns séculos. Mas inútil como babá, parece.</nodes>
+      <outputs name="Então você está procurando por garotas anãs?" ownerID="8" targetID="6" fromX="2672" fromY="-68" />'Shh, não muito alto! Ela é velha e mal-humorada. Ela é uma troll de pedra, minha melhor amiga há alguns séculos. Mas inútil como babá, parece.</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2009" positionY="-1482" width="350" height="725">
       <outputs name="Ele não vai olhar?" ownerID="9" targetID="7" fromX="2334" fromY="-1973" />— Não é o que você chama de convencional, claro. Mas você sabe como as esposas anãs são raras - bem, não, você não sabe! Não até você viver tanto quanto eu. De qualquer forma, sim, eu me casei com Marianna, bem, quero dizer, ela foi enganada e amarrada pela lei demoníaca no início, mas depois fizemos isso funcionar. Ela faleceu agora, mas nossa filha é o meu maior tesouro, e os pequeninos também!</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="10" positionX="3030" positionY="-592" width="480" height="503" radius="4" settlementID="SET-POND" destroyOwner="false" linkedEventUniqueID="43">
@@ -5499,7 +5499,7 @@
       <outputs name="Diga a ele que as garotas queriam se tornar verdadeiras rusalkas afogando uma criança. Você os convenceu do contrário." ownerID="14" targetID="37" group="G1" fromX="-2355" fromY="-406" />
       <outputs name="Diga a ele que as garotas queriam se tornar verdadeiras rusalkas afogando uma criança. Você os convenceu do contrário." ownerID="14" targetID="39" group="G1" fromX="-2355" fromY="-486" />
       <outputs name="Diga a ele que as garotas queriam se tornar verdadeiras rusalkas afogando uma criança e você não interferiu na natureza delas." ownerID="14" targetID="42" group="G1" fromX="-2355" fromY="-566" />
-      <outputs name="Diga a ele que as garotas queriam se tornar verdadeiras rusalkas afogando uma criança. Já que eles são parte rusalka, talvez esteja tudo bem?" ownerID="14" targetID="44" group="G1" fromX="-2355" fromY="-647" />— Então você os achou patifes. Entre.'</nodes>
+      <outputs name="Diga a ele que as garotas queriam se tornar verdadeiras rusalkas afogando uma criança. Já que eles são parte rusalka, talvez esteja tudo bem?" ownerID="14" targetID="44" group="G1" fromX="-2355" fromY="-647" />'Então você achou as garotas. Entre.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="-2116" positionY="583" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -5509,7 +5509,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Agradeça a ele e vá embora." ownerID="15" targetID="19" fromX="-1790" fromY="91" />
-      <outputs name="Pergunte se ele vai ensiná-los a ser anoes sem o perigo." ownerID="15" targetID="21" fromX="-1790" fromY="11" />— Sim, os patifes idiotas chegaram aqui não muito antes de você. Tornando-se esposas anãs - se eu já ouvi uma coisa mais estúpida! Aqueles trolls poderiam tê-los no almoço. De qualquer forma, agradeço a vocês, rapazes, vocês salvaram eles e minha bunda. Aqui, sua recompensa.</nodes>
+      <outputs name="Pergunte se ele vai ensiná-las a ser anoes sem o perigo." ownerID="15" targetID="21" fromX="-1790" fromY="11" />— Sim, as garotas idiotas chegaram aqui não muito antes de você. Tornando-se esposas anãs - se eu já ouvi uma coisa mais estúpida! Aqueles trolls poderiam tê-las no almoço. De qualquer forma, agradeço a vocês, rapazes, vocês salvaram eles e minha bunda. Aqui, sua recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="-1095" positionY="289" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5518,7 +5518,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Acene, agradeça e vá embora." ownerID="16" targetID="19" fromX="-769" fromY="-202" />— Sim, obrigado. Eu sei que você fez tudo o que podia. Garotas tolas, entrando em cavernas, cantando para pedras. Eu não os ensinei bem o suficiente.' Bohdan soluça. E é Chale, o amigo troll do rock, que fala: 'Vá agora. Você ajuda, você ganha um presente brilhante. Mas precisamos sair, então você vai.</nodes>
+      <outputs name="Acene, agradeça e vá embora." ownerID="16" targetID="19" fromX="-769" fromY="-202" />— Sim, obrigado. Eu sei que você fez tudo o que podia. Garotas tolas, entrando em cavernas, cantando para pedras. Eu não os ensinei bem o suficiente.' Bohdan soluça. E é Chale, o amigo troll de pedra, que fala: 'Vá agora. Você ajuda, você ganha um presente brilhante. Mas precisamos sair, então você vai.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="-1699" positionY="34" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -5532,7 +5532,7 @@
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="-1156" positionY="-491" width="350" height="805">
       <outputs name="Fugir." ownerID="18" targetID="22" fromX="-830" fromY="-982" />
-      <outputs name="Mate eles!" ownerID="18" targetID="24" fromX="-830" fromY="-1062" />— Você ousa vir aqui com suas condolências quando não a salvou? Eu deveria enfiar sua cabeça em uma lança para minha filha se deliciar. Deixe-nos em paz agora. O troll do rock, Chale, se levanta e se move lentamente em sua direção, com o rosto irritado.</nodes>
+      <outputs name="Mate eles!" ownerID="18" targetID="24" fromX="-830" fromY="-1062" />— Você ousa vir aqui com suas condolências quando não a salvou? Eu deveria enfiar sua cabeça em uma lança para minha filha se deliciar. Deixe-nos em paz agora. O troll de pedra, Chale, se levanta e se move lentamente em sua direção, com o rosto irritado.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="19" positionX="-1285" positionY="954" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="19" targetID="20" fromX="-836" fromY="521" />
     </nodes>

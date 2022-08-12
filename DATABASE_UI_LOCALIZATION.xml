@@ -45,7 +45,7 @@
 		<Entry Key="UI_CONTINUE" Val="Continuar"></Entry>
 		<Entry Key="UI_NEW_GAME" Val="Novo jogo"></Entry>
 		<Entry Key="UI_LOAD_GAME" Val="Carregar jogo"></Entry>
-		<Entry Key="UI_BACK" Val="De volta"></Entry>
+		<Entry Key="UI_BACK" Val="Voltar"></Entry>
 		<Entry Key="UI_HOST_NEW_GAME" Val="Anfitrião - Novo Jogo"></Entry>
 		<Entry Key="UI_HOST_LOAD" Val="Host - Carregar"></Entry>
 		<Entry Key="UI_JOIN" Val="Juntar"></Entry>

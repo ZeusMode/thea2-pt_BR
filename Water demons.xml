@@ -1243,7 +1243,7 @@
       <outputs name="Insista que você não fez tal coisa. Que ajudar o panteão da árvore cósmica está de acordo com seus modos demoníacos e, assim, você permanece leal à sua herança demoníaca da água." ownerID="13" targetID="16" fromX="1566" fromY="1382" />
       <outputs name="Admita que abandonou seus antigos costumes, mas que o fez para o bem maior desta terra. Diga a ela que não foi uma escolha fácil e que ela também deve pensar muito sobre o que deixa para trás." ownerID="13" targetID="17" fromX="1566" fromY="1302" />
       <outputs name="Ataque!" ownerID="13" targetID="4" fromX="1566" fromY="1222" />
-      <outputs name="confirme that you have indeed found a new family and you are happier for it. Wish her well on her new path." ownerID="13" targetID="27" fromX="1566" fromY="1142" />— Que estranho você dizer isso. Você não segue agora outro rei ou rainha? Você não acredita que os deuses mortais são seus? Eu só desejo explorar outra família, mas você, você abandonou completamente nossos caminhos demoníacos...'</nodes>
+      <outputs name="confirme que você realmente encontrou uma nova família e está mais feliz por isso. Deseje-lhe bem em seu novo caminho." ownerID="13" targetID="27" fromX="1566" fromY="1142" />— Que estranho você dizer isso. Você não segue agora outro rei ou rainha? Você não acredita que os deuses mortais são seus? Eu só desejo explorar outra família, mas você, você abandonou completamente nossos caminhos demoníacos...'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="14" positionX="406" positionY="-1699" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="70" maxDamage="100" useCountInPercent="true" targetGroup="wdem">
       <outputs ownerID="14" targetID="5" fromX="835" fromY="-2087" />
     </nodes>

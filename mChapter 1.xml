@@ -1349,7 +1349,7 @@
       <outputs name="Tente convencê-lo." ownerID="38" targetID="41" fromX="9553" fromY="324" />
       <outputs name="Diga suas despedidas." ownerID="38" targetID="39" fromX="9553" fromY="244" />— Ah, isso é fofo, mas não.</nodes>
     <nodes xsi:type="NodeAdventure" ID="39" positionX="9843" positionY="485" width="350" height="725">
-      <outputs name="Diga adeus e vá embora." ownerID="39" targetID="51" fromX="10168" fromY="-6" />A bruxa que veio com você também se despediu: 'Lá vou eu, então. Fiz minha parte. Espero que você os pegue, quem quer que &quot;eles&quot; sejam...'</nodes>
+      <outputs name="Diga adeus e vá embora." ownerID="39" targetID="51" fromX="10168" fromY="-6" />A bruxa que veio com você também se despediu: 'Lá vou eu, então. Fiz minha parte. Espero que você os pegue, quem quer que 'eles' sejam...'</nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="9916" positionY="1385" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1912,7 +1912,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="[Light or Harmony]Concentre-se no seu domínio e tente descobrir o que está acontecendo aqui." ownerID="2" targetID="3" fromX="645" fromY="-498" />
+      <outputs name="[Luz ou Harmonia]Concentre-se no seu domínio e tente descobrir o que está acontecendo aqui." ownerID="2" targetID="3" fromX="645" fromY="-498" />
       <outputs name="[Intelecto ou Natureza] O incomum é a norma em Thea e, portanto, não se deve entrar em pânico. Tente se afastar com calma." ownerID="2" targetID="31" fromX="645" fromY="-578" />
       <outputs name="[Turmoil or Magic] Esta luz está queimando você vivo! Tente encontrar a fonte para poder derrotá-la." ownerID="2" targetID="19" fromX="645" fromY="-658" />À medida que o sol nasce alto, você sente seu calor suave em sua pele e se alegra com a força crescente da luz sobre a escuridão. Mas ao fazer isso, você começa a se sentir desconfortável. O calor torna-se cada vez mais constante, implacável. O ar viciado e opressivo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="736" positionY="790" width="350" height="885" image="Event208">
@@ -2423,7 +2423,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1360" positionY="-1036" width="350" height="885">
       <outputs name="Tente pechinchar com eles. Certamente há um preço que eles aceitariam para a entrada?" ownerID="6" targetID="8" fromX="1685" fromY="-1527" />
       <outputs name="Ataque!" ownerID="6" targetID="4" fromX="1685" fromY="-1607" />
-      <outputs name="Accept youur defeat. Render to their mercy! Tell them of your story, and ask for the help..." ownerID="6" targetID="109" fromX="1685" fromY="-1687" />— Você com aquele tipo de leitor de livros esquisito? Nós contamos a ele e diremos a você... aquela caverna é nosso território, sem retardatários, sem passeios turísticos.</nodes>
+      <outputs name="Aceite sua derrota. Renda-se à sua misericórdia! Conte-lhes a sua história e peça ajuda..." ownerID="6" targetID="109" fromX="1685" fromY="-1687" />— Você com aquele tipo de leitor de livros esquisito? Nós contamos a ele e diremos a você... aquela caverna é nosso território, sem retardatários, sem passeios turísticos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2799" positionY="-1068" width="350" height="725">
       <outputs name="Continue ouvindo." ownerID="7" targetID="9" fromX="3124" fromY="-1559" />— Você fala com bom senso. Não há razão para deixar passar uma oportunidade quando ela chega. Digo-te uma coisa, há uma velha cabana de bruxas não muito longe daqui - uma baba yaga, pensamos, vive lá. A maldita coisa está interferindo nos negócios e não somos espíritos para lidar com esse tipo de coisa. Lide com ela, e podemos deixar você espiar em nossa caverna. Ou há outra tarefa que você pode fazer.</nodes>
     <nodes xsi:type="NodeChallenge" ID="8" positionX="2205" positionY="-1051" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-Q_BANDITMIX_7P_6M_6S" challengeScale="101" challengedList="ppl">
@@ -2477,7 +2477,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
       </logic>
       <outputs name="Tente pechinchar com eles. Certamente há um preço que eles aceitariam para a entrada?" ownerID="19" targetID="20" fromX="2109" fromY="-73" />
       <outputs name="Ataque!" ownerID="19" targetID="4" fromX="2109" fromY="-153" />
-      <outputs name="Accept youur defeat. Render to their mercy! Tell them of your story, and ask for the help..." ownerID="19" targetID="109" fromX="2109" fromY="-233" />— Suponha que você pareça impressionante, sim. Assim podemos conversar. Mas, você com aquele tipo de leitor de livros excêntrico? Nós contamos a ele e diremos a você... aquela caverna é nosso território, sem retardatários, sem passeios turísticos.</nodes>
+      <outputs name="Aceite sua derrota. Renda-se à sua misericórdia! Conte-lhes a sua história e peça ajuda..." ownerID="19" targetID="109" fromX="2109" fromY="-233" />— Suponha que você pareça impressionante, sim. Assim podemos conversar. Mas, você com aquele tipo de leitor de livros excêntrico? Nós contamos a ele e diremos a você... aquela caverna é nosso território, sem retardatários, sem passeios turísticos.</nodes>
     <nodes xsi:type="NodeChallenge" ID="20" positionX="2273" positionY="-253" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-Q_BANDITMIX_7P_6M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="20" targetID="7" fromX="2714" fromY="-748" />
       <outputs name="Lose" ownerID="20" targetID="13" fromX="2714" fromY="-828" />
@@ -3105,7 +3105,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
       </logic>
       <outputs name="Tente pechinchar com eles. Certamente há um preço que eles aceitariam para a entrada?" ownerID="91" targetID="20" fromX="2117" fromY="-998" />
       <outputs name="Ataque!" ownerID="91" targetID="4" fromX="2117" fromY="-1078" />
-      <outputs name="Accept youur defeat. Render to their mercy! Tell them of your story, and ask for the help..." ownerID="91" targetID="109" fromX="2117" fromY="-1158" />— Suponha que você seja um de nós, ou já foi, para que possamos conversar. Mas, você com aquele tipo de leitor de livros excêntrico? Nós contamos a ele e diremos a você... aquela caverna é nosso território, sem retardatários, sem passeios turísticos.</nodes>
+      <outputs name="Aceite sua derrota. Renda-se à sua misericórdia! Conte-lhes a sua história e peça ajuda..." ownerID="91" targetID="109" fromX="2117" fromY="-1158" />— Suponha que você seja um de nós, ou já foi, para que possamos conversar. Mas, você com aquele tipo de leitor de livros excêntrico? Nós contamos a ele e diremos a você... aquela caverna é nosso território, sem retardatários, sem passeios turísticos.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="92" positionX="5138" positionY="1546" width="480" height="503" radius="3" groupID="GROUP-BANDITS_5P_4M_3S" destroyOwner="true" linkedEventUniqueID="27">
       <outputs ownerID="92" targetID="28" fromX="5586" fromY="1113" />
     </nodes>
@@ -3217,7 +3217,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
       </logic>
       <outputs name="Tente pechinchar com eles. Certamente há um preço que eles aceitariam para a entrada?" ownerID="103" targetID="20" fromX="2571" fromY="211" />
       <outputs name="Ataque!" ownerID="103" targetID="4" fromX="2571" fromY="131" />
-      <outputs name="Accept youur defeat. Render to their mercy! Tell them of your story, and ask for the help..." ownerID="103" targetID="109" fromX="0" fromY="0" />— Suponha que você pareça impressionante, sim. Assim podemos conversar. Mas, você com aquele tipo de leitor de livros excêntrico? Nós contamos a ele e diremos a você... aquela caverna é nosso território, sem retardatários, sem passeios turísticos.</nodes>
+      <outputs name="Aceite sua derrota. Renda-se à sua misericórdia! Conte-lhes a sua história e peça ajuda..." ownerID="103" targetID="109" fromX="0" fromY="0" />— Suponha que você pareça impressionante, sim. Assim podemos conversar. Mas, você com aquele tipo de leitor de livros excêntrico? Nós contamos a ele e diremos a você... aquela caverna é nosso território, sem retardatários, sem passeios turísticos.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="104" positionX="-3026" positionY="814" width="460" height="589">
       <logic>
         <FilterBlock>
@@ -3835,7 +3835,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="confirme that you are a servant of the divine." ownerID="7" targetID="6" fromX="1646" fromY="406" />
+      <outputs name="confirme que você é um servo do divino." ownerID="7" targetID="6" fromX="1646" fromY="406" />
       <outputs name="Negue qualquer servidão divina. Diga que nunca foi sua escolha, apenas chance." ownerID="7" targetID="43" fromX="1646" fromY="326" />
       <outputs name="Diga que você é um demônio, nada mais." ownerID="7" targetID="44" fromX="1646" fromY="246" />Uma voz responde de dentro das paredes: 'Você cheira como um de nós, com certeza, mas você também tem aquele fedor humano-divino em você, então qual é?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="1382" positionY="-774" width="350" height="805">
@@ -4567,7 +4567,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
     <nodes xsi:type="NodeAdventure" ID="47" positionX="-4372" positionY="1573" width="350" height="885" image="Event053">
       <outputs name="Peça para ele contar mais sobre sua história. Por que ele estava na prisão? Por que outros anoes não vieram resgatá-lo? Ele é um grande mestre ferreiro, afinal." ownerID="47" targetID="49" fromX="-4046" fromY="1081" />
       <outputs name="Pergunte o que é necessário em seguida." ownerID="47" targetID="61" fromX="-4046" fromY="1001" />
-      <outputs name="Peça para que todas as opçoes sejam apresentadas em linha reta. Nenhuma história de fundo necessária. [Pular história]" ownerID="47" targetID="60" fromX="-4046" fromY="921" />&quot;Agora, o sangue vai empurrar a vida para uma forma sem vida, mas é de longe o preço mais fácil necessário para isso.&quot;</nodes>
+      <outputs name="Peça para que todas as opçoes sejam apresentadas em linha reta. Nenhuma história de fundo necessária. [Pular história]" ownerID="47" targetID="60" fromX="-4046" fromY="921" />'Agora, o sangue vai empurrar a vida para uma forma sem vida, mas é de longe o preço mais fácil necessário para isso.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="48" positionX="-1314" positionY="281" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -4594,7 +4594,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       </logic>
       <outputs name="Então os anoes decidiram que a prisão era sua punição por quebrar o código de ética dos anoes?" ownerID="50" targetID="52" fromX="-2667" fromY="1665" />'Bah, eu não vou te enganar, vou? Eu não sou um grande mestre, não mais. Fui desonrado, minha barba rasgada, meu nome gravado na pedra para sempre. Os tolos! Eles não entenderam - o coração, o gigante era fraco, eu tinha que encontrar maneiras! Era tudo para eles! '</nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-2997" positionY="1411" width="350" height="725">
-      <outputs name="Então eles o deixaram aqui porque ele não era querido?" ownerID="51" targetID="55" fromX="-2671" fromY="919" />— Um homem instruído, esse, e como você, tocado por seus deuses ou o que você tem. Ouça, eu não era popular nos meus últimos dias. Muitos de meus homens acharam meus métodos grosseiros ou estranhos - &quot;muita mudança, Wilfred, você deve se ater às tradiçoes&quot;. Nós somos criaturas de pedra e metal, não gostamos de mudanças, entende?</nodes>
+      <outputs name="Então eles o deixaram aqui porque ele não era querido?" ownerID="51" targetID="55" fromX="-2671" fromY="919" />— Um homem instruído, esse, e como você, tocado por seus deuses ou o que você tem. Ouça, eu não era popular nos meus últimos dias. Muitos de meus homens acharam meus métodos grosseiros ou estranhos - 'muita mudança, Wilfred, você deve se ater às tradiçoes'. Nós somos criaturas de pedra e metal, não gostamos de mudanças, entende?</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="-2569" positionY="2452" width="350" height="885">
       <outputs name="Pergunte se ele se arrepende de seus experimentos cruéis." ownerID="52" targetID="56" fromX="-2243" fromY="1960" />
       <outputs name="Diga a ele que você entende que o progresso precisa de sacrifício às vezes." ownerID="52" targetID="57" fromX="-2243" fromY="1880" />
@@ -8159,7 +8159,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="1301" positionY="353" width="350" height="805">
       <outputs name="Pergunte se ela pode lhe contar mais sobre esse coração terrestre que parou de bater." ownerID="10" targetID="20" fromX="1626" fromY="-138" />
-      <outputs name="Se ela estava pronta para isso, ela sabe o que é necessário, e ela vai dar a você?" ownerID="10" targetID="39" fromX="1626" fromY="-218" />&quot;Sim, há muito tempo sentimos que o coração da terra parou, e quando a árvore-irmã Mokosh desapareceu, deixando apenas seus filhotes para cuidar de nós, sabíamos que esse dia chegaria.&quot;</nodes>
+      <outputs name="Se ela estava pronta para isso, ela sabe o que é necessário, e ela vai dar a você?" ownerID="10" targetID="39" fromX="1626" fromY="-218" />'Sim, há muito tempo sentimos que o coração da terra parou, e quando a árvore-irmã Mokosh desapareceu, deixando apenas seus filhotes para cuidar de nós, sabíamos que esse dia chegaria.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="-983" positionY="-1552" width="350" height="725">
       <logic>
         <ModifierBlock>

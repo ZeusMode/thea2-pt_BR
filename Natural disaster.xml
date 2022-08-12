@@ -2198,7 +2198,7 @@
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="[Light or Harmony]Concentre-se no seu domínio e tente descobrir o que está acontecendo aqui." ownerID="2" targetID="3" fromX="650" fromY="-460" />
+      <outputs name="[Luz ou Harmonia]Concentre-se no seu domínio e tente descobrir o que está acontecendo aqui." ownerID="2" targetID="3" fromX="650" fromY="-460" />
       <outputs name="[Intelecto ou Natureza] O incomum é a norma em Thea e, portanto, não se deve entrar em pânico. Tente se afastar com calma." ownerID="2" targetID="31" fromX="650" fromY="-540" />
       <outputs name="[Turmoil or Magic] Esta luz está queimando você vivo! Tente encontrar a fonte para poder derrotá-la." ownerID="2" targetID="19" fromX="650" fromY="-620" />À medida que o sol nasce alto, você sente seu calor suave em sua pele e se alegra com a força crescente da luz sobre a escuridão. Mas ao fazer isso, você começa a se sentir desconfortável. O calor torna-se cada vez mais constante, implacável. O ar viciado e opressivo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="790" positionY="701" width="350" height="885" image="Event208">
@@ -3144,7 +3144,7 @@
           </LogicProcessing>
         </FilterBlock>
       </logic>
-      <outputs name="[Light or Harmony]Concentre-se no seu domínio e tente descobrir o que está acontecendo aqui." ownerID="2" targetID="3" fromX="650" fromY="-460" />
+      <outputs name="[Luz ou Harmonia]Concentre-se no seu domínio e tente descobrir o que está acontecendo aqui." ownerID="2" targetID="3" fromX="650" fromY="-460" />
       <outputs name="[Intelecto ou Natureza] O incomum é a norma em Thea e, portanto, não se deve entrar em pânico. Tente se afastar com calma." ownerID="2" targetID="31" fromX="650" fromY="-540" />
       <outputs name="[Turmoil or Magic] Esta luz está queimando você vivo! Tente encontrar a fonte para poder derrotá-la." ownerID="2" targetID="19" fromX="650" fromY="-620" />À medida que o sol nasce alto, você sente seu calor suave em sua pele e se alegra com a força crescente da luz sobre a escuridão. Mas ao fazer isso, você começa a se sentir desconfortável. O calor torna-se cada vez mais constante, implacável. O ar viciado e opressivo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="817" positionY="607" width="350" height="885" image="Event208">

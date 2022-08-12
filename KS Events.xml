@@ -1861,7 +1861,7 @@
       <outputs name="Não, vá embora." ownerID="10" targetID="14" fromX="3409" fromY="60" />'Khax é nosso cara de números e ele não vai parar de trabalhar, mas Avix está preocupado que ele se esgote. Conhecemos um xamã que pode preparar uma poção para dormir, mas nunca temos tempo para ir. Você pegaria para nós? Nos pagaremos.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="2183" positionY="-147" width="350" height="805">
       <outputs name="O jornal diz Fli. Ele quer dizer voar?" ownerID="11" targetID="8" fromX="2508" fromY="-638" />
-      <outputs name="Parece que estão muito cansados, principalmente o do ábaco. Pergunte se eles precisam de alguma ajuda." ownerID="11" targetID="9" fromX="2508" fromY="-718" />&quot;Um milhão de milhas!&quot; grita a garota goblin loira, e a do ábaco solta um suspiro de desaprovação novamente, murmurando: 'Certamente não será um milhão de milhas, ridículo...' O goblin ferido no topo da catapulta se anima. — Isso me levou até onde está aquela árvore quebrada e, embora eu tenha três ossos quebrados, descobrimos algumas falhas. Cada vez é melhor, certo, pessoal?' Todos acenam e sorriem para o amigo.</nodes>
+      <outputs name="Parece que estão muito cansados, principalmente o do ábaco. Pergunte se eles precisam de alguma ajuda." ownerID="11" targetID="9" fromX="2508" fromY="-718" />'Um milhão de milhas!' grita a garota goblin loira, e a do ábaco solta um suspiro de desaprovação novamente, murmurando: 'Certamente não será um milhão de milhas, ridículo...' O goblin ferido no topo da catapulta se anima. — Isso me levou até onde está aquela árvore quebrada e, embora eu tenha três ossos quebrados, descobrimos algumas falhas. Cada vez é melhor, certo, pessoal?' Todos acenam e sorriem para o amigo.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="12" positionX="3609" positionY="503" width="480" height="503" radius="3" settlementID="SET-SMALL_HUT" destroyOwner="false" linkedEventUniqueID="10">
       <outputs ownerID="12" targetID="13" fromX="4057" fromY="70" />
     </nodes>
@@ -2045,7 +2045,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pegue o pagamento e vá embora." ownerID="5" targetID="7" fromX="1216" fromY="-405" />&quot;Aqui, e obrigado novamente.&quot;</nodes>
+      <outputs name="Pegue o pagamento e vá embora." ownerID="5" targetID="7" fromX="1216" fromY="-405" />'Aqui, e obrigado novamente.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="857" positionY="-729" width="350" height="725">
       <outputs name="Pegue o pagamento." ownerID="6" targetID="5" fromX="1182" fromY="-1220" />— Ah, a coisa do fantasma. Esqueci que ele pode fazer você fazer isso. Desculpe. Ficamos tão ocupados que esquecemos as coisas lá fora. Espero que nosso pagamento seja adequado para cobrir isso, já que não temos mais.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="7" positionX="1309" positionY="4" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
@@ -4325,7 +4325,7 @@ Some of what was inside breaks from your impact, but you still find some treasur
         </ModifierBlock>
       </logic>
       <outputs name="Limpe-o e mate os que sobrarem." ownerID="5" targetID="11" group="G1" fromX="1772" fromY="242" />
-      <outputs name="Limpe-o e mate os que sobrarem." ownerID="5" targetID="12" group="G1" fromX="1772" fromY="162" />Você descobre ratos em seus poroes e, quando os rastreia, vê que eles se aninharam sob seu ídolo e mastigaram as raízes divinas, causando a estranha &quot;falta de energia&quot;. Parece que vários realmente se fritaram enquanto faziam isso.</nodes>
+      <outputs name="Limpe-o e mate os que sobrarem." ownerID="5" targetID="12" group="G1" fromX="1772" fromY="162" />Você descobre ratos em seus poroes e, quando os rastreia, vê que eles se aninharam sob seu ídolo e mastigaram as raízes divinas, causando a estranha 'falta de energia'. Parece que vários realmente se fritaram enquanto faziam isso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2003" positionY="-155" width="350" height="725">
       <outputs name="Sair." ownerID="6" targetID="7" fromX="2328" fromY="-646" />Você eventualmente encontra um ninho de ratos. Eles se aninharam sob seu ídolo e mastigaram as raízes divinas, causando a estranha 'falta de energia'. Infelizmente, você demorou muito para descobri-los. O ídolo leva semanas para se curar, causando todo tipo de maldade nesse meio tempo.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="7" positionX="2423" positionY="-211" width="460" height="619" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="50" useCountInPercent="true" targetGroup="ppl">
@@ -8444,7 +8444,7 @@ Some of what was inside breaks from your impact, but you still find some treasur
       <outputs name="Concorde em responder ao enigma." ownerID="15" targetID="14" fromX="1176" fromY="-960" />
       <outputs name="Recuse educadamente e leve seu filho para casa." ownerID="15" targetID="3" fromX="1176" fromY="-1040" />'Ah, olá. Eu estava simplesmente hipnotizado pela perfeita paz do sono desta criança. Sozinho, cercado de tantos amigos, mas sem uma preocupação no mundo... Estou me sentindo caprichosa hoje, então te digo uma coisa, você responde meu enigma e eu dou uma bênção ao seu filho, hein?</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="1882" positionY="-1391" width="350" height="725">
-      <outputs name="Agradeça a ele e aceite a bênção para seu filho. Então leve-os para casa." ownerID="16" targetID="26" fromX="2207" fromY="-1882" />&quot;Você é inteligente, maravilhoso, bem, aqui vai.&quot; Ele bate palmas três vezes, depois desaparece na lagoa.</nodes>
+      <outputs name="Agradeça a ele e aceite a bênção para seu filho. Então leve-os para casa." ownerID="16" targetID="26" fromX="2207" fromY="-1882" />'Você é inteligente, maravilhoso, bem, aqui vai.' Ele bate palmas três vezes, depois desaparece na lagoa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1256" positionY="-1935" width="350" height="725">
       <outputs name="Pegue seu filho e vá para casa." ownerID="17" targetID="18" fromX="1581" fromY="-2426" />'Que pena, e eu não posso simplesmente deixá-lo ir - sabedoria demoníaca, você vê. Não se preocupe, eu não vou fazer muito mal ao pequeno.' Antes que você possa reagir, ele bate palmas três vezes e desaparece na lagoa.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="18" positionX="1656" positionY="-2211" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
@@ -11499,7 +11499,7 @@ Some of what was inside breaks from your impact, but you still find some treasur
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="14" targetID="11" fromX="2801" fromY="-497" />&quot;Sua habilidade é tolerável.&quot; Todos os três estranhos acenam com a cabeça e partem juntos.</nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="14" targetID="11" fromX="2801" fromY="-497" />'Sua habilidade é tolerável.' Todos os três estranhos acenam com a cabeça e partem juntos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="2955" positionY="-50" width="350" height="725">
       <outputs name="Sair." ownerID="15" targetID="12" fromX="3280" fromY="-541" />O olhar frio de Anjel o enerva, e você não consegue impressioná-los com suas habilidades. Os três partem sem mais palavras.</nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="2115" positionY="-867" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_5P_0M_0S" challengeScale="101" challengedList="ppl">
@@ -11556,7 +11556,7 @@ Some of what was inside breaks from your impact, but you still find some treasur
       <outputs name="Fique contra Anjel e sua habilidade mística." ownerID="20" targetID="13" fromX="1269" fromY="-729" />
       <outputs name="Queda de braço o czort." ownerID="20" targetID="16" fromX="1269" fromY="-809" />
       <outputs name="Recusar educadamente." ownerID="20" targetID="3" fromX="1269" fromY="-889" />
-      <outputs name="Recuse educadamente e ofereça sua comida em vez disso." ownerID="20" targetID="19" fromX="1269" fromY="-969" />'Bem-vindo!' exclama Mikulas: &quot;Cada um de nós pode lhe oferecer uma espécie de duelo - um jogo esplêndido, com certeza.&quot; O goblin é assustadoramente alegre, enquanto o elfo permanece distante e o czort, bem, ele olha para você com um sorriso malicioso.</nodes>
+      <outputs name="Recuse educadamente e ofereça sua comida em vez disso." ownerID="20" targetID="19" fromX="1269" fromY="-969" />'Bem-vindo!' exclama Mikulas: 'Cada um de nós pode lhe oferecer uma espécie de duelo - um jogo esplêndido, com certeza.' O goblin é assustadoramente alegre, enquanto o elfo permanece distante e o czort, bem, ele olha para você com um sorriso malicioso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="1416" positionY="-1529" width="350" height="725">
       <outputs name="Sair." ownerID="21" targetID="22" fromX="1741" fromY="-2020" />'Sim, é certo aceitar tal hospitalidade.' Anjel parece desinteressado e o czort não parece satisfeito, mas os três saem depois de comer.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="22" positionX="675" positionY="-1533" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
@@ -12187,7 +12187,7 @@ Some of what was inside breaks from your impact, but you still find some treasur
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Defenda-se!" ownerID="5" targetID="6" fromX="1769" fromY="-1594" />— Suponho que você não seja inteiramente inútil. Um de vocês pode ser esquisito, sim. Seu rosto sombrio se afasta como se falasse na neblina: &quot;Bem, você é um desperdício inútil de espaço.&quot; Alguém ou algo é jogado para fora da névoa, mas antes que você possa dar uma olhada, o demônio chega para pegar um de vocês!</nodes>
+      <outputs name="Defenda-se!" ownerID="5" targetID="6" fromX="1769" fromY="-1594" />— Suponho que você não seja inteiramente inútil. Um de vocês pode ser esquisito, sim. Seu rosto sombrio se afasta como se falasse na neblina: 'Bem, você é um desperdício inútil de espaço.' Alguém ou algo é jogado para fora da névoa, mas antes que você possa dar uma olhada, o demônio chega para pegar um de vocês!</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="1874" positionY="-1150" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-BIES_4P_3M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="7" fromX="2315" fromY="-1645" />
       <outputs name="Lose" ownerID="6" targetID="17" fromX="2315" fromY="-1725" />
@@ -12331,7 +12331,7 @@ Some of what was inside breaks from your impact, but you still find some treasur
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Defenda-se!" ownerID="25" targetID="13" fromX="1907" fromY="958" />— Suponho que você não seja inteiramente inútil. Um de vocês pode ser esquisito, sim. Seu rosto sombrio se afasta como se falasse na neblina: &quot;Bem, você é um desperdício inútil de espaço.&quot; Alguém ou algo é jogado para fora da névoa, mas antes que você possa dar uma olhada, o demônio chega para pegar um de vocês!</nodes>
+      <outputs name="Defenda-se!" ownerID="25" targetID="13" fromX="1907" fromY="958" />— Suponho que você não seja inteiramente inútil. Um de vocês pode ser esquisito, sim. Seu rosto sombrio se afasta como se falasse na neblina: 'Bem, você é um desperdício inútil de espaço.' Alguém ou algo é jogado para fora da névoa, mas antes que você possa dar uma olhada, o demônio chega para pegar um de vocês!</nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="1084" positionY="699" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -12937,7 +12937,7 @@ Some of what was inside breaks from your impact, but you still find some treasur
         </FilterBlock>
       </logic>
       <outputs name="Entre, mas fique atento." ownerID="2" targetID="4" fromX="710" fromY="-616" />
-      <outputs name="Não, vá embora." ownerID="2" targetID="3" fromX="710" fromY="-696" />Você encontra a cabana da bruxa que reside perto do Koshei. A porta está entreaberta e uma voz acena: &quot;Entre, entre. Eu estava esperando você.&quot;</nodes>
+      <outputs name="Não, vá embora." ownerID="2" targetID="3" fromX="710" fromY="-696" />Você encontra a cabana da bruxa que reside perto do Koshei. A porta está entreaberta e uma voz acena: 'Entre, entre. Eu estava esperando você.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-386" positionY="-571" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="4" positionX="825" positionY="52" width="350" height="966" image="Event255">
       <outputs name="Viedma, como na lendária primeira bruxa?" ownerID="4" targetID="5" fromX="1150" fromY="-439" />
@@ -14380,7 +14380,7 @@ Some of what was inside breaks from your impact, but you still find some treasur
         </FilterBlock>
       </logic>
       <outputs name="E como ela ficou sabendo disso?" ownerID="3" targetID="4" fromX="1180" fromY="-396" />
-      <outputs name="Acene com a cabeça e verifique a árvore." ownerID="3" targetID="5" fromX="1180" fromY="-476" />&quot;Ah, bem, as pessoas dizem que é o próprio artefato que o pai de todos Perun segurava no braço antes de desaparecer de nossas terras.&quot;</nodes>
+      <outputs name="Acene com a cabeça e verifique a árvore." ownerID="3" targetID="5" fromX="1180" fromY="-476" />'Ah, bem, as pessoas dizem que é o próprio artefato que o pai de todos Perun segurava no braço antes de desaparecer de nossas terras.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1277" positionY="383" width="350" height="725">
       <outputs name="Acene com a cabeça e verifique a árvore." ownerID="4" targetID="5" fromX="1602" fromY="-108" />'Bem, você vê, eu sou a filha descendente direta do servo de Briamir, e ele, é claro, foi o segundo general que morreu menos heroicamente, mas no mesmo momento em que Mokosh tomou o espírito de Perun em seus braços e o fez divino. '</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1340" positionY="-565" width="350" height="725">
@@ -14456,7 +14456,7 @@ Some of what was inside breaks from your impact, but you still find some treasur
         </FilterBlock>
       </logic>
       <outputs name="E como ela ficou sabendo disso?" ownerID="15" targetID="17" fromX="-609" fromY="-466" />
-      <outputs name="Acene com a cabeça e verifique a árvore." ownerID="15" targetID="16" fromX="-609" fromY="-546" />&quot;Ah, bem, as pessoas dizem que é o próprio artefato que o pai de todos Perun segurava no braço antes de desaparecer de nossas terras.&quot;</nodes>
+      <outputs name="Acene com a cabeça e verifique a árvore." ownerID="15" targetID="16" fromX="-609" fromY="-546" />'Ah, bem, as pessoas dizem que é o próprio artefato que o pai de todos Perun segurava no braço antes de desaparecer de nossas terras.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="-1591" positionY="-762" width="350" height="805" image="Event245">
       <outputs name="Diga que você procura um artefato divino e foi informado de que está escondido aqui." ownerID="16" targetID="18" fromX="-1265" fromY="-1253" />
       <outputs name="Ataque!" ownerID="16" targetID="24" fromX="-1265" fromY="-1333" />A árvore se levanta, abre os olhos e olha para você com espanto: 'O que?'</nodes>

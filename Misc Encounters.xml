@@ -2276,7 +2276,7 @@ It is I who will die.</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2330.63452" positionY="-1307.69409" width="350" height="885">
       <outputs name="Sua misericórdia? Lembre a criatura de seus serviços!" ownerID="12" targetID="19" fromX="2656" fromY="-1798" />
       <outputs name="Mostre à criatura o dente que você removeu e acene as tiras para ele para enfatizar sua ação." ownerID="12" targetID="19" fromX="2656" fromY="-1879" />
-      <outputs name="Ataque a criatura!" ownerID="12" targetID="13" fromX="2656" fromY="-1959" />&quot;Melhor, sim.&quot; Seus olhos piscam com malícia mais uma vez quando ele acrescenta: 'Como você me daria a minha misericórdia, então?'
+      <outputs name="Ataque a criatura!" ownerID="12" targetID="13" fromX="2656" fromY="-1959" />'Melhor, sim.' Seus olhos piscam com malícia mais uma vez quando ele acrescenta: 'Como você me daria a minha misericórdia, então?'
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="13" positionX="-207" positionY="-1278" width="500" height="689" challengeType="TypePhysical" versusGroup="GROUP-BIES_4P_3M_3S" challengeScale="200" challengedList="ppl">
       <outputs name="Win" ownerID="13" targetID="21" fromX="234" fromY="-1736" />
@@ -2308,7 +2308,7 @@ It is I who will die.</nodes>
       <outputs name="Surrender" ownerID="18" targetID="29" fromX="3884" fromY="-1423" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="2767.10327" positionY="-1630.161" width="350" height="725">
-      <outputs name="Damned demon. Sair." ownerID="19" targetID="20" fromX="3092" fromY="-2121" />&quot;Humph.&quot; A criatura não acrescenta nada, apenas pula na cabra e vai embora sem agradecer!</nodes>
+      <outputs name="Damned demon. Sair." ownerID="19" targetID="20" fromX="3092" fromY="-2121" />'Humph.' A criatura não acrescenta nada, apenas pula na cabra e vai embora sem agradecer!</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="20" positionX="3436.416" positionY="-1775.49158" width="480" height="503" radius="10" settlementID="SET-FLOATING_ROCK" destroyOwner="false" linkedEventUniqueID="10">
       <outputs ownerID="20" targetID="9" fromX="3885" fromY="-2207" />
     </nodes>
@@ -2523,7 +2523,7 @@ It is I who will die.</nodes>
       <outputs name="Pergunte se ele vai ajudar o menino com bagas para sua mãe." ownerID="24" targetID="25" fromX="4232" fromY="1508" />
       <outputs name="Pergunte se as frutas são especiais de alguma forma e, se sim, se você pode ter algumas." ownerID="24" targetID="27" fromX="4232" fromY="1428" />'Rei do mirtilo eu sou - um belo título, não? Eu administro esse show de berry por anos. Você tem negócios então?</nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="4357.4707" positionY="2140.81372" width="350" height="805">
-      <outputs name="[Demon]confirme that this will incur no demon price on you or the boy." ownerID="25" targetID="28" fromX="4683" fromY="1649" />
+      <outputs name="[Demonio] Confirme que isso não incorrerá em preço demoníaco para você ou para o garoto." ownerID="25" targetID="28" fromX="4683" fromY="1649" />
       <outputs name="Agradeça a ele e conte a boa notícia ao menino." ownerID="25" targetID="29" fromX="4683" fromY="1569" />'Ajudar esse menino seria minha alegria!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="26" positionX="4314.1416" positionY="-5.35112762" width="350" height="725">
       <logic>
@@ -5002,7 +5002,7 @@ It is I who will die.</nodes>
       <outputs name="Surrender" ownerID="5" targetID="25" fromX="2295" fromY="-121" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2451" positionY="693" width="350" height="885" image="Event110">
-      <outputs name="confirme that that is your intention." ownerID="6" targetID="7" fromX="2776" fromY="201" />
+      <outputs name="confirme que essa é a sua intenção." ownerID="6" targetID="7" fromX="2776" fromY="201" />
       <outputs name="Diga que você pode repensar o plano se ele tiver algo a oferecer." ownerID="6" targetID="7" fromX="2776" fromY="121" />
       <outputs name="Negue. Diga a ele que você só queria uma desculpa para libertá-lo. Nenhum homem deve morrer por ouro." ownerID="6" targetID="8" fromX="2776" fromY="41" />Os fazendeiros resmungam com raiva, mas vão embora, escondendo-se em suas cabanas. Você tira seu prisioneiro do laço do carrasco. 'Então, você está pensando em me vender para os orcs agora?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2924.27466" positionY="970.8171" width="350" height="805">
@@ -5057,7 +5057,7 @@ Ten do smierci panem bedzie.' [It refers to some old oak, that whomever cuts it 
     <nodes xsi:type="NodeAdventure" ID="19" positionX="3039.49316" positionY="-1628.3175" width="350" height="725">
       <outputs name="Apenas continue correndo." ownerID="19" targetID="21" fromX="3365" fromY="-2119" />Os fazendeiros chutam sua bunda e vocês correm para salvar suas vidas. Tomates podres e esterco de cavalo voam em sua direção como você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="3472.65625" positionY="-946.3489" width="350" height="885">
-      <outputs name="confirme that that is your intention." ownerID="20" targetID="7" fromX="3798" fromY="-1437" />
+      <outputs name="confirme que essa é a sua intenção." ownerID="20" targetID="7" fromX="3798" fromY="-1437" />
       <outputs name="Diga que você pode repensar o plano se ele tiver algo a oferecer." ownerID="20" targetID="7" fromX="3798" fromY="-1517" />
       <outputs name="Negue. Diga a ele que você só queria uma desculpa para libertá-lo. Nenhum homem deve morrer por ouro." ownerID="20" targetID="8" fromX="3798" fromY="-1597" />Os fazendeiros estão mortos e o ouro deles é seu. Agora você também pode coletar a recompensa deste bandido. Você tira seu prisioneiro do laço do carrasco. 'Então, você está pensando em me vender para os orcs agora?'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="21" positionX="3463.22974" positionY="-1989.11926" width="350" height="455" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
@@ -5435,7 +5435,7 @@ The bandit cries out in anger but runs off.</nodes>
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="469" positionY="-2292" width="350" height="805">
       <outputs name="Ataque!" ownerID="21" targetID="5" fromX="794" fromY="-2783" />
-      <outputs name="Convencê-lo de que essa violência não é necessária porque um leshy não precisa de coisas, com certeza." ownerID="21" targetID="22" fromX="794" fromY="-2863" />&quot;Corta-me, dizem eles, e as riquezas serão tuas até ao dia da tua morte.&quot;</nodes>
+      <outputs name="Convencê-lo de que essa violência não é necessária porque um leshy não precisa de coisas, com certeza." ownerID="21" targetID="22" fromX="794" fromY="-2863" />'Corta-me, dizem eles, e as riquezas serão tuas até ao dia da tua morte.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="22" positionX="993.9458" positionY="-2360.39087" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-LESHY_MIX_7P_6M_7S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="22" targetID="23" fromX="1435" fromY="-2855" />
       <outputs name="Lose" ownerID="22" targetID="26" fromX="1435" fromY="-2936" />
