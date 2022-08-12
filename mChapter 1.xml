@@ -626,7 +626,7 @@
       <outputs name="Peguei a criança." ownerID="54" targetID="72" fromX="-1032" fromY="-1275" />
       <outputs name="Nem, eles bateram em você." ownerID="54" targetID="59" fromX="-1032" fromY="-1355" />
       <outputs name="Ataque os catadores!" ownerID="54" targetID="4" fromX="-1032" fromY="-1435" />
-      <outputs name="Tell them you need more time. Sair." ownerID="54" targetID="60" fromX="-1032" fromY="-1515" />'Então, você tem o nosso jovem, ou talvez os bastardos estejam mortos? Eh?'</nodes>
+      <outputs name="Diga a eles que você precisa de mais tempo. Sair." ownerID="54" targetID="60" fromX="-1032" fromY="-1515" />'Então, você tem o nosso jovem, ou talvez os bastardos estejam mortos? Eh?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="55" positionX="-1974" positionY="-544" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -1494,7 +1494,11 @@
       </logic>
       <outputs name="Vá embora." ownerID="59" targetID="39" fromX="7703" fromY="2039" />
       <outputs name="Tente convencê-lo a ficar com você." ownerID="59" targetID="41" fromX="7703" fromY="1959" />
-      <outputs name="Pergunte sobre os demônios desaparecidos." ownerID="59" targetID="30" fromX="7703" fromY="1879" />'Eu nunca poderia recusar um rostinho bonito... foi isso que me meteu nessa confusão, eu acho. Ainda assim, nunca se aprende, parece. Aqui está minha recompensa, e adeus, meu amável amigo. Se alguma vez você vier ao meu lago, por favor visite. E fique longe da luz miserável!' Your time together was great, but later you find yourself feeling a bit fishy...</nodes>
+      <outputs name="Pergunte sobre os demônios desaparecidos." ownerID="59" targetID="30" fromX="7703" fromY="1879" />'Eu nunca poderia recusar um rostinho bonito... foi isso que me colocou nessa confusão, eu acho. Ainda assim, nunca se aprende, parece.
+
+Aqui está minha recompensa, e adeus, meu amável amigo. Se alguma vez você vier ao meu lago, por favor visite. E fique longe da luz miserável!'
+
+Seu tempo juntos foi ótimo, mas depois você se sente um pouco suspeito...</nodes>
     <nodes xsi:type="NodeAdventure" ID="60" positionX="6968" positionY="2300" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -1519,7 +1523,11 @@
       </logic>
       <outputs name="Agradeça a ele e vá embora." ownerID="60" targetID="39" fromX="7293" fromY="1808" />
       <outputs name="Tente convencê-lo a ficar com você." ownerID="60" targetID="41" fromX="7293" fromY="1728" />
-      <outputs name="Pergunte sobre os demônios desaparecidos." ownerID="60" targetID="30" fromX="7293" fromY="1648" />'Eu nunca poderia recusar um rostinho bonito... foi isso que me meteu nessa confusão, eu acho. Ainda assim, nunca se aprende, parece. Aqui está minha recompensa, e adeus, meu amável amigo. Se alguma vez você vier ao meu lago, por favor visite. E fique longe da luz miserável!' Your time together proved magical, and you feel your destiny strengthened by it.</nodes>
+      <outputs name="Pergunte sobre os demônios desaparecidos." ownerID="60" targetID="30" fromX="7293" fromY="1648" />'Eu nunca poderia recusar um rostinho bonito... foi isso que me colocou nessa confusão, eu acho. Ainda assim, nunca se aprende, parece.
+
+Aqui está minha recompensa, e adeus, meu amável amigo. Se alguma vez você vier ao meu lago, por favor visite. E fique longe da luz miserável!'
+
+Seu tempo juntos provou ser mágico, e você sente seu destino fortalecido por isso.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="62" positionX="7759" positionY="2292" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="62" targetID="59" group="G1" fromX="8188" fromY="1903" />
       <outputs ownerID="62" targetID="60" group="G1" fromX="8188" fromY="1823" />
@@ -1589,13 +1597,13 @@
       <outputs name="Escolha Magia e Natureza para Horz." ownerID="8" targetID="65" fromX="2340" fromY="371" />
       <outputs name="Escolha Natureza, Magia e Intelecto para Nyia." ownerID="8" targetID="55" fromX="2340" fromY="291" />
       <outputs name="Escolha Turmoil, Nature e Light para Triglav." ownerID="8" targetID="60" fromX="2340" fromY="211" />
-      <outputs name="Escolha a Natureza, dupla e turbulenta, para Mokosh." ownerID="8" targetID="71" fromX="2340" fromY="131" />Six stones lie before you, floating in the air. 
-One is smooth and black with a single rune glowing on it.
-One is rough, uncut, woven in green vine.
-One is made of red ruby and shaped into a heart.
-One is square and seems to have rows of words written upon it.
-One is sharp, hot and red with blood.
-One is made of glass that reflects a single ray of sunlight, even here. You know each stone speaks to the divine domains, and you know approaching them will guide you to your deity.</nodes>
+      <outputs name="Escolha a Natureza, dupla e turbulenta, para Mokosh." ownerID="8" targetID="71" fromX="2340" fromY="131" />Seis pedras estão diante de você, flutuando no ar.
+Um é liso e preto com uma única runa brilhando nele.
+Um é áspero, sem cortes, tecido em videira verde.
+Um é feito de rubi vermelho e em forma de coração.
+Um é quadrado e parece ter fileiras de palavras escritas nele.
+Um é afiado, quente e vermelho de sangue.
+Um é feito de vidro que reflete um único raio de sol, mesmo aqui. Você sabe que cada pedra fala com os domínios divinos e sabe que se aproximar delas o guiará para sua divindade.</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2456" positionY="1557" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -1872,8 +1880,8 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="75" positionX="7299" positionY="-398" width="350" height="805">
       <outputs name="Peça mais informaçoes." ownerID="75" targetID="14" fromX="7624" fromY="-889" />
-      <outputs name="Aceite seus lances." ownerID="75" targetID="15" fromX="7624" fromY="-969" />'The mark of the earth is heavy.
-You must adhere to the laws of nature, the eternal balance of all life, and yet, when needed you must not be afraid to take arms, to destroy your enemy without mercy. You must be my sapling, for the land will soon shatter into oblivion.'
+      <outputs name="Aceite seus lances." ownerID="75" targetID="15" fromX="7624" fromY="-969" />'A marca da terra é pesada.
+Você deve aderir às leis da natureza, ao equilíbrio eterno de toda a vida e, no entanto, quando necessário, não deve ter medo de pegar em armas, destruir seu inimigo sem piedade. Você deve ser meu rebento, pois a terra logo cairá no esquecimento.
 </nodes>
   </Adventure>
   <Adventure name="WhispsMist1" uniqueID="17" allowOnce="true" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="45" eventTag="TAG-MAINLOGBOOK1" joinIsForced="true" joinType="AllAlly" joinRange="MovementArea">
@@ -2348,7 +2356,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
       <outputs name="Sim." ownerID="33" targetID="9" fromX="595" fromY="-3077" />
       <outputs name="Não." ownerID="33" targetID="34" fromX="595" fromY="-3157" />Os mercenários bateram muito em você, e o homem que você tentou matar fala: 'Eu sou chamado de Alquimista, uma espécie de estudioso. Eu estive esperando por você, embora admita que esperava menos tumulto. Ainda. Podemos conversar agora?</nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="717" positionY="-3025" width="350" height="725">
-      <outputs name="The mercenaries continue to point weapons at you. Continue ouvindo." ownerID="34" targetID="35" fromX="1042" fromY="-3516" />'Tudo bem, tudo bem, um monólogo, então, enquanto eu tenho toda a sua atenção. Estou procurando o começo de tudo, o catalisador, ou o culpado, o que quer que eu encontre. E eu estou perto. Mas preciso fazer mediçoes dentro de uma caverna, e ela parece ocupada por bandidos... uma grande coorte, desinteressada no destino do mundo, entende?</nodes>
+      <outputs name="Os mercenários continuam apontando armas para você. Continue ouvindo." ownerID="34" targetID="35" fromX="1042" fromY="-3516" />'Tudo bem, tudo bem, um monólogo, então, enquanto eu tenho toda a sua atenção. Estou procurando o começo de tudo, o catalisador, ou o culpado, o que quer que eu encontre. E eu estou perto. Mas preciso fazer mediçoes dentro de uma caverna, e ela parece ocupada por bandidos... uma grande coorte, desinteressada no destino do mundo, entende?</nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="1119" positionY="-3021" width="350" height="725">
       <outputs name="Sair." ownerID="35" targetID="36" fromX="1444" fromY="-3512" />'E então, resumindo, vou marcar a localização dos ditos bandidos para você, e se você optar por salvar o mundo, por favor, faça com que eles me deixem entrar na caverna vermelha. Agora, lá vou eu, e tento não morrer antes de servir a um propósito - quero dizer, esses nem são mercenários caros...' Ele sai com seus homens.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="36" positionX="1565" positionY="-3207" width="480" height="503" radius="5" settlementID="SET-BANDITS_LAIR" destroyOwner="false" linkedEventUniqueID="19">
@@ -2993,7 +3001,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
       <outputs name="[Mentira] Nós matamos os catadores." ownerID="71" targetID="104" fromX="-2805" fromY="-728" />
       <outputs name="Pergunte se você pode comprar um prisioneiro, a criança lixeira. Afinal, você já fez um favor aos bandidos." ownerID="71" targetID="77" fromX="-2805" fromY="-808" />'Aquilo novamente. Claro, conseguimos alguns prisioneiros de vez em quando.</nodes>
     <nodes xsi:type="NodeAdventure" ID="72" positionX="-4897" positionY="-668" width="350" height="805">
-      <outputs name="Não. Say you will come back when the deed is done. Sair." ownerID="72" targetID="34" fromX="-4571" fromY="-1159" />
+      <outputs name="Não. Diga que você voltará quando a ação estiver concluída. Sair." ownerID="72" targetID="34" fromX="-4571" fromY="-1159" />
       <outputs name="[Mentira] Na verdade, nós já matamos os catadores." ownerID="72" targetID="104" fromX="-4571" fromY="-1239" />— Bah, você e suas perguntas intrometidas. Acho que às vezes somos. Não como regra, mas se temos muitos patifes, nós os trocamos, com certeza. O que for bom para os negócios.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="74" positionX="-4437" positionY="-618" width="350" height="805">
@@ -4089,7 +4097,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="47" positionX="3066" positionY="1432" width="350" height="805">
       <outputs name="Convença-os de que você é um amigo e peça-lhes que lhe digam mais." ownerID="47" targetID="48" fromX="3391" fromY="940" />
-      <outputs name="You came here to do a job, kin or no kin. Ataque!" ownerID="47" targetID="53" fromX="3391" fromY="860" />— Você é parente, mas não somos nós. Diremos apenas que entre a luz que nos queima vivos e os bandidos bastardos importunando nosso povo, tornamos este lugar seguro e não vamos embora.</nodes>
+      <outputs name="Você veio aqui para fazer um trabalho, com ou sem parentes. Ataque!" ownerID="47" targetID="53" fromX="3391" fromY="860" />— Você é parente, mas não somos nós. Diremos apenas que entre a luz que nos queima vivos e os bandidos bastardos importunando nosso povo, tornamos este lugar seguro e não vamos embora.</nodes>
     <nodes xsi:type="NodeChallenge" ID="48" positionX="3506" positionY="1460" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-KARAKANDZAS_4P_3M_2S" challengeScale="200" challengedList="ppl">
       <outputs name="Win" ownerID="48" targetID="49" fromX="3947" fromY="964" />
       <outputs name="Lose" ownerID="48" targetID="50" fromX="3947" fromY="884" />
@@ -4301,7 +4309,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="503" positionY="-745" width="350" height="1046">
       <outputs name="Pergunte se você pode ajudar." ownerID="2" targetID="3" fromX="828" fromY="-1236" />
-      <outputs name="[Runemaster]Aceno com a cabeça. Bloodstones are a rarity and even you do not know much about them. Say that you will need to consult your kin, and an elder one at that. " ownerID="2" targetID="4" group="G1" fromX="828" fromY="-1316" />
+      <outputs name="[Runemaster]Aceno com a cabeça. Pedras de sangue são uma raridade e mesmo você não sabe muito sobre elas. Diga que você precisará consultar seus parentes, e um mais velho." ownerID="2" targetID="4" group="G1" fromX="828" fromY="-1316" />
       <outputs name="[Elf] Acrescente que você também sente uma impressão esmagadora de luz aqui, e a fonte parece residir em algum lugar muito mais profundo. Você realmente precisará do conselho de um ancião - um anão servirá. Mas um mestre de parentes mais velhos certamente se sairá ainda melhor." ownerID="2" targetID="5" fromX="828" fromY="-1396" />
       <outputs name="[Anão] Admita que isso está além de sua própria compreensão de pedra, e você precisará de um velho mestre de pedra para lhe dizer mais." ownerID="2" targetID="27" group="G1" fromX="828" fromY="-1476" />
       <outputs name="Peça a ele para lhe contar tudo isso rápido. [Pular história]" ownerID="2" targetID="91" fromX="828" fromY="-1556" />'Fascinante. Já ouvi falar dessas coisas. Claro, inanimado ainda vivo não é uma coisa de mito em Slavya, não, mas nesta escala? Esta caverna, tem resíduos de grande poder, mas também ecos de vida. Infelizmente, admito, preciso de ajuda para resolver isso.</nodes>
@@ -4354,7 +4362,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
       <outputs name="[Orc ou força] Force-o a abrir." ownerID="9" targetID="10" fromX="2250" fromY="459" />
       <outputs name="[Usuários de magia]Examine esta barreira." ownerID="9" targetID="17" fromX="2250" fromY="379" />
       <outputs name="[Anão ou goblin]Procure nesta entrada por um mecanismo." ownerID="9" targetID="19" fromX="2250" fromY="299" />
-      <outputs name="You need someone strong, a magic user or a dwarf or goblin to figure this one out. Volte mais tarde. " ownerID="9" targetID="28" fromX="2250" fromY="219" />O estudioso leva seu tempo para estudar a membrana, então fala: 'Está além de mim por enquanto. Mas as amostras me dizem que é infundido com magia antiga, mas ao mesmo tempo é orgânico. Estranho, muito estranho. Eu vejo duas maneiras. Podemos trabalhar em uma solução mística ou, bem, destruí-la.</nodes>
+      <outputs name="Você precisa de alguém forte, um usuário de magia ou um anão ou goblin para descobrir isso. Volte mais tarde. " ownerID="9" targetID="28" fromX="2250" fromY="219" />O estudioso leva seu tempo para estudar a membrana, então fala: 'Está além de mim por enquanto. Mas as amostras me dizem que é infundido com magia antiga, mas ao mesmo tempo é orgânico. Estranho, muito estranho. Eu vejo duas maneiras. Podemos trabalhar em uma solução mística ou, bem, destruí-la.</nodes>
     <nodes xsi:type="NodeChallenge" ID="10" positionX="2343" positionY="1105" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="400" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -4486,7 +4494,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="-521" positionY="-363" width="350" height="1046" image="Event230">
-      <outputs name="Sim. Tell him that he knows full well that  you rescued the dwarf. " ownerID="33" targetID="39" fromX="-195" fromY="-854" />
+      <outputs name="Sim. Diga a ele que ele sabe muito bem que você resgatou o anão. " ownerID="33" targetID="39" fromX="-195" fromY="-854" />
       <outputs name="Not yet. Sair." ownerID="33" targetID="42" fromX="-195" fromY="-934" />
       <outputs name="Diga a ele que você ganhou um novo coração, feito por um feiticeiro dos últimos gigantes restantes." ownerID="33" targetID="40" fromX="-195" fromY="-1014" />
       <outputs name="Diga que você concordou com uma aliança com os elfos. Eles devem chegar aqui em breve." ownerID="33" targetID="43" fromX="-195" fromY="-1094" />
@@ -4494,7 +4502,7 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
     <nodes xsi:type="NodeAdventure" ID="36" positionX="1716" positionY="-2076" width="350" height="725">
       <outputs name="Agradeça a ele pela ajuda e vá procurar o especialista." ownerID="36" targetID="30" fromX="2041" fromY="-2567" />— Caso contrário, conheço um lugar, mas será uma questão de força bruta e provavelmente muito mais difícil. Um ferreiro anão de grande renome é mantido em cativeiro por trolls. Acontece que eu sei onde. Vá, liberte-o, e ele terá a honra de ajudá-lo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="1220" positionY="-2214" width="350" height="725">
-      <outputs name="Say that you've been out of touch with your kin for a time. Pergunte onde procurar esses especialistas." ownerID="37" targetID="29" fromX="1545" fromY="-2705" />'Fascinante, obrigado por compartilhar seu conhecimento, amigo. E sim, isso me deixa ainda mais certo de que precisamos da experiência dos anoes aqui. Por favor, vá encontrar um mestre em runas.'</nodes>
+      <outputs name="Diga que você esteve fora de contato com seus parentes por um tempo. Pergunte onde procurar esses especialistas." ownerID="37" targetID="29" fromX="1545" fromY="-2705" />'Fascinante, obrigado por compartilhar seu conhecimento, amigo. E sim, isso me deixa ainda mais certo de que precisamos da experiência dos anoes aqui. Por favor, vá encontrar um mestre em runas.'</nodes>
     <nodes xsi:type="NodeAdventureEnd" allowOnce="true" ID="39" positionX="-930" positionY="-236" width="350" height="530" linkedEventUniqueID="37">
       <logic>
         <FilterBlock>
@@ -4515,9 +4523,9 @@ You must adhere to the laws of nature, the eternal balance of all life, and yet,
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Agradeça a ele e vá embora." ownerID="40" targetID="41" fromX="-733" fromY="-1304" />'I see, a mroki, you say. Yes, I read somewhere that they were indeed giants once. Still . . .'
+      <outputs name="Agradeça a ele e vá embora." ownerID="40" targetID="41" fromX="-733" fromY="-1304" />— Entendo, um mroki, você diz. Sim, li em algum lugar que eles já foram gigantes. Ainda . . .'
  
-He looks at you for a moment, then nods: 'You are the champions. It is and always will be your choice. I have found the entrance to the earth-cave where you must place the heart. Good luck!'</nodes>
+Ele olha para você por um momento, depois acena com a cabeça: 'Vocês são os campeões. É e sempre será sua escolha. Encontrei a entrada para a caverna da terra onde você deve colocar o coração. Boa sorte!'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="41" positionX="-1796" positionY="-568" width="480" height="503" radius="3" settlementID="SET-CAVE_RED" destroyOwner="true" linkedEventUniqueID="44">
       <logic>
         <ModifierBlock>
@@ -4739,7 +4747,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs name="[Orc ou força] Force-o a abrir." ownerID="85" targetID="10" fromX="876" fromY="-172" />
       <outputs name="[Usuários de magia]Examine esta barreira." ownerID="85" targetID="17" fromX="876" fromY="-252" />
       <outputs name="[Anão ou goblin]Procure nesta entrada por um mecanismo." ownerID="85" targetID="19" fromX="876" fromY="-332" />
-      <outputs name="You need someone strong, a magic user or a dwarf or goblin to figure this one out. Volte mais tarde. " ownerID="85" targetID="28" fromX="876" fromY="-412" />'Você está de volta. Não tenho novos insights. Eu vejo duas maneiras. Podemos trabalhar em uma solução mística ou, bem, destruí-la.
+      <outputs name="Você precisa de alguém forte, um usuário de magia ou um anão ou goblin para descobrir isso. Volte mais tarde. " ownerID="85" targetID="28" fromX="876" fromY="-412" />'Você está de volta. Não tenho novos insights. Eu vejo duas maneiras. Podemos trabalhar em uma solução mística ou, bem, destruí-la.
 </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="86" positionX="-913" positionY="388" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="86" targetID="87" fromX="-464" fromY="-44" />
@@ -5892,7 +5900,9 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="51" targetID="21" fromX="1294" fromY="-221" />You aren't called a beast master for nothing. You scare the bees away. Um batedor do vilarejo estava observando você e se aproxima: 'Que se dane. Você os afugentou. Maravilhoso! Tome isto como agradecimento.</nodes>
+      <outputs name="Sair." ownerID="51" targetID="21" fromX="1294" fromY="-221" />Você não é chamado de mestre das feras à toa. Você assusta as abelhas. Um batedor aldeão estava observando você e se aproxima:
+
+— Maldito seja. Você os afugentou. Maravilhoso! Tome isto como agradecimento.</nodes>
   </Adventure>
   <Adventure name="SlavKillsmallGoblins" uniqueID="32" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="53" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event016">
@@ -5936,7 +5946,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
         </FilterBlock>
       </logic>
       <outputs name="Cerque os goblins e faça sua presença ser conhecida." ownerID="3" targetID="26" fromX="1495" fromY="471" />
-      <outputs name="You have the advantage. Ataque!" ownerID="3" targetID="7" fromX="1495" fromY="391" />Você rastreia os goblins até uma pequena abertura onde eles montaram um acampamento. Parece mais um assentamento itinerante do que uma vila, como os eslavos sugeriram, mas de fato há muitos goblins aqui. Felizmente para você, apenas alguns têm armas prontas.</nodes>
+      <outputs name="Você tem a vantagem. Ataque!" ownerID="3" targetID="7" fromX="1495" fromY="391" />Você rastreia os goblins até uma pequena abertura onde eles montaram um acampamento. Parece mais um assentamento itinerante do que uma vila, como os eslavos sugeriram, mas de fato há muitos goblins aqui. Felizmente para você, apenas alguns têm armas prontas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1961.4043" positionY="-94.85879" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -6126,7 +6136,9 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="40" targetID="44" fromX="6371" fromY="925" />Os eslavos estão satisfeitos com sua ajuda e oferecem uma pequena recompensa.for your services.</nodes>
+      <outputs name="Sair." ownerID="40" targetID="44" fromX="6371" fromY="925" />Os eslavos não estão muito felizes com sua 'solução', mas no final, eles cumprem suas promessas e deixam os goblins se curarem antes de partirem.
+
+Os aldeões deixam uma pequena recompensa por seus serviços.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="41" positionX="2501.666" positionY="915.2528" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="10" maxDamage="30" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="41" targetID="23" fromX="2930" fromY="526" />
     </nodes>
@@ -6389,7 +6401,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="You see a rat lurking. Aproxime-se." ownerID="18" targetID="20" group="G1" fromX="3949" fromY="-549" />
+      <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="18" targetID="20" group="G1" fromX="3949" fromY="-549" />
       <outputs name="Sair." ownerID="18" targetID="21" group="G1" fromX="3949" fromY="-630" />Você monta as armadilhas e se livra dos vermes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="19" positionX="1568" positionY="-18" width="460" height="429" sourceGroup="GROUP-RATS_1P_1M_1S" dropPercentage="100">
       <outputs ownerID="19" targetID="18" fromX="1998" fromY="-376" />
@@ -6576,7 +6588,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="You see a rat lurking. Aproxime-se." ownerID="49" targetID="20" group="G1" fromX="2600" fromY="-2368" />
+      <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="49" targetID="20" group="G1" fromX="2600" fromY="-2368" />
       <outputs name="Sair." ownerID="49" targetID="21" group="G1" fromX="2600" fromY="-2448" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="2745" positionY="-2323" width="350" height="805">
       <logic>
@@ -6595,7 +6607,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="You see a rat lurking. Aproxime-se." ownerID="50" targetID="20" group="G1" fromX="3070" fromY="-2814" />
+      <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="50" targetID="20" group="G1" fromX="3070" fromY="-2814" />
       <outputs name="Sair." ownerID="50" targetID="21" group="G1" fromX="3070" fromY="-2894" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="3760" positionY="-1242" width="350" height="805">
       <logic>
@@ -6614,7 +6626,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="You see a rat lurking. Aproxime-se." ownerID="51" targetID="20" group="G1" fromX="4085" fromY="-1733" />
+      <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="51" targetID="20" group="G1" fromX="4085" fromY="-1733" />
       <outputs name="Sair." ownerID="51" targetID="21" group="G1" fromX="4085" fromY="-1813" />Os ratos ouvem e fogem da aldeia. Natureza e harmonia são satisfeitas por suas açoes. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="-553" positionY="-169" width="350" height="841">
       <logic>
@@ -6647,7 +6659,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="You see a rat lurking. Aproxime-se." ownerID="53" targetID="20" group="G1" fromX="1266" fromY="-2039" />
+      <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="53" targetID="20" group="G1" fromX="1266" fromY="-2039" />
       <outputs name="Sair." ownerID="53" targetID="21" group="G1" fromX="1266" fromY="-2120" />Os aldeoes agradecem por limpar o ninho e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="54" positionX="1465.62891" positionY="-3139.79785" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="90" maxDamage="100" useCountInPercent="true" targetGroup="rats">
       <outputs ownerID="54" targetID="39" fromX="1894" fromY="-3528" />
@@ -6680,7 +6692,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="You see a rat lurking. Aproxime-se." ownerID="57" targetID="20" group="G1" fromX="1940" fromY="716" />
+      <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="57" targetID="20" group="G1" fromX="1940" fromY="716" />
       <outputs name="Sair." ownerID="57" targetID="21" group="G1" fromX="1940" fromY="636" />O ninho está limpo. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="58" positionX="-1166.83789" positionY="-790.8488" width="350" height="681">
       <logic>
@@ -6755,7 +6767,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="You see a rat lurking. Aproxime-se." ownerID="63" targetID="20" group="G1" fromX="2418" fromY="-1469" />
+      <outputs name="Você vê um rato à espreita. Aproxime-se." ownerID="63" targetID="20" group="G1" fromX="2418" fromY="-1469" />
       <outputs name="Sair." ownerID="63" targetID="21" group="G1" fromX="2418" fromY="-1549" />Os ratos seguem a melodia e se afogam. Os aldeoes agradecem e lhe dão uma recompensa.</nodes>
   </Adventure>
   <Adventure name="SlavKillsmallScav" uniqueID="34" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="50" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -7681,7 +7693,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Leve o anão de volta para a caverna vermelha." ownerID="56" targetID="71" fromX="11068" fromY="-571" />The creatures look at you with mistrust - clearly dwarven oaths are not especially worthy to them. But they accept nonetheless. Ao proferir as palavras da promessa, você sente seu peso antinatural e sabe que não são mero enunciado. Você agora está vinculado por um acordo demoníaco. Você não sabe a consequência de quebrá-la, mas haverá uma.</nodes>
+      <outputs name="Leve o anão de volta para a caverna vermelha." ownerID="56" targetID="71" fromX="11068" fromY="-571" />As criaturas olham para você com desconfiança - claramente os juramentos dos anões não são especialmente dignos para eles. Mas eles aceitam mesmo assim. Ao proferir as palavras da promessa, você sente seu peso antinatural e sabe que não são mero enunciado. Você agora está vinculado por um acordo demoníaco. Você não sabe a consequência de quebrá-la, mas haverá uma.</nodes>
     <nodes xsi:type="NodeAdventure" ID="57" positionX="9145" positionY="-1766" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -8607,7 +8619,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="You did your best. Sair." ownerID="15" targetID="31" fromX="2991" fromY="-1916" />Você encontra um local para deixar o filhote, mas não tem certeza se os selvagens notaram. Na verdade, você os vê saindo e, quando tenta encontrar o filhote novamente, vê apenas uma concha quebrada e algumas pegadas de esquilo.</nodes>
+      <outputs name="Você fez o seu melhor. Sair." ownerID="15" targetID="31" fromX="2991" fromY="-1916" />Você encontra um local para deixar o filhote, mas não tem certeza se os selvagens notaram. Na verdade, você os vê saindo e, quando tenta encontrar o filhote novamente, vê apenas uma concha quebrada e algumas pegadas de esquilo.</nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="1407" positionY="-1787" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_5M_0S" challengeScale="500" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -8815,7 +8827,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1392" positionY="201" width="350" height="725">
       <outputs name="Existe uma maneira de chegar até ele com segurança?" ownerID="4" targetID="5" fromX="1717" fromY="-290" />— Ah, a árvore druida e sua história triste, sim. Ele caiu profundamente em um abismo de pura escuridão. Lá permanece, resistente à mudança, mas incapaz de ser livre. Nem nós chegamos perto disso.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1814" positionY="131" width="350" height="725">
-      <outputs name="Vá encontrar a árvore druida." ownerID="5" targetID="7" fromX="2139" fromY="-360" />'Safely? Não. But there are ways. We have been watching it, for it interests us how this ancient thing can withstand the call of the dark when we could not. Do we watch it out of spite, or shame? Both, maybe? We are not bothered if you wish to "rescue" it. Go ahead.'</nodes>
+      <outputs name="Vá encontrar a árvore druida." ownerID="5" targetID="7" fromX="2139" fromY="-360" />'Com segurança? Não. Mas existem maneiras. Temos observado isso, pois nos interessa como essa coisa antiga pode resistir ao chamado da escuridão quando nós não conseguimos. Assistimos por despeito ou vergonha? Ambos, talvez? Não nos incomodamos se você deseja "resgatá-lo". Vá em frente.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="230" positionY="-1124" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-MROKI_MIX_6P_5M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="14" fromX="671" fromY="-1619" />
       <outputs name="Lose" ownerID="6" targetID="41" fromX="671" fromY="-1699" />
@@ -9410,7 +9422,7 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs name="Diga que eles podem ajudar agora, dando a vida para fazer um novo coração." ownerID="4" targetID="5" fromX="1694" fromY="-632" />'Esta câmara já foi a única maneira de entrar no peito da terra, não importa onde você entrou ou que outro caminho você achou que encontrou. Mas quando os gigantes acordaram, a terra mudou e alguns malditos traidores se aproveitaram! Eles se infiltraram, nos contornaram e quebraram o coração bem debaixo de nossos narizes. Não havia nada que pudéssemos fazer. Nada . . .'</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1824" positionY="-355" width="350" height="1046">
       <outputs name="Ataque!" ownerID="5" targetID="6" fromX="2149" fromY="-846" />
-      <outputs name="[Magic user]If they are spirits, you can defeat them in a mystical battle. Ataque!" ownerID="5" targetID="13" fromX="2149" fromY="-926" />
+      <outputs name="[Usuário de magia] Se eles são espíritos, você pode derrotá-los em uma batalha mística. Ataque!" ownerID="5" targetID="13" fromX="2149" fromY="-926" />
       <outputs name="[Mestre de Runas] Diga a eles que seus juramentos exigem obediência aos mestres de runas. Ordene-lhes que se afastem e desistam de sua essência de vida para honrar o código da pedra!" ownerID="5" targetID="12" fromX="2149" fromY="-1006" />
       <outputs name="[Luz] Peça aos heróis antigos para fazer a coisa certa. Isso é uma afronta à verdadeira Luz e, como servos do domínio, todos vocês devem fazer sua parte!" ownerID="5" targetID="15" fromX="2149" fromY="-1086" />
       <outputs name="[Intelecto] Em nome do intelecto, mostre que o dever deles só pode ser cumprido se eles cederem pacificamente e ajudarem em sua busca." ownerID="5" targetID="16" fromX="2149" fromY="-1166" />— Se pudéssemos. Estamos aqui, animados, mas somos espíritos de pedra e metal. Nós perseveramos, ficamos de guarda, mas não podemos perder nossas vidas mesmo que seja o que desejamos, escolhidos dos jovens deuses. Você faz o que deve. Você faz o que precisa ser feito!</nodes>
@@ -9487,7 +9499,11 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="12" targetID="10" fromX="2882" fromY="-1441" />They bow before you: 'Obrigada . . . vá, faça certo. . .' As estátuas de pedra e metal desmoronam, e você coleta as cinzas translúcidas para o grande mestre. </nodes>
+      <outputs name="Sair." ownerID="12" targetID="10" fromX="2882" fromY="-1441" />Eles se curvam diante de você:
+
+'Obrigada . . . vá, faça certo. . .'
+
+As estátuas de pedra e metal desmoronam, e você coleta as cinzas translúcidas para o grande mestre.</nodes>
     <nodes xsi:type="NodeChallenge" ID="13" positionX="3059" positionY="-894" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-Q_DWAR_GUARD_7P_7M_7S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="13" targetID="14" fromX="3500" fromY="-1389" />
       <outputs name="Lose" ownerID="13" targetID="8" fromX="3500" fromY="-1469" />
@@ -10054,8 +10070,8 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       </logic>
       <outputs name="Pergunte ao Alquimista e aos elfos o que acontece agora." ownerID="47" targetID="48" fromX="-2772" fromY="-2104" />Nai-ysir acena com a cabeça, mas você vê o terror em seu rosto enquanto seus parentes caem um por um: 'Eu. . . Eu provavelmente estava protegido pela proximidade com você e seus deuses. Vamos terminar isso, por favor.</nodes>
     <nodes xsi:type="NodeAdventure" ID="48" positionX="-2153" positionY="-2071" width="350" height="805">
-      <outputs name="Aceno com a cabeça. Ask if he will stay with you." ownerID="48" targetID="49" group="G1" fromX="-1827" fromY="-2562" />
-      <outputs name="Aceno com a cabeça. Ask if he will stay with you." ownerID="48" targetID="50" group="G1" fromX="-1827" fromY="-2642" />Os elfos não falam, mas o Alquimista se volta para você: 'O preço foi alto, mas justo. Os portadores da luz devem ser enfraquecidos imediatamente e, com o tempo, a Fragmentação deve diminuir. Por enquanto, você fez isso. Vamos deixar este lugar e dar espaço aos elfos.'</nodes>
+      <outputs name="Aceno com a cabeça. Pergunte se ele vai ficar com você." ownerID="48" targetID="49" group="G1" fromX="-1827" fromY="-2562" />
+      <outputs name="Aceno com a cabeça. Pergunte se ele vai ficar com você." ownerID="48" targetID="50" group="G1" fromX="-1827" fromY="-2642" />Os elfos não falam, mas o Alquimista se volta para você: 'O preço foi alto, mas justo. Os portadores da luz devem ser enfraquecidos imediatamente e, com o tempo, a Fragmentação deve diminuir. Por enquanto, você fez isso. Vamos deixar este lugar e dar espaço aos elfos.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="49" positionX="-1682" positionY="-2170" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -13683,13 +13699,13 @@ He looks at you for a moment, then nods: 'You are the champions. It is and alway
       <outputs name="Escolha Magia e Turbulência para Zorya." ownerID="8" targetID="48" fromX="2340" fromY="451" />
       <outputs name="Escolha Magia e Natureza para Horz." ownerID="8" targetID="65" fromX="2340" fromY="371" />
       <outputs name="Escolha Natureza, Magia e Intelecto para Nyia." ownerID="8" targetID="55" fromX="2340" fromY="291" />
-      <outputs name="Escolha Turmoil, Nature e Light para Triglav." ownerID="8" targetID="60" fromX="2340" fromY="211" />Six stones lie before you, floating in the air. 
-One is smooth and black with a single rune glowing on it.
-One is rough, uncut, woven in green vine.
-One is made of red ruby and shaped into a heart.
-One is square and seems to have rows of words written upon it.
-One is sharp, hot and red with blood.
-One is made of glass that reflects a single ray of sunlight, even here. You know each stone speaks to the divine domains, and you know approaching them will guide you to your deity.</nodes>
+      <outputs name="Escolha Turmoil, Nature e Light para Triglav." ownerID="8" targetID="60" fromX="2340" fromY="211" />Seis pedras estão diante de você, flutuando no ar.
+Um é liso e preto com uma única runa brilhando nele.
+Um é áspero, sem cortes, tecido em videira verde.
+Um é feito de rubi vermelho e em forma de coração.
+Um é quadrado e parece ter fileiras de palavras escritas nele.
+Um é afiado, quente e vermelho de sangue.
+Um é feito de vidro que reflete um único raio de sol, mesmo aqui. Você sabe que cada pedra fala com os domínios divinos e sabe que se aproximar delas o guiará para sua divindade.</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2456" positionY="1557" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -14080,7 +14096,7 @@ One is made of glass that reflects a single ray of sunlight, even here. You know
       <outputs name="Sim." ownerID="33" targetID="9" fromX="595" fromY="-3077" />
       <outputs name="Não." ownerID="33" targetID="34" fromX="595" fromY="-3157" />Os mercenários bateram muito em você, e o homem que você tentou matar fala: 'Eu sou chamado de Alquimista, uma espécie de estudioso. Eu estive esperando por você, embora admita que esperava menos tumulto. Ainda. Podemos conversar agora?</nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="717" positionY="-3025" width="350" height="725">
-      <outputs name="The mercenaries continue to point weapons at you. Continue ouvindo." ownerID="34" targetID="35" fromX="1042" fromY="-3516" />'Tudo bem, tudo bem, um monólogo, então, enquanto eu tenho toda a sua atenção. Estou procurando o começo de tudo, o catalisador, ou o culpado, o que quer que eu encontre. E eu estou perto. Mas preciso fazer mediçoes dentro de uma caverna, e ela parece ocupada por bandidos... uma grande coorte, desinteressada no destino do mundo, entende?</nodes>
+      <outputs name="Os mercenários continuam apontando armas para você. Continue ouvindo." ownerID="34" targetID="35" fromX="1042" fromY="-3516" />'Tudo bem, tudo bem, um monólogo, então, enquanto eu tenho toda a sua atenção. Estou procurando o começo de tudo, o catalisador, ou o culpado, o que quer que eu encontre. E eu estou perto. Mas preciso fazer mediçoes dentro de uma caverna, e ela parece ocupada por bandidos... uma grande coorte, desinteressada no destino do mundo, entende?</nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="1119" positionY="-3021" width="350" height="725">
       <outputs name="Sair." ownerID="35" targetID="36" fromX="1444" fromY="-3512" />'E então, resumindo, vou marcar a localização dos ditos bandidos para você, e se você optar por salvar o mundo, por favor, faça com que eles me deixem entrar na caverna vermelha. Agora, lá vou eu, e tento não morrer antes de servir a um propósito - quero dizer, esses nem são mercenários caros...' Ele sai com seus homens.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="36" positionX="1565" positionY="-3207" width="480" height="503" radius="5" settlementID="SET-BANDITS_LAIR" destroyOwner="false" linkedEventUniqueID="19">

@@ -345,7 +345,9 @@
         </FilterBlock>
       </logic>
       <outputs name="Defenda-se!" ownerID="7" targetID="14" fromX="-269" fromY="-607" />
-      <outputs name="Corre!" ownerID="7" targetID="6" fromX="-269" fromY="-687" />Você encontra um lugar escondido da vista de todos, e dentro de você vê demônios de gelo se reunindo. É difícil chamá-lo de acordo, mas é provável que seja o mais próximo possível de um. They spot you and attack!
+      <outputs name="Corre!" ownerID="7" targetID="6" fromX="-269" fromY="-687" />Você encontra um lugar escondido da vista de todos, e dentro de você vê demônios de gelo se reunindo.
+
+É difícil chamá-lo de acordo, mas é provável que seja o mais próximo que eles chegam de um. Eles localizam você e atacam!
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="3111" positionY="75" width="350" height="725">
       <logic>

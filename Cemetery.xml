@@ -522,7 +522,7 @@
       </logic>
       <outputs name="Sinta as tramas de magia nesta área." ownerID="2" targetID="16" fromX="769" fromY="-335" />
       <outputs name="[Natureza] Esses mortos-vivos desafiam a sabedoria da natureza. Encontre uma maneira de destruí-los." ownerID="2" targetID="18" fromX="769" fromY="-415" />
-      <outputs name="[Unliving] Fale com seus parentes. Talvez eles também estejam despertos e não meramente marionetes de magia negra." ownerID="2" targetID="9" fromX="769" fromY="-495" />
+      <outputs name="[Não vivo] Fale com seus parentes. Talvez eles também estejam despertos e não meramente marionetes de magia negra." ownerID="2" targetID="9" fromX="769" fromY="-495" />
       <outputs name="Ataque!" ownerID="2" targetID="8" fromX="769" fromY="-575" />
       <outputs name="Fugir!" ownerID="2" targetID="53" fromX="769" fromY="-656" />Ao entrar no cemitério, você sente a terra se mover e percebe mãos ossudas saindo do chão!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="-681.9007" positionY="697.4344" width="350" height="455" allPlayersXP="1" linkedEventUniqueID="0" />
@@ -771,9 +771,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bom, vá embora." ownerID="34" targetID="52" fromX="2847" fromY="-2849" />'You, you friend. Friend go, we not tear flesh.'
- 
-The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, nós não rasgamos carne.' Os esqueletos se afastam, mas um fica para trás: 'Você, você não serve mais. Eu, eu te sirvo. Este pode não ser o despertar que você esperava, mas é um primeiro passo. O esqueleto agora serve a você.</nodes>
+      <outputs name="Bom, vá embora." ownerID="34" targetID="52" fromX="2847" fromY="-2849" />— Você, seu amigo. Amigo vá, nós não rasgamos carne.' Os esqueletos se afastam, mas um fica para trás: 'Você, você não serve mais. Eu, eu te sirvo. Este pode não ser o despertar que você esperava, mas é um primeiro passo. O esqueleto agora serve a você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="3503.45459" positionY="-3215.62061" width="350" height="805">
       <outputs name="Apenas deixe este lugar." ownerID="35" targetID="51" fromX="3829" fromY="-3706" />
       <outputs name="Ataque-os!" ownerID="35" targetID="8" fromX="3829" fromY="-3786" />Os esqueletos continuam vindo em sua direção e algumas flechas voam em sua direção. 
@@ -1716,7 +1714,7 @@ The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, 
       </logic>
       <outputs name="[Anão] Dê boas-vindas a seus parentes." ownerID="2" targetID="3" fromX="791" fromY="-514" />
       <outputs name="[Light]Ofereça boas-vindas em nome da luz." ownerID="2" targetID="9" fromX="791" fromY="-595" />
-      <outputs name="[Harmony] Cumprimente os guardas anoes com palavras de paz." ownerID="2" targetID="10" fromX="791" fromY="-675" />
+      <outputs name="[Harmonia] Cumprimente os guardas anoes com palavras de paz." ownerID="2" targetID="10" fromX="791" fromY="-675" />
       <outputs name="Ataque!" ownerID="2" targetID="11" fromX="791" fromY="-755" />
       <outputs name="Convença os guardas a deixá-lo entrar." ownerID="2" targetID="13" fromX="791" fromY="-835" />
       <outputs name="Sair." ownerID="2" targetID="47" fromX="791" fromY="-915" />Você entra na antiga caverna e vê estátuas de anoes, mas entre eles estão vários guardas.</nodes>
@@ -2075,8 +2073,7 @@ The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, 
       <outputs name="Sair." ownerID="13" targetID="38" fromX="2010" fromY="-152" />Há muitos deles - oh, que vergonha! Seu orgulho anão sofre, mas eles eram criaturas de pedra, então talvez fosse para ser.</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="2258" positionY="-280" width="350" height="805">
       <outputs name="Olhe ao redor e tente ajudá-los." ownerID="15" targetID="17" fromX="2583" fromY="-771" />
-      <outputs name="Apenas afaste-os!" ownerID="15" targetID="16" fromX="2583" fromY="-851" />The rockers hear you and look terrified. One of them rolls over to you and cries:
-'You, you small stone people, you help? Me want papa and mamma back. We eat and eat, but can't eat down...' Os roqueiros têm tanto medo de você que rolam sem nenhuma resistência. Há muita pedra aqui que você pode resgatar sem desrespeitar os túmulos.</nodes>
+      <outputs name="Apenas afaste-os!" ownerID="15" targetID="16" fromX="2583" fromY="-851" />Os roqueiros ouvem você e parecem aterrorizados. Um deles rola até você e grita:'Você, seu pequeno povo de pedra, você ajuda? Eu quero papai e mamãe de volta. Nós comemos e comemos, mas não podemos comer...' O roqueiro grita pedrinhas, e os outros se juntam.</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2735.12231" positionY="203.584381" width="350" height="805">
       <outputs name="Abra os portoes para eles." ownerID="17" targetID="18" group="G1" fromX="3060" fromY="-287" />
       <outputs name="Abra os portoes para eles." ownerID="17" targetID="19" group="G1" fromX="3060" fromY="-367" />Você vê grandes portoes de metal no chão. Este é o lugar onde os pequenos pensam que seus pais estão. Como eles ainda não podem mastigar metal, eles tentaram comer por toda parte. Os portoes não são tão difíceis de abrir, mas esses roqueiros são claramente muito jovens para pensar muito.</nodes>
@@ -2107,8 +2104,8 @@ The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, 
     <nodes xsi:type="NodeAdventureEnd" ID="23" positionX="1613.33228" positionY="-3797.13354" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="24" positionX="668.4427" positionY="-1511.163" width="350" height="805">
       <outputs name="Olhe ao redor e tente ajudá-los." ownerID="24" targetID="17" fromX="994" fromY="-2002" />
-      <outputs name="Apenas afaste-os!" ownerID="24" targetID="16" fromX="994" fromY="-2082" />The rockers hear you and look terrified. One of them rolls over to you and cries:
-'You, you small stone people, you help? Me want papa and mamma back. We eat and eat, but can't eat down...' The rocker cries pebbles, and the others join in.</nodes>
+      <outputs name="Apenas afaste-os!" ownerID="24" targetID="16" fromX="994" fromY="-2082" />Os roqueiros ouvem você e parecem aterrorizados. Um deles rola até você e grita:
+'Você, seu pequeno povo de pedra, você ajuda? Eu quero papai e mamãe de volta. Nós comemos e comemos, mas não podemos comer... O roqueiro grita pedrinhas, e os outros se juntam.</nodes>
     <nodes xsi:type="NodeAdventure" ID="25" positionX="1715.99182" positionY="-483.756378" width="350" height="805">
       <outputs name="Ataque!" ownerID="25" targetID="6" fromX="2041" fromY="-974" />
       <outputs name="Bem, é melhor deixar este lugar, mesmo que os ancestrais possam ficar com raiva." ownerID="25" targetID="38" fromX="2041" fromY="-1055" />Os roqueiros ficam ainda mais agitados e violentos, mas não respondem a você. </nodes>
@@ -2674,7 +2671,7 @@ The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, 
       <outputs name="[Bruxa Orc] Ofereça-se para realizar um ritual em vez disso. Isso dará ao espírito poder suficiente para resolver isso sozinho." ownerID="22" targetID="33" group="G1" fromX="3835" fromY="-949" />
       <outputs name="Ofereça-se para realizar um ritual em vez disso. Isso dará ao espírito poder suficiente para resolver isso sozinho." ownerID="22" targetID="30" group="G1" fromX="3835" fromY="-1029" />
       <outputs name="Concorde em entrar e lutar contra os ladroes de túmulos." ownerID="22" targetID="28" fromX="3835" fromY="-1109" />
-      <outputs name="Say that you are sorry, but you will not risk it. Sair." ownerID="22" targetID="56" fromX="3835" fromY="-1189" />'Ladroes de túmulos imundos vieram e contaminaram nossos antepassados. Bastardos sortudos pegaram a pedra da morte antes que eu pudesse acordar completamente. Agora eles estão presos em uma tumba, mas eles seguram minha pedra da morte. Estamos em um impasse.</nodes>
+      <outputs name="Diga que sente muito, mas não vai arriscar. Sair." ownerID="22" targetID="56" fromX="3835" fromY="-1189" />'Ladroes de túmulos imundos vieram e contaminaram nossos antepassados. Bastardos sortudos pegaram a pedra da morte antes que eu pudesse acordar completamente. Agora eles estão presos em uma tumba, mas eles seguram minha pedra da morte. Estamos em um impasse.</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="128.453079" positionY="-1927.062" width="350" height="805">
       <outputs name="Então, o que pode ser feito?" ownerID="24" targetID="22" fromX="454" fromY="-2418" />
       <outputs name="Pedra da Morte?" ownerID="24" targetID="21" fromX="454" fromY="-2498" />'Minha pedra da morte, meu coração... roubado... desaparecido...'</nodes>
@@ -3114,7 +3111,7 @@ The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, 
     <nodes xsi:type="NodeAdventure" ID="45" positionX="-1682.07129" positionY="-145.073456" width="350" height="885">
       <outputs name="[Mestre de Runas] Fale a senha e entre na oficina do ferreiro." ownerID="45" targetID="47" fromX="-1356" fromY="-636" />
       <outputs name="Tente quebrar a mágica que prende esta porta." ownerID="45" targetID="48" fromX="-1356" fromY="-716" />
-      <outputs name="You have no folk skilled enough in mysticism. Sair." ownerID="45" targetID="66" fromX="-1356" fromY="-796" />Você chega a uma porta de metal fechada. Sobre as pedras na parede você vê muitas runas esculpidas profundamente na superfície.</nodes>
+      <outputs name="Você não tem um povo suficientemente habilidoso em misticismo. Sair." ownerID="45" targetID="66" fromX="-1356" fromY="-796" />Você chega a uma porta de metal fechada. Sobre as pedras na parede você vê muitas runas esculpidas profundamente na superfície.</nodes>
     <nodes xsi:type="NodeAdventure" ID="46" positionX="-661.2593" positionY="-576.6762" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -3821,7 +3818,7 @@ The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, 
       <outputs name="Dê uma olhada mais de perto para tentar identificá-lo." ownerID="27" targetID="28" fromX="-896" fromY="-1578" />
       <outputs name="Ataque!" ownerID="27" targetID="33" fromX="-896" fromY="-1658" />
       <outputs name="Deixe estar." ownerID="27" targetID="57" fromX="-896" fromY="-1739" />
-      <outputs name="[Unliving] Você sente uma forma mais fraca do não-vivo aqui. Tente dominá-lo em servidão." ownerID="27" targetID="51" fromX="-896" fromY="-1819" />O cemitério parece ter sido saqueado muitas vezes antes. Há alguns escombros e sujeira. Você também nota uma criatura cavando debaixo de uma das lápides.
+      <outputs name="[Não vivo] Você sente uma forma mais fraca do não-vivo aqui. Tente dominá-lo em servidão." ownerID="27" targetID="51" fromX="-896" fromY="-1819" />O cemitério parece ter sido saqueado muitas vezes antes. Há alguns escombros e sujeira. Você também nota uma criatura cavando debaixo de uma das lápides.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="-794.576843" positionY="-789.0605" width="350" height="966">
       <logic>
@@ -3837,7 +3834,7 @@ The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, 
       <outputs name="Mate eles!" ownerID="28" targetID="33" fromX="-468" fromY="-1280" />
       <outputs name="Atraia-os com um pouco de comida e um pouco do seu sangue. Então saqueie a sepultura que eles estavam cavando." ownerID="28" targetID="48" fromX="-468" fromY="-1360" />
       <outputs name="Sair." ownerID="28" targetID="57" fromX="-468" fromY="-1440" />
-      <outputs name="[Unliving] Você sente uma forma mais fraca do não-vivo aqui. Tente dominá-lo em servidão." ownerID="28" targetID="51" fromX="-468" fromY="-1520" />Estes são vermes sem vida!</nodes>
+      <outputs name="[Não vivo] Você sente uma forma mais fraca do não-vivo aqui. Tente dominá-lo em servidão." ownerID="28" targetID="51" fromX="-468" fromY="-1520" />Estes são vermes sem vida!</nodes>
     <nodes xsi:type="NodeChallenge" ID="33" positionX="-84.86708" positionY="-1829.99512" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-UNLI_VERMIN_3P_2M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="33" targetID="56" fromX="356" fromY="-2325" />
       <outputs name="Lose" ownerID="33" targetID="35" fromX="356" fromY="-2405" />
@@ -4259,9 +4256,9 @@ The skeletons move away, but one stays behind: — Você, seu amigo. Amigo vá, 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Peça-lhe que lhe deixe um servo em seu lugar." ownerID="25" targetID="70" group="G1" fromX="918" fromY="-1145" />'Yes, oh great one, I serve your superior will.'
+      <outputs name="Peça-lhe que lhe deixe um servo em seu lugar." ownerID="25" targetID="70" group="G1" fromX="918" fromY="-1145" />'Sim, oh grande, eu sirvo a sua vontade superior.'
  
-Despite its words, you know a striga won't stay obedient for long. He leaves you all his equipment as a sign of honour, though.</nodes>
+Apesar de suas palavras, você sabe que uma striga não será obediente por muito tempo. No entanto, ele deixa todo o seu equipamento para você como um sinal de honra.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="1091.69019" positionY="-1252.9967" width="350" height="455" allPlayersXP="5" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -4355,8 +4352,8 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
         </FilterBlock>
       </logic>
       <outputs name="Tente resistir a esse poder!" ownerID="37" targetID="11" fromX="3797" fromY="-2518" />
-      <outputs name="Your faith is strong, and you're not easily broken. &#xD;&#xA;Ataque-o!" ownerID="37" targetID="67" fromX="3797" fromY="-2598" />
-      <outputs name="Your faith is strong, and you're not easily broken. Fugir!" ownerID="37" targetID="47" fromX="3797" fromY="-2678" />
+      <outputs name="Sua fé é forte e você não é facilmente quebrado. &#xD;&#xA;Ataque-o!" ownerID="37" targetID="67" fromX="3797" fromY="-2598" />
+      <outputs name="Sua fé é forte e você não é facilmente quebrado. Fugir!" ownerID="37" targetID="47" fromX="3797" fromY="-2678" />
       <outputs name="Obedeça ao chamado." ownerID="37" targetID="52" fromX="3797" fromY="-2759" />A princípio parece que o caixão não contém nada mais do que um corpo seco de estriga, mas antes que você perceba, você ouve uma voz em sua cabeça: 'Ajoelhe-se diante de mim, verme! Sirva meus apetites!'
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="39" positionX="1527.39478" positionY="51.7084579" width="500" height="807" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_2P_0M_0S" challengeScale="101" challengedList="ppl">
@@ -4593,13 +4590,13 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
       </logic>
       <outputs name="[Demônio ou zerca] Tente descobrir que criatura pode ser essa." ownerID="4" targetID="7" group="G1" fromX="190" fromY="1132" />
       <outputs name="[Usuários de magia] Você sente alguma magia aqui. Olhe mais de perto." ownerID="4" targetID="10" group="G1" fromX="190" fromY="1052" />
-      <outputs name="[Harmony] Sua conexão com o formigamento divino. Hora de investigar." ownerID="4" targetID="11" group="G3" fromX="190" fromY="972" />
-      <outputs name="[Nature]You feel something unnatural. Investigar." ownerID="4" targetID="95" group="G3" fromX="190" fromY="892" />
+      <outputs name="[Harmonia] Sua conexão com o formigamento divino. Hora de investigar." ownerID="4" targetID="11" group="G3" fromX="190" fromY="972" />
+      <outputs name="[Natureza] Você sente algo não natural. Investigar." ownerID="4" targetID="95" group="G3" fromX="190" fromY="892" />
       <outputs name="Gatos e ratos pretos são frequentemente sinais de bruxaria. Melhor abordagem com cautela." ownerID="4" targetID="78" group="G2" fromX="190" fromY="812" />
       <outputs name="Gatos e ratos pretos são frequentemente sinais de bruxaria. Mate a criatura!" ownerID="4" targetID="9" group="G2" fromX="190" fromY="731" />Você se aproxima e nota uma figura sentada em uma lápide, chorando. A figura muda sua forma de um gato preto para um rato para um rosto fantasmagórico de uma mulher e vice-versa. </nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="45.23974" positionY="-1214.34534" width="350" height="885">
       <outputs name="Ataque!" ownerID="5" targetID="42" fromX="370" fromY="-1705" />
-      <outputs name="[Unliving] Estes parecem ser despertados, como você, ou pelo menos agindo com mais propósito do que o habitual. Entre para falar com eles." ownerID="5" targetID="47" fromX="370" fromY="-1785" />
+      <outputs name="[Não vivo] Estes parecem ser despertados, como você, ou pelo menos agindo com mais propósito do que o habitual. Entre para falar com eles." ownerID="5" targetID="47" fromX="370" fromY="-1785" />
       <outputs name="Melhor simplesmente ir embora." ownerID="5" targetID="81" fromX="370" fromY="-1865" />Você vê alguns cadáveres sem vida entrando e saindo de uma cripta. Pode haver mais dentro, pois você vê muitas trilhas ao redor do local.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="845.5008" positionY="-124.127884" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-UNLI_MIX_2P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="6" targetID="56" fromX="1286" fromY="-619" />
@@ -4802,7 +4799,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="43" positionX="1384.257" positionY="-1474.1123" width="350" height="885">
       <outputs name="Conforte a criança e leve-a com você." ownerID="43" targetID="49" group="G1" fromX="1710" fromY="-1965" />
-      <outputs name="You walk up to the child, but it hisses at you and runs off into a small tunnel. Sair." ownerID="43" targetID="84" group="G1" fromX="1710" fromY="-2045" />
+      <outputs name="Você caminha até a criança, mas ela silva para você e foge para um pequeno túnel. Sair." ownerID="43" targetID="84" group="G1" fromX="1710" fromY="-2045" />
       <outputs name="Conforte a criança e leve-a com você." ownerID="43" targetID="86" group="G1" fromX="1710" fromY="-2125" />Você mata o morto-vivo e encontra uma criança de aparência humana chorando: 'Nããão, mamãe, papai, irmãos!' Quando você tenta falar com a criança, ela não sabe o que aconteceu, apenas que sua família se foi.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="44" positionX="-694.580933" positionY="-2222.49219" width="350" height="408" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="46" positionX="966.213562" positionY="-2283.772" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
@@ -6045,7 +6042,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
       <outputs ownerID="41" targetID="46" fromX="3363" fromY="-2700" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="1525.23279" positionY="-2408.39941" width="350" height="725">
-      <outputs name="Sair." ownerID="42" targetID="43" fromX="1850" fromY="-2899" />Você é espancado e forçado a fugir. You feel the forest's anger upon you.</nodes>
+      <outputs name="Sair." ownerID="42" targetID="43" fromX="1850" fromY="-2899" />Você é espancado e forçado a fugir. Você sente a raiva da floresta sobre você.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="43" positionX="2027.87769" positionY="-2596.21143" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="15" maxDamage="40" useCountInPercent="true" targetGroup="duende">
       <logic>
         <ModifierBlock>
@@ -6583,7 +6580,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
         </FilterBlock>
       </logic>
       <outputs name="[Luz ou Harmonia] O domínio do seu deus parece enfraquecido aqui, como se o mundo estivesse girando com turbulência e escuridão! Concentre-se em seu domínio para investigar isso." ownerID="2" targetID="5" group="G2" fromX="775" fromY="192" />
-      <outputs name="[Turmoil or Magic]Your domain is strong here and you feel a pull towards the dark smoke, yet you know it may be perilous. Open yoursduende up and try to sense what you're facing." ownerID="2" targetID="7" group="G2" fromX="775" fromY="112" />
+      <outputs name="[Turbulência ou Magia] Seu domínio é forte aqui e você sente uma atração pela fumaça escura, mas sabe que pode ser perigoso. Abra seu duende e tente sentir o que você está enfrentando." ownerID="2" targetID="7" group="G2" fromX="775" fromY="112" />
       <outputs name="[Bruxa Orc] A pira funerária tem os ornamentos de uma bruxa e a fumaça não é fumaça. Prepare um ritual para abordá-lo com segurança." ownerID="2" targetID="19" group="G1" fromX="775" fromY="32" />
       <outputs name="[Orc] A pira funerária tem ornamentos para um enterro de bruxa - melhor se aproximar com cuidado." ownerID="2" targetID="33" group="G1" fromX="775" fromY="-48" />
       <outputs name="[Usuário de magia] Há uma sensação definida de magia aqui – magia sombria, caótica e inquietante. Prepare as alas antes de se aproximar." ownerID="2" targetID="20" fromX="775" fromY="-128" />
@@ -6603,7 +6600,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
         </FilterBlock>
       </logic>
       <outputs name="Uma escuridão não natural como essa não pode ser deixada descontrolada. Prepare um ritual de luz e harmonia para trancá-lo!" ownerID="5" targetID="6" fromX="1215" fromY="859" />
-      <outputs name="This fight is too great for now. Saia deste lugar. " ownerID="5" targetID="46" fromX="1215" fromY="779" />Agora você tem certeza de que a fumaça é uma manifestação da escuridão em sua forma pura e não natural. Ele procurará corromper ou destruir qualquer coisa que tocar, e está chegando até você! Como o poder de seu domínio se opoe diretamente a essa força, você pode tentar destruí-lo completamente, mas será difícil.</nodes>
+      <outputs name="Esta luta é muito grande para agora. Saia deste lugar. " ownerID="5" targetID="46" fromX="1215" fromY="779" />Agora você tem certeza de que a fumaça é uma manifestação da escuridão em sua forma pura e não natural. Ele procurará corromper ou destruir qualquer coisa que tocar, e está chegando até você! Como o poder de seu domínio se opoe diretamente a essa força, você pode tentar destruí-lo completamente, mas será difícil.</nodes>
     <nodes xsi:type="NodeChallenge" ID="6" positionX="1337.08533" positionY="2082.09839" width="500" height="807" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_3S" challengeScale="101" challengedList="ppl">
       <logic>
         <ModifierBlock>
@@ -7148,7 +7145,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="How dare it insult you? Ataque!" ownerID="38" targetID="34" fromX="-1018" fromY="-1964" />
+      <outputs name="Como se atreve a insultá-lo? Ataque!" ownerID="38" targetID="34" fromX="-1018" fromY="-1964" />
       <outputs name="Acene para reconhecer que tem um ponto. Pergunte por que não está atacando." ownerID="38" targetID="39" fromX="-1018" fromY="-2044" />
       <outputs name="Sair." ownerID="38" targetID="51" fromX="-1018" fromY="-2124" />
       <outputs name="Pergunte por que ele fica aqui." ownerID="38" targetID="49" fromX="-1018" fromY="-2205" />'Demônio? Quem você está chamando de demônio, imundo? Sento-me aqui guardando este lugar, embora eu possa ir embora e fazer todo tipo de coisa, e meus próprios parentes jogam sujeira em mim!</nodes>
@@ -7156,7 +7153,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
       <outputs name="[Intelecto] Um jogo de dados é simplesmente uma questão de probabilidades, e o acaso não é estranho ao domínio de seu deus. Toque." ownerID="39" targetID="40" fromX="-395" fromY="-3280" />
       <outputs name="[Demônio] Com um demônio ao seu lado, trapaça não é problema. Toque." ownerID="39" targetID="41" fromX="-395" fromY="-3360" />
       <outputs name="Toque." ownerID="39" targetID="42" fromX="-395" fromY="-3440" />
-      <outputs name="Yes, you would like to loot. Ataque!" ownerID="39" targetID="34" fromX="-395" fromY="-3520" />'Por que? Eu devo? Você pretende saquear as piras ou mijar nos ossos ou algo assim? Não? Então vamos jogar um jogo de dados, pois estou entediado.</nodes>
+      <outputs name="Sim, você gostaria de saquear. Ataque!" ownerID="39" targetID="34" fromX="-395" fromY="-3520" />'Por que? Eu devo? Você pretende saquear as piras ou mijar nos ossos ou algo assim? Não? Então vamos jogar um jogo de dados, pois estou entediado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="244.685547" positionY="-3110.517" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -7165,10 +7162,10 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Despite your sharp mind, chance has its way. You lose and realise too late that some of your belongings are gone. When you turn to face the skeleton, it is nowhere to be found. Sair." ownerID="40" targetID="82" group="G1" fromX="570" fromY="-3601" />
-      <outputs name="Chance has its way with you for a time, but then you turn the tables and win. The skeleton simply nods, and you feel different after the experience. Sair." ownerID="40" targetID="83" group="G1" fromX="570" fromY="-3681" />
+      <outputs name="Apesar de sua mente afiada, o acaso tem seu caminho. Você perde e percebe tarde demais que alguns de seus pertences se foram. Quando você se vira para encarar o esqueleto, ele não está em lugar nenhum. Sair." ownerID="40" targetID="82" group="G1" fromX="570" fromY="-3601" />
+      <outputs name="A chance tem seu caminho com você por um tempo, mas então você vira a mesa e ganha. O esqueleto simplesmente balança a cabeça e você se sente diferente após a experiência. Sair." ownerID="40" targetID="83" group="G1" fromX="570" fromY="-3681" />
       <outputs name="Seu jogo é impecável. Você vence e o esqueleto parece impressionado. Ele lhe entrega os dados como recompensa e adiciona outro presente. Acene em agradecimento e vá embora." ownerID="40" targetID="84" group="G1" fromX="570" fromY="-3762" />
-      <outputs name="The game is a draw. The skeleton nods in thanks for the time well spent, then ignores you. Sair." ownerID="40" targetID="87" group="G1" fromX="570" fromY="-3842" />Lógica e intelecto são suas armas, então a cada jogada você prevê o próximo movimento. Mas o esqueleto não parece se importar com essa intervenção divina. Você rola muitos turnos até o lançamento final que decidirá o vencedor.</nodes>
+      <outputs name="O jogo está empatado. O esqueleto acena com a cabeça em agradecimento pelo tempo bem gasto, então o ignora. Sair." ownerID="40" targetID="87" group="G1" fromX="570" fromY="-3842" />Lógica e intelecto são suas armas, então a cada jogada você prevê o próximo movimento. Mas o esqueleto não parece se importar com essa intervenção divina. Você rola muitos turnos até o lançamento final que decidirá o vencedor.</nodes>
     <nodes xsi:type="NodeAdventure" ID="41" positionX="144.060959" positionY="-4351.549" width="350" height="841">
       <logic>
         <FilterBlock>
@@ -7178,13 +7175,13 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
         </FilterBlock>
       </logic>
       <outputs name="Você trapaceia no seu caminho para a vitória e o esqueleto parece impressionado. Ele lhe entrega os dados como recompensa e depois sai. Acene em agradecimento e vá embora." ownerID="41" targetID="85" group="G1" fromX="469" fromY="-4798" />
-      <outputs name="Despite your sharp mind, chance has its way. You lose and realise too late that some of your belongings are gone. When you turn to face the skeleton, it is nowhere to be found. Sair." ownerID="41" targetID="86" group="G1" fromX="469" fromY="-4878" />
-      <outputs name="The game is a draw. The skeleton nods in thanks for the time well spent, then ignores you. Sair." ownerID="41" targetID="87" group="G1" fromX="469" fromY="-4959" />Jogar contra demônios é uma maneira segura de perder a alma, mas o esqueleto parece além de tais preocupaçoes. O jogo começa. Você rola muitos turnos até o lançamento final que decidirá o vencedor.</nodes>
+      <outputs name="Apesar de sua mente afiada, o acaso tem seu caminho. Você perde e percebe tarde demais que alguns de seus pertences se foram. Quando você se vira para encarar o esqueleto, ele não está em lugar nenhum. Sair." ownerID="41" targetID="86" group="G1" fromX="469" fromY="-4878" />
+      <outputs name="O jogo está empatado. O esqueleto acena com a cabeça em agradecimento pelo tempo bem gasto, então o ignora. Sair." ownerID="41" targetID="87" group="G1" fromX="469" fromY="-4959" />Jogar contra demônios é uma maneira segura de perder a alma, mas o esqueleto parece além de tais preocupaçoes. O jogo começa. Você rola muitos turnos até o lançamento final que decidirá o vencedor.</nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="-472.997375" positionY="-3857.37622" width="350" height="922">
-      <outputs name="Despite your sharp mind, chance has its way. You lose and realise too late that some of your belongings are gone. When you turn to face the skeleton, it is nowhere to be found. Sair." ownerID="42" targetID="88" group="G1" fromX="-147" fromY="-4304" />
-      <outputs name="Chance has its way with you for a time, but then you turn the tables and win. The skeleton simply nods, and you feel different after the experience. Sair." ownerID="42" targetID="90" group="G1" fromX="-147" fromY="-4384" />
-      <outputs name="Your game is flawless. You win, and the skeleton looks impressed. It hands you the dice as a reward, then leaves. Sair." ownerID="42" targetID="89" group="G1" fromX="-147" fromY="-4464" />
-      <outputs name="The game is a draw. The skeleton nods in thanks for the time well spent, then ignores you. Sair." ownerID="42" targetID="87" group="G1" fromX="-147" fromY="-4545" />Você rola muitos turnos até o lançamento final que decidirá o vencedor.</nodes>
+      <outputs name="Apesar de sua mente afiada, o acaso tem seu caminho. Você perde e percebe tarde demais que alguns de seus pertences se foram. Quando você se vira para encarar o esqueleto, ele não está em lugar nenhum. Sair." ownerID="42" targetID="88" group="G1" fromX="-147" fromY="-4304" />
+      <outputs name="A chance tem seu caminho com você por um tempo, mas então você vira a mesa e ganha. O esqueleto simplesmente balança a cabeça e você se sente diferente após a experiência. Sair." ownerID="42" targetID="90" group="G1" fromX="-147" fromY="-4384" />
+      <outputs name="Seu jogo é impecável. Você vence e o esqueleto parece impressionado. Ele lhe entrega os dados como recompensa e depois sai. Sair." ownerID="42" targetID="89" group="G1" fromX="-147" fromY="-4464" />
+      <outputs name="O jogo está empatado. O esqueleto acena com a cabeça em agradecimento pelo tempo bem gasto, então o ignora. Sair." ownerID="42" targetID="87" group="G1" fromX="-147" fromY="-4545" />Você rola muitos turnos até o lançamento final que decidirá o vencedor.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="43" positionX="1493" positionY="-2664" width="350" height="530" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -8969,7 +8966,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
       </logic>
       <outputs name="Sinta as tramas de magia nesta área." ownerID="2" targetID="16" fromX="769" fromY="-335" />
       <outputs name="[Natureza] Esses mortos-vivos desafiam a sabedoria da natureza. Encontre uma maneira de destruí-los." ownerID="2" targetID="18" fromX="769" fromY="-415" />
-      <outputs name="[Unliving] Fale com seus parentes. Talvez eles também estejam despertos e não meramente marionetes de magia negra." ownerID="2" targetID="9" fromX="769" fromY="-495" />
+      <outputs name="[Não vivo] Fale com seus parentes. Talvez eles também estejam despertos e não meramente marionetes de magia negra." ownerID="2" targetID="9" fromX="769" fromY="-495" />
       <outputs name="Ataque!" ownerID="2" targetID="8" fromX="769" fromY="-575" />
       <outputs name="Fugir!" ownerID="2" targetID="53" fromX="769" fromY="-656" />Ao entrar no cemitério, você sente a terra se mover e percebe mãos ossudas saindo do chão!</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="-681.9007" positionY="697.4344" width="350" height="408" allPlayersXP="1" linkedEventUniqueID="0" />
@@ -9087,7 +9084,7 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
       </logic>
       <outputs name="Use um ritual para quebrar a magia negra que prende esses pobres corpos à servidão." ownerID="18" targetID="19" fromX="1224" fromY="11" />
       <outputs name="Pode ir contra as leis do domínio da natureza, mas vincule os esqueletos ao seu serviço!" ownerID="18" targetID="48" fromX="1224" fromY="-68" />
-      <outputs name="Ataque!" ownerID="18" targetID="31" fromX="1224" fromY="-149" />These unliving abominations mock the laws of nature. You should oppose them.</nodes>
+      <outputs name="Ataque!" ownerID="18" targetID="31" fromX="1224" fromY="-149" />Essas abominações sem vida zombam das leis da natureza. Você deve se opor a eles.</nodes>
     <nodes xsi:type="NodeChallenge" ID="19" positionX="1343.582" positionY="235.723511" width="500" height="967" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_4S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -9218,10 +9215,12 @@ Despite its words, you know a striga won't stay obedient for long. He leaves you
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Bom, vá embora." ownerID="34" targetID="52" fromX="2847" fromY="-2849" />'You, you friend. Friend go, we not tear flesh.'
+      <outputs name="Bom, vá embora." ownerID="34" targetID="52" fromX="2847" fromY="-2849" />— Você, seu amigo. Amigo vá, nós não rasgamos carne.'
  
-The skeletons move away, but one stays behind:
-— Você, seu amigo. Amigo vá, nós não rasgamos carne.' Os esqueletos se afastam, mas um fica para trás: 'Você, você não serve mais. Eu, eu te sirvo. Este pode não ser o despertar que você esperava, mas é um primeiro passo. O esqueleto agora serve a você.</nodes>
+Os esqueletos se afastam, mas um fica para trás:
+— Você, você não serve mais. Eu, eu te sirvo.
+
+Este pode não ser o despertar que você esperava, mas é um primeiro passo. O esqueleto agora serve a você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="3503.45459" positionY="-3215.62061" width="350" height="805">
       <outputs name="Apenas deixe este lugar." ownerID="35" targetID="51" fromX="3829" fromY="-3706" />
       <outputs name="Ataque-os!" ownerID="35" targetID="8" fromX="3829" fromY="-3786" />Os esqueletos continuam em sua direção sem pensar e algumas flechas voam em sua direção. 
@@ -10276,7 +10275,7 @@ The skeletons move away, but one stays behind:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Defend yoursduende!" ownerID="4" targetID="5" fromX="1204" fromY="-59" />Você é emboscado por um catador desleixado: 'Ei, você, isso é meu, morra!'</nodes>
+      <outputs name="Defenda-se!" ownerID="4" targetID="5" fromX="1204" fromY="-59" />Você é emboscado por um catador desleixado: 'Ei, você, isso é meu, morra!'</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1291" positionY="550" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-SCAVENGER_1P_1M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="6" fromX="1732" fromY="54" />
       <outputs name="Lose" ownerID="5" targetID="14" fromX="1732" fromY="-25" />
@@ -10314,7 +10313,7 @@ The skeletons move away, but one stays behind:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Defend yoursduende!" ownerID="10" targetID="11" fromX="1278" fromY="-804" />Você é emboscado por um pântano que tem seu covil aqui!
+      <outputs name="Defenda-se!" ownerID="10" targetID="11" fromX="1278" fromY="-804" />Você é emboscado por um pântano que tem seu covil aqui!
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="11" positionX="1364" positionY="-206" width="500" height="807" challengeType="TypePhysical" versusGroup="GROUP-BOG_BIES_ONE_1P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="11" targetID="13" group="G1" fromX="1805" fromY="-701" />
@@ -10380,7 +10379,7 @@ The skeletons move away, but one stays behind:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Defend yoursduende!" ownerID="16" targetID="17" fromX="1289" fromY="-1553" />Você é emboscado por um pântano que tem seu covil aqui e pior ainda, ele o ataca com seu espírito!
+      <outputs name="Defenda-se!" ownerID="16" targetID="17" fromX="1289" fromY="-1553" />Você é emboscado por um pântano que tem seu covil aqui e pior ainda, ele o ataca com seu espírito!
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="17" positionX="1411" positionY="-1053" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-BOG_BIES_2P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="17" targetID="22" fromX="1852" fromY="-1548" />
@@ -10400,7 +10399,7 @@ The skeletons move away, but one stays behind:
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Defend yoursduende!" ownerID="19" targetID="18" fromX="1789" fromY="-2355" />
+      <outputs name="Defenda-se!" ownerID="19" targetID="18" fromX="1789" fromY="-2355" />
       <outputs name="Tente argumentar com ele!" ownerID="19" targetID="20" fromX="1789" fromY="-2435" />Você é emboscado por um confuso solitário, que parece muito deslocado aqui, mas com raiva e claramente determinado a descontar em você!
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="20" positionX="1945" positionY="-2599" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-BEFUDDLER_ONE_1P_2M_1S" challengeScale="101" challengedList="ppl">

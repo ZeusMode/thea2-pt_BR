@@ -339,7 +339,7 @@
       </logic>
       <outputs name="[Vodnik] Eles não vão falar com você dessa maneira. Intimide seus subordinados." ownerID="24" targetID="26" fromX="745" fromY="-1668" />
       <outputs name="[Vodnik] É bom ver esses espíritos livres. E aquela rusalka, tão bonita. Diga a ela que você está maravilhado com sua beleza." ownerID="24" targetID="27" fromX="745" fromY="-1748" />
-      <outputs name="This is unacceptable. Ataque!" ownerID="24" targetID="21" fromX="745" fromY="-1828" />
+      <outputs name="Isso é inaceitável. Ataque!" ownerID="24" targetID="21" fromX="745" fromY="-1828" />
       <outputs name="Deixe-os ser." ownerID="24" targetID="28" fromX="745" fromY="-1908" />Você tenta se juntar, mas as rusalkas param e olham para você. — Você pode ser um mestre da água, um senhor do lago e até do mar, mas aqui somos criaturas livres, então, por favor, fuja.</nodes>
     <nodes xsi:type="NodeChallenge" ID="26" positionX="874" positionY="-1033" width="500" height="807" challengeType="TypeMental" versusGroup="GROUP-RUSALKA_3P_4M_3S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="26" targetID="33" group="G1" fromX="1315" fromY="-1528" />
@@ -366,11 +366,11 @@
         </ModifierBlock>
       </logic>
       <outputs name="Sair." ownerID="30" targetID="16" fromX="4071" fromY="-2017" />
-      <outputs name="This is unacceptable. Ataque!" ownerID="30" targetID="21" fromX="4071" fromY="-2097" />As rusalkas se tornam desagradáveis e cantam: 'Um mestre realmente é o que precisamos? Nós só precisávamos de sua semente molhada e agora vamos ver você sangrar!'
+      <outputs name="Isso é inaceitável. Ataque!" ownerID="30" targetID="21" fromX="4071" fromY="-2097" />As rusalkas se tornam desagradáveis e cantam: 'Um mestre realmente é o que precisamos? Nós só precisávamos de sua semente molhada e agora vamos ver você sangrar!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="1343.04749" positionY="-2630.42017" width="350" height="805">
       <outputs name="Sair." ownerID="31" targetID="16" fromX="1668" fromY="-3121" />
-      <outputs name="This is unacceptable. Ataque!" ownerID="31" targetID="21" fromX="1668" fromY="-3201" />— Suas palavras são bonitas, mas sua masculinidade continua sendo um vício. Fora do nosso tempo de reprodução, não vai seduzir. Fique bem.'</nodes>
+      <outputs name="Isso é inaceitável. Ataque!" ownerID="31" targetID="21" fromX="1668" fromY="-3201" />— Suas palavras são bonitas, mas sua masculinidade continua sendo um vício. Fora do nosso tempo de reprodução, não vai seduzir. Fique bem.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="1812.20264" positionY="-2459.95459" width="350" height="885" image="Event051">
       <logic>
         <ModifierBlock>
@@ -383,7 +383,7 @@
         </ModifierBlock>
       </logic>
       <outputs name="A bajulação leva você a todos os lugares, ao que parece, à medida que a rusalka se junta ao seu caminho. Sair juntos." ownerID="32" targetID="53" group="G1" fromX="2137" fromY="-2951" />
-      <outputs name="It seems your meddling with human gods has changed you, and from this union the rusalka brings you an unwanted befuddler child. Sair." ownerID="32" targetID="54" group="G1" fromX="2137" fromY="-3031" />
+      <outputs name="Parece que sua intromissão com deuses humanos mudou você, e dessa união a rusalka lhe traz uma criança indesejada e confusa. Sair." ownerID="32" targetID="54" group="G1" fromX="2137" fromY="-3031" />
       <outputs name="Sair." ownerID="32" targetID="55" fromX="2137" fromY="-3111" />Os rusalkas o aceitam em seu círculo, e aquele que você lisonjeou o leva de lado para as águas, sussurrando: 'Ainda não é minha hora de acasalar, mas sua maestria pode anular esta regra.'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="2386.30762" positionY="-3228.61987" width="350" height="805" image="Event051">
@@ -400,7 +400,11 @@
         </ModifierBlock>
       </logic>
       <outputs name="Sair." ownerID="33" targetID="49" fromX="2712" fromY="-3719" />
-      <outputs name="This is unacceptable. Ataque!" ownerID="33" targetID="21" fromX="2712" fromY="-3799" />As rusalkas se tornam desagradáveis e cantam: 'Um mestre realmente é o que precisamos? Nós só precisávamos de sua semente molhada e agora vamos ver você sangrar!' These trickster ladies let you win so you'll land in their embrace. You feel your spirit drained.</nodes>
+      <outputs name="Isso é inaceitável. Ataque!" ownerID="33" targetID="21" fromX="2712" fromY="-3799" />As rusalkas o aceitam em seu círculo e você sente suas bênçãos, mas então elas se voltam para você e cantam:
+
+'Um mestre, de fato, é o que precisamos? Nós só precisávamos de sua semente molhada e agora vamos ver você sangrar!'
+
+Essas senhoras trapaceiras permitem que você vença para que você caia em seus braços. Você sente seu espírito esgotado.</nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="-1072.63965" positionY="-2022.31519" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -442,7 +446,11 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Dançar é ótimo..." ownerID="43" targetID="41" fromX="3080" fromY="-2544" />Were you fighting just now? A melodia é tão doce, o ar cheira a lírios e água fresca, e as ninfas se movem como pétalas de flores no lago... Você dança e dança e dança até que seu espírito seja drenado...</nodes>
+      <outputs name="Dançar é ótimo..." ownerID="43" targetID="41" fromX="3080" fromY="-2544" />Você estava lutando agora?
+
+A melodia é tão doce, o ar cheira a lírios e água fresca, e as ninfas se movem como pétalas de flores no lago...
+
+Você dança e dança e dança até que seu espírito seja drenado...</nodes>
     <nodes xsi:type="NodeChallenge" ID="44" positionX="-1072.049" positionY="-459.631042" width="500" height="726" challengeType="TypeSpirit" versusConcept="true" versusGroup="GROUP-CON_S_0P_0M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="44" targetID="45" fromX="-630" fromY="-955" />
       <outputs name="Lose" ownerID="44" targetID="58" fromX="-630" fromY="-1035" />
@@ -713,7 +721,7 @@
       </logic>
       <outputs name="Sair." ownerID="9" targetID="12" fromX="2463" fromY="1704" />Você invoca a luz no céu noturno e a estrela desaparecida responde. Seu olhar suave, mas afiado, toca a lagoa, e o vodnik bate três vezes de alegria. A cada palmada ele deixa uma recompensa por seus esforços antes de desaparecer nas águas. </nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="2585.70972" positionY="1558.461" width="350" height="725">
-      <outputs name="Caramba." ownerID="10" targetID="37" fromX="2911" fromY="1067" />You fail, and the vodnik cries and claps six times: 'Now I must make a sacrifice to keep the beast at bay. Stupid, stupid star. Begone, you!' He disappears into the waters. </nodes>
+      <outputs name="Caramba." ownerID="10" targetID="37" fromX="2911" fromY="1067" />Você falha, e o vodnik grita e aplaude seis vezes: 'Agora devo fazer um sacrifício para manter a fera afastada. Estúpida, estrela estúpida. Vá embora, você! Ele desaparece nas águas. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="11" positionX="3503.93213" positionY="1223.62964" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="2575.38062" positionY="2249.55835" width="350" height="530" allPlayersXP="4" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="3856" positionY="601" width="350" height="530" allPlayersXP="3" allPlayersRP="2" linkedEventUniqueID="0">
@@ -976,7 +984,7 @@
       </logic>
       <outputs name="confirmee que você trilha o caminho dos deuses mortais agora porque eles servem a todos vocês. Convença-os de sua sinceridade." ownerID="3" targetID="4" fromX="1131" fromY="291" />
       <outputs name="Acene e vá embora." ownerID="3" targetID="7" fromX="1131" fromY="210" />
-      <outputs name="Kin or not, the loot is yours. Ataque!" ownerID="3" targetID="8" fromX="1131" fromY="130" />'Amigo... você fala o mortal falar... difícil é, desagradável para o ouvido interno. Nossa batalha parou agora, tomamos o que é nosso. Você não toma, você não é mais senhor da água.'</nodes>
+      <outputs name="Parentes ou não, o saque é seu. Ataque!" ownerID="3" targetID="8" fromX="1131" fromY="130" />'Amigo... você fala o mortal falar... difícil é, desagradável para o ouvido interno. Nossa batalha parou agora, tomamos o que é nosso. Você não toma, você não é mais senhor da água.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="4" positionX="940.4802" positionY="1662.57922" width="500" height="649.76" challengeType="TypeMental" versusGroup="GROUP-UTOPIEC_ONE_2P_2M_2S" challengeScale="130" challengedList="ppl">
       <outputs name="Win" ownerID="4" targetID="25" fromX="1381.60522" fromY="1244.21924" />
       <outputs name="Lose" ownerID="4" targetID="6" fromX="1381.60522" fromY="1164.01917" />
@@ -985,7 +993,7 @@
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2482.39917" positionY="1717.88806" width="350" height="360.8" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1956.56738" positionY="1387.53662" width="350" height="805">
       <outputs name="Tudo bem, vá embora." ownerID="6" targetID="7" fromX="2282" fromY="896" />
-      <outputs name="Kin or not, the loot is yours. Ataque!" ownerID="6" targetID="8" fromX="2282" fromY="816" />'Não, vá embora!'</nodes>
+      <outputs name="Parentes ou não, o saque é seu. Ataque!" ownerID="6" targetID="8" fromX="2282" fromY="816" />'Não, vá embora!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="3087.41064" positionY="593.272" width="350" height="408" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeChallenge" ID="8" positionX="1211.18079" positionY="694.7676" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-UTOPIEC_ONE_2P_2M_2S" challengeScale="130" challengedList="ppl">
       <outputs name="Win" ownerID="8" targetID="27" fromX="1652" fromY="199" />
@@ -1214,8 +1222,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Caramba..." ownerID="15" targetID="16" fromX="3633" fromY="89" />'Ah, shite, there's always one who will go there. As you wish... Here's the formula I'm supposed to say:
-Gods ascend through understanding and the will to become. Thus, by making the wish, you have proven yourself forever unworthy. And here's one from me: those pompous bastards dislike mortals trying back doors, so any fool who tries gets cursed. I did warn you!' </nodes>
+      <outputs name="Caramba..." ownerID="15" targetID="16" fromX="3633" fromY="89" />'Ah, merda, sempre tem um que vai lá. Como quiser... Aqui está a fórmula que devo dizer:
+Os deuses ascendem através da compreensão e da vontade de se tornar. Assim, ao fazer o desejo, você provou ser eternamente indigno. E aqui está um de mim: aqueles bastardos pomposos não gostam de mortais tentando portas traseiras, então qualquer tolo que tentar é amaldiçoado. Eu avisei você! </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="3953.27246" positionY="627.663269" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeDealDamage" ID="19" positionX="2968.68359" positionY="2738.58423" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="8" useCountInPercent="false">
       <logic>
@@ -1514,7 +1522,8 @@ Gods ascend through understanding and the will to become. Thus, by making the wi
         </FilterBlock>
       </logic>
       <outputs name="Pare-o antes que ele continue e lembre-o de que ele está quase afundando no pântano." ownerID="5" targetID="6" fromX="1604" fromY="344" />
-      <outputs name="Isso não tem sentido. Pegue qualquer madeira valiosa e vá embora." ownerID="5" targetID="15" fromX="1604" fromY="263" />'Treefolk, oof soorts, you areee, yeees... Hmmm... Maadness, você pergunta? Tudo começou...' </nodes>
+      <outputs name="Isso não tem sentido. Pegue qualquer madeira valiosa e vá embora." ownerID="5" targetID="15" fromX="1604" fromY="263" />'Treefolk, poofs, você é, yeees... Hmmm...
+Loucura, você pergunta? Tudo começou...' </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1709.25879" positionY="1105.42017" width="350" height="966">
       <outputs name="Você é forte o suficiente para puxar o leshy, então faça isso." ownerID="6" targetID="8" group="G1" fromX="2035" fromY="614" />
       <outputs name="Tente puxar o leshy à força." ownerID="6" targetID="7" fromX="2035" fromY="534" />
@@ -1810,7 +1819,11 @@ Gods ascend through understanding and the will to become. Thus, by making the wi
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Acene e vá embora." ownerID="48" targetID="52" fromX="4749" fromY="-2140" />You use your connection to the gods and your own shadow nature to give your kin balance, though you feel your own spirit wounded from the effort. They rise and bow in your honour: 'Você me deu um sopro de vida que eu pensei que estava extinto. Aquece meu coração ver que meus irmãos ainda não nos abandonaram completamente. Eu te agradeço. O shadowkin se curva novamente, lhe entrega um presente e depois desaparece na escuridão.</nodes>
+      <outputs name="Acene e vá embora." ownerID="48" targetID="52" fromX="4749" fromY="-2140" />Você usa sua conexão com os deuses e sua própria natureza sombria para equilibrar seus parentes, embora sinta seu próprio espírito ferido pelo esforço. Eles se levantam e se curvam em sua homenagem:
+
+'Você me deu um sopro de vida que eu pensei que estava extinto. Sempre presumi que se não pudesse ser elfo, não poderia ser nada, mas isso não é verdade. Obrigada.'
+
+O shadowkin se curva novamente, lhe entrega um presente e depois desaparece no escuro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="49" positionX="2811.37231" positionY="-2491.67749" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2112,8 +2125,12 @@ Gods ascend through understanding and the will to become. Thus, by making the wi
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="A pineconette joins you. Sair juntos." ownerID="15" targetID="16" group="G1" fromX="54" fromY="-1644" />
-      <outputs name="Excelente. Deixe-o descansar agora." ownerID="15" targetID="17" group="G1" fromX="54" fromY="-1724" />Você medita e se torna um com a floresta, cantando sua música e ouvindo seus batimentos cardíacos. Infelizmente, é tarde demais para o leshy caído se levantar novamente.someday soon. You can now gather fallen wood without dishonour.</nodes>
+      <outputs name="Uma pinha se junta a você. Sair juntos." ownerID="15" targetID="16" group="G1" fromX="54" fromY="-1644" />
+      <outputs name="Excelente. Deixe-o descansar agora." ownerID="15" targetID="17" group="G1" fromX="54" fromY="-1724" />Você medita e se torna um com a floresta, cantando sua música e ouvindo seus batimentos cardíacos. Em sintonia com a natureza, você puxa delicadamente a força vital da floresta e a entrelaça de volta ao leshy caído.
+
+Você vê pequenas raízes brotando debaixo do tronco caído, e você sabe que o leshy vai se erguer novamente algum dia em breve.
+
+Agora você pode coletar madeira caída sem desonra.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="171.7672" positionY="-1212.66833" width="350" height="530" allPlayersXP="5" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -2749,9 +2766,9 @@ Gods ascend through understanding and the will to become. Thus, by making the wi
       <outputs name="Tente se virar." ownerID="5" targetID="24" fromX="1601" fromY="171" />Agora que você pensa sobre isso, estes devem ser hochlicks ou seus primos, jack-o-lanterns, pequenas coisas complicadas que gostam de atrair as pessoas para todos os tipos de problemas com suas pontas de lanterna. Eles são conhecidos por acumular saques de desafortunados que caem em seus truques.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1688" positionY="956" width="350" height="805" image="Event070">
       <outputs name="Ataque!" ownerID="6" targetID="7" fromX="2013" fromY="464" />
-      <outputs name="Intimide-os." ownerID="6" targetID="10" fromX="2013" fromY="384" />You pretend to fall into the swamp and scream your dying words. Silence falls, and soon, the lights flicker ever closer.  A swarm of tiny lights arrives, accompanied by a few larger hochlicks. 'Dead, dead, is it dead?'
-'Why, oh why!'
-'No fun, this no fun. Does it have shiny gold?'</nodes>
+      <outputs name="Intimide-os." ownerID="6" targetID="10" fromX="2013" fromY="384" />Você finge cair no pântano e grita suas últimas palavras. O silêncio cai, e logo, as luzes piscam cada vez mais perto. Um enxame de pequenas luzes chega, acompanhado por alguns hochlicks maiores. 'Morto, morto, está morto?'
+'Por que oh por que!'
+'Não é divertido, isso não é divertido. Tem ouro brilhante?</nodes>
     <nodes xsi:type="NodeChallenge" ID="7" positionX="2073" positionY="1353" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-HOHLICK_2P_3M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="7" targetID="8" fromX="2514" fromY="857" />
       <outputs name="Lose" ownerID="7" targetID="12" fromX="2514" fromY="777" />
@@ -3246,10 +3263,10 @@ Gods ascend through understanding and the will to become. Thus, by making the wi
       <outputs name="Tente resistir." ownerID="30" targetID="29" fromX="1369" fromY="-1657" />'Bela estranha, como sua presença alegra meu coração solitário.' Suas palavras doces e sussurros melódicos são tão atraentes que você sente vontade de se juntar a ele na lagoa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="31" positionX="354.737427" positionY="-1765.14343" width="350" height="761">
       <outputs name="Pergunte a ele o que ele quer dizer." ownerID="31" targetID="32" fromX="680" fromY="-2212" />
-      <outputs name="He clearly meant to trick you. Ataque!" ownerID="31" targetID="11" fromX="680" fromY="-2292" />'Bela estranha, como sua presença alegra meu coração solitário.' Suas palavras doces e sussurros melódicos são atraentes, mas também um pouco exagerados. O jovem parece triste: 'Você não vai entrar? Não funcionou?</nodes>
+      <outputs name="Ele claramente pretendia enganá-lo. Ataque!" ownerID="31" targetID="11" fromX="680" fromY="-2292" />'Bela estranha, como sua presença alegra meu coração solitário.' Suas palavras doces e sussurros melódicos são atraentes, mas também um pouco exagerados. O jovem parece triste: 'Você não vai entrar? Não funcionou?</nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="878.6329" positionY="-1925.32678" width="350" height="761">
       <outputs name="Acene, mas diga que não é da sua conta. Você simplesmente não gosta de trapaças." ownerID="32" targetID="33" fromX="1204" fromY="-2372" />
-      <outputs name="He clearly meant to trick you. Ataque!" ownerID="32" targetID="11" fromX="1204" fromY="-2452" />— Desculpe, eu estava apenas tentando me provar para as mães. Eles me deixaram para morrer, disseram que eu estava errado, um homem, nem da família do pai nem verdadeiramente das mães.'</nodes>
+      <outputs name="Ele claramente pretendia enganá-lo. Ataque!" ownerID="32" targetID="11" fromX="1204" fromY="-2452" />— Desculpe, eu estava apenas tentando me provar para as mães. Eles me deixaram para morrer, disseram que eu estava errado, um homem, nem da família do pai nem verdadeiramente das mães.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="1283.86548" positionY="-1907.80945" width="350" height="681">
       <logic>
         <ModifierBlock>
@@ -3508,7 +3525,7 @@ Gods ascend through understanding and the will to become. Thus, by making the wi
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="You also spot the remains of their troll parent. Recolha o loot e vá embora." ownerID="8" targetID="17" group="G1" fromX="2714" fromY="-907" />
+      <outputs name="Você também vê os restos mortais de seu pai troll. Recolha o loot e vá embora." ownerID="8" targetID="17" group="G1" fromX="2714" fromY="-907" />
       <outputs name="Sair." ownerID="8" targetID="12" group="G1" fromX="2714" fromY="-987" />Estes são claramente pântanos - os filhotes de trolls da lama. Eles podem ser muito perigosos em um enxame, mas são bastante mansos e normalmente amigáveis, a menos que sejam provocados. Você fica parado e recebe alguns golpes, mas não faz movimentos ameaçadores. Os pântanos param de bombardeá-lo e se dispersam. Surpreendentemente, o cuspe do pântano curou quaisquer feridas que você possa ter tido.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="12" positionX="3333.90381" positionY="-579.8473" width="350" height="408" allPlayersXP="4" allPlayersRP="1" linkedEventUniqueID="0" />

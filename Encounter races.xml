@@ -525,7 +525,7 @@
       <outputs name="Tell them it is time they earned their death honour. Ataque!" ownerID="34" targetID="45" fromX="1962" fromY="1235" />— Você não é de falar, seguidor de divindades humanas. Honramos nossos caminhos. Somos mais velhos. Você será sábio se apertar os dentes e ouvir, cachorrinho!</nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="2627.62085" positionY="2824.13379" width="350" height="805">
       <outputs name="Questione sua honra e herança. Pergunte de onde eles vêm." ownerID="35" targetID="42" fromX="2953" fromY="2332" />
-      <outputs name="Aceita. Say that you too have found a wiser path in life through the cosmic pantheon. Thank them and wish them well on their journey." ownerID="35" targetID="43" fromX="2953" fromY="2252" />— Bah, você me surpreende, jovem. De alguma forma, sinto que somos nós que estamos sendo testados aqui. Você gostaria que eu dissesse agora, NÃO! Isso é sabedoria para os fracos! Mas uma refeição quente, dentes para comer e uma bexiga que não vai fazer você se mijar... é isso que você valoriza na velhice.</nodes>
+      <outputs name="Aceita.Diga que você também encontrou um caminho mais sábio na vida através do panteão cósmico. Agradeça-os e deseje-lhes boa viagem." ownerID="35" targetID="43" fromX="2953" fromY="2252" />— Bah, você me surpreende, jovem. De alguma forma, sinto que somos nós que estamos sendo testados aqui. Você gostaria que eu dissesse agora, NÃO! Isso é sabedoria para os fracos! Mas uma refeição quente, dentes para comer e uma bexiga que não vai fazer você se mijar... é isso que você valoriza na velhice.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="3040.609" positionY="3136.65576" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -650,7 +650,7 @@
       <outputs name="Sai com vergonha." ownerID="48" targetID="47" fromX="2058" fromY="2251" />— Filhotes jovens e insolentes! Mas você lutou bem. Vocês têm fogo em suas almas e isso nos deixa orgulhosos, mesmo que caminhemos por outro caminho. Que a paz esteja com você.' As últimas palavras são ditas com muita diversão, já que os orcs sabem que te machucam com força. Os orcs vão embora, mas eles pegam uma arma de você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="49" positionX="3069.65039" positionY="2259.8103" width="350" height="805">
       <outputs name="Questione sua honra e herança. Pergunte de onde eles vêm." ownerID="49" targetID="42" fromX="3395" fromY="1768" />
-      <outputs name="Aceita. Say that you too have found a wiser path in life through the cosmic pantheon. Thank them and wish them well on their journey." ownerID="49" targetID="43" fromX="3395" fromY="1688" />— Bah, você me surpreende, jovem. De alguma forma, sinto que somos nós que estamos sendo testados aqui. Você gostaria que eu dissesse agora, NÃO! Isso é sabedoria para os fracos! Mas a paz não é uma mentira.</nodes>
+      <outputs name="Aceita.Diga que você também encontrou um caminho mais sábio na vida através do panteão cósmico. Agradeça-os e deseje-lhes boa viagem." ownerID="49" targetID="43" fromX="3395" fromY="1688" />— Bah, você me surpreende, jovem. De alguma forma, sinto que somos nós que estamos sendo testados aqui. Você gostaria que eu dissesse agora, NÃO! Isso é sabedoria para os fracos! Mas a paz não é uma mentira.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="2710.229" positionY="1955.75391" width="350" height="681">
       <logic>
         <FilterBlock>
@@ -659,7 +659,7 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Aceita. Say that you too have found a wiser path in life through the cosmic pantheon. Thank them and wish them well on their journey." ownerID="50" targetID="43" fromX="3035" fromY="1464" />— Bah, você me surpreende, jovem. Achei que seguir os deuses humanos poderia ter mudado você para melhor. A turbulência constante, a guerra, a mudança - essas não são as únicas maneiras.'</nodes>
+      <outputs name="Aceita.Diga que você também encontrou um caminho mais sábio na vida através do panteão cósmico. Agradeça-os e deseje-lhes boa viagem." ownerID="50" targetID="43" fromX="3035" fromY="1464" />— Bah, você me surpreende, jovem. Achei que seguir os deuses humanos poderia ter mudado você para melhor. A turbulência constante, a guerra, a mudança - essas não são as únicas maneiras.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="2112.304" positionY="862.357544" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -1145,7 +1145,11 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Dê-lhes adeus." ownerID="28" targetID="18" fromX="2301" fromY="825" />The elf who asked your aid scowls at you, but nods. — Você assumiu a escuridão, apesar da dor que nosso sangue lhe causou. Isso será lembrado e recompensado.' Eles colocam um pacote aos seus pés.</nodes>
+      <outputs name="Dê-lhes adeus." ownerID="28" targetID="18" fromX="2301" fromY="825" />O elfo que pediu sua ajuda faz uma careta para você, mas assente.
+
+— Você assumiu a escuridão, apesar da dor que nosso sangue lhe causou. Isso será lembrado e recompensado.'
+
+Eles colocam um pacote aos seus pés.</nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="2389" positionY="1038" width="350" height="725">
       <logic>
         <ModifierBlock>

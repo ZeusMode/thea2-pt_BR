@@ -371,7 +371,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="27" targetID="13" fromX="589" fromY="-3190" />and you got some other stuff too.</nodes>
+      <outputs name="Sair." ownerID="27" targetID="13" fromX="589" fromY="-3190" />e você tem algumas outras coisas também.</nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="-263" positionY="-1833" width="350" height="725">
       <outputs name="Sair." ownerID="28" targetID="36" fromX="62" fromY="-2324" />Você mata os estranhos e saqueia seus cadáveres, estranhamente, você ouve risadas maníacas da escuridão e pode jurar que viu um pacote de abóboras fugindo...</nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="-1299" positionY="-2602" width="350" height="725">
@@ -502,8 +502,8 @@
       <outputs name="Concorde em ter seu futuro contado a partir de uma casca de maçã." ownerID="35" targetID="15" fromX="2065" fromY="-1474" />
       <outputs name="Diga que você deve tentar o destino contando de um espelho." ownerID="35" targetID="31" fromX="2065" fromY="-1554" />
       <outputs name="Recusar educadamente e desejar-lhes bem." ownerID="35" targetID="13" fromX="2065" fromY="-1634" />
-      <outputs name="Vá doces ou travessuras com eles!" ownerID="35" targetID="25" fromX="2065" fromY="-1714" />They take the gifts and although they seem unsure if that is all they are supposed to do, they move along to find more willing participants. 
-Before leaving, the witch speaks: 'On all Hallow's Eve you've given us food; thus, I shall tell your fate, be it bad, or good.'  She tells you of three ways your fortunes can be told on Halloween.</nodes>
+      <outputs name="Vá doces ou travessuras com eles!" ownerID="35" targetID="25" fromX="2065" fromY="-1714" />Eles pegam os presentes e, embora pareçam inseguros se isso é tudo o que deveriam fazer, eles se movem para encontrar participantes mais dispostos.
+Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos deu comida; assim, contarei seu destino, seja ele ruim ou bom.' Ela fala de três maneiras pelas quais sua sorte pode ser contada no Halloween.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="36" positionX="149" positionY="-1988" width="350" height="530" allPlayersXP="4" allPlayersRP="3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="37" positionX="-1200" positionY="384" width="350" height="725">
       <logic>
@@ -772,8 +772,8 @@ Before leaving, the witch speaks: 'On all Hallow's Eve you've given us food; thu
       <outputs name="Concorde em ter seu futuro contado a partir de uma casca de maçã." ownerID="59" targetID="15" fromX="4298" fromY="-49" />
       <outputs name="Diga que você deve tentar o destino contando de um espelho." ownerID="59" targetID="31" fromX="4298" fromY="-129" />
       <outputs name="Recusar educadamente e desejar-lhes bem." ownerID="59" targetID="13" fromX="4298" fromY="-209" />
-      <outputs name="Vá doces ou travessuras com eles!" ownerID="59" targetID="25" fromX="4298" fromY="-289" />They take the gifts and although they seem unsure if that is all they are supposed to do, they move along to find more willing participants. 
-Before leaving, the witch speaks: 'On all Hallow's Eve you've given us food; thus, I shall tell your fate, be it bad, or good.'  She tells you of three ways your fortunes can be told on Halloween.</nodes>
+      <outputs name="Vá doces ou travessuras com eles!" ownerID="59" targetID="25" fromX="4298" fromY="-289" />Eles pegam os presentes e, embora pareçam inseguros se isso é tudo o que deveriam fazer, eles se movem para encontrar participantes mais dispostos.
+Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos deu comida; assim, contarei seu destino, seja ele ruim ou bom.' Ela fala de três maneiras pelas quais sua sorte pode ser contada no Halloween.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="60" positionX="3345" positionY="234" width="460" height="429">
       <logic>
         <FilterBlock>
@@ -1006,7 +1006,7 @@ Before leaving, the witch speaks: 'On all Hallow's Eve you've given us food; thu
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" /> As a goblin, your spirit finds its way straight back into the willing body of a young shaman.</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" />Como um goblin, seu espírito encontra seu caminho direto de volta para o corpo voluntário de um jovem xamã.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="1243" positionY="-492" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1324,7 +1324,7 @@ Before leaving, the witch speaks: 'On all Hallow's Eve you've given us food; thu
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" /> As a goblin, your spirit finds its way straight back into the willing body of a young shaman.</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" />Como um goblin, seu espírito encontra seu caminho direto de volta para o corpo voluntário de um jovem xamã.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="1222" positionY="-708" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2157,8 +2157,8 @@ Before leaving, the witch speaks: 'On all Hallow's Eve you've given us food; thu
         </ModifierBlock>
       </logic>
       <outputs name="Perguntar ao Fredrick de onde ele veio?" ownerID="17" targetID="18" fromX="2325" fromY="-2075" />
-      <outputs name="Agradeça a ele e siga seu caminho." ownerID="17" targetID="19" fromX="2325" fromY="-2155" />You did a splendid job. The place looks well dressed in pumpkins and all, but it also retains the feeling of Zaduszki. The older woman is pleased with you, but she remains quiet, as tradition dictates.
-An older looking gentleman in foreign clothes claps his hands in admiration: 'Wonderful! You did the All Hallow's Eve great honour, to be sure. Now the spirits of the night will feel free to come and join us in unison. Bless you all. I am Fredrick, by the way.'</nodes>
+      <outputs name="Agradeça a ele e siga seu caminho." ownerID="17" targetID="19" fromX="2325" fromY="-2155" />Você fez um trabalho esplêndido. O lugar parece bem vestido com abóboras e tudo, mas também mantém a sensação de Zaduszki. A mulher mais velha está satisfeita com você, mas permanece calada, como manda a tradição.
+Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admiração: 'Maravilhoso! Você fez a grande honra de All Hallow's Eve, com certeza. Agora os espíritos da noite se sentirão livres para vir e se juntar a nós em uníssono. Abençoe todos vocês. A propósito, sou Fredrick.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2470" positionY="-1658" width="350" height="725">
       <outputs name="Deseje-lhe bem e vá embora também." ownerID="18" targetID="19" fromX="2795" fromY="-2149" /></nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="19" positionX="2945" positionY="-1752" width="350" height="530" allPlayersXP="4" allPlayersRP="3" linkedEventUniqueID="0">
@@ -2182,8 +2182,8 @@ An older looking gentleman in foreign clothes claps his hands in admiration: 'Wo
         </ModifierBlock>
       </logic>
       <outputs name="Perguntar ao Fredrick de onde ele veio?" ownerID="20" targetID="22" fromX="3504" fromY="-2842" />
-      <outputs name="Agradeça a ele e siga seu caminho." ownerID="20" targetID="21" fromX="3504" fromY="-2922" />You did not do very well. The older woman looks concerned with the efforts, as if worried this may anger the forefathers, but she does not say anything. The Halloween decoration looks half decent though.
-An older looking gentleman in foreign clothes claps his hands in moderate admiration: 'Oh, how, nice. Well, you did your best, to be sure. Now the spirits of the night will feel free to come and join us in unison. Bless you all. I am Fredrick, by the way.'</nodes>
+      <outputs name="Agradeça a ele e siga seu caminho." ownerID="20" targetID="21" fromX="3504" fromY="-2922" />Você não foi muito bem. A mulher mais velha parece preocupada com os esforços, como se estivesse preocupada que isso possa irritar os antepassados, mas ela não diz nada. A decoração de Halloween parece meio decente.
+Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admiração moderada: “Oh, que legal. Bem, você fez o seu melhor, com certeza. Agora os espíritos da noite se sentirão livres para vir e se juntar a nós em uníssono. Abençoe todos vocês. A propósito, sou Fredrick.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="21" positionX="4606" positionY="-2659" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2467,8 +2467,8 @@ An older looking gentleman in foreign clothes claps his hands in moderate admira
       <outputs name="Explorar a aldeia." ownerID="51" targetID="5" fromX="69" fromY="955" />
       <outputs name="Sair." ownerID="51" targetID="12" fromX="69" fromY="875" />
       <outputs name="Pergunte sobre os animais mortos." ownerID="51" targetID="76" fromX="69" fromY="795" />
-      <outputs name="Pergunte a ele como um demônio ficou no comando de uma aldeia humana?" ownerID="51" targetID="77" fromX="69" fromY="715" />Tomislav hugs you and smiles:
-'Pay no heed to the zealous ways of my guest, but he did bring us all those wonderful new ways to celebrate All Souls day, did he not? Now, I must dash and help with various preparations, but please do explore Bear Village, and come see me should anything go wrong.'</nodes>
+      <outputs name="Pergunte a ele como um demônio ficou no comando de uma aldeia humana?" ownerID="51" targetID="77" fromX="69" fromY="715" />Tomislav te abraça e sorri:
+— Não preste atenção aos modos zelosos de meu convidado, mas ele nos trouxe todas aquelas novas maneiras maravilhosas de celebrar o Dia de Finados, não trouxe? Agora, devo correr e ajudar com vários preparativos, mas, por favor, explore a Vila dos Ursos e venha me ver se algo der errado.</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="52" positionX="-3905" positionY="1006" width="350" height="1046" image="Event325">
       <logic>
         <FilterBlock>
@@ -2520,8 +2520,8 @@ An older looking gentleman in foreign clothes claps his hands in moderate admira
       <outputs name="Recorra a Gurtek para obter uma resposta." ownerID="55" targetID="56" fromX="-4329" fromY="260" />'O que? Oh, maldita seja minha ambição... Quer dizer que Bohna e Vieslav estão mortos? Você sabe o que podemos fazer, como podemos apaziguar os antepassados agora?' </nodes>
     <nodes xsi:type="NodeAdventure" ID="56" positionX="-5123" positionY="351" width="350" height="805">
       <outputs name="Concorde em ir e ajudá-los com isso." ownerID="56" targetID="57" fromX="-4797" fromY="-140" />
-      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="56" targetID="73" fromX="-4797" fromY="-220" />'I am no shaman, but, if the forefathers are awake and gathered, they will be by the old oak near the woodcutters lodge.  Let us go there and see if we can stop this.' He turns to you:
-'Will you speak to them on our behalf? We have no zerca, or shaman that could do it for us.'</nodes>
+      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="56" targetID="73" fromX="-4797" fromY="-220" />— Não sou xamã, mas, se os antepassados estiverem acordados e reunidos, estarão perto do velho carvalho perto da cabana dos lenhadores. Vamos lá e vejamos se podemos parar com isso. Ele se vira para você:
+'Você vai falar com eles em nosso nome? Não temos zerca ou xamã que possa fazer isso por nós.'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="57" positionX="-5687" positionY="-16" width="480" height="503" radius="3" settlementID="SET-BIG_TREE" destroyOwner="false" linkedEventUniqueID="19">
       <outputs ownerID="57" targetID="72" fromX="-5238" fromY="-448" />
     </nodes>
@@ -2697,9 +2697,9 @@ An older looking gentleman in foreign clothes claps his hands in moderate admira
         </FilterBlock>
       </logic>
       <outputs name="Cumprimente a mulher sábia em silêncio." ownerID="2" targetID="4" fromX="776" fromY="-139" />
-      <outputs name="Diga olá." ownerID="2" targetID="21" fromX="776" fromY="-219" />You see the hut of the Bear Village wise woman. The place looks quiet and peaceful. There are some candles lit under a tree. The yard looks very tidy. And there are many signs: 'Stay quiet, so that spirits are not disturbed...'
-'Remain indoors after dark, for the souls of the dead may not come in peace...'
-'DO NOT spread white paint, or flour about your homes, you may mark a spirit, and this will not be respectful!' A lady comes out and looks at you.</nodes>
+      <outputs name="Diga olá." ownerID="2" targetID="21" fromX="776" fromY="-219" />Você vê a cabana da sábia Bear Village. O lugar parece calmo e tranquilo. Há algumas velas acesas debaixo de uma árvore. O quintal parece muito arrumado. E há muitos sinais: 'Fique quieto, para que os espíritos não sejam perturbados...'
+'Permaneça dentro de casa depois de escurecer, pois as almas dos mortos podem não vir em paz...'
+'NÃO espalhe tinta branca ou farinha em suas casas, você pode marcar um espírito, e isso não será respeitoso!' Uma senhora sai e olha para você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-1242" positionY="-1245" width="350" height="530" allPlayersXP="2" allPlayersRP="2" logBookName="QUEST_HALLOW_HUT" logBookDescription="QUEST_HALLOW_HUT_DES1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="4" positionX="953" positionY="922" width="350" height="885">
       <outputs name="Digamos que Tomislav só disse que você deveria visitá-la." ownerID="4" targetID="5" fromX="1278" fromY="430" />
@@ -3227,8 +3227,8 @@ An older looking gentleman in foreign clothes claps his hands in moderate admira
     <nodes xsi:type="NodeAdventure" ID="5" positionX="2044" positionY="-2630" width="350" height="725">
       <outputs name="Diga a ele que seus cães ainda são os principais suspeitos, mas talvez valha a pena perguntar sobre o estrangeiro também. Deixe para falar sobre isso com Tomislav na aldeia." ownerID="5" targetID="19" fromX="2369" fromY="-3121" />— Escute, não estou escondendo nada aqui. Se você me perguntar, é aquele cara novo, ele sai de fininho à noite, vai para o bosque, faz negócios engraçados de ocidental lá - sacrifícios para alguns deles, eu acho. Ou então, os espíritos levaram nosso povo, e tudo o que podemos fazer é tentar apaziguá-los agora. Queime todas essas coisas de Halloween e volte para o bom e velho Zaduszki para homenagear o tempo de Finados.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1334" positionY="-672" width="350" height="725">
-      <outputs name="Pergunte a ele por que ele não oferece ajuda?" ownerID="6" targetID="7" fromX="1659" fromY="-1163" />The woman speaks while sobbing: 'Vieslav, my son, he is missing. And Bohna, my neighbour too! Can't those mutts of yours go look for them?' Gurtek shrugs:
-'I don't know, dangerous that. Spirits are about, your folk was likely taken by them. You best honour the dead ones, then your folk will return, I am sure.'  She huffs, swears at him and leaves to see the boss.</nodes>
+      <outputs name="Pergunte a ele por que ele não oferece ajuda?" ownerID="6" targetID="7" fromX="1659" fromY="-1163" />A mulher fala soluçando: 'Vieslav, meu filho, ele está desaparecido. E Bohna, minha vizinha também! Esses seus vira-latas não podem ir procurá-los? Gurtek dá de ombros:
+— Não sei, perigoso isso. Os espíritos estão por perto, seu povo provavelmente foi levado por eles. É melhor você honrar os mortos, então seu povo retornará, tenho certeza. Ela bufa, xinga ele e sai para ver o chefe.</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1941" positionY="-648" width="350" height="725">
       <outputs name="Questione Gurtek sobre os animais mortos." ownerID="7" targetID="11" fromX="2266" fromY="-1139" />'Por que eu deveria? Eles não ouviram quando eu disse que essa véspera de Dia das Bruxas era uma má ideia, que os espíritos ficariam com raiva. Agora que as pessoas se foram, a única coisa a fazer é afugentar essas pessoas estrangeiras - a empresa atual excluída, com certeza...'</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="3361" positionY="-2661" width="350" height="725">
@@ -3529,8 +3529,8 @@ An older looking gentleman in foreign clothes claps his hands in moderate admira
     <nodes xsi:type="NodeAdventure" ID="4" positionX="865" positionY="319" width="350" height="885">
       <outputs name="[Percepção] Investigue." ownerID="4" targetID="6" fromX="1190" fromY="-172" />
       <outputs name="Procure por pistas." ownerID="4" targetID="5" fromX="1190" fromY="-252" />
-      <outputs name="[Medic] Verifique os corpos para determinar como eles morreram." ownerID="4" targetID="11" fromX="1190" fromY="-332" />There is a body of a middle-aged woman, her intestines are spread out on the floor- she must be Bohna. Vieslav, the young man you were also looking for, lies twisted next to her, his eyes gouged out and throat torn apart.
-Two bulky men, likely woodcutters, lie torn to shreds, their axes fallen nearby but free of blood - they didn't even have the chance to attack? Finally, you spot a fifth body, that of a young man with long blond hair, his body bloodless and stiff, his face frozen in fear.</nodes>
+      <outputs name="[Medic] Verifique os corpos para determinar como eles morreram." ownerID="4" targetID="11" fromX="1190" fromY="-332" />Há um corpo de uma mulher de meia-idade, seus intestinos estão espalhados no chão - ela deve ser Bohna. Vieslav, o jovem que você também estava procurando, está torcido ao lado dela, com os olhos arrancados e a garganta dilacerada.
+Dois homens volumosos, provavelmente lenhadores, jazem em pedaços, seus machados caídos nas proximidades, mas sem sangue - eles nem tiveram a chance de atacar? Finalmente, você vê um quinto corpo, o de um jovem com longos cabelos loiros, seu corpo exangue e rígido, seu rosto congelado de medo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1784" positionY="-440" width="350" height="805">
       <outputs name="Pergunta o menino?" ownerID="5" targetID="7" fromX="2109" fromY="-931" />
       <outputs name="Olhe mais ao redor." ownerID="5" targetID="18" fromX="2109" fromY="-1011" />O alojamento está uma bagunça, a porta da frente está destruída e os corpos estão muito dilacerados - isso é claramente o trabalho de alguma fera.</nodes>
@@ -3558,8 +3558,9 @@ Two bulky men, likely woodcutters, lie torn to shreds, their axes fallen nearby 
       <outputs name="Diga que você acha que os cães são culpados." ownerID="8" targetID="9" fromX="4905" fromY="-1488" />
       <outputs name="Diga a ele que você acha que há evidências suficientes para sugerir algo mais do que os cães. Avise que ele os poupa." ownerID="8" targetID="19" fromX="4905" fromY="-1568" />— Desculpe, não quero parecer desdenhoso. Mas meu filho é frágil e tem uma grande imaginação, como todos os artistas. E aqueles cães mataram o suficiente do meu povo, então eu só quero que eles desapareçam.</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="3457" positionY="-1370" width="350" height="725">
-      <outputs name="Sair." ownerID="9" targetID="21" fromX="3782" fromY="-1861" />Tomislav nods: 'Yes, I think it too.' Gurtek is called for and he obeys, even though you see tears in his eyes. The dogs are put down by his own hand. Tomislav speaks up:
-'It had to be done. You are an honourable man Gurtek, thank you. Now, I shall retire and try to regain a semblance of peace for the village. I thank you again for your help, God's chosen.' He bows and leaves, so does Gurtek, carrying his two dogs.</nodes>
+      <outputs name="Sair." ownerID="9" targetID="21" fromX="3782" fromY="-1861" />Há um corpo de uma mulher de meia-idade, seus intestinos estão espalhados no chão - ela deve ser Bohna. Vieslav, o jovem que você também estava procurando, está torcido ao lado dela, com os olhos arrancados e a garganta dilacerada.
+Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele obedece, mesmo que você veja lágrimas em seus olhos. Os cães são sacrificados por sua própria mão. Tomislav fala:
+'Tinha que ser feito. Você é um homem honrado Gurtek, obrigado. Agora, vou me aposentar e tentar recuperar uma aparência de paz para a aldeia. Agradeço novamente por sua ajuda, os escolhidos de Deus. Ele se curva e sai, assim como Gurtek, carregando seus dois cachorros.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="4459" positionY="83" width="350" height="885">
       <outputs name="Diga a ele que se o garoto fez esculturas mágicas e possivelmente andando por aí matando pessoas, ele deveria pagar por isso como qualquer outro. Diga aos aldeoes." ownerID="10" targetID="20" fromX="4784" fromY="-408" />
       <outputs name="Concordo, permita culpar os cães." ownerID="10" targetID="9" fromX="4784" fromY="-488" />
@@ -3704,7 +3705,7 @@ Two bulky men, likely woodcutters, lie torn to shreds, their axes fallen nearby 
       <outputs name="[Nyia] Sim, se esta é a transgressão deles, eles realmente erraram. Permita que os antepassados continuem sua punição como acharem melhor." ownerID="3" targetID="28" fromX="1200" fromY="-206" />
       <outputs name="Provavelmente ainda haverá um preço difícil a pagar, pois foi muito além das palavras. Mas, tente convencer os antepassados de que as pessoas não pretendiam irritá-los tanto. Falta-lhes a orientação de um zerca. O prefeito deles é um demônio. E eles claramente queriam apenas homenagear um convidado, não ofender seus próprios costumes." ownerID="3" targetID="13" fromX="1200" fromY="-286" />
       <outputs name="[Usuário de magia] Você sente que esses espíritos estão obscurecidos e distorcidos. Eles vão pedir sangue o que você disser. Enfrentá-los nos reinos espirituais, é a única maneira de saciar completamente sua sede de vingança." ownerID="3" targetID="15" fromX="1200" fromY="-366" />
-      <outputs name="Say that you think they should do what they will. It is not your village. Sair." ownerID="3" targetID="35" fromX="1200" fromY="-446" />
+      <outputs name="Diga que você acha que eles devem fazer o que quiserem. Não é a sua aldeia. Sair." ownerID="3" targetID="35" fromX="1200" fromY="-446" />
       <outputs name="Pergunte que deus estrangeiro eles querem dizer?" ownerID="3" targetID="33" fromX="1200" fromY="-526" />
       <outputs name="Pergunte como eles foram capazes de agir no reino dos vivos?" ownerID="3" targetID="32" fromX="1200" fromY="-607" />
       <outputs name="Afaste-se por enquanto, talvez haja tempo para voltar mais tarde." ownerID="3" targetID="31" fromX="1200" fromY="-687" /></nodes>
@@ -3968,7 +3969,7 @@ Two bulky men, likely woodcutters, lie torn to shreds, their axes fallen nearby 
       <outputs name="[Nyia] Sim, se esta é a transgressão deles, eles realmente erraram. Permita que os antepassados continuem sua punição como acharem melhor." ownerID="33" targetID="28" fromX="-738" fromY="-77" />
       <outputs name="Provavelmente ainda haverá um preço difícil a pagar, pois foi muito além das palavras. Mas, tente convencer os antepassados de que as pessoas não pretendiam irritá-los tanto. Falta-lhes a orientação de um zerca. O prefeito deles é um demônio. E eles claramente queriam apenas homenagear um convidado, não ofender seus próprios costumes." ownerID="33" targetID="13" fromX="-738" fromY="-157" />
       <outputs name="[Usuário de magia] Você sente que esses espíritos estão obscurecidos e distorcidos. Eles vão pedir sangue o que você disser. Enfrentá-los nos reinos espirituais, é a única maneira de saciar completamente sua sede de vingança." ownerID="33" targetID="15" fromX="-738" fromY="-237" />
-      <outputs name="Say that you think they should do what they will. It is not your village. Sair." ownerID="33" targetID="35" fromX="-738" fromY="-317" />
+      <outputs name="Diga que você acha que eles devem fazer o que quiserem. Não é a sua aldeia. Sair." ownerID="33" targetID="35" fromX="-738" fromY="-317" />
       <outputs name="Pergunte como eles foram capazes de agir no reino dos vivos?" ownerID="33" targetID="32" fromX="-738" fromY="-397" />
       <outputs name="Afaste-se por enquanto, talvez haja tempo para voltar mais tarde." ownerID="33" targetID="31" fromX="-738" fromY="-478" />— Eles vêm das terras que já foram a oeste. Eles têm seus próprios deuses, dos quais não falaremos. Basta dizer que a Véspera do Dia das Bruxas dá honra aos seus, e, portanto, não a nós, nem a nossa senhora Nyia.</nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="-1499" positionY="54" width="350" height="725">
@@ -4385,9 +4386,9 @@ Two bulky men, likely woodcutters, lie torn to shreds, their axes fallen nearby 
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2452" positionY="251" width="350" height="885">
       <outputs name="Pergunte ao Tomislav se ele vem também?" ownerID="7" targetID="8" fromX="2777" fromY="-240" />
       <outputs name="Concorde em ajudá-los." ownerID="7" targetID="11" fromX="2777" fromY="-320" />
-      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="7" targetID="9" fromX="2777" fromY="-400" />'I am no shaman, but, if the forefathers are awake and gathered, they will be by the old oak near the woodcutters lodge.  Let us go there and see if we can stop this.' He turns to you:
-'Will you speak to them on our behalf? We have no zerca, or shaman that could do it for us. Whatever you decide, I  will take my dogs and try to ready the folk for what may come next.
-Oh, and one one of my dogs will stay with you from now on, as thanks for all the hard work.'</nodes>
+      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="7" targetID="9" fromX="2777" fromY="-400" />— Não sou xamã, mas, se os antepassados estiverem acordados e reunidos, estarão perto do velho carvalho perto da cabana dos lenhadores. Vamos lá e vejamos se podemos parar com isso. Ele se vira para você:
+'Você vai falar com eles em nosso nome? Não temos zerca, nem xamã que possa fazer isso por nós. O que quer que você decida, levarei meus cães e tentarei preparar o povo para o que pode vir a seguir.
+Ah, e um dos meus cachorros vai ficar com você de agora em diante, como agradecimento por todo o trabalho duro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2876" positionY="232" width="350" height="805">
       <outputs name="Concorde em ajudá-los." ownerID="8" targetID="11" fromX="3201" fromY="-259" />
       <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="8" targetID="9" fromX="3201" fromY="-339" /></nodes>
@@ -4459,8 +4460,8 @@ Oh, and one one of my dogs will stay with you from now on, as thanks for all the
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="16" targetID="21" fromX="1811" fromY="-2704" />You barely run away and you feel a spiritual darkness follow you for a time.
-You find Tomislav. He listens to your tale, concerned. 'A wooden bear with an axe? Astonishing, but it would explain many things. We must try to kill it before it kills more of our folk. And to think all our own warriors are away... If you will not help, we are lost.'
+      <outputs name="Sair." ownerID="16" targetID="21" fromX="1811" fromY="-2704" />Você mal foge e sente que uma escuridão espiritual o segue por um tempo.
+Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira com um machado? Surpreendente, mas explicaria muitas coisas. Devemos tentar matá-lo antes que mate mais do nosso povo. E pensar que todos os nossos guerreiros estão longe... Se você não ajudar, estamos perdidos.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="17" positionX="701" positionY="-2501" width="460" height="539" challengeTypeDamage="TypeSpirit" minDamage="40" maxDamage="70" useCountInPercent="true" targetGroup="nppl">
       <outputs ownerID="17" targetID="16" group="G1" fromX="1130" fromY="-2889" />
@@ -4477,7 +4478,7 @@ You find Tomislav. He listens to your tale, concerned. 'A wooden bear with an ax
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Say you may try again if you can. Sair." ownerID="18" targetID="19" fromX="2353" fromY="-2354" /> </nodes>
+      <outputs name="Diga que você pode tentar novamente se puder. Sair." ownerID="18" targetID="19" fromX="2353" fromY="-2354" /> </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="19" positionX="2465" positionY="-2020" width="480" height="503" radius="2" groupID="GROUP-Q_WOOD_BEAR_6P_6M_6S" destroyOwner="false" linkedEventUniqueID="21">
       <outputs ownerID="19" targetID="20" fromX="2913" fromY="-2452" />
     </nodes>
@@ -4487,7 +4488,7 @@ You find Tomislav. He listens to your tale, concerned. 'A wooden bear with an ax
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="22" positionX="2477" positionY="-2632" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_HALLOW_BEAR" logBookDescription="QUEST_HALLOW_BEAR_DES1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="23" positionX="2812" positionY="-1019" width="350" height="725">
-      <outputs name="Say you may try again if you can. Sair." ownerID="23" targetID="25" fromX="3137" fromY="-1510" /></nodes>
+      <outputs name="Diga que você pode tentar novamente se puder. Sair." ownerID="23" targetID="25" fromX="3137" fromY="-1510" /></nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="24" positionX="4878" positionY="-1017" width="350" height="530" allPlayersXP="6" allPlayersRP="5" logBookName="QUEST_HALLOW_BEAR" logBookDescription="QUEST_HALLOW_BEAR_DES3" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -4584,8 +4585,8 @@ You find Tomislav. He listens to your tale, concerned. 'A wooden bear with an ax
     <nodes xsi:type="NodeAdventure" ID="34" positionX="1940" positionY="-822" width="350" height="725">
       <outputs name="Vá até Tomislav para contar a ele sobre isso." ownerID="34" targetID="23" fromX="2265" fromY="-1313" /></nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="1511" positionY="-3018" width="350" height="725">
-      <outputs name="Sair." ownerID="35" targetID="21" fromX="1836" fromY="-3509" />You barely run away and you feel a spiritual darkness follow you for a time.
-You find Tomislav. He listens to your tale, concerned. 'A wooden bear with an axe? Astonishing, but it would explain many things. We must try to kill it before it kills more of our folk. And to think all our own warriors are away... If you will not help, we are lost.'
+      <outputs name="Sair." ownerID="35" targetID="21" fromX="1836" fromY="-3509" />Você mal foge e sente que uma escuridão espiritual o segue por um tempo.
+Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira com um machado? Surpreendente, mas explicaria muitas coisas. Devemos tentar matá-lo antes que mate mais do nosso povo. E pensar que todos os nossos guerreiros estão longe... Se você não ajudar, estamos perdidos.
 </nodes>
   </Adventure>
   <Adventure name="Bear spawn" uniqueID="21" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="33" eventTag="TAG-LOG_HALOWEEN" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -4660,8 +4661,8 @@ You find Tomislav. He listens to your tale, concerned. 'A wooden bear with an ax
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2493" positionY="1" width="350" height="885">
       <outputs name="Pergunte ao Tomislav se ele vem também?" ownerID="7" targetID="8" fromX="2818" fromY="-490" />
       <outputs name="Concorde em ajudá-los." ownerID="7" targetID="11" group="G1" fromX="2818" fromY="-570" />
-      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="7" targetID="9" fromX="2818" fromY="-650" />'I am no shaman, but, if the forefathers are awake and gathered, they will be by the old oak near the woodcutters' lodge.  Let us go there and see if we can stop this.' He turns to you:
-'Will you speak to them on our behalf? We have no zerca, or shaman that could do it for us. Whatever you decide, I  will take my dogs and try to ready the folk for what may come next. Oh, and one of my dogs will stay with you from now on, as thanks for all the hard work.'</nodes>
+      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="7" targetID="9" fromX="2818" fromY="-650" />— Não sou xamã, mas, se os antepassados estiverem acordados e reunidos, estarão perto do velho carvalho perto da cabana dos lenhadores. Vamos lá e vejamos se podemos parar com isso. Ele se vira para você:
+'Você vai falar com eles em nosso nome? Não temos zerca, nem xamã que possa fazer isso por nós. O que quer que você decida, levarei meus cães e tentarei preparar o povo para o que pode vir a seguir. Ah, e um dos meus cachorros vai ficar com você de agora em diante, como agradecimento por todo o trabalho duro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2953" positionY="86" width="350" height="805">
       <outputs name="Concorde em ajudá-los." ownerID="8" targetID="11" group="G1" fromX="3278" fromY="-405" />
       <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="8" targetID="9" fromX="3278" fromY="-485" /></nodes>

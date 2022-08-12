@@ -5811,7 +5811,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Ataque!" ownerID="4" targetID="6" fromX="830" fromY="535" />
-      <outputs name="As harmony and intellect dictate, there must be a peaceful way out. These folks look hungry. Offer them food in exchange for letting you search the ruins as well. [Perder 20 [R7]food]" ownerID="4" targetID="10" fromX="830" fromY="455" />
+      <outputs name="Como a harmonia e o intelecto ditam, deve haver uma saída pacífica. Essas pessoas parecem famintas. Ofereça-lhes comida em troca de deixá-lo procurar nas ruínas também. [Perder 20 [R7]comida]" ownerID="4" targetID="10" fromX="830" fromY="455" />
       <outputs name="Aproxime-se dos catadores e ofereça um acordo para vasculhar as ruínas juntos." ownerID="4" targetID="11" fromX="830" fromY="375" />
       <outputs name="Intimide-os." ownerID="4" targetID="23" group="G1" fromX="830" fromY="295" />
       <outputs name="Intimide-os." ownerID="4" targetID="26" group="G1" fromX="830" fromY="215" />
@@ -5924,7 +5924,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Give them some food so you can search. [Perder 20 food]" ownerID="17" targetID="55" fromX="2221" fromY="-543" />
+      <outputs name="Dê-lhes um pouco de comida para que você possa procurar. [Perder 20 alimentos]" ownerID="17" targetID="55" fromX="2221" fromY="-543" />
       <outputs name="Negocie com eles e vá embora." ownerID="17" targetID="53" fromX="2221" fromY="-623" />
       <outputs name="Ataque-os em vez disso." ownerID="17" targetID="6" fromX="2221" fromY="-703" />
       <outputs name="Na verdade, apenas vá embora." ownerID="17" targetID="77" fromX="2221" fromY="-783" />— Suponho que se você nos der um pouco de comida, podemos deixá-lo vasculhar este lugar. Ou podemos negociar com o que encontramos até agora. </nodes>
@@ -6241,7 +6241,7 @@
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Give them some food so you can search. [Perder 20 food]" ownerID="71" targetID="55" fromX="3542" fromY="-198" />
+      <outputs name="Dê-lhes um pouco de comida para que você possa procurar. [Perder 20 alimentos]" ownerID="71" targetID="55" fromX="3542" fromY="-198" />
       <outputs name="Ataque-os em vez disso." ownerID="71" targetID="6" fromX="3542" fromY="-278" />
       <outputs name="Na verdade, apenas vá embora." ownerID="71" targetID="76" fromX="3542" fromY="-358" />— Suponho que se você nos der um pouco de comida, podemos deixá-lo vasculhar este lugar. Ou podemos negociar com o que encontramos até agora. </nodes>
     <nodes xsi:type="NodeAdventure" ID="72" positionX="1556.22192" positionY="1454.46912" width="350" height="805">

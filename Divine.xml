@@ -789,7 +789,7 @@
       <outputs name="Coloque quaisquer duas armas." ownerID="22" targetID="28" fromX="1619" fromY="-3096" />
       <outputs name="Dê uma oferta de sangue - sacrifique uma pessoa." ownerID="22" targetID="30" fromX="1619" fromY="-2936" />
       <outputs name="Sacrifique um animal de fazenda." ownerID="22" targetID="32" fromX="1619" fromY="-2936" />
-      <outputs name="No, you do not feel ready. Sair." ownerID="22" targetID="6" fromX="1619" fromY="-2936" />Os altares estão prontos para receber suas oferendas.</nodes>
+      <outputs name="Não, você não se sente pronto. Sair." ownerID="22" targetID="6" fromX="1619" fromY="-2936" />Os altares estão prontos para receber suas oferendas.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="23" positionX="2232" positionY="-2344" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="23" targetID="25" group="G1" fromX="2661" fromY="-2732" />
       <outputs ownerID="23" targetID="9" group="G1" fromX="2661" fromY="-2812" />
@@ -1026,7 +1026,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Continue ouvindo." ownerID="49" targetID="36" fromX="3045" fromY="1888" />
-      <outputs name="Seu pai era Perun? Por que ele não é um deus do panteão, então?" ownerID="49" targetID="39" fromX="3045" fromY="1808" />'Ah, this one I know little of, he came when I was already but a memory.  But seeing as his domain is that of water and the winds, the sky and the seas, I imagine both my father Perun and his eternal lady Mokosh, were pleased to welcome him...' You see the spirit ripple with red veins but it passes quickly.</nodes>
+      <outputs name="Seu pai era Perun? Por que ele não é um deus do panteão, então?" ownerID="49" targetID="39" fromX="3045" fromY="1808" />'Ah, este eu sei pouco, ele veio quando eu já era apenas uma memória. Mas visto que seu domínio é o da água e dos ventos, do céu e dos mares, imagino que tanto meu pai Perun quanto sua eterna dama Mokosh tiveram o prazer de recebê-lo...' Você vê o espírito ondular com veias vermelhas, mas passa rapidamente.</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="1629" positionY="2897" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -1036,7 +1036,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Continue ouvindo." ownerID="50" targetID="36" fromX="1954" fromY="2405" />
-      <outputs name="Seu pai era Perun? Por que ele não é um deus do panteão, então?" ownerID="50" targetID="39" fromX="1954" fromY="2325" />'Mokosh? My father's eternal mate. She has... returned? I... Your goddess is the mother of all, but do not mistake her maternal role for one of peace or nurture. She once held dominion over all the divine domains. I suppose, if I sense you right, she now holds nature and turmoil as her own. Fitting, for she was ever a violent parent.' You see the spirit ripple with red veins, but it passes quickly. You see the spirit ripple with red veins but it passes quickly.
+      <outputs name="Seu pai era Perun? Por que ele não é um deus do panteão, então?" ownerID="50" targetID="39" fromX="1954" fromY="2325" />'Mokosh? A eterna companheira do meu pai. Ela... voltou? Eu... Sua deusa é a mãe de todos, mas não confunda seu papel materno com um de paz ou nutrição. Ela já teve domínio sobre todos os domínios divinos. Suponho que, se entendi bem, ela agora tem a natureza e a turbulência como suas. Apropriado, pois ela sempre foi uma mãe violenta. Você vê o espírito ondular com veias vermelhas, mas passa rapidamente. Você vê o espírito ondular com veias vermelhas, mas passa rapidamente.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="5309" positionY="62" width="350" height="725">
       <logic>
@@ -1357,7 +1357,7 @@
         </FilterBlock>
       </logic>
       <outputs name="[Xamã] Seu senso de espírito está enlouquecendo - tente se concentrar." ownerID="2" targetID="3" fromX="776" fromY="-683" />
-      <outputs name="Olhe mais de perto. The crow said this is the place you need to visit to unlock your true potential." ownerID="2" targetID="5" fromX="776" fromY="-763" />
+      <outputs name="Olhe mais de perto. O corvo disse que este é o lugar que você precisa visitar para desbloquear seu verdadeiro potencial." ownerID="2" targetID="5" fromX="776" fromY="-763" />
       <outputs name="[Nyia] Você sente a presença de muitos navka aqui, seus servos que ajudam na passagem de almas para os submundos. Fale com eles." ownerID="2" targetID="4" fromX="776" fromY="-843" />Você chega a um lugar imerso na energia da escuridão e tece magia ao seu redor. Você vê a estátua quebrada de um zmey enrolada em uma árvore prateada. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="919" positionY="-63" width="350" height="725">
@@ -1850,7 +1850,9 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Continue ouvindo." ownerID="27" targetID="38" fromX="1451" fromY="-2889" />You are badly beaten and cursed by the witch coterie. Você vê uma das bruxas que sobreviveram te observando de longe. Ela fala e você ouve sua voz tão claramente como se ela estivesse na sua frente: 'Você assassinou as filhas de Veles. Eu esperaria isso dos animais de estimação de Zorya, talvez até das bestas de seu companheiro, mas alguém que afirma seguir Intelecto ou Magia? Que estranho.'</nodes>
+      <outputs name="Continue ouvindo." ownerID="27" targetID="38" fromX="1451" fromY="-2889" />Você é muito espancado e amaldiçoado pelo círculo de bruxas. Você vê uma das bruxas te observando com desdém:
+
+— Você tentou matar as filhas de Veles. Eu esperaria isso dos animais de estimação de Zorya, talvez até das bestas de seu companheiro, mas alguém que afirma seguir Intelecto ou Magia? Que estranho.'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="30" positionX="573" positionY="-2319" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="100" maxDamage="110" useCountInPercent="true" targetGroup="ch">
       <outputs ownerID="30" targetID="27" fromX="1002" fromY="-2707" />
     </nodes>
@@ -2272,7 +2274,7 @@
         </FilterBlock>
       </logic>
       <outputs name="[Xamã] Seu senso de espírito está enlouquecendo - tente se concentrar." ownerID="2" targetID="3" fromX="788" fromY="-764" />
-      <outputs name="Olhe mais de perto. The crow said this is the place you need to visit to unlock your true potential." ownerID="2" targetID="5" fromX="788" fromY="-844" />
+      <outputs name="Olhe mais de perto. O corvo disse que este é o lugar que você precisa visitar para desbloquear seu verdadeiro potencial." ownerID="2" targetID="5" fromX="788" fromY="-844" />
       <outputs name="[Nyia] Você sente a presença de muitos navka aqui, seus servos que ajudam na passagem de almas para os submundos. Fale com eles." ownerID="2" targetID="4" fromX="788" fromY="-924" />Você chega a um lugar imerso na energia da escuridão e tece magia ao seu redor. Você vê a estátua quebrada de um zmey enrolada em uma árvore prateada. 
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="919" positionY="-63" width="350" height="725">
@@ -3083,7 +3085,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pegue a vara." ownerID="37" targetID="14" fromX="3266" fromY="-901" />Your song echoes into the earth as only a dwarven tale can, and the stone responds and opens its palm for you. Você remove com segurança a vara da mão de pedra e sente o chão tremer, mas a vara está livre e os tremores passam.</nodes>
+      <outputs name="Pegue a vara." ownerID="37" targetID="14" fromX="3266" fromY="-901" />Sua música ecoa na terra como apenas um conto de anões pode, e a pedra responde e abre sua palma para você. Você remove com segurança a vara da mão de pedra e sente o chão tremer, mas a vara está livre e os tremores passam.</nodes>
     <nodes xsi:type="NodeChallenge" ID="38" positionX="2339" positionY="-764" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_3M_0S" challengeScale="101" challengedList="adutdwarf">
       <logic>
         <FilterBlock>
@@ -3138,7 +3140,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pegue a vara." ownerID="44" targetID="14" fromX="1559" fromY="-1737" />You find the sleeping soul of your brother and it listens to your plea, despite your fall to darkness. The stone responds and opens its palm for you. Você remove com segurança a vara da mão de pedra e sente o chão tremer, mas a vara está livre e os tremores passam.</nodes>
+      <outputs name="Pegue a vara." ownerID="44" targetID="14" fromX="1559" fromY="-1737" />Você encontra a alma adormecida de seu irmão e ela ouve sua súplica, apesar de sua queda na escuridão. A pedra responde e abre sua palma para você. Você remove com segurança a vara da mão de pedra e sente o chão tremer, mas a vara está livre e os tremores passam.</nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="6387" positionY="3289" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -3210,8 +3212,8 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="50" targetID="51" fromX="4730" fromY="3334" />'Mokosh! My love eternal, ha! So, it is time she becomes one - good. She is of all, but turmoil flows strong in her veins. She was the one who gifted it to me, after all.
-She must be freed from the Three. Thus to the lands of the volcanos you will go. There, in the red pits, you will ask Triglav to release the mother to us, for she is needed now.' The voice fades, and when your eyesight is restored, the giant hand holds the rod again.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="51" fromX="4730" fromY="3334" />'Mokosh! Meu amor eterno, ha! Então, é hora de ela se tornar uma - bom. Ela é de todos, mas a turbulência corre forte em suas veias. Afinal, foi ela quem me deu de presente.
+Ela deve ser libertada dos Três. Assim para as terras dos vulcões você irá. Lá, nos poços vermelhos, você pedirá a Triglav que libere a mãe para nós, pois ela é necessária agora. A voz desaparece e, quando sua visão é restaurada, a mão gigante segura a vara novamente.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="51" positionX="4008" positionY="3957" width="350" height="530" allPlayersXP="6" allPlayersRP="4" logBookName="QUEST_DIV_PATH_ALLPATHS2" logBookDescription="QUEST_DIV_PATH_TWOAMOKOSH_DES" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -3700,7 +3702,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Pegue a vara." ownerID="44" targetID="14" fromX="1559" fromY="-1737" />You find the sleeping soul of your brother and it listens to your plea, despite your fall to darkness. The stone responds and opens its palm for you. Você remove com segurança a vara da mão de pedra e sente o chão tremer, mas a vara está livre e os tremores passam.</nodes>
+      <outputs name="Pegue a vara." ownerID="44" targetID="14" fromX="1559" fromY="-1737" />Você encontra a alma adormecida de seu irmão e ela ouve sua súplica, apesar de sua queda na escuridão. A pedra responde e abre sua palma para você. Você remove com segurança a vara da mão de pedra e sente o chão tremer, mas a vara está livre e os tremores passam.</nodes>
     <nodes xsi:type="NodeAdventure" ID="45" positionX="6337" positionY="3078" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4261,7 +4263,9 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça ao leshy e pergunte se isso é tudo o que você deveria fazer." ownerID="39" targetID="36" fromX="6278" fromY="500" />O poder da Natureza flui através de você e chama a sua besta interior, e mesmo que você continue sendo você mesmo, outros animais irão considerá-lo parente. Sua vitalidade cresce e você se sente fortalecido por toda parte. A cmuch joins you so that you may work together to improve people's health.</nodes>
+      <outputs name="Agradeça ao leshy e pergunte se isso é tudo o que você deveria fazer." ownerID="39" targetID="36" fromX="6278" fromY="500" />O poder da Harmonia chama você e elogia seu chamado como curador.
+
+Sua vitalidade cresce e você se sente fortalecido por toda parte. Um cmuch se une a você para que você possa trabalhar em conjunto para melhorar a saúde das pessoas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="6442" positionY="885" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -4377,7 +4381,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       </logic>
       <outputs name="Aceite a bênção da Natureza, a força que favorece o equilíbrio e aceita a roda do destino." ownerID="52" targetID="30" fromX="4647" fromY="-1193" />
       <outputs name="Aceite a bênção da Harmonia, o domínio que representa estabilidade e paz." ownerID="52" targetID="38" fromX="4647" fromY="-1273" />
-      <outputs name="Mas ela não se foi? Ela não é um dos seus deuses, afinal." ownerID="52" targetID="53" fromX="4647" fromY="-1353" />'Mokosh is the earth mother of your gods. She is so because she stands for balance. You see, it was the giants who first sang the world into being - at least this world - and their song was in equal measure light and dark. But then the song created the child of light and the child of darkness, siblings that would be forever locked in conflict. Mokosh stands guard for balance, and her destruction would free the children.'</nodes>
+      <outputs name="Mas ela não se foi? Ela não é um dos seus deuses, afinal." ownerID="52" targetID="53" fromX="4647" fromY="-1353" />'Mokosh é a mãe terra de seus deuses. Ela é assim porque ela representa o equilíbrio. Veja bem, foram os gigantes que primeiro cantaram o mundo - pelo menos este mundo - e sua música era em igual medida de luz e escuridão. Mas então a música criou o filho da luz e o filho das trevas, irmãos que ficariam para sempre presos em conflito. Mokosh defende o equilíbrio, e sua destruição libertaria as crianças.</nodes>
     <nodes xsi:type="NodeAdventure" ID="53" positionX="4842" positionY="-714" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -4880,7 +4884,9 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça ao leshy e pergunte se isso é tudo o que você deveria fazer." ownerID="39" targetID="36" fromX="6278" fromY="500" />O poder da Natureza flui através de você e chama a sua besta interior, e mesmo que você continue sendo você mesmo, outros animais irão considerá-lo parente. Sua vitalidade cresce e você se sente fortalecido por toda parte. A cmuch joins you so that you may work together to improve people's health.</nodes>
+      <outputs name="Agradeça ao leshy e pergunte se isso é tudo o que você deveria fazer." ownerID="39" targetID="36" fromX="6278" fromY="500" />O poder da Harmonia chama você e elogia seu chamado como curador.
+
+Sua vitalidade cresce e você se sente fortalecido por toda parte. Um cmuch se une a você para que você possa trabalhar em conjunto para melhorar a saúde das pessoas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="6442" positionY="885" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -5739,7 +5745,11 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="36" targetID="42" fromX="2448" fromY="3563" />Você mata os selvagens, embora não sem grandes perdas e sente a floresta observando você e uma voz selvagem fala: 'Você escolheu destruir meus filhos por causa da violência, não da vida. Você profanou a natureza e ignorou a harmonia. Você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.' The lake is still and empty, as is your soul...
+      <outputs name="Sair." ownerID="36" targetID="42" fromX="2448" fromY="3563" />Você mata os demônios da água, e a água do lago ondula como se lágrimas estivessem caindo sobre ela. Você vê o reflexo de Lada olhando para você:
+
+— Você escolheu a violência quando a violência era inútil. Você profanou meus adoradores com suas lâminas sujas, e agora meu poder será bloqueado, pois você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.'
+
+O lago está quieto e vazio, assim como sua alma...
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="37" positionX="1607" positionY="3180" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="100" maxDamage="100" useCountInPercent="true" targetGroup="ch">
       <outputs ownerID="37" targetID="43" fromX="2036" fromY="2791" />
@@ -5772,7 +5782,11 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="42" positionX="2549" positionY="4136" width="350" height="530" allPlayersXP="6" allPlayersRP="4" logBookName="QUEST_DIV_LADA" logBookDescription="QUEST_DIV_LADA_DES" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventure" ID="43" positionX="2991" positionY="4080" width="350" height="725">
-      <outputs name="Sair." ownerID="43" targetID="42" fromX="3316" fromY="3588" />Você mata os selvagens, embora não sem grandes perdas e sente a floresta observando você e uma voz selvagem fala: 'Você escolheu destruir meus filhos por causa da violência, não da vida. Você profanou a natureza e ignorou a harmonia. Você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.' The lake is still and empty, as is your soul...
+      <outputs name="Sair." ownerID="43" targetID="42" fromX="3316" fromY="3588" />Você mata os demônios da água, e a água do lago ondula como se lágrimas estivessem caindo sobre ela. Você vê o reflexo de Lada olhando para você:
+
+— Você escolheu a violência quando a violência era inútil. Você profanou meus adoradores com suas lâminas sujas, e agora meu poder será bloqueado, pois você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.'
+
+O lago está quieto e vazio, assim como sua alma...
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="44" positionX="1821" positionY="2186" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
@@ -5865,7 +5879,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Aproxime-se e tente falar com ela." ownerID="2" targetID="3" fromX="765" fromY="-518" />Ao vagar pelas terras, você encontra um pequeno bosque e sente a atração de sua conexão divina. Você vê um bando de Dievanna feral vagando livremente. Um deles se destaca - mais alto, mais rápido, radiante com a presença divina. Quando ela se vira para você, você sente que é de alguma forma sua deusa.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="910" positionY="47" width="350" height="725" image="Event292">
-      <outputs name="Tell them you are here to talk to Deuses" ownerID="3" targetID="7" fromX="1235" fromY="-444" />Conforme você se aproxima, os outros selvagens avançam e a deusa se afasta. Um dos selvagens fala, com a voz torta, enferrujada, como se a fala humana se tornasse estranha a ele: 'Você sai, nós libertamos, nós cheiramos Ela em você, então você não tem comida, mas vá.'</nodes>
+      <outputs name="Diga a eles que você está aqui para conversar com os Deuses" ownerID="3" targetID="7" fromX="1235" fromY="-444" />Conforme você se aproxima, os outros selvagens avançam e a deusa se afasta. Um dos selvagens fala, com a voz torta, enferrujada, como se a fala humana se tornasse estranha a ele: 'Você sai, nós libertamos, nós cheiramos Ela em você, então você não tem comida, mas vá.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1381" positionY="242" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -6085,8 +6099,11 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="36" targetID="42" fromX="2448" fromY="3563" />Você mata os selvagens, embora não sem grandes perdas e sente a floresta observando você e uma voz selvagem fala: 'Você escolheu destruir meus filhos por causa da violência, não da vida. Você profanou a natureza e ignorou a harmonia. Você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.'  The forest remains shaken, but you hear no more voices.
-</nodes>
+      <outputs name="Sair." ownerID="36" targetID="42" fromX="2448" fromY="3563" />Você mata os selvagens e sente a floresta te observando e uma voz selvagem fala:
+
+— Você escolheu destruir meus filhos por causa da violência, não da vida. Você profanou a natureza e ignorou a harmonia. Você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.'
+
+A floresta continua abalada, mas você não ouve mais vozes.
     <nodes xsi:type="NodeDealDamage" ID="37" positionX="1607" positionY="3180" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="100" maxDamage="120" useCountInPercent="true" targetGroup="ch">
       <outputs ownerID="37" targetID="43" fromX="2036" fromY="2791" />
     </nodes>
@@ -6852,7 +6869,9 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Então funcionou?" ownerID="38" targetID="8" fromX="3042" fromY="2386" />You fail and are drawn into the lava. Você mal suporta a dor excruciante enquanto a lava escaldante ferve sua carne, enquanto os portadores da luz cegam todos os seus sentidos, exceto a dor. Assim como você pensa que seu corpo vai sucumbir e derreter, você sente o abraço protetor de seu senhor e vê os portadores da luz perecerem. Triglav sobe do poço e te coloca no chão: 'Sim, sim! Destrua todos eles - é para isso que nascemos. Você fez bem em vir aqui e me ajudar, embora nenhuma ajuda fosse necessária, é claro. Ainda assim, estamos livres!'
+      <outputs name="Então funcionou?" ownerID="38" targetID="8" fromX="3042" fromY="2386" />Você falha e é arrastado para a lava. Você mal suporta a dor excruciante enquanto a lava escaldante ferve sua carne, enquanto os portadores da luz cegam todos os seus sentidos, exceto a dor. Assim como você pensa que seu corpo vai sucumbir e derreter, você sente o abraço protetor de seu senhor e vê os portadores da luz perecerem. Triglav sobe do poço e te coloca no chão:
+
+'Sim Sim! Destrua todos eles - é para isso que nascemos. Você fez bem em vir aqui e me ajudar, embora nenhuma ajuda fosse necessária, é claro. Ainda assim, estamos livres!'
 </nodes>
     <nodes xsi:type="NodeChallenge" ID="39" positionX="67" positionY="2365" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-LIGHT_3P_3M_3S" challengeScale="101" challengedList="ch">
       <outputs name="Win" ownerID="39" targetID="40" fromX="508" fromY="1869" />
@@ -8030,7 +8049,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       </logic>
       <outputs name="[Apenas escolhido] Concentre-se no domínio do espírito para fortalecer seu senhor." ownerID="7" targetID="29" fromX="1380" fromY="1390" />
       <outputs name="[Apenas escolhido] Prepare sua mente e permita que seu deus tire força disso." ownerID="7" targetID="30" fromX="1380" fromY="1310" />
-      <outputs name="You can still pull away. Retire-se e retorne quando estiver realmente pronto!" ownerID="7" targetID="38" fromX="1380" fromY="1230" />'Sim Sim. Há muito tempo os espíritos guiam minha jornada, e assim sua alma e suas açoes passadas me mostrarão quem eu sou. Aproxime-se e não tema o que está por vir.' Ao se encontrar no abraço de Marovit, você sente sua alma extraída de sua casca e inalada por seu deus. Agora você precisa resistir a esse ataque através da Magia ou do Intelecto.</nodes>
+      <outputs name="Você ainda pode se afastar. Retire-se e retorne quando estiver realmente pronto!" ownerID="7" targetID="38" fromX="1380" fromY="1230" />'Sim Sim. Há muito tempo os espíritos guiam minha jornada, e assim sua alma e suas açoes passadas me mostrarão quem eu sou. Aproxime-se e não tema o que está por vir.' Ao se encontrar no abraço de Marovit, você sente sua alma extraída de sua casca e inalada por seu deus. Agora você precisa resistir a esse ataque através da Magia ou do Intelecto.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="8" positionX="2778" positionY="1035" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="8" targetID="9" group="G1" fromX="3207" fromY="646" />
       <outputs ownerID="8" targetID="19" group="G1" fromX="3207" fromY="566" />
@@ -8294,10 +8313,10 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="[Apenas escolhido] A turbulência ferve em seu sangue e exige ação ousada. Alcance a chama, suportando qualquer dor que possa vir com ela." ownerID="7" targetID="29" fromX="-155" fromY="2212" />
-      <outputs name="[Chosen only]Ataque!" ownerID="7" targetID="30" fromX="-155" fromY="2132" />
-      <outputs name="[Somente escolhido] A luz chama você, e você sabe o que deve ser feito. Alcance a luz com seu espírito." ownerID="7" targetID="39" fromX="-155" fromY="2052" />
-      <outputs name="You can still break away. Retire-se e retorne quando estiver realmente pronto!" ownerID="7" targetID="45" fromX="-155" fromY="1971" />Você caminha até um dragão. Ele olha para você, entediado, e abre suas mandíbulas para mostrar que tem uma chama dourada em sua boca. Você vê que apenas os escolhidos podem se mover. Todos os outros ficam paralisados de medo da besta dourada.</nodes>
+      <outputs name="[Apenas o escolhido] A turbulência ferve em seu sangue e exige ação ousada. Alcance a chama, suportando qualquer dor que possa vir com ela." ownerID="7" targetID="29" fromX="-155" fromY="2212" />
+      <outputs name="[Apenas o escolhido]Ataque!" ownerID="7" targetID="30" fromX="-155" fromY="2132" />
+      <outputs name="[Apenas o escolhido] A luz chama você, e você sabe o que deve ser feito. Alcance a luz com seu espírito." ownerID="7" targetID="39" fromX="-155" fromY="2052" />
+      <outputs name="Você ainda pode se separar. Retire-se e retorne quando estiver realmente pronto!" ownerID="7" targetID="45" fromX="-155" fromY="1971" />Você caminha até um dragão. Ele olha para você, entediado, e abre suas mandíbulas para mostrar que tem uma chama dourada em sua boca. Você vê que apenas os escolhidos podem se mover. Todos os outros ficam paralisados de medo da besta dourada.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="8" positionX="2635" positionY="1057" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="8" targetID="9" group="G1" fromX="3064" fromY="668" />
       <outputs ownerID="8" targetID="19" group="G1" fromX="3064" fromY="588" />
@@ -8805,7 +8824,11 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="36" targetID="42" fromX="2448" fromY="3563" />Você mata os selvagens, embora não sem grandes perdas e sente a floresta observando você e uma voz selvagem fala: 'Você escolheu destruir meus filhos por causa da violência, não da vida. Você profanou a natureza e ignorou a harmonia. Você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.' The lake is still and empty, as is your soul...
+      <outputs name="Sair." ownerID="36" targetID="42" fromX="2448" fromY="3563" />Você mata os demônios da água, e a água do lago ondula como se lágrimas estivessem caindo sobre ela. Você vê o reflexo de Lada olhando para você:
+
+— Você escolheu a violência quando a violência era inútil. Você profanou meus adoradores com suas lâminas sujas, e agora meu poder será bloqueado, pois você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.'
+
+O lago está quieto e vazio, assim como sua alma...
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="37" positionX="1607" positionY="3180" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="100" maxDamage="100" useCountInPercent="true" targetGroup="ch">
       <outputs ownerID="37" targetID="43" fromX="2036" fromY="2791" />
@@ -8838,7 +8861,11 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="42" positionX="2549" positionY="4136" width="350" height="530" allPlayersXP="6" allPlayersRP="4" logBookName="QUEST_DIV_LADA" logBookDescription="QUEST_DIV_LADA_DES" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventure" ID="43" positionX="2991" positionY="4080" width="350" height="725">
-      <outputs name="Sair." ownerID="43" targetID="42" fromX="3316" fromY="3588" />Você mata os selvagens, embora não sem grandes perdas e sente a floresta observando você e uma voz selvagem fala: 'Você escolheu destruir meus filhos por causa da violência, não da vida. Você profanou a natureza e ignorou a harmonia. Você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.' The lake is still and empty, as is your soul...
+      <outputs name="Sair." ownerID="43" targetID="42" fromX="3316" fromY="3588" />Você mata os demônios da água, e a água do lago ondula como se lágrimas estivessem caindo sobre ela. Você vê o reflexo de Lada olhando para você:
+
+— Você escolheu a violência quando a violência era inútil. Você profanou meus adoradores com suas lâminas sujas, e agora meu poder será bloqueado, pois você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.'
+
+O lago está quieto e vazio, assim como sua alma...
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="44" positionX="1821" positionY="2186" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
@@ -8913,7 +8940,7 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
       <outputs name="Aproxime-se e tente falar com ela." ownerID="2" targetID="3" fromX="765" fromY="-518" />Ao vagar pelas terras, você encontra um pequeno bosque e sente a atração de sua conexão divina. Você vê um bando de Dievanna feral vagando livremente. Um deles se destaca - mais alto, mais rápido, radiante com a presença divina. Quando ela se vira para você, você sente que é de alguma forma sua deusa.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="910" positionY="47" width="350" height="725" image="Event292">
-      <outputs name="Tell them you are here to talk to Deuses" ownerID="3" targetID="7" fromX="1235" fromY="-444" />Conforme você se aproxima, os outros selvagens avançam e a deusa se afasta. Um dos selvagens fala, com a voz torta, enferrujada, como se a fala humana se tornasse estranha a ele: 'Você sai, nós libertamos, nós cheiramos Ela em você, então você não tem comida, mas vá.'</nodes>
+      <outputs name="Diga a eles que você está aqui para conversar com os Deuses" ownerID="3" targetID="7" fromX="1235" fromY="-444" />Conforme você se aproxima, os outros selvagens avançam e a deusa se afasta. Um dos selvagens fala, com a voz torta, enferrujada, como se a fala humana se tornasse estranha a ele: 'Você sai, nós libertamos, nós cheiramos Ela em você, então você não tem comida, mas vá.'</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1381" positionY="242" width="350" height="1126">
       <logic>
         <FilterBlock>
@@ -9133,7 +9160,11 @@ She must be freed from the Three. Thus to the lands of the volcanos you will go.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="36" targetID="42" fromX="2448" fromY="3563" />Você mata os selvagens, embora não sem grandes perdas e sente a floresta observando você e uma voz selvagem fala: 'Você escolheu destruir meus filhos por causa da violência, não da vida. Você profanou a natureza e ignorou a harmonia. Você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.'  The forest remains shaken, but you hear no more voices.
+      <outputs name="Sair." ownerID="36" targetID="42" fromX="2448" fromY="3563" />Você mata os selvagens e sente a floresta te observando e uma voz selvagem fala:
+
+— Você escolheu destruir meus filhos por causa da violência, não da vida. Você profanou a natureza e ignorou a harmonia. Você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.'
+
+A floresta continua abalada, mas você não ouve mais vozes.
 </nodes>
     <nodes xsi:type="NodeDealDamage" ID="37" positionX="1607" positionY="3180" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="100" maxDamage="120" useCountInPercent="true" targetGroup="ch">
       <outputs ownerID="37" targetID="43" fromX="2036" fromY="2791" />

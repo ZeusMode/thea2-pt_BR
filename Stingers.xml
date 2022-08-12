@@ -366,8 +366,8 @@
         </FilterBlock>
       </logic>
       <outputs name="Tente falar com eles." ownerID="3" targetID="4" fromX="625" fromY="90" />
-      <outputs name="Ataque!" ownerID="3" targetID="14" fromX="625" fromY="10" />You find a buzzing hub of animal activity. It looks a bit like a large beehive, but then you also spot some underground pairs and various other nests that are organised into one settlement. Several bees approach you, and speak:
-'You, you no beast. You want fight or you want trade?'
+      <outputs name="Ataque!" ownerID="3" targetID="14" fromX="625" fromY="10" />Você encontra um centro movimentado de atividade animal. Parece um pouco com uma grande colméia, mas você também vê alguns pares subterrâneos e vários outros ninhos organizados em um assentamento. Várias abelhas se aproximam de você e falam:
+— Você, sua besta. Você quer briga ou quer comércio?
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="715" positionY="672" width="350" height="1206">
       <outputs name="Troca." ownerID="4" targetID="2" fromX="1040" fromY="180" />

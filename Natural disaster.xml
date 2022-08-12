@@ -435,7 +435,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="9" targetID="20" fromX="3283" fromY="-1024" />Você corre como o vento e sente que os deuses olham favoravelmente para você. The cave keeps you safe, and when you leave, you discover some stone and the remains of a less fortunate soul.</nodes>
+      <outputs name="Sair." ownerID="9" targetID="20" fromX="3283" fromY="-1024" />Você corre como o vento e sente que os deuses olham favoravelmente para você. A caverna mantém você seguro e, ao sair, descobre algumas pedras e os restos de uma alma menos afortunada.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="3894.51" positionY="-625.8498" width="350" height="408" allPlayersXP="3" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="11" positionX="3017.73755" positionY="-1460.52966" width="350" height="725">
       <logic>
@@ -1892,8 +1892,8 @@
         </FilterBlock>
       </logic>
       <outputs name="[Stribog] Exija que o vento pare, agora!" ownerID="2" targetID="26" group="G1" fromX="851" fromY="-487" />
-      <outputs name="[Ganhard demons]Rejoice in the wind. Take to the skies and redirect the hurricane so it does not harm your kin." ownerID="2" targetID="3" group="G1" fromX="851" fromY="-568" />
-      <outputs name="[Ganhard demons]Rejoice in the wind. Take to the skies and redirect the hurricane so it does not harm your kin." ownerID="2" targetID="5" group="G1" fromX="851" fromY="-648" />
+      <outputs name="[Demônios Ganhard] Alegrai-vos com o vento. Suba aos céus e redirecione o furacão para que não prejudique seus parentes." ownerID="2" targetID="3" group="G1" fromX="851" fromY="-568" />
+      <outputs name="[Demônios Ganhard] Alegrai-vos com o vento. Suba aos céus e redirecione o furacão para que não prejudique seus parentes." ownerID="2" targetID="5" group="G1" fromX="851" fromY="-648" />
       <outputs name="Tente encontrar abrigo rapidamente." ownerID="2" targetID="15" group="G2" fromX="851" fromY="-728" />
       <outputs name="Tente encontrar abrigo rapidamente." ownerID="2" targetID="12" group="G2" fromX="851" fromY="-808" />Um furacão engole você!</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1097" positionY="436" width="350" height="725">

@@ -361,8 +361,8 @@
       <outputs name="[Percepção] Envie batedores." ownerID="2" targetID="4" fromX="540" fromY="-567" />
       <outputs name="Tente estar o mais preparado possível. Dobre o relógio e fique alerta." ownerID="2" targetID="13" group="G1" fromX="540" fromY="-647" />
       <outputs name="Tente estar o mais preparado possível. Dobre o relógio e fique alerta." ownerID="2" targetID="8" group="G1" fromX="540" fromY="-728" />
-      <outputs name="It is best to try to keep the peace and let cool minds prevail. Collect some goods from your village and offer them to the bandits in the hope that they will go away. [Perder 30% of goods]" ownerID="2" targetID="9" group="G2" fromX="540" fromY="-808" />
-      <outputs name="It is best to try to keep the peace and let cool minds prevail. Collect some goods from your village and offer them to the bandits in the hope that they will go away. [Perder 30% of goods]" ownerID="2" targetID="11" group="G2" fromX="540" fromY="-888" />Você ouve rumores de bandidos atacando pessoas perto de sua aldeia. Eles podem vir aqui em seguida. </nodes>
+      <outputs name="É melhor tentar manter a paz e deixar que as mentes frias prevaleçam. Recolha alguns bens da sua aldeia e ofereça-os aos bandidos na esperança de que eles vão embora. [Perder 30% dos bens]" ownerID="2" targetID="9" group="G2" fromX="540" fromY="-808" />
+      <outputs name="É melhor tentar manter a paz e deixar que as mentes frias prevaleçam. Recolha alguns bens da sua aldeia e ofereça-os aos bandidos na esperança de que eles vão embora. [Perder 30% dos bens]" ownerID="2" targetID="11" group="G2" fromX="540" fromY="-888" />Você ouve rumores de bandidos atacando pessoas perto de sua aldeia. Eles podem vir aqui em seguida. </nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="1585.80457" positionY="892.93" width="350" height="725">
       <outputs name="Lutar!" ownerID="3" targetID="6" fromX="1911" fromY="401" />Você rastreia os bandidos, mas eles estão esperando por você e o cobrem de flechas quando você se aproxima. </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="2044" positionY="-1129" width="350" height="966">
@@ -2304,7 +2304,7 @@
       </logic>
       <outputs name="Permita que ela fique." ownerID="42" targetID="52" group="G1" fromX="294" fromY="-1251" />
       <outputs name="Permita que ela fique." ownerID="42" targetID="13" group="G1" fromX="294" fromY="-1331" />
-      <outputs name="Never trust one of your own. Ataque!" ownerID="42" targetID="27" fromX="294" fromY="-1411" />Ela inclina a cabeça para você e ri, depois chora, então apenas olha por um tempo antes de falar: 'Domado, domado você é. Você tristeza tomada? Ou apenas se escondendo? Eu me pergunto. Um acordo. Você me deixa ficar e seguirá seu caminho.</nodes>
+      <outputs name="Nunca confie em um dos seus. Ataque!" ownerID="42" targetID="27" fromX="294" fromY="-1411" />Ela inclina a cabeça para você e ri, depois chora, então apenas olha por um tempo antes de falar: 'Domado, domado você é. Você tristeza tomada? Ou apenas se escondendo? Eu me pergunto. Um acordo. Você me deixa ficar e seguirá seu caminho.</nodes>
     <nodes xsi:type="NodeTrade" ID="43" positionX="122.248619" positionY="1434.92432" width="460" height="479" traderProfile="TRADER-SLAVYAN_SMALL_FRIENDLY" playerInventory="stuff">
       <outputs name="Confirm" ownerID="43" targetID="44" fromX="552" fromY="1106" />
       <outputs name="Cancel" ownerID="43" targetID="44" fromX="552" fromY="1026" />
@@ -2835,7 +2835,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Ataque!" ownerID="2" targetID="3" fromX="777" fromY="-640" />
-      <outputs name="[Hunter] Esses ratos gordos são mais resistentes que os vermes normais, mas você já os caçou antes. Preparar uma armadilha." ownerID="2" targetID="9" fromX="777" fromY="-720" />Você finalmente pega os ratos que levaram seu filho embora. But you realise these are no small vermin. These are fat rats and they seem angry and determined to finish their task.</nodes>
+      <outputs name="[Hunter] Esses ratos gordos são mais resistentes que os vermes normais, mas você já os caçou antes. Preparar uma armadilha." ownerID="2" targetID="9" fromX="777" fromY="-720" />Você finalmente pega os ratos que levaram seu filho embora. Mas você percebe que estes não são pequenos vermes. Estes são ratos gordos e parecem zangados e determinados a terminar sua tarefa.</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="879.886169" positionY="113.272194" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-FAT_RATS_MIX_1P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="4" fromX="1321" fromY="-382" />
       <outputs name="Lose" ownerID="3" targetID="7" fromX="1321" fromY="-462" />
@@ -3151,15 +3151,15 @@
       <outputs name="Execute o banimento!" ownerID="7" targetID="8" fromX="2153" fromY="964" />O nome é conhecido por você! Anabandaris, a nona irmã, a dona da peste dos apodrecidos. Agora você deve bani-la.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2283.33936" positionY="1371.6311" width="350" height="725">
-      <outputs name="Empurrar!" ownerID="8" targetID="9" fromX="2609" fromY="880" />The name is written on parchment soaked in the sweat of the ill. Anabandaris
+      <outputs name="Empurrar!" ownerID="8" targetID="9" fromX="2609" fromY="880" />O nome está escrito em pergaminho embebido no suor dos doentes. Anabandaris
 Anabandari
 Anabandar
 Anabanda
 Anaband
 Anaban
-Anaba
+Anabá
 Anab
-Ana With every utterance cut shorter, you feel the demon's hold weaken. 
+Ana A cada fala mais curta, você sente o poder do demônio enfraquecer.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2694.83569" positionY="1397.30933" width="350" height="725">
       <outputs name="Bom, agora cuide dos doentes." ownerID="9" targetID="10" fromX="3020" fromY="906" />O doente suspira por ar, mas a febre fica mais fraca à medida que o último de seu nome é falado. Um! Você joga o pergaminho em chamas purificadoras, e o demônio é banido!</nodes>
@@ -4439,7 +4439,7 @@ Ana With every utterance cut shorter, you feel the demon's hold weaken.
       </logic>
       <outputs name="Tente negociar com eles por comida." ownerID="14" targetID="15" fromX="1242" fromY="-2029" />
       <outputs name="[Hunter] Ataque, mas esgueire-se sobre eles e prepare uma armadilha para tornar a luta mais fácil." ownerID="14" targetID="20" fromX="1242" fromY="-2109" />
-      <outputs name="You do not have enough food to make deals. Ataque!" ownerID="14" targetID="3" fromX="1242" fromY="-2189" />
+      <outputs name="Você não tem comida suficiente para fazer negócios. Ataque!" ownerID="14" targetID="3" fromX="1242" fromY="-2189" />
       <outputs name="[Harmony] Fale com eles, pois a paz é sempre preferível." ownerID="14" targetID="11" fromX="1242" fromY="-2269" />
       <outputs name="Volte mais tarde." ownerID="14" targetID="21" fromX="1242" fromY="-2349" />
       <outputs name="[Bandido] Aborde-os como amigos e ofereça-se para trocar comida pela criança." ownerID="14" targetID="22" fromX="1242" fromY="-2430" />Você observa o acampamento deles, observa seus padroes e percebe que eles estão parecendo um pouco piores quando se trata de comida e bebida. Eles podem estar abertos à negociação.</nodes>
@@ -4531,7 +4531,7 @@ Ana With every utterance cut shorter, you feel the demon's hold weaken.
       </logic>
       <outputs name="Tente convencê-los a trocar por comida." ownerID="23" targetID="15" fromX="666" fromY="-1547" />
       <outputs name="[Hunter] Ataque, mas esgueire-se sobre eles e prepare uma armadilha para tornar a luta mais fácil." ownerID="23" targetID="20" fromX="322" fromY="-1627" />
-      <outputs name="You do not have enough food to make deals. Ataque!" ownerID="23" targetID="3" fromX="322" fromY="-1627" />
+      <outputs name="Você não tem comida suficiente para fazer negócios. Ataque!" ownerID="23" targetID="3" fromX="322" fromY="-1627" />
       <outputs name="[Harmony] Fale com eles, pois a paz é sempre preferível." ownerID="23" targetID="11" fromX="322" fromY="-1627" />
       <outputs name="Volte mais tarde." ownerID="23" targetID="21" fromX="322" fromY="-1627" />
       <outputs name="[Bandido] Aborde-os como amigos e ofereça-se para trocar comida pela criança." ownerID="23" targetID="22" fromX="322" fromY="-1627" />Você observa o acampamento deles, observa seus padroes e percebe que eles estão parecendo um pouco piores quando se trata de comida e bebida. Eles podem estar abertos à negociação.</nodes>
@@ -5244,7 +5244,11 @@ Ana With every utterance cut shorter, you feel the demon's hold weaken.
       </logic>
       <outputs name="Mate os mortos-vivos." ownerID="9" targetID="29" fromX="1840" fromY="-1153" />
       <outputs name="Sair." ownerID="9" targetID="81" fromX="1840" fromY="-1233" />
-      <outputs name="[Unliving] Tente argumentar com seus parentes." ownerID="9" targetID="70" fromX="1840" fromY="-1313" />It is not your place to interfere in others' conflict, and you feel your domain strengthened by this resolve. Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Você vê os anoes oprimidos pelos mortos-vivos, e agora você pode enfrentar a ameaça remanescente que está correndo em seu caminho.
+      <outputs name="[Unliving] Tente argumentar com seus parentes." ownerID="9" targetID="70" fromX="1840" fromY="-1313" />Não é seu lugar interferir no conflito dos outros, e você sente seu domínio fortalecido por essa resolução.
+
+Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre.
+
+Você vê os anões oprimidos pelos mortos-vivos, e agora você pode enfrentar a ameaça remanescente que está correndo em seu caminho.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="762.596741" positionY="-3871.46387" width="350" height="805">
       <logic>
@@ -5402,7 +5406,11 @@ Ana With every utterance cut shorter, you feel the demon's hold weaken.
       <outputs name="Ataque os anoes." ownerID="61" targetID="64" fromX="2254" fromY="-1253" />
       <outputs name="Sair." ownerID="61" targetID="81" fromX="2254" fromY="-1333" />
       <outputs name="Tente argumentar com eles." ownerID="61" targetID="40" fromX="2254" fromY="-1413" />
-      <outputs name="[Anão] Parabenize seus irmãos por uma luta bem travada." ownerID="61" targetID="13" fromX="2254" fromY="-1494" />It is not your place to interfere in others' conflict, and you feel your domain strengthened by this resolve. Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre. Você vê os anoes oprimidos pelos mortos-vivos, e agora você pode enfrentar a ameaça remanescente que está correndo em seu caminho.
+      <outputs name="[Anão] Parabenize seus irmãos por uma luta bem travada." ownerID="61" targetID="13" fromX="2254" fromY="-1494" />Não é seu lugar interferir no conflito dos outros, e você sente seu domínio fortalecido por essa resolução.
+
+Você pode pegar alguns recursos aproveitáveis enquanto o combate ocorre.
+
+Você vê que os anões são vitoriosos e correm furiosamente em sua direção.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="62" positionX="1077.75488" positionY="-1436.02441" width="350" height="885">
       <logic>
@@ -5762,7 +5770,7 @@ Ana With every utterance cut shorter, you feel the demon's hold weaken.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Take your child and leave.&#xD;&#xA;" ownerID="12" targetID="5" fromX="781" fromY="-1668" />Seus parentes ouvem suas súplicas e abandonam a criança em uma bolsa em que a carregaram.</nodes>
+      <outputs name="Pegue seu filho e vá embora.&#xD;&#xA;" ownerID="12" targetID="5" fromX="781" fromY="-1668" />Seus parentes ouvem suas súplicas e abandonam a criança em uma bolsa em que a carregaram.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="14" positionX="2304" positionY="-500" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="14" targetID="8" fromX="2752" fromY="-932" />
     </nodes>
@@ -5792,8 +5800,8 @@ Ana With every utterance cut shorter, you feel the demon's hold weaken.
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="[Vily or Viatroviec]Ganhard is your domain. Try to use it to shield you from the worst of it." ownerID="2" targetID="3" group="G1" fromX="744" fromY="-467" />
-      <outputs name="[Vily or Viatroviec]Ganhard is your domain. Try to use it to shield you from the worst of it." ownerID="2" targetID="7" group="G1" fromX="744" fromY="-547" />
+      <outputs name="[Vily ou Viatroviec]Ganhard é o seu domínio. Tente usá-lo para protegê-lo do pior." ownerID="2" targetID="3" group="G1" fromX="744" fromY="-467" />
+      <outputs name="[Vily ou Viatroviec]Ganhard é o seu domínio. Tente usá-lo para protegê-lo do pior." ownerID="2" targetID="7" group="G1" fromX="744" fromY="-547" />
       <outputs name="Encontre cobertura." ownerID="2" targetID="25" group="G2" fromX="744" fromY="-628" />
       <outputs name="Encontre cobertura." ownerID="2" targetID="13" group="G2" fromX="744" fromY="-708" />
       <outputs name="Tente proteger as casas e o gado." ownerID="2" targetID="29" fromX="744" fromY="-788" />Uma chuva de granizo repentina pega você desprevenido.</nodes>

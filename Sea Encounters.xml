@@ -2589,7 +2589,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="9" targetID="8" fromX="2060" fromY="-1653" />As rochas provam ser afiadas e as águas não tão calmas quanto você pensava. Você fica muito machucado e nada de volta ao seu barco. You lose some of your equipment too.</nodes>
+      <outputs name="Sair." ownerID="9" targetID="8" fromX="2060" fromY="-1653" />As rochas provam ser afiadas e as águas não tão calmas quanto você pensava. Você fica muito machucado e nada de volta ao seu barco. Você perde alguns de seus equipamentos também.</nodes>
     <nodes xsi:type="NodeChallenge" ID="10" positionX="975" positionY="-391" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="10" targetID="16" fromX="1416" fromY="-886" />
       <outputs name="Lose" ownerID="10" targetID="11" fromX="1416" fromY="-966" />
@@ -3703,7 +3703,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="9" targetID="8" fromX="2060" fromY="-1653" />As rochas provam ser afiadas e as águas não tão calmas quanto você pensava. Você fica muito machucado e nada de volta ao seu barco. You lose some of your equipment too.</nodes>
+      <outputs name="Sair." ownerID="9" targetID="8" fromX="2060" fromY="-1653" />As rochas provam ser afiadas e as águas não tão calmas quanto você pensava. Você fica muito machucado e nada de volta ao seu barco. Você perde alguns de seus equipamentos também.</nodes>
     <nodes xsi:type="NodeChallenge" ID="10" positionX="1046" positionY="-374" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_7P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="10" targetID="16" fromX="1487" fromY="-869" />
       <outputs name="Lose" ownerID="10" targetID="11" fromX="1487" fromY="-949" />

@@ -1291,7 +1291,12 @@
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Entre." ownerID="2" targetID="4" fromX="807" fromY="-551" />Você encontra a casa abandonada de Theodore. Está situado entre algumas árvores e parece bastante antigo. As soon as you take another step, you realise that all the chosen are pulled in with you. </nodes>
+      <outputs name="Entre." ownerID="2" targetID="4" fromX="807" fromY="-551" />Você encontra a casa abandonada de Theodore. Está situado entre algumas árvores e parece bastante antigo. </nodes>
+    <nodes xsi:type="NodeAdventure" ID="3" positionX="481" positionY="-822" width="350" height="725">
+      <outputs name="Go in." ownerID="3" targetID="4" fromX="806" fromY="-1313" />Você encontra a casa abandonada de Theodore. Está situado entre algumas árvores e parece bastante antigo.
+
+Assim que você dá mais um passo, percebe que todos os escolhidos são puxados com você.
+</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1240" positionY="-455" width="350" height="725" image="Event273">
       <logic>
         <FilterBlock>
@@ -4477,7 +4482,7 @@
       <outputs name="Ela?" ownerID="15" targetID="16" fromX="1002" fromY="-271" />'O que? Por que ela iria?</nodes>
     <nodes xsi:type="NodeAdventure" ID="16" positionX="1333" positionY="208" width="350" height="805">
       <outputs name="Diga a ele que isso não é da sua conta, mas você prefere não matar ninguém, então é melhor ele resolver isso." ownerID="16" targetID="17" fromX="1658" fromY="-283" />
-      <outputs name="Say you are sorry, but a deal's a deal. Ataque!" ownerID="16" targetID="3" fromX="1658" fromY="-363" />— Ela disse que era ele? Ela gosta de jogar assim, não importa para mim. Por que ela diria isso? Somos melhores amigos há um século. Quer dizer, claro, eu acho que ela é uma grande vadia, mas eu nunca. . .'</nodes>
+      <outputs name="Diga que sente muito, mas um acordo é um acordo. Ataque!" ownerID="16" targetID="3" fromX="1658" fromY="-363" />— Ela disse que era ele? Ela gosta de jogar assim, não importa para mim. Por que ela diria isso? Somos melhores amigos há um século. Quer dizer, claro, eu acho que ela é uma grande vadia, mas eu nunca. . .'</nodes>
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1776" positionY="152" width="350" height="725">
       <outputs name="Acene e vá embora." ownerID="17" targetID="18" fromX="2101" fromY="-339" />'Apenas, por favor, vá ganhar o jogo. Eu juro que vou lidar com Frix eu mesma.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="2222" positionY="-25" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_LEO" logBookDescription="QUEST_LEO_KILL3_DES" linkedEventUniqueID="0">

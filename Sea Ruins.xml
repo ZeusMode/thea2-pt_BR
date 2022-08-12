@@ -42,7 +42,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Mergulho." ownerID="4" targetID="5" fromX="1734" fromY="-52" />
-      <outputs name="[Water demon]Swimming in such enclosed, man-made spaces is foul, but it will be easier for you. Mergulho." ownerID="4" targetID="81" fromX="1734" fromY="-132" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
+      <outputs name="[Demônio da água] Nadar em espaços tão fechados e feitos pelo homem é sujo, mas será mais fácil para você. Mergulho." ownerID="4" targetID="81" fromX="1734" fromY="-132" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1865" positionY="867" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_2P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="6" fromX="2306" fromY="371" />
       <outputs name="Lose" ownerID="5" targetID="7" fromX="2306" fromY="291" />
@@ -317,7 +317,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Mergulho." ownerID="4" targetID="5" fromX="1757" fromY="-77" />
-      <outputs name="[Water demon]Swimming in such enclosed, man-made spaces is foul, but it will be easier for you. Mergulho." ownerID="4" targetID="13" fromX="1757" fromY="-157" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
+      <outputs name="[Demônio da água] Nadar em espaços tão fechados e feitos pelo homem é sujo, mas será mais fácil para você. Mergulho." ownerID="4" targetID="13" fromX="1757" fromY="-157" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1865" positionY="867" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="81" fromX="2306" fromY="371" />
       <outputs name="Lose" ownerID="5" targetID="7" fromX="2306" fromY="291" />
@@ -731,7 +731,7 @@
       <outputs ownerID="63" targetID="64" fromX="3384" fromY="-4255" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="64" positionX="2390" positionY="-4268" width="350" height="725">
-      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />Você é derrotado e forçado a fugir. The doors to the chamber disappear behind you.</nodes>
+      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />Você é derrotado e forçado a fugir. As portas da câmara desaparecem atrás de você.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="65" positionX="449" positionY="-3034" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="65" targetID="35" fromX="897" fromY="-3466" />
     </nodes>
@@ -921,7 +921,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Mergulho." ownerID="4" targetID="5" fromX="1757" fromY="-77" />
-      <outputs name="[Water demon]Swimming in such enclosed, man-made spaces is foul, but it will be easier for you. Mergulho." ownerID="4" targetID="13" fromX="1757" fromY="-157" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
+      <outputs name="[Demônio da água] Nadar em espaços tão fechados e feitos pelo homem é sujo, mas será mais fácil para você. Mergulho." ownerID="4" targetID="13" fromX="1757" fromY="-157" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1865" positionY="867" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_8P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="81" fromX="2306" fromY="371" />
       <outputs name="Lose" ownerID="5" targetID="7" fromX="2306" fromY="291" />
@@ -1349,7 +1349,7 @@
       <outputs ownerID="63" targetID="64" fromX="3396" fromY="-4323" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="64" positionX="2390" positionY="-4268" width="350" height="725">
-      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />Você é derrotado e forçado a fugir. The doors to the chamber disappear behind you.</nodes>
+      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />Você é derrotado e forçado a fugir. As portas da câmara desaparecem atrás de você.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="65" positionX="491" positionY="-3160" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="65" targetID="35" fromX="939" fromY="-3592" />
     </nodes>
@@ -1537,7 +1537,7 @@
         </FilterBlock>
       </logic>
       <outputs name="Mergulho." ownerID="4" targetID="5" fromX="1757" fromY="-77" />
-      <outputs name="[Water demon]Swimming in such enclosed, man-made spaces is foul, but it will be easier for you. Mergulho." ownerID="4" targetID="13" fromX="1757" fromY="-157" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
+      <outputs name="[Demônio da água] Nadar em espaços tão fechados e feitos pelo homem é sujo, mas será mais fácil para você. Mergulho." ownerID="4" targetID="13" fromX="1757" fromY="-157" />Você vasculha as áreas do norte e descobre que isso deve ter sido um tesouro há muito tempo. Se sobrar alguma mercadoria, ela está nas profundezas da água, então você deve mergulhar e procurar nas profundezas escuras pelo tesouro.</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="1865" positionY="867" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_11P_0M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="81" fromX="2306" fromY="371" />
       <outputs name="Lose" ownerID="5" targetID="7" fromX="2306" fromY="291" />
@@ -1955,7 +1955,7 @@
       <outputs ownerID="63" targetID="64" fromX="3384" fromY="-4255" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="64" positionX="2390" positionY="-4268" width="350" height="725">
-      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />Você é derrotado e forçado a fugir. The doors to the chamber disappear behind you.</nodes>
+      <outputs name="Sair." ownerID="64" targetID="34" fromX="2715" fromY="-4759" />Você é derrotado e forçado a fugir. As portas da câmara desaparecem atrás de você.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="65" positionX="449" positionY="-3034" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="65" targetID="35" fromX="897" fromY="-3466" />
     </nodes>

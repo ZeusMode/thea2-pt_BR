@@ -825,7 +825,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="The gift turns out to be a crow to serve you. Sair." ownerID="36" targetID="51" fromX="667" fromY="-2041" />
+      <outputs name="O presente acaba sendo um corvo para servi-lo. Sair." ownerID="36" targetID="51" fromX="667" fromY="-2041" />
       <outputs name="Sair." ownerID="36" targetID="50" fromX="667" fromY="-2121" />Você sussurra na antiga língua espiritual das árvores, e o velho carvalho se ergue novamente. Com o ninho dos corvos de volta na coroa, os corvos começam a reconstruí-lo. Um deles deixa um presente em agradecimento.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="37" positionX="727" positionY="-1671" width="350" height="455" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>

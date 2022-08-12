@@ -3692,10 +3692,10 @@
         </FilterBlock>
       </logic>
       <outputs name="Aproxime-se do troll e pergunte do que se trata toda a comoção." ownerID="3" targetID="26" fromX="1077" fromY="527" />
-      <outputs name="Você tem a vantagem, ataque!" ownerID="3" targetID="7" fromX="1077" fromY="447" />You see one or more trolls and several rockers huddled over something and arguing: 'How long yet?'
-'Loong, quiet.'
-'We go now? We go?'
-'No!'
+      <outputs name="Você tem a vantagem, ataque!" ownerID="3" targetID="7" fromX="1077" fromY="447" />Você vê um ou mais trolls e vários roqueiros amontoados sobre alguma coisa e discutindo: 'Quanto tempo ainda?'
+"Loong, quieto."
+'Nós vamos agora? Nós vamos?'
+'Não!'
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1466" positionY="-50" width="350" height="885">
       <logic>
@@ -5042,7 +5042,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="33" targetID="12" fromX="1545" fromY="-2431" />The pack leaves, bowing to your superiority. Os anoes agradecem sua rápida intervenção. Eles o recompensam bem e sua amizade cresce. </nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="33" targetID="12" fromX="1545" fromY="-2431" />>O bando vai embora, curvando-se à sua superioridade. Os anões agradecem sua rápida intervenção. Eles o recompensam bem e sua amizade cresce.</nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="1712" positionY="-1940" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -6033,7 +6033,9 @@
         </ModifierBlock>
       </logic>
       <outputs name="Você vê um fantasma preso aqui também, e ele quer se prender a você." ownerID="50" targetID="74" group="G1" fromX="2845" fromY="-1919" />
-      <outputs name="Sair." ownerID="50" targetID="77" group="G1" fromX="2845" fromY="-1999" />Esses ossos sem vida devem estar longe de seu mestre há muito tempo. Eles ouvem seus comandos como se estivessem ansiando por alguém para dar um. Eles se afastam, mas os anoes estão zangados porque você não matou o flagelo. As a mark of their honour, they pay you for the job, but your friendship does not grow.</nodes>
+      <outputs name="Sair." ownerID="50" targetID="77" group="G1" fromX="2845" fromY="-1999" />Esses ossos sem vida devem estar longe de seu mestre há muito tempo. Eles ouvem seus comandos como se estivessem ansiando por alguém para dar um.
+
+Eles se afastam, mas os anões estão zangados porque você não matou o flagelo. Como sinal de honra, eles te pagam pelo trabalho, mas sua amizade não cresce.</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="-1088" positionY="247" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -6050,7 +6052,7 @@
       </logic>
       <outputs name="[Usuário de magia ou magia] Aproxime-se desse estranho zoológico e tente sentir que magia está em ação aqui." ownerID="52" targetID="62" fromX="-762" fromY="-244" />
       <outputs name="Ataque!" ownerID="52" targetID="55" fromX="-762" fromY="-324" />
-      <outputs name="[Orc or Turmoil] Algo cheira a podre aqui. Vá mais perto." ownerID="52" targetID="82" fromX="-762" fromY="-404" />
+      <outputs name="[Orc ou Turbulência] Algo cheira a podre aqui. Vá mais perto." ownerID="52" targetID="82" fromX="-762" fromY="-404" />
       <outputs name="Abandone esta tarefa." ownerID="52" targetID="48" fromX="-762" fromY="-484" />À medida que você se aproxima, você vê as ruínas de uma antiga arena e, dentro, vários cadáveres sem vida estão lutando. Uma figura vestida com mantos pretos está acima deles e observa intensamente com um braço erguido acima da cabeça.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="54" positionX="1096" positionY="-2975" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="skeletons">
       <outputs ownerID="54" targetID="39" fromX="1525" fromY="-3363" />
