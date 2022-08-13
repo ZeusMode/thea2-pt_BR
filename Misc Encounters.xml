@@ -6208,7 +6208,8 @@ The bandit cries out in anger but runs off.</nodes>
         </FilterBlock>
       </logic>
       <outputs name="Pergunte onde ele está e procure o homem." ownerID="2" targetID="4" fromX="778" fromY="-586" />
-      <outputs name="Ignore os gritos e vá embora." ownerID="2" targetID="3" fromX="778" fromY="-666" />Ao viajar por uma floresta, você ouve os gritos de um homem: 'Socorro, por favor, alguém, me ajude!' Eles são fracos, mas vêm de algum lugar próximo.</nodes>
+      <outputs name="Ignore os gritos e vá embora." ownerID="2" targetID="3" fromX="778" fromY="-666" />Ao viajar por uma floresta, você ouve os gritos de um homem: 'Socorro, por favor, alguém, me ajude!' Eles são fracos, mas vêm de algum lugar próximo.
+    </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="-136.185425" positionY="-916.7003" width="350" height="530" allPlayersXP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="4" positionX="921.2279" positionY="13.2872467" width="350" height="885">
       <outputs name="Pegue algumas cordas e jogue-as para o homem." ownerID="4" targetID="6" fromX="1246" fromY="-477" />
@@ -6220,7 +6221,7 @@ The bandit cries out in anger but runs off.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1422.96143" positionY="-659.9815" width="350" height="805">
       <outputs name="Puxe-o para fora." ownerID="6" targetID="7" group="G1" fromX="1748" fromY="-1151" />
       <outputs name="Puxe-o para fora." ownerID="6" targetID="19" group="G1" fromX="1748" fromY="-1231" />Você joga a corda no chão e sente o peso de um homem. 
-</nodes>
+    </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1853.08057" positionY="-574.7236" width="350" height="805">
       <logic>
         <FilterBlock>

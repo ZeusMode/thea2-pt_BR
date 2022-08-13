@@ -28,13 +28,13 @@
 	<STORY_MODULE>mChapter 1.xml</STORY_MODULE>
 	<STORY_MODULE>Misc Encounters 2.xml</STORY_MODULE>
 	<STORY_MODULE>Misc Encounters.xml</STORY_MODULE>
-	<STORY_MODULE>Misc Encounters 3.xml</STORY_MODULE>
+	<STORY_MODULE>MiscEncounters 3.xml</STORY_MODULE>
 	<STORY_MODULE>Natural disaster.xml</STORY_MODULE>
 	<STORY_MODULE>Nest.xml</STORY_MODULE>
-	<STORY_MODULE>Nightdemins.xml</STORY_MODULE>
+	<STORY_MODULE>Nightdemons.xml</STORY_MODULE>
 	<STORY_MODULE>Post Water Stuff.xml</STORY_MODULE>
 	<STORY_MODULE>Quarry.xml</STORY_MODULE>
-	<STORY_MODULE>Ruins Basic.xml</STORY_MODULE>
+
 	<STORY_MODULE>Scavengers.xml</STORY_MODULE>
 	<STORY_MODULE>Sea Encounters.xml</STORY_MODULE>
 	<STORY_MODULE>Sea Ruins.xml</STORY_MODULE>

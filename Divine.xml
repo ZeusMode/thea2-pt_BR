@@ -6103,7 +6103,7 @@ O lago está quieto e vazio, assim como sua alma...
 
 — Você escolheu destruir meus filhos por causa da violência, não da vida. Você profanou a natureza e ignorou a harmonia. Você não é o escolhido que eu esperava. Vá em frente e redima-se, mas saiba que você não receberá minha bênção final.'
 
-A floresta continua abalada, mas você não ouve mais vozes.
+A floresta continua abalada, mas você não ouve mais vozes.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="37" positionX="1607" positionY="3180" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="100" maxDamage="120" useCountInPercent="true" targetGroup="ch">
       <outputs ownerID="37" targetID="43" fromX="2036" fromY="2791" />
     </nodes>
@@ -6265,8 +6265,7 @@ A floresta continua abalada, mas você não ouve mais vozes.
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Ouça Stribog e siga sua voz." ownerID="2" targetID="3" fromX="765" fromY="-518" />Seu navio é pego em uma grande tempestade que ameaça afogá-lo, mas de dentro do caos você ouve a voz calma, mas forte de seu mestre.
-</nodes>
+      <outputs name="Ouça Stribog e siga sua voz." ownerID="2" targetID="3" fromX="765" fromY="-518" />Seu navio é pego em uma grande tempestade que ameaça afogá-lo, mas de dentro do caos você ouve a voz calma, mas forte de seu mestre.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="886" positionY="238" width="350" height="725" image="Event295">
       <outputs name="Fale e peça orientação ao seu deus." ownerID="3" targetID="4" fromX="1211" fromY="-253" />Grandes ondas o levam adiante, e você logo percebe que uma delas é seu deus. A onda divina é selvagem e magnífica, mas você sente que está perdida em sua fúria elementar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1367" positionY="456" width="350" height="805">

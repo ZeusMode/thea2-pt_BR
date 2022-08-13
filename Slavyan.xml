@@ -6207,9 +6207,12 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Peça-lhe que lhe deixe um servo em seu lugar." ownerID="25" targetID="73" fromX="872" fromY="-1153" />'Yes, oh great one, I serve your superior will.'
+      <outputs name="Peça-lhe que deixe um servo em seu lugar." ownerID="25" targetID="73" fromX="872" fromY="-1153" />'Sim, oh grande, eu sirvo a sua vontade superior.'
  
-Despite its words, you know a striga won't stay obedient for long. He leaves you all his equipment as a sign of honour, though.</nodes>
+Apesar de suas palavras, você sabe que uma striga não será obediente por muito tempo.
+
+No entanto, ele deixa todo o seu equipamento para você como um sinal de honra.
+    </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="26" positionX="1020.74133" positionY="-1238.80688" width="350" height="455" allPlayersXP="5" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
