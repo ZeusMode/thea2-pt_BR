@@ -93,7 +93,9 @@
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2872" positionY="507" width="350" height="885">
       <outputs name="Dê algumas frutas [50%] e participe da diversão." ownerID="9" targetID="60" fromX="3197" fromY="15" />
       <outputs name="Você não tem frutas, então dê a eles algum equipamento. [Troca]" ownerID="9" targetID="58" fromX="3197" fromY="-64" />
-      <outputs name="Aceite o truque." ownerID="9" targetID="5" fromX="3197" fromY="-144" /></nodes>
+      <outputs name="Aceite o truque." ownerID="9" targetID="5" fromX="3197" fromY="-144" />A bruxa afirma que a celebração da véspera do Hollow é apenas outra maneira de celebrar Zaduszki, o dia dos mortos. Não interfere nos velhos costumes; acrescenta a eles.
+
+Você acha difícil discutir mais com ela, ela faz um bom ponto...</nodes>
     <nodes xsi:type="NodeDealDamage" ID="10" positionX="1857" positionY="68" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="20" maxDamage="40" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="10" targetID="8" fromX="2286" fromY="-320" />
     </nodes>
@@ -121,7 +123,9 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="12" targetID="13" fromX="1675" fromY="-916" /></nodes>
+      <outputs name="Sair." ownerID="12" targetID="13" fromX="1675" fromY="-916" />A trupe se afasta e vendo sua vigilância, eles decidem não pregar nenhuma peça.
+
+Você sente a satisfação dos antepassados abençoá-lo.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="13" positionX="671" positionY="-1550" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventure" ID="14" positionX="1287" positionY="-1215" width="350" height="966">
       <logic>
@@ -148,7 +152,9 @@
       <outputs name="A letra é um A... quem sabe o que isso significa. Agradeça aos visitantes pelo destino e volte ao seu negócio." ownerID="15" targetID="18" fromX="2203" fromY="-2598" />
       <outputs name="A letra é um B... quem sabe o que isso significa. Agradeça aos visitantes pelo destino e volte ao seu negócio." ownerID="15" targetID="19" fromX="2203" fromY="-2678" />
       <outputs name="A letra é um N... quem sabe o que isso significa. Agradeça aos visitantes pelo destino e volte para o seu negócio." ownerID="15" targetID="21" fromX="2203" fromY="-2758" />
-      <outputs name="Infelizmente, nenhuma carta pode ser lida, mas foi divertido jogar." ownerID="15" targetID="20" fromX="2203" fromY="-2838" /></nodes>
+      <outputs name="Infelizmente, nenhuma carta pode ser lida, mas foi divertido jogar." ownerID="15" targetID="20" fromX="2203" fromY="-2838" />Uma maçã é descascada de uma só vez, depois a casca é jogada sobre seu ombro direito, enquanto você fica em pé esquerdo e recita os ritos dos mortos, afinal esta é a noite de Nyia e você não deve ofendê-la com muitas práticas estrangeiras ...
+
+A casca pousa e a letra que ela forma será a primeira letra do nome daquele que reivindicará sua vida - seja no amor ou no abraço eterno...</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="16" positionX="2383" positionY="-2085" width="460" height="509">
       <logic>
         <FilterBlock>
@@ -350,7 +356,9 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="26" targetID="13" fromX="995" fromY="-3135" /></nodes>
+      <outputs name="Sair." ownerID="26" targetID="13" fromX="995" fromY="-3135" />Você tem muitos doces, mas comeu todos e agora você se sente muito doente...
+
+Ainda assim, isso foi divertido.</nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="264" positionY="-2699" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -371,7 +379,9 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="27" targetID="13" fromX="589" fromY="-3190" />e você tem algumas outras coisas também.</nodes>
+      <outputs name="Sair." ownerID="27" targetID="13" fromX="589" fromY="-3190" />Você tem muitos doces, mas comeu todos e agora você se sente um pouco doente...
+
+Ainda assim, isso foi divertido e você conseguiu algumas outras coisas também.</nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="-263" positionY="-1833" width="350" height="725">
       <outputs name="Sair." ownerID="28" targetID="36" fromX="62" fromY="-2324" />Você mata os estranhos e saqueia seus cadáveres, estranhamente, você ouve risadas maníacas da escuridão e pode jurar que viu um pacote de abóboras fugindo...</nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="-1299" positionY="-2602" width="350" height="725">
@@ -420,7 +430,9 @@
         </FilterBlock>
       </logic>
       <outputs name="Sente-se com a vela." ownerID="31" targetID="32" fromX="2929" fromY="-1262" />
-      <outputs name="Na verdade, educadamente recuse e vá embora." ownerID="31" targetID="13" fromX="2929" fromY="-1342" /></nodes>
+      <outputs name="Na verdade, educadamente recuse e vá embora." ownerID="31" targetID="13" fromX="2929" fromY="-1342" />'Você deve sentar em uma sala escura segurando uma vela acesa em sua mão nua, até que a última chama e a cera queimem sua carne. Até este momento, e se os espíritos acharem certo, você verá seu destino refletido no espelho.
+
+Cuidado, se você deixar cair a vela ou adormecer, você pode selar um destino sombrio!'</nodes>
     <nodes xsi:type="NodeDealDamage" ID="32" positionX="3053" positionY="-710" width="460" height="940" challengeTypeDamage="TypePhysical" minDamage="20" maxDamage="30" useCountInPercent="true" targetGroup="one">
       <logic>
         <FilterBlock>
@@ -518,7 +530,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="37" targetID="38" fromX="-874" fromY="-107" /></nodes>
+      <outputs name="Sair." ownerID="37" targetID="38" fromX="-874" fromY="-107" />A bruxa sorri e eles vão embora rindo como crianças. Em seguida, um bando de hochlicks aparece em seu rastro e enxame sobre todos os seus suprimentos de comida!
+
+A comida tem um gosto engraçado e deixa você muito doente nos próximos dias.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="38" positionX="-665" positionY="-600" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="39" positionX="-1224" positionY="-381" width="350" height="725">
       <logic>
@@ -548,7 +562,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="39" targetID="38" fromX="-898" fromY="-872" /></nodes>
+      <outputs name="Sair." ownerID="39" targetID="38" fromX="-898" fromY="-872" />Como truque, os convidados convidaram uma caravana inteira de viajantes desalinhados em seu nome e, como é a semana de Finados, você simplesmente não pode recusar a hospitalidade...
+
+Eles comeram muito da sua comida, mas, pelo lado positivo, eles deixaram um pouco de aguardente e você teve uma boa festa.</nodes>
     <nodes xsi:type="NodeAdventure" ID="40" positionX="-1407" positionY="-1439" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -597,7 +613,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="42" targetID="38" fromX="-2217" fromY="-1866" /></nodes>
+      <outputs name="Sair." ownerID="42" targetID="38" fromX="-2217" fromY="-1866" />Como um truque, eles fizeram um monte de barulho - o que perturba as almas em repouso, é claro; espalharam farinha no chão, para que os pobres espíritos não pudessem vagar livremente e roubaram suas oferendas de comida para os antepassados falecidos!
+
+Você sente a raiva dos velhos espíritos sobre você, enquanto eles se manifestam e o assombram por um tempo. Mas os patifes também deixaram algumas abobrinhas estranhas para você.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="43" positionX="-2464" positionY="-863" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="40" maxDamage="70" useCountInPercent="true" targetGroup="ppl">
       <logic>
         <FilterBlock>
@@ -688,7 +706,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
     <nodes xsi:type="NodeAdventureEnd" ID="50" positionX="4702" positionY="-1605" width="350" height="530" allPlayersXP="2" allPlayersRP="3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="51" positionX="1793" positionY="1260" width="350" height="805">
       <outputs name="Dê boas-vindas a eles." ownerID="51" targetID="53" fromX="2118" fromY="768" />
-      <outputs name="Diga-lhes que não há necessidade e deseje-lhes o bem." ownerID="51" targetID="52" fromX="2118" fromY="688" /></nodes>
+      <outputs name="Diga-lhes que não há necessidade e deseje-lhes o bem." ownerID="51" targetID="52" fromX="2118" fromY="688" />Eles acenam obedientemente e juntos vocês preparam a festa das almas; você acende velas para que os espíritos encontrem o caminho e conta histórias daqueles que passaram, para que sua memória seja honrada.
+
+Um dos foliões decide que ficará com você como penitência por seu erro anterior.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="52" positionX="3279" positionY="904" width="350" height="530" allPlayersXP="5" allPlayersRP="4" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeProduceDrop" ID="53" positionX="2232" positionY="1241" width="460" height="669">
       <outputs ownerID="53" targetID="54" group="G1" fromX="2662" fromY="882" />
@@ -822,10 +842,14 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="434" positionY="-170" width="350" height="805">
       <outputs name="Preço Nyia." ownerID="2" targetID="3" fromX="759" fromY="-661" />
-      <outputs name="Diga que não precisa ouvir mais, agradeça e vá embora." ownerID="2" targetID="7" fromX="759" fromY="-741" /></nodes>
+      <outputs name="Diga que não precisa ouvir mais, agradeça e vá embora." ownerID="2" targetID="7" fromX="759" fromY="-741" />À medida que as forças cósmicas se alinham sob o sigilo do mundo espiritual, é tradicionalmente o momento de reverência pelos mortos, o Dia de Finados, ou Zaduszki. Durante este período, é a senhora da morte, Nyia, que é honrada e reverenciada, para que ela possa olhar bem para as almas de seus entes queridos falecidos e também para sua própria alma, um dia.
+
+Criaturas da não-vida e aqueles guiados pela escuridão são tradicionalmente convidados a entrar nas casas para festejar em paz, embora se deva permanecer sempre vigilante com aqueles que quebram as regras.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="913" positionY="-280" width="350" height="805">
       <outputs name="Saber mais." ownerID="3" targetID="4" fromX="1238" fromY="-771" />
-      <outputs name="Diga que não precisa ouvir mais, agradeça e vá embora." ownerID="3" targetID="7" fromX="1238" fromY="-851" /></nodes>
+      <outputs name="Diga que não precisa ouvir mais, agradeça e vá embora." ownerID="3" targetID="7" fromX="1238" fromY="-851" />Nos últimos anos, o Dia de Finados também foi comemorado como a véspera de Todos os Santos, uma tradição que derivou das Terras Ocidentais.
+
+Aqui, um estranho costume de visitas domiciliares e uma coisa chamada doces ou travessuras lentamente tomou conta das terras. Abóboras esculpidas tornam-se lanternas, aparentemente em homenagem aos mortos, mas as forças das trevas geralmente se aproveitam de tais práticas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1444" positionY="-361" width="350" height="725">
       <outputs name="Acene e prepare-se para a estação da graça de Nyia." ownerID="4" targetID="7" fromX="1769" fromY="-852" />Diz-se que um tem que presentear aqueles doces ou travessuras com doces de frutas ou outros bens ou então enfrentar o mal na forma dos truques. Os demônios da casa boicotam este dia, ofendidos por sua violação de suas próprias práticas diárias. Curiosidade: os vegetais se transformam em abóboras e as frutas se transformam em doces de frutas durante esse período - os estudiosos acham que uma divindade estrangeira deve estar pregando peças em Slavya...</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="-75" positionY="-706" width="350" height="805">
@@ -890,7 +914,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="181" fromY="-1598" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="181" fromY="-1598" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2683" positionY="86" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2123" positionY="-595" width="350" height="725">
       <logic>
@@ -905,7 +931,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="7" targetID="5" fromX="2448" fromY="-1086" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="7" targetID="5" fromX="2448" fromY="-1086" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2546" positionY="-804" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -914,7 +942,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="8" targetID="5" fromX="2871" fromY="-1295" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="8" targetID="5" fromX="2871" fromY="-1295" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="867" positionY="-465" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -934,7 +964,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="9" targetID="5" fromX="1192" fromY="-956" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="9" targetID="5" fromX="1192" fromY="-956" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="832" positionY="436" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -954,7 +986,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="10" targetID="5" fromX="1157" fromY="-55" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="10" targetID="5" fromX="1157" fromY="-55" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1203" positionY="375" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -983,7 +1017,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="11" targetID="5" fromX="1528" fromY="-116" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="11" targetID="5" fromX="1528" fromY="-116" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="1692" positionY="294" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1006,7 +1042,11 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" />Como um goblin, seu espírito encontra seu caminho direto de volta para o corpo voluntário de um jovem xamã.</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'
+
+Como um goblin, seu espírito encontra seu caminho direto de volta para o corpo voluntário de um jovem xamã.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="1243" positionY="-492" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1026,7 +1066,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="13" targetID="5" fromX="1568" fromY="-983" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="13" targetID="5" fromX="1568" fromY="-983" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="1648" positionY="-1000" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1046,7 +1088,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="14" targetID="5" fromX="1973" fromY="-1491" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="14" targetID="5" fromX="1973" fromY="-1491" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="-563" positionY="-853" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -1062,7 +1106,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
         </FilterBlock>
       </logic>
       <outputs name="Curve-se e vá embora." ownerID="15" targetID="16" group="G1" fromX="-237" fromY="-1344" />
-      <outputs name="Curve-se e vá embora." ownerID="15" targetID="17" group="G1" fromX="-237" fromY="-1424" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="15" targetID="17" group="G1" fromX="-237" fromY="-1424" />>E ainda assim, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ, VOCÊ JÁ ENGANOU A MORTE. AGORA, PEREÇA!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="2044" positionY="-1679" width="350" height="530" linkedEventUniqueID="29">
       <logic>
         <FilterBlock>
@@ -1148,7 +1194,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="1214" fromY="-205" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="1214" fromY="-205" />'VOCÊ É MEU ESCOLHIDO, COMO VOCÊ OUSA MORRER?!'
+
+A dama da morte agarra um cadáver e enfia sua alma nele, ordenando que você continue.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="1302" positionY="12" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="1369" positionY="-560" width="350" height="530" linkedEventUniqueID="29">
       <logic>
@@ -1208,7 +1256,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="2005" fromY="-1083" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="4" targetID="5" fromX="2005" fromY="-1083" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2683" positionY="86" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2123" positionY="-595" width="350" height="725">
       <logic>
@@ -1223,7 +1273,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="7" targetID="5" fromX="2448" fromY="-1086" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="7" targetID="5" fromX="2448" fromY="-1086" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2546" positionY="-804" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -1232,7 +1284,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="8" targetID="5" fromX="2871" fromY="-1295" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="8" targetID="5" fromX="2871" fromY="-1295" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="853" positionY="-463" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1252,7 +1306,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="9" targetID="5" fromX="1178" fromY="-954" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="9" targetID="5" fromX="1178" fromY="-954" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="832" positionY="436" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1272,7 +1328,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="10" targetID="5" fromX="1157" fromY="-55" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="10" targetID="5" fromX="1157" fromY="-55" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1203" positionY="375" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1301,7 +1359,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="11" targetID="5" fromX="1528" fromY="-116" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="11" targetID="5" fromX="1528" fromY="-116" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="1692" positionY="294" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1324,7 +1384,11 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" />Como um goblin, seu espírito encontra seu caminho direto de volta para o corpo voluntário de um jovem xamã.</nodes>
+      <outputs name="Curve-se e vá embora." ownerID="12" targetID="5" fromX="2017" fromY="-197" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'
+
+Como um goblin, seu espírito encontra seu caminho direto de volta para o corpo voluntário de um jovem xamã.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="1222" positionY="-708" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1344,7 +1408,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="13" targetID="5" fromX="1547" fromY="-1199" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="13" targetID="5" fromX="1547" fromY="-1199" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="840" positionY="-1253" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -1364,7 +1430,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Curve-se e vá embora." ownerID="14" targetID="5" fromX="1165" fromY="-1744" /></nodes>
+      <outputs name="Curve-se e vá embora." ownerID="14" targetID="5" fromX="1165" fromY="-1744" />E, no entanto, os portões para os submundos permanecem fechados e a voz de Nyia sinaliza:
+
+'Este é o tempo de All Souls, meu tempo. VOCÊ VAI SERVIR ALÉM DA MORTE!'</nodes>
   </Adventure>
   <Adventure name="StorkElf" uniqueID="9" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="8" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event200">
@@ -1387,7 +1455,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
         </ModifierBlock>
       </logic>
       <outputs name="Aceita." ownerID="2" targetID="7" group="G1" fromX="766" fromY="-632" />
-      <outputs name="Recusar educadamente." ownerID="2" targetID="6" group="G1" fromX="766" fromY="-712" />
+      <outputs name="Recusar educadamente." ownerID="2" targetID="6" group="G1" fromX="766" fromY="-712" />Você conhece um prodígio em suas viagens, eles o encantam com seus contos de terras desconhecidas. Eles são elfos, mas estranhos, mesmo para sua própria espécie. Ana'eath é o nome deles.
+
+Eles devem partir em breve, mas convidam você a passar a noite em um vínculo íntimo.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1671" positionY="-89" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -1453,7 +1523,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
       <outputs name="Sair." ownerID="6" targetID="8" fromX="-139" fromY="-1302" />Ana'eath vai embora, entristecida por sua recusa. Só então você percebe que o nome deles começou com um A, assim como a casca da maçã disse...</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="893" positionY="-246" width="350" height="805">
       <outputs name="Alegrar." ownerID="7" targetID="3" group="G1" fromX="1218" fromY="-737" />
-      <outputs name="Alegrar." ownerID="7" targetID="5" group="G1" fromX="1218" fromY="-817" /></nodes>
+      <outputs name="Alegrar." ownerID="7" targetID="5" group="G1" fromX="1218" fromY="-817" />As crianças élficas nascem de um vínculo místico, e parece que dois de vocês gostaram dessa conexão.
+
+Os efeitos de tal união podem variar, mas um filho logo chega.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="357" positionY="-1089" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="StorkDwarfRus" uniqueID="10" allowOnce="true" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="11" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
@@ -1498,7 +1570,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
       <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-647" />
       <outputs name="Alegrar." ownerID="2" targetID="7" group="G1" fromX="760" fromY="-727" />
       <outputs name="Alegrar." ownerID="2" targetID="8" group="G1" fromX="760" fromY="-807" />
-      <outputs name="Alegrar." ownerID="2" targetID="10" group="G1" fromX="760" fromY="-887" /></nodes>
+      <outputs name="Alegrar." ownerID="2" targetID="10" group="G1" fromX="760" fromY="-887" />O fascínio dos anões pela beleza única de Rusalkas tem sido um fato há muito tempo, então quando você encara a beleza da água e lembra que a casca da maçã destinou você a encontrar um 'R' como seu amor, você sabe que esse é o seu destino.
+
+Uma cegonha anuncia uma criança da união, mas quem será essa criança é um mistério.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1944" positionY="-798" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1584,7 +1658,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Leve-os para dentro." ownerID="10" targetID="11" fromX="1207" fromY="-1678" /></nodes>
+      <outputs name="Leve-os para dentro." ownerID="10" targetID="11" fromX="1207" fromY="-1678" />Rusalkas são conhecidas por atrair machos e, portanto, procriar, mas é muito raro acontecer com não-humanos.
+
+Curiosamente, uma criança de aparência humana nasce de Rusalka, mas que carrega características de ambos os pais.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="11" positionX="1328" positionY="-1357" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <ModifierBlock>
@@ -1647,9 +1723,13 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="5" targetID="9" fromX="838" fromY="-1955" /> </nodes>
+      <outputs name="Sair." ownerID="5" targetID="9" fromX="838" fromY="-1955" />Rusalka está morto. Em seu corpo, você descobre um lenço com o nome 'Rosa' bordado em fita vermelha.
+
+O 'R' que você estava destinado a amar ou matar? Quem sabe ela se foi.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="-253" positionY="-2159" width="350" height="725">
-      <outputs name="Sair." ownerID="6" targetID="10" fromX="72" fromY="-2650" /> </nodes>
+      <outputs name="Sair." ownerID="6" targetID="10" fromX="72" fromY="-2650" />Rusalka derrota você, mas não termina o trabalho, ela simplesmente nada. Ela deixa para trás um lenço com o nome 'Rosa' bordado em fita vermelha.
+
+O 'R' que você estava destinado a amar ou matar? Quem sabe ela se foi. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="864" positionY="-2414" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="1367" positionY="-2395" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeDealDamage" ID="9" positionX="897" positionY="-1889" width="460" height="459" challengeTypeDamage="TypeMental" minDamage="30" maxDamage="50" useCountInPercent="true" targetGroup="1">
@@ -1918,7 +1998,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
         </ModifierBlock>
       </logic>
       <outputs name="Agradeça a ela e vá embora." ownerID="34" targetID="35" group="G1" fromX="1557" fromY="-1088" />
-      <outputs name="Agradeça a ela e vá embora." ownerID="34" targetID="36" group="G1" fromX="1557" fromY="-1168" /> </nodes>
+      <outputs name="Agradeça a ela e vá embora." ownerID="34" targetID="36" group="G1" fromX="1557" fromY="-1168" />'Você é tão legal; você merece uma recompensa. Aqui, um presente meu, para que possamos nos lembrar bem desta noite.
+
+Ela pousa um beijo doce em sua bochecha e você sente a sorte abraçar você. Isso pode não ser amor, mas a casca da maçã disse que você encontrará um 'R' no seu caminho... </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="35" positionX="1696" positionY="-966" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -2017,7 +2099,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ela e vá embora." ownerID="41" targetID="36" group="G1" fromX="3215" fromY="-3216" /> </nodes>
+      <outputs name="Agradeça a ela e vá embora." ownerID="41" targetID="36" group="G1" fromX="3215" fromY="-3216" />'Você é tão legal; você merece uma recompensa. Aqui, um presente meu, para que possamos nos lembrar bem desta noite.
+
+Ela pousa um beijo doce em sua bochecha e você sente a sorte abraçar você. Isso pode não ser amor, mas a casca da maçã disse que você encontrará um 'R' no seu caminho... </nodes>
     <nodes xsi:type="NodeDealDamage" ID="42" positionX="1811" positionY="-2603" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="50" maxDamage="70" useCountInPercent="true" targetGroup="ppl">
       <outputs ownerID="42" targetID="40" fromX="2240" fromY="-2991" />
     </nodes>
@@ -2032,7 +2116,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="44" targetID="32" fromX="2678" fromY="-4026" /></nodes>
+      <outputs name="Sair." ownerID="44" targetID="32" fromX="2678" fromY="-4026" />'Ah, você desistiu...'
+
+Ela nada para longe.</nodes>
   </Adventure>
   <Adventure name="Invite to bear village" uniqueID="12" allowOnce="true" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="3" nodeIdMax="4" eventTag="TAG-LOG_HALOWEEN" joinIsForced="false" joinType="AllAlly" joinRange="WholeWorld">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event014">
@@ -2066,11 +2152,17 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
           </LogicFilter>
         </FilterBlock>
       </logic>
-      <outputs name="Pergunte sobre o convite." ownerID="2" targetID="3" fromX="740" fromY="-532" />Você é recebido na Bear Village por um cara contagiantemente entusiasmado, que diz ser o prefeito: 'Bom dia, bom dia. Estou feliz em mostrar a você, mas é Tomislav que está realmente no comando de nossa pequena vila, então quando você tiver tempo, vá vê-lo. Você o reconhecerá com certeza, baixinho, barbudo e esperto.</nodes>
+      <outputs name="Pergunte sobre o convite." ownerID="2" targetID="3" fromX="740" fromY="-532" />Você é recebido na Bear Village por um cara contagiantemente entusiasmado, que diz ser o prefeito:
+
+'Bom dia, bom dia. Estou feliz em mostrar a você, mas é Tomislav que está realmente no comando de nossa pequena vila, então quando você tiver tempo, vá vê-lo. Você o reconhecerá com certeza, baixinho, barbudo e esperto.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="835" positionY="102" width="350" height="725">
-      <outputs name="Pergunte o que você pode fazer na aldeia?" ownerID="3" targetID="4" fromX="1160" fromY="-389" />Este ano, porém, temos convidados especiais e eles me convenceram a incluir a prática do All Hallow's Eve, uma tradição das Terras Ocidentais. Daí as abóboras, você vê. De qualquer forma, Bear Village nunca esteve melhor, então queremos que as pessoas venham e aproveitem as comemorações conosco.'</nodes>
+      <outputs name="Pergunte o que você pode fazer na aldeia?" ownerID="3" targetID="4" fromX="1160" fromY="-389" />'Ah sim, sim, a cada poucos anos organizamos as celebrações da noite de Finados, acompanhadas por um concurso maravilhoso de lenhadores e escultores de madeira.
+
+Este ano, porém, temos convidados especiais e eles me convenceram a incluir a prática do All Hallow's Eve, uma tradição das Terras Ocidentais. Daí as abóboras, você vê. De qualquer forma, Bear Village nunca esteve melhor, então queremos que as pessoas venham e aproveitem as comemorações conosco.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="1274" positionY="143" width="350" height="725">
-      <outputs name="Agradeça a ele e vá procurar alguns dos pontos que ele mencionou." ownerID="4" targetID="6" fromX="1599" fromY="-348" />'Bem, aqui, no centro, você pode visitar as barracas de comida e participar dos maravilhosos jogos e tradições do Halloween - uma nova maneira de celebrar o Dia de Finados, muito emocionante. Ou você pode visitar alguns de nossos pontos-chave, como a cabana da mulher sábia, onde você pode comprar ervas, e ouvir suas muitas histórias. A cabana do lenhador, onde você pode admirar a confecção das maravilhosas esculturas de madeira, que você vê aqui, ou os canis, onde você pode conhecer Gurtek, nosso mestre das feras.</nodes>
+      <outputs name="Agradeça a ele e vá procurar alguns dos pontos que ele mencionou." ownerID="4" targetID="6" fromX="1599" fromY="-348" />'Bem, aqui, no centro, você pode visitar as barracas de comida e participar dos maravilhosos jogos e tradições do Halloween - uma nova maneira de celebrar o Dia de Finados, muito emocionante.
+
+Ou você pode visitar alguns de nossos pontos-chave, como a cabana da mulher sábia, onde você pode comprar ervas, e ouvir suas muitas histórias. A cabana do lenhador, onde você pode admirar a confecção das maravilhosas esculturas de madeira, que você vê aqui, ou os canis, onde você pode conhecer Gurtek, nosso mestre das feras.</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="-385" positionY="-1029" width="350" height="1046" image="Event322">
       <logic>
         <FilterBlock>
@@ -2095,7 +2187,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
       <outputs name="Verifique as barracas de comida." ownerID="10" targetID="11" fromX="325" fromY="-1706" />
       <outputs name="Veja se você pode ajudar com as decoraçoes." ownerID="10" targetID="13" fromX="325" fromY="-1786" />
       <outputs name="[Criança] Peça para participar de um dos jogos." ownerID="10" targetID="27" fromX="325" fromY="-1866" />
-      <outputs name="Sair." ownerID="10" targetID="12" fromX="325" fromY="-1946" /></nodes>
+      <outputs name="Sair." ownerID="10" targetID="12" fromX="325" fromY="-1946" />Ao passear pela bonita rua principal de Bear Village, você admira as muitas esculturas de madeira que se erguem ao seu redor. Existem criaturas da floresta, demônios, todos esculpidos com detalhes meticulosos. Alguns parecem tão reais que você poderia jurar que olham para você.
+
+Entre as esculturas, você encontra barracas de comida cheias de guloseimas temáticas de abóbora, mas também maçãs assadas, avelãs e hidromel. Você também vê muitos foliões colocando enfeites.</nodes>
     <nodes xsi:type="NodeTrade" ID="11" positionX="1224" positionY="-1068" width="460" height="479" traderProfile="TRADER-COOKER_FRIENDLY" playerInventory="stuff">
       <logic>
         <FilterBlock>
@@ -2122,7 +2216,8 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
       <outputs name="Concorde em ajudá-los a fazê-lo." ownerID="13" targetID="14" fromX="1389" fromY="-2070" />
       <outputs name="Diga que eles devem ouvir o chefe e ter um tema adequado de Halloween." ownerID="13" targetID="15" fromX="1389" fromY="-2150" />
       <outputs name="Sair." ownerID="13" targetID="12" fromX="1389" fromY="-2230" />
-      <outputs name="Na verdade, reconsidere suas opçoes." ownerID="13" targetID="10" fromX="1389" fromY="-2310" /></nodes>
+      <outputs name="Na verdade, reconsidere suas opçoes." ownerID="13" targetID="10" fromX="1389" fromY="-2310" />As crianças se animam e uma mulher assente:
+— Sim, quanto mais melhor. Veja, o chefe quer agradar seus convidados estrangeiros, então ele está fazendo todo esse tema de abóbora. Mas não queremos irritar os antepassados, então queremos tentar fazer um pouco dos dois. Temos algumas máscaras de Dziody esculpidas, temos velas e tentamos fazer toda a decoração tranquila; como, você sabe, para não perturbar os espíritos, agora eles estão tão perto.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="14" positionX="1473" positionY="-1827" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_4M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="14" targetID="17" fromX="1914" fromY="-2322" />
       <outputs name="Lose" ownerID="14" targetID="20" fromX="1914" fromY="-2402" />
@@ -2130,7 +2225,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="1504" positionY="-2603" width="350" height="805">
       <outputs name="Começar." ownerID="15" targetID="16" fromX="1829" fromY="-3094" />
-      <outputs name="Na verdade, reconsidere suas opçoes." ownerID="15" targetID="13" fromX="1829" fromY="-3174" /></nodes>
+      <outputs name="Na verdade, reconsidere suas opçoes." ownerID="15" targetID="13" fromX="1829" fromY="-3174" />A mulher parece infeliz, mas sabendo que você não vai delatá-la, ela concorda com a cabeça.
+
+Agora você pode esculpir algumas abóboras, cobrir casas com teias de aranha e ajudar as crianças a pintar seus rostos com desenhos assustadores.</nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="1937" positionY="-2827" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_3M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="16" targetID="24" fromX="2378" fromY="-3322" />
       <outputs name="Lose" ownerID="16" targetID="23" fromX="2378" fromY="-3402" />
@@ -2160,7 +2257,9 @@ Antes de sair, a bruxa fala: 'Em todas as vésperas do Dia das Bruxas você nos 
       <outputs name="Agradeça a ele e siga seu caminho." ownerID="17" targetID="19" fromX="2325" fromY="-2155" />Você fez um trabalho esplêndido. O lugar parece bem vestido com abóboras e tudo, mas também mantém a sensação de Zaduszki. A mulher mais velha está satisfeita com você, mas permanece calada, como manda a tradição.
 Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admiração: 'Maravilhoso! Você fez a grande honra de All Hallow's Eve, com certeza. Agora os espíritos da noite se sentirão livres para vir e se juntar a nós em uníssono. Abençoe todos vocês. A propósito, sou Fredrick.</nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2470" positionY="-1658" width="350" height="725">
-      <outputs name="Deseje-lhe bem e vá embora também." ownerID="18" targetID="19" fromX="2795" fromY="-2149" /></nodes>
+      <outputs name="Deseje-lhe bem e vá embora também." ownerID="18" targetID="19" fromX="2795" fromY="-2149" />— Costumávamos viver nas ilhas distantes a oeste. Mas eles foram invadidos pela praga de luz, então peguei minha família e naveguei até aqui, em busca de melhores fortunas.
+
+O Sr. Tomislav, ou o patrão como o chamam, teve a gentileza de nos oferecer sua própria casa. Agora, devo ir ver nosso anfitrião. Ótimo conhecê-lo.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="19" positionX="2945" positionY="-1752" width="350" height="530" allPlayersXP="4" allPlayersRP="3" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2194,7 +2293,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="3999" positionY="-2273" width="350" height="725">
-      <outputs name="Deseje-lhe bem e vá embora também." ownerID="22" targetID="21" fromX="4324" fromY="-2764" /></nodes>
+      <outputs name="Deseje-lhe bem e vá embora também." ownerID="22" targetID="21" fromX="4324" fromY="-2764" />— Costumávamos viver nas ilhas distantes a oeste. Mas eles foram invadidos pela praga de luz, então peguei minha família e naveguei até aqui, em busca de melhores fortunas.
+
+O Sr. Tomislav, ou o patrão como o chamam, teve a gentileza de nos oferecer sua própria casa. Agora, devo ir ver nosso anfitrião. Ótimo conhecê-lo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="3207" positionY="-3193" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -2226,7 +2327,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
         </ModifierBlock>
       </logic>
       <outputs name="Perguntar ao Fredrick de onde ele veio?" ownerID="24" targetID="18" fromX="2878" fromY="-3050" />
-      <outputs name="Agradeça a ele e siga seu caminho." ownerID="24" targetID="19" fromX="2878" fromY="-3130" /></nodes>
+      <outputs name="Agradeça a ele e siga seu caminho." ownerID="24" targetID="19" fromX="2878" fromY="-3130" />Você fez um trabalho esplêndido. O lugar parece bem vestido com abóboras e todos os tipos. A mulher mais velha permanece calada e descontente, mas um senhor de aparência mais velha em roupas estrangeiras bate palmas em admiração:
+
+'Maravilhoso! Você fez a grande honra de All Hallow's Eve, com certeza. Agora os espíritos da noite se sentirão livres para vir e se juntar a nós em uníssono. Abençoe todos vocês. A propósito, sou Fredrick.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="-879" positionY="-818" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="27" positionX="-2403" positionY="-1747" width="350" height="885">
       <logic>
@@ -2244,7 +2347,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
       </logic>
       <outputs name="Vá para as maçãs. [Somente crianças]" ownerID="27" targetID="29" fromX="-2077" fromY="-2238" />
       <outputs name="Experimente o pão." ownerID="27" targetID="28" fromX="-2077" fromY="-2318" />
-      <outputs name="Na verdade, reconsidere suas opçoes." ownerID="27" targetID="10" fromX="-2077" fromY="-2398" /></nodes>
+      <outputs name="Na verdade, reconsidere suas opçoes." ownerID="27" targetID="10" fromX="-2077" fromY="-2398" />Uma criança corre até você e exclama:
+
+'Ah, sim, temos maçãs balançando ali ou você pode tentar a sorte com nosso jogo de pão - pedaços de coisas estavam escondidos na massa, cada um de nós pega um pedaço do pão e veja o que encontramos, alguns podem ter boa sorte , alguns dentes quebrados!'</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="28" positionX="-1692" positionY="-2998" width="460" height="750">
       <outputs ownerID="28" targetID="30" group="G1" fromX="-1261" fromY="-3356" />
       <outputs ownerID="28" targetID="31" group="G1" fromX="-1261" fromY="-3436" />
@@ -2340,7 +2445,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="34" targetID="35" fromX="-311" fromY="-4334" /></nodes>
+      <outputs name="Sair." ownerID="34" targetID="35" fromX="-311" fromY="-4334" />'Oh, seu pão está vazio, os espíritos podem te pegar esta noite!'
+
+Você se sente estranhamente abalado pelas palavras da criança...</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="35" positionX="338" positionY="-4311" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2367,7 +2474,7 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Ótimo, jogue alguns jogos mais comuns e depois vá embora." ownerID="36" targetID="37" fromX="-396" fromY="-2673" /></nodes>
+      <outputs name="Ótimo, jogue alguns jogos mais comuns e depois vá embora." ownerID="36" targetID="37" fromX="-396" fromY="-2673" />Você ganhou!</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="37" positionX="-281" positionY="-2937" width="460" height="589">
       <outputs ownerID="37" targetID="38" group="G1" fromX="149" fromY="-3295" />
       <outputs ownerID="37" targetID="39" group="G1" fromX="149" fromY="-3375" />
@@ -2434,7 +2541,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Diga que você vai falar com o mestre das feras então." ownerID="43" targetID="44" fromX="-1566" fromY="-1360" /></nodes>
+      <outputs name="Diga que você vai falar com o mestre das feras então." ownerID="43" targetID="44" fromX="-1566" fromY="-1360" />As notícias dos assassinatos de animais de estimação chegaram rapidamente ao povo, então, quando você pergunta por aí, as pessoas balançam a cabeça em descrença e raiva:
+
+'Devem ser aqueles malditos cães pretos de novo, toda vez que eles escapam temos que trancar nossos galinheiros e esconder nossos cachorros!'</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="44" positionX="-2363" positionY="-951" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="47" positionX="-2081" positionY="718" width="350" height="725" image="Event325">
       <logic>
@@ -2447,7 +2556,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
       <outputs name="Entre na casa." ownerID="47" targetID="48" fromX="-1755" fromY="226" />Você chega à mansão de Tomislav, o chefe da Bear Village. A casa fica alta em uma pequena elevação, com vista para uma floresta escura além dos limites do assentamento. Você ouve a voz alegre do homem lhe dando as boas-vindas de uma janela: 'Suba, suba, meus amigos!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="48" positionX="-1626" positionY="1275" width="350" height="805">
       <outputs name="[Sabedoria] Explique que os mendigos simbolizam os Dziody, espíritos de nossos antepassados vagando pelas terras." ownerID="48" targetID="49" fromX="-1300" fromY="783" />
-      <outputs name="Dê de ombros e veja Tomislav, o anfitrião." ownerID="48" targetID="51" fromX="-1300" fromY="703" /></nodes>
+      <outputs name="Dê de ombros e veja Tomislav, o anfitrião." ownerID="48" targetID="51" fromX="-1300" fromY="703" />Dentro da casa, há uma mesa posta para um banquete, uma banda toca baixinho ao fundo. À mesa, você vê um casal de mendigos comendo alguma coisa e Fredrick, o visitante estrangeiro, olhando para eles com certo desdém. Ele te vê e se aproxima:
+
+— Ah, mais visitantes e outros menos... robustos. Bom. Não entendo por que nosso anfitrião os alimenta...'</nodes>
     <nodes xsi:type="NodeAdventure" ID="49" positionX="-1169" positionY="1473" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -2460,7 +2571,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
         </FilterBlock>
       </logic>
       <outputs name="Dê de ombros e veja Tomislav, o anfitrião." ownerID="49" targetID="51" fromX="-843" fromY="981" />
-      <outputs name="Insista para que o estrangeiro preste mais atenção aos seus costumes, pois Nyia pode não ficar impressionada com estranhos desonrando seu tempo." ownerID="49" targetID="50" fromX="-843" fromY="901" /></nodes>
+      <outputs name="Insista para que o estrangeiro preste mais atenção aos seus costumes, pois Nyia pode não ficar impressionada com estranhos desonrando seu tempo." ownerID="49" targetID="50" fromX="-843" fromY="901" />— Ah, isso, sim. Boss disse algo do tipo. Hmm, estranho, mas por que não.
+
+Ele também fez a música tão quieta. Ainda. Cada um por si, ele honrou bem o Dia de Todos os Santos de todas as outras maneiras!'</nodes>
     <nodes xsi:type="NodeAdventure" ID="50" positionX="-710" positionY="1264" width="350" height="725">
       <outputs name="Aproxime-se do anfitrião." ownerID="50" targetID="51" fromX="-384" fromY="772" />Você vê um brilho de satisfação nos olhos do homem: 'Bem, eu digo. Ela não é a única divindade da morte, não? Cada um de nós tem o seu próprio, e todos devem ser bem honrados, pois é seu domínio que recebe a reverência afinal. Mas não devemos discutir sob o teto de nosso anfitrião.' Você vê o chefe observando seu convidado com curiosidade. </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-256" positionY="1447" width="350" height="966">
@@ -2569,10 +2682,14 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Concorde e vá embora." ownerID="65" targetID="70" fromX="-3956" fromY="-136" />
+      <outputs name="Concorde e vá embora." ownerID="65" targetID="70" fromX="-3956" fromY="-136" />— Bem, isso é realmente perturbador e, no entanto, temos certeza absoluta de que Gurtek não se intrometeu aqui para proteger os cães? Eu também gosto deles, mas eles se tornaram um incômodo...
+
+Ainda assim, as pessoas me dizem que há uma comoção no alojamento dos lenhadores, você pode ir investigar? Vamos lidar com os cães depois.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="66" positionX="-3382" positionY="-95" width="350" height="725">
-      <outputs name="Concorde e vá embora." ownerID="66" targetID="70" fromX="-3056" fromY="-586" /></nodes>
+      <outputs name="Concorde e vá embora." ownerID="66" targetID="70" fromX="-3056" fromY="-586" />— Frederico? Ele passa o tempo comigo principalmente, e sim, ele sai à noite, mas sempre na companhia dos meus homens, por segurança, sabe.
+
+Hum. Estou triste em dizer que parece que Gurtek está realmente tentando encobrir aqueles cães dele. Ainda assim, as pessoas me dizem que há uma comoção no alojamento dos lenhadores, você pode ir investigar? Vamos lidar com os cães depois.</nodes>
     <nodes xsi:type="NodeAdventure" ID="68" positionX="-1411" positionY="-973" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -2665,7 +2782,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
     <nodes xsi:type="NodeAdventure" ID="77" positionX="379" positionY="1692" width="350" height="885">
       <outputs name="Explorar a aldeia." ownerID="77" targetID="5" fromX="704" fromY="1200" />
       <outputs name="Sair." ownerID="77" targetID="12" fromX="704" fromY="1120" />
-      <outputs name="Pergunte sobre os animais mortos." ownerID="77" targetID="76" fromX="704" fromY="1040" />
+      <outputs name="Pergunte sobre os animais mortos." ownerID="77" targetID="76" fromX="704" fromY="1040" />Tomislav dá de ombros, mas você vê um sorriso malicioso em seu rosto:
+
+— Eu nasci aqui, você sabe. Não dentro da aldeia, mas numa gruta, ali - aponta para o seu jardim. Eu sou um tesoureiro, destinado a sentar e guardar alguns baús velhos, bem, eu cansei disso. Peguei meu tesouro, disse ao povo de Bear Village que o compartilharei se me deixarem morar aqui. Eles o fizeram, e logo perceberam que sou o melhor em administrar as coisas, então aqui estamos.
 </nodes>
     <nodes xsi:type="NodeAdventure" ID="79" positionX="397" positionY="-1073" width="350" height="966">
       <logic>
@@ -2678,7 +2797,8 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
       <outputs name="Verifique as barracas de comida." ownerID="79" targetID="11" fromX="722" fromY="-1564" />
       <outputs name="Veja se você pode ajudar com as decoraçoes." ownerID="79" targetID="13" fromX="722" fromY="-1644" />
       <outputs name="[Criança] Peça para participar de um dos jogos." ownerID="79" targetID="27" fromX="722" fromY="-1724" />
-      <outputs name="Sair." ownerID="79" targetID="12" fromX="722" fromY="-1804" /></nodes>
+      <outputs name="Sair." ownerID="79" targetID="12" fromX="722" fromY="-1804" />A vila parece menos alegre agora, e muitas das decorações de Halloween se foram.
+Mas, nervosos para não ofender ainda mais os antepassados, os jogos e folia do All Souls continuam tranquilamente...</nodes>
   </Adventure>
   <Adventure name="Wise woman's hut" uniqueID="14" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="53" eventTag="TAG-LOG_HALOWEEN" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="-4" positionY="210" width="347" height="982" image="Event192">
@@ -2713,7 +2833,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
       <outputs name="Você ouve uma comoção por perto e vê a sábia desviando o olhar também. Vá conferir." ownerID="6" targetID="11" fromX="1970" fromY="-1311" />
       <outputs name="Compre ervas e especiarias." ownerID="6" targetID="10" fromX="1970" fromY="-1391" />
       <outputs name="Cure suas feridas mentais." ownerID="6" targetID="8" fromX="1970" fromY="-1471" />
-      <outputs name="Sair." ownerID="6" targetID="7" fromX="1970" fromY="-1551" /> </nodes>
+      <outputs name="Sair." ownerID="6" targetID="7" fromX="1970" fromY="-1551" /> — Não muito aqui. Posso vender-lhe algumas ervas e especiarias.
+
+Eu também sou um bom ouvinte, se você tem problemas mentais, eu posso te ajudar, eu juro. Fora isso, sou do tipo calado, não me intrometo nos negócios dos outros aqui.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="7" positionX="1116" positionY="-1762" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="8" positionX="1589" positionY="-2233" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-300">
       <logic>
@@ -2746,9 +2868,14 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
         </ModifierBlock>
       </logic>
       <outputs name="Questione a mulher sábia primeiro." ownerID="11" targetID="18" fromX="3187" fromY="-1386" />
-      <outputs name="Questione os aldeoes reunidos aqui." ownerID="11" targetID="19" fromX="3187" fromY="-1466" /></nodes>
+      <outputs name="Questione os aldeoes reunidos aqui." ownerID="11" targetID="19" fromX="3187" fromY="-1466" />Você caminha até onde uma pequena multidão de aldeões se reuniu e vê vários animais eviscerados e espalhados para todos verem. As pessoas estão cochichando sobre Gurtek e seus cães como os principais suspeitos desse ato sujo.
+
+Algumas crianças estão chorando, os adultos parecem inquietos. Eles se voltam para sua mulher sábia quando ela chega com você. Ela fala:
+— Isso é algum ato sujo. E na noite de Finados... precisamos encontrar os culpados rapidamente, antes que os espíritos fiquem mais irritados!</nodes>
     <nodes xsi:type="NodeAdventure" ID="12" positionX="2322" positionY="-378" width="350" height="725">
-      <outputs name="Acene e veja o que ela tem a oferecer." ownerID="12" targetID="6" fromX="2647" fromY="-869" /></nodes>
+      <outputs name="Acene e veja o que ela tem a oferecer." ownerID="12" targetID="6" fromX="2647" fromY="-869" />'Desgosto é uma palavra forte. Pouco me importo com o costume estrangeiro, só isso. Eu lhe digo, aqueles espíritos ocidentais podem ficar felizes com abóboras e tolices, mas as almas de nossos antepassados não devem ser confundidas.
+
+Todo mundo é tão alegre. Rindo, pregando peças, comendo doces. Nenhuma paz triste, nenhuma reverência. A próxima coisa que você sabe que eles vão esquecer de acender as velas no cemitério! Mas, cada um na sua...'</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="13" positionX="1878" positionY="636" width="350" height="885">
       <logic>
         <FilterBlock>
@@ -2802,7 +2929,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
     <nodes xsi:type="NodeAdventure" ID="19" positionX="3786" positionY="-1082" width="350" height="885">
       <outputs name="Diga que você vai ajudá-los e vá perguntar sobre isso ao redor da aldeia." ownerID="19" targetID="40" fromX="4111" fromY="-1573" />
       <outputs name="Questione a mulher sábia." ownerID="19" targetID="18" fromX="4111" fromY="-1653" />
-      <outputs name="[Percepção] Investigue." ownerID="19" targetID="24" fromX="4111" fromY="-1733" /></nodes>
+      <outputs name="[Percepção] Investigue." ownerID="19" targetID="24" fromX="4111" fromY="-1733" />'Estávamos trabalhando quando os encontramos assim... Mieszko disse que viu algumas sombras negras, mas ele é estranho, então quem sabe. Eu digo que são aqueles malditos cachorros ou aquele cara esquisito com as abóboras, Fredrick.
+
+Mieszko não protesta contra a avaliação, mas repete que viu algumas sombras escuras se afastando deste lugar em direção ao centro da vila.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="20" positionX="5236" positionY="-1085" width="350" height="530" logBookName="QUEST_HALLOW_HUT" logBookDescription="QUEST_HALLOW_DES1" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -2833,7 +2962,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="22" targetID="7" fromX="3117" fromY="-2444" /></nodes>
+      <outputs name="Sair." ownerID="22" targetID="7" fromX="3117" fromY="-2444" />Bogslava dá de ombros:
+
+— Acho, mas não tenho nada a dizer sobre isso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="4450" positionY="-2062" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2878,7 +3009,8 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá questionar Gurtek, o mestre das feras, nos canis." ownerID="29" targetID="37" fromX="3760" fromY="-4038" /></nodes>
+      <outputs name="Vá questionar Gurtek, o mestre das feras, nos canis." ownerID="29" targetID="37" fromX="3760" fromY="-4038" />Ela parece nervosa, então fala com você baixinho:
+— Não gosto de dizer, porque somos amigos. Mas Gurtek, o mestre das feras, muitas vezes ele perde o controle sobre as feras negras. E bem, Tomislav disse a ele que vai abatê-los se isso acontecer de novo, então eu acho que o pobre idiota verde está tentando fazer com que pareça um crime salvar seus filhotes.</nodes>
     <nodes xsi:type="NodeChallenge" ID="32" positionX="2286" positionY="-3346" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-Q_BOGSLAVA_3P_3M_3S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -2926,7 +3058,8 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
       </logic>
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="789" positionY="-3440" width="350" height="725">
-      <outputs name="Agradeça a ela pela honestidade, mas diga que agora você deve ir contar a Tomislav o que está acontecendo aqui." ownerID="36" targetID="44" fromX="1114" fromY="-3931" /></nodes>
+      <outputs name="Agradeça a ela pela honestidade, mas diga que agora você deve ir contar a Tomislav o que está acontecendo aqui." ownerID="36" targetID="44" fromX="1114" fromY="-3931" />Ela dá de ombros:
+'Pode ser. Mas estou velho, vivo no agora. E eu sei que nossos Dziody não são bons espíritos, abençoe suas almas. Eles são invejosos e orgulhosos e eu não vejo isso indo bem para nós. Agora vá, faça o que deve.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="37" positionX="4019" positionY="-3882" width="350" height="530" allPlayersXP="5" allPlayersRP="4" logBookName="QUEST_HALLOW_HUT" logBookDescription="QUEST_HALLOW_DES4" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeProduceDrop" ID="39" positionX="2253" positionY="-2142" width="460" height="429">
       <logic>
@@ -2970,7 +3103,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
       <outputs name="Relate seu sucesso com as caravanas." ownerID="42" targetID="16" fromX="-352" fromY="-617" />
       <outputs name="Pergunte a Bogslava sobre as pessoas desaparecidas. Parece estranho as duas coisas acontecendo ao mesmo tempo." ownerID="42" targetID="22" fromX="-352" fromY="-697" />
       <outputs name="Pergunte se você pode ajudar com aquele problema de caravana que ela estava falando antes?" ownerID="42" targetID="53" fromX="-352" fromY="-778" />
-      <outputs name="Veja o que ela tem a oferecer, você não tem tempo para conversar." ownerID="42" targetID="6" fromX="-352" fromY="-858" /> </nodes>
+      <outputs name="Veja o que ela tem a oferecer, você não tem tempo para conversar." ownerID="42" targetID="6" fromX="-352" fromY="-858" />'Olá de novo. Posso vender-lhe algumas ervas e especiarias.
+
+Eu também sou um bom ouvinte, se você tem problemas mentais, eu posso te dar um jeito, juro. Fora isso, sou do tipo calado, não me intrometo nos negócios dos outros aqui. </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="43" positionX="4780" positionY="-2916" width="480" height="503" radius="2" settlementID="SET-LARGE_HUT" destroyOwner="false" linkedEventUniqueID="16">
       <outputs ownerID="43" targetID="26" fromX="5228" fromY="-3348" />
     </nodes>
@@ -2991,7 +3126,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="45" targetID="46" fromX="-910" fromY="-868" /></nodes>
+      <outputs name="Sair." ownerID="45" targetID="46" fromX="-910" fromY="-868" />Você encontra a cabana destruída e queimada, com o corpo chamuscado de Bogslava trancado dentro claramente, ela decidiu tirar a própria vida ao invés de enfrentar os antepassados.
+
+Você sente o espírito perdido dela permanecendo, observando...</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="46" positionX="-1878" positionY="-470" width="480" height="583" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="46" targetID="47" group="G1" fromX="-1429" fromY="-452" />
       <outputs ownerID="46" targetID="48" group="G1" fromX="-1889" fromY="-532" />
@@ -3049,7 +3186,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
           </LogicResultAction>
         </FilterBlock>
       </logic>
-      <outputs name="Sair." ownerID="52" targetID="46" fromX="-910" fromY="-125" /></nodes>
+      <outputs name="Sair." ownerID="52" targetID="46" fromX="-910" fromY="-125" />Você encontra a cabana destruída e queimada, com o corpo chamuscado de Bogslava trancado dentro claramente, ela decidiu tirar a própria vida ao invés de enfrentar os antepassados.
+
+Você sente o espírito perdido dela permanecendo, observando...</nodes>
     <nodes xsi:type="NodeAdventure" allowOnce="true" ID="53" positionX="1411" positionY="1199" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -3119,7 +3258,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="5" targetID="6" fromX="1931" fromY="-149" /></nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="5" targetID="6" fromX="1931" fromY="-149" />— Bem, já que você pediu tão gentilmente. Verdade seja dita, teríamos mudado há muito tempo, mas aquela mulher é tão rude...
+
+De qualquer forma, vamos parar agora, adeus a você.'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="6" positionX="2057" positionY="242" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="6" targetID="7" fromX="2505" fromY="-190" />
     </nodes>
@@ -3176,7 +3317,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles e vá embora." ownerID="15" targetID="6" fromX="1617" fromY="-2128" /></nodes>
+      <outputs name="Agradeça a eles e vá embora." ownerID="15" targetID="6" fromX="1617" fromY="-2128" />'Ok, ok, não há necessidade de as coisas ficarem tensas assim. Desculpas mestres. Era só que aquela mulher é tão malditamente rude...
+
+De qualquer forma, vamos parar agora, tchau.</nodes>
     <nodes xsi:type="NodeChallenge" ID="16" positionX="502" positionY="-1242" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-BANDITS_4P_3M_1S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -3260,10 +3403,14 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
         </FilterBlock>
       </logic>
       <outputs name="[inteligência] Parece uma coincidência terrível, as duas coisas acontecendo, especialmente que é ele quem parece odiar tanto o Halloween. Insista que ele lhe diga a verdade!" ownerID="12" targetID="14" fromX="325" fromY="-2085" />
-      <outputs name="Se sua teoria for verdadeira e os espíritos ficaram bravos com a vila por celebrar o Halloween, o que ele sugere que eles deveriam fazer?" ownerID="12" targetID="10" fromX="325" fromY="-2165" /></nodes>
+      <outputs name="Se sua teoria for verdadeira e os espíritos ficaram bravos com a vila por celebrar o Halloween, o que ele sugere que eles deveriam fazer?" ownerID="12" targetID="10" fromX="325" fromY="-2165" />'Hmm, ela fez agora? Ela disse que eu encobri meus cachorros? Bem, acho que ela está certa. Aquele nosso maldito chefe disse que os mandaria para baixo e eles só fazem o que a natureza manda... E você sabe, eu acho que eles têm o sangue Bies neles e eles não são, então eles agem com os espíritos.
+
+Então, você vê, eu ainda acho que foram os espíritos que fizeram tudo acontecer. Meus cães certamente não sequestraram ninguém.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="890" positionY="-1069" width="350" height="805">
       <outputs name="[Inteligência] Padroes? Interessante escolha de palavras. Tente pressioná-lo a dizer a verdade." ownerID="13" targetID="14" fromX="1215" fromY="-1560" />
-      <outputs name="Se sua teoria for verdadeira e os espíritos ficaram bravos com a vila por celebrar o Halloween, o que ele sugere que eles deveriam fazer?" ownerID="13" targetID="10" fromX="1215" fromY="-1640" /></nodes>
+      <outputs name="Se sua teoria for verdadeira e os espíritos ficaram bravos com a vila por celebrar o Halloween, o que ele sugere que eles deveriam fazer?" ownerID="13" targetID="10" fromX="1215" fromY="-1640" />'Gurtek, você deve rastrear meu povo desaparecido, Gurtek, seus cães matam nossas galinhas, Gurtek isso, Gurtek aquilo, eles sempre querem alguma coisa, nunca pense em mim...
+
+Cães serão cães; eles podem matar alguns animais de estimação menores, com certeza. Mas Tomislav disse claramente que devo mantê-los presos esta semana, então fiz isso. Além disso, os cães tendem a não organizar suas presas em padrões.</nodes>
     <nodes xsi:type="NodeChallenge" ID="14" positionX="1410" positionY="-1711" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-Q_BEAST_MASTER_DOGS_5P_5M_5S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -3366,7 +3513,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
     <nodes xsi:type="NodeAdventure" ID="29" positionX="1125" positionY="-4074" width="350" height="725">
       <outputs name="Diga a Gurtek suas descobertas." ownerID="29" targetID="30" fromX="1450" fromY="-4565" />Você comunga com as almas reunidas aqui para Zaduszki e, de fato, sente que elas estão com raiva. Agora você vê claramente que os cães estão possuídos pelo demônio Bies, mas eles são leais a Tomislav e não machucariam os aldeoes. Em vez disso, você sente um grande poder espiritual se intrometendo aqui. Você sabe com certeza que as pessoas que deveriam ser sequestradas estão mortas e você sabe que mais sangue está vindo!</nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="1517" positionY="-4134" width="350" height="725">
-      <outputs name="Siga-o." ownerID="30" targetID="31" fromX="1842" fromY="-4625" /></nodes>
+      <outputs name="Siga-o." ownerID="30" targetID="31" fromX="1842" fromY="-4625" />'Morto, oh não! Mas nós nunca... Isso é ruim, muito ruim. Devemos ir a Tomislav imediatamente, devemos tentar apaziguar os antepassados rapidamente, antes que eles nos destruam!
+
+Ele pega os cachorros e corre para a aldeia.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="31" positionX="1974" positionY="-4378" width="350" height="530" allPlayersXP="8" allPlayersRP="6" logBookName="QUEST_HALLOW_KEN" logBookDescription="QUEST_HALLOW_KEN_DES6" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -3435,7 +3584,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a ele e vá embora." ownerID="38" targetID="39" fromX="-1561" fromY="278" /></nodes>
+      <outputs name="Agradeça a ele e vá embora." ownerID="38" targetID="39" fromX="-1561" fromY="278" />Você encontra um pequeno grupo de refugiados da Bear Village, Gurtek entre eles. Eles estão em movimento e não estão interessados em conversar, mas Gurtek para e se vira para você:
+
+— Entendo que este era o nosso destino. Eu não o culpo por suas escolhas ou fracassos. Graças aos deuses você permitiu que meus cães vivessem, pois foram eles que morreram nos defendendo. Aqui, este filhote vai ficar com você agora. Tchau e, por favor, lembre-se de não irritar os antepassados no ano que vem!'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="39" positionX="-2559" positionY="769" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="39" targetID="40" fromX="-2110" fromY="786" />
     </nodes>
@@ -3525,7 +3676,9 @@ Um senhor de aparência mais velha em roupas estrangeiras bate palmas em admira�
       <outputs name="Sair." ownerID="2" targetID="22" fromX="334" fromY="-1365" />A pousada dos lenhadores é diferente de qualquer outra que você já viu, pelo menos em termos de estética. O pequeno edifício é lindamente esculpido, com a semelhança de criaturas da floresta e pessoas da floresta olhando para você com olhos assustadoramente vivos. Todo o pátio é também ocupado por esculturas de madeira, algumas envelhecidas, outras frescas, algumas ainda em construção. Você também vê as ferramentas do comércio espalhadas, abandonadas. E você vê uma pequena multidão reunida em torno de uma figura caída.</nodes>
     <nodes xsi:type="NodeAdventure" ID="3" positionX="442" positionY="-81" width="350" height="805">
       <outputs name="Verifique se alguém sobreviveu." ownerID="3" targetID="12" group="G1" fromX="767" fromY="-572" />
-      <outputs name="Verifique se alguém sobreviveu." ownerID="3" targetID="4" group="G1" fromX="767" fromY="-652" /></nodes>
+      <outputs name="Verifique se alguém sobreviveu." ownerID="3" targetID="4" group="G1" fromX="767" fromY="-652" />Ao se aproximar da cabana, você vê sinais de luta e sangue espalhado sobre muitas das esculturas de madeira.
+
+A porta está entreaberta e dentro você vê alguns corpos.</nodes>
     <nodes xsi:type="NodeAdventure" ID="4" positionX="865" positionY="319" width="350" height="885">
       <outputs name="[Percepção] Investigue." ownerID="4" targetID="6" fromX="1190" fromY="-172" />
       <outputs name="Procure por pistas." ownerID="4" targetID="5" fromX="1190" fromY="-252" />
@@ -3544,7 +3697,9 @@ Dois homens volumosos, provavelmente lenhadores, jazem em pedaços, seus machado
       </logic>
       <outputs name="Questione o garoto de cabelos compridos, ele parece estar em melhor forma do que Vieslav." ownerID="6" targetID="7" fromX="2108" fromY="76" />
       <outputs name="Olhe mais ao redor." ownerID="6" targetID="18" fromX="2108" fromY="-3" />
-      <outputs name="[Medic] Verifique os corpos para determinar como eles morreram." ownerID="6" targetID="11" fromX="2108" fromY="-83" />  </nodes>
+      <outputs name="[Medic] Verifique os corpos para determinar como eles morreram." ownerID="6" targetID="11" fromX="2108" fromY="-83" /> As coisas de Bohna e Vieslav estão arrumadas na cabana como se fossem hóspedes aqui. As portas da frente estão rasgadas e a terra no chão da sala está rachada. As pegadas são estranhas, grandes, pesadas e algumas parecem animais, mas você não pode dizer com certeza.
+
+As feridas são muito extremas, com sinais definidos de garras/dentes de animais, mas é difícil dizer se essa é a única arma usada aqui. </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2951" positionY="-368" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -3631,7 +3786,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="18" positionX="2299" positionY="-650" width="350" height="805">
       <outputs name="Diga que você acha que os cães são culpados." ownerID="18" targetID="9" fromX="2624" fromY="-1141" />
-      <outputs name="Diga a ele que você acha que há evidências suficientes para sugerir algo mais do que os cães. Avise que ele os poupa." ownerID="18" targetID="19" fromX="2624" fromY="-1221" /></nodes>
+      <outputs name="Diga a ele que você acha que há evidências suficientes para sugerir algo mais do que os cães. Avise que ele os poupa." ownerID="18" targetID="19" fromX="2624" fromY="-1221" />Você procura mais pistas e vê Tomislav e Gurtek chegarem. Tomislav ouve o que você descobriu até agora, ele parece preocupado.
+
+— Então, você acha que uma fera fez isso? Isso não é muito para continuar. E enquanto estávamos vindo aqui, mais dois mortos foram encontrados na aldeia. Temos que parar com essa loucura...'</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="4041" positionY="-1330" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -3640,7 +3797,10 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="19" targetID="21" fromX="4366" fromY="-1821" /></nodes>
+      <outputs name="Sair." ownerID="19" targetID="21" fromX="4366" fromY="-1821" />— Bem, suponho que pedi para você resolver isso para nós, então devo confiar em seu julgamento.
+
+Gurtek, que estava por perto, se curva para você:
+'Obrigado, você não vai se arrepender por isso, eu conheço meus cães e sei que eles não fizeram isso. É melhor voltarmos para a aldeia e tentarmos descobrir o que está acontecendo aqui.</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="5003" positionY="42" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -3649,7 +3809,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="20" targetID="24" fromX="5328" fromY="-449" /></nodes>
+      <outputs name="Sair." ownerID="20" targetID="24" fromX="5328" fromY="-449" />'Ah, eu entendo... Ok, eu sou um demônio, então eu lhe dou minha palavra demoníaca que vou dizer às pessoas. Mas, por favor, permita-me levá-lo para casa primeiro, mantê-lo a salvo da máfia. Ele merece pelo menos um julgamento. Venha me ver na aldeia para que possamos descobrir se é o fim de tudo.
+
+Ele vai embora com o filho. Gurtek acena para você, reconhecendo que você acabou de salvar seus cães.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="21" positionX="5452" positionY="-254" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -3708,7 +3870,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
       <outputs name="Diga que você acha que eles devem fazer o que quiserem. Não é a sua aldeia. Sair." ownerID="3" targetID="35" fromX="1200" fromY="-446" />
       <outputs name="Pergunte que deus estrangeiro eles querem dizer?" ownerID="3" targetID="33" fromX="1200" fromY="-526" />
       <outputs name="Pergunte como eles foram capazes de agir no reino dos vivos?" ownerID="3" targetID="32" fromX="1200" fromY="-607" />
-      <outputs name="Afaste-se por enquanto, talvez haja tempo para voltar mais tarde." ownerID="3" targetID="31" fromX="1200" fromY="-687" /></nodes>
+      <outputs name="Afaste-se por enquanto, talvez haja tempo para voltar mais tarde." ownerID="3" targetID="31" fromX="1200" fromY="-687" />Você ouve uma voz de muitos responder em sua cabeça:
+
+— Você pergunta por quê? Sua criança impertinente! Você não perguntaria se estivesse seguindo a sabedoria de seus antepassados, como lhe ensinamos. Em nome de Nyia, esta vila suja será punida por sua impureza e por prontamente convidar divindades estrangeiras para seu meio!'</nodes>
     <nodes xsi:type="NodeChallenge" ID="5" positionX="875" positionY="-1127" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-Q_FOREFATHER_SPIRITS_12P_12M_12S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="5" targetID="6" fromX="1316" fromY="-1622" />
       <outputs name="Lose" ownerID="5" targetID="8" fromX="1316" fromY="-1702" />
@@ -3784,7 +3948,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
       <outputs name="Ofereça um de sua preferência." ownerID="14" targetID="18" fromX="3840" fromY="-113" />
       <outputs name="Ataque!" ownerID="14" targetID="5" fromX="3840" fromY="-193" />
       <outputs name="[Usuário de magia] Você sente que esses espíritos estão obscurecidos e distorcidos. Eles vão pedir sangue o que você disser. Enfrentá-los nos reinos espirituais, é a única maneira de saciar completamente sua sede de vingança." ownerID="14" targetID="15" fromX="3840" fromY="-273" />
-      <outputs name="Vai doer, mas afaste-se por enquanto, talvez haja tempo para voltar mais tarde." ownerID="14" targetID="40" fromX="3840" fromY="-353" /></nodes>
+      <outputs name="Vai doer, mas afaste-se por enquanto, talvez haja tempo para voltar mais tarde." ownerID="14" targetID="40" fromX="3840" fromY="-353" />— Há alguma sabedoria em suas palavras. Sim. Os mais novos cometem erros. Vamos renunciar à nossa vingança, mas um preço de sangue deve ser pago.
+
+Tiraremos a vida de metade da aldeia, ou, podemos tirar uma das suas, você é forte, sua essência servirá.</nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="1449" positionY="829" width="500" height="726" challengeType="TypeSpirit" versusGroup="GROUP-Q_FOREFATHER_SPIRITS_12P_12M_12S" challengeScale="101" challengedList="ppl">
       <logic>
         <FilterBlock>
@@ -3831,7 +3997,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
       <outputs name="Ofereça um de sua preferência." ownerID="20" targetID="18" fromX="4794" fromY="-1080" />
       <outputs name="Ataque!" ownerID="20" targetID="5" fromX="4794" fromY="-1160" />
       <outputs name="[Usuário de magia] Você sente que esses espíritos estão obscurecidos e distorcidos. Eles vão pedir sangue o que você disser. Enfrentá-los nos reinos espirituais, é a única maneira de saciar completamente sua sede de vingança." ownerID="20" targetID="15" fromX="4794" fromY="-1240" />
-      <outputs name="Vai doer, mas afaste-se por enquanto, talvez haja tempo para voltar mais tarde." ownerID="20" targetID="40" fromX="4794" fromY="-1320" /></nodes>
+      <outputs name="Vai doer, mas afaste-se por enquanto, talvez haja tempo para voltar mais tarde." ownerID="20" targetID="40" fromX="4794" fromY="-1320" />— Há alguma sabedoria em suas palavras. Sim. Os jovens cometem erros. Vamos renunciar à nossa vingança, mas um preço de sangue deve ser pago.
+
+Tiraremos a vida de metade da aldeia, ou, podemos tirar uma das suas, você é forte, sua essência servirá.</nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="1979" positionY="1230" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -3864,7 +4032,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça aos antepassados e deixe-se reportar à aldeia." ownerID="21" targetID="22" fromX="2304" fromY="738" /></nodes>
+      <outputs name="Agradeça aos antepassados e deixe-se reportar à aldeia." ownerID="21" targetID="22" fromX="2304" fromY="738" />Sua força de espírito supera os antepassados furiosos e eles se retiram do reino físico para sempre. Enquanto eles partem, você ouve sua voz desaparecendo:
+
+'Agora é assim que nossos filhos devem ser. Bom. Você nos honra. Vamos deixar os fracos ao seu julgamento. Desaparecemos agora, mas um de nós ficará com você e o protegerá contra nossos inimigos.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="22" positionX="2163" positionY="2033" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="22" targetID="52" fromX="2611" fromY="1600" />
     </nodes>
@@ -3918,7 +4088,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
     <nodes xsi:type="NodeAdventure" ID="26" positionX="1907" positionY="-130" width="350" height="885">
       <outputs name="Fazer nada." ownerID="26" targetID="27" fromX="2232" fromY="-621" />
       <outputs name="Ataque!" ownerID="26" targetID="5" fromX="2232" fromY="-701" />
-      <outputs name="[Usuário de magia] Você sente que esses espíritos estão obscurecidos e distorcidos. Eles vão pedir sangue o que você disser. Enfrentá-los nos reinos espirituais, é a única maneira de saciar completamente sua sede de vingança." ownerID="26" targetID="15" fromX="2232" fromY="-781" /></nodes>
+      <outputs name="[Usuário de magia] Você sente que esses espíritos estão obscurecidos e distorcidos. Eles vão pedir sangue o que você disser. Enfrentá-los nos reinos espirituais, é a única maneira de saciar completamente sua sede de vingança." ownerID="26" targetID="15" fromX="2232" fromY="-781" />'Não! Suas palavras são fracas e sem sentido. Um preço de sangue será pago, só então eles saberão seu lugar.'
+
+Você sente o chão tremer e o ar fica frio. Você vê as figuras de madeira começarem a se mover, com intenção mortal em seus olhos vazios.</nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="3086" positionY="-1169" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -3956,7 +4128,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça aos antepassados e deixe-se reportar à aldeia." ownerID="28" targetID="29" fromX="487" fromY="772" /></nodes>
+      <outputs name="Agradeça aos antepassados e deixe-se reportar à aldeia." ownerID="28" targetID="29" fromX="487" fromY="772" />Os espíritos dos antepassados acenam em aprovação e você ouve seus sussurros:
+
+'Agora é assim que nossos filhos devem ser. Bom. Você nos honra. Vamos agora exigir nosso julgamento, mas um de nós ficará com você e o protegerá contra nossos inimigos.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="29" positionX="569" positionY="1290" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="29" targetID="30" fromX="1017" fromY="1307" />
     </nodes>
@@ -3996,7 +4170,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça aos antepassados e deixe-se reportar à aldeia." ownerID="35" targetID="29" fromX="62" fromY="889" /></nodes>
+      <outputs name="Agradeça aos antepassados e deixe-se reportar à aldeia." ownerID="35" targetID="29" fromX="62" fromY="889" />Os espíritos dos antepassados acenam em aprovação e você ouve seus sussurros:
+
+'Agora é assim que nossos filhos devem ser. Bom. Você nos honra. Vamos agora exigir nosso julgamento.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="36" positionX="6241" positionY="-351" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_HALLOW_FORE" logBookDescription="QUEST_HALLOW_FORE_DES6" linkedEventUniqueID="0" endOfQuest="true">
       <logic>
         <ModifierBlock>
@@ -4042,7 +4218,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Veja quem quer participar." ownerID="41" targetID="43" fromX="5724" fromY="-882" /></nodes>
+      <outputs name="Veja quem quer participar." ownerID="41" targetID="43" fromX="5724" fromY="-882" />Você vê Tomislav e os aldeões pairando por perto, eles aplaudem quando você se aproxima, muitos se ajoelham diante de você, Tomislav se curva:
+
+'Vocês são verdadeiros heróis, pelo menos para nós. Você deu a sua própria vida, por nós! Eu nunca poderei retribuir o suficiente. Aqui, uma coleção que fizemos para recompensá-lo. E alguns de nosso pessoal pediram para se juntar a você, se você os aceitar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="42" positionX="4933" positionY="-451" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -4120,7 +4298,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Agradeça a eles." ownerID="48" targetID="49" fromX="4623" fromY="216" /></nodes>
+      <outputs name="Agradeça a eles." ownerID="48" targetID="49" fromX="4623" fromY="216" />Você vê que os aldeões estavam reunidos nas proximidades e ouviu claramente qual será o preço. Gurtek, sua família goblin, Tomislav e seu grupo estranho e mais alguns indesejáveis foram rapidamente escolhidos como voluntários, e antes que alguém pudesse correr ou protestar, os antepassados os levaram. Bogslava fala com você:
+
+— Este foi um preço sangrento, mas você salvou muitas vidas. Eu acho que esta aldeia nunca quis essas pessoas estranhas de qualquer maneira, a natureza humana... nós afugentamos aquele estrangeiro também... Aqui, uma coleção que fizemos para recompensá-lo. '</nodes>
     <nodes xsi:type="NodeAdventure" ID="49" positionX="4665" positionY="872" width="350" height="805">
       <outputs name="Peça a Bogslava para vir." ownerID="49" targetID="17" fromX="4990" fromY="380" />
       <outputs name="Recuse e vá embora." ownerID="49" targetID="50" fromX="4990" fromY="300" />Os aldeoes se curvam em agradecimento, mas não falam muito, alguns estão claramente envergonhados com o que aconteceu, outros aliviados que não foram eles que pagaram. Eles se afastam. Bogslava permanece. 'Prefiro não ficar aqui; você vai me levar com você?'</nodes>
@@ -4139,7 +4319,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Veja quem quer participar." ownerID="52" targetID="53" fromX="3097" fromY="1788" /></nodes>
+      <outputs name="Veja quem quer participar." ownerID="52" targetID="53" fromX="3097" fromY="1788" />Você vê Tomislav e os aldeões pairando por perto, eles aplaudem quando você se aproxima, muitos se ajoelham diante de você, Tomislav se curva:
+
+'Vocês são verdadeiros heróis, pelo menos para nós. Eu nunca poderei retribuir o suficiente. Aqui, uma coleção que fizemos para recompensá-lo. E alguns de nosso pessoal pediram para se juntar a você, se você os aceitar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="53" positionX="3563" positionY="2777" width="350" height="1046">
       <outputs name="Peça a Bogslava e seu neto que venham." ownerID="53" targetID="54" fromX="3888" fromY="2285" />
       <outputs name="O jovem sobrinho de Gurtek gostaria de ir com você, e seu tio concorda com isso. Pegue-o." ownerID="53" targetID="55" fromX="3888" fromY="2205" />
@@ -4277,13 +4459,17 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Veja quem quer participar." ownerID="61" targetID="65" fromX="2786" fromY="980" /></nodes>
+      <outputs name="Veja quem quer participar." ownerID="61" targetID="65" fromX="2786" fromY="980" />Você vê Tomislav e os aldeões pairando por perto, eles aplaudem quando você se aproxima, muitos se ajoelham diante de você, Tomislav se curva:
+
+'Vocês são verdadeiros heróis, pelo menos para nós. Eu nunca poderei retribuir o suficiente. Aqui, uma coleção que fizemos para recompensá-lo. E alguns de nosso pessoal pediram para se juntar a você, se você os aceitar.</nodes>
     <nodes xsi:type="NodeAdventure" ID="62" positionX="3428" positionY="1702" width="350" height="1046">
       <outputs name="Peça a Bogslava e seu neto que venham." ownerID="62" targetID="54" fromX="3753" fromY="1210" />
       <outputs name="O jovem sobrinho de Gurtek gostaria de ir com você, e seu tio concorda com isso. Pegue-o." ownerID="62" targetID="55" fromX="3753" fromY="1130" />
       <outputs name="O filho de Tomislav, Milosz, deseja se juntar a você. Ele rejeitou a arte para sempre, mas ainda pode fazer artesanato decente. Pegue-o." ownerID="62" targetID="57" fromX="3753" fromY="1050" />
       <outputs name="Uma criança que ficou órfã deseja ir com você, pois você é o herói. Os aldeoes concordam que seria melhor para eles. Leve-os com você." ownerID="62" targetID="59" fromX="3753" fromY="970" />
-      <outputs name="Diga que você não quer que ninguém participe." ownerID="62" targetID="63" fromX="3753" fromY="890" /></nodes>
+      <outputs name="Diga que você não quer que ninguém participe." ownerID="62" targetID="63" fromX="3753" fromY="890" />Mais tarde, você descobre que a vila continuou a ser assombrada e algumas pessoas ficaram loucas, mas no geral, a vila se saiu muito melhor do que poderia.
+
+Quem quiser se juntar a você, faça fila.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="63" positionX="4023" positionY="1265" width="350" height="530" allPlayersXP="10" allPlayersRP="9" logBookName="QUEST_HALLOW_FORE" logBookDescription="QUEST_HALLOW_FORE_DES4" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeAdventureEnd" ID="64" positionX="6020" positionY="-1556" width="350" height="530" allPlayersXP="10" allPlayersRP="7" logBookName="QUEST_HALLOW_FORE" logBookDescription="QUEST_HALLOW_FORE_DES6" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeSpawnOnMap" ID="65" positionX="2870" positionY="1491" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
@@ -4307,7 +4493,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
       <outputs name="Ofereça um de sua preferência." ownerID="66" targetID="18" fromX="4228" fromY="-77" />
       <outputs name="Ataque!" ownerID="66" targetID="5" fromX="4228" fromY="-157" />
       <outputs name="[Usuário de magia] Você sente que esses espíritos estão obscurecidos e distorcidos. Eles vão pedir sangue o que você disser. Enfrentá-los nos reinos espirituais, é a única maneira de saciar completamente sua sede de vingança." ownerID="66" targetID="15" fromX="4228" fromY="-237" />
-      <outputs name="Vai doer, mas afaste-se por enquanto, talvez haja tempo para voltar mais tarde." ownerID="66" targetID="40" fromX="4228" fromY="-317" /></nodes>
+      <outputs name="Vai doer, mas afaste-se por enquanto, talvez haja tempo para voltar mais tarde." ownerID="66" targetID="40" fromX="4228" fromY="-317" />— Há alguma sabedoria em suas palavras. Sim. Os mais novos cometem erros. Vamos renunciar à nossa vingança, mas um preço de sangue deve ser pago.
+
+Tiraremos a vida de metade da aldeia, ou, podemos tirar uma das suas, você é forte, sua essência servirá.</nodes>
   </Adventure>
   <Adventure name="Wooden Bear Attack" uniqueID="20" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="35" eventTag="TAG-LOG_HALOWEEN" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="741" image="Event317">
@@ -4365,7 +4553,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
         </ModifierBlock>
       </logic>
       <outputs name="Lutar!" ownerID="4" targetID="29" fromX="587" fromY="-1415" />
-      <outputs name="Tente correr!" ownerID="4" targetID="15" fromX="587" fromY="-1495" /></nodes>
+      <outputs name="Tente correr!" ownerID="4" targetID="15" fromX="587" fromY="-1495" />Ao entrar, você é atacado por um urso de madeira empunhando um machado!
+
+Os dois cães, Bael e Zeb, juntam-se a você e avançam em direção ao urso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1477" positionY="131" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -4380,7 +4570,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="5" targetID="6" fromX="1802" fromY="-360" /> </nodes>
+      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="5" targetID="6" fromX="1802" fromY="-360" />Você destrói o urso e, no entanto, ouve uma voz de dentro:
+
+— Você não pode nos parar, tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...' </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2023" positionY="94" width="350" height="725">
       <outputs name="Vire-se para Gurtek." ownerID="6" targetID="7" fromX="2348" fromY="-397" />'Oh não! Isso soa ruim, muito ruim. As almas dos antepassados, nós os ofendemos... Gurtek, você sabe onde eles podem se esconder, para que possamos tentar pleitear com eles?</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2452" positionY="251" width="350" height="885">
@@ -4391,7 +4583,9 @@ Tomislav acena com a cabeça: 'Sim, eu também acho.' Gurtek é chamado e ele ob
 Ah, e um dos meus cachorros vai ficar com você de agora em diante, como agradecimento por todo o trabalho duro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2876" positionY="232" width="350" height="805">
       <outputs name="Concorde em ajudá-los." ownerID="8" targetID="11" fromX="3201" fromY="-259" />
-      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="8" targetID="9" fromX="3201" fromY="-339" /></nodes>
+      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="8" targetID="9" fromX="3201" fromY="-339" />Bem, eu mesmo lidaria com isso, mas como demônio, estou preso a esta aldeia. O lodge foi o mais longe que pude ir...'
+
+Você não tem certeza se ele está dizendo a verdade, mas tem a sensação de que ele não ganhará as próximas eleições depois disso.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="9" positionX="3502" positionY="-722" width="480" height="583" radius="0" destroyOwner="false" linkedEventUniqueID="0">
       <outputs ownerID="9" targetID="24" group="G1" fromX="3950" fromY="-1154" />
       <outputs ownerID="9" targetID="27" group="G1" fromX="3950" fromY="-1234" />
@@ -4425,7 +4619,9 @@ Ah, e um dos meus cachorros vai ficar com você de agora em diante, como agradec
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá até Tomislav para contar a ele sobre isso." ownerID="12" targetID="23" fromX="2722" fromY="-1601" /></nodes>
+      <outputs name="Vá até Tomislav para contar a ele sobre isso." ownerID="12" targetID="23" fromX="2722" fromY="-1601" />Você foi derrotado, mas o urso o abandona. Isso fala:
+
+— Você não pode nos parar, tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...'</nodes>
     <nodes xsi:type="NodeChallenge" ID="15" positionX="-50" positionY="-1794" width="500" height="726" challengeType="TypePhysical" versusConcept="true" versusGroup="GROUP-CON_P_4P_0M_0S" challengeScale="101" challengedList="nppl">
       <logic>
         <FilterBlock>
@@ -4478,7 +4674,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Diga que você pode tentar novamente se puder. Sair." ownerID="18" targetID="19" fromX="2353" fromY="-2354" /> </nodes>
+      <outputs name="Diga que você pode tentar novamente se puder. Sair." ownerID="18" targetID="19" fromX="2353" fromY="-2354" />Você conseguiu fugir e encontrar Tomislav. Ele ouve sua história, preocupado.
+
+'Um urso de madeira com um machado? Surpreendente, mas explicaria muitas coisas. Devemos tentar matá-lo, antes que mate mais do nosso povo. E pensar que todos os nossos guerreiros estão longe... Se você não ajudar, estamos perdidos. </nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="19" positionX="2465" positionY="-2020" width="480" height="503" radius="2" groupID="GROUP-Q_WOOD_BEAR_6P_6M_6S" destroyOwner="false" linkedEventUniqueID="21">
       <outputs ownerID="19" targetID="20" fromX="2913" fromY="-2452" />
     </nodes>
@@ -4488,7 +4686,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="22" positionX="2477" positionY="-2632" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_HALLOW_BEAR" logBookDescription="QUEST_HALLOW_BEAR_DES1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="23" positionX="2812" positionY="-1019" width="350" height="725">
-      <outputs name="Diga que você pode tentar novamente se puder. Sair." ownerID="23" targetID="25" fromX="3137" fromY="-1510" /></nodes>
+      <outputs name="Diga que você pode tentar novamente se puder. Sair." ownerID="23" targetID="25" fromX="3137" fromY="-1510" />Tomislav grita em pânico:
+
+'Ah, não, não. Os antepassados, irritados. Devemos tentar matar o urso, antes que ele mate mais do nosso povo. Certamente, isso vai detê-los... E pensar que todos os nossos guerreiros estão longe... Se você não ajudar, estamos perdidos.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="24" positionX="4878" positionY="-1017" width="350" height="530" allPlayersXP="6" allPlayersRP="5" logBookName="QUEST_HALLOW_BEAR" logBookDescription="QUEST_HALLOW_BEAR_DES3" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -4581,9 +4781,13 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="31" targetID="6" fromX="1808" fromY="-1702" /> </nodes>
+      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="31" targetID="6" fromX="1808" fromY="-1702" />Você destrói o urso e, no entanto, ouve uma voz de dentro:
+
+— Você não pode nos parar, tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...' </nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="1940" positionY="-822" width="350" height="725">
-      <outputs name="Vá até Tomislav para contar a ele sobre isso." ownerID="34" targetID="23" fromX="2265" fromY="-1313" /></nodes>
+      <outputs name="Vá até Tomislav para contar a ele sobre isso." ownerID="34" targetID="23" fromX="2265" fromY="-1313" />Você foi derrotado, mas o urso o abandona. Isso fala:
+
+— Você não pode nos parar, tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...'</nodes>
     <nodes xsi:type="NodeAdventure" ID="35" positionX="1511" positionY="-3018" width="350" height="725">
       <outputs name="Sair." ownerID="35" targetID="21" fromX="1836" fromY="-3509" />Você mal foge e sente que uma escuridão espiritual o segue por um tempo.
 Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira com um machado? Surpreendente, mas explicaria muitas coisas. Devemos tentar matá-lo antes que mate mais do nosso povo. E pensar que todos os nossos guerreiros estão longe... Se você não ajudar, estamos perdidos.
@@ -4640,7 +4844,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
         </ModifierBlock>
       </logic>
       <outputs name="Lutar!" ownerID="4" targetID="3" fromX="750" fromY="-1520" />
-      <outputs name="Fugir!" ownerID="4" targetID="31" fromX="750" fromY="-1600" /></nodes>
+      <outputs name="Fugir!" ownerID="4" targetID="31" fromX="750" fromY="-1600" />Ao entrar, você é atacado por um urso de madeira empunhando um machado!
+
+Os dois cães, Bael e Zeb, juntam-se a você e avançam em direção ao urso.</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="1578" positionY="-122" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -4655,7 +4861,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="5" targetID="6" fromX="1903" fromY="-613" /> </nodes>
+      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="5" targetID="6" fromX="1903" fromY="-613" />Você destrói o urso e, no entanto, ouve uma voz de dentro:
+
+— Você não pode nos parar, tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...' </nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2030" positionY="-45" width="350" height="725">
       <outputs name="Vire-se para Gurtek." ownerID="6" targetID="7" fromX="2355" fromY="-536" />'Oh não! Isso soa ruim, muito ruim. As almas dos antepassados, nós os ofendemos... Gurtek, você sabe onde eles podem se esconder, para que possamos tentar pleitear com eles?</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2493" positionY="1" width="350" height="885">
@@ -4665,7 +4873,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
 'Você vai falar com eles em nosso nome? Não temos zerca, nem xamã que possa fazer isso por nós. O que quer que você decida, levarei meus cães e tentarei preparar o povo para o que pode vir a seguir. Ah, e um dos meus cachorros vai ficar com você de agora em diante, como agradecimento por todo o trabalho duro.</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2953" positionY="86" width="350" height="805">
       <outputs name="Concorde em ajudá-los." ownerID="8" targetID="11" group="G1" fromX="3278" fromY="-405" />
-      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="8" targetID="9" fromX="3278" fromY="-485" /></nodes>
+      <outputs name="Recusar, dizer-lhes que é da sua conta e sair. [Abandone a missão]" ownerID="8" targetID="9" fromX="3278" fromY="-485" />Bem, eu mesmo lidaria com isso, mas como demônio, estou preso a esta aldeia. O lodge foi o mais longe que pude ir...'
+
+Você não tem certeza se ele está dizendo a verdade, mas tem a sensação de que ele não ganhará as próximas eleições depois disso.</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="9" positionX="3778" positionY="-926" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -4705,7 +4915,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="12" targetID="13" fromX="2295" fromY="-1372" /></nodes>
+      <outputs name="Sair." ownerID="12" targetID="13" fromX="2295" fromY="-1372" />Você foi derrotado, mas o urso o abandona. Isso fala:
+
+— Você não pode nos parar, tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="13" positionX="2384" positionY="-1081" width="480" height="503" radius="0" destroyOwner="false" linkedEventUniqueID="0">
       <outputs ownerID="13" targetID="14" fromX="2832" fromY="-1513" />
     </nodes>
@@ -4726,7 +4938,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="27" positionX="-1606" positionY="-586" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="28" positionX="1560" positionY="-991" width="350" height="725">
-      <outputs name="Sair." ownerID="28" targetID="13" fromX="1885" fromY="-1482" /></nodes>
+      <outputs name="Sair." ownerID="28" targetID="13" fromX="1885" fromY="-1482" />Você foi derrotado, mas o urso o abandona. Isso fala:
+
+— Você não pode nos parar, tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...'</nodes>
     <nodes xsi:type="NodeAdventure" ID="29" positionX="1388" positionY="655" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4752,7 +4966,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="29" targetID="6" fromX="1713" fromY="163" /> </nodes>
+      <outputs name="Vá contar a Tomislav e aos aldeoes sobre isso." ownerID="29" targetID="6" fromX="1713" fromY="163" />Você destrói o urso e, no entanto, ouve uma voz de dentro:
+
+— Você não pode nos parar, tolos. Você serve aos deuses e, portanto, não deve nos impedir. Um preço de sangue será pago pela Bear Village...' </nodes>
     <nodes xsi:type="NodeAdventure" ID="30" positionX="-441" positionY="-466" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4843,7 +5059,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
       <outputs name="Tente enganá-los." ownerID="2" targetID="39" fromX="708" fromY="-403" />
       <outputs name="Fugir!" ownerID="2" targetID="8" group="G1" fromX="708" fromY="-483" />
       <outputs name="Fugir!" ownerID="2" targetID="44" group="G1" fromX="708" fromY="-564" />
-      <outputs name="Dê a eles seus doces de frutas, eles parecem tão fofos ..." ownerID="2" targetID="50" fromX="708" fromY="-644" /></nodes>
+      <outputs name="Dê a eles seus doces de frutas, eles parecem tão fofos ..." ownerID="2" targetID="50" fromX="708" fromY="-644" />Você está emboscado por abóboras!?!
+
+'Seus doces ou suas vidas!'</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="2119" positionY="-647" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-POSSESSED_PUMPKINS_2P_1M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="9" group="G1" fromX="2560" fromY="-1142" />
       <outputs name="Lose" ownerID="3" targetID="13" fromX="2560" fromY="-1222" />
@@ -4901,7 +5119,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
         </ModifierBlock>
       </logic>
       <outputs name="Bom, vá embora." ownerID="5" targetID="49" group="G1" fromX="1260" fromY="-766" />
-      <outputs name="Bom, vá embora." ownerID="5" targetID="25" group="G1" fromX="1260" fromY="-846" /></nodes>
+      <outputs name="Bom, vá embora." ownerID="5" targetID="25" group="G1" fromX="1260" fromY="-846" />'AAA! Não. Nós corremos!
+
+Abóboras aterrorizadas fogem de você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1267" positionY="-1332" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -4978,7 +5198,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2299" positionY="311" width="350" height="885">
       <outputs name="Corre" ownerID="17" targetID="8" group="G1" fromX="2624" fromY="-180" />
       <outputs name="Ataque!" ownerID="17" targetID="3" fromX="2624" fromY="-260" />
-      <outputs name="Corre" ownerID="17" targetID="44" group="G1" fromX="2624" fromY="-340" /></nodes>
+      <outputs name="Corre" ownerID="17" targetID="44" group="G1" fromX="2624" fromY="-340" />'O que, sem doces? Você dá doces agora!'
+
+Eles parecem zangados.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="2791" positionY="586" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="1601" positionY="-368" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="35" positionX="1806" positionY="-2709" width="350" height="885">
@@ -5020,7 +5242,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-898" positionY="-248" width="350" height="805">
       <outputs name="Um amiguinho parece querer ficar. Pegue eles." ownerID="51" targetID="52" fromX="-572" fromY="-739" />
-      <outputs name="Sair." ownerID="51" targetID="53" fromX="-572" fromY="-819" /></nodes>
+      <outputs name="Sair." ownerID="51" targetID="53" fromX="-572" fromY="-819" />'Sim! Bom dia das bruxas para você. Não, não, não...'
+
+As abóboras pegam os doces e pulam para longe de você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="52" positionX="-1449" positionY="-201" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -5095,7 +5319,11 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
       <outputs name="Fugir!" ownerID="2" targetID="8" group="G1" fromX="708" fromY="-483" />
       <outputs name="Fugir!" ownerID="2" targetID="44" group="G1" fromX="708" fromY="-564" />
       <outputs name="Dê a eles seus doces de frutas, eles parecem tão fofos ..." ownerID="2" targetID="50" fromX="708" fromY="-644" />
-      <outputs name="Tente conversar mais com a abóbora, talvez você possa resolver isso?" ownerID="2" targetID="56" fromX="708" fromY="-724" /> The pumpkin who spoke has a large 'B' carved on it.</nodes>
+      <outputs name="Tente conversar mais com a abóbora, talvez você possa resolver isso?" ownerID="2" targetID="56" fromX="708" fromY="-724" />Você está emboscado por abóboras!?!
+
+'Seus docinhos ou suas vidas!'
+
+A abóbora que falou tem um grande 'B' esculpido nela.</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="2119" positionY="-647" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-POSSESSED_PUMPKINS_4P_2M_4S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="9" group="G1" fromX="2560" fromY="-1142" />
       <outputs name="Lose" ownerID="3" targetID="13" fromX="2560" fromY="-1222" />
@@ -5153,7 +5381,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
         </ModifierBlock>
       </logic>
       <outputs name="Bom, vá embora." ownerID="5" targetID="49" group="G1" fromX="1260" fromY="-766" />
-      <outputs name="Bom, vá embora." ownerID="5" targetID="25" group="G1" fromX="1260" fromY="-846" /></nodes>
+      <outputs name="Bom, vá embora." ownerID="5" targetID="25" group="G1" fromX="1260" fromY="-846" />'Ahhh! Não. Nós corremos!
+
+As abóboras aterrorizadas fogem de você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1267" positionY="-1332" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -5230,7 +5460,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2299" positionY="311" width="350" height="885">
       <outputs name="Corre" ownerID="17" targetID="8" group="G1" fromX="2624" fromY="-180" />
       <outputs name="Ataque!" ownerID="17" targetID="3" fromX="2624" fromY="-260" />
-      <outputs name="Corre" ownerID="17" targetID="44" group="G1" fromX="2624" fromY="-340" /></nodes>
+      <outputs name="Corre" ownerID="17" targetID="44" group="G1" fromX="2624" fromY="-340" />'O que, sem doces? Você dá doces agora!'
+
+Eles parecem zangados.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="2791" positionY="586" width="350" height="530" allPlayersXP="3" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -5287,7 +5519,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
         </ModifierBlock>
       </logic>
       <outputs name="Um amiguinho parece querer ficar. Pegue eles." ownerID="51" targetID="52" fromX="-572" fromY="-739" />
-      <outputs name="Sair." ownerID="51" targetID="53" fromX="-572" fromY="-819" /></nodes>
+      <outputs name="Sair." ownerID="51" targetID="53" fromX="-572" fromY="-819" />'Sim! Bom dia das bruxas para você. Não, não, não...'
+
+As abóboras pegam os doces e pulam para longe de você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="52" positionX="-1449" positionY="-201" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -5418,7 +5652,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Sair." ownerID="64" targetID="65" fromX="431" fromY="716" /></nodes>
+      <outputs name="Sair." ownerID="64" targetID="65" fromX="431" fromY="716" />Você não apenas falhou; parece que o destino que lhe foi prometido era se tornar uma abóbora também!
+
+Pelo menos as outras abóboras deixam você em paz agora.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="65" positionX="510" positionY="1265" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="66" positionX="-1895" positionY="1391" width="350" height="805">
       <logic>
@@ -5516,7 +5752,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
         </FilterBlock>
       </logic>
       <outputs name="Toque." ownerID="2" targetID="4" fromX="402" fromY="-499" />
-      <outputs name="Recusar e sair." ownerID="2" targetID="3" fromX="402" fromY="-579" /> </nodes>
+      <outputs name="Recusar e sair." ownerID="2" targetID="3" fromX="402" fromY="-579" />Uma cabana assustadora aparece diante de você, ela fala:
+
+'Para honrar o tempo de All Souls, você pode jogar um jogo do destino comigo. Ofereça mercadorias para ter a chance de ganhar. Mas cuidado, os espíritos rolam os dados aqui e o destino pode pregar uma peça em você também!' </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="616" positionY="-876" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeTrade" ID="4" positionX="559" positionY="-259" width="460" height="479" traderProfile="TRADER-BANDIT" playerInventory="stuff" startingBalance="-500">
       <outputs name="Confirm" ownerID="4" targetID="19" fromX="989" fromY="-587" />
@@ -5650,7 +5888,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
     </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="3447" positionY="-1161" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="17" positionX="1537" positionY="-695" width="350" height="725" image="Event012">
-      <outputs name="Defenda-se!" ownerID="17" targetID="18" fromX="1862" fromY="-1186" /></nodes>
+      <outputs name="Defenda-se!" ownerID="17" targetID="18" fromX="1862" fromY="-1186" />Você vê uma nota:
+
+'Atrás de você!'</nodes>
     <nodes xsi:type="NodeChallenge" ID="18" positionX="2043" positionY="-1500" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-UNLI_MIX_2P_1M_1S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="18" targetID="23" fromX="2484" fromY="-1995" />
       <outputs name="Lose" ownerID="18" targetID="25" fromX="2484" fromY="-2075" />
@@ -5782,7 +6022,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
       <outputs name="Tente enganá-los." ownerID="2" targetID="39" fromX="708" fromY="-403" />
       <outputs name="Fugir!" ownerID="2" targetID="8" group="G1" fromX="708" fromY="-483" />
       <outputs name="Fugir!" ownerID="2" targetID="44" group="G1" fromX="708" fromY="-564" />
-      <outputs name="Dê a eles seus doces de frutas, eles parecem tão fofos ..." ownerID="2" targetID="50" fromX="708" fromY="-644" /></nodes>
+      <outputs name="Dê a eles seus doces de frutas, eles parecem tão fofos ..." ownerID="2" targetID="50" fromX="708" fromY="-644" />Você está emboscado por abóboras!?!
+
+'Seus doces ou suas vidas!'</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="2119" positionY="-647" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-POSSESSED_PUMPKINS_6P_4M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="9" fromX="2560" fromY="-1142" />
       <outputs name="Lose" ownerID="3" targetID="13" fromX="2560" fromY="-1222" />
@@ -5840,7 +6082,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
         </ModifierBlock>
       </logic>
       <outputs name="Bom, vá embora." ownerID="5" targetID="49" group="G1" fromX="1260" fromY="-766" />
-      <outputs name="Bom, vá embora." ownerID="5" targetID="25" group="G1" fromX="1260" fromY="-846" /></nodes>
+      <outputs name="Bom, vá embora." ownerID="5" targetID="25" group="G1" fromX="1260" fromY="-846" />'AAA! Não. Nós corremos!
+
+Abóboras aterrorizadas fogem de você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1267" positionY="-1332" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -5920,7 +6164,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2299" positionY="311" width="350" height="885">
       <outputs name="Corre" ownerID="17" targetID="8" group="G1" fromX="2624" fromY="-180" />
       <outputs name="Ataque!" ownerID="17" targetID="3" fromX="2624" fromY="-260" />
-      <outputs name="Corre" ownerID="17" targetID="44" group="G1" fromX="2624" fromY="-340" /></nodes>
+      <outputs name="Corre" ownerID="17" targetID="44" group="G1" fromX="2624" fromY="-340" />'O que, sem doces? Você dá doces agora!'
+
+Eles parecem zangados.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="2791" positionY="586" width="350" height="530" allPlayersXP="4" allPlayersRP="4" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="1601" positionY="-368" width="350" height="530" allPlayersXP="3" allPlayersRP="3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="35" positionX="1371" positionY="-2417" width="350" height="885">
@@ -5962,7 +6208,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-898" positionY="-248" width="350" height="805">
       <outputs name="Um amiguinho parece querer ficar. Pegue eles." ownerID="51" targetID="52" fromX="-572" fromY="-739" />
-      <outputs name="Sair." ownerID="51" targetID="53" fromX="-572" fromY="-819" /></nodes>
+      <outputs name="Sair." ownerID="51" targetID="53" fromX="-572" fromY="-819" />'Sim! Bom dia das bruxas para você. Não, não, não...'
+
+As abóboras pegam os doces e pulam para longe de você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="52" positionX="-1449" positionY="-201" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -6943,7 +7191,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
       <outputs name="Tente enganá-los." ownerID="2" targetID="39" fromX="708" fromY="-403" />
       <outputs name="Fugir!" ownerID="2" targetID="8" group="G1" fromX="708" fromY="-483" />
       <outputs name="Fugir!" ownerID="2" targetID="44" group="G1" fromX="708" fromY="-564" />
-      <outputs name="Dê a eles seus doces de frutas, eles parecem tão fofos ..." ownerID="2" targetID="50" fromX="708" fromY="-644" /></nodes>
+      <outputs name="Dê a eles seus doces de frutas, eles parecem tão fofos ..." ownerID="2" targetID="50" fromX="708" fromY="-644" />Você está emboscado por abóboras!?!
+
+'Seus doces ou suas vidas!'</nodes>
     <nodes xsi:type="NodeChallenge" ID="3" positionX="2119" positionY="-647" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-POSSESSED_PUMPKINS_6P_4M_6S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="3" targetID="9" fromX="2560" fromY="-1142" />
       <outputs name="Lose" ownerID="3" targetID="13" fromX="2560" fromY="-1222" />
@@ -7001,7 +7251,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
         </ModifierBlock>
       </logic>
       <outputs name="Bom, vá embora." ownerID="5" targetID="49" group="G1" fromX="1260" fromY="-766" />
-      <outputs name="Bom, vá embora." ownerID="5" targetID="25" group="G1" fromX="1260" fromY="-846" /></nodes>
+      <outputs name="Bom, vá embora." ownerID="5" targetID="25" group="G1" fromX="1260" fromY="-846" />'AAA! Não. Nós corremos!
+
+Abóboras aterrorizadas fogem de você.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1267" positionY="-1332" width="350" height="805">
       <logic>
         <ModifierBlock>
@@ -7081,7 +7333,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
     <nodes xsi:type="NodeAdventure" ID="17" positionX="2299" positionY="311" width="350" height="885">
       <outputs name="Corre" ownerID="17" targetID="8" group="G1" fromX="2624" fromY="-180" />
       <outputs name="Ataque!" ownerID="17" targetID="3" fromX="2624" fromY="-260" />
-      <outputs name="Corre" ownerID="17" targetID="44" group="G1" fromX="2624" fromY="-340" /></nodes>
+      <outputs name="Corre" ownerID="17" targetID="44" group="G1" fromX="2624" fromY="-340" />'O que, sem doces? Você dá doces agora!'
+
+Eles parecem zangados.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="18" positionX="2791" positionY="586" width="350" height="530" allPlayersXP="4" allPlayersRP="4" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventureEnd" ID="25" positionX="1601" positionY="-368" width="350" height="530" allPlayersXP="3" allPlayersRP="3" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="35" positionX="1371" positionY="-2417" width="350" height="885">
@@ -7123,7 +7377,9 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="51" positionX="-898" positionY="-248" width="350" height="805">
       <outputs name="Um amiguinho parece querer ficar. Pegue eles." ownerID="51" targetID="52" fromX="-572" fromY="-739" />
-      <outputs name="Sair." ownerID="51" targetID="53" fromX="-572" fromY="-819" /></nodes>
+      <outputs name="Sair." ownerID="51" targetID="53" fromX="-572" fromY="-819" />'Sim! Bom dia das bruxas para você. Não, não, não...'
+
+As abóboras pegam os doces e pulam para longe de você.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="52" positionX="-1449" positionY="-201" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -7213,7 +7469,7 @@ Você encontra Tomislav. Ele ouve sua história, preocupado. 'Um urso de madeira
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="753" fromY="-593" />Alguns de seus pais encontraram uma abóbora no repolho!?</nodes>
+      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="753" fromY="-593" />Alguns de seus amigos encontraram uma abóbora no repolho!?</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="887" positionY="-153" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
 </MODULE>
