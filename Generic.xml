@@ -4203,7 +4203,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="4" targetID="5" fromX="1563" fromY="1072" />A criança não é mais jovem, hoje eles se juntam às fileiras orgulhosas da casta guerreira. </nodes>
+      <outputs name="Comemorar." ownerID="4" targetID="5" fromX="1563" fromY="1072" />A criança não é mais jovem, hoje eles se juntam às fileiras orgulhosas da casta guerreira. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2325" positionY="1367" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1680" positionY="800" width="350" height="725">
       <logic>
@@ -4221,7 +4221,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="6" targetID="5" fromX="2005" fromY="308" />A criança não é mais jovem, hoje eles se juntam às fileiras orgulhosas da casta guerreira. </nodes>
+      <outputs name="Comemorar." ownerID="6" targetID="5" fromX="2005" fromY="308" />A criança não é mais jovem, hoje eles se juntam às fileiras orgulhosas da casta guerreira. </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2104" positionY="679" width="350" height="805">
       <outputs name="Aguarde para ver seu destino." ownerID="7" targetID="65" group="G1" fromX="2429" fromY="187" />
       <outputs name="Aguarde para ver seu destino." ownerID="7" targetID="15" group="G1" fromX="2429" fromY="107" />A criança falhou em suas tentativas e corre um grave perigo.</nodes>
@@ -4264,7 +4264,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="9" targetID="5" fromX="1548" fromY="61" />A criança não é mais jovem, hoje eles se juntam às orgulhosas fileiras dos caçadores.</nodes>
+      <outputs name="Comemorar." ownerID="9" targetID="5" fromX="1548" fromY="61" />A criança não é mais jovem, hoje eles se juntam às orgulhosas fileiras dos caçadores.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="1708" positionY="40" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4281,7 +4281,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="10" targetID="5" fromX="2033" fromY="-451" />A criança não é mais jovem, hoje eles se juntam às orgulhosas fileiras dos caçadores.</nodes>
+      <outputs name="Comemorar." ownerID="10" targetID="5" fromX="2033" fromY="-451" />A criança não é mais jovem, hoje eles se juntam às orgulhosas fileiras dos caçadores.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1212" positionY="-248" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -4340,7 +4340,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="12" targetID="5" fromX="1972" fromY="-1334" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
+      <outputs name="Comemorar." ownerID="12" targetID="5" fromX="1972" fromY="-1334" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="2438" positionY="-838" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4357,7 +4357,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="13" targetID="5" fromX="2763" fromY="-1329" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
+      <outputs name="Comemorar." ownerID="13" targetID="5" fromX="2763" fromY="-1329" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="3686" positionY="1279" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4451,7 +4451,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="18" targetID="5" fromX="155" fromY="-674" />A criança não é mais jovem, hoje eles se juntam às duvidosas fileiras do banditismo.</nodes>
+      <outputs name="Comemorar." ownerID="18" targetID="5" fromX="155" fromY="-674" />A criança não é mais jovem, hoje eles se juntam às duvidosas fileiras do banditismo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="-215" positionY="-939" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4477,7 +4477,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="19" targetID="5" fromX="110" fromY="-1430" />A criança não é mais jovem, hoje eles se juntam às dúbias fileiras do banditismo...</nodes>
+      <outputs name="Comemorar." ownerID="19" targetID="5" fromX="110" fromY="-1430" />A criança não é mais jovem, hoje eles se juntam às dúbias fileiras do banditismo...</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="141" positionY="-2125" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4538,7 +4538,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="23" targetID="29" fromX="3924" fromY="-2131" />A criança não poderia se tornar o que deveria, mas mostrou grande habilidade como coletor. </nodes>
+      <outputs name="Comemorar." ownerID="23" targetID="29" fromX="3924" fromY="-2131" />A criança não poderia se tornar o que deveria, mas mostrou grande habilidade como coletor. </nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="2189" positionY="-2444" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4589,7 +4589,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="26" targetID="5" fromX="1483" fromY="-2749" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão de artesanato.</nodes>
+      <outputs name="Comemorar." ownerID="26" targetID="5" fromX="1483" fromY="-2749" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão de artesanato.</nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="1691" positionY="-2756" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4606,7 +4606,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="27" targetID="5" fromX="2016" fromY="-3247" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão de artesanato.</nodes>
+      <outputs name="Comemorar." ownerID="27" targetID="5" fromX="2016" fromY="-3247" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão de artesanato.</nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="2191" positionY="-2481" width="350" height="885">
       <outputs name="Aguarde para ver seu destino." ownerID="28" targetID="63" group="G1" fromX="2516" fromY="-2972" />
       <outputs name="Aguarde para ver seu destino." ownerID="28" targetID="24" group="G1" fromX="2516" fromY="-3052" />
@@ -4644,7 +4644,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="31" targetID="5" fromX="-171" fromY="-3531" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão dos catadores.</nodes>
+      <outputs name="Comemorar." ownerID="31" targetID="5" fromX="-171" fromY="-3531" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão dos catadores.</nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="-120" positionY="-3504" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4661,7 +4661,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="32" targetID="5" fromX="205" fromY="-3995" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão dos catadores.</nodes>
+      <outputs name="Comemorar." ownerID="32" targetID="5" fromX="205" fromY="-3995" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão dos catadores.</nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="-574" positionY="611" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4833,7 +4833,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="51" targetID="5" fromX="-838" fromY="-1958" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
+      <outputs name="Comemorar." ownerID="51" targetID="5" fromX="-838" fromY="-1958" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="-600" positionY="-2201" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4850,7 +4850,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="52" targetID="5" fromX="-274" fromY="-2692" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
+      <outputs name="Comemorar." ownerID="52" targetID="5" fromX="-274" fromY="-2692" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
     <nodes xsi:type="NodeAdventure" ID="53" positionX="-1002" positionY="-2234" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4873,7 +4873,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="53" targetID="5" fromX="-676" fromY="-2725" />A criança se perde e o mundo cinza arranca sua carne deixando apenas um espírito raivoso. Ainda assim, eles retornam para você. </nodes>
+      <outputs name="Comemorar." ownerID="53" targetID="5" fromX="-676" fromY="-2725" />A criança se perde e o mundo cinza arranca sua carne deixando apenas um espírito raivoso. Ainda assim, eles retornam para você. </nodes>
     <nodes xsi:type="NodeAdventure" ID="54" positionX="-1491" positionY="-2862" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -4897,7 +4897,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="54" targetID="5" fromX="-1165" fromY="-3353" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria, mas não sem pagar um alto preço pelas artes das trevas.</nodes>
+      <outputs name="Comemorar." ownerID="54" targetID="5" fromX="-1165" fromY="-3353" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria, mas não sem pagar um alto preço pelas artes das trevas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="55" positionX="2092" positionY="-285" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -4935,7 +4935,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="56" targetID="5" fromX="3132" fromY="-1051" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador e graças ao caminho da Harmonia, o destino sorri para eles neste dia.</nodes>
+      <outputs name="Comemorar." ownerID="56" targetID="5" fromX="3132" fromY="-1051" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador e graças ao caminho da Harmonia, o destino sorri para eles neste dia.</nodes>
     <nodes xsi:type="NodeAdventure" ID="57" positionX="3200" positionY="-889" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -4949,7 +4949,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="57" targetID="5" fromX="3525" fromY="-1380" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
+      <outputs name="Comemorar." ownerID="57" targetID="5" fromX="3525" fromY="-1380" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
     <nodes xsi:type="NodeAdventure" ID="58" positionX="-1854" positionY="1154" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -4993,7 +4993,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="59" targetID="5" fromX="-1784" fromY="-2391" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
+      <outputs name="Comemorar." ownerID="59" targetID="5" fromX="-1784" fromY="-2391" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
     <nodes xsi:type="NodeAdventure" ID="60" positionX="1229" positionY="-1478" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5010,7 +5010,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="60" targetID="5" fromX="1554" fromY="-1969" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
+      <outputs name="Comemorar." ownerID="60" targetID="5" fromX="1554" fromY="-1969" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
     <nodes xsi:type="NodeAdventure" ID="61" positionX="309" positionY="-2506" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -5096,7 +5096,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="67" targetID="5" fromX="-816" fromY="-1162" />A criança não é mais jovem, hoje eles se juntam às dúbias fileiras do banditismo...</nodes>
+      <outputs name="Comemorar." ownerID="67" targetID="5" fromX="-816" fromY="-1162" />A criança não é mais jovem, hoje eles se juntam às dúbias fileiras do banditismo...</nodes>
     <nodes xsi:type="NodeAdventure" ID="68" positionX="-2743" positionY="-1592" width="350" height="1206">
       <logic>
         <FilterBlock>
@@ -5164,7 +5164,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="69" targetID="5" fromX="3919" fromY="-975" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
+      <outputs name="Comemorar." ownerID="69" targetID="5" fromX="3919" fromY="-975" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
     <nodes xsi:type="NodeAdventure" ID="70" positionX="752" positionY="-331" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -5343,7 +5343,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="78" targetID="5" fromX="1516" fromY="-3493" />A criança não é mais jovem, hoje eles ingressam na orgulhosa profissão de artesanato e porque você escolheu o caminho da Luz, eles são mais habilidosos do que o habitual.</nodes>
+      <outputs name="Comemorar." ownerID="78" targetID="5" fromX="1516" fromY="-3493" />A criança não é mais jovem, hoje eles ingressam na orgulhosa profissão de artesanato e porque você escolheu o caminho da Luz, eles são mais habilidosos do que o habitual.</nodes>
     <nodes xsi:type="NodeAdventureEnd" allowOnce="true" ID="79" positionX="675" positionY="-1611" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -5663,7 +5663,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="94" targetID="5" fromX="-2989" fromY="-3369" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
+      <outputs name="Comemorar." ownerID="94" targetID="5" fromX="-2989" fromY="-3369" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
     <nodes xsi:type="NodeAdventure" ID="95" positionX="-2893" positionY="-2950" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5680,7 +5680,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="95" targetID="5" fromX="-2567" fromY="-3441" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
+      <outputs name="Comemorar." ownerID="95" targetID="5" fromX="-2567" fromY="-3441" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
     <nodes xsi:type="NodeAdventure" ID="96" positionX="-3317" positionY="-3653" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5709,7 +5709,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="96" targetID="5" fromX="-2991" fromY="-4144" />A criança se perde e o mundo cinzento arranca sua carne deixando apenas os ossos. Ainda assim, eles retornam para você. </nodes>
+      <outputs name="Comemorar." ownerID="96" targetID="5" fromX="-2991" fromY="-4144" />A criança se perde e o mundo cinzento arranca sua carne deixando apenas os ossos. Ainda assim, eles retornam para você. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="97" positionX="-2885" positionY="-3722" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -5737,7 +5737,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="98" targetID="5" fromX="-3502" fromY="-4620" />O menino não era forte o suficiente para se tornar um volh, mas eles podem servir como gusla.</nodes>
+      <outputs name="Comemorar." ownerID="98" targetID="5" fromX="-3502" fromY="-4620" />O menino não era forte o suficiente para se tornar um volh, mas eles podem servir como gusla.</nodes>
     <nodes xsi:type="NodeAdventure" ID="99" positionX="-2360" positionY="-3538" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -5796,7 +5796,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="100" targetID="5" fromX="-3101" fromY="-4893" />O menino não era forte o suficiente para se tornar um volh, e suas provaçoes provaram ser muito ruins, mas eles podem servir como gusla. </nodes>
+      <outputs name="Comemorar." ownerID="100" targetID="5" fromX="-3101" fromY="-4893" />O menino não era forte o suficiente para se tornar um volh, e suas provaçoes provaram ser muito ruins, mas eles podem servir como gusla. </nodes>
     <nodes xsi:type="NodeAdventure" ID="101" positionX="-4230" positionY="-2899" width="350" height="1206">
       <logic>
         <FilterBlock>
@@ -5949,7 +5949,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="108" targetID="5" fromX="-619" fromY="-4175" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
+      <outputs name="Comemorar." ownerID="108" targetID="5" fromX="-619" fromY="-4175" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
     <nodes xsi:type="NodeAdventure" ID="109" positionX="-578" positionY="-4024" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -5961,7 +5961,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="109" targetID="5" fromX="-252" fromY="-4515" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
+      <outputs name="Comemorar." ownerID="109" targetID="5" fromX="-252" fromY="-4515" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
     <nodes xsi:type="NodeTrade" ID="110" positionX="-1455" positionY="-4317" width="460" height="559" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <logic>
         <FilterBlock>
@@ -5990,7 +5990,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="111" targetID="5" fromX="-621" fromY="-4943" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
+      <outputs name="Comemorar." ownerID="111" targetID="5" fromX="-621" fromY="-4943" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
     <nodes xsi:type="NodeAdventure" ID="112" positionX="-189" positionY="-4661" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -6002,7 +6002,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="112" targetID="5" fromX="136" fromY="-5152" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame gusla.</nodes>
+      <outputs name="Comemorar." ownerID="112" targetID="5" fromX="136" fromY="-5152" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame gusla.</nodes>
     <nodes xsi:type="NodeTrade" ID="113" positionX="-1465" positionY="-4893" width="460" height="559" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <outputs name="Confirm" ownerID="113" targetID="114" group="G1" fromX="-1034" fromY="-5221" />
       <outputs name="Cancel" ownerID="113" targetID="120" fromX="-1034" fromY="-5301" />
@@ -6024,7 +6024,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="114" targetID="5" fromX="-616" fromY="-5682" />Você se junta às fileiras do banditismo, mas permanece leal à causa divina.</nodes>
+      <outputs name="Comemorar." ownerID="114" targetID="5" fromX="-616" fromY="-5682" />Você se junta às fileiras do banditismo, mas permanece leal à causa divina.</nodes>
     <nodes xsi:type="NodeAdventure" ID="115" positionX="-565" positionY="-5192" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -6036,7 +6036,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="115" targetID="5" fromX="-239" fromY="-5683" />Você se junta às fileiras do banditismo, mas permanece leal à causa divina.</nodes>
+      <outputs name="Comemorar." ownerID="115" targetID="5" fromX="-239" fromY="-5683" />Você se junta às fileiras do banditismo, mas permanece leal à causa divina.</nodes>
     <nodes xsi:type="NodeTrade" ID="116" positionX="-2332" positionY="-4954" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <outputs name="Confirm" ownerID="116" targetID="117" fromX="-1901" fromY="-5282" />
       <outputs name="Cancel" ownerID="116" targetID="120" fromX="-1901" fromY="-5362" />
@@ -6052,7 +6052,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="117" targetID="5" fromX="-1515" fromY="-5601" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
+      <outputs name="Comemorar." ownerID="117" targetID="5" fromX="-1515" fromY="-5601" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
     <nodes xsi:type="NodeTrade" ID="118" positionX="-2342" positionY="-5473" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <outputs name="Confirm" ownerID="118" targetID="119" fromX="-1911" fromY="-5801" />
       <outputs name="Cancel" ownerID="118" targetID="120" fromX="-1911" fromY="-5881" />
@@ -6074,7 +6074,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="119" targetID="5" fromX="-1124" fromY="-6016" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
+      <outputs name="Comemorar." ownerID="119" targetID="5" fromX="-1124" fromY="-6016" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
     <nodes xsi:type="NodeAdventure" ID="120" positionX="-2722" positionY="-4314" width="350" height="1206">
       <logic>
         <FilterBlock>
@@ -6133,7 +6133,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="122" targetID="5" fromX="-2025" fromY="-6484" />A criança não é mais jovem, hoje eles se unem à orgulhosa vocação do inventor.</nodes>
+      <outputs name="Comemorar." ownerID="122" targetID="5" fromX="-2025" fromY="-6484" />A criança não é mais jovem, hoje eles se unem à orgulhosa vocação do inventor.</nodes>
   </Adventure>
   <Adventure name="Summon Death" uniqueID="31" typeGeneric="true" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="6" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="10" positionY="-10" width="347" height="661" image="Event188">
@@ -9541,7 +9541,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="4" targetID="5" fromX="1563" fromY="1072" />A criança não é mais jovem, hoje eles se juntam às fileiras orgulhosas da casta guerreira. </nodes>
+      <outputs name="Comemorar." ownerID="4" targetID="5" fromX="1563" fromY="1072" />A criança não é mais jovem, hoje eles se juntam às fileiras orgulhosas da casta guerreira. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="5" positionX="2325" positionY="1367" width="350" height="530" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1680" positionY="800" width="350" height="725">
       <logic>
@@ -9559,7 +9559,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="6" targetID="5" fromX="2005" fromY="308" />A criança não é mais jovem, hoje eles se juntam às fileiras orgulhosas da casta guerreira. </nodes>
+      <outputs name="Comemorar." ownerID="6" targetID="5" fromX="2005" fromY="308" />A criança não é mais jovem, hoje eles se juntam às fileiras orgulhosas da casta guerreira. </nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="2104" positionY="679" width="350" height="805">
       <outputs name="Aguarde para ver seu destino." ownerID="7" targetID="65" group="G1" fromX="2429" fromY="187" />
       <outputs name="Aguarde para ver seu destino." ownerID="7" targetID="15" group="G1" fromX="2429" fromY="107" />A criança falhou em suas tentativas e corre um grave perigo.</nodes>
@@ -9602,7 +9602,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="9" targetID="5" fromX="1548" fromY="61" />A criança não é mais jovem, hoje eles se juntam às orgulhosas fileiras dos caçadores.</nodes>
+      <outputs name="Comemorar." ownerID="9" targetID="5" fromX="1548" fromY="61" />A criança não é mais jovem, hoje eles se juntam às orgulhosas fileiras dos caçadores.</nodes>
     <nodes xsi:type="NodeAdventure" ID="10" positionX="1708" positionY="40" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9619,7 +9619,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="10" targetID="5" fromX="2033" fromY="-451" />A criança não é mais jovem, hoje eles se juntam às orgulhosas fileiras dos caçadores.</nodes>
+      <outputs name="Comemorar." ownerID="10" targetID="5" fromX="2033" fromY="-451" />A criança não é mais jovem, hoje eles se juntam às orgulhosas fileiras dos caçadores.</nodes>
     <nodes xsi:type="NodeAdventure" ID="11" positionX="1212" positionY="-248" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -9678,7 +9678,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="12" targetID="5" fromX="1972" fromY="-1334" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
+      <outputs name="Comemorar." ownerID="12" targetID="5" fromX="1972" fromY="-1334" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
     <nodes xsi:type="NodeAdventure" ID="13" positionX="2438" positionY="-838" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9695,7 +9695,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="13" targetID="5" fromX="2763" fromY="-1329" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
+      <outputs name="Comemorar." ownerID="13" targetID="5" fromX="2763" fromY="-1329" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
     <nodes xsi:type="NodeAdventure" ID="14" positionX="3686" positionY="1279" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9789,7 +9789,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="18" targetID="5" fromX="155" fromY="-674" />A criança não é mais jovem, hoje eles se juntam às duvidosas fileiras do banditismo.</nodes>
+      <outputs name="Comemorar." ownerID="18" targetID="5" fromX="155" fromY="-674" />A criança não é mais jovem, hoje eles se juntam às duvidosas fileiras do banditismo.</nodes>
     <nodes xsi:type="NodeAdventure" ID="19" positionX="-215" positionY="-939" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9815,7 +9815,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="19" targetID="5" fromX="110" fromY="-1430" />A criança não é mais jovem, hoje eles se juntam às dúbias fileiras do banditismo...</nodes>
+      <outputs name="Comemorar." ownerID="19" targetID="5" fromX="110" fromY="-1430" />A criança não é mais jovem, hoje eles se juntam às dúbias fileiras do banditismo...</nodes>
     <nodes xsi:type="NodeAdventure" ID="20" positionX="141" positionY="-2125" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9876,7 +9876,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="23" targetID="29" fromX="3924" fromY="-2131" />A criança não poderia se tornar o que deveria, mas mostrou grande habilidade como coletor. </nodes>
+      <outputs name="Comemorar." ownerID="23" targetID="29" fromX="3924" fromY="-2131" />A criança não poderia se tornar o que deveria, mas mostrou grande habilidade como coletor. </nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="2189" positionY="-2444" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9927,7 +9927,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="26" targetID="5" fromX="1483" fromY="-2749" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão de artesanato.</nodes>
+      <outputs name="Comemorar." ownerID="26" targetID="5" fromX="1483" fromY="-2749" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão de artesanato.</nodes>
     <nodes xsi:type="NodeAdventure" ID="27" positionX="1691" positionY="-2756" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9944,7 +9944,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="27" targetID="5" fromX="2016" fromY="-3247" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão de artesanato.</nodes>
+      <outputs name="Comemorar." ownerID="27" targetID="5" fromX="2016" fromY="-3247" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão de artesanato.</nodes>
     <nodes xsi:type="NodeAdventure" ID="28" positionX="2191" positionY="-2481" width="350" height="885">
       <outputs name="Aguarde para ver seu destino." ownerID="28" targetID="63" group="G1" fromX="2516" fromY="-2972" />
       <outputs name="Aguarde para ver seu destino." ownerID="28" targetID="24" group="G1" fromX="2516" fromY="-3052" />
@@ -9982,7 +9982,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="31" targetID="5" fromX="-171" fromY="-3531" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão dos catadores.</nodes>
+      <outputs name="Comemorar." ownerID="31" targetID="5" fromX="-171" fromY="-3531" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão dos catadores.</nodes>
     <nodes xsi:type="NodeAdventure" ID="32" positionX="-120" positionY="-3504" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -9999,7 +9999,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="32" targetID="5" fromX="205" fromY="-3995" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão dos catadores.</nodes>
+      <outputs name="Comemorar." ownerID="32" targetID="5" fromX="205" fromY="-3995" />A criança não é mais jovem, hoje eles se juntam à orgulhosa profissão dos catadores.</nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="-574" positionY="611" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10171,7 +10171,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="51" targetID="5" fromX="-838" fromY="-1958" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
+      <outputs name="Comemorar." ownerID="51" targetID="5" fromX="-838" fromY="-1958" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
     <nodes xsi:type="NodeAdventure" ID="52" positionX="-600" positionY="-2201" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10188,7 +10188,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="52" targetID="5" fromX="-274" fromY="-2692" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
+      <outputs name="Comemorar." ownerID="52" targetID="5" fromX="-274" fromY="-2692" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
     <nodes xsi:type="NodeAdventure" ID="53" positionX="-1002" positionY="-2234" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10211,7 +10211,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="53" targetID="5" fromX="-676" fromY="-2725" />A criança se perde e o mundo cinza arranca sua carne deixando apenas um espírito raivoso. Ainda assim, eles retornam para você. </nodes>
+      <outputs name="Comemorar." ownerID="53" targetID="5" fromX="-676" fromY="-2725" />A criança se perde e o mundo cinza arranca sua carne deixando apenas um espírito raivoso. Ainda assim, eles retornam para você. </nodes>
     <nodes xsi:type="NodeAdventure" ID="54" positionX="-1491" positionY="-2862" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -10235,7 +10235,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="54" targetID="5" fromX="-1165" fromY="-3353" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria, mas não sem pagar um alto preço pelas artes das trevas.</nodes>
+      <outputs name="Comemorar." ownerID="54" targetID="5" fromX="-1165" fromY="-3353" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria, mas não sem pagar um alto preço pelas artes das trevas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="55" positionX="2092" positionY="-285" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -10273,7 +10273,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="56" targetID="5" fromX="3132" fromY="-1051" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador e graças ao caminho da Harmonia, o destino sorri para eles neste dia.</nodes>
+      <outputs name="Comemorar." ownerID="56" targetID="5" fromX="3132" fromY="-1051" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador e graças ao caminho da Harmonia, o destino sorri para eles neste dia.</nodes>
     <nodes xsi:type="NodeAdventure" ID="57" positionX="3200" positionY="-889" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10287,7 +10287,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="57" targetID="5" fromX="3525" fromY="-1380" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
+      <outputs name="Comemorar." ownerID="57" targetID="5" fromX="3525" fromY="-1380" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
     <nodes xsi:type="NodeAdventure" ID="58" positionX="-1854" positionY="1154" width="350" height="805">
       <logic>
         <FilterBlock>
@@ -10331,7 +10331,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="59" targetID="5" fromX="-1784" fromY="-2391" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
+      <outputs name="Comemorar." ownerID="59" targetID="5" fromX="-1784" fromY="-2391" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
     <nodes xsi:type="NodeAdventure" ID="60" positionX="1229" positionY="-1478" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -10348,7 +10348,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="60" targetID="5" fromX="1554" fromY="-1969" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
+      <outputs name="Comemorar." ownerID="60" targetID="5" fromX="1554" fromY="-1969" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
     <nodes xsi:type="NodeAdventure" ID="61" positionX="309" positionY="-2506" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -10434,7 +10434,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="67" targetID="5" fromX="-816" fromY="-1162" />A criança não é mais jovem, hoje eles se juntam às dúbias fileiras do banditismo...</nodes>
+      <outputs name="Comemorar." ownerID="67" targetID="5" fromX="-816" fromY="-1162" />A criança não é mais jovem, hoje eles se juntam às dúbias fileiras do banditismo...</nodes>
     <nodes xsi:type="NodeAdventure" ID="68" positionX="-2743" positionY="-1592" width="350" height="1206">
       <logic>
         <FilterBlock>
@@ -10502,7 +10502,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="69" targetID="5" fromX="3919" fromY="-975" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
+      <outputs name="Comemorar." ownerID="69" targetID="5" fromX="3919" fromY="-975" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
     <nodes xsi:type="NodeAdventure" ID="70" positionX="752" positionY="-331" width="350" height="966">
       <logic>
         <FilterBlock>
@@ -10681,7 +10681,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="78" targetID="5" fromX="1516" fromY="-3493" />A criança não é mais jovem, hoje eles ingressam na orgulhosa profissão de artesanato e porque você escolheu o caminho da Luz, eles são mais habilidosos do que o habitual.</nodes>
+      <outputs name="Comemorar." ownerID="78" targetID="5" fromX="1516" fromY="-3493" />A criança não é mais jovem, hoje eles ingressam na orgulhosa profissão de artesanato e porque você escolheu o caminho da Luz, eles são mais habilidosos do que o habitual.</nodes>
     <nodes xsi:type="NodeAdventureEnd" allowOnce="true" ID="79" positionX="675" positionY="-1611" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -11001,7 +11001,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="94" targetID="5" fromX="-2989" fromY="-3369" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
+      <outputs name="Comemorar." ownerID="94" targetID="5" fromX="-2989" fromY="-3369" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
     <nodes xsi:type="NodeAdventure" ID="95" positionX="-2893" positionY="-2950" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -11018,7 +11018,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="95" targetID="5" fromX="-2567" fromY="-3441" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
+      <outputs name="Comemorar." ownerID="95" targetID="5" fromX="-2567" fromY="-3441" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
     <nodes xsi:type="NodeAdventure" ID="96" positionX="-3317" positionY="-3653" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -11047,7 +11047,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="96" targetID="5" fromX="-2991" fromY="-4144" />A criança se perde e o mundo cinzento arranca sua carne deixando apenas os ossos. Ainda assim, eles retornam para você. </nodes>
+      <outputs name="Comemorar." ownerID="96" targetID="5" fromX="-2991" fromY="-4144" />A criança se perde e o mundo cinzento arranca sua carne deixando apenas os ossos. Ainda assim, eles retornam para você. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="97" positionX="-2885" positionY="-3722" width="460" height="539" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <logic>
         <FilterBlock>
@@ -11075,7 +11075,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="98" targetID="5" fromX="-3502" fromY="-4620" />O menino não era forte o suficiente para se tornar um volh, mas eles podem servir como gusla.</nodes>
+      <outputs name="Comemorar." ownerID="98" targetID="5" fromX="-3502" fromY="-4620" />O menino não era forte o suficiente para se tornar um volh, mas eles podem servir como gusla.</nodes>
     <nodes xsi:type="NodeAdventure" ID="99" positionX="-2360" positionY="-3538" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -11134,7 +11134,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="100" targetID="5" fromX="-3101" fromY="-4893" />O menino não era forte o suficiente para se tornar um volh, e suas provaçoes provaram ser muito ruins, mas eles podem servir como gusla. </nodes>
+      <outputs name="Comemorar." ownerID="100" targetID="5" fromX="-3101" fromY="-4893" />O menino não era forte o suficiente para se tornar um volh, e suas provaçoes provaram ser muito ruins, mas eles podem servir como gusla. </nodes>
     <nodes xsi:type="NodeAdventure" ID="101" positionX="-4230" positionY="-2899" width="350" height="1206">
       <logic>
         <FilterBlock>
@@ -11287,7 +11287,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="108" targetID="5" fromX="-619" fromY="-4175" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
+      <outputs name="Comemorar." ownerID="108" targetID="5" fromX="-619" fromY="-4175" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
     <nodes xsi:type="NodeAdventure" ID="109" positionX="-578" positionY="-4024" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -11299,7 +11299,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="109" targetID="5" fromX="-252" fromY="-4515" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
+      <outputs name="Comemorar." ownerID="109" targetID="5" fromX="-252" fromY="-4515" />A criança não é mais jovem, hoje eles se juntam ao caminho sombrio da feitiçaria.</nodes>
     <nodes xsi:type="NodeTrade" ID="110" positionX="-1455" positionY="-4317" width="460" height="559" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <logic>
         <FilterBlock>
@@ -11328,7 +11328,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="111" targetID="5" fromX="-621" fromY="-4943" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
+      <outputs name="Comemorar." ownerID="111" targetID="5" fromX="-621" fromY="-4943" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame volh.</nodes>
     <nodes xsi:type="NodeAdventure" ID="112" positionX="-189" positionY="-4661" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -11340,7 +11340,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="112" targetID="5" fromX="136" fromY="-5152" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame gusla.</nodes>
+      <outputs name="Comemorar." ownerID="112" targetID="5" fromX="136" fromY="-5152" />O menino não é mais jovem, hoje eles se juntam ao caminho sombrio do infame gusla.</nodes>
     <nodes xsi:type="NodeTrade" ID="113" positionX="-1465" positionY="-4893" width="460" height="559" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <outputs name="Confirm" ownerID="113" targetID="114" group="G1" fromX="-1034" fromY="-5221" />
       <outputs name="Cancel" ownerID="113" targetID="120" fromX="-1034" fromY="-5301" />
@@ -11362,7 +11362,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="114" targetID="5" fromX="-616" fromY="-5682" />Você se junta às fileiras do banditismo, mas permanece leal à causa divina.</nodes>
+      <outputs name="Comemorar." ownerID="114" targetID="5" fromX="-616" fromY="-5682" />Você se junta às fileiras do banditismo, mas permanece leal à causa divina.</nodes>
     <nodes xsi:type="NodeAdventure" ID="115" positionX="-565" positionY="-5192" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -11374,7 +11374,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="115" targetID="5" fromX="-239" fromY="-5683" />Você se junta às fileiras do banditismo, mas permanece leal à causa divina.</nodes>
+      <outputs name="Comemorar." ownerID="115" targetID="5" fromX="-239" fromY="-5683" />Você se junta às fileiras do banditismo, mas permanece leal à causa divina.</nodes>
     <nodes xsi:type="NodeTrade" ID="116" positionX="-2332" positionY="-4954" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <outputs name="Confirm" ownerID="116" targetID="117" fromX="-1901" fromY="-5282" />
       <outputs name="Cancel" ownerID="116" targetID="120" fromX="-1901" fromY="-5362" />
@@ -11390,7 +11390,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="117" targetID="5" fromX="-1515" fromY="-5601" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
+      <outputs name="Comemorar." ownerID="117" targetID="5" fromX="-1515" fromY="-5601" />A criança não é mais jovem, hoje eles se unem à vocação orgulhosa do zerca.</nodes>
     <nodes xsi:type="NodeTrade" ID="118" positionX="-2372" positionY="-5511" width="460" height="479" traderProfile="TRADER-BANDIT_TWO" playerInventory="seed" startingBalance="-1">
       <outputs name="Confirm" ownerID="118" targetID="119" fromX="-1941" fromY="-5839" />
       <outputs name="Cancel" ownerID="118" targetID="120" fromX="-1941" fromY="-5919" />
@@ -11412,7 +11412,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="119" targetID="5" fromX="-1124" fromY="-6016" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
+      <outputs name="Comemorar." ownerID="119" targetID="5" fromX="-1124" fromY="-6016" />A criança não é mais jovem, hoje eles se juntam ao orgulhoso chamado do curador.</nodes>
     <nodes xsi:type="NodeAdventure" ID="120" positionX="-2841" positionY="-4366" width="350" height="1206">
       <logic>
         <FilterBlock>
@@ -11471,7 +11471,7 @@ Mas esse caminho nunca é fácil. Você deve escolher que jornada o jovem fará 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="122" targetID="5" fromX="-2066" fromY="-6512" />A criança não é mais jovem, hoje eles se unem à orgulhosa vocação do inventor.</nodes>
+      <outputs name="Comemorar." ownerID="122" targetID="5" fromX="-2066" fromY="-6512" />A criança não é mais jovem, hoje eles se unem à orgulhosa vocação do inventor.</nodes>
   </Adventure>
   <Adventure name="BlOrcChildGrowingupSea" uniqueID="47" seaEvent="true" typeGeneric="false" typePerGroupGeneric="true" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="0" nodeIdMax="49" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
     <nodes xsi:type="NodeStarting" ID="1" positionX="-136" positionY="188" width="347" height="661" image="Event010">

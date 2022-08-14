@@ -1692,9 +1692,9 @@ It is I who will die.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="8" targetID="11" group="G1" fromX="2403" fromY="41" />
-      <outputs name="Alegrar." ownerID="8" targetID="12" group="G1" fromX="2403" fromY="-38" />
-      <outputs name="Alegrar." ownerID="8" targetID="13" group="G1" fromX="2403" fromY="-118" />Você liberta a cegonha e, embora seu pé ainda esteja ferido, pelo menos ela está livre da armadilha. O pássaro majestoso dá três voltas sobre você, muda de direção e faz mais três voltas. Você sente que uma bênção de cegonha é concedida aos seus parentes!</nodes>
+      <outputs name="Comemorar." ownerID="8" targetID="11" group="G1" fromX="2403" fromY="41" />
+      <outputs name="Comemorar." ownerID="8" targetID="12" group="G1" fromX="2403" fromY="-38" />
+      <outputs name="Comemorar." ownerID="8" targetID="13" group="G1" fromX="2403" fromY="-118" />Você liberta a cegonha e, embora seu pé ainda esteja ferido, pelo menos ela está livre da armadilha. O pássaro majestoso dá três voltas sobre você, muda de direção e faz mais três voltas. Você sente que uma bênção de cegonha é concedida aos seus parentes!</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="2615.63867" positionY="-1114.09033" width="350" height="725">
       <outputs name="Sair." ownerID="9" targetID="10" fromX="2941" fromY="-1605" />Você não consegue libertar o pássaro. Ele entra em pânico tanto que deixa arranhoes e hematomas em seu corpo enquanto se afasta da árvore, deixando o pé para trás! Você o ouve gritando de dor enquanto voa, provavelmente para sua destruição.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="3019.13745" positionY="-746.2963" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />

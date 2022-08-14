@@ -5991,7 +5991,7 @@ Você vê que os anões são vitoriosos e correm furiosamente em sua direção.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="4" targetID="10" fromX="1851" fromY="-360" />A cegonha trouxe-lhe uma criança!</nodes>
+      <outputs name="Comemorar." ownerID="4" targetID="10" fromX="1851" fromY="-360" />A cegonha trouxe-lhe uma criança!</nodes>
     <nodes xsi:type="NodeAdventure" ID="5" positionX="2482" positionY="-778" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -6008,7 +6008,7 @@ Você vê que os anões são vitoriosos e correm furiosamente em sua direção.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="5" targetID="10" fromX="2807" fromY="-1269" />A cegonha trouxe boa sorte e seus animais de fazenda têm alguns filhotes.</nodes>
+      <outputs name="Comemorar." ownerID="5" targetID="10" fromX="2807" fromY="-1269" />A cegonha trouxe boa sorte e seus animais de fazenda têm alguns filhotes.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="2091" positionY="-219" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -6022,7 +6022,7 @@ Você vê que os anões são vitoriosos e correm furiosamente em sua direção.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="6" targetID="10" fromX="2416" fromY="-710" />A cegonha trouxe-lhe uma criança!</nodes>
+      <outputs name="Comemorar." ownerID="6" targetID="10" fromX="2416" fromY="-710" />A cegonha trouxe-lhe uma criança!</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="1568" positionY="-785" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -6042,7 +6042,7 @@ Você vê que os anões são vitoriosos e correm furiosamente em sua direção.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="7" targetID="10" fromX="1893" fromY="-1276" />A cegonha trouxe boa sorte e bênçãos dos deuses.</nodes>
+      <outputs name="Comemorar." ownerID="7" targetID="10" fromX="1893" fromY="-1276" />A cegonha trouxe boa sorte e bênçãos dos deuses.</nodes>
     <nodes xsi:type="NodeAdventure" ID="8" positionX="2067" positionY="-991" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -6062,7 +6062,7 @@ Você vê que os anões são vitoriosos e correm furiosamente em sua direção.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="8" targetID="10" fromX="2392" fromY="-1482" />A cegonha trouxe boa sorte e bênçãos dos deuses.</nodes>
+      <outputs name="Comemorar." ownerID="8" targetID="10" fromX="2392" fromY="-1482" />A cegonha trouxe boa sorte e bênçãos dos deuses.</nodes>
     <nodes xsi:type="NodeAdventure" ID="9" positionX="1119" positionY="-1416" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -6077,7 +6077,7 @@ Você vê que os anões são vitoriosos e correm furiosamente em sua direção.
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="9" targetID="10" fromX="1444" fromY="-1907" />A cegonha trouxe boa sorte e suas fazendas produzem melhores colheitas.
+      <outputs name="Comemorar." ownerID="9" targetID="10" fromX="1444" fromY="-1907" />A cegonha trouxe boa sorte e suas fazendas produzem melhores colheitas.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="10" positionX="1896" positionY="-1819" width="350" height="530" allPlayersXP="2" allPlayersRP="1" linkedEventUniqueID="0" />
     <nodes xsi:type="NodeAdventure" ID="11" positionX="498" positionY="-1199" width="350" height="725">

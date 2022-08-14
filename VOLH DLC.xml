@@ -1666,7 +1666,7 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="7" targetID="8" fromX="2533" fromY="261" />A colheita correu bem. Você colheu o grão e se sente abençoado pelos deuses pelo seu trabalho.</nodes>
+      <outputs name="Comemorar." ownerID="7" targetID="8" fromX="2533" fromY="261" />A colheita correu bem. Você colheu o grão e se sente abençoado pelos deuses pelo seu trabalho.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="2609" positionY="643" width="350" height="530" allPlayersXP="2" allPlayersRP="2" linkedEventUniqueID="0" endOfQuest="true" />
     <nodes xsi:type="NodeChallenge" ID="9" positionX="1626" positionY="-163" width="500" height="726" challengeType="TypeMental" versusConcept="true" versusGroup="GROUP-CON_M_0P_2M_0S" challengeScale="0" challengedList="no2fem">
       <logic>
@@ -2026,8 +2026,8 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="29" targetID="30" group="G1" fromX="1821" fromY="-2036" />
-      <outputs name="Alegrar." ownerID="29" targetID="24" group="G1" fromX="1821" fromY="-2116" />A poludnica se foi e sua colheita vai bem. As celebraçoes continuam durante toda a noite para honrar os deuses e agradecer por uma boa colheita.</nodes>
+      <outputs name="Comemorar." ownerID="29" targetID="30" group="G1" fromX="1821" fromY="-2036" />
+      <outputs name="Comemorar." ownerID="29" targetID="24" group="G1" fromX="1821" fromY="-2116" />A poludnica se foi e sua colheita vai bem. As celebraçoes continuam durante toda a noite para honrar os deuses e agradecer por uma boa colheita.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="30" positionX="2070" positionY="-2321" width="350" height="530" allPlayersXP="3" allPlayersRP="2" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -2086,8 +2086,8 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="35" targetID="30" group="G1" fromX="1023" fromY="-3091" />
-      <outputs name="Alegrar." ownerID="35" targetID="24" group="G1" fromX="1023" fromY="-3171" />A poludnica se foi e sua colheita vai bem. As celebraçoes continuam durante toda a noite para honrar os deuses e agradecer por uma boa colheita.</nodes>
+      <outputs name="Comemorar." ownerID="35" targetID="30" group="G1" fromX="1023" fromY="-3091" />
+      <outputs name="Comemorar." ownerID="35" targetID="24" group="G1" fromX="1023" fromY="-3171" />A poludnica se foi e sua colheita vai bem. As celebraçoes continuam durante toda a noite para honrar os deuses e agradecer por uma boa colheita.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="1096" positionY="-3317" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2099,7 +2099,7 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="36" targetID="24" group="G1" fromX="1421" fromY="-3808" />Você mata a poludnica, mas ela volta várias vezes, deixando sua colheita menos próspera do que você esperava. Ainda assim, ninguém está ferido e você consegue algumas colheitas.</nodes>
+      <outputs name="Comemorar." ownerID="36" targetID="24" group="G1" fromX="1421" fromY="-3808" />Você mata a poludnica, mas ela volta várias vezes, deixando sua colheita menos próspera do que você esperava. Ainda assim, ninguém está ferido e você consegue algumas colheitas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="-447" positionY="-2186" width="350" height="805" image="Event102">
       <logic>
         <FilterBlock>
@@ -2218,7 +2218,7 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="42" targetID="24" group="G1" fromX="390" fromY="-3906" />A poludnica não ataca, mas ela o incomoda o dia todo, drenando seu moral e deixando sua colheita menos próspera do que você esperava. Ainda assim, ninguém está ferido e você consegue algumas colheitas.</nodes>
+      <outputs name="Comemorar." ownerID="42" targetID="24" group="G1" fromX="390" fromY="-3906" />A poludnica não ataca, mas ela o incomoda o dia todo, drenando seu moral e deixando sua colheita menos próspera do que você esperava. Ainda assim, ninguém está ferido e você consegue algumas colheitas.</nodes>
     <nodes xsi:type="NodeAdventure" ID="43" positionX="-411" positionY="-692" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2759,8 +2759,8 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="35" targetID="30" group="G1" fromX="1008" fromY="-3141" />
-      <outputs name="Alegrar." ownerID="35" targetID="24" group="G1" fromX="1008" fromY="-3221" />O gambá se foi e seu trabalho vai bem. As celebraçoes continuam durante toda a noite para homenagear os deuses e agradecer por um bom dia de trabalho.</nodes>
+      <outputs name="Comemorar." ownerID="35" targetID="30" group="G1" fromX="1008" fromY="-3141" />
+      <outputs name="Comemorar." ownerID="35" targetID="24" group="G1" fromX="1008" fromY="-3221" />O gambá se foi e seu trabalho vai bem. As celebraçoes continuam durante toda a noite para homenagear os deuses e agradecer por um bom dia de trabalho.</nodes>
     <nodes xsi:type="NodeAdventure" ID="36" positionX="1096" positionY="-3317" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -2775,7 +2775,7 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="36" targetID="24" group="G1" fromX="1421" fromY="-3808" />O gambá se foi e seu trabalho vai bem. As celebraçoes continuam durante toda a noite para homenagear os deuses e agradecer por um bom dia de trabalho.</nodes>
+      <outputs name="Comemorar." ownerID="36" targetID="24" group="G1" fromX="1421" fromY="-3808" />O gambá se foi e seu trabalho vai bem. As celebraçoes continuam durante toda a noite para homenagear os deuses e agradecer por um bom dia de trabalho.</nodes>
     <nodes xsi:type="NodeAdventure" ID="37" positionX="-410" positionY="-2274" width="350" height="725" image="Event102">
       <logic>
         <FilterBlock>
@@ -2858,7 +2858,7 @@ The female growls at him and takes a few steps towards you.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="42" targetID="24" group="G1" fromX="360" fromY="-3884" />O gambá permanece aninhado em seu porão e rouba muitos de seus suprimentos no início. Quando ele finalmente sai, você encontra um pequeno estoque de mercadorias, provavelmente roubadas de outras pessoas. Claramente o gambá gostava de ser deixado sozinho.</nodes>
+      <outputs name="Comemorar." ownerID="42" targetID="24" group="G1" fromX="360" fromY="-3884" />O gambá permanece aninhado em seu porão e rouba muitos de seus suprimentos no início. Quando ele finalmente sai, você encontra um pequeno estoque de mercadorias, provavelmente roubadas de outras pessoas. Claramente o gambá gostava de ser deixado sozinho.</nodes>
     <nodes xsi:type="NodeAdventure" ID="43" positionX="-411" positionY="-692" width="350" height="725">
       <logic>
         <ModifierBlock>
@@ -5297,7 +5297,7 @@ To keep the dark at bay and call out to the sun on the very day when the night i
       </logic>
       <outputs name="Caminhe pelo fogo!" ownerID="5" targetID="16" fromX="1165" fromY="-1365" />Para honrar a luz, você queima fogueiras que são tão quentes quanto o próprio sol, então você caminha por elas para mostrar sua força.</nodes>
     <nodes xsi:type="NodeAdventure" ID="6" positionX="1867" positionY="389" width="350" height="725">
-      <outputs name="Alegrar." ownerID="6" targetID="7" fromX="2192" fromY="-102" />Você fez bem sua tarefa e sente que os deuses estão satisfeitos com seus esforços.</nodes>
+      <outputs name="Comemorar." ownerID="6" targetID="7" fromX="2192" fromY="-102" />Você fez bem sua tarefa e sente que os deuses estão satisfeitos com seus esforços.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="7" positionX="2271" positionY="403" width="460" height="750">
       <outputs ownerID="7" targetID="8" group="G1" fromX="2701" fromY="44" />
       <outputs ownerID="7" targetID="9" group="G1" fromX="2701" fromY="-35" />
@@ -5533,7 +5533,7 @@ To keep the dark at bay and call out to the sun on the very day when the night i
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="3" targetID="4" fromX="1301" fromY="-620" />Seus animais estão indo muito bem, então você terá uma boa carne este ano. E talvez até algumas novas adiçoes.</nodes>
+      <outputs name="Comemorar." ownerID="3" targetID="4" fromX="1301" fromY="-620" />Seus animais estão indo muito bem, então você terá uma boa carne este ano. E talvez até algumas novas adiçoes.</nodes>
     <nodes xsi:type="NodeProduceDrop" ID="4" positionX="1584" positionY="-298" width="460" height="750">
       <outputs ownerID="4" targetID="6" group="G1" fromX="2018" fromY="-660" />
       <outputs ownerID="4" targetID="7" group="G1" fromX="2018" fromY="-740" />
@@ -5555,7 +5555,7 @@ To keep the dark at bay and call out to the sun on the very day when the night i
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="5" targetID="11" fromX="1288" fromY="-1380" />Seus animais estão indo bem, embora você sinta que eles poderiam ter se saído melhor se suas ofertas de primavera tivessem sido mais generosas. Ainda assim, você pode colher quantidades decentes de carne e couro.
+      <outputs name="Comemorar." ownerID="5" targetID="11" fromX="1288" fromY="-1380" />Seus animais estão indo bem, embora você sinta que eles poderiam ter se saído melhor se suas ofertas de primavera tivessem sido mais generosas. Ainda assim, você pode colher quantidades decentes de carne e couro.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="6" positionX="2202" positionY="-221" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0">
       <logic>

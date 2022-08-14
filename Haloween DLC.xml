@@ -1522,8 +1522,8 @@ Eles devem partir em breve, mas convidam você a passar a noite em um vínculo �
     <nodes xsi:type="NodeAdventure" ID="6" positionX="-465" positionY="-811" width="350" height="725">
       <outputs name="Sair." ownerID="6" targetID="8" fromX="-139" fromY="-1302" />Ana'eath vai embora, entristecida por sua recusa. Só então você percebe que o nome deles começou com um A, assim como a casca da maçã disse...</nodes>
     <nodes xsi:type="NodeAdventure" ID="7" positionX="893" positionY="-246" width="350" height="805">
-      <outputs name="Alegrar." ownerID="7" targetID="3" group="G1" fromX="1218" fromY="-737" />
-      <outputs name="Alegrar." ownerID="7" targetID="5" group="G1" fromX="1218" fromY="-817" />As crianças élficas nascem de um vínculo místico, e parece que dois de vocês gostaram dessa conexão.
+      <outputs name="Comemorar." ownerID="7" targetID="3" group="G1" fromX="1218" fromY="-737" />
+      <outputs name="Comemorar." ownerID="7" targetID="5" group="G1" fromX="1218" fromY="-817" />As crianças élficas nascem de um vínculo místico, e parece que dois de vocês gostaram dessa conexão.
 
 Os efeitos de tal união podem variar, mas um filho logo chega.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="8" positionX="357" positionY="-1089" width="350" height="530" allPlayersXP="1" allPlayersRP="1" linkedEventUniqueID="0" />
@@ -1567,10 +1567,10 @@ Os efeitos de tal união podem variar, mas um filho logo chega.</nodes>
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="435" positionY="-156" width="350" height="966">
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="7" group="G1" fromX="760" fromY="-727" />
-      <outputs name="Alegrar." ownerID="2" targetID="8" group="G1" fromX="760" fromY="-807" />
-      <outputs name="Alegrar." ownerID="2" targetID="10" group="G1" fromX="760" fromY="-887" />O fascínio dos anões pela beleza única de Rusalkas tem sido um fato há muito tempo, então quando você encara a beleza da água e lembra que a casca da maçã destinou você a encontrar um 'R' como seu amor, você sabe que esse é o seu destino.
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="7" group="G1" fromX="760" fromY="-727" />
+      <outputs name="Comemorar." ownerID="2" targetID="8" group="G1" fromX="760" fromY="-807" />
+      <outputs name="Comemorar." ownerID="2" targetID="10" group="G1" fromX="760" fromY="-887" />O fascínio dos anões pela beleza única de Rusalkas tem sido um fato há muito tempo, então quando você encara a beleza da água e lembra que a casca da maçã destinou você a encontrar um 'R' como seu amor, você sabe que esse é o seu destino.
 
 Uma cegonha anuncia uma criança da união, mas quem será essa criança é um mistério.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1944" positionY="-798" width="350" height="530" linkedEventUniqueID="0">
@@ -5976,7 +5976,7 @@ Pelo menos as outras abóboras deixam você em paz agora.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="753" fromY="-593" />Alguns de seus pais encontraram uma abóbora no repolho!?</nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="3" fromX="753" fromY="-593" />Alguns de seus pais encontraram uma abóbora no repolho!?</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="887" positionY="-153" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="Pumpkin Bandits3" uniqueID="26" allowOnce="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="true" typeExpedition="true" typeVillage="false" difficulty="6" nodeIdMax="54" joinIsForced="false" joinType="AllAlly" joinRange="MovementArea">
@@ -7469,7 +7469,7 @@ As abóboras pegam os doces e pulam para longe de você.</nodes>
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="753" fromY="-593" />Alguns de seus amigos encontraram uma abóbora no repolho!?</nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="3" fromX="753" fromY="-593" />Alguns de seus amigos encontraram uma abóbora no repolho!?</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="887" positionY="-153" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
 </MODULE>

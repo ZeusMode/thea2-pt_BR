@@ -768,8 +768,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="23" targetID="16" group="G1" fromX="758" fromY="-1594" />
-      <outputs name="Alegrar." ownerID="23" targetID="17" group="G1" fromX="758" fromY="-1674" />
+      <outputs name="Comemorar." ownerID="23" targetID="16" group="G1" fromX="758" fromY="-1594" />
+      <outputs name="Comemorar." ownerID="23" targetID="17" group="G1" fromX="758" fromY="-1674" />
       <outputs name="Recuse e diga que não é seu costume. Sair." ownerID="23" targetID="27" fromX="758" fromY="-1754" />Você dança, bebe, come, se alegra e, bem, desfruta da companhia de pessoas fora de sua própria aldeia. Você se sente mal pela manhã, mas não seria um bom casamento se você se sentisse bem. E pelas leis desta aldeia, agora você está casado e seu cônjuge se juntará a você!</nodes>
     <nodes xsi:type="NodeAdventure" ID="24" positionX="471" positionY="771" width="350" height="1447">
       <logic>
@@ -895,7 +895,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="32" targetID="39" fromX="2070" fromY="-1740" />Você dança, bebe, come, se alegra e, bem, desfruta da companhia de pessoas fora de sua própria aldeia. Você se sente mal pela manhã, mas não seria um bom casamento se você se sentisse bem. Algum tempo depois do casamento, você percebe que está esperando um bebê!</nodes>
+      <outputs name="Comemorar." ownerID="32" targetID="39" fromX="2070" fromY="-1740" />Você dança, bebe, come, se alegra e, bem, desfruta da companhia de pessoas fora de sua própria aldeia. Você se sente mal pela manhã, mas não seria um bom casamento se você se sentisse bem. Algum tempo depois do casamento, você percebe que está esperando um bebê!</nodes>
     <nodes xsi:type="NodeAdventure" ID="33" positionX="2134" positionY="-1200" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -921,7 +921,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="33" targetID="39" fromX="2459" fromY="-1691" />Você dança, bebe, come, se alegra e, bem, desfruta da companhia de pessoas fora de sua própria aldeia. Você se sente mal pela manhã, mas não seria um bom casamento se você se sentisse bem. Algum tempo depois do casamento, você percebe que está esperando um bebê!</nodes>
+      <outputs name="Comemorar." ownerID="33" targetID="39" fromX="2459" fromY="-1691" />Você dança, bebe, come, se alegra e, bem, desfruta da companhia de pessoas fora de sua própria aldeia. Você se sente mal pela manhã, mas não seria um bom casamento se você se sentisse bem. Algum tempo depois do casamento, você percebe que está esperando um bebê!</nodes>
     <nodes xsi:type="NodeAdventure" ID="34" positionX="2532" positionY="-1155" width="350" height="725">
       <logic>
         <FilterBlock>
@@ -947,7 +947,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="34" targetID="39" fromX="2857" fromY="-1646" />Você dança, bebe, come, se alegra e, bem, desfruta da companhia de pessoas fora de sua própria aldeia. Você se sente mal pela manhã, mas não seria um bom casamento se você se sentisse bem. Algum tempo depois do casamento, você percebe que está esperando um bebê!</nodes>
+      <outputs name="Comemorar." ownerID="34" targetID="39" fromX="2857" fromY="-1646" />Você dança, bebe, come, se alegra e, bem, desfruta da companhia de pessoas fora de sua própria aldeia. Você se sente mal pela manhã, mas não seria um bom casamento se você se sentisse bem. Algum tempo depois do casamento, você percebe que está esperando um bebê!</nodes>
     <nodes xsi:type="NodeChallenge" ID="35" positionX="1948" positionY="-2067" width="500" height="726" challengeType="TypePhysical" versusGroup="GROUP-SCAVENGER_3P_3M_2S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="35" targetID="36" fromX="2389" fromY="-2562" />
       <outputs name="Lose" ownerID="35" targetID="37" fromX="2389" fromY="-2642" />
@@ -4976,8 +4976,8 @@ Parte do que estava dentro quebra com seu impacto, mas você ainda encontra algu
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="10" group="G1" fromX="737" fromY="-631" />
-      <outputs name="Alegrar." ownerID="2" targetID="12" group="G1" fromX="737" fromY="-711" />As coroas fizeram seu trabalho, e duas das pessoas da festa embarcam em um novo caminho, unidos pelos deuses em união. Durante três dias, a aldeia festejará, dançará e celebrará. </nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="10" group="G1" fromX="737" fromY="-631" />
+      <outputs name="Comemorar." ownerID="2" targetID="12" group="G1" fromX="737" fromY="-711" />As coroas fizeram seu trabalho, e duas das pessoas da festa embarcam em um novo caminho, unidos pelos deuses em união. Durante três dias, a aldeia festejará, dançará e celebrará. </nodes>
     <nodes xsi:type="NodeDealDamage" ID="4" positionX="1275" positionY="283" width="460" height="780" challengeTypeDamage="TypeMental" minDamage="0" maxDamage="0" useCountInPercent="false">
       <outputs ownerID="4" targetID="5" group="G1" fromX="1704" fromY="-105" />
       <outputs ownerID="4" targetID="6" group="G1" fromX="1704" fromY="-185" />

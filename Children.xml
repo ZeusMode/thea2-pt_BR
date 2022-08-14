@@ -67,7 +67,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="760" fromY="-647" />Dois de vocês desfrutam de algum tempo juntos, talvez sejam amigos, talvez mais. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" fromX="760" fromY="-647" />Dois de vocês desfrutam de algum tempo juntos, talvez sejam amigos, talvez mais. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="854" positionY="-334" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
@@ -138,7 +138,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="760" fromY="-647" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" fromX="760" fromY="-647" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="854" positionY="-334" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
@@ -214,8 +214,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1007" positionY="-179" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -335,8 +335,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="6" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1007" positionY="-179" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -439,7 +439,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="760" fromY="-647" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" fromX="760" fromY="-647" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="854" positionY="-334" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
@@ -518,8 +518,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="766" fromY="-632" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="766" fromY="-712" />Elfos são notoriamente elitistas em sua escolha de companheiros, mas parece que uma pessoa de beleza chamou a atenção. As crianças élficas nascem de um vínculo místico, e parece que dois de seu próprio povo desfrutaram de tal conexão. Os efeitos de tal união podem variar, mas um filho logo chega.</nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="766" fromY="-632" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="766" fromY="-712" />Elfos são notoriamente elitistas em sua escolha de companheiros, mas parece que uma pessoa de beleza chamou a atenção. As crianças élficas nascem de um vínculo místico, e parece que dois de seu próprio povo desfrutaram de tal conexão. Os efeitos de tal união podem variar, mas um filho logo chega.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="999" positionY="-45" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -650,8 +650,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="953" positionY="-96" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -773,8 +773,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1007" positionY="-179" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -863,10 +863,10 @@
       <outputs ownerID="1" targetID="2" fromX="334" fromY="-613" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="2" positionX="435" positionY="-156" width="350" height="966">
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="7" group="G1" fromX="760" fromY="-727" />
-      <outputs name="Alegrar." ownerID="2" targetID="8" group="G1" fromX="760" fromY="-807" />
-      <outputs name="Alegrar." ownerID="2" targetID="10" group="G1" fromX="760" fromY="-887" />O fascínio dos anoes pela beleza única das rusalkas é um fato há muito tempo. E bem, seu próprio anão e demoneta da água decidiu explorar essas tradiçoes de longa data. Uma cegonha anuncia uma criança da união, mas quem será essa criança é um mistério.</nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="7" group="G1" fromX="760" fromY="-727" />
+      <outputs name="Comemorar." ownerID="2" targetID="8" group="G1" fromX="760" fromY="-807" />
+      <outputs name="Comemorar." ownerID="2" targetID="10" group="G1" fromX="760" fromY="-887" />O fascínio dos anoes pela beleza única das rusalkas é um fato há muito tempo. E bem, seu próprio anão e demoneta da água decidiu explorar essas tradiçoes de longa data. Uma cegonha anuncia uma criança da união, mas quem será essa criança é um mistério.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1944" positionY="-798" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
@@ -1018,7 +1018,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="743" fromY="-614" />Alguns de seu povo encontraram uma criança no canteiro de repolhos!
+      <outputs name="Comemorar." ownerID="2" targetID="3" fromX="743" fromY="-614" />Alguns de seu povo encontraram uma criança no canteiro de repolhos!
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="819" positionY="-270" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
@@ -1077,8 +1077,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-616" />
-      <outputs name="Alegrar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-696" />Alguns de seu povo encontraram uma criança no canteiro de repolhos!
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-616" />
+      <outputs name="Comemorar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-696" />Alguns de seu povo encontraram uma criança no canteiro de repolhos!
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="971" positionY="143" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -1176,8 +1176,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />Apesar das diferenças grosseiras na cultura, o amor não conhece limites e, sob o olhar atento de Lada, alguns atos de amor violentos quebram a monotonia da vida. Uma cegonha é vista nas proximidades e tão certo quanto a morte, uma criança é trazida para o casal feliz logo depois. </nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />Apesar das diferenças grosseiras na cultura, o amor não conhece limites e, sob o olhar atento de Lada, alguns atos de amor violentos quebram a monotonia da vida. Uma cegonha é vista nas proximidades e tão certo quanto a morte, uma criança é trazida para o casal feliz logo depois. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1119" positionY="-98" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1296,8 +1296,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="760" fromY="-727" />Apesar das diferenças grosseiras na cultura, o amor não conhece limites e, sob o olhar atento de Lada, alguns atos de amor violentos quebram a monotonia da vida. Uma cegonha é vista nas proximidades e tão certo quanto a morte, uma criança é trazida para o casal feliz logo depois. </nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="6" group="G1" fromX="760" fromY="-727" />Apesar das diferenças grosseiras na cultura, o amor não conhece limites e, sob o olhar atento de Lada, alguns atos de amor violentos quebram a monotonia da vida. Uma cegonha é vista nas proximidades e tão certo quanto a morte, uma criança é trazida para o casal feliz logo depois. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1007" positionY="-88" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -1405,7 +1405,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="760" fromY="-647" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois. </nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="3" fromX="760" fromY="-647" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="854" positionY="-334" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="__StorkGob" uniqueID="37" allowOnce="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="5" nodeIdMax="3" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
@@ -1475,7 +1475,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="760" fromY="-647" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois. </nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="3" fromX="760" fromY="-647" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois. </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="854" positionY="-334" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
   <Adventure name="__StorkGobMix" uniqueID="38" allowOnce="true" typeGeneric="false" typePerGroupGeneric="false" typeInterrupt="false" typeExpedition="false" typeVillage="false" difficulty="9" nodeIdMax="5" joinIsForced="false" joinType="OnlyOwn" joinRange="SinglePosition">
@@ -1550,8 +1550,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1007" positionY="-179" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -1673,8 +1673,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1007" positionY="-179" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -1796,10 +1796,10 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-578" />
-      <outputs name="Alegrar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-658" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="772" fromY="-738" />
-      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.  </nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-578" />
+      <outputs name="Comemorar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-658" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="772" fromY="-738" />
+      <outputs name="Comemorar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="914" positionY="95" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -2056,10 +2056,10 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-578" />
-      <outputs name="Alegrar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-658" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="772" fromY="-738" />
-      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.  </nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-578" />
+      <outputs name="Comemorar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-658" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="772" fromY="-738" />
+      <outputs name="Comemorar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="914" positionY="95" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -2169,7 +2169,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="743" fromY="-614" />Alguns de seu povo encontraram uma criança no canteiro de repolhos!
+      <outputs name="Comemorar." ownerID="2" targetID="3" fromX="743" fromY="-614" />Alguns de seu povo encontraram uma criança no canteiro de repolhos!
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="819" positionY="-270" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
@@ -2245,10 +2245,10 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-578" />
-      <outputs name="Alegrar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-658" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="772" fromY="-738" />
-      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.  </nodes>
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="772" fromY="-578" />
+      <outputs name="Comemorar." ownerID="2" targetID="4" group="G1" fromX="772" fromY="-658" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="772" fromY="-738" />
+      <outputs name="Comemorar." ownerID="2" targetID="6" group="G1" fromX="772" fromY="-818" />Ou o amor não conhece limites, ou há algo errado com a cegonha, mas... Seu amigo morto ficou muito amigo de alguém, e a cegonha decidiu entregar um filhote aos seus cuidados.  </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="914" positionY="95" width="350" height="530" linkedEventUniqueID="0">
       <logic>
         <FilterBlock>
@@ -2373,8 +2373,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1007" positionY="-179" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -2494,8 +2494,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="6" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="6" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1007" positionY="-179" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -2598,7 +2598,7 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" fromX="760" fromY="-647" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" fromX="760" fromY="-647" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="854" positionY="-334" width="350" height="530" linkedEventUniqueID="0" />
   </Adventure>
@@ -2674,8 +2674,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="5" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1007" positionY="-179" width="350" height="530" linkedEventUniqueID="0">
       <logic>
@@ -2775,8 +2775,8 @@
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Alegrar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
-      <outputs name="Alegrar." ownerID="2" targetID="7" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
+      <outputs name="Comemorar." ownerID="2" targetID="3" group="G1" fromX="760" fromY="-647" />
+      <outputs name="Comemorar." ownerID="2" targetID="7" group="G1" fromX="760" fromY="-727" />As noites são longas e solitárias, alguns de vocês encontram conforto na companhia um do outro. Mas a cegonha sempre vigilante e um pouco mais entusiasmada é vista nas proximidades e tão certa quanto a morte, uma criança é trazida para você logo depois.
 </nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="3" positionX="1007" positionY="-179" width="350" height="530" linkedEventUniqueID="0">
       <logic>
