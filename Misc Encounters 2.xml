@@ -4300,7 +4300,9 @@ Assim que você dá mais um passo, percebe que todos os escolhidos são puxados 
           </LogicModifiers>
         </ModifierBlock>
       </logic>
-      <outputs name="Acene e vá embora." ownerID="7" targetID="19" fromX="3199" fromY="-885" />'Oh aquilo. Eu darei a você se você ganhar, é claro. O negócio do demônio é bom como ouro.</nodes>
+      <outputs name="Nod and leave." ownerID="7" targetID="19" fromX="3199" fromY="-885" />'Oh aquilo. Eu darei a você se você ganhar, é claro. O negócio do demônio é bom como ouro.'</nodes>
+    <nodes xsi:type="NodeAdventure" ID="8" positionX="1000" positionY="-833" width="350" height="725">
+      <outputs name="Nod and leave." ownerID="8" targetID="11" fromX="1325" fromY="-1324" />'Impressionante, eu vou te dar a varinha se você ganhar, é claro. O negócio do demônio é bom como ouro.'</nodes>
     <nodes xsi:type="NodeChallenge" ID="9" positionX="1530" positionY="-724" width="500" height="726" challengeType="TypeMental" versusGroup="GROUP-HOHLICK_ONE_0P_1M_0S" challengeScale="101" challengedList="ppl">
       <outputs name="Win" ownerID="9" targetID="10" fromX="1971" fromY="-1219" />
       <outputs name="Lose" ownerID="9" targetID="12" fromX="1971" fromY="-1299" />
@@ -4337,7 +4339,7 @@ Assim que você dá mais um passo, percebe que todos os escolhidos são puxados 
       <outputs name="Surrender" ownerID="14" targetID="15" fromX="-306" fromY="-1276" />
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="15" positionX="-170" positionY="-1913" width="350" height="725">
-      <outputs name="Sair." ownerID="15" targetID="16" fromX="155" fromY="-2404" /></nodes>
+      <outputs name="Sair." ownerID="15" targetID="16" fromX="155" fromY="-2404" />'Ei, uau, tudo bem, tudo bem, eu vou!' A criatura voa para longe.</nodes>
     <nodes xsi:type="NodeAdventureEnd" ID="16" positionX="417" positionY="-2139" width="350" height="530" allPlayersXP="1" allPlayersRP="1" logBookName="QUEST_LEO_HOCH" logBookDescription="QUEST_LEO_HOCH2_DES" linkedEventUniqueID="0">
       <logic>
         <ModifierBlock>
