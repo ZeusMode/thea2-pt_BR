@@ -267,7 +267,7 @@
 		<Entry Key="DES_TAG_DAMAGE_LIFE_LEECH_ANCIENT_DES" Val="Retorna 80% do dano causado como pontos de vida."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_SHIELD_LEECH_ANCIENT_DES" Val="Retorna 100% do dano causado como pontos de escudo."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ADDITIVE_DES" Val="O dano é aumentado por um valor fixo."></Entry>
-		<Entry Key="DES_NEW_LINE_SIGN" Val=""></Entry>
+		<Entry Key="DES_NEW_LINE_SIGN" Val="\n\n"></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ADD_CA_1" Val="Aumentar Atributo Primário"></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ADD_CA_1_DES" Val="Dá um bônus ao atributo principal relevante para o desafio do qual você participa."></Entry>
 		<Entry Key="DES_TAG_DAMAGE_ADD_CA_2" Val="Aumentar Atributo Secundário"></Entry>
@@ -492,14 +492,14 @@
 		<Entry Key="DES_TAG_ESSENCE_INVENTION_DES" Val="Descrição da Essência da Invenção"></Entry>
 		<Entry Key="DES_TAG_DOMAIN_NEUTRAL" Val="Domínio - Neutro"></Entry>
 		<Entry Key="DES_TAG_DOMAIN_NEUTRAL_DES" Val="Um domínio divino de versatilidade."></Entry>
-		<Entry Key="DES_TAG_DOMAIN_TURMOIL" Val=""></Entry>
+		<Entry Key="DES_TAG_DOMAIN_TURMOIL" Val="Domínio - Turbulência"></Entry>
 		<Entry Key="DES_TAG_DOMAIN_TURMOIL_DES" Val="Turbulência - domínio divino de mudança e caos, nascido da própria escuridão, muitas vezes é patrono da guerra, mas também do progresso."></Entry>
 		<Entry Key="DES_TAG_DOMAIN_HARMONY" Val="Domínio - Harmonia"></Entry>
 		<Entry Key="DES_TAG_DOMAIN_HARMONY_DES" Val="Harmonia - domínio divino de paz e ordem muitas vezes semelhante à luz, patrono da diplomacia e tradição, muitas vezes em desacordo com o caos."></Entry>
 		<Entry Key="DES_TAG_DOMAIN_LIGHT" Val="Domínio - Luz"></Entry>
 		<Entry Key="DES_TAG_DOMAIN_LIGHT_DES" Val="Luz - domínio divino nascido da luz eterna, patrono da justiça e franqueza, pilar inabalável da verdade, mas também estagnação às vezes."></Entry>
 		<Entry Key="DES_TAG_DOMAIN_MAGIC" Val="Domínio - Magia"></Entry>
-		<Entry Key="DES_TAG_DOMAIN_MAGIC_DES" Val=""></Entry>
+		<Entry Key="DES_TAG_DOMAIN_MAGIC_DES" Val="Magia - domínio divino das forças místicas que unem todas as coisas. Patrono da feitiçaria e da sabedoria muitas vezes leva perto da escuridão."></Entry>
 		<Entry Key="DES_TAG_DOMAIN_NATURE" Val="Domínio - Natureza"></Entry>
 		<Entry Key="DES_TAG_DOMAIN_NATURE_DES" Val="Natureza - domínio divino das forças naturais, vida, morte e renascimento. Padroeiro dos moradores da floresta e daqueles que respeitam o ciclo da vida."></Entry>
 		<Entry Key="DES_TAG_DOMAIN_INTELLECT" Val="Domínio - Intelecto"></Entry>
@@ -579,11 +579,11 @@
 		<Entry Key="DES_TAG_SCROLL_1H" Val="Pergaminho de 1 mão"></Entry>
 		<Entry Key="DES_TAG_SCROLL_1H_DES" Val="Pergaminho de 1 mão"></Entry>
 		<Entry Key="DES_TAG_SCROLL_2H" Val="Pergaminho de 2 mãos"></Entry>
-		<Entry Key="DES_TAG_SCROLL_2H_DES" Val=""></Entry>
+		<Entry Key="DES_TAG_SCROLL_2H_DES" Val="Pergaminho de 2 mãos"></Entry>
 		<Entry Key="DES_TAG_ARTIFACT_1H" Val="Artefato de 1 mão"></Entry>
-		<Entry Key="DES_TAG_ARTIFACT_1H_DES" Val=""></Entry>
+		<Entry Key="DES_TAG_ARTIFACT_1H_DES" Val="Artefato de 1 mão"></Entry>
 		<Entry Key="DES_TAG_ARTIFACT_2H" Val="Artefato de 2 mãos"></Entry>
-		<Entry Key="DES_TAG_ARTIFACT_2H_DES" Val=""></Entry>
+		<Entry Key="DES_TAG_ARTIFACT_2H_DES" Val="Artefato de 2 mãos"></Entry>
 		<Entry Key="DES_TAG_WAND" Val="Varinha"></Entry>
 		<Entry Key="DES_TAG_WAND_DES" Val="Varinha"></Entry>
 		<Entry Key="DES_TAG_SHIELD" Val="Escudo"></Entry>
@@ -650,10 +650,10 @@
 		<Entry Key="DES_SUBRACE_HUM_ZERCA" Val="Humano Zerca"></Entry>
 		<Entry Key="DES_SUBRACE_HUM_ZERCA_DES" Val="Clérigos do panteão cósmico, famosos por sua sabedoria e devoção aos deuses."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_HEALER" Val="Curandeiro Humano"></Entry>
-		<Entry Key="DES_SUBRACE_HUM_HEALER_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_HUM_HEALER_DES" Val="Um sábio aprendeu nos caminhos das ervas e da medicina básica. Os curandeiros sempre foram respeitados, não apenas por seu conhecimento, mas por sua disposição de ajudar os necessitados."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_WITCH" Val="Bruxa Humana"></Entry>
 		<Entry Key="DES_SUBRACE_HUM_YOUNG_WITCH" Val="Humano - Jovem Bruxa"></Entry>
-		<Entry Key="DES_SUBRACE_HUM_WITCH_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_HUM_WITCH_DES" Val="Uma mulher sábia, conhecedora dos caminhos místicos, mas muitas vezes praticando magia negra que mancha a alma e o corpo. É por isso que as bruxas, mesmo aquelas mal adultas, podem se parecer com mulheres velhas. A jovem bruxa completou seus testes, mas foi considerada a necessidade de mais aprendizado."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_GUSLA" Val="Humano - Gusla"></Entry>
 		<Entry Key="DES_SUBRACE_HUM_GUSLA_DES" Val="Alguns garotos nunca alcançam o posto de volh, ao invés disso eles se tornam gusla, um usuário de magia menor, focado mais em pesquisas e rituais, do que no poder bruto da magia. Apenas meninos podem se tornar gusla."></Entry>
 		<Entry Key="DES_SUBRACE_HUM_VOLH" Val="Humano - Volh"></Entry>
@@ -683,7 +683,7 @@
 		<Entry Key="DES_SUBRACE_ELF_WEAK_GUARDIAN_DES" Val="este guardião mal passou no treinamento, o que deixou muitas cicatrizes em seu corpo e mente. No entanto, eles têm como objetivo provar que um dia podem se tornar mais."></Entry>
 		<Entry Key="DES_SUBRACE_ELF_GUARDIAN" Val="Elfo Guardião"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_ELF_GUARDIAN" Val="Guardião Élfico Ancião"></Entry>
-		<Entry Key="DES_SUBRACE_ELF_GUARDIAN_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_ELF_GUARDIAN_DES" Val="Protetores orgulhosos e estóicos das terras selvagens. Elfos tendem a favorecer a diplomacia sobre a violência, ou assim eles gostam que o mundo pense. Apesar desse aparente pacifismo, os guerreiros élficos são treinados desde a juventude para serem implacáveis e precisos. Seja 'o último recurso' ' ou 'faça o que dizemos ou pereça' não é sábio se opor a um guardião."></Entry>
 		<Entry Key="DES_SUBRACE_ELF_FOREST_CRAFTSMAN" Val="Artesão da Floresta Élfica"></Entry>
 		<Entry Key="DES_SUBRACE_ELF_FOREST_CRAFTSMAN_DES" Val="Adepto de criar belos itens que muitos considerariam arte. Esses artesãos tendem a rejeitar a violência e se concentrar na arte da criação; assim, a diplomacia é seu caminho preferido."></Entry>
 		<Entry Key="DES_SUBRACE_ELF_FOREST_GATHERER" Val="Coletor da Floresta Élfica"></Entry>
@@ -705,7 +705,7 @@
 		<Entry Key="DES_SUBRACE_ORC_CHILD" Val="Filho Orc"></Entry>
 		<Entry Key="DES_SUBRACE_ORC_MATRIARCH" Val="Orc Matriarca"></Entry>
 		<Entry Key="DES_SUBRACE_ORC_WOUNDED_MATRIARCH" Val="Matriarca Orc Ferida"></Entry>
-		<Entry Key="DES_SUBRACE_ORC_MATRIARCH_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_ORC_MATRIARCH_DES" Val="A matriarca é a líder de um clã e ela deve provar seu valor em combate e inteligência antes que possa reivindicar seu status. O título não é estritamente hereditário, embora a descendência de uma matriarca anterior provavelmente sucederá sua mãe."></Entry>
 		<Entry Key="DES_SUBRACE_ORC_WITCH" Val="Bruxa Orc"></Entry>
 		<Entry Key="DES_SUBRACE_ORC_WITCH_DES" Val="Dizem que as bruxas orcs usam uma forma antiga e distorcida de magia, fortemente dependente de rituais e sacrifícios de sangue. Quanto disso é verdade ainda não está claro. Além da magia, alguns sussurram sobre sua capacidade de se comunicar com feras. Eles também são os que detêm o conhecimento dos clãs e formam um círculo consultivo para sua matriarca."></Entry>
 		<Entry Key="DES_SUBRACE_ORC_SLUGGER" Val="Orc Slugger"></Entry>
@@ -730,11 +730,11 @@
 		<Entry Key="DES_SUBRACE_GOB_SHAMAN" Val="Goblin Xamã"></Entry>
 		<Entry Key="DES_SUBRACE_GOB_SHAMAN_DES" Val="Os xamãs são caminhantes espirituais que dizem possuir as memórias de seus antepassados. Eles podem viajar para o reino dos fantasmas - o mundo cinzento, e trazer grande sabedoria ou, às vezes, perigo ainda maior."></Entry>
 		<Entry Key="DES_SUBRACE_GOB_BEAST_MASTER" Val="Goblin Besta Mestre"></Entry>
-		<Entry Key="DES_SUBRACE_GOB_BEAST_MASTER_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_GOB_BEAST_MASTER_DES" Val="Os mestres das feras são os principais pesos pesados das fileiras dos goblins, não devido à sua própria força, mas à sua extraordinária capacidade de treinar feras como irmãos de armas leais. Os mestres das feras não tratam seus animais como meras ferramentas; eles passam por rituais secretos conhecidos apenas por seus clãs e dizem que compartilham laços espirituais."></Entry>
 		<Entry Key="DES_SUBRACE_GOB_BOAR_RIDER" Val="Cavaleiro de Javali Goblin"></Entry>
 		<Entry Key="DES_SUBRACE_GOB_BOAR_RIDER_DES" Val="Guerreiros goblins de elite treinados para lutar em suas montarias de javali. Os cavaleiros de javali treinam suas montarias desde a juventude para garantir o melhor vínculo e compreensão entre cavaleiro e javali e, portanto, esse vínculo geralmente se torna muito forte, quase familiar."></Entry>
 		<Entry Key="DES_SUBRACE_GOB_SKIRMISHER" Val="Goblin Escaramuça"></Entry>
-		<Entry Key="DES_SUBRACE_GOB_SKIRMISHER_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_GOB_SKIRMISHER_DES" Val="De pés leves e ágeis, embora não sejam tão resistentes quanto os guerreiros típicos, eles ainda são ferozes e imprevisíveis. Eles podem ter problemas de autoridade devido ao treinamento em células autônomas separadas. Mas se seu clã estiver em perigo, os escaramuçadores são os únicos a travar as batalhas de longo prazo."></Entry>
 		<Entry Key="DES_SUBRACE_DWARF_CHILD" Val="Criança anão"></Entry>
 		<Entry Key="DES_SUBRACE_DWARF_WARMASTER" Val="Anão Mestre de Guerra"></Entry>
 		<Entry Key="DES_SUBRACE_DWARF_WARMASTER_DES" Val="Esculpidos em pedra e metal, os mestres da guerra são antigos, firmes e inabaláveis. Os guerreiros anoes são temidos e respeitados por todos que sabem o que é bom para eles."></Entry>
@@ -819,12 +819,12 @@
 		<Entry Key="DES_SUBRACE_SEA_ARIEL_DES" Val="Uma rainha jurata, uma das primeiras filhas de Jurasmat e Kastitys. Ela amaldiçoou seu amor, Eric, à morte, pois ele falhou em levá-la para a terra e dar-lhe uma vida como humana."></Entry>
 		<Entry Key="DES_SUBRACE_KRAKEN" Val="Kraken"></Entry>
 		<Entry Key="DES_SUBRACE_KRAKEN_DES" Val="Krakens são criaturas de antigas lendas sombrias, retornadas após a destruição para mais uma vez trazer terror aos mares."></Entry>
-		<Entry Key="DES_SUBRACE_AEGIR" Val="Poxa"></Entry>
-		<Entry Key="DES_SUBRACE_AEGIR_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_AEGIR" Val="Gosk"></Entry>
+		<Entry Key="DES_SUBRACE_AEGIR_DES" Val="Uma vez ele foi considerado o mestre do mar do norte, um deus em seu domínio."></Entry>
 		<Entry Key="DES_SUBRACE_JURASMAT" Val="Ele jura"></Entry>
 		<Entry Key="DES_SUBRACE_JURASMAT_DES" Val="A mãe do jurata e a rainha das profundezas submarinas. Outrora um deus prospectivo dos mares, Jurasmat foi derrubado e punido pelos deuses. Irritada e vingativa, ela agora procura provar seu poder."></Entry>
 		<Entry Key="DES_SUBRACE_MIKOLAY" Val="Kastity"></Entry>
-		<Entry Key="DES_SUBRACE_MIKOLAY_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_MIKOLAY_DES" Val="Uma vez um jovem, talvez até um escolhido dos deuses. Ele foi amaldiçoado a viver sua vida como uma árvore que cresceu à beira-mar. Mais tarde, ele foi despertado e parcialmente restaurado, provavelmente por seu amante Jurasmat. Dizem que ele é o pai dos jurata e czytlica, que como ele, são amaldiçoados a viver uma vida como parte humana, parte animal."></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_BABA_YAGA" Val="Baba Yaga"></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_BABA_YAGA_DES" Val="Baba Yaga é um dos demônios eslavos mais antigos, mas sua verdadeira natureza permanece oculta. É uma bruxa que foi longe demais? Uma aparição da escuridão? Ou simplesmente outra alma atormentada torcida pela tristeza?"></Entry>
 		<Entry Key="DES_SUBRACE_DEMON_SKSHACK" Val="Skshack"></Entry>
@@ -905,8 +905,8 @@
 		<Entry Key="DES_SUBRACE_WATER_ELDER_VODNIK" Val="Guia do Ancião"></Entry>
 		<Entry Key="DES_SUBRACE_WATER_LIGHT_SICK_VODNIK" Val="Guia para Enjoos"></Entry>
 		<Entry Key="DES_SUBRACE_WATER_VODNIK_DES" Val="Demônio da água formidável e antigo. Outrora mestre dos lagos e rios, agora desafiado pelo aparecimento dos mares."></Entry>
-		<Entry Key="DES_SUBRACE_WATER_SZUVAREK" Val="Suvarek"></Entry>
-		<Entry Key="DES_SUBRACE_WATER_SZUVAREK_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_WATER_SZUVAREK" Val="Szuvarek"></Entry>
+		<Entry Key="DES_SUBRACE_WATER_SZUVAREK_DES" Val="O rei de todos os vodniks, ele é considerado imortal. Alguns sussurram que Szuvarek é o filho da própria lua e que ele andou pela terra até os dias dos gigantes. Outros dizem que ele voltou à vida quando o primeiro homem se afogou em um lago sob a lua tola. Seja qual for sua origem, ele vive no lago esmeralda e é o rei supremo de todos os demônios da água e, como tal, vem em auxílio de seus parentes em tempos de grande conflito."></Entry>
 		<Entry Key="DES_SUBRACE_WATER_LIGHT_SICK_VODNIK_DES" Val="Demônio da água formidável e antigo que lutou contra um ataque dos portadores da luz, mas não sem um preço. Ele agora é mais fraco do que seus pares."></Entry>
 		<Entry Key="DES_SUBRACE_WATER_RUSALKA" Val="Ondina"></Entry>
 		<Entry Key="DES_SUBRACE_WATER_ELDER_RUSALKA" Val="Ancião Rusalka"></Entry>
@@ -937,7 +937,7 @@
 		<Entry Key="DES_SUBRACE_LIGHT_ENLIGHTENED_HUM_WARRIOR_DES" Val="Humanos tomados pela luz estão vivos e capazes, mas só agem em grupos."></Entry>
 		<Entry Key="DES_SUBRACE_LIGHT_ENLIGHTENED_DWARF_SMITH" Val="Anão Smith doente de luz"></Entry>
 		<Entry Key="DES_SUBRACE_LIGHT_ELDER_ENLIGHTENED_DWARF_SMITH" Val="Anão Ferreiro Ancião Enjoado"></Entry>
-		<Entry Key="DES_SUBRACE_LIGHT_ENLIGHTENED_DWARF_SMITH_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_LIGHT_ENLIGHTENED_DWARF_SMITH_DES" Val="Anões são criaturas esculpidas em luz, como tal, eles ouvem o chamado dos portadores da luz em voz alta. Sua resistência natural é alta, e muitos morrem antes de cair na luz, mas este claramente sucumbiu, e agora serve a colmeia."></Entry>
 		<Entry Key="DES_SUBRACE_LIGHT_ENLIGHTENED_SPIDER_QUEEN" Val="Rainha Aranha enjoada"></Entry>
 		<Entry Key="DES_SUBRACE_LIGHT_ENLIGHTENED_SPIDER_QUEEN_DES" Val="Uma rainha-aranha levada pelos portadores da luz e juntada em sua colmeia de luz."></Entry>
 		<Entry Key="DES_SUBRACE_UNLI_BROKEN_SKELETON" Val="Esqueleto Quebrado"></Entry>
@@ -951,7 +951,7 @@
 		<Entry Key="DES_SUBRACE_UNLI_TOPIELEC" Val="Kelpie"></Entry>
 		<Entry Key="DES_SUBRACE_UNLI_TOPIELEC_DES" Val="Cadáver não-vivo de uma pessoa afogada trazido de volta à não-vida por magia negra."></Entry>
 		<Entry Key="DES_SUBRACE_UNLI_GHOST" Val="Fantasma"></Entry>
-		<Entry Key="DES_SUBRACE_UNLI_GHOST_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_UNLI_GHOST_DES" Val="O espírito de uma pessoa incapaz ou sem vontade de atravessar para os submundos. Fantasmas são muitas vezes ligados a essa não-vida por negócios não resolvidos, ou simplesmente por um forte desejo de manter sua antiga vida."></Entry>
 		<Entry Key="DES_SUBRACE_UNLI_WRAITH" Val="Espectro"></Entry>
 		<Entry Key="DES_SUBRACE_UNLI_ELDER_WRAITH" Val="Aparição Anciã"></Entry>
 		<Entry Key="DES_SUBRACE_UNLI_ANCESTOR_WRAITH" Val="Aparição Ancestral"></Entry>
@@ -983,7 +983,7 @@
 		<Entry Key="DES_SUBRACE_TROLL_SWAMP" Val="Troll do pântano"></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_YOUNG_SWAMP" Val="Troll do pântano jovem"></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_YOUNG_SWAMP_DES" Val="Ainda não é bem um troll, mas não é mais um bebê, os jovens trolls do pântano podem ser muito voláteis e temperamentais. Sua timidez natural se torna ainda mais pronunciada, e eles se tornam hipersensíveis a qualquer forma de crítica, por isso é preciso ter cuidado redobrado ao lidar com eles."></Entry>
-		<Entry Key="DES_SUBRACE_TROLL_SWAMP_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_TROLL_SWAMP_DES" Val="O menos violento do tipo troll, mas não menos perigoso quando pressionado. Seu habitat natural são os pântanos, mas alguns podem se estabelecer do lado de fora."></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_YOUNG_ICE" Val="Troll do Gelo Jovem"></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_YOUNG_ICE_DES" Val="Ainda não é bem um troll, mas não é mais um bebê, os jovens trolls do gelo são conhecidos por se tornarem mais gelados e mesquinhos durante esse período volátil. Propenso a explosoes dramáticas, ou períodos excessivamente longos de isolamento e mau humor, é melhor deixar os jovens à sua própria sorte até a idade adulta."></Entry>
 		<Entry Key="DES_SUBRACE_TROLL_ICE" Val="Troll do Gelo"></Entry>
@@ -1031,7 +1031,7 @@
 		<Entry Key="DES_SUBRACE_NASAROG" Val="Alquimista"></Entry>
 		<Entry Key="DES_SUBRACE_NASAROG_DES" Val="Conhecido apenas como o Alquimista, uma figura vestida de mistério, mas claramente a serviço de seus deuses, ou ele é?"></Entry>
 		<Entry Key="DES_SUBRACE_VIHUR" Val="Vihur"></Entry>
-		<Entry Key="DES_SUBRACE_VIHUR_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_VIHUR_DES" Val="Um demônio elemental do vento que está frequentemente em ligas com bruxas por algum motivo. Eles prosperam durante as tempestades, mas normalmente são inofensivos se você ficar fora do caminho deles."></Entry>
 		<Entry Key="DES_SUBRACE_FOREST_FAIRY" Val="Fada da Floresta"></Entry>
 		<Entry Key="DES_SUBRACE_FOREST_FAIRY_DES" Val="Hoje em dia mais comumente conhecido como fada do dente, um re-branding auto-imposto. É uma criatura feroz e muitas vezes malvada que não espera que você deixe os dentes debaixo do travesseiro, como alguns contadores de histórias ingênuos dirão. Em vez disso, as pessoas que têm dor de dente tomam um cuidado especial para tentar afastar o demônio da floresta, antes que ele arranque o dente agressor à força."></Entry>
 		<Entry Key="DES_SUBRACE_ORC_NECROMANCER" Val="Orc Necromante"></Entry>
@@ -1068,7 +1068,7 @@
 		<Entry Key="DES_SUBRACE_SEA_DRAGON" Val="Dragão do mar"></Entry>
 		<Entry Key="DES_SUBRACE_SEA_DRAGON_DES" Val="O dragão do mar é extremamente raro. A única coisa que se sabe sobre eles é que eles destroem armaduras muito rápido."></Entry>
 		<Entry Key="DES_SUBRACE_ELF_SLAVE" Val="Escravo Élfico"></Entry>
-		<Entry Key="DES_SUBRACE_ELF_SLAVE_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_ELF_SLAVE_DES" Val="Os piratas orcs azuis, como qualquer bandido em Thea, não fogem do comércio de escravos. Mas em seus próprios navios, eles mantêm apenas os escravos élficos, acreditando que isso é um sinal de domínio e força. Elfos escravizados pelos orcs azuis se parecem com seus parentes livres em todos os aspectos, exceto que seus olhos estão tristes e vazios e seus corpos enfraquecidos pelos maus-tratos."></Entry>
 		<Entry Key="DES_SUBRACE_ORC_PIRATE" Val="Pirata Azul"></Entry>
 		<Entry Key="DES_SUBRACE_ELDER_ORC_PIRATE" Val="Pirata Azul Ancião"></Entry>
 		<Entry Key="DES_SUBRACE_ORC_PIRATE_DES" Val="Os piratas azuis são conhecidos por sua ferocidade e amor ao conflito. Quando eles emergiram pela primeira vez, migrantes das quebradas terras ocidentais, eles eram meros escombros de orcs sedentos de sangue em busca de uma nova vida. Mas então foi dito que eles encontraram um novo mestre, um que sussurrava para eles das profundezas das águas. Com o tempo, tornaram-se mais organizados e, portanto, mais perigosos. Pirata é a classificação mais comum, dada a qualquer esperançoso que conseguiu matar seu primeiro inimigo ou encontrar um bom tesouro."></Entry>
@@ -1076,15 +1076,15 @@
 		<Entry Key="DES_SUBRACE_ORC_YOUNG_BOATSWAIN" Val="Jovem contramestre"></Entry>
 		<Entry Key="DES_SUBRACE_ORC_BOATSWAIN_DES" Val="Na boa e velha tradição do folclore pirata, os contramestres são os suboficiais de qualquer bom navio. São eles que garantem uma navegação tranquila, e são eles que pagam por qualquer viagem difícil. Muitos capitães subiram do posto de contramestre."></Entry>
 		<Entry Key="DES_SUBRACE_ORC_COOPER" Val="Tanoeiro"></Entry>
-		<Entry Key="DES_SUBRACE_ORC_COOPER_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_ORC_COOPER_DES" Val="O tanoeiro é um artesão habilidoso que cuida da manutenção do navio. Apesar de sua cultura brutal, os piratas azuis sabem muito bem que não poderiam navegar sem seus cérebros. Os tanoeiros gozam, assim, de boa reputação e proteção de sua tripulação."></Entry>
 		<Entry Key="DES_SUBRACE_BRUTES" Val="Brutos"></Entry>
-		<Entry Key="DES_SUBRACE_BRUTES_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_BRUTES_DES" Val="Bobos volumosos e disformes, os brutos são os músculos dos piratas azuis, não muito espertos, mas brutais em combate. Todos os piratas azuis sofreram mutações aquáticas ao longo dos séculos, provavelmente presentes de seu mestre. Os brutos parecem ter caído no caldeirão quando as referidas mutações foram distribuídas."></Entry>
 		<Entry Key="DES_SUBRACE_QUARTERMASTER" Val="Contramestre"></Entry>
-		<Entry Key="DES_SUBRACE_QUARTERMASTER_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_QUARTERMASTER_DES" Val="Personagens poderosos e misteriosos, muitas vezes mais temidos por aqueles que enxergam além da força bruta. Os contramestres são o pescoço de qualquer bom navio. São eles que orientam seus capitães na direção certa. Eles devem andar na linha entre a tripulação e o líder, para garantir que sejam amigos de ambos. Os contramestres também são abençoados pelas águas profundas com poder místico que lhes permite guiar o navio mesmo nas piores condições."></Entry>
 		<Entry Key="DES_SUBRACE_PIRATE_CAPTAIN" Val="Capitão pirata"></Entry>
-		<Entry Key="DES_SUBRACE_PIRATE_CAPTAIN_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_PIRATE_CAPTAIN_DES" Val="Há muitas maneiras de se tornar capitão de um navio pirata e nenhuma é bonita. Como tal, eles são tipicamente mesquinhos, ásperos e distantes para que possam governar com mão de ferro. Um capitão pode ser desafiado a qualquer momento, então eles precisam permanecer afiados, vigilantes e fortes. Muitos perdem membros ou inteligência durante a escalada para o poder e, portanto, muitas vezes podem ter pernas de pau e animais de estimação estranhos como companheiros."></Entry>
 		<Entry Key="DES_SUBRACE_PIRATE_CAPTAIN_ERICK" Val="Capitão Eric"></Entry>
-		<Entry Key="DES_SUBRACE_PIRATE_CAPTAIN_ERICK_DES" Val=""></Entry>
+		<Entry Key="DES_SUBRACE_PIRATE_CAPTAIN_ERICK_DES" Val="O capitão de um navio não-vivo, tripulado por homens ligados à não-vida por alguma velha maldição. Alguns chamam o capitão de príncipe, pois este já foi seu posto. A força vital de Eric está ligada ao seu antigo amante, um jurata, mas os dois estão separados há muito tempo."></Entry>
 		<Entry Key="DES_SUBRACE_ORC_PIRATE_CHILD" Val="criança pirata"></Entry>
 		<Entry Key="DES_SUBRACE_ORC_PIRATE_CHILD_DES" Val="Um jovem orc azul, nascido na vida de pirata e destinado a crescer como saqueador e ladino."></Entry>
 		<Entry Key="DES_SUBRACE_GHOST_BALLIST" Val="Balista Fantasma"></Entry>
@@ -2164,7 +2164,7 @@
 		<Entry Key="DES_PET_CHICKEN" Val="galo eslavo"></Entry>
 		<Entry Key="DES_PET_CHICKEN_DES" Val="Seu Slavyan Cock é a inveja de todos os seus vizinhos."></Entry>
 		<Entry Key="DES_PET_PUMPKIN" Val="Abóbora"></Entry>
-		<Entry Key="DES_PET_PUMPKIN_DES" Val=""></Entry>
+		<Entry Key="DES_PET_PUMPKIN_DES" Val="Este amiguinho foi esculpido para celebrar a véspera de Todos os Santos, mas através de truques demoníacos ou alguma outra magia negra, foi despertado. Parece gostar muito de você e te segue aonde quer que você vá - apesar de não ter pernas."></Entry>
 		<Entry Key="DES_PET_PARROT" Val="Papagaio"></Entry>
 		<Entry Key="DES_PET_PARROT_DES" Val="Por favor, insira biscoitos."></Entry>
 		<Entry Key="DES_PET_CRAB" Val="Caranguejo"></Entry>
@@ -2460,8 +2460,8 @@
 		<Entry Key="DES_SKILL_GATHERING_TOOL_DES" Val="Fornece um bônus aos atributos de Coleta e Rituais quando equipado. Também aumenta o Group Carry."></Entry>
 		<Entry Key="DES_SKILL_STRONG_GATHERING_TOOL" Val="Auxílio ao Colecionador"></Entry>
 		<Entry Key="DES_SKILL_STRONG_GATHERING_TOOL_DES" Val="Fornece um bônus aos atributos de Coleta e Transporte Pessoal quando equipado."></Entry>
-		<Entry Key="DES_SKILL_WEAK_MULTI_CRAFTING_TOOL" Val=""></Entry>
-		<Entry Key="DES_SKILL_WEAK_ADD_CRAFTING_TOOL" Val=""></Entry>
+		<Entry Key="DES_SKILL_WEAK_MULTI_CRAFTING_TOOL" Val="Ajuda do Artesão"></Entry>
+		<Entry Key="DES_SKILL_WEAK_ADD_CRAFTING_TOOL" Val="Ajuda do Trabalhador"></Entry>
 		<Entry Key="DES_SKILL_WEAK_CRAFTING_TOOL_DES" Val="Fornece um bônus ao atributo Construção quando equipado."></Entry>
 		<Entry Key="DES_SKILL_WEAK_ADD_CRAFTING_TOOL_DES" Val="Fornece um bônus ao atributo Construção quando equipado."></Entry>
 		<Entry Key="DES_SKILL_CRAFTING_TOOL" Val="Ajuda do inventor"></Entry>
@@ -2740,11 +2740,11 @@
 		<Entry Key="DES_SKILL_RACE_NIGHT_DEMON_FLYING" Val="Demônio da Noite Voadora"></Entry>
 		<Entry Key="DES_SKILL_RACE_NIGHT_DEMON_DES" Val="O personagem é um demônio da noite. Eles recebem um bônus de Fé e um ataque Mental especial. Eles são fracos durante o dia e mais fortes durante a noite."></Entry>
 		<Entry Key="DES_SKILL_RACE_UNLI" Val="Não-vivo"></Entry>
-		<Entry Key="DES_SKILL_RACE_UNLI_DES" Val=""></Entry>
+		<Entry Key="DES_SKILL_RACE_UNLI_DES" Val="O personagem é um não-vivo. Despertado por um chamado místico e recebendo uma nova força vital. Eles estão mortos, então isso os torna fisicamente mais fortes."></Entry>
 		<Entry Key="DES_SKILL_RACE_UNLI_SPIDER" Val="Aranha morta"></Entry>
 		<Entry Key="DES_SKILL_RACE_UNLI_SPIDER_DES" Val="O personagem é uma aranha sem vida. Despertado por um chamado místico e recebendo uma nova força vital. Está morto, por isso os torna fisicamente mais resistentes e oito pernas cobertas de pêlos com mais olhos do que você pode contar certamente serão úteis ao executar tarefas manuais."></Entry>
 		<Entry Key="DES_SKILL_RACE_DRAGON" Val="Dragão"></Entry>
-		<Entry Key="DES_SKILL_RACE_DRAGON_DES" Val=""></Entry>
+		<Entry Key="DES_SKILL_RACE_DRAGON_DES" Val="O personagem é um dragão. Uma fera antiga e inteligente temida ao longo dos tempos. Conhecido por gostar de ouro, pedras preciosas e virgens."></Entry>
 		<Entry Key="DES_SKILL_RACE_DRAGON_ZMEY" Val="Zmey"></Entry>
 		<Entry Key="DES_SKILL_RACE_DRAGON_ZMEY_DES" Val="O personagem é um zmey. Sempre conectado à escuridão, mas também à árvore da vida, um inimigo ou amigo, nunca se pode saber com o zmey."></Entry>
 		<Entry Key="DES_SKILL_RACE_UNLI_DRAGON" Val="Dragão não-vivo"></Entry>
@@ -3413,7 +3413,7 @@
 		<Entry Key="DES_SUBSKILL_STRONG_INSPIRE_STANCE_DES" Val="Quando esta carta entra no campo de batalha, ela diminui o Atraso de um Aliado aleatório e aumenta muito seus Atributos de Combate."></Entry>
 		<Entry Key="DES_SUBSKILL_BLOODY_INSPIRE_STANCE" Val="Presença inspiradora sangrenta"></Entry>
 		<Entry Key="DES_SUBSKILL_BLOODY_INSPIRE_STANCE_DES" Val="Quando esta carta entra no campo de batalha, ela diminui o Atraso de um Aliado aleatório e aumenta seus Atributos de Combate ao custo de 25% da Saúde atual do lançador."></Entry>
-		<Entry Key="DES_SUBSKILL_BLOOD_BROTHERHOOD" Val=""></Entry>
+		<Entry Key="DES_SUBSKILL_BLOOD_BROTHERHOOD" Val="Irmandade de Sangue"></Entry>
 		<Entry Key="DES_SUBSKILL_BLOOD_BROTHERHOOD_DES" Val="Diminui o atraso do aliado ferido e aumenta seus atributos de combate."></Entry>
 		<Entry Key="DES_SUBSKILL_HURRY_UP" Val="Se apresse!"></Entry>
 		<Entry Key="DES_SUBSKILL_HURRY_UP_DES" Val="Diminui o atraso de um aliado selecionado."></Entry>
@@ -4410,13 +4410,13 @@
 		<Entry Key="DES_DARKNESS_HILL" Val="Colinas da Escuridão"></Entry>
 		<Entry Key="DES_DARKNESS_HILL_DES" Val="Nas terras varridas por rajadas de névoa negra, um resquício de tempos mais sombrios, as encostas podem rapidamente se tornar traiçoeiras. Você pode encontrar pedreiras antigas e cavernas escondidas aqui, mas cuidado com o que pode se esconder lá dentro."></Entry>
 		<Entry Key="DES_DARKNESS_SWAMP" Val="Pântanos da Escuridão"></Entry>
-		<Entry Key="DES_DARKNESS_SWAMP_DES" Val=""></Entry>
+		<Entry Key="DES_DARKNESS_SWAMP_DES" Val="Pântanos da Escuridão - pântanos comuns são considerados lugares sombrios e estranhos, cheios de perigos à espreita na névoa. Mas quando você se encontra nos pântanos da escuridão, isso parece uma descrição gentil."></Entry>
 		<Entry Key="DES_DARKNESS_PLAINS" Val="Planícies das Trevas"></Entry>
 		<Entry Key="DES_DARKNESS_PLAINS_DES" Val="Planícies da Escuridão estão cheias de ossos de criaturas que caíram no pavor da névoa negra. Por razoes desconhecidas, a força das trevas permanece aqui e continua a diminuir qualquer chance dessas planícies florescerem novamente."></Entry>
 		<Entry Key="DES_DARKNESS_DESERT" Val="Terra Seca da Escuridão"></Entry>
 		<Entry Key="DES_DARKNESS_DESERT_DES" Val="Nas terras devastadas pela escuridão, a terra seca permanece como um lembrete de sua força destrutiva. Nenhuma vida pode realmente prosperar aqui, pelo menos não uma que não seja preenchida com a força perigosa. Talvez seja a razão para os elfos das sombras banidos e seus novos parentes, os mroki, preferirem tal terreno e chamá-lo de seu."></Entry>
 		<Entry Key="DES_DARKNESS_FOREST" Val="Floresta das Trevas"></Entry>
-		<Entry Key="DES_DARKNESS_FOREST_DES" Val=""></Entry>
+		<Entry Key="DES_DARKNESS_FOREST_DES" Val="Florestas da Escuridão são lugares incomuns. As árvores permanecem retorcidas com a mácula, transformando-as em madeira escura, ou simplesmente cascas ocas. É mais provável que os carvalhos verdes sejam grandes, enormes crescimentos de fungos, brilhando em cores insalubres à noite. É provavelmente por isso que muitas tribos de goblins decidiram se estabelecer aqui."></Entry>
 		<Entry Key="DES_ICY_MOUNTAIN" Val="Montanhas de gelo"></Entry>
 		<Entry Key="DES_ICY_MOUNTAIN_DES" Val="Os picos gelados das cadeias de montanhas nessas terras são tão traiçoeiros quanto solitários. Aqui o dziad mroz e suas avós, os sniezynki, dominam e não gostam de visitantes."></Entry>
 		<Entry Key="DES_ICY_HILL" Val="Colinas de Gelo"></Entry>
@@ -4466,7 +4466,7 @@
 		<Entry Key="DES_METALLIC_FOREST" Val="Floresta Metálica"></Entry>
 		<Entry Key="DES_METALLIC_FOREST_DES" Val="Anoes não gostam de florestas e sua terra natal parece compartilhar esse sentimento. As árvores aqui são escassas e, na maioria das vezes, sua casca fica infestada com um tom metálico ou uma doença de pedra que impede o crescimento."></Entry>
 		<Entry Key="DES_GROUP" Val="Grupo"></Entry>
-		<Entry Key="DES_SPACE" Val=""></Entry>
+		<Entry Key="DES_SPACE" Val=" "></Entry>
 		<Entry Key="DES_ELEMENTAL" Val="Elementar"></Entry>
 		<Entry Key="DES_LEGENDARY" Val="Lendário"></Entry>
 		<Entry Key="DES_SKILL_WEAPON_SKILL" Val="Arma"></Entry>
