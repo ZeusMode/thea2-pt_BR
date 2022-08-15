@@ -3398,7 +3398,7 @@ Você deve aderir às leis da natureza, ao equilíbrio eterno de toda a vida e, 
       <outputs name="Diga que você precisa considerar suas opçoes." ownerID="21" targetID="67" fromX="4329" fromY="995" />— Vou lhe dizer uma coisa, você parece ser do tipo bom. Você diz que serve aos deuses e eu não estou convencido disso, mas eu sei que aqueles vagabundos lá embaixo não vão se importar nem um pouco. Então, se o mundo precisa ser salvo, eu e os meninos vamos ficar quietos por duas semanas, fazendo com que pensem que estamos fora. Vai ser mais divertido assim de qualquer maneira. Combinado?'</nodes>
     <nodes xsi:type="NodeAdventure" ID="22" positionX="4868" positionY="1268" width="350" height="805">
       <outputs name="Aceita." ownerID="22" targetID="24" fromX="5193" fromY="776" />
-      <outputs name="Isso é perder tempo, ataque!" ownerID="22" targetID="16" fromX="5193" fromY="696" />— Desculpe, melhor oferta. É pegar ou largar.'</nodes>
+      <outputs name="Isso é perder tempo, ataque!" ownerID="22" targetID="16" fromX="5193" fromY="696" />'Desculpe, melhor oferta. É pegar ou largar.'</nodes>
     <nodes xsi:type="NodeSpawnOnMap" ID="23" positionX="5776" positionY="1544" width="480" height="503" radius="0" destroyOwner="true" linkedEventUniqueID="0">
       <outputs ownerID="23" targetID="26" fromX="6224" fromY="1111" />
     </nodes>
@@ -4451,6 +4451,8 @@ Você deve aderir às leis da natureza, ao equilíbrio eterno de toda a vida e, 
     </nodes>
     <nodes xsi:type="NodeAdventure" ID="21" positionX="3604" positionY="-287" width="350" height="725">
       <outputs name="Dê uma olhada ao redor." ownerID="21" targetID="13" fromX="3929" fromY="-778" />Cuidadosamente, você desvenda as tramas complexas que mantêm a barreira erguida, e tudo desmorona, permitindo que você entre.</nodes>
+    <nodes xsi:type="NodeAdventure" ID="22" positionX="3676" positionY="-1010" width="350" height="725">
+      <outputs name="Take a look around. " ownerID="22" targetID="13" fromX="4001" fromY="-1501" />Cuidadosamente, você estuda o mecanismo antigo e, com muito cuidado, encontra a combinação certa para fazê-lo funcionar. A barreira se abre, permitindo que você entre.</nodes>
     <nodes xsi:type="NodeAdventure" ID="23" positionX="4202" positionY="-96" width="350" height="725">
       <outputs name="Saia e volte quando estiver pronto para enfrentar esse desafio." ownerID="23" targetID="16" fromX="4527" fromY="-587" />Você tenta desvendar as tramas complexas que seguram essa barreira, mas não consegue, e o esforço esgota seu espírito.</nodes>
     <nodes xsi:type="NodeDealDamage" ID="24" positionX="4139" positionY="-814" width="460" height="459" challengeTypeDamage="TypeSpirit" minDamage="20" maxDamage="30" useCountInPercent="true" targetGroup="magicusers">
